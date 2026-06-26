@@ -1,7 +1,6 @@
 import feedparser
 import psycopg2
 from datetime import datetime
-
 # اتصال به دیتابیس Supabase (اطلاعات را از پنل خود جایگزین کنید)
 DB_CONN = "postgresql://postgres:1359arsMeh%40@db.zmxsoglhttfzuccdwtgc.supabase.co:5432/postgres"
 
