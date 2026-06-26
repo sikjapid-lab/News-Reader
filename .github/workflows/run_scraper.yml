@@ -1,0 +1,25 @@
+name: Hourly News Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *' # اجرای خودکار در دقیقه ۰ هر ساعت (۲۴ بار در روز)
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10' # تصحیح شد: فیلد استاندارد پایتون نسخه ۳.۱۰ است
+
+    - name: Install Dependencies
+      run: |
+        pip install feedparser psycopg2-binary
+
+    - name: Run Scraper
+      run: python fetch_news.py
