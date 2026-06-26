@@ -3,7 +3,7 @@ import psycopg2
 from datetime import datetime
 
 # اتصال به دیتابیس Supabase (اطلاعات را از پنل خود جایگزین کنید)
-DB_CONN = "postgresql://postgres:[1357!#%(ArsMeh]@db.zmxsoglhttfzuccdwtgc.supabase.co:5432/postgres"
+DB_CONN = "postgresql://postgres:1359arsMeh%40@db.zmxsoglhttfzuccdwtgc.supabase.co:5432/postgres"
 
 # کلیدواژه‌های فیلترینگ شما
 KEYWORDS = ["military", "geopolitics", "drone", "naval", "security", "sanction"]
