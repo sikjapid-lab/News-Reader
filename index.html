@@ -3,16 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>سامانه پیشرفته پایش و آرشیو جامع اخبار جهان‌نما AI</title>
+    <title>سامانه پیشرفته پایش هوشمند و آرشیو جامع اخبار جهان‌نما AI</title>
     
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Leaflet GIS Map & Cluster Engine -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
 
+    <!-- FontAwesome & PDF Exporter -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
@@ -20,7 +23,13 @@
         tailwind.config = {
             darkMode: 'class',
             theme: {
-                extend: { colors: { primary: '#2563eb', darkbg: '#0f172a', carddark: '#1e293b' } }
+                extend: { 
+                    colors: { 
+                        primary: '#2563eb', 
+                        darkbg: '#0f172a', 
+                        carddark: '#1e293b' 
+                    } 
+                }
             }
         }
     </script>
@@ -30,7 +39,7 @@
         .map-fullscreen { position: fixed !important; top: 0 !important; left: 0 !important; width: 100vw !important; height: 100vh !important; z-index: 9999 !important; border-radius: 0 !important; }
         .custom-marker { display: flex; align-items: center; justify-content: center; border-radius: 50%; color: white; font-size: 13px; border: 2px solid white; box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
         .ticker-wrap { width: 100%; overflow: hidden; white-space: nowrap; }
-        .ticker-move { display: inline-block; animation: ticker 40s linear infinite; }
+        .ticker-move { display: inline-block; animation: ticker 45s linear infinite; }
         .ticker-move:hover { animation-play-state: paused; }
         @keyframes ticker { 0% { transform: translate3d(100%, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
         .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
@@ -39,18 +48,18 @@
 </head>
 <body class="bg-slate-100 text-slate-800 dark:bg-darkbg dark:text-slate-100 transition-colors duration-200 min-h-screen">
 
-    <!-- Top Live Ticker -->
+    <!-- Live Breaking Ticker Bar -->
     <div class="bg-red-700 text-white text-xs py-1.5 px-4 flex items-center justify-between shadow-md">
         <div class="flex items-center gap-2 font-bold shrink-0 bg-red-900 px-2 py-0.5 rounded">
             <i class="fa-solid fa-bolt animate-pulse text-amber-300"></i> اخبار فوری جهان
         </div>
         <div class="ticker-wrap mx-4">
-            <div id="breakingTicker" class="ticker-move text-xs font-semibold">در حال استعلام جدیدترین اخبار لحظه‌ای...</div>
+            <div id="breakingTicker" class="ticker-move text-xs font-semibold">در حال دریافت و بارگذاری آخرین اخبار لحظه‌ای...</div>
         </div>
         <div class="text-[10px] opacity-80 shrink-0 hidden md:block" id="liveClock"></div>
     </div>
 
-    <!-- Header & Navigation -->
+    <!-- Main Navigation Header -->
     <header class="sticky top-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur border-b border-slate-200 dark:border-slate-800 shadow-sm">
         <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
             <div class="flex items-center gap-3">
@@ -59,17 +68,17 @@
                 </div>
                 <div>
                     <h1 class="text-lg font-black tracking-tight text-slate-900 dark:text-white flex items-center gap-2">
-                        سامانه جهان‌نما AI <span class="bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 text-xs px-2 py-0.5 rounded-md">آارشیو و پایش زنده</span>
+                        سامانه جهان‌نما AI <span class="bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 text-xs px-2 py-0.5 rounded-md">پایش زنده و آرشیو جامع</span>
                     </h1>
-                    <p class="text-xs text-slate-500">پایش بی‌درنگ بیش از ۲۵ منبع خبری معتبر بین‌المللی</p>
+                    <p class="text-xs text-slate-500">پایش هوشمند و خودکار بیش از ۳۰ منبع خبری بین‌المللی</p>
                 </div>
             </div>
 
-            <!-- View Switcher & Actions -->
+            <!-- Header Controls & View Mode -->
             <div class="flex items-center gap-2">
                 <div class="bg-slate-200 dark:bg-slate-800 p-1 rounded-xl flex gap-1">
                     <button id="btnViewLive" onclick="switchView('live')" class="px-3 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-700 text-blue-600 shadow">پایش زنده</button>
-                    <button id="btnViewArchive" onclick="switchView('archive')" class="px-3 py-1.5 rounded-lg text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-blue-600">آرشیو جامع</button>
+                    <button id="btnViewArchive" onclick="switchView('archive')" class="px-3 py-1.5 rounded-lg text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-blue-600">آرشیو کامل دیتابیس</button>
                 </div>
 
                 <button onclick="forceRefreshData()" class="p-2.5 rounded-xl bg-blue-600 text-white hover:bg-blue-700 font-bold text-xs flex items-center gap-1 shadow-sm" title="بروزرسانی زنده">
@@ -86,15 +95,15 @@
 
     <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
 
-        <!-- Real-time Analytics -->
+        <!-- Analytics Dashboard Panel -->
         <section class="grid grid-cols-2 md:grid-cols-5 gap-3">
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3">
                 <div class="p-3 bg-blue-100 text-blue-600 rounded-xl"><i class="fa-solid fa-database text-lg"></i></div>
-                <div><p class="text-[11px] text-slate-500">کل اخبار دیتابیس</p><h4 id="statTotalNews" class="text-base font-black">0</h4></div>
+                <div><p class="text-[11px] text-slate-500">کل اخبار آرشیو شده</p><h4 id="statTotalNews" class="text-base font-black">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3">
                 <div class="p-3 bg-emerald-100 text-emerald-600 rounded-xl"><i class="fa-solid fa-filter text-lg"></i></div>
-                <div><p class="text-[11px] text-slate-500">نتایج جاری</p><h4 id="statFilteredNews" class="text-base font-black">0</h4></div>
+                <div><p class="text-[11px] text-slate-500">نتایج فیلتر شده</p><h4 id="statFilteredNews" class="text-base font-black">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3">
                 <div class="p-3 bg-purple-100 text-purple-600 rounded-xl"><i class="fa-solid fa-rss text-lg"></i></div>
@@ -102,7 +111,7 @@
             </div>
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3">
                 <div class="p-3 bg-amber-100 text-amber-600 rounded-xl"><i class="fa-solid fa-eye text-lg"></i></div>
-                <div><p class="text-[11px] text-slate-500">بازدید اخبار</p><h4 id="statClicks" class="text-base font-black">0</h4></div>
+                <div><p class="text-[11px] text-slate-500">آمار بازدید اخبار</p><h4 id="statClicks" class="text-base font-black">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3 col-span-2 md:col-span-1">
                 <div class="p-3 bg-rose-100 text-rose-600 rounded-xl"><i class="fa-solid fa-clock-history text-lg"></i></div>
@@ -110,12 +119,12 @@
             </div>
         </section>
 
-        <!-- GIS Map Section (Visible in Live Mode) -->
+        <!-- Multi-Layer GIS Map (Visible on Live Mode) -->
         <section id="mapContainer" class="bg-white dark:bg-carddark p-4 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800">
             <div class="flex items-center justify-between mb-3">
                 <div class="flex items-center gap-2">
                     <span class="p-2 bg-blue-100 dark:bg-blue-900/40 text-blue-600 rounded-lg"><i class="fa-solid fa-map-location-dot"></i></span>
-                    <h2 class="text-sm font-bold">نقشه GIS پراکندگی اخبار لحظه‌ای</h2>
+                    <h2 class="text-sm font-bold">نقشه GIS پراکندگی اخبار بر روی کره زمین</h2>
                 </div>
                 <button onclick="toggleMapFullscreen()" class="px-3 py-1.5 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 text-slate-700 dark:text-slate-200 rounded-xl text-xs font-bold flex items-center gap-1.5">
                     <i class="fa-solid fa-expand" id="fullscreenIcon"></i> <span id="fullscreenText">تمام صفحه</span>
@@ -124,11 +133,11 @@
             <div id="map"></div>
         </section>
 
-        <!-- Search Engine & Filters -->
+        <!-- Advanced Search, Filter & Export Engine -->
         <section class="bg-white dark:bg-carddark p-5 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 space-y-4">
             <div class="grid grid-cols-1 md:grid-cols-5 gap-3">
                 <div class="relative md:col-span-2">
-                    <input type="text" id="searchInput" oninput="filterNews()" placeholder="جستجوی پیشرفته در تمامی عناوین و متون آرشیو..." class="w-full pl-8 pr-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs focus:ring-2 focus:ring-blue-500 focus:outline-none">
+                    <input type="text" id="searchInput" oninput="filterNews()" placeholder="جستجوی پیشرفته در تمامی عناوین و متون اخبار آرشیو..." class="w-full pl-8 pr-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs focus:ring-2 focus:ring-blue-500 focus:outline-none">
                     <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-400 text-xs"></i>
                 </div>
                 
@@ -181,11 +190,11 @@
         </div>
     </div>
 
-    <!-- Application Engine Script -->
+    <!-- Application Script Engine -->
     <script>
         let allArticles = [];
         let filteredArticles = [];
-        let currentView = 'live'; // 'live' or 'archive'
+        let currentView = 'live'; 
         let map, clusterGroup;
         let isFullscreen = false;
 
@@ -194,7 +203,7 @@
             initMap();
             forceRefreshData();
             
-            // بروزرسانی خودکار هر ۶۰ ثانیه
+            // بروزرسانی خودکار دیتابیس هر ۶۰ ثانیه
             setInterval(() => { forceRefreshData(); }, 60000);
         });
 
@@ -251,7 +260,7 @@
                 filterNews();
                 updateBreakingTicker();
             } catch (err) {
-                console.error("خطا در بارگذاری دیتابیس اخبار:", err);
+                console.error("خطا در دریافت دیتابیس اخبار:", err);
             } finally {
                 if(spinner) setTimeout(() => spinner.classList.remove('animate-spin'), 600);
             }
@@ -287,7 +296,7 @@
         }
 
         function updateBreakingTicker() {
-            const breaking = allArticles.slice(0, 10);
+            const breaking = allArticles.slice(0, 12);
             if (breaking.length > 0) {
                 const tickerText = breaking.map(a => `🌐 [${a.source || 'خبر'}] ${a.title_fa || a.title}`).join(' &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ');
                 document.getElementById('breakingTicker').innerHTML = tickerText;
@@ -298,7 +307,7 @@
             clusterGroup.clearLayers();
             let bounds = [];
 
-            articles.slice(0, 150).forEach(art => { // نمایش ۱۵۰ مارکر برتر روی نقشه
+            articles.slice(0, 200).forEach(art => { 
                 const geo = art.geo || { lat: 20.0, lng: 0.0 };
                 const customIcon = L.divIcon({
                     className: 'custom-div-icon',
@@ -311,7 +320,7 @@
                     <div style="direction:rtl; text-align:right;" class="space-y-1">
                         <span class="text-[10px] bg-blue-600 text-white px-2 py-0.5 rounded font-bold">${art.source || 'خبر'}</span>
                         <h4 class="font-bold text-xs mt-1">${art.title_fa || art.title}</h4>
-                        <button onclick="openNewsModal('${art.id}')" class="mt-2 text-xs bg-blue-600 text-white w-full py-1 rounded">مطالعه خبر</button>
+                        <button onclick="openNewsModal('${art.id}')" class="mt-2 text-xs bg-blue-600 text-white w-full py-1 rounded">مطالعه کامل</button>
                     </div>
                 `);
                 clusterGroup.addLayer(marker);
@@ -380,7 +389,6 @@
 
             if (sort === 'oldest') filteredArticles.reverse();
 
-            // اگر در حالت پایش زنده بودیم، اخبار محدودتر و مارکرها آپدیت شوند
             const displayList = (currentView === 'live') ? filteredArticles.slice(0, 60) : filteredArticles;
 
             renderNewsGrid(displayList);
@@ -421,7 +429,7 @@
             let bulletinHTML = `
                 <div style="font-family: Tahoma, sans-serif; direction: rtl; text-align: right; padding: 20px;">
                     <div style="background-color: #1e3a8a; color: white; padding: 20px; text-align: center; border-radius: 8px;">
-                        <h1 style="margin: 0;">بولتن جامع آرشیو و پایش اخبار جهان‌نما AI</h1>
+                        <h1 style="margin: 0;">بولتن جامع پایش اخبار جهان‌نما AI</h1>
                         <p style="margin: 5px 0 0 0; font-size: 12px;">تاریخ تنظیم: ${dateStr} | تعداد اخبار: ${filteredArticles.slice(0, 30).length}</p>
                     </div>
                     <br>
