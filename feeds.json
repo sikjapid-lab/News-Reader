@@ -18,7 +18,5 @@
   {"url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "source": "Wall Street Journal", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
   {"url": "https://ft.com/rss/home/uk", "source": "Financial Times", "category": "اقتصاد و بازار", "region": "اروپا"},
   {"url": "https://cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
-  {"url": "https://marketwatch.com/rss/topstories", "source": "MarketWatch", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
-  {"url": "https://defense.gov/DesktopModules/ArticleCS/RSS.aspx?ContentType=400&Site=945", "source": "Defense News", "category": "سیاست", "region": "بین‌المللی"},
-  {"url": "https://www.militarytimes.com/arc/outboundfeeds/rss/", "source": "Military Times", "category": "سیاست", "region": "بین‌المللی"}
+  {"url": "https://marketwatch.com/rss/topstories", "source": "MarketWatch", "category": "اقتصاد و بازار", "region": "بین‌المللی"}
 ]
