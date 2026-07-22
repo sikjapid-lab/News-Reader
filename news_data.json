@@ -1,7 +1,385 @@
 {
-  "last_update": "2026-07-22 12:55:40",
-  "total_count": 418,
+  "last_update": "2026-07-22 15:09:31",
+  "total_count": 513,
   "articles": [
+    {
+      "id": "ee32a8a6298a60c27ae2352c0b093f73",
+      "title": "نیکلاس مادورو در پرونده قاچاق مواد مخدر آمریکا به دادگاه بازگشت",
+      "title_fa": "نیکلاس مادورو در پرونده قاچاق مواد مخدر آمریکا به دادگاه بازگشت",
+      "title_en": "Nicolas Maduro returns to court in US drug trafficking case",
+      "summary": "ایالات متحده در ماه آوریل به ونزوئلا اجازه داد تا هزینه دفاع قانونی مادورو و فلورس را بپردازد، چیزی که قبلاً تحت تحریم های ایالات متحده ممنوع بود.",
+      "summary_fa": "ایالات متحده در ماه آوریل به ونزوئلا اجازه داد تا هزینه دفاع قانونی مادورو و فلورس را بپردازد، چیزی که قبلاً تحت تحریم های ایالات متحده ممنوع بود.",
+      "summary_en": "The US in April allowed Venezuela to pay for Maduro's and Flores's legal defence, something previously prohibited under US sanctions.",
+      "link": "http://www.euronews.com/2026/07/22/nicolas-maduro-returns-to-court-in-us-drug-trafficking-case",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 16:54:57 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fa4d4d3805e4b502873a5b6315616efc",
+      "title": "دادستان مجارستان تحت فشار برای پیروزی سیاسی مجارستان استعفا داد",
+      "title_fa": "دادستان مجارستان تحت فشار برای پیروزی سیاسی مجارستان استعفا داد",
+      "title_en": "Hungary's prosecutor resigns under pressure in political win for Magyar",
+      "summary": "گابور بالینت ناگی، دادستان کل مجارستان، در بحبوحه فشارهای سیاسی فزاینده، در حالی که نخست وزیر پیتر ماگیار به دنبال جایگزینی مقامات دوره اوربان است، استعفا داد. این اقدام به دنبال ادعاهای سوگیری سیاسی توسط وکلای پیک های نقدی اوکراینی بازداشت شده در پرونده توقیف پول نقد برون مرزی صورت گرفت.",
+      "summary_fa": "گابور بالینت ناگی، دادستان کل مجارستان، در بحبوحه فشارهای سیاسی فزاینده، در حالی که نخست وزیر پیتر ماگیار به دنبال جایگزینی مقامات دوره اوربان است، استعفا داد. این اقدام به دنبال ادعاهای سوگیری سیاسی توسط وکلای پیک های نقدی اوکراینی بازداشت شده در پرونده توقیف پول نقد برون مرزی صورت گرفت.",
+      "summary_en": "Hungary's Prosecutor General, Gábor Bálint Nagy, has resigned amid mounting political pressure as Prime Minister Péter Magyar seeks to replace Orbán-era officials. The move follows allegations of political bias by lawyers for detained Ukrainian cash couriers in a cross-border cash seizure case.",
+      "link": "http://www.euronews.com/my-europe/2026/07/22/hungarys-prosecutor-resigns-under-pressure-in-political-win-for-magyar",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 16:45:20 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "bca7a3806484b0b01cc8f16ef88bc688",
+      "title": "آفت‌کش‌های «فاجعه‌بار» که وزیر محیط‌زیست فرانسه را وادار به تلاش برای استعفا کرد، چیست؟",
+      "title_fa": "آفت‌کش‌های «فاجعه‌بار» که وزیر محیط‌زیست فرانسه را وادار به تلاش برای استعفا کرد، چیست؟",
+      "title_en": "What are the ‘catastrophic’ pesticides that led France’s environment minister to try and quit?",
+      "summary": "ثابت شده است که استامیپرید و فلوپیرادیفورون به زنبور عسل آسیب می زند و می تواند برای رشد مغز کودکان خطرآفرین باشد.",
+      "summary_fa": "ثابت شده است که استامیپرید و فلوپیرادیفورون به زنبور عسل آسیب می زند و می تواند برای رشد مغز کودکان خطرآفرین باشد.",
+      "summary_en": "Acetamiprid and flupyradifurone have been proven to harm bees and could be a risk to children’s developing brains.",
+      "link": "http://www.euronews.com/2026/07/22/what-are-the-catastrophic-pesticides-that-led-frances-environment-minister-to-quit",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 16:17:23 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "cfb26d10035ce0d47abbee7f64879b89",
+      "title": "آلودگی میکروپلاستیک دریایی: دانشمندان چگونه آن را تشخیص می دهند | گفتگوهای فنی یورونیوز",
+      "title_fa": "آلودگی میکروپلاستیک دریایی: دانشمندان چگونه آن را تشخیص می دهند | گفتگوهای فنی یورونیوز",
+      "title_en": "Marine microplastic pollution: How scientists detect it | Euronews Tech Talks",
+      "summary": "اقیانوس توسط قطعات پلاستیکی ریز آلوده شده است که تشخیص آنها دشوار است اما می تواند به اکوسیستم های دریایی آسیب برساند. Euronews Tech Talks برای درک خطرات ناشی از میکروپلاستیک های دریایی به مؤسسه دریایی فلاندر سفر کرد.",
+      "summary_fa": "اقیانوس توسط قطعات پلاستیکی ریز آلوده شده است که تشخیص آنها دشوار است اما می تواند به اکوسیستم های دریایی آسیب برساند. Euronews Tech Talks برای درک خطرات ناشی از میکروپلاستیک های دریایی به مؤسسه دریایی فلاندر سفر کرد.",
+      "summary_en": "The ocean is polluted by tiny plastic fragments that are difficult to detect but can harm marine ecosystems. Euronews Tech Talks travelled to the Flanders Marine Institute to understand the risks posed by marine microplastics.",
+      "link": "http://www.euronews.com/next/2026/07/22/marine-microplastic-pollution-how-scientists-detect-it-euronews-tech-talks",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 16:08:58 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1ebffda3f3594d9a2e8e3e288fd3dfe3",
+      "title": "برخورد دو تراموا در پل اراسموس روتردام 15 زخمی برجای گذاشت",
+      "title_fa": "برخورد دو تراموا در پل اراسموس روتردام 15 زخمی برجای گذاشت",
+      "title_en": "Two trams collide on Rotterdam's Erasmus Bridge, injuring 15",
+      "summary": "تصاویر ویدئویی منتشر شده در شبکه های اجتماعی لحظه برخورد دو تراموا را نشان می دهد. یکی از ترامواها را می توان دید که به داخل واگن ثابت دیگری پرتاب می شود.",
+      "summary_fa": "تصاویر ویدئویی منتشر شده در شبکه های اجتماعی لحظه برخورد دو تراموا را نشان می دهد. یکی از ترامواها را می توان دید که به داخل واگن ثابت دیگری پرتاب می شود.",
+      "summary_en": "Video footage circulating on social media shows the moment the two trams collided. One tram can be seen hurtling into another stationary railcar.",
+      "link": "http://www.euronews.com/my-europe/2026/07/22/two-trams-collide-on-rotterdams-erasmus-bridge-injuring-15",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 15:36:53 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1e17f29ed2117ca1c837e8e837db7885",
+      "title": "رتبه بندی: کدام کشورها از سال 2019 تا 2025 بیشترین گردشگر را جذب کردند؟",
+      "title_fa": "رتبه بندی: کدام کشورها از سال 2019 تا 2025 بیشترین گردشگر را جذب کردند؟",
+      "title_en": "Ranked: Which countries gained the most tourists from 2019 to 2025?",
+      "summary": "داده‌های جدید نشان می‌دهد که گردشگری بین‌المللی کجا از زمان همه‌گیری به‌شدت بازگشته است و عربستان سعودی، مراکش و مصر از بزرگترین برندگان آن هستند – در حالی که برخی از مقاصد محبوب هنوز در تلاش برای بهبود هستند.",
+      "summary_fa": "داده‌های جدید نشان می‌دهد که گردشگری بین‌المللی کجا از زمان همه‌گیری به‌شدت بازگشته است و عربستان سعودی، مراکش و مصر از بزرگترین برندگان آن هستند – در حالی که برخی از مقاصد محبوب هنوز در تلاش برای بهبود هستند.",
+      "summary_en": "New data reveals where international tourism has bounced back strongest since the pandemic, with Saudi Arabia, Morocco and Egypt among the biggest winners – while some popular destinations are still struggling to recover.",
+      "link": "http://www.euronews.com/travel/2026/07/22/ranked-which-countries-gained-the-most-tourists-from-2019-to-2025",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 15:36:52 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6049d099d2e1d589b7055aacd52fb283",
+      "title": "AMD در حال سرمایه گذاری 5 میلیارد دلاری در Anthropic است زیرا به دنبال کاهش تسلط Nvidia است",
+      "title_fa": "AMD در حال سرمایه گذاری 5 میلیارد دلاری در Anthropic است زیرا به دنبال کاهش تسلط Nvidia است",
+      "title_en": "AMD is investing $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance",
+      "summary": "این دو شرکت همچنین قرارداد تراشه ای منعقد کردند.",
+      "summary_fa": "این دو شرکت همچنین قرارداد تراشه ای منعقد کردند.",
+      "summary_en": "The two companies also struck a chip deal.",
+      "link": "https://www.marketwatch.com/story/amd-is-investing-5-billion-into-anthropic-as-it-seeks-to-cut-into-nvidias-dominance-b882654d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 15:04:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-65777227",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f6a9c474e6cc12675f5dedaef56287de",
+      "title": "به‌روزرسانی‌های زنده جنگ ایران: ترامپ تهدید می‌کند در صورت حمله ایران به تنگه، اهداف غیرنظامی را تلافی می‌کند",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: ترامپ تهدید می‌کند در صورت حمله ایران به تنگه، اهداف غیرنظامی را تلافی می‌کند",
+      "title_en": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
+      "summary": "پرزیدنت ترامپ گفت، اگر ایران به تنگه هرمز شلیک کند، ایالات متحده یک پل یا نیروگاه را از جمله در پایتخت ایران یا نزدیک آن هدف قرار خواهد داد. مارکو روبیو، وزیر امور خارجه، پیشتر گفته بود که تهران در مورد دیپلماسی «جدی نیست».",
+      "summary_fa": "پرزیدنت ترامپ گفت، اگر ایران به تنگه هرمز شلیک کند، ایالات متحده یک پل یا نیروگاه را از جمله در پایتخت ایران یا نزدیک آن هدف قرار خواهد داد. مارکو روبیو، وزیر امور خارجه، پیشتر گفته بود که تهران در مورد دیپلماسی «جدی نیست».",
+      "summary_en": "President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious” about diplomacy.",
+      "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 15:03:18 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo/22mideast-live-header-wchq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "ae4e5e505c6635cae5828d66f49d4aef",
+      "title": "سهام Reddit با گزارشی که ممکن است قرارداد محتوای Google AI را تمدید نکند، کاهش می‌یابد",
+      "title_fa": "سهام Reddit با گزارشی که ممکن است قرارداد محتوای Google AI را تمدید نکند، کاهش می‌یابد",
+      "title_en": "Reddit stock sinks on report it may not renew Google AI content deal",
+      "summary": "به گفته ژورنال، خلاصه‌های هوش مصنوعی گوگل ترافیک وب‌سایت‌ها را از صفحه نتایج جستجو کاهش داده است و Reddit در حال بررسی مجدد مزایای این معامله است.",
+      "summary_fa": "به گفته ژورنال، خلاصه‌های هوش مصنوعی گوگل ترافیک وب‌سایت‌ها را از صفحه نتایج جستجو کاهش داده است و Reddit در حال بررسی مجدد مزایای این معامله است.",
+      "summary_en": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+      "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 15:00:49 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4e24d9bd19dfc77628908e68a2bfd988",
+      "title": "پیشاهنگ مدلی که زنان را به اپشتین متصل می کرد مرده در فرانسه پیدا شد",
+      "title_fa": "پیشاهنگ مدلی که زنان را به اپشتین متصل می کرد مرده در فرانسه پیدا شد",
+      "title_en": "Model Scout Who Connected Women to Epstein Is Found Dead in France",
+      "summary": "دنیل سیاد که روز دوشنبه جسدش پیدا شد، طبق پیام هایی که با آقای اپستین رد و بدل کرده بود، بارها جفری اپستین را به زنان جوان معرفی کرد. آقای سیاد منکر تخلف شده بود.",
+      "summary_fa": "دنیل سیاد که روز دوشنبه جسدش پیدا شد، طبق پیام هایی که با آقای اپستین رد و بدل کرده بود، بارها جفری اپستین را به زنان جوان معرفی کرد. آقای سیاد منکر تخلف شده بود.",
+      "summary_en": "Daniel Siad, who was found dead on Monday, repeatedly introduced Jeffrey Epstein to young women, according to messages he exchanged with Mr. Epstein. Mr. Siad had denied wrongdoing.",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 14:59:34 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-France-Epstein-tzjl/22int-France-Epstein-tzjl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "0b8c06e60e087084198fa038bb5b1f85",
+      "title": "گروه نیروی دریایی حوثی ها از استقرار موشک ها و پهپادها برای حمله به کشتی ها در جنوب دریای سرخ خبر داد.",
+      "title_fa": "گروه نیروی دریایی حوثی ها از استقرار موشک ها و پهپادها برای حمله به کشتی ها در جنوب دریای سرخ خبر داد.",
+      "title_en": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+      "summary": "حملات به کشتی‌هایی که از باب المندب عبور می‌کنند، میلیون‌ها بشکه در روز از صادرات نفت خام عربستان را قطع می‌کند.",
+      "summary_fa": "حملات به کشتی‌هایی که از باب المندب عبور می‌کنند، میلیون‌ها بشکه در روز از صادرات نفت خام عربستان را قطع می‌کند.",
+      "summary_en": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+      "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 14:58:36 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c1c13405344f56fb7e1b424e0b00e466",
+      "title": "هواپیماهای بدون سرنشین برای دومین هفته متوالی به انبارهای Wildberries در روسیه حمله کردند",
+      "title_fa": "هواپیماهای بدون سرنشین برای دومین هفته متوالی به انبارهای Wildberries در روسیه حمله کردند",
+      "title_en": "Drones hit Wildberries warehouses in Russia for second week running",
+      "summary": "آتش سوزی در سایت های انبار Wildberries در کراسنودار و استاوروپل پس از حملات پهپادهای شبانه رخ داد که 15 نفر را مجروح کرد و هر دو تاسیسات را مجبور به تعلیق کرد.",
+      "summary_fa": "آتش سوزی در سایت های انبار Wildberries در کراسنودار و استاوروپل پس از حملات پهپادهای شبانه رخ داد که 15 نفر را مجروح کرد و هر دو تاسیسات را مجبور به تعلیق کرد.",
+      "summary_en": "Fires broke out at Wildberries warehouse sites in Krasnodar and Stavropol after overnight drone attacks, injuring 15 people and forcing both facilities to suspend operations.",
+      "link": "http://www.euronews.com/2026/07/22/russia-reports-fresh-drone-strikes-on-wildberries-logistics-hubs",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 14:56:19 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "ed6be8c5b81d86e23227d8de9c1fcb34",
+      "title": "جسد پیشاهنگ مدلینگ مرتبط با اپشتین در پاریس پیدا شد",
+      "title_fa": "جسد پیشاهنگ مدلینگ مرتبط با اپشتین در پاریس پیدا شد",
+      "title_en": "Modelling scout linked to Epstein found dead in Paris",
+      "summary": "دانیل سیاد، که نامش هزاران بار در پرونده های اپشتین آمده است، اطلاع از تهدید جفری اپستین را انکار کرد.",
+      "summary_fa": "دانیل سیاد، که نامش هزاران بار در پرونده های اپشتین آمده است، اطلاع از تهدید جفری اپستین را انکار کرد.",
+      "summary_en": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:54:27 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "c7834a59245eaeec887eaf2968e57113",
+      "title": "چرا ترائوره ​​جبهه جدیدی را با جامعه مسلمان بورکینافاسو باز کرده است؟",
+      "title_fa": "چرا ترائوره ​​جبهه جدیدی را با جامعه مسلمان بورکینافاسو باز کرده است؟",
+      "title_en": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
+      "summary": "قوانین جدید و دستگیری ها باعث ایجاد شکاف بین دولت نظامی بورکینافاسو و علمای مسلمان شده است.",
+      "summary_fa": "قوانین جدید و دستگیری ها باعث ایجاد شکاف بین دولت نظامی بورکینافاسو و علمای مسلمان شده است.",
+      "summary_en": "New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 14:53:43 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8948ec4474379d5c40e76c8beb902e85",
+      "title": "پهپادهای اوکراینی برای دومین بار به خرده فروشی آنلاین غول پیکر روسی Wildberries برخورد کردند",
+      "title_fa": "پهپادهای اوکراینی برای دومین بار به خرده فروشی آنلاین غول پیکر روسی Wildberries برخورد کردند",
+      "title_en": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
+      "summary": "مراکز لجستیک متعلق به Wildberries در مناطق کراسنودار و استاوروپل یک شبه مورد حمله قرار گرفتند.",
+      "summary_fa": "مراکز لجستیک متعلق به Wildberries در مناطق کراسنودار و استاوروپل یک شبه مورد حمله قرار گرفتند.",
+      "summary_en": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:52:25 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "434f65dc3a5ed8a01596820e9cdf45e8",
+      "title": "توافق هسته ای مورد علاقه آمریکا یک کودتا برای ولیعهد عربستان است",
+      "title_fa": "توافق هسته ای مورد علاقه آمریکا یک کودتا برای ولیعهد عربستان است",
+      "title_en": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
+      "summary": "عربستان سعودی سال ها به دنبال توافق بحث برانگیز برای انتقال فناوری هسته ای آمریکا به این پادشاهی بود. انتظار می رود روز چهارشنبه مهر و موم شود.",
+      "summary_fa": "عربستان سعودی سال ها به دنبال توافق بحث برانگیز برای انتقال فناوری هسته ای آمریکا به این پادشاهی بود. انتظار می رود روز چهارشنبه مهر و موم شود.",
+      "summary_en": "Saudi Arabia had for years sought the controversial deal to transfer American nuclear technology to the kingdom. It is expected to be sealed on Wednesday.",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 14:50:07 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-saudi-nuclear-1-gkwl/22int-saudi-nuclear-1-gkwl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d2a0df90b720de60687e7703b024664",
+      "title": "آمریکا توافقی را اعلام می کند که به عربستان سعودی اجازه برنامه هسته ای می دهد",
+      "title_fa": "آمریکا توافقی را اعلام می کند که به عربستان سعودی اجازه برنامه هسته ای می دهد",
+      "title_en": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "summary": "این توافق یک جاه طلبی دیرینه سعودی ها را برآورده می کند، اما می تواند باعث نگرانی اسرائیل و برخی قانونگذاران آمریکایی شود.",
+      "summary_fa": "این توافق یک جاه طلبی دیرینه سعودی ها را برآورده می کند، اما می تواند باعث نگرانی اسرائیل و برخی قانونگذاران آمریکایی شود.",
+      "summary_en": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:49:12 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "c0370cd2528d03b969f60f207b6e11ad",
+      "title": "رئیس جدید ارتش اوکراین قول داد همزمان با تلاش اتحادیه اروپا برای نهایی کردن تحریم‌های جدید روسیه، حملات متقابل را افزایش دهد - اروپا زنده",
+      "title_fa": "رئیس جدید ارتش اوکراین قول داد همزمان با تلاش اتحادیه اروپا برای نهایی کردن تحریم‌های جدید روسیه، حملات متقابل را افزایش دهد - اروپا زنده",
+      "title_en": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – Europe live",
+      "summary": "مذاکرات بروکسل بین دیپلمات‌های ارشد اکنون در تلاش برای امضای بسته بیست و یکم تحریم‌ها، پس از تلاش‌های ناموفق قبلی، در جریان است. رویترز گزارش داد، کمیسیون اروپا به انتقاد شدید از اوکراین، در حالی که کمیسیون اروپا به انتقاد شدید از اقدام دولت ایتالیا انتقاد کرد، دوسالانه ونیز گفت تصمیم اتحادیه اروپا برای پس گرفتن کمک مالی 2 میلیون یورویی در پاسخ به بازگشت روسیه به نسخه 2026 را به چالش می‌کشد. در صورت بازگشت پاویون روسیه، بودجه را تعلیق یا خاتمه دهید. ادامه مطلب...",
+      "summary_fa": "مذاکرات بروکسل بین دیپلمات‌های ارشد اکنون در تلاش برای امضای بسته بیست و یکم تحریم‌ها، پس از تلاش‌های ناموفق قبلی، در جریان است. رویترز گزارش داد، کمیسیون اروپا به انتقاد شدید از اوکراین، در حالی که کمیسیون اروپا به انتقاد شدید از اقدام دولت ایتالیا انتقاد کرد، دوسالانه ونیز گفت تصمیم اتحادیه اروپا برای پس گرفتن کمک مالی 2 میلیون یورویی در پاسخ به بازگشت روسیه به نسخه 2026 را به چالش می‌کشد. در صورت بازگشت پاویون روسیه، بودجه را تعلیق یا خاتمه دهید. ادامه مطلب...",
+      "summary_en": "Brussels talks between senior diplomats now underway in attempt to sign off 21st package of sanctions, after previous failed attempts The Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠million grant in response to the return of Russia to its 2026 edition, despite continuing aggression on Ukraine, Reuters reported.The Italian government sharply criticised the move, while the European Commission warned it ​would suspend or terminate funding if the Russian ‌pavilion returned. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 14:48:30 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0e0bf1ee00941b59db4cf04af99d4d2f93ae08d6/0_0_3458_2765/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=e1c86f016c6e525c6ce7892aa10f1ae9",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
     {
       "id": "1ac37bbac58e7330e0e6b1646d9ba68b",
       "title": "شعبه چینی فولکس واگن فناوری خودران را دوچندان کرده است",
@@ -24,6 +402,27 @@
       }
     },
     {
+      "id": "1dec9221e72db505922a207b22f041d9",
+      "title": "پس از تهدید کشتیرانی حوثی ها، نفتکش ها چرخش های شدیدی انجام می دهند",
+      "title_fa": "پس از تهدید کشتیرانی حوثی ها، نفتکش ها چرخش های شدیدی انجام می دهند",
+      "title_en": "Tankers make sharp U-turns after Houthi shipping threat",
+      "summary": "داده‌های ردیابی کشتی نشان می‌دهد که همه کشتی‌ها قبل از تغییر مسیر، به یا از بنادر عربستان در حال حرکت بودند.",
+      "summary_fa": "داده‌های ردیابی کشتی نشان می‌دهد که همه کشتی‌ها قبل از تغییر مسیر، به یا از بنادر عربستان در حال حرکت بودند.",
+      "summary_en": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:42:49 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88e8/live/95f90c40-85ce-11f1-b976-0b9c15b0ccfc.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aefe432babbb323320f9aa629b57f7d0",
       "title": "وزیر محیط زیست فرانسه پس از اعلام استعفا متقاعد به ماندن در سمت خود شد",
       "title_fa": "وزیر محیط زیست فرانسه پس از اعلام استعفا متقاعد به ماندن در سمت خود شد",
@@ -38,6 +437,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bbb01d81db608e1303e6de8f9738bbe0",
+      "title": "T-Mobile، Verizon یا AT&T؟ مطالعه جدید بهترین اپراتور تلفن همراه را نشان می دهد - ارائه دهندگان اینترنت را نیز رتبه بندی می کند",
+      "title_fa": "T-Mobile، Verizon یا AT&T؟ مطالعه جدید بهترین اپراتور تلفن همراه را نشان می دهد - ارائه دهندگان اینترنت را نیز رتبه بندی می کند",
+      "title_en": "T-Mobile, Verizon or AT&T? New study reveals best mobile carrier - ranks internet providers, too",
+      "summary": "قبل از تعویض سرویس تلفن همراه یا اینترنت خود، این را بخوانید: آخرین مطالعه Ookla سرعت، عملکرد و ثبات را در میان ارائه دهندگان مخابراتی ایالات متحده اندازه گیری می کند.",
+      "summary_fa": "قبل از تعویض سرویس تلفن همراه یا اینترنت خود، این را بخوانید: آخرین مطالعه Ookla سرعت، عملکرد و ثبات را در میان ارائه دهندگان مخابراتی ایالات متحده اندازه گیری می کند.",
+      "summary_en": "Read this before switching your cell or internet service: Ookla's latest study measures speed, performance, and consistency among US telecom providers.",
+      "link": "https://www.zdnet.com/article/mobile-carrier-internet-provider-t-mobile-at-t-fiber-ookla-speedtest/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 14:34:57 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "862c84a1c39950dde730ae4f837f6484",
+      "title": "توافق هسته ای آمریکا و عربستان نگرانی اسرائیل را از مسابقه تسلیحاتی خاورمیانه افزایش می دهد",
+      "title_fa": "توافق هسته ای آمریکا و عربستان نگرانی اسرائیل را از مسابقه تسلیحاتی خاورمیانه افزایش می دهد",
+      "title_en": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+      "summary": "یک وزیر اسرائیلی به دنبال کم اهمیت جلوه دادن توافق مورد انتظار بود، اما منتقدان گفتند که این توافق می تواند سایر کشورهای منطقه را به دنبال برنامه هسته ای و به طور بالقوه ساخت بمب تشویق کند.",
+      "summary_fa": "یک وزیر اسرائیلی به دنبال کم اهمیت جلوه دادن توافق مورد انتظار بود، اما منتقدان گفتند که این توافق می تواند سایر کشورهای منطقه را به دنبال برنامه هسته ای و به طور بالقوه ساخت بمب تشویق کند.",
+      "summary_en": "An Israeli minister sought to downplay the expected deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 14:34:38 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4afdbc9cdd57b111a8d2e3c9ffeaee87",
+      "title": "ما 8 میلیون دلار در IRA های سنتی داریم. آیا باید به آنها ضربه بزنیم تا یک خانه بخریم - و مالیات را تحمل کنیم؟",
+      "title_fa": "ما 8 میلیون دلار در IRA های سنتی داریم. آیا باید به آنها ضربه بزنیم تا یک خانه بخریم - و مالیات را تحمل کنیم؟",
+      "title_en": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "summary": "ما ترجیح می‌دهیم از قبل مالیات بپردازیم تا بهره وام مسکن.»",
+      "summary_fa": "ما ترجیح می‌دهیم از قبل مالیات بپردازیم تا بهره وام مسکن.»",
+      "summary_en": "“We would rather pay taxes upfront than pay mortgage interest.”",
+      "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 14:31:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-24248624",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -66,6 +528,531 @@
       }
     },
     {
+      "id": "623026e37714ea84cfea65885243cccf",
+      "title": "ترامپ تهدید کرد که زیرساخت‌های ایران را به حملات انتحاری می‌رساند",
+      "title_fa": "ترامپ تهدید کرد که زیرساخت‌های ایران را به حملات انتحاری می‌رساند",
+      "title_en": "Trump threatens tit-for-tat strikes on Iranian infrastructure",
+      "summary": "هشدار رئیس جمهور آمریکا نشان دهنده آخرین تلاش ها برای اعمال کنترل آمریکا بر تنگه هرمز است",
+      "summary_fa": "هشدار رئیس جمهور آمریکا نشان دهنده آخرین تلاش ها برای اعمال کنترل آمریکا بر تنگه هرمز است",
+      "summary_en": "US president’s warning marks latest attempts to assert American control over the Strait of Hormuz",
+      "link": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 14:23:13 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31f096dc-1971-4c40-bccd-dc2ec7c9eca8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "81d2e5e7a2b64697f88358d43d64fa22",
+      "title": "Samsung Galaxy Z Fold 8 یا Z Flip 8 جدید را در Verizon بدون هیچ هزینه ای پیش خرید کنید - در اینجا نحوه",
+      "title_fa": "Samsung Galaxy Z Fold 8 یا Z Flip 8 جدید را در Verizon بدون هیچ هزینه ای پیش خرید کنید - در اینجا نحوه",
+      "title_en": "Preorder the new Samsung Galaxy Z Fold 8 or Z Flip 8 at Verizon with no fees - here's how",
+      "summary": "سامسونگ به تازگی جدیدترین گوشی تاشو خود را در رویداد Unpacked خود معرفی کرد. در اینجا نحوه صرفه جویی در پیش خریدها در Verizon بدون هزینه فعال سازی یا ارتقا آورده شده است.",
+      "summary_fa": "سامسونگ به تازگی جدیدترین گوشی تاشو خود را در رویداد Unpacked خود معرفی کرد. در اینجا نحوه صرفه جویی در پیش خریدها در Verizon بدون هزینه فعال سازی یا ارتقا آورده شده است.",
+      "summary_en": "Samsung just dropped its newest foldable phone at its Unpacked event. Here's how to save on preorders at Verizon with no activation or upgrade fees.",
+      "link": "https://www.zdnet.com/article/verizon-samsung-galaxy-z-fold-deal-2026/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 14:18:49 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b51ff64b5310e6cb885fc796e807092",
+      "title": "وقتی سعی می کنید یک فوتون را از وسط نصف کنید چه اتفاقی می افتد؟",
+      "title_fa": "وقتی سعی می کنید یک فوتون را از وسط نصف کنید چه اتفاقی می افتد؟",
+      "title_en": "What happens when you try to chop a photon in half?",
+      "summary": "آینه ای که در وسط فوتون حرکت می کند، می تواند بارانی از فوتون های جدید را آزاد کند.",
+      "summary_fa": "آینه ای که در وسط فوتون حرکت می کند، می تواند بارانی از فوتون های جدید را آزاد کند.",
+      "summary_en": "A mirror that moves mid-photon could release a shower of new photons.",
+      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 14:17:08 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2263112099-1152x648-1784657388.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "829819c7f6872011070a4d1a41b7cb9d",
+      "title": "زن انگلیسی پس از متهم کردن یک بانکدار به تجاوز جنسی در هنگ کنگ به دلیل باج خواهی زندانی شد",
+      "title_fa": "زن انگلیسی پس از متهم کردن یک بانکدار به تجاوز جنسی در هنگ کنگ به دلیل باج خواهی زندانی شد",
+      "title_en": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "summary": "ایزابل رز به دلیل تلاش برای اخاذی 100000 پوند از بانکدار بریتانیایی و انحراف مسیر عدالت محکوم شد.",
+      "summary_fa": "ایزابل رز به دلیل تلاش برای اخاذی 100000 پوند از بانکدار بریتانیایی و انحراف مسیر عدالت محکوم شد.",
+      "summary_en": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+      "link": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:14:16 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dea/live/01334780-85c7-11f1-926f-c90d1bcfbc84.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "cc7367835806f38fb41b5b2204cda60b",
+      "title": "تحلیل ها نشان می دهد موج گرما در اروپا در ماه ژوئن به کشاورزان غلات ضرر رساند",
+      "title_fa": "تحلیل ها نشان می دهد موج گرما در اروپا در ماه ژوئن به کشاورزان غلات ضرر رساند",
+      "title_en": "Europe’s heatwave in June cost grain farmers €2bn, analysis finds",
+      "summary": "اتحادیه اروپا برای بدترین برداشت محصول در دهه اخیر آماده است و نگرانی در مورد تأثیر آن بر قیمت مواد غذایی را برانگیخت. تخمین زده می‌شود که موج گرمایی که در ماه ژوئن سراسر اروپا را فرا گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) به کشاورزان غلات این قاره خسارت وارد کرد و 9 میلیون تن محصول را از بین برد، و نگرانی‌هایی را در مورد تأثیر تخمین‌ها بر قیمت نفت و اتحادیه اروپا ایجاد کرد. برداشت محصولاتی مانند گندم، جو، ذرت و جو پس از موج گرما. ادامه مطلب...",
+      "summary_fa": "اتحادیه اروپا برای بدترین برداشت محصول در دهه اخیر آماده است و نگرانی در مورد تأثیر آن بر قیمت مواد غذایی را برانگیخت. تخمین زده می‌شود که موج گرمایی که در ماه ژوئن سراسر اروپا را فرا گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) به کشاورزان غلات این قاره خسارت وارد کرد و 9 میلیون تن محصول را از بین برد، و نگرانی‌هایی را در مورد تأثیر تخمین‌ها بر قیمت نفت و اتحادیه اروپا ایجاد کرد. برداشت محصولاتی مانند گندم، جو، ذرت و جو پس از موج گرما. ادامه مطلب...",
+      "summary_en": "EU poised for worst crop harvest in decade, sparking concern about the impact on food pricesThe heatwave that swept across Europe in June is estimated to have cost the continent’s grain farmers €2bn (£1.7bn) in lost revenue and destroyed 9m tonnes of crops, sparking concern about the impact on the price of food.Coceral, the European cereals and oilseeds trade association, made the estimate for the harvest of crops such as wheat, barley, maize and oats following the heatwave. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 14:12:47 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9cc6b99fc363b96e23a12389c8bec809f35d0ce6/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=dd88b4795e32335c9383358193509690",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "bd8086c80d0a3b40952ed2cb15fc9aa4",
+      "title": "زلنسکی سیرسکی را برکنار کرد: اوکراین و روسیه چند ژنرال را اخراج کردند؟",
+      "title_fa": "زلنسکی سیرسکی را برکنار کرد: اوکراین و روسیه چند ژنرال را اخراج کردند؟",
+      "title_en": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+      "summary": "چندین ژنرال اوکراینی و روسی در جریان جنگ در اوکراین از ارتش اخراج شده اند.",
+      "summary_fa": "چندین ژنرال اوکراینی و روسی در جریان جنگ در اوکراین از ارتش اخراج شده اند.",
+      "summary_en": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 14:10:54 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "1527f52c906a6813d44ba755626ff8bd",
+      "title": "AT&T به شما این امکان را می‌دهد تا Galaxy Z Fold 8 را به‌صورت رایگان با خرید و فروش پیش‌خرید کنید - چه باید بدانید",
+      "title_fa": "AT&T به شما این امکان را می‌دهد تا Galaxy Z Fold 8 را به‌صورت رایگان با خرید و فروش پیش‌خرید کنید - چه باید بدانید",
+      "title_en": "AT&T will let you preorder the Galaxy Z Fold 8 for free with trade-in - what to know",
+      "summary": "همین الان در AT&T در Galaxy Z Fold 8 جدید تا 1900 دلار صرفه جویی کنید.",
+      "summary_fa": "همین الان در AT&T در Galaxy Z Fold 8 جدید تا 1900 دلار صرفه جویی کنید.",
+      "summary_en": "Save up to $1,900 on the new Galaxy Z Fold 8 at AT&T right now.",
+      "link": "https://www.zdnet.com/article/at-t-samsung-galaxy-z-fold-8-deal/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 14:08:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a4421d7ed6918df8998515366d259fa",
+      "title": "نحوه پیش‌سفارش هر چیزی که در Samsung Unpacked اعلام شده است: Galaxy Z Flip 8، Z Fold 8 و موارد دیگر",
+      "title_fa": "نحوه پیش‌سفارش هر چیزی که در Samsung Unpacked اعلام شده است: Galaxy Z Flip 8، Z Fold 8 و موارد دیگر",
+      "title_en": "How to preorder everything announced at Samsung Unpacked: Galaxy Z Flip 8, Z Fold 8, and more",
+      "summary": "ما اطلاعاتی را در اختیار داریم که می‌توانید جدیدترین دستگاه‌های سامسونگ معرفی شده امروز، از جمله Galaxy Watch Ultra 2 و Galaxy Watch 9 را پیش‌سفارش کنید.",
+      "summary_fa": "ما اطلاعاتی را در اختیار داریم که می‌توانید جدیدترین دستگاه‌های سامسونگ معرفی شده امروز، از جمله Galaxy Watch Ultra 2 و Galaxy Watch 9 را پیش‌سفارش کنید.",
+      "summary_en": "We've got the scoop on where you can preorder the newest Samsung devices announced today, including the Galaxy Watch Ultra 2 and Galaxy Watch 9.",
+      "link": "https://www.zdnet.com/article/how-to-preorder-everything-announced-at-samsung-unpacked-july-2026/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 14:07:14 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7052e7bfa0dffecce89ffa72201ce88e",
+      "title": "قیمت جهانی نفت برای اولین بار در 6 هفته گذشته به بالای 95 دلار در هر بشکه رسید زیرا امیدها به کاهش تنش در جنگ ایران کمرنگ شده است.",
+      "title_fa": "قیمت جهانی نفت برای اولین بار در 6 هفته گذشته به بالای 95 دلار در هر بشکه رسید زیرا امیدها به کاهش تنش در جنگ ایران کمرنگ شده است.",
+      "title_en": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+      "summary": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و پرزیدنت ترامپ هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران خواهد کرد، صبح چهارشنبه به بالاترین حد در شش هفته گذشته رسید.",
+      "summary_fa": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و پرزیدنت ترامپ هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران خواهد کرد، صبح چهارشنبه به بالاترین حد در شش هفته گذشته رسید.",
+      "summary_en": "Oil prices climbed on Wednesday morning to a six-week high after the U.S. struck Iran for the 11th night in a row, and President Trump warned that the U.S. will bomb Iran’s bridges and power plants if Tehran shoots at ships in the Strait of Hormuz.",
+      "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 14:07:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-09944842",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "389edc38936045163f6ed9969011f008",
+      "title": "این عادت مصاحبه «فوق‌العاده بی‌احترامی» می‌تواند به هزینه شغل ژنرال Z تمام شود",
+      "title_fa": "این عادت مصاحبه «فوق‌العاده بی‌احترامی» می‌تواند به هزینه شغل ژنرال Z تمام شود",
+      "title_en": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
+      "summary": "\"این بیشتر به فناوری مربوط می شود که آنها با آن بزرگ شده اند تا نشانه احترام.\"",
+      "summary_fa": "\"این بیشتر به فناوری مربوط می شود که آنها با آن بزرگ شده اند تا نشانه احترام.\"",
+      "summary_en": "“This has more to do with the technology they grew up with rather than a sign of respect.”",
+      "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 14:05:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-20052698",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b7fd07cef88c898f2128ec350b167616",
+      "title": "آیا سهام مایکروسافت برای شکست آماده شده است؟ این تحلیلگر می گوید که یک عطف عمده در کارت ها وجود دارد.",
+      "title_fa": "آیا سهام مایکروسافت برای شکست آماده شده است؟ این تحلیلگر می گوید که یک عطف عمده در کارت ها وجود دارد.",
+      "title_en": "Is Microsoft’s stock set for a breakout? This analyst says a major inflection is in the cards.",
+      "summary": "سهام مایکروسافت در سال جاری سقوط کرده است، اما یک تحلیلگر برنشتاین فکر می کند که سهام در سه ماهه های آینده یک چرخش معنادار است.",
+      "summary_fa": "سهام مایکروسافت در سال جاری سقوط کرده است، اما یک تحلیلگر برنشتاین فکر می کند که سهام در سه ماهه های آینده یک چرخش معنادار است.",
+      "summary_en": "Microsoft shares have slumped this year but a Bernstein analyst thinks the stock is due for a meaningful turnaround in the coming quarters.",
+      "link": "https://www.marketwatch.com/story/is-microsofts-stock-set-for-a-breakout-this-analyst-says-a-major-inflection-is-in-the-cards-53c312e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 14:03:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-80629527",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d462c8d6a71d64225f677cac68f6dbe",
+      "title": "نزدیک به 1000 نفر بر اثر ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده اند",
+      "title_fa": "نزدیک به 1000 نفر بر اثر ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده اند",
+      "title_en": "Nearly 1,000 people have died from Ebola in DR Congo",
+      "summary": "بر اساس آمار سازمان جهانی بهداشت، 999 نفر در جمهوری دموکراتیک کنگو و دو نفر در اوگاندا به دلیل سویه ویروس بوندی بوگیو جان خود را از دست داده اند.",
+      "summary_fa": "بر اساس آمار سازمان جهانی بهداشت، 999 نفر در جمهوری دموکراتیک کنگو و دو نفر در اوگاندا به دلیل سویه ویروس بوندی بوگیو جان خود را از دست داده اند.",
+      "summary_en": "According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/nearly-1000-people-have-died-from-ebola-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 14:01:10 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fb27dbcbbbaec294e4bb4984fc3eb4c6",
+      "title": "چگونه از غریبه ها در اینترنت مشاوره مالی بخواهیم",
+      "title_fa": "چگونه از غریبه ها در اینترنت مشاوره مالی بخواهیم",
+      "title_en": "How to ask strangers on the internet for financial advice",
+      "summary": "چه در حال ارسال ایمیل به یک متخصص یا ارسال پست در یک انجمن عمومی باشید، به برخی قوانین اساسی نیاز دارید",
+      "summary_fa": "چه در حال ارسال ایمیل به یک متخصص یا ارسال پست در یک انجمن عمومی باشید، به برخی قوانین اساسی نیاز دارید",
+      "summary_en": "Whether you’re emailing an expert or posting on a public forum, you need some ground rules",
+      "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 14:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-94248564",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "12506f32f554ca893bcbc5689ba24a0d",
+      "title": "سامسونگ از ساعت‌های تاشو و گلکسی Z8 جدید رونمایی می‌کند که در تاریخ 7 آگوست در دسترس هستند",
+      "title_fa": "سامسونگ از ساعت‌های تاشو و گلکسی Z8 جدید رونمایی می‌کند که در تاریخ 7 آگوست در دسترس هستند",
+      "title_en": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
+      "summary": "تاشوهای جدید سامسونگ باریک‌تر، سریع‌تر و گران‌تر هستند.",
+      "summary_fa": "تاشوهای جدید سامسونگ باریک‌تر، سریع‌تر و گران‌تر هستند.",
+      "summary_en": "Samsung's new foldables are slimmer, faster, and more expensive.",
+      "link": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 13:58:24 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/1.Samsung-Galaxy-Z-Fold8-Ultra-Fold8-and-Flip8-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e621044b6827a02e957736074de26d6",
+      "title": "AMD به عنوان بخشی از قرارداد قدرت محاسباتی تا سقف 5 میلیارد دلار در Anthropic سرمایه گذاری می کند",
+      "title_fa": "AMD به عنوان بخشی از قرارداد قدرت محاسباتی تا سقف 5 میلیارد دلار در Anthropic سرمایه گذاری می کند",
+      "title_en": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+      "summary": "توافق آنتروپیک با AMD آخرین مورد از مجموعه قراردادهای زیرساختی است که این شرکت امسال برای افزایش ظرفیت محاسباتی خود اعلام کرده است.",
+      "summary_fa": "توافق آنتروپیک با AMD آخرین مورد از مجموعه قراردادهای زیرساختی است که این شرکت امسال برای افزایش ظرفیت محاسباتی خود اعلام کرده است.",
+      "summary_en": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
+      "link": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 13:58:10 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef93332e504f068ba25f93003d0d0149",
+      "title": "یک شهر مکزیکی به کاهو معروف بود. اکنون به دلیل سیکلوسپورا است.",
+      "title_fa": "یک شهر مکزیکی به کاهو معروف بود. اکنون به دلیل سیکلوسپورا است.",
+      "title_en": "A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.",
+      "summary": "در مرکز مکزیک، یک منطقه کشت کاهو به طور بالقوه با شیوع بیماری در ایالات متحده مرتبط است که هزاران نفر را بیمار کرده است.",
+      "summary_fa": "در مرکز مکزیک، یک منطقه کشت کاهو به طور بالقوه با شیوع بیماری در ایالات متحده مرتبط است که هزاران نفر را بیمار کرده است.",
+      "summary_en": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
+      "link": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 13:53:21 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-mexico-cyclospora-promo/00int-mexico-cyclospora-bplz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "a8f8f8ea334538459ad384448f37cd1c",
+      "title": "سهام AT&T به سمت بهترین روز شش ماهه افزایش می یابد. چرا سرمایه گذاران آخرین درآمدها را تشویق می کنند.",
+      "title_fa": "سهام AT&T به سمت بهترین روز شش ماهه افزایش می یابد. چرا سرمایه گذاران آخرین درآمدها را تشویق می کنند.",
+      "title_en": "AT&T’s stock rises toward best day in six months. Why investors are cheering the latest earnings.",
+      "summary": "شرکت مخابرات انتظارات در مورد رشد مشترکین، جریان نقدی آزاد و سود را شکست داد.",
+      "summary_fa": "شرکت مخابرات انتظارات در مورد رشد مشترکین، جریان نقدی آزاد و سود را شکست داد.",
+      "summary_en": "The telecommunications company beat expectations on subscriber growth, free cash flow and profit.",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-rises-after-earnings-heres-why-investors-are-cheering-41508d59?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 13:51:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-23129173",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5fac2cb967b24b775334556be5f54a5a",
+      "title": "هوش مصنوعی باز می گوید مدل هوش مصنوعی آن «سرکش شد»: چه می دانیم؟",
+      "title_fa": "هوش مصنوعی باز می گوید مدل هوش مصنوعی آن «سرکش شد»: چه می دانیم؟",
+      "title_en": "Open AI says its AI model “went rogue”: What do we know?",
+      "summary": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
+      "summary_fa": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
+      "summary_en": "The system hacked into another company without being prompted by a human.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:42:29 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2b1f724895c5cc25cba7e50b3726755b",
+      "title": "Miliband، Streeting بریتانیا: سوابق سیاست خارجی و دفاعی آنها چیست؟",
+      "title_fa": "Miliband، Streeting بریتانیا: سوابق سیاست خارجی و دفاعی آنها چیست؟",
+      "title_en": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
+      "summary": "میلیبند، منتقد ترامپ که زمانی مخالف حملات به سوریه بود، با تغییر دیدگاه‌های اسرائیل به استریتینگ می‌پیوندد.",
+      "summary_fa": "میلیبند، منتقد ترامپ که زمانی مخالف حملات به سوریه بود، با تغییر دیدگاه‌های اسرائیل به استریتینگ می‌پیوندد.",
+      "summary_en": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:41:33 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "c1a16d796221c580f2e00f457a131cbd",
+      "title": "من با Samsung Galaxy Z Flip 8 کار کردم، اما ارتقاء آن چیزی که انتظار داشتم نیست",
+      "title_fa": "من با Samsung Galaxy Z Flip 8 کار کردم، اما ارتقاء آن چیزی که انتظار داشتم نیست",
+      "title_en": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
+      "summary": "Samsung Galaxy Z Flip 8 ارتقای باتری بسیار مورد نیاز را دریافت کرد، اما نه چیز دیگری.",
+      "summary_fa": "Samsung Galaxy Z Flip 8 ارتقای باتری بسیار مورد نیاز را دریافت کرد، اما نه چیز دیگری.",
+      "summary_en": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:39:14 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c19938c00416dfd40b6902e3847c62e",
+      "title": "جسد پیشاهنگ مدل جفری اپستین در خانه اش در نزدیکی پاریس پیدا شد",
+      "title_fa": "جسد پیشاهنگ مدل جفری اپستین در خانه اش در نزدیکی پاریس پیدا شد",
+      "title_en": "Model scout for Jeffrey Epstein found dead at his home near Paris",
+      "summary": "دانیل سیاد با اتهامات تجاوز جنسی و قاچاق در فرانسه روبرو بود و در بیش از 1000 سند در پرونده های اپشتین ظاهر شد، مقامات فرانسوی گفتند که یک جاسوس مدلینگ که زنان را برای جفری اپشتین استخدام می کرد، در خانه خود در نزدیکی پاریس جسد پیدا شد. دانیل سیاد، 69 ساله، توسط دادستان های متخصص در قاچاق انسان در فرانسه و دیگر متهمان متهم به قاچاق انسان تحت بازجویی قرار گرفت. نام او در بیش از 1000 سند در پرونده های اپستین وزارت دادگستری ایالات متحده که اوایل امسال از طبقه بندی خارج شده بودند، وجود داشت. ادامه مطلب...",
+      "summary_fa": "دانیل سیاد با اتهامات تجاوز جنسی و قاچاق در فرانسه روبرو بود و در بیش از 1000 سند در پرونده های اپشتین ظاهر شد، مقامات فرانسوی گفتند که یک جاسوس مدلینگ که زنان را برای جفری اپشتین استخدام می کرد، در خانه خود در نزدیکی پاریس جسد پیدا شد. دانیل سیاد، 69 ساله، توسط دادستان های متخصص در قاچاق انسان در فرانسه و دیگر متهمان متهم به قاچاق انسان تحت بازجویی قرار گرفت. نام او در بیش از 1000 سند در پرونده های اپستین وزارت دادگستری ایالات متحده که اوایل امسال از طبقه بندی خارج شده بودند، وجود داشت. ادامه مطلب...",
+      "summary_en": "Daniel Siad faced allegations of rape and trafficking in France and appeared in more than 1,000 documents in Epstein filesA modelling scout who recruited women for Jeffrey Epstein has been found dead at his home near Paris, French officials have said.Daniel Siad, 69, was under investigation by the prosecutors specialising in human trafficking in France, accused of rape and other charges. His name appeared in more than 1,000 documents in the US Department of Justice Epstein files that were declassified earlier this year. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 13:38:59 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ad168edef7660f48b560e14dbd119f527e235afc/536_531_1649_1319/master/1649.jpg?width=140&quality=85&auto=format&fit=max&s=ce7d0a0ea3064ee44723b3fe729d1ef3",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "880c7ec3496b35d942cac02073d2de98",
+      "title": "T-Mobile Samsung Galaxy Z Flip جدید را با قیمت کمتر از 100 دلار به شما می دهد - در اینجا نحوه پیش خرید آورده شده است.",
+      "title_fa": "T-Mobile Samsung Galaxy Z Flip جدید را با قیمت کمتر از 100 دلار به شما می دهد - در اینجا نحوه پیش خرید آورده شده است.",
+      "title_en": "T-Mobile will give you the new Samsung Galaxy Z Flip for under $100 - here's how to preorder",
+      "summary": "مشتریان جدید و موجود T-Mobile می توانند تا 1100 دلار در آخرین تلفن تاشو سامسونگ (از جمله رنگ صورتی) صرفه جویی کنند. در اینجا چگونگی آن است.",
+      "summary_fa": "مشتریان جدید و موجود T-Mobile می توانند تا 1100 دلار در آخرین تلفن تاشو سامسونگ (از جمله رنگ صورتی) صرفه جویی کنند. در اینجا چگونگی آن است.",
+      "summary_en": "New and existing T-Mobile customers can save up to $1,100 on Samsung's latest flip phone now (including the pink color). Here's how.",
+      "link": "https://www.zdnet.com/article/t-mobile-samsung-galaxy-z-flip-deal/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:37:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4e3aa5d0aa0535b01cb0393b3f50d79e",
+      "title": "توکن‌های نامحدود هوش مصنوعی نامحدود نیستند، زیرا ارتش ایالات متحده از طریق عرضه می‌سوزاند",
+      "title_fa": "توکن‌های نامحدود هوش مصنوعی نامحدود نیستند، زیرا ارتش ایالات متحده از طریق عرضه می‌سوزاند",
+      "title_en": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+      "summary": "سربازان ایمیلی دریافت کردند که به آنها اطلاع می داد که به سرعت توکن های هوش مصنوعی خود را تخلیه می کنند.",
+      "summary_fa": "سربازان ایمیلی دریافت کردند که به آنها اطلاع می داد که به سرعت توکن های هوش مصنوعی خود را تخلیه می کنند.",
+      "summary_en": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
+      "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 13:35:17 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "158825d8aca3bdc76d964ad41d217585",
+      "title": "کنگره نیکاراگوئه \"برنامه کاری\" را برای تعلیق انتخابات اعلام کرد",
+      "title_fa": "کنگره نیکاراگوئه \"برنامه کاری\" را برای تعلیق انتخابات اعلام کرد",
+      "title_en": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
+      "summary": "وزیر امور خارجه آمریکا می گوید جامعه بین المللی باید علیه رژیم اقتدارگرا اورتگا «نیروهای خود را بپیوندد» کنگره نیکاراگوئه که تحت کنترل رئیس جمهور باسابقه این کشور، دانیل اورتگا است، «برنامه کاری» را برای اجرای دستور رهبر اقتدارگرا اعلام کرده است که این کشور دیگر نباید انتخابات برگزار کند. تغییر قانون اساسی در سال گذشته، اکنون در کنار همسرش، روزاریو موریلو، به عنوان \"رئیس جمهور مشترک\" حکومت می کند. ادامه مطلب...",
+      "summary_fa": "وزیر امور خارجه آمریکا می گوید جامعه بین المللی باید علیه رژیم اقتدارگرا اورتگا «نیروهای خود را بپیوندد» کنگره نیکاراگوئه که تحت کنترل رئیس جمهور باسابقه این کشور، دانیل اورتگا است، «برنامه کاری» را برای اجرای دستور رهبر اقتدارگرا اعلام کرده است که این کشور دیگر نباید انتخابات برگزار کند. تغییر قانون اساسی در سال گذشته، اکنون در کنار همسرش، روزاریو موریلو، به عنوان \"رئیس جمهور مشترک\" حکومت می کند. ادامه مطلب...",
+      "summary_en": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regimeNicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement the authoritarian leader’s order that the country should no longer hold elections.The UN and the US strongly condemned Sunday’s announcement by Ortega, who has been in power since 2007 and, after a controversial constitutional change last year, now governs alongside his wife, Rosario Murillo, as “co-president”. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 13:33:35 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/74bec8a739f75e1d2b213ee01f50f00f481283db/100_0_1066_853/master/1066.jpg?width=140&quality=85&auto=format&fit=max&s=aa99e9b20b110ecc1445b6a6c2986fe2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b7992efdc31760f51fbb2182da384c0f",
+      "title": "چرا زلنسکی با بهبود چشم انداز اوکراین، رهبران ارشد را اخراج می کند؟",
+      "title_fa": "چرا زلنسکی با بهبود چشم انداز اوکراین، رهبران ارشد را اخراج می کند؟",
+      "title_en": "Why is Zelensky firing top leaders as Ukraine’s outlook improves?",
+      "summary": "در بحبوحه دستاوردهای میدان نبرد، رئیس جمهور ولودیمیر زلنسکی در یک تغییر عمده مقامات محبوب را برکنار کرد.",
+      "summary_fa": "در بحبوحه دستاوردهای میدان نبرد، رئیس جمهور ولودیمیر زلنسکی در یک تغییر عمده مقامات محبوب را برکنار کرد.",
+      "summary_en": "Amid battlefield gains, President Volodymyr Zelensky removed popular officials in a major shakeup.",
+      "link": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
+      "source": "Washington Post",
+      "published_at": "Wed, 22 Jul 2026 13:31:41 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
       "id": "c4bcc16ecade5208fbda411d805b4a0e",
       "title": "ایران به بلغارستان در مورد استقرار هواپیماهای آمریکایی هشدار داد زیرا ارتش ایالات متحده برای مقابله با تهدیدات آماده است.",
       "title_fa": "ایران به بلغارستان در مورد استقرار هواپیماهای آمریکایی هشدار داد زیرا ارتش ایالات متحده برای مقابله با تهدیدات آماده است.",
@@ -84,6 +1071,48 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "d2eafaffa638e1b7a92a20de34bd491e",
+      "title": "من حتما زودتر درخواست تامین اجتماعی خواهم کرد. چرا تعداد کمی از مردم در مورد فیل در اتاق صحبت می کنند؟",
+      "title_fa": "من حتما زودتر درخواست تامین اجتماعی خواهم کرد. چرا تعداد کمی از مردم در مورد فیل در اتاق صحبت می کنند؟",
+      "title_en": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "summary": "\"قوی ترین استدلال برای ادعای مزایا زودتر فراتر از تجزیه و تحلیل های سنتی سربه سر است.\"",
+      "summary_fa": "\"قوی ترین استدلال برای ادعای مزایا زودتر فراتر از تجزیه و تحلیل های سنتی سربه سر است.\"",
+      "summary_en": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
+      "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 13:30:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-36497516",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "668a300dbab5d9f3af8da1057b6f466a",
+      "title": "با وجود افزایش چشم انداز درآمد، سهام جنرال الکتریک ورنووا در معاملات قبل از بازار کاهش یافت",
+      "title_fa": "با وجود افزایش چشم انداز درآمد، سهام جنرال الکتریک ورنووا در معاملات قبل از بازار کاهش یافت",
+      "title_en": "Shares of GE Vernova fall in premarket trading despite raised revenue outlook",
+      "summary": "با وجود اینکه شرکت انرژی دستورالعمل خود را برای درآمد سال 2026 به میزان 1 میلیارد دلار ارتقا داد، سهام تقریباً 5 درصد کاهش یافت.",
+      "summary_fa": "با وجود اینکه شرکت انرژی دستورالعمل خود را برای درآمد سال 2026 به میزان 1 میلیارد دلار ارتقا داد، سهام تقریباً 5 درصد کاهش یافت.",
+      "summary_en": "The  stock declined nearly 5% despite the energy company upgrading its guidance for 2026 revenue by $1 billion.",
+      "link": "https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 13:26:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-62789528",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -108,6 +1137,27 @@
       }
     },
     {
+      "id": "e592dc914578c5b65067ce1a61f2cf8b",
+      "title": "حمله اسرائیل باعث سوختن دو فلسطینی غیرقابل شناسایی شد",
+      "title_fa": "حمله اسرائیل باعث سوختن دو فلسطینی غیرقابل شناسایی شد",
+      "title_en": "Israeli strike leaves two Palestinians burnt beyond recognition",
+      "summary": "حمله رژیم صهیونیستی به یک خودروی غیرنظامی در مرکز غزه دو فلسطینی کشته شدند.",
+      "summary_fa": "حمله رژیم صهیونیستی به یک خودروی غیرنظامی در مرکز غزه دو فلسطینی کشته شدند.",
+      "summary_en": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:23:49 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "19774badeac21e2e6aa44a885826446e",
       "title": "مجارستان پس از پیوستن وزیر سابق به خودروساز، قرارداد BYD را بررسی می‌کند و نگرانی‌های «درهای گردان» را افزایش می‌دهد.",
       "title_fa": "مجارستان پس از پیوستن وزیر سابق به خودروساز، قرارداد BYD را بررسی می‌کند و نگرانی‌های «درهای گردان» را افزایش می‌دهد.",
@@ -122,6 +1172,510 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8f3c797858da4f644fac8842c6607f00",
+      "title": "مسابقات فوتبال هند که در آن بزها جایگزین جام ها می شوند",
+      "title_fa": "مسابقات فوتبال هند که در آن بزها جایگزین جام ها می شوند",
+      "title_en": "The Indian football tournament where goats replace trophies",
+      "summary": "بزها بازیکن نیستند، بلکه جوایز این مسابقات فوتبال در شرق هند هستند.",
+      "summary_fa": "بزها بازیکن نیستند، بلکه جوایز این مسابقات فوتبال در شرق هند هستند.",
+      "summary_en": "GOATs are not players, but prizes at this football tournament in eastern India.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:19:22 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "04c1500d56422003c8eb05de15ddcea9",
+      "title": "تعرفه های 50 درصدی ترامپ بر کانادا: چه باید بدانیم و چه چیزی در آینده است",
+      "title_fa": "تعرفه های 50 درصدی ترامپ بر کانادا: چه باید بدانیم و چه چیزی در آینده است",
+      "title_en": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
+      "summary": "رئیس جمهور گفت که مجازات تعرفه های 50 درصدی تا 19 اوت آغاز خواهد شد، که تشدید قابل توجه جنگ تجاری بین کانادا و ایالات متحده است که او بیش از یک سال پیش آغاز کرد.",
+      "summary_fa": "رئیس جمهور گفت که مجازات تعرفه های 50 درصدی تا 19 اوت آغاز خواهد شد، که تشدید قابل توجه جنگ تجاری بین کانادا و ایالات متحده است که او بیش از یک سال پیش آغاز کرد.",
+      "summary_en": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
+      "link": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 13:18:46 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-canada-tariffs-wtk-vfwk/22int-canada-tariffs-wtk-vfwk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "03f39d25dd7637474768b1dfe0414f4c",
+      "title": "تعرفه های عمومی داروهای ترامپ: چه معنایی برای قیمت دارو، تولید کنندگان و عرضه دارند",
+      "title_fa": "تعرفه های عمومی داروهای ترامپ: چه معنایی برای قیمت دارو، تولید کنندگان و عرضه دارند",
+      "title_en": "Trump's generic drug tariffs: What they could mean for medicine prices, manufacturers and supply",
+      "summary": "طرح تعرفه داروهای عمومی ترامپ سوالاتی را در مورد قیمت ها، ساخت ایالات متحده و اینکه کدام داروسازان قرار است به دست آورند یا از دست بدهند، ایجاد می کند زیرا جزئیات هنوز مشخص نیست.",
+      "summary_fa": "طرح تعرفه داروهای عمومی ترامپ سوالاتی را در مورد قیمت ها، ساخت ایالات متحده و اینکه کدام داروسازان قرار است به دست آورند یا از دست بدهند، ایجاد می کند زیرا جزئیات هنوز مشخص نیست.",
+      "summary_en": "Trump's generic drug tariff plan raises questions over prices, U.S. manufacturing and which drugmakers stand to gain or lose as details remain unclear.",
+      "link": "https://www.cnbc.com/2026/07/22/trump-generic-drug-tariffs-prices-explained.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 13:16:35 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4c95d7bfa3213cd7803932c63545237c",
+      "title": "AMD تا 5 میلیارد دلار در Anthropic در معامله تراشه سرمایه گذاری می کند",
+      "title_fa": "AMD تا 5 میلیارد دلار در Anthropic در معامله تراشه سرمایه گذاری می کند",
+      "title_en": "AMD to invest up to $5bn in Anthropic in chip deal",
+      "summary": "گروه هوش مصنوعی متعهد به خرید ده‌ها میلیارد دلار از آخرین تراشه‌های سرور هوش مصنوعی AMD است.",
+      "summary_fa": "گروه هوش مصنوعی متعهد به خرید ده‌ها میلیارد دلار از آخرین تراشه‌های سرور هوش مصنوعی AMD است.",
+      "summary_en": "AI group commits to buying tens of billions of dollars of AMD’s latest AI server chips",
+      "link": "https://www.ft.com/content/9c74bb34-0705-4be1-b622-a334ce79db1d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 13:16:28 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14484451-3365-44c1-ab96-a18f36b0f805.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c6f52def55c60ae88e9c6adfdaf6dd8",
+      "title": "اتحادیه فوتبال انگلیس توندا اکرت سرمربی ساوتهمپتون را به دلیل رسوایی جاسوسی متهم کرد",
+      "title_fa": "اتحادیه فوتبال انگلیس توندا اکرت سرمربی ساوتهمپتون را به دلیل رسوایی جاسوسی متهم کرد",
+      "title_en": "English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal",
+      "summary": "اتهامات جاسوسی از رقبا منجر به اخراج ساوتهمپتون از فینال پلی آف چمپیونشیپ شد.",
+      "summary_fa": "اتهامات جاسوسی از رقبا منجر به اخراج ساوتهمپتون از فینال پلی آف چمپیونشیپ شد.",
+      "summary_en": "Allegations of spying on rivals led to Southampton's expulsion from the Championship playoff final.",
+      "link": "https://www.aljazeera.com/sports/2026/7/22/english-fa-charges-southampton-coach-tonda-eckert-over-spygate-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:15:31 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c6934a5b7c852102accf71bccb2d5af3",
+      "title": "یکی از ساکنان منطقه خلبان لبنان می گوید: «این زمین مال ما خواهد ماند»",
+      "title_fa": "یکی از ساکنان منطقه خلبان لبنان می گوید: «این زمین مال ما خواهد ماند»",
+      "title_en": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
+      "summary": "یکی از ساکنان منطقه خلبان لبنان می گوید: «این زمین مال ما خواهد ماند»",
+      "summary_fa": "یکی از ساکنان منطقه خلبان لبنان می گوید: «این زمین مال ما خواهد ماند»",
+      "summary_en": "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/this-land-will-remain-ours-says-a-resident-in-lebanons-pilot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:07:59 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6eb017ca001fe66a7ee4477f44adcd12",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Motorola Razr Fold: کدام تاشو ممتاز را باید تهیه کنید؟",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Motorola Razr Fold: کدام تاشو ممتاز را باید تهیه کنید؟",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Fold: Which premium foldable should you get?",
+      "summary": "Galaxy Z Fold 8 Ultra جدید سامسونگ یکی از بهترین گوشی های تاشو موجود است، اما Motorola Razr Fold در چندین زمینه با آن رقابت می کند.",
+      "summary_fa": "Galaxy Z Fold 8 Ultra جدید سامسونگ یکی از بهترین گوشی های تاشو موجود است، اما Motorola Razr Fold در چندین زمینه با آن رقابت می کند.",
+      "summary_en": "Samsung's new Galaxy Z Fold 8 Ultra is one of the best foldables out there, but the Motorola Razr Fold competes with it in several areas.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-motorola-razr-fold/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c60be57057d6324b27621c6c3473aacf",
+      "title": "من یک هفته Samsung Galaxy Watch Ultra 2 را پوشیدم - این یک رقیب واقعی Apple Watch Ultra 3 است",
+      "title_fa": "من یک هفته Samsung Galaxy Watch Ultra 2 را پوشیدم - این یک رقیب واقعی Apple Watch Ultra 3 است",
+      "title_en": "I wore the Samsung Galaxy Watch Ultra 2 for a week - it's a true Apple Watch Ultra 3 rival",
+      "summary": "جدیدترین ساعت هوشمند Ultra سامسونگ اینچ به Apple Watch Ultra نزدیکتر شده است. اینجاست که چرا این چیز بدی نیست.",
+      "summary_fa": "جدیدترین ساعت هوشمند Ultra سامسونگ اینچ به Apple Watch Ultra نزدیکتر شده است. اینجاست که چرا این چیز بدی نیست.",
+      "summary_en": "Samsung's latest Ultra smartwatch inches closer to the Apple Watch Ultra. Here's why that's not a bad thing.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-review/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "836249df4c3e553bbcca0a6c92f7f7c9",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Motorola Razr Ultra: این یکی ارزش بهتری دارد",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Motorola Razr Ultra: این یکی ارزش بهتری دارد",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: This one is the better value",
+      "summary": "کدام گوشی پریمیوم را باید تهیه کنید: Galaxy Z Fold 8 Ultra یا Razr Ultra؟ در زیر، ویژگی‌های کلیدی را با هم مقایسه می‌کنیم تا به شما در انتخاب مناسب کمک کنیم.",
+      "summary_fa": "کدام گوشی پریمیوم را باید تهیه کنید: Galaxy Z Fold 8 Ultra یا Razr Ultra؟ در زیر، ویژگی‌های کلیدی را با هم مقایسه می‌کنیم تا به شما در انتخاب مناسب کمک کنیم.",
+      "summary_en": "Which premium phone should you get: the Galaxy Z Fold 8 Ultra or the Razr Ultra? Below, we compare key features to help you choose the right one.",
+      "link": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "61bfa7077a9bdb43c64ba9385b38c38f",
+      "title": "من 7 سال است که از گوشی‌های تاشو سامسونگ استفاده می‌کنم و Z Fold 8 Ultra بالاخره آن را درست می‌کند.",
+      "title_fa": "من 7 سال است که از گوشی‌های تاشو سامسونگ استفاده می‌کنم و Z Fold 8 Ultra بالاخره آن را درست می‌کند.",
+      "title_en": "I've used Samsung foldable phones for 7 years, and the Z Fold 8 Ultra finally gets it right",
+      "summary": "شکل گسترده‌تر Z Fold 8 خوب است، اما من فقط یک گوشی با دوام می‌خواهم.",
+      "summary_fa": "شکل گسترده‌تر Z Fold 8 خوب است، اما من فقط یک گوشی با دوام می‌خواهم.",
+      "summary_en": "The wider form factor of the Z Fold 8 is nice, but I just want a phone that lasts.",
+      "link": "https://www.zdnet.com/article/ive-used-samsung-foldable-phones-for-7-years-and-the-z-fold-8-ultra-finally-gets-it-right/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f457aed9f75fbaa0b7a37879ff48d464",
+      "title": "سامسونگ گلکسی زد فولد 8 در مقابل زد فلیپ 8: من هر دو مدل را مقایسه کردم و اینم مدلی که باید بخرم",
+      "title_fa": "سامسونگ گلکسی زد فولد 8 در مقابل زد فلیپ 8: من هر دو مدل را مقایسه کردم و اینم مدلی که باید بخرم",
+      "title_en": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: I compared both models, and here's the one to buy",
+      "summary": "جدیدترین گوشی های تاشو سامسونگ در اینجا هستند و ما نحوه مقایسه دو گزینه مقرون به صرفه را توضیح خواهیم داد.",
+      "summary_fa": "جدیدترین گوشی های تاشو سامسونگ در اینجا هستند و ما نحوه مقایسه دو گزینه مقرون به صرفه را توضیح خواهیم داد.",
+      "summary_en": "Samsung's latest foldables are here, and we'll break down how the two most affordable options compare.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9b5d098f0ce73c2588b36fda52a952ed",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Google Pixel Fold 10 Pro: شما نمی توانید ببازید، اما این انتخاب شگفت انگیز من است",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Google Pixel Fold 10 Pro: شما نمی توانید ببازید، اما این انتخاب شگفت انگیز من است",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Google Pixel Fold 10 Pro: You can't lose, but here's my surprise pick",
+      "summary": "Samsung Galaxy Z Fold 8 Ultra تمام قدرت خام مورد نیاز شما را دارد، اما قیمت و لوازم جانبی Google Pixel 10 Pro Fold ممکن است پیشنهاد بهتری باشد.",
+      "summary_fa": "Samsung Galaxy Z Fold 8 Ultra تمام قدرت خام مورد نیاز شما را دارد، اما قیمت و لوازم جانبی Google Pixel 10 Pro Fold ممکن است پیشنهاد بهتری باشد.",
+      "summary_en": "The Samsung Galaxy Z Fold 8 Ultra has all the raw power you'd need, but the price and accessories for the Google Pixel 10 Pro Fold might be a better offer.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-google-pixel-fold-10-pro/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "278554c6c53182303e93f1a182c39b8b",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Galaxy Z Fold 6: این یکی بهتر است - از هر نظر قابل تصور",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Galaxy Z Fold 6: این یکی بهتر است - از هر نظر قابل تصور",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Galaxy Z Fold 6: This one is better - in every conceivable way",
+      "summary": "اگر در حال تکان دادن گلکسی Z Fold 6 سامسونگ هستید، آیا زمان آن رسیده است که ماشه را روی یک گوشی جدید بکشید؟ اینم حکم من",
+      "summary_fa": "اگر در حال تکان دادن گلکسی Z Fold 6 سامسونگ هستید، آیا زمان آن رسیده است که ماشه را روی یک گوشی جدید بکشید؟ اینم حکم من",
+      "summary_en": "If you're already rocking a Samsung Galaxy Z Fold 6, is it time to pull the trigger on a new phone? Here's my verdict.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-samsung-galaxy-z-fold-6/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fc21e2dd37f1a525c3c2f6a4c992d89d",
+      "title": "همه چیز در Samsung Unpacked 2026 اعلام شد: تاشو، ساعت هوشمند و عینک هوشمند جدید",
+      "title_fa": "همه چیز در Samsung Unpacked 2026 اعلام شد: تاشو، ساعت هوشمند و عینک هوشمند جدید",
+      "title_en": "Everything announced at Samsung Unpacked 2026: New foldables, smartwatches, and smart glasses",
+      "summary": "سامسونگ به تازگی در رویداد Unpacked خود از جدیدترین نسل گوشی های هوشمند تاشو و ساعت های هوشمند خود رونمایی کرد. ما در لندن روی زمین هستیم - خلاصه این است.",
+      "summary_fa": "سامسونگ به تازگی در رویداد Unpacked خود از جدیدترین نسل گوشی های هوشمند تاشو و ساعت های هوشمند خود رونمایی کرد. ما در لندن روی زمین هستیم - خلاصه این است.",
+      "summary_en": "Samsung just announced its latest-gen foldable smartphones and smartwatches at its Unpacked event. We're on the ground in London - here's the rundown.",
+      "link": "https://www.zdnet.com/article/everything-announced-samsung-unpacked-2026/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "4407ba70d2454fbd4386077147e8c34d",
+      "title": "کدام گوشی جدید تاشو سامسونگ را باید بخرید؟ Fold8 Ultra، Fold8 یا Flip8؟",
+      "title_fa": "کدام گوشی جدید تاشو سامسونگ را باید بخرید؟ Fold8 Ultra، Fold8 یا Flip8؟",
+      "title_en": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+      "summary": "خانواده گوشی‌های تاشو سامسونگ فرزند وسط جدیدی دارد که ظاهری تازه دارد، اما کدام یک از تاشوهای نسل هشتمی آن برای شما مناسب است؟",
+      "summary_fa": "خانواده گوشی‌های تاشو سامسونگ فرزند وسط جدیدی دارد که ظاهری تازه دارد، اما کدام یک از تاشوهای نسل هشتمی آن برای شما مناسب است؟",
+      "summary_en": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 13:01:00 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7858eb379a7bef78fd4282d59f943e3e",
+      "title": "دانشمندان کشف کردند که نهنگ‌های اسپرم وقتی قایق‌ها در نزدیکی هستند صداهای «واکه» را تغییر می‌دهند",
+      "title_fa": "دانشمندان کشف کردند که نهنگ‌های اسپرم وقتی قایق‌ها در نزدیکی هستند صداهای «واکه» را تغییر می‌دهند",
+      "title_en": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+      "summary": "پژوهشگرانی که در جزیره دومینیکا در دریای کارائیب گوش می‌دادند، متوجه تغییراتی در کلیک‌های شنیدنی پستانداران در هنگام نزدیک شدن به ترافیک دریایی شدند. این الگو به قدری متمایز است که دانشمندانی که آن را شناسایی کردند گفتند اکنون می‌توانند از آن برای پیش‌بینی زمانی که کشتی‌ها در نزدیکی هستند استفاده کنند. محققان پروژه Ceti (ابتکار ترجمه Cetacean)، یک سازمان تحقیقاتی غیرانتفاعی که برای رمزگشایی ارتباطات نهنگ‌های اسپرم کار می‌کند، چهار سال را صرف تنظیم تماس‌های 15 نطفه‌ای خارج از همسایه کردند. ادامه مطلب...",
+      "summary_fa": "پژوهشگرانی که در جزیره دومینیکا در دریای کارائیب گوش می‌دادند، متوجه تغییراتی در کلیک‌های شنیدنی پستانداران در هنگام نزدیک شدن به ترافیک دریایی شدند. این الگو به قدری متمایز است که دانشمندانی که آن را شناسایی کردند گفتند اکنون می‌توانند از آن برای پیش‌بینی زمانی که کشتی‌ها در نزدیکی هستند استفاده کنند. محققان پروژه Ceti (ابتکار ترجمه Cetacean)، یک سازمان تحقیقاتی غیرانتفاعی که برای رمزگشایی ارتباطات نهنگ‌های اسپرم کار می‌کند، چهار سال را صرف تنظیم تماس‌های 15 نطفه‌ای خارج از همسایه کردند. ادامه مطلب...",
+      "summary_en": "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was closeSperm whales produce a specific pattern of clicking noises when they hear the noise of boats, researchers have found. The pattern is so distinct that the scientists who identified it said they can now use it to predict when ships are nearby.Researchers from Project Ceti (the Cetacean Translation Initiative), a non-profit research organisation working to decode sperm whale communication, spent four years tuning in on the calls of 15 sperm whales off the coast of Dominica. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 13:00:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/217d4e6956f01847a82f9f8e37c5b076be41070b/318_0_3773_3018/master/3773.jpg?width=140&quality=85&auto=format&fit=max&s=54d3d215726c40f994825e1e27f31b9d",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a997daff281d6f4f78a4a9aca74c6f2",
+      "title": "سناتور وایدن لایحه ای را برای محدود کردن اختیارات تعرفه ای ترامپ ارائه کرد",
+      "title_fa": "سناتور وایدن لایحه ای را برای محدود کردن اختیارات تعرفه ای ترامپ ارائه کرد",
+      "title_en": "Sen. Wyden introduces bill to curb Trump's tariff powers",
+      "summary": "سناتور ران وایدن گفت که ترامپ \"از هر اختیار تجاری که در اختیار دارد سوء استفاده کرده است\" و تعرفه های جدید او بر کالاهای کانادایی را \"تزلزل\" خواند.",
+      "summary_fa": "سناتور ران وایدن گفت که ترامپ \"از هر اختیار تجاری که در اختیار دارد سوء استفاده کرده است\" و تعرفه های جدید او بر کالاهای کانادایی را \"تزلزل\" خواند.",
+      "summary_en": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" and called his new tariffs on Canadian goods a \"shakedown.\"",
+      "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 13:00:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "10cd3c1829331c88b53bc25c09a91869",
+      "title": "سامسونگ قیمت ها را افزایش داد زیرا گوشی های هوشمند تاشو جدید را پیش از عرضه اولیه اپل معرفی کرد",
+      "title_fa": "سامسونگ قیمت ها را افزایش داد زیرا گوشی های هوشمند تاشو جدید را پیش از عرضه اولیه اپل معرفی کرد",
+      "title_en": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+      "summary": "سامسونگ گلکسی Z Fold8 Ultra، Galaxy Z Fold8 و Galaxy Z Flip8 را معرفی کرد.",
+      "summary_fa": "سامسونگ گلکسی Z Fold8 Ultra، Galaxy Z Fold8 و Galaxy Z Flip8 را معرفی کرد.",
+      "summary_en": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8.",
+      "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 13:00:01 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5bc59c1048c922f5ae6c7f20738c4c24",
+      "title": "سامسونگ با ورود به بازار تحت سلطه متا، ویژگی‌های عینک هوشمند خود را شرح می‌دهد",
+      "title_fa": "سامسونگ با ورود به بازار تحت سلطه متا، ویژگی‌های عینک هوشمند خود را شرح می‌دهد",
+      "title_en": "Samsung details features of its smart glasses as it enters market dominated by Meta",
+      "summary": "عینک هوشمند سامسونگ اولین اقدام غول فناوری در دسته محصولاتی است که در حال حاضر تحت سلطه متا قرار دارد.",
+      "summary_fa": "عینک هوشمند سامسونگ اولین اقدام غول فناوری در دسته محصولاتی است که در حال حاضر تحت سلطه متا قرار دارد.",
+      "summary_en": "The Samsung smart glasses are the tech giant's first foray into the product category which is currently dominated by Meta.",
+      "link": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 13:00:01 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f849e2543761ebb4f525b99287b43001",
+      "title": "من گلکسی زد فولد 8 گسترده جدید سامسونگ را امتحان کردم و این محصول مورد علاقه من در Unpacked 2026 است.",
+      "title_fa": "من گلکسی زد فولد 8 گسترده جدید سامسونگ را امتحان کردم و این محصول مورد علاقه من در Unpacked 2026 است.",
+      "title_en": "I tried Samsung's new wide Galaxy Z Fold 8, and it's my favorite product of Unpacked 2026",
+      "summary": "فرم فاکتور جدید تاشدنی بهتر از تاشوهای سنتی به سبک کتاب است.",
+      "summary_fa": "فرم فاکتور جدید تاشدنی بهتر از تاشوهای سنتی به سبک کتاب است.",
+      "summary_en": "The new wide-fold form factor is better than traditional book-style foldables.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-hands-on/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bce60897d619b5804504bfe92d1116a3",
+      "title": "گلکسی واچ 9 در مقابل گلکسی واچ 8: من هر دو مدل را با هم مقایسه کرده ام، این توصیه من است",
+      "title_fa": "گلکسی واچ 9 در مقابل گلکسی واچ 8: من هر دو مدل را با هم مقایسه کرده ام، این توصیه من است",
+      "title_en": "Galaxy Watch 9 vs. Galaxy Watch 8: I've compared both models, here's my advice",
+      "summary": "سامسونگ به تازگی از جدیدترین گلکسی واچ 9 خود رونمایی کرده است، اما چقدر بهتر از گلکسی واچ نسل قبلی است؟",
+      "summary_fa": "سامسونگ به تازگی از جدیدترین گلکسی واچ 9 خود رونمایی کرده است، اما چقدر بهتر از گلکسی واچ نسل قبلی است؟",
+      "summary_en": "Samsung just unveiled its latest Galaxy Watch 9, but how much better is it than the previous-gen Galaxy Watch?",
+      "link": "https://www.zdnet.com/article/galaxy-watch-9-vs-galaxy-watch-8/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2160c6c1d5e5f71794867e89edb84d6",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Z Fold 7: پس از یک سال استفاده، من آماده ارتقاء هستم",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Z Fold 7: پس از یک سال استفاده، من آماده ارتقاء هستم",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: After a year of usage, I'm ready to upgrade",
+      "summary": "با جدیدترین گوشی تاشو سامسونگ، این شرکت تغییراتی در طراحی و نرم افزار ارائه می دهد که حتی Z Fold سال گذشته را ناکافی می کند.",
+      "summary_fa": "با جدیدترین گوشی تاشو سامسونگ، این شرکت تغییراتی در طراحی و نرم افزار ارائه می دهد که حتی Z Fold سال گذشته را ناکافی می کند.",
+      "summary_en": "With Samsung's latest foldable phone, the company offers design and software changes that make even last year's Z Fold feel insufficient.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d3b3b11f32fb3ddfda1d426189db6935",
+      "title": "گلکسی زد فولد 8 اولترا جدید سامسونگ چشمگیر است، اما آن پرچمداری نیست که من به آن علاقه دارم.",
+      "title_fa": "گلکسی زد فولد 8 اولترا جدید سامسونگ چشمگیر است، اما آن پرچمداری نیست که من به آن علاقه دارم.",
+      "title_en": "Samsung's new Galaxy Z Fold 8 Ultra is impressive, but it's not the flagship I'm drawn to",
+      "summary": "Samsung Galaxy Z Fold 8 Ultra گوشی خوبی است، اما چیزی بسیار متقاعد کننده تر در مورد Galaxy Z Fold 8 وجود دارد.",
+      "summary_fa": "Samsung Galaxy Z Fold 8 Ultra گوشی خوبی است، اما چیزی بسیار متقاعد کننده تر در مورد Galaxy Z Fold 8 وجود دارد.",
+      "summary_en": "The Samsung Galaxy Z Fold 8 Ultra is a good phone, but there's something way more compelling about the Galaxy Z Fold 8.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8208e6c02a05b437cd25071a35e5c1d1",
+      "title": "چرا سامسونگ به گوشی تاشو بعدی خود شکل جدیدی داد؟",
+      "title_fa": "چرا سامسونگ به گوشی تاشو بعدی خود شکل جدیدی داد؟",
+      "title_en": "Why Samsung Gave Its Next Folding Phone a New Shape",
+      "summary": "مردم ساعت ها را صرف تماشای ویدیو در گوشی های هوشمند خود می کنند. گلکسی Z Fold8 پهن‌تر، کوتاه‌تر و سبک‌تر دقیقاً همین را برآورده می‌کند.",
+      "summary_fa": "مردم ساعت ها را صرف تماشای ویدیو در گوشی های هوشمند خود می کنند. گلکسی Z Fold8 پهن‌تر، کوتاه‌تر و سبک‌تر دقیقاً همین را برآورده می‌کند.",
+      "summary_en": "People spend hours watching videos on their smartphones. The wider, shorter, and lighter Galaxy Z Fold8 caters to exactly that.",
+      "link": "https://www.wired.com/story/why-samsung-gave-its-next-folding-phone-a-new-shape-galaxy-z-fold8/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -150,6 +1704,69 @@
       }
     },
     {
+      "id": "53fb6c93b637e4dbe51cfbd4526870da",
+      "title": "\"فقط می خواهم به عقب برگردم\": لبنانی ها منتظر بازگشت با ورود ارتش به \"منطقه خلبانی\" هستند",
+      "title_fa": "\"فقط می خواهم به عقب برگردم\": لبنانی ها منتظر بازگشت با ورود ارتش به \"منطقه خلبانی\" هستند",
+      "title_en": "‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’",
+      "summary": "همزمان با آغاز اجرای چارچوب توافق با میانجیگری ایالات متحده، ارتش لبنان در زوتر الغربیه جنوب لبنان مستقر شد.",
+      "summary_fa": "همزمان با آغاز اجرای چارچوب توافق با میانجیگری ایالات متحده، ارتش لبنان در زوتر الغربیه جنوب لبنان مستقر شد.",
+      "summary_en": "Lebanese army deploys into southern Lebanon's Zawtar al-Gharbiya as implementation of US-brokered framework deal begins.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/just-want-to-go-back-lebanese-await-return-as-army-enters-pilot-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:59:17 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "54b021d78c842a71597022c0c2bb421a",
+      "title": "10 مورد برتر جیم کرامر برای تماشای چهارشنبه در بازار سهام",
+      "title_fa": "10 مورد برتر جیم کرامر برای تماشای چهارشنبه در بازار سهام",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "summary": "امروز نمی توان افزایش قیمت نفت را نادیده گرفت.",
+      "summary_fa": "امروز نمی توان افزایش قیمت نفت را نادیده گرفت.",
+      "summary_en": "The rise in oil prices cannot be ignored today.",
+      "link": "https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 12:58:20 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca7c80527d5f5ab1db7367dc399eb9f8",
+      "title": "زلنسکی پس از چند روز اعتراض، جانشین فرمانده کل اوکراین شد",
+      "title_fa": "زلنسکی پس از چند روز اعتراض، جانشین فرمانده کل اوکراین شد",
+      "title_en": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
+      "summary": "زلنسکی پس از چند روز اعتراض، جانشین فرمانده کل اوکراین شد",
+      "summary_fa": "زلنسکی پس از چند روز اعتراض، جانشین فرمانده کل اوکراین شد",
+      "summary_en": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/zelenskyy-replaces-ukraines-commander-in-chief-after-days-of-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:57:20 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
       "id": "4c6491114611a691ddd424635ce18278",
       "title": "نخست وزیر جدید بریتانیا «هزینه زندگی دولت» را با کاهش مالیات بر ارزش افزوده و سقف کرایه اتوبوس تبلیغ می کند",
       "title_fa": "نخست وزیر جدید بریتانیا «هزینه زندگی دولت» را با کاهش مالیات بر ارزش افزوده و سقف کرایه اتوبوس تبلیغ می کند",
@@ -171,6 +1788,27 @@
       }
     },
     {
+      "id": "8660565f976307ad08d3d262517a8061",
+      "title": "شهرک نشینان به شهرهای فلسطینی در کرانه باختری اشغالی حمله کردند",
+      "title_fa": "شهرک نشینان به شهرهای فلسطینی در کرانه باختری اشغالی حمله کردند",
+      "title_en": "Settlers attack Palestinian towns in occupied West Bank",
+      "summary": "شهرک نشینان به شهرهای فلسطینی در کرانه باختری اشغالی حمله کردند",
+      "summary_fa": "شهرک نشینان به شهرهای فلسطینی در کرانه باختری اشغالی حمله کردند",
+      "summary_en": "Settlers attack Palestinian towns in Occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/settlers-attack-palestinian-towns-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:51:35 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "da45b1218dd7368ee1773944fd38ec50",
       "title": "آژانس ایمنی مواد غذایی اتحادیه اروپا میزان مصرف ایمن روزانه TFA \"مواد شیمیایی برای همیشه\" را کاهش می دهد",
       "title_fa": "آژانس ایمنی مواد غذایی اتحادیه اروپا میزان مصرف ایمن روزانه TFA \"مواد شیمیایی برای همیشه\" را کاهش می دهد",
@@ -189,6 +1827,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4c4a74011ddf821000d6918b97ad6c4d",
+      "title": "سود شرکت ملی نفت نروژ در بحبوحه جنگ علیه ایران دو برابر شده و به 11.5 میلیارد دلار رسیده است",
+      "title_fa": "سود شرکت ملی نفت نروژ در بحبوحه جنگ علیه ایران دو برابر شده و به 11.5 میلیارد دلار رسیده است",
+      "title_en": "Norway’s national oil company’s profits double to $11.5bn amid war on Iran",
+      "summary": "Equinor از تصمیم برای افزایش تولید نفت و گاز در حین محاصره تنگه هرمز سود می برد. تجارت زنده - آخرین به روز رسانی سود شرکت نفت دولتی نروژ در سه ماه منتهی به پایان ژوئن تقریباً دو برابر شد و به 11.5 میلیارد دلار (8.6 میلیارد پوند) رسید زیرا جهش قیمت نفت و گاز ناشی از جنگ علیه ایران باعث افزایش درآمد نفت و گاز در انگلیس شد. تولید در آغاز مناقشه، پر کردن شکاف در بازار پس از توقف تقریباً توقف حمل و نقل از طریق تنگه هرمز، باعث کاهش جریان نفت خلیج فارس شد. ادامه مطلب...",
+      "summary_fa": "Equinor از تصمیم برای افزایش تولید نفت و گاز در حین محاصره تنگه هرمز سود می برد. تجارت زنده - آخرین به روز رسانی سود شرکت نفت دولتی نروژ در سه ماه منتهی به پایان ژوئن تقریباً دو برابر شد و به 11.5 میلیارد دلار (8.6 میلیارد پوند) رسید زیرا جهش قیمت نفت و گاز ناشی از جنگ علیه ایران باعث افزایش درآمد نفت و گاز در انگلیس شد. تولید در آغاز مناقشه، پر کردن شکاف در بازار پس از توقف تقریباً توقف حمل و نقل از طریق تنگه هرمز، باعث کاهش جریان نفت خلیج فارس شد. ادامه مطلب...",
+      "summary_en": "Equinor benefits from decision to increase oil and gas production during strait of Hormuz blockadesBusiness live – latest updatesProfits at Norway’s state oil company nearly doubled to $11.5bn (£8.6bn) in the three months to the end of June as the jump in oil and gas prices caused by the war against Iran boosted earnings.Equinor– which is the UK’s biggest gas supplier – benefited from a decision to increase oil and gas production at the start of the conflict, filling a gap in the market after a near-halt to shipping through the strait of Hormuz caused Gulf oil flows to slump. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 12:45:37 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a2fb454022def2c6f9dfd2c0e7d4c88a528c9939/0_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=5da77fd96081d04fd60d850dd38dee1e",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -226,6 +1885,27 @@
       "date_iso": "2026-07-22",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1a9bd3cfa5e7143451150169c0772072",
+      "title": "Fidelity می گوید که بازنشستگان 2026 ممکن است 185500 دلار برای مراقبت های بهداشتی هزینه کنند. یک دسته ممکن است این هزینه ها را بیشتر کند",
+      "title_fa": "Fidelity می گوید که بازنشستگان 2026 ممکن است 185500 دلار برای مراقبت های بهداشتی هزینه کنند. یک دسته ممکن است این هزینه ها را بیشتر کند",
+      "title_en": "Fidelity says 2026 retirees may spend $185,500 on healthcare. One category may push those costs higher",
+      "summary": "طبق گفته Fidelity Investments، یک فرد 65 ساله که در سال 2026 بازنشسته می شود، ممکن است به طور متوسط ​​185500 دلار برای هزینه های بهداشتی و پزشکی در دوران بازنشستگی هزینه کند.",
+      "summary_fa": "طبق گفته Fidelity Investments، یک فرد 65 ساله که در سال 2026 بازنشسته می شود، ممکن است به طور متوسط ​​185500 دلار برای هزینه های بهداشتی و پزشکی در دوران بازنشستگی هزینه کند.",
+      "summary_en": "A 65-year-old who retires in 2026 may spend an average of $185,500 on health and medical expenses in retirement, according to Fidelity Investments.",
+      "link": "https://www.cnbc.com/2026/07/22/retirement-health-costs-fidelity.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 12:35:01 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -304,6 +1984,27 @@
       "summary": "ایزابل رز، 26 ساله، پس از متهم کردن یک بانکدار بریتانیایی، به دلیل باج خواهی و انحراف در مسیر عدالت به شش سال زندان محکوم شد. زن بریتانیایی که به پلیس در هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، از جنوب شرق لندن، در حالی که در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
       "summary_fa": "ایزابل رز، 26 ساله، پس از متهم کردن یک بانکدار بریتانیایی، به دلیل باج خواهی و انحراف در مسیر عدالت به شش سال زندان محکوم شد. زن بریتانیایی که به پلیس در هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، از جنوب شرق لندن، در حالی که در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
       "summary_en": "Isabel Rose, 26, given six-year sentence for blackmail and perverting course of justice after accusing British bankerA British woman who reported being raped to police in Hong Kong has been sentenced to six years in prison for blackmail and perverting the course of public justice.Isabel Rose, 26, from south-east London, travelled to Hong Kong in early 2024 to visit a British banker she had met while travelling in south-east Asia. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 12:28:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8831179a23d1e3ca8bc2179b0c1216dd0b777e24/709_281_3674_2939/master/3674.jpg?width=140&quality=85&auto=format&fit=max&s=efd12e3869e53c076d3f9f29f52eb2d9",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "dd99b6b18b67142c6c823712bdda032b",
+      "title": "زن انگلیسی پس از متهم کردن یک بانکدار به تجاوز جنسی در هنگ کنگ به دلیل باج خواهی زندانی شد",
+      "title_fa": "زن انگلیسی پس از متهم کردن یک بانکدار به تجاوز جنسی در هنگ کنگ به دلیل باج خواهی زندانی شد",
+      "title_en": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
+      "summary": "ایزابل رز، 26 ساله، به دلیل باج خواهی و انحراف در روند عدالت عمومی به دلیل اتهاماتش علیه مرد انگلیسی به شش سال محکوم شد. زن بریتانیایی که به پلیس هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، اهل جنوب شرقی لندن بود، در حالی که او در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
+      "summary_fa": "ایزابل رز، 26 ساله، به دلیل باج خواهی و انحراف در روند عدالت عمومی به دلیل اتهاماتش علیه مرد انگلیسی به شش سال محکوم شد. زن بریتانیایی که به پلیس هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، اهل جنوب شرقی لندن بود، در حالی که او در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
+      "summary_en": "Isabel Rose, 26, sentenced to six years for blackmail and perverting course of public justice over her allegations against British manA British woman who reported being raped to police in Hong Kong has been sentenced to six years in prison for blackmail and perverting the course of public justice.Isabel Rose, 26, from south-east London, travelled to Hong Kong in early 2024 to visit a British banker she had met while travelling in south-east Asia. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
       "source": "The Guardian",
       "published_at": "Wed, 22 Jul 2026 12:28:15 GMT",
@@ -1494,6 +3195,27 @@
       }
     },
     {
+      "id": "a9b0d294f680af141cde8aa394ab34ad",
+      "title": "ترامپ تهدید کرد در صورت تداوم حملات هرمز، پل ها و نیروگاه های ایران را هدف قرار خواهد داد",
+      "title_fa": "ترامپ تهدید کرد در صورت تداوم حملات هرمز، پل ها و نیروگاه های ایران را هدف قرار خواهد داد",
+      "title_en": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "summary": "دونالد ترامپ می گوید هر زمان که نیروهای ایرانی به یک کشتی در تنگه هرمز شلیک کنند، ایالات متحده پاسخ خواهد داد.",
+      "summary_fa": "دونالد ترامپ می گوید هر زمان که نیروهای ایرانی به یک کشتی در تنگه هرمز شلیک کنند، ایالات متحده پاسخ خواهد داد.",
+      "summary_en": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 10:15:03 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "e32b685658cd767ecaddaf1b7089a93e",
       "title": "من می خواستم 17000 دلار بدهی کارت اعتباری را منتقل کنم. چرا ولز فارگو فقط یک محدودیت اعتباری 4000 دلاری به من پیشنهاد داد؟",
       "title_fa": "من می خواستم 17000 دلار بدهی کارت اعتباری را منتقل کنم. چرا ولز فارگو فقط یک محدودیت اعتباری 4000 دلاری به من پیشنهاد داد؟",
@@ -1788,6 +3510,27 @@
       }
     },
     {
+      "id": "1acec6bb8b16f942cdbc1a273475c1f9",
+      "title": "سرخس های باستانی اروپای تریاس را به یک جهنم آتش سوزی تبدیل کردند",
+      "title_fa": "سرخس های باستانی اروپای تریاس را به یک جهنم آتش سوزی تبدیل کردند",
+      "title_en": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "summary": "ساواناهای سرخس باستانی ممکن است در طول انقراض دسته جمعی پایان دوره تریاس، بخش هایی از اروپا را به جهنمی مستعد آتش سوزی تبدیل کرده باشند. شواهد فسیلی جدید حاکی از آن است که سرخس‌ها پس از آتش‌سوزی‌ها به‌طور مکرر دوباره رشد کرده‌اند و سوخت تازه‌ای ایجاد می‌کنند که به طولانی‌تر شدن ویرانی کمک می‌کند.",
+      "summary_fa": "ساواناهای سرخس باستانی ممکن است در طول انقراض دسته جمعی پایان دوره تریاس، بخش هایی از اروپا را به جهنمی مستعد آتش سوزی تبدیل کرده باشند. شواهد فسیلی جدید حاکی از آن است که سرخس‌ها پس از آتش‌سوزی‌ها به‌طور مکرر دوباره رشد کرده‌اند و سوخت تازه‌ای ایجاد می‌کنند که به طولانی‌تر شدن ویرانی کمک می‌کند.",
+      "summary_en": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 09:10:01 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "5b82976f038e11ee8279ffede0f8cd17",
       "title": "کارشناس می گوید: \"بدون انتقاد از خود\" در مورد رفتار آرژانتین در فینال جام جهانی",
       "title_fa": "کارشناس می گوید: \"بدون انتقاد از خود\" در مورد رفتار آرژانتین در فینال جام جهانی",
@@ -2016,6 +3759,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "28f98b1ea9f1cd90250024f5ae9cc85b",
+      "title": "علائم هشدار دهنده سرطان کولورکتال که بزرگسالان جوان هرگز نباید نادیده بگیرند",
+      "title_fa": "علائم هشدار دهنده سرطان کولورکتال که بزرگسالان جوان هرگز نباید نادیده بگیرند",
+      "title_en": "Colorectal cancer warning signs younger adults should never ignore",
+      "summary": "سرطان کولورکتال در حال حاضر علت اصلی مرگ و میر ناشی از سرطان در میان افراد زیر 50 سال است و موارد در بزرگسالان جوان همچنان رو به افزایش است. علائم هشدار دهنده می تواند شامل تغییرات مداوم روده، خونریزی مکرر رکتوم، مدفوع تیره یا باریک، کاهش وزن غیرقابل توضیح و خستگی باشد. این علائم اغلب دلایل بی ضرری دارند، اما نباید آنها را نادیده گرفت، به خصوص زمانی که جدید یا مداوم هستند. تشخیص زودهنگام می تواند تا حد زیادی نتایج درمان را بهبود بخشد.",
+      "summary_fa": "سرطان کولورکتال در حال حاضر علت اصلی مرگ و میر ناشی از سرطان در میان افراد زیر 50 سال است و موارد در بزرگسالان جوان همچنان رو به افزایش است. علائم هشدار دهنده می تواند شامل تغییرات مداوم روده، خونریزی مکرر رکتوم، مدفوع تیره یا باریک، کاهش وزن غیرقابل توضیح و خستگی باشد. این علائم اغلب دلایل بی ضرری دارند، اما نباید آنها را نادیده گرفت، به خصوص زمانی که جدید یا مداوم هستند. تشخیص زودهنگام می تواند تا حد زیادی نتایج درمان را بهبود بخشد.",
+      "summary_en": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narrow stools, unexplained weight loss, and fatigue. These symptoms often have harmless causes, but they should not be dismissed, especially when they are new or ongoing. Early detection can greatly improve treatment outcomes.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 08:47:24 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -4249,6 +6013,27 @@
       }
     },
     {
+      "id": "086831e77d37e3b90bbd5ca02905c9a0",
+      "title": "قطارهای ژاپن با استقبال از مهتاب این کشور بسیار سریعتر می شوند",
+      "title_fa": "قطارهای ژاپن با استقبال از مهتاب این کشور بسیار سریعتر می شوند",
+      "title_en": "Japan’s trains are getting much faster as the country embraces moonshots",
+      "summary": "پروژه ریلی با سرعت 505 کیلومتر در ساعت اهمیت نمادین پیدا کرده است",
+      "summary_fa": "پروژه ریلی با سرعت 505 کیلومتر در ساعت اهمیت نمادین پیدا کرده است",
+      "summary_en": "505km per hour rail project has taken on symbolic importance",
+      "link": "https://www.ft.com/content/86a7abb4-69b3-47d6-be95-47e76625380b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 21 Jul 2026 23:01:03 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fed335218-c0fc-45f0-b94a-aef9f76f8b26.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "7a1c1932485c72d3f9b390ef271b5c4a",
       "title": "آیا رنجروور GT کاملاً جدید روی دم جگوار پا می گذارد؟",
       "title_fa": "آیا رنجروور GT کاملاً جدید روی دم جگوار پا می گذارد؟",
@@ -4482,6 +6267,27 @@
       "title": "توکیو از مردان می‌خواهد که برای سر کار شلوارک بپوشند، اما برخی از زنان می‌گویند این «آزار و اذیت موهای پا» است.",
       "title_fa": "توکیو از مردان می‌خواهد که برای سر کار شلوارک بپوشند، اما برخی از زنان می‌گویند این «آزار و اذیت موهای پا» است.",
       "title_en": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "summary": "دولت متروپولیتن توکیو از کارگران می‌خواهد که کت و شلوار و کراوات تی‌شرت، لباس ورزشی و شورت را کنار بگذارند.",
+      "summary_fa": "دولت متروپولیتن توکیو از کارگران می‌خواهد که کت و شلوار و کراوات تی‌شرت، لباس ورزشی و شورت را کنار بگذارند.",
+      "summary_en": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 21 Jul 2026 22:26:19 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "توکیو"
+      }
+    },
+    {
+      "id": "5ae67d073af64d4b61cfe4b495ac12ec",
+      "title": "توکیو از مردان می‌خواهد سر کار شلوارک بپوشند، اما زنان می‌گویند این «آزار و اذیت موهای پا» است.",
+      "title_fa": "توکیو از مردان می‌خواهد سر کار شلوارک بپوشند، اما زنان می‌گویند این «آزار و اذیت موهای پا» است.",
+      "title_en": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
       "summary": "دولت متروپولیتن توکیو از کارگران می‌خواهد که کت و شلوار و کراوات تی‌شرت، لباس ورزشی و شورت را کنار بگذارند.",
       "summary_fa": "دولت متروپولیتن توکیو از کارگران می‌خواهد که کت و شلوار و کراوات تی‌شرت، لباس ورزشی و شورت را کنار بگذارند.",
       "summary_en": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
@@ -7902,6 +9708,153 @@
       }
     },
     {
+      "id": "b79e96240a2c0794da91823fecfe4df7",
+      "title": "مایکروسافت بازی های اصلی ایکس باکس را به رایانه شخصی می آورد",
+      "title_fa": "مایکروسافت بازی های اصلی ایکس باکس را به رایانه شخصی می آورد",
+      "title_en": "Microsoft is bringing original Xbox games to PC",
+      "summary": "مایکروسافت امروز با آوردن بازی‌های اصلی Xbox به رایانه شخصی، تلاش‌های خود برای سازگاری با Xbox را گسترش می‌دهد. یک نسخه پیش‌نمایش اولیه، چهار بازی کلاسیک Xbox را امروز بر روی رایانه شخصی در دسترس خواهد بود، به عنوان بخشی از تلاش بزرگ‌تر برای آوردن بازی‌های کنسول ایکس‌باکس بیشتر به رایانه شخصی در آینده. چهار بازی اول Blinx: The Time […]",
+      "summary_fa": "مایکروسافت امروز با آوردن بازی‌های اصلی Xbox به رایانه شخصی، تلاش‌های خود برای سازگاری با Xbox را گسترش می‌دهد. یک نسخه پیش‌نمایش اولیه، چهار بازی کلاسیک Xbox را امروز بر روی رایانه شخصی در دسترس خواهد بود، به عنوان بخشی از تلاش بزرگ‌تر برای آوردن بازی‌های کنسول ایکس‌باکس بیشتر به رایانه شخصی در آینده. چهار بازی اول Blinx: The Time […]",
+      "summary_en": "Microsoft is expanding its Xbox backward compatibility efforts today by bringing original Xbox games to PC. An early preview release will see four classic Xbox games available on PC today, as part of a bigger effort to bring more Xbox console games to PC in the future. The first four games are Blinx: The Time […]",
+      "link": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility",
+      "source": "The Verge",
+      "published_at": "2026-07-22T11:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "156ef26494603ba79acf323729b2ed8d",
+      "title": "AMD و Anthropic به قرارداد زیرساختی هوش مصنوعی 5 میلیارد دلاری رسیدند",
+      "title_fa": "AMD و Anthropic به قرارداد زیرساختی هوش مصنوعی 5 میلیارد دلاری رسیدند",
+      "title_en": "AMD and Anthropic reach $5 billion AI infrastructure deal",
+      "summary": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
+      "summary_fa": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
+      "summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source": "The Verge",
+      "published_at": "2026-07-22T10:44:27-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5d3ac517d76ef5b293c839f475a155f2",
+      "title": "جدیدترین گوشی تاشو سامسونگ بالاخره فوق العاده است",
+      "title_fa": "جدیدترین گوشی تاشو سامسونگ بالاخره فوق العاده است",
+      "title_en": "Samsung’s newest foldable finally feels Ultra",
+      "summary": "در حالی که منتظر شایعه آیفون تاشو اپل هستیم، سامسونگ در حال جلا دادن طرحی است که از قبل در بازار دارد. من فقط سه ساعت را با دستانم روی Z Fold 8 Ultra جدید گذراندم و تنها چیزی که می توانم به آن فکر کنم این است که چگونه سامسونگ سرانجام این چروک را نامرئی کرد. سامسونگ می گوید که به لطف […]",
+      "summary_fa": "در حالی که منتظر شایعه آیفون تاشو اپل هستیم، سامسونگ در حال جلا دادن طرحی است که از قبل در بازار دارد. من فقط سه ساعت را با دستانم روی Z Fold 8 Ultra جدید گذراندم و تنها چیزی که می توانم به آن فکر کنم این است که چگونه سامسونگ سرانجام این چروک را نامرئی کرد. سامسونگ می گوید که به لطف […]",
+      "summary_en": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market. I just spent three hours with my hands on the new Z Fold 8 Ultra, and all I can think about is how Samsung finally made the crease invisible. Samsung says it achieved this thanks to […]",
+      "link": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+      "source": "The Verge",
+      "published_at": "2026-07-22T09:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "704304f51612329dc58ff56c5099e97b",
+      "title": "Z Fold 8 عریض‌تر سامسونگ کاملاً مناسب است",
+      "title_fa": "Z Fold 8 عریض‌تر سامسونگ کاملاً مناسب است",
+      "title_en": "Samsung’s wider Z Fold 8 feels just right",
+      "summary": "یک سال پس از تعمیرات اساسی گوشی Z Fold خود با طراحی کاملاً نازک‌تر، سامسونگ دوباره همه چیز را تغییر داد و این بار شکل آن را به کلی تغییر داد. Z Fold 8 پهن‌تر از هر یک از تاشوهای قبلی سامسونگ است و همچنین کوتاه‌تر است، اندازه و شکلی بین مدل‌های سنتی Flip و Fold سامسونگ دارد. در عکس ها، من […]",
+      "summary_fa": "یک سال پس از تعمیرات اساسی گوشی Z Fold خود با طراحی کاملاً نازک‌تر، سامسونگ دوباره همه چیز را تغییر داد و این بار شکل آن را به کلی تغییر داد. Z Fold 8 پهن‌تر از هر یک از تاشوهای قبلی سامسونگ است و همچنین کوتاه‌تر است، اندازه و شکلی بین مدل‌های سنتی Flip و Fold سامسونگ دارد. در عکس ها، من […]",
+      "summary_en": "A year after overhauling its Z Fold phone with a radically thinner design, Samsung has changed things up again, this time altering the shape entirely. The Z Fold 8 is wider than any of Samsung's previous foldables, and shorter too, a size and shape somewhere between Samsung's traditional Flip and Fold models. In photos, I […]",
+      "link": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-07-22T09:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55044f6703219a2595ab42cb83f787ca",
+      "title": "گلکسی واچ 9 و اولترا 2 سامسونگ روی باتری شرط بندی زیادی دارند",
+      "title_fa": "گلکسی واچ 9 و اولترا 2 سامسونگ روی باتری شرط بندی زیادی دارند",
+      "title_en": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery",
+      "summary": "این یک سال اصلاح برای Galaxy Watch است. با گلکسی واچ 9 و گلکسی واچ اولترا 2 جدید که امروز معرفی می شوند، سامسونگ کم و بیش از آنچه مردم در مورد ساعت های خود می پسندند استفاده می کند و این عناصر را برای بهتر شدن تغییر می دهد. این شرکت در چند نسل گذشته این کار را انجام داده است […]",
+      "summary_fa": "این یک سال اصلاح برای Galaxy Watch است. با گلکسی واچ 9 و گلکسی واچ اولترا 2 جدید که امروز معرفی می شوند، سامسونگ کم و بیش از آنچه مردم در مورد ساعت های خود می پسندند استفاده می کند و این عناصر را برای بهتر شدن تغییر می دهد. این شرکت در چند نسل گذشته این کار را انجام داده است […]",
+      "summary_en": "It's a year of refinement for the Galaxy Watch. With the new Galaxy Watch 9 and Galaxy Watch Ultra 2, which are being announced today, Samsung is more or less taking what people like about its watches and tweaking those elements to be better. The company has been doing this for the past few generations […]",
+      "link": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "source": "The Verge",
+      "published_at": "2026-07-22T09:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cf5882e45f73cbb2d217ad4154c5f389",
+      "title": "تقریباً فراموش کردم Z Flip 8 سامسونگ تاشو بود",
+      "title_fa": "تقریباً فراموش کردم Z Flip 8 سامسونگ تاشو بود",
+      "title_en": "I almost forgot Samsung’s Z Flip 8 was a foldable",
+      "summary": "Galaxy Z Flip 8 جدید سامسونگ بیش از هر زمان دیگری شبیه یک گوشی معمولی است. نازک‌تر، سبک‌تر و دارای صفحه‌نمایش جلویی است که می‌توانید تقریباً هر کاری را روی آن انجام دهید. اینکه آیا این یک چیز خوب یا بد است، من هنوز کاملاً مطمئن نیستم. من هفته گذشته سه ساعت را با جدیدترین تلفن تاشو سامسونگ گذراندم، و این […]",
+      "summary_fa": "Galaxy Z Flip 8 جدید سامسونگ بیش از هر زمان دیگری شبیه یک گوشی معمولی است. نازک‌تر، سبک‌تر و دارای صفحه‌نمایش جلویی است که می‌توانید تقریباً هر کاری را روی آن انجام دهید. اینکه آیا این یک چیز خوب یا بد است، من هنوز کاملاً مطمئن نیستم. من هفته گذشته سه ساعت را با جدیدترین تلفن تاشو سامسونگ گذراندم، و این […]",
+      "summary_en": "Samsung's new Galaxy Z Flip 8 feels more like a regular phone than ever. It's thinner, lighter, and has a front screen you can do just about anything on. Whether that's a good or bad thing, I'm not quite sure yet. I spent three hours with Samsung's newest flip phone last week, and it doesn't […]",
+      "link": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-07-22T09:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f1372f33863e2263a2ad59592ea68714",
+      "title": "Samsung Galaxy Unpacked 2026: 6 بزرگترین اعلامیه",
+      "title_fa": "Samsung Galaxy Unpacked 2026: 6 بزرگترین اعلامیه",
+      "title_en": "Samsung Galaxy Unpacked 2026: The 6 biggest announcements",
+      "summary": "رویداد تابستانی سالانه سامسونگ صبح چهارشنبه با رونمایی این شرکت از سری جدید ساعت‌ها و ساعت‌های تاشو آغاز شد. پس از هفته‌ها شایعات و افشاگری‌ها، سامسونگ گلکسی زد فولد 8 را با طراحی کاملاً جدید معرفی کرد که کوتاه‌تر و عریض‌تر از فولد سال گذشته است، یک فولد جدید \"Ultra\"، یک مدل Flip به روز شده و […]",
+      "summary_fa": "رویداد تابستانی سالانه سامسونگ صبح چهارشنبه با رونمایی این شرکت از سری جدید ساعت‌ها و ساعت‌های تاشو آغاز شد. پس از هفته‌ها شایعات و افشاگری‌ها، سامسونگ گلکسی زد فولد 8 را با طراحی کاملاً جدید معرفی کرد که کوتاه‌تر و عریض‌تر از فولد سال گذشته است، یک فولد جدید \"Ultra\"، یک مدل Flip به روز شده و […]",
+      "summary_en": "Samsung's annual summer event kicked off on Wednesday morning with the company unveiling a new lineup of watches and foldables. Following weeks of rumors and leaks, Samsung announced the Galaxy Z Fold 8 with a completely new design that's shorter and wider than last year's Fold, a new \"Ultra\" Fold, an updated Flip model, and […]",
+      "link": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+      "source": "The Verge",
+      "published_at": "2026-07-22T09:00:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "084eb2dba2fef5bd80ad7ae95bb4dbf1",
       "title": "Samsung Unpacked 2026: همه اخبار مربوط به عرضه تاشو در ماه جولای",
       "title_fa": "Samsung Unpacked 2026: همه اخبار مربوط به عرضه تاشو در ماه جولای",
@@ -7977,6 +9930,48 @@
       "published_at": "2026-07-22T06:12:13-04:00",
       "date_iso": "2026-07-22",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b5ffb6634881b764f6a31e685f85f00e",
+      "title": "تهویه مطبوع برای خنک نگه داشتن مردم کافی نیست - آیا دانشمندان می توانند جایگزینی بیابند؟",
+      "title_fa": "تهویه مطبوع برای خنک نگه داشتن مردم کافی نیست - آیا دانشمندان می توانند جایگزینی بیابند؟",
+      "title_en": "Air conditioning is not enough to keep people cool — can scientists find an alternative?",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02273-2پیشرفت در مصالح به ساختمان ها اجازه می دهد تا با افزایش دما خنک شوند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02273-2پیشرفت در مصالح به ساختمان ها اجازه می دهد تا با افزایش دما خنک شوند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02273-2Advances in materials allow buildings to be cooled as temperatures rise.",
+      "link": "https://www.nature.com/articles/d41586-026-02273-2",
+      "source": "Nature",
+      "published_at": "2026-07-22 15:08",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cd89aa84488c649aa106c90b706297b7",
+      "title": "چرا برخی از درختان پس از پاکسازی جنگل های بارانی هرگز باز نمی گردند؟",
+      "title_fa": "چرا برخی از درختان پس از پاکسازی جنگل های بارانی هرگز باز نمی گردند؟",
+      "title_en": "Why some trees never come back after rainforests are cleared",
+      "summary": "طبیعت، انتشار آنلاین: 20 جولای 2026; doi:10.1038/d41586-026-02259-0 تنوع درختان در جنگل های احیا شده کمتر از جنگل های قدیمی است - حتی پس از 120 سال رشد مجدد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 20 جولای 2026; doi:10.1038/d41586-026-02259-0 تنوع درختان در جنگل های احیا شده کمتر از جنگل های قدیمی است - حتی پس از 120 سال رشد مجدد.",
+      "summary_en": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02259-0Tree diversity is lower in regenerated forests than in old forests — even after 120 years of regrowth.",
+      "link": "https://www.nature.com/articles/d41586-026-02259-0",
+      "source": "Nature",
+      "published_at": "2026-07-22 15:08",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
