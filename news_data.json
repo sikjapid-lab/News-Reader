@@ -1,7 +1,238 @@
 {
-  "last_update": "2026-07-22 19:39:09",
-  "total_count": 664,
+  "last_update": "2026-07-22 20:46:51",
+  "total_count": 695,
   "articles": [
+    {
+      "id": "4a4f8ba989600c99191f70863b60a302",
+      "title": "شیوع ابولا در کنگو بیش از 1000 نفر را می کشد",
+      "title_fa": "شیوع ابولا در کنگو بیش از 1000 نفر را می کشد",
+      "title_en": "Congo's Ebola outbreak kills more than 1,000 people",
+      "summary": "سازمان بهداشت جهانی گفته است که مقیاس واقعی شیوع این بیماری ممکن است دو تا چهار برابر بیشتر از آمارهای رسمی باشد.",
+      "summary_fa": "سازمان بهداشت جهانی گفته است که مقیاس واقعی شیوع این بیماری ممکن است دو تا چهار برابر بیشتر از آمارهای رسمی باشد.",
+      "summary_en": "The World Health Organization has said that the true scale of the outbreak could be two to four times larger than official figures indicate.",
+      "link": "http://www.euronews.com/2026/07/22/congos-ebola-outbreak-kills-more-than-1000-people",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 21:53:47 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ac2a001f053fffabdff27ed7927ec7e1",
+      "title": "اتحادیه اروپا به قرارداد دیسکاوری برادران وارنر پارامونت چراغ سبز مشروط نشان می دهد",
+      "title_fa": "اتحادیه اروپا به قرارداد دیسکاوری برادران وارنر پارامونت چراغ سبز مشروط نشان می دهد",
+      "title_en": "EU gives conditional green light to Paramount's Warner Bros. Discovery deal",
+      "summary": "پس از اینکه یک قاضی فدرال در کالیفرنیا به شرکت‌ها دستور داد تا ادغام خود را در این هفته موقتاً متوقف کنند، پیشنهاد پارامونت همچنان در اقیانوس اطلس با موانعی روبرو است.",
+      "summary_fa": "پس از اینکه یک قاضی فدرال در کالیفرنیا به شرکت‌ها دستور داد تا ادغام خود را در این هفته موقتاً متوقف کنند، پیشنهاد پارامونت همچنان در اقیانوس اطلس با موانعی روبرو است.",
+      "summary_en": "Paramount's bid still faces hurdles across the Atlantic after a federal judge in California ordered the companies to temporarily pause their merger this week.",
+      "link": "http://www.euronews.com/business/2026/07/22/eu-gives-conditional-green-light-to-paramounts-warner-bros-discovery-deal",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 21:44:40 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ae813af8902b7990b11f39a45f1463c7",
+      "title": "تسلا درآمد خود را از دست می دهد، زیرا جریان نقدی آزاد منفی می شود و حاشیه ها کاهش می یابد",
+      "title_fa": "تسلا درآمد خود را از دست می دهد، زیرا جریان نقدی آزاد منفی می شود و حاشیه ها کاهش می یابد",
+      "title_en": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+      "summary": "گزارش درآمد تسلا در بحبوحه سقوط قیمت سهام این شرکت قرار دارد، حتی در شرایطی که تجارت اصلی خودروسازی آن در حال افزایش است.",
+      "summary_fa": "گزارش درآمد تسلا در بحبوحه سقوط قیمت سهام این شرکت قرار دارد، حتی در شرایطی که تجارت اصلی خودروسازی آن در حال افزایش است.",
+      "summary_en": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+      "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:45:07 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76e62fedb0789fa8c458d00e8c8815f7",
+      "title": "آمریکا توافقنامه انرژی هسته ای با عربستان سعودی امضا کرد",
+      "title_fa": "آمریکا توافقنامه انرژی هسته ای با عربستان سعودی امضا کرد",
+      "title_en": "U.S. signs nuclear power agreement with Saudi Arabia",
+      "summary": "همکاری ایالات متحده با کشورهای خارجی در زمینه انرژی هسته ای غیرنظامی مستلزم بررسی توسط کنگره بر اساس قانون انرژی اتمی است.",
+      "summary_fa": "همکاری ایالات متحده با کشورهای خارجی در زمینه انرژی هسته ای غیرنظامی مستلزم بررسی توسط کنگره بر اساس قانون انرژی اتمی است.",
+      "summary_en": "U.S. cooperation with foreign countries on civilian nuclear power requires review by Congress under the Atomic Energy Act.",
+      "link": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:44:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "986ca9e10bacf3e0c05a46e3dd45b456",
+      "title": "آی بی ام به تازگی چشم انداز خود را کاهش داده است. چرا سهام آن به هر حال بالاتر می رود.",
+      "title_fa": "آی بی ام به تازگی چشم انداز خود را کاهش داده است. چرا سهام آن به هر حال بالاتر می رود.",
+      "title_en": "IBM just cut its outlook. Why its stock is bouncing higher anyway.",
+      "summary": "گزارش درآمد رسمی آی‌بی‌ام پس از یک هشدار سود کبود در هفته گذشته منتشر شد.",
+      "summary_fa": "گزارش درآمد رسمی آی‌بی‌ام پس از یک هشدار سود کبود در هفته گذشته منتشر شد.",
+      "summary_en": "IBM’s official earnings report comes after a bruising profit warning last week.",
+      "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 20:42:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-855250",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c9561308181dc00978ef56e5d38527f2",
+      "title": "به‌روزرسانی‌های زنده جنگ ایران: ایران پس از آخرین تهدید ترامپ علیه اهداف غیرنظامی وارد عمل می‌شود",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: ایران پس از آخرین تهدید ترامپ علیه اهداف غیرنظامی وارد عمل می‌شود",
+      "title_en": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+      "summary": "پرزیدنت ترامپ گفت، اگر ایران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده یک پل یا نیروگاه برق را هدف قرار خواهد داد. وزیر امور خارجه ایران مواضع ملتش مبنی بر «چشم در برابر چشم» را تکرار کرد.",
+      "summary_fa": "پرزیدنت ترامپ گفت، اگر ایران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده یک پل یا نیروگاه برق را هدف قرار خواهد داد. وزیر امور خارجه ایران مواضع ملتش مبنی بر «چشم در برابر چشم» را تکرار کرد.",
+      "summary_en": "President Trump said the United States would target a bridge or power plant if Iran fired on ships in the Strait of Hormuz. Iran’s foreign minister repeated his nation’s position of an “eye for an eye.”",
+      "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 20:41:16 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo-whkq/22mideast-live-promo-whkq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "590709b98bc7b53ecd7288eb0f8a9b41",
+      "title": "سود خطوط هوایی ساوت وست با برداشتن تب بنزین توسط مسافران 9 درصد افزایش یافت، اما پیش‌بینی سه ماهه سوم کوتاه بود.",
+      "title_fa": "سود خطوط هوایی ساوت وست با برداشتن تب بنزین توسط مسافران 9 درصد افزایش یافت، اما پیش‌بینی سه ماهه سوم کوتاه بود.",
+      "title_en": "Southwest Airlines profit jumps 9% as passengers pick up fuel tab, but third-quarter forecast falls short",
+      "summary": "شرکت هواپیمایی ساوث وست افزایش بیش از 9 درصدی در سود سه ماهه دوم را گزارش داد، زیرا کرایه های بالاتر به طور فزاینده ای به این ایرلاین کمک می کند تا سقف سوخت خود را پوشش دهد.",
+      "summary_fa": "شرکت هواپیمایی ساوث وست افزایش بیش از 9 درصدی در سود سه ماهه دوم را گزارش داد، زیرا کرایه های بالاتر به طور فزاینده ای به این ایرلاین کمک می کند تا سقف سوخت خود را پوشش دهد.",
+      "summary_en": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+      "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:40:12 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "31fa4d9ca57c3250198a7c4b93e573e3",
+      "title": "بهترین تخفیف های درمانی با نور قرمز در فروش سالگرد نوردستروم (2026)",
+      "title_fa": "بهترین تخفیف های درمانی با نور قرمز در فروش سالگرد نوردستروم (2026)",
+      "title_en": "Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale (2026)",
+      "summary": "در دستگاه‌های درمان ال‌ای‌دی آزمایش‌شده با سیم از TheraFace، HigherDose و موارد دیگر صرفه‌جویی کنید.",
+      "summary_fa": "در دستگاه‌های درمان ال‌ای‌دی آزمایش‌شده با سیم از TheraFace، HigherDose و موارد دیگر صرفه‌جویی کنید.",
+      "summary_en": "Save on WIRED-tested LED therapy devices from TheraFace, HigherDose, and more.",
+      "link": "https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 20:40:12 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "12e7d99822628fb547598a48bfda0008",
+      "title": "تنظیم‌کننده‌های ایالات متحده پپتیدهای بحث‌برانگیز را که توسط RFK Jr پشتیبانی می‌شود، وزن کنند",
+      "title_fa": "تنظیم‌کننده‌های ایالات متحده پپتیدهای بحث‌برانگیز را که توسط RFK Jr پشتیبانی می‌شود، وزن کنند",
+      "title_en": "US regulators to weigh controversial peptides backed by RFK Jr",
+      "summary": "FDA شواهد را به عنوان افزایش تقاضا برای ترکیبات ترویج شده برای خواب، رشد عضلات و ضد پیری مورد تردید قرار داده است.",
+      "summary_fa": "FDA شواهد را به عنوان افزایش تقاضا برای ترکیبات ترویج شده برای خواب، رشد عضلات و ضد پیری مورد تردید قرار داده است.",
+      "summary_en": "FDA has questioned the evidence as demand surges for the compounds promoted for sleep, muscle growth, and anti-aging.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:39:14 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4662c09f44799793822d36ddc8eb07a9",
+      "title": "مایکروسافت سازگاری اصلی Xbox را به رایانه های شخصی ویندوزی ارائه می کند",
+      "title_fa": "مایکروسافت سازگاری اصلی Xbox را به رایانه های شخصی ویندوزی ارائه می کند",
+      "title_en": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "summary": "چهار عنوان اول سازگار را می توان با یک کارت گرافیک 11 ساله اجرا کرد.",
+      "summary_fa": "چهار عنوان اول سازگار را می توان با یک کارت گرافیک 11 ساله اجرا کرد.",
+      "summary_en": "First four compatible titles can be run with an 11-year-old graphics card.",
+      "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 20:36:19 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a20161b77775eb2c4ee4714673b103e2",
+      "title": "فرمانده جدید ارتش اوکراین متعهد شد که اقدامات تلافی جویانه علیه روسیه را تشدید کند",
+      "title_fa": "فرمانده جدید ارتش اوکراین متعهد شد که اقدامات تلافی جویانه علیه روسیه را تشدید کند",
+      "title_en": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "summary": "سرگئی لاوروف وزیر امور خارجه روسیه قرار است با مارکو روبیو همتای آمریکایی خود دیدار کند، اما پیشرفت به سوی صلح بعید است.",
+      "summary_fa": "سرگئی لاوروف وزیر امور خارجه روسیه قرار است با مارکو روبیو همتای آمریکایی خود دیدار کند، اما پیشرفت به سوی صلح بعید است.",
+      "summary_en": "Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:34:56 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
     {
       "id": "3e11a84b56cc23270c96e5fe8a3044c9",
       "title": "هدایت اروپا؟ ریاست شش ماهه ایرلند اتحادیه اروپا در مرکز فیلم The Ring قرار دارد",
@@ -21,6 +252,300 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "7e0b90ad1588ea845d56f3ec4b8da45f",
+      "title": "اخبار استرالیا زنده: چین به اظهارات پنی ونگ پاسخ می دهد. معلمان ویکتوریا به دلیل شروع اعتصاب",
+      "title_fa": "اخبار استرالیا زنده: چین به اظهارات پنی ونگ پاسخ می دهد. معلمان ویکتوریا به دلیل شروع اعتصاب",
+      "title_en": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
+      "summary": "وزارت خارجه چین می‌گوید «کشورهای مربوطه باید از ایجاد تنش دست بردارند». زنده را دنبال کنید دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم با داستان های برتر یک شبه و سپس کیتلین کسیدی با اکشن اصلی خواهد بود. انتظار می رود بیش از 35000 معلم، مدیر و کارکنان پشتیبانی آموزشی امروز در CBD ملبورن گرد هم آیند، زیرا آنها پس از رد قرارداد پرداخت پیشنهادی توسط دولت ایالتی اعتصاب کردند. بیشتر در راه است. ادامه مطلب...",
+      "summary_fa": "وزارت خارجه چین می‌گوید «کشورهای مربوطه باید از ایجاد تنش دست بردارند». زنده را دنبال کنید دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم با داستان های برتر یک شبه و سپس کیتلین کسیدی با اکشن اصلی خواهد بود. انتظار می رود بیش از 35000 معلم، مدیر و کارکنان پشتیبانی آموزشی امروز در CBD ملبورن گرد هم آیند، زیرا آنها پس از رد قرارداد پرداخت پیشنهادی توسط دولت ایالتی اعتصاب کردند. بیشتر در راه است. ادامه مطلب...",
+      "summary_en": "China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow liveGet our breaking news email, free app or daily news podcastGood morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Caitlin Cassidy with the main action.More than 35,000 teachers, principals and education support staff are expected to gather in Melbourne’s CBD today as they go on strike after rejecting a pay deal proposed by the state government. More coming up. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 20:26:48 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2117b45f6b1dfb423c8b9658c3644cf330e0c385/964_0_4731_3787/master/4731.jpg?width=140&quality=85&auto=format&fit=max&s=cdbf7cb5296185db43a002b182c2754d",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "62075815df799f36b56aa444d774f4be",
+      "title": "استخدام‌کننده سابق گوگل: این سوال «بصیرت‌آمیز» را در مصاحبه بپرسید و من می‌خواهم شما را «درجا» استخدام کنم.",
+      "title_fa": "استخدام‌کننده سابق گوگل: این سوال «بصیرت‌آمیز» را در مصاحبه بپرسید و من می‌خواهم شما را «درجا» استخدام کنم.",
+      "title_en": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot'",
+      "summary": "فرح شرقی، استخدام کننده سابق گوگل، سوالی را فاش می کند که نامزدهای شغلی را بیش از همه به او متمایز می کند.",
+      "summary_fa": "فرح شرقی، استخدام کننده سابق گوگل، سوالی را فاش می کند که نامزدهای شغلی را بیش از همه به او متمایز می کند.",
+      "summary_en": "Former Google recruiter Farah Sharghi reveals the question that makes job candidates stand out to her the most.",
+      "link": "https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:25:44 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9e4b61cd8869fffdead04afa26041bb2",
+      "title": "Samsung Galaxy Z Flip 8 در مقابل Moto Razr Ultra: من با هر دو وقت گذرانده ام، این چیزی است که ترجیح می دهم",
+      "title_fa": "Samsung Galaxy Z Flip 8 در مقابل Moto Razr Ultra: من با هر دو وقت گذرانده ام، این چیزی است که ترجیح می دهم",
+      "title_en": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
+      "summary": "Moto Razr Ultra برخی از بهترین نرم افزارها را در یک گوشی دارد، اما چگونه با Samsung Z Flip 8 جدید مقایسه می شود؟",
+      "summary_fa": "Moto Razr Ultra برخی از بهترین نرم افزارها را در یک گوشی دارد، اما چگونه با Samsung Z Flip 8 جدید مقایسه می شود؟",
+      "summary_en": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 20:22:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "85cbff7bb307c938aafbe0725b8ef006",
+      "title": "گریفیث: دیپلماسی از آمریکا و ایران می‌خواهد که بپذیرند «باخته‌اند»",
+      "title_fa": "گریفیث: دیپلماسی از آمریکا و ایران می‌خواهد که بپذیرند «باخته‌اند»",
+      "title_en": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "summary": "گریفیث: دیپلماسی از آمریکا و ایران می‌خواهد که بپذیرند «باخته‌اند»",
+      "summary_fa": "گریفیث: دیپلماسی از آمریکا و ایران می‌خواهد که بپذیرند «باخته‌اند»",
+      "summary_en": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:20:57 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "2be6644224bf95c0a0e7439e1e2c134d",
+      "title": "سهام ServiceNow با افزایش درآمد در امنیت سایبری افزایش می یابد",
+      "title_fa": "سهام ServiceNow با افزایش درآمد در امنیت سایبری افزایش می یابد",
+      "title_en": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+      "summary": "در مقابل پس‌زمینه‌ای غم‌انگیز برای احساسات نرم‌افزاری، ServiceNow فقط از انتظارات درآمدی بالاتر بود.",
+      "summary_fa": "در مقابل پس‌زمینه‌ای غم‌انگیز برای احساسات نرم‌افزاری، ServiceNow فقط از انتظارات درآمدی بالاتر بود.",
+      "summary_en": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 20:19:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-701755",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ff5ab755938573690b2c725e237f7bf",
+      "title": "کابوس طولانی ISP ها برای فهرست کردن تمام هزینه هایی که دریافت می کنند بالاخره به پایان رسید",
+      "title_fa": "کابوس طولانی ISP ها برای فهرست کردن تمام هزینه هایی که دریافت می کنند بالاخره به پایان رسید",
+      "title_en": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+      "summary": "FCC به ISP ها اجازه می دهد لیست تمام هزینه ها را پس از شکایت شرکت ها که خیلی سخت است متوقف کنند.",
+      "summary_fa": "FCC به ISP ها اجازه می دهد لیست تمام هزینه ها را پس از شکایت شرکت ها که خیلی سخت است متوقف کنند.",
+      "summary_en": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 20:17:18 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-1152x648-1784750351.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "82e74d9270a4c3c738e76e3177776da3",
+      "title": "بازار خزانه داری به نقطه عطف نگران کننده ای دست می یابد که از سال 2007 مشاهده نشده است",
+      "title_fa": "بازار خزانه داری به نقطه عطف نگران کننده ای دست می یابد که از سال 2007 مشاهده نشده است",
+      "title_en": "The Treasury market touches a worrying milestone not seen since 2007",
+      "summary": "چالش‌های زیادی در کار است زیرا بازدهی 30 ساله خزانه‌داری طولانی‌ترین طول خود را به بالای 5 درصد در 19 سال گذشته می‌رساند.",
+      "summary_fa": "چالش‌های زیادی در کار است زیرا بازدهی 30 ساله خزانه‌داری طولانی‌ترین طول خود را به بالای 5 درصد در 19 سال گذشته می‌رساند.",
+      "summary_en": "There are a host of challenges at work as the ‘long’ 30-year Treasury yield logs its longest stretch above 5% in 19 years",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 20:13:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-88990312",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4855eb102996060d0e8e25b8bc1529a",
+      "title": "آی بی ام پس از هشدار درآمد، پیش بینی کل سال را کاهش داد",
+      "title_fa": "آی بی ام پس از هشدار درآمد، پیش بینی کل سال را کاهش داد",
+      "title_en": "IBM lowers full-year forecast after earnings warning",
+      "summary": "IBM اکنون به دنبال بهبود بهره وری با هوش مصنوعی است، از جمله با ابزار کدنویسی جدیدی به نام باب.",
+      "summary_fa": "IBM اکنون به دنبال بهبود بهره وری با هوش مصنوعی است، از جمله با ابزار کدنویسی جدیدی به نام باب.",
+      "summary_en": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+      "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:11:45 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68222ea194ffa5ed0c8d6f71c958362d",
+      "title": "قیمت جهانی نفت پس از رسیدن به بشکه ای 95 دلار به بالاترین حد در 6 هفته گذشته رسید، زیرا امیدها برای کاهش تنش در جنگ ایران کمرنگ شده است.",
+      "title_fa": "قیمت جهانی نفت پس از رسیدن به بشکه ای 95 دلار به بالاترین حد در 6 هفته گذشته رسید، زیرا امیدها برای کاهش تنش در جنگ ایران کمرنگ شده است.",
+      "title_en": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
+      "summary": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و دونالد ترامپ رئیس جمهور آمریکا هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران خواهد کرد، قیمت نفت روز چهارشنبه به بالاترین حد خود در شش هفته گذشته رسید.",
+      "summary_fa": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و دونالد ترامپ رئیس جمهور آمریکا هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران خواهد کرد، قیمت نفت روز چهارشنبه به بالاترین حد خود در شش هفته گذشته رسید.",
+      "summary_en": "Oil prices settled at six-week highs on Wednesday after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if Tehran fires on ships in the Strait of Hormuz.",
+      "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 20:10:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-09944842",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "640dad3869135069b8f05e49b0d61c33",
+      "title": "درآمد گوگل با رونق مبتنی بر هوش مصنوعی در واحد Cloud افزایش می یابد",
+      "title_fa": "درآمد گوگل با رونق مبتنی بر هوش مصنوعی در واحد Cloud افزایش می یابد",
+      "title_en": "Google revenue surges on AI-driven boom in Cloud unit",
+      "summary": "آلفابت رشد 82 درصدی را در بخش رایانش ابری گزارش می دهد",
+      "summary_fa": "آلفابت رشد 82 درصدی را در بخش رایانش ابری گزارش می دهد",
+      "summary_en": "Alphabet reports 82% growth in cloud computing division",
+      "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 20:09:53 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01df8252-6f33-4cf3-a02b-0639ab8cf384.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a8db417a72e657f7e62ff60c86578074",
+      "title": "دبیرکل حقوق بشر سازمان ملل تصمیم نیکاراگوئه برای لغو انتخابات را محکوم کرد",
+      "title_fa": "دبیرکل حقوق بشر سازمان ملل تصمیم نیکاراگوئه برای لغو انتخابات را محکوم کرد",
+      "title_en": "UN rights chief condemns Nicaragua’s decision to abolish elections",
+      "summary": "دبیرکل حقوق بشر سازمان ملل تشدید سرکوب در نیکاراگوئه را محکوم کرد و خواستار احیای آزادی ها و حاکمیت قانون شد.",
+      "summary_fa": "دبیرکل حقوق بشر سازمان ملل تشدید سرکوب در نیکاراگوئه را محکوم کرد و خواستار احیای آزادی ها و حاکمیت قانون شد.",
+      "summary_en": "UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:07:35 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a237af82250711b1005a2fe5eb90aa86",
+      "title": "ترامپ: ایران برای کشته شدن نیروهای آمریکایی «بهای گزافی خواهد پرداخت».",
+      "title_fa": "ترامپ: ایران برای کشته شدن نیروهای آمریکایی «بهای گزافی خواهد پرداخت».",
+      "title_en": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+      "summary": "ترامپ، رئیس‌جمهور آمریکا هشدار داد که ایران درست پیش از شرکت در مراسم انتقال آبرومندانه «بهای گزافی» خواهد پرداخت.",
+      "summary_fa": "ترامپ، رئیس‌جمهور آمریکا هشدار داد که ایران درست پیش از شرکت در مراسم انتقال آبرومندانه «بهای گزافی» خواهد پرداخت.",
+      "summary_en": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:06:31 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6b9bdfcf58d19d9cd17beba27a717d04",
+      "title": "مرد غزه پس از اینکه خانواده او مرده است به خانه باز می گردد",
+      "title_fa": "مرد غزه پس از اینکه خانواده او مرده است به خانه باز می گردد",
+      "title_en": "Gaza man returns home after family believed he was dead",
+      "summary": "حماده البنا بیش از یک سال پس از انفجاری که او را در کما گذاشت به خانواده اش پیوست.",
+      "summary_fa": "حماده البنا بیش از یک سال پس از انفجاری که او را در کما گذاشت به خانواده اش پیوست.",
+      "summary_en": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 19:59:42 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "dd695a2de1a15619e4220abbf584f75b",
+      "title": "نظرسنجی نشان می‌دهد که داشتن حیوان خانگی به یک امر لوکس تبدیل شده است - دامپزشکان نگران قیمت‌های بالاتر و کاهش جمعیت حیوانات خانگی هستند.",
+      "title_fa": "نظرسنجی نشان می‌دهد که داشتن حیوان خانگی به یک امر لوکس تبدیل شده است - دامپزشکان نگران قیمت‌های بالاتر و کاهش جمعیت حیوانات خانگی هستند.",
+      "title_en": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
+      "summary": "نظرسنجی مورگان استنلی نشان می‌دهد که شیوه‌های دامپزشکی ایالات متحده با افزایش قیمت‌ها، فروش را افزایش می‌دهند، زیرا با بازدیدهای کمتر مواجه می‌شوند - فرمولی که به گفته تحلیلگران ناپایدار است.",
+      "summary_fa": "نظرسنجی مورگان استنلی نشان می‌دهد که شیوه‌های دامپزشکی ایالات متحده با افزایش قیمت‌ها، فروش را افزایش می‌دهند، زیرا با بازدیدهای کمتر مواجه می‌شوند - فرمولی که به گفته تحلیلگران ناپایدار است.",
+      "summary_en": "A Morgan Stanley survey shows that U.S. vet practices are growing sales by raising prices as they contend with fewer visits —a formula that analysts say is unsustainable.",
+      "link": "https://www.marketwatch.com/story/owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pet-population-survey-finds-dca5ad2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 19:56:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-38764474",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -63,6 +588,27 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "928b1f70b2fb2c83e728c733ee17c0b5",
+      "title": "شرکت دبی قرارداد ساخت بندر جدید برای دور زدن تنگه هرمز را قطع کرد",
+      "title_fa": "شرکت دبی قرارداد ساخت بندر جدید برای دور زدن تنگه هرمز را قطع کرد",
+      "title_en": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz",
+      "summary": "یک غول لجستیک مستقر در دبی روز چهارشنبه از قراردادی با امارات متحده عربی برای توسعه یک سیستم بندری جدید که تنگه هرمز را دور می‌زند، رونمایی کرد.",
+      "summary_fa": "یک غول لجستیک مستقر در دبی روز چهارشنبه از قراردادی با امارات متحده عربی برای توسعه یک سیستم بندری جدید که تنگه هرمز را دور می‌زند، رونمایی کرد.",
+      "summary_en": "A Dubai-based logistics giant unveiled a deal with the United Arab Emirates on Wednesday to develop a new port system that would bypass the Strait of Hormuz.",
+      "link": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 19:38:16 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-uae-port-2-qpwh/22int-uae-port-2-qpwh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -1074,6 +1620,27 @@
       }
     },
     {
+      "id": "117430755cef67e9533740ba80ffd956",
+      "title": "گالری آپولو لوور پس از رسوایی سرقت جواهرات سلطنتی فرانسه بازگشایی شد",
+      "title_fa": "گالری آپولو لوور پس از رسوایی سرقت جواهرات سلطنتی فرانسه بازگشایی شد",
+      "title_en": "Louvre's Apollo Gallery reopens after French Crown Jewels theft scandal",
+      "summary": "گالری تشریفاتی اصلی قرن هفدهمی در پایتخت فرانسه، در پربازدیدترین موزه جهان، در اکتبر 2025 صحنه یک سرقت دیدنی بود و اکنون بار دیگر به روی عموم باز است.",
+      "summary_fa": "گالری تشریفاتی اصلی قرن هفدهمی در پایتخت فرانسه، در پربازدیدترین موزه جهان، در اکتبر 2025 صحنه یک سرقت دیدنی بود و اکنون بار دیگر به روی عموم باز است.",
+      "summary_en": "The original 17th-century ceremonial gallery in the French capital, at the world's most visited museum, was the scene of a spectacular burglary in October 2025 and is now once again open to the public.",
+      "link": "http://www.euronews.com/culture/2026/07/22/louvres-apollo-gallery-reopens-after-crown-jewels-theft-scandal",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 17:10:20 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d256c4089061359755d15ae8098ee104",
       "title": "این بهترین راه برای درخواست مشاوره مالی از افراد غریبه در اینترنت است",
       "title_fa": "این بهترین راه برای درخواست مشاوره مالی از افراد غریبه در اینترنت است",
@@ -1218,6 +1785,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c4b24efbfc141c4678b127017c547db0",
+      "title": "تماشا کنید: لوور پس از سرقت جواهرات، گالری را بازگشایی می کند",
+      "title_fa": "تماشا کنید: لوور پس از سرقت جواهرات، گالری را بازگشایی می کند",
+      "title_en": "Watch: Louvre reopens gallery after jewellery heist",
+      "summary": "موزه لوور 9 ماه پس از سرقتی که فرانسه را شوکه کرد، گالری آپولو خود را بازگشایی کرد.",
+      "summary_fa": "موزه لوور 9 ماه پس از سرقتی که فرانسه را شوکه کرد، گالری آپولو خود را بازگشایی کرد.",
+      "summary_en": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+      "link": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 16:54:33 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/7b5a0f90-85e9-11f1-b976-0b9c15b0ccfc.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
       }
     },
     {
@@ -1932,6 +2520,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "716a4c88cbd3cfae86230c547eb7dd6c",
+      "title": "نبرد بر سر قانون اختیارات جنگی آمریکا",
+      "title_fa": "نبرد بر سر قانون اختیارات جنگی آمریکا",
+      "title_en": "The battle over America’s War Powers Act",
+      "summary": "ترامپ، مانند نیکسون قبل از او، معتقد است که کنگره نباید جنگ طلبی او را محدود کند",
+      "summary_fa": "ترامپ، مانند نیکسون قبل از او، معتقد است که کنگره نباید جنگ طلبی او را محدود کند",
+      "summary_en": "Trump, like Nixon before him, believes Congress should not constrain his belligerence",
+      "link": "https://www.ft.com/content/88da2738-6fce-497b-b8d5-1ed35196b3e0",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 15:47:01 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95042c0c-4779-47dc-8be8-5c203259a8d8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -9096,6 +9705,27 @@
       }
     },
     {
+      "id": "a2da67576f798b584cae19f2534c3dab",
+      "title": "ترامپ از تعرفه های 50 درصدی بر کانادا دفاع کرد و گفت: «آنها برای زنده ماندن به ما نیاز دارند».",
+      "title_fa": "ترامپ از تعرفه های 50 درصدی بر کانادا دفاع کرد و گفت: «آنها برای زنده ماندن به ما نیاز دارند».",
+      "title_en": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "summary": "مارک کارنی می‌گوید کانادا در برابر تهدیدها «یکپارچه» است زیرا رهبران توافق کرده‌اند قبل از اعمال تعرفه‌ها در ماه آینده صحبت کنند. ثبت نام برای اخبار فوری ایمیل خبرنامه ایالات متحده دونالد ترامپ از تعرفه‌های جدید 50 درصدی خود بر بیشتر کالاهای کانادایی دفاع کرده و ادعا می‌کند که این کشور بدون ایالات متحده نمی‌تواند دوام بیاورد. کاخ سفید اعلام کرد که دور فراگیر تنش بین دوشنبه و ماه آینده به دلیل اعمال تعرفه‌های وارداتی - واشنگتن - به دلیل اعمال تعرفه‌های وارداتی - در ماه آینده. اتاوا ادامه مطلب...",
+      "summary_fa": "مارک کارنی می‌گوید کانادا در برابر تهدیدها «یکپارچه» است زیرا رهبران توافق کرده‌اند قبل از اعمال تعرفه‌ها در ماه آینده صحبت کنند. ثبت نام برای اخبار فوری ایمیل خبرنامه ایالات متحده دونالد ترامپ از تعرفه‌های جدید 50 درصدی خود بر بیشتر کالاهای کانادایی دفاع کرده و ادعا می‌کند که این کشور بدون ایالات متحده نمی‌تواند دوام بیاورد. کاخ سفید اعلام کرد که دور فراگیر تنش بین دوشنبه و ماه آینده به دلیل اعمال تعرفه‌های وارداتی - واشنگتن - به دلیل اعمال تعرفه‌های وارداتی - در ماه آینده. اتاوا ادامه مطلب...",
+      "summary_en": "Mark Carney says Canada is ‘united’ in face of threats as leaders agree to talk before tariffs take effect next monthSign up for the Breaking News US newsletter emailDonald Trump has defended his new 50% tariffs on most Canadian goods, claiming the country cannot survive without the US.The White House announced the sweeping round of import duties – due to come into effect next month – on Monday, igniting fresh tensions between Washington and Ottawa. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "source": "The Guardian",
+      "published_at": "Tue, 21 Jul 2026 19:36:51 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/12da602febe03205845bb37499e38a0c05585ddb/178_0_4260_3408/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=b5c9ffe616f350fea6a24746c8a9547a",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
       "id": "5a8452eef6eaf8aec9aacb4105f51d57",
       "title": "5 لوازم جانبی بازی که من از بازی بدون آنها خودداری می کنم",
       "title_fa": "5 لوازم جانبی بازی که من از بازی بدون آنها خودداری می کنم",
@@ -12179,6 +12809,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17ba44f204c0acebf54f8c2613b631f9",
+      "title": "درآمدهای تسلا پس از دو سال ناامیدکننده در حال افزایش است",
+      "title_fa": "درآمدهای تسلا پس از دو سال ناامیدکننده در حال افزایش است",
+      "title_en": "Tesla’s revenues are bouncing back after a dismal two years",
+      "summary": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
+      "summary_fa": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
+      "summary_en": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company […]",
+      "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
+      "source": "The Verge",
+      "published_at": "2026-07-22T16:17:46-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
