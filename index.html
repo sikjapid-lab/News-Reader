@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>جهان‌نما | پایگاه هوشمند اخبار بین‌الملل</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Vazirmatn Persian Font -->
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Vazirmatn', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            50: '#eef2ff',
+                            100: '#e0e7ff',
+                            500: '#6366f1',
+                            600: '#4f46e5',
+                            700: '#4338ca',
+                            900: '#312e81',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Vazirmatn', sans-serif; }
+        .glass {
+            background: rgba(255, 255, 255, 0.75);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        .dark .glass {
+            background: rgba(17, 24, 39, 0.8);
+        }
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100 min-h-screen transition-colors duration-300">
+
+    <!-- Header Navigation -->
+    <header class="sticky top-0 z-40 glass border-b border-slate-200 dark:border-slate-800 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-brand-600 to-indigo-500 flex items-center justify-center text-white shadow-lg shadow-brand-500/30">
+                    <i class="fa-solid fa-globe text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl font-black bg-gradient-to-r from-brand-600 to-indigo-500 bg-clip-text text-transparent">جهان‌نما AI</h1>
+                    <p class="text-xs text-slate-500 dark:text-slate-400">رصد و ترجمه هوشمند اخبار جهان (۲۴ ساعت اخیر)</p>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-3">
+                <!-- Theme Toggle -->
+                <button id="themeToggle" class="p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700 transition">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:block text-amber-400"></i>
+                </button>
+
+                <!-- Trigger Refresh Button -->
+                <button onclick="triggerRefresh()" class="flex items-center gap-2 bg-brand-600 hover:bg-brand-700 text-white px-4 py-2.5 rounded-xl text-sm font-medium transition shadow-md shadow-brand-500/20 active:scale-95">
+                    <i class="fa-solid fa-rotate text-xs active:rotate-180 transition-transform duration-500"></i>
+                    <span>بروزرسانی هوشمند</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+        <!-- Controls: Filters & Search -->
+        <section class="mb-8 space-y-4">
+            <!-- Topic Filters -->
+            <div class="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none" id="topicFilters">
+                <button class="topic-btn active bg-brand-600 text-white px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap shadow-sm" data-topic="all">
+                    <i class="fa-solid fa-layer-group ml-1"></i> همه موضوعات
+                </button>
+                <button class="topic-btn bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border border-slate-200 dark:border-slate-700" data-topic="politics">
+                    <i class="fa-solid fa-landmark ml-1 text-red-500"></i> سیاست
+                </button>
+                <button class="topic-btn bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border border-slate-200 dark:border-slate-700" data-topic="technology">
+                    <i class="fa-solid fa-microchip ml-1 text-blue-500"></i> فناوری و AI
+                </button>
+                <button class="topic-btn bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border border-slate-200 dark:border-slate-700" data-topic="economy">
+                    <i class="fa-solid fa-chart-line ml-1 text-emerald-500"></i> اقتصاد و بازار
+                </button>
+                <button class="topic-btn bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border border-slate-200 dark:border-slate-700" data-topic="science">
+                    <i class="fa-solid fa-flask ml-1 text-purple-500"></i> علم و سلامت
+                </button>
+                <button class="topic-btn bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700 px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap border border-slate-200 dark:border-slate-700" data-topic="culture">
+                    <i class="fa-solid fa-football ml-1 text-amber-500"></i> ورزش و فرهنگ
+                </button>
+            </div>
+
+            <!-- Region Filters & Search -->
+            <div class="flex flex-col md:flex-row gap-4 items-center justify-between">
+                <!-- Location Filters -->
+                <div class="flex items-center gap-2 w-full md:w-auto overflow-x-auto pb-2 md:pb-0" id="regionFilters">
+                    <span class="text-xs text-slate-400 font-bold ml-1">منطقه:</span>
+                    <button class="region-btn active text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-200 dark:bg-slate-700 text-slate-800 dark:text-slate-200" data-region="all">همه</button>
+                    <button class="region-btn text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200" data-region="middle_east">خاورمیانه</button>
+                    <button class="region-btn text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200" data-region="americas">آمریکا</button>
+                    <button class="region-btn text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200" data-region="europe">اروپا</button>
+                    <button class="region-btn text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200" data-region="asia_pacific">آسیا-پاسیفیک</button>
+                    <button class="region-btn text-xs font-semibold px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 hover:text-slate-800 dark:hover:text-slate-200" data-region="global">بین‌المللی</button>
+                </div>
+
+                <!-- Search Input -->
+                <div class="relative w-full md:w-80">
+                    <i class="fa-solid fa-magnifying-glass absolute right-3.5 top-3 text-slate-400 text-sm"></i>
+                    <input type="text" id="searchInput" placeholder="جستجو در اخبار ترجمه شده..." class="w-full pr-10 pl-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-brand-500">
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Bar -->
+        <div class="mb-6 flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800/50 p-3 rounded-xl border border-slate-200/60 dark:border-slate-700/60">
+            <div class="flex items-center gap-2">
+                <i class="fa-regular fa-clock"></i>
+                <span id="lastUpdate">آخرین بروزرسانی: در حال دریافت...</span>
+            </div>
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-rss text-orange-500"></i>
+                <span id="newsCount">تعداد اخبار فعال (۲۴ ساعت): ۰</span>
+            </div>
+        </div>
+
+        <!-- News Grid -->
+        <section id="newsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- News Cards Loading Spinner -->
+            <div class="col-span-full py-16 text-center text-slate-400">
+                <i class="fa-solid fa-circle-notch fa-spin text-3xl text-brand-600 mb-3"></i>
+                <p class="text-sm">در حال دریافت و ساختاردهی اخبار ترجمه شده...</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- News Detail Modal -->
+    <div id="newsModal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-4">
+        <div class="bg-white dark:bg-slate-800 rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl border border-slate-200 dark:border-slate-700">
+            <div class="relative">
+                <img id="modalImage" src="" alt="تصویر خبر" class="w-full h-64 object-cover">
+                <button onclick="closeModal()" class="absolute top-4 left-4 w-9 h-9 rounded-full bg-slate-900/70 text-white flex items-center justify-center hover:bg-slate-900 transition">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="p-6 space-y-4">
+                <div class="flex items-center gap-2 text-xs">
+                    <span id="modalSource" class="bg-brand-50 text-brand-600 dark:bg-brand-900/40 dark:text-brand-300 font-bold px-2.5 py-1 rounded-md"></span>
+                    <span id="modalTopic" class="bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-300 px-2.5 py-1 rounded-md"></span>
+                    <span id="modalTime" class="text-slate-400 mr-auto"></span>
+                </div>
+                <h2 id="modalTitle" class="text-xl font-extrabold leading-snug text-slate-900 dark:text-white"></h2>
+                <div id="modalBody" class="text-slate-600 dark:text-slate-300 text-sm leading-relaxed space-y-3 border-t border-slate-100 dark:border-slate-700 pt-4"></div>
+                <div class="pt-4 border-t border-slate-100 dark:border-slate-700 flex items-center justify-between">
+                    <a id="modalSourceLink" href="#" target="_blank" class="inline-flex items-center gap-2 text-xs font-semibold text-brand-600 dark:text-brand-400 hover:underline">
+                        <span>مشاهده متن اصلی خبر در خبرگزاری مادر</span>
+                        <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    </a>
+                    <button onclick="closeModal()" class="px-4 py-2 bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-200 text-xs font-semibold rounded-lg hover:bg-slate-200 transition">بستن</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script logic -->
+    <script>
+        let allNews = [];
+        let currentTopic = 'all';
+        let currentRegion = 'all';
+
+        // Dark Theme Switcher
+        const themeToggleBtn = document.getElementById('themeToggle');
+        themeToggleBtn.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+        });
+
+        // Load News Data JSON from GitHub Pages
+        async function fetchNews() {
+            try {
+                const res = await fetch('news_data.json?t=' + new Date().getTime());
+                if (!res.ok) throw new Error("فایل اخبار یافت نشد");
+                const data = await res.json();
+                allNews = data.articles || [];
+                document.getElementById('lastUpdate').innerText = `آخرین بروزرسانی: ${data.last_update || 'نامشخص'}`;
+                document.getElementById('newsCount').innerText = `تعداد اخبار فعال (۲۴ ساعت): ${allNews.length}`;
+                renderNews();
+            } catch (err) {
+                console.error(err);
+                document.getElementById('newsGrid').innerHTML = `
+                    <div class="col-span-full py-12 text-center text-red-500">
+                        <i class="fa-solid fa-triangle-exclamation text-3xl mb-2"></i>
+                        <p class="font-bold">خطا در دریافت داده‌ها</p>
+                        <p class="text-xs text-slate-400 mt-1">لطفاً مطمئن شوید پردازشگر GitHub Actions حداقل یک‌بار اجرا شده است.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Render News Grid
+        function renderNews() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const grid = document.getElementById('newsGrid');
+
+            const filtered = allNews.filter(item => {
+                const matchesTopic = currentTopic === 'all' || item.topic === currentTopic;
+                const matchesRegion = currentRegion === 'all' || item.region === currentRegion;
+                const matchesSearch = item.title_fa.toLowerCase().includes(query) || item.summary_fa.toLowerCase().includes(query);
+                return matchesTopic && matchesRegion && matchesSearch;
+            });
+
+            if (filtered.length === 0) {
+                grid.innerHTML = `
+                    <div class="col-span-full py-12 text-center text-slate-400">
+                        <i class="fa-solid fa-newspaper text-3xl mb-2"></i>
+                        <p>هیچ خبری متناسب با فیلتر انتخابی یافت نشد.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            grid.innerHTML = filtered.map(item => `
+                <article onclick='openModal(${JSON.stringify(item).replace(/'/g, "&apos;")})' class="bg-white dark:bg-slate-800 rounded-2xl overflow-hidden border border-slate-200/80 dark:border-slate-700/80 hover:shadow-xl hover:-translate-y-1 transition duration-300 cursor-pointer flex flex-col group">
+                    <div class="relative h-48 overflow-hidden bg-slate-100 dark:bg-slate-900">
+                        <img src="${item.image_url || 'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=600&q=80'}" alt="${item.title_fa}" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" loading="lazy">
+                        <span class="absolute top-3 right-3 bg-slate-900/80 backdrop-blur-md text-white text-[10px] font-bold px-2.5 py-1 rounded-full">
+                            ${item.source_name}
+                        </span>
+                        <span class="absolute bottom-3 left-3 bg-brand-600/90 text-white text-[10px] font-semibold px-2 py-0.5 rounded-md">
+                            ${getTopicLabel(item.topic)}
+                        </span>
+                    </div>
+                    <div class="p-5 flex-1 flex flex-col justify-between space-y-3">
+                        <div>
+                            <div class="flex items-center justify-between text-[11px] text-slate-400 mb-2">
+                                <span><i class="fa-regular fa-clock ml-1"></i>${item.time_ago}</span>
+                                <span><i class="fa-solid fa-location-dot ml-1"></i>${getRegionLabel(item.region)}</span>
+                            </div>
+                            <h3 class="font-bold text-slate-900 dark:text-white text-base leading-snug line-clamp-2 group-hover:text-brand-600 transition">
+                                ${item.title_fa}
+                            </h3>
+                            <p class="text-xs text-slate-500 dark:text-slate-400 mt-2 line-clamp-3 leading-relaxed">
+                                ${item.summary_fa}
+                            </p>
+                        </div>
+                        <div class="pt-3 border-t border-slate-100 dark:border-slate-700/50 flex items-center justify-between text-xs font-semibold text-brand-600 dark:text-brand-400">
+                            <span>جزییات کامل خبر</span>
+                            <i class="fa-solid fa-arrow-left text-[10px] group-hover:-translate-x-1 transition"></i>
+                        </div>
+                    </div>
+                </article>
+            `).join('');
+        }
+
+        function getTopicLabel(topic) {
+            const map = { politics: 'سیاست', technology: 'فناوری', economy: 'اقتصاد', science: 'علم', culture: 'ورزش و فرهنگ' };
+            return map[topic] || 'عمومی';
+        }
+
+        function getRegionLabel(region) {
+            const map = { middle_east: 'خاورمیانه', americas: 'آمریکا', europe: 'اروپا', asia_pacific: 'آسیا', global: 'بین‌الملل' };
+            return map[region] || 'جهان';
+        }
+
+        function openModal(item) {
+            document.getElementById('modalImage').src = item.image_url || 'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=600&q=80';
+            document.getElementById('modalSource').innerText = item.source_name;
+            document.getElementById('modalTopic').innerText = getTopicLabel(item.topic) + ' | ' + getRegionLabel(item.region);
+            document.getElementById('modalTime').innerText = item.time_ago;
+            document.getElementById('modalTitle').innerText = item.title_fa;
+            document.getElementById('modalBody').innerHTML = `<p>${item.content_fa || item.summary_fa}</p>`;
+            document.getElementById('modalSourceLink').href = item.original_link;
+            document.getElementById('newsModal').classList.remove('hidden');
+        }
+
+        function closeModal() {
+            document.getElementById('newsModal').classList.add('hidden');
+        }
+
+        function triggerRefresh() {
+            alert("درخواست پردازش و بروزرسانی به سرویس Hugging Face و GitHub Actions ارسال شد. فرآیند بروزرسانی ۱ الی ۲ دقیقه زمان می‌برد.");
+        }
+
+        // Filter event listeners
+        document.querySelectorAll('.topic-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.topic-btn').forEach(b => {
+                    b.classList.remove('bg-brand-600', 'text-white');
+                    b.classList.add('bg-white', 'dark:bg-slate-800', 'text-slate-600', 'dark:text-slate-300');
+                });
+                btn.classList.add('bg-brand-600', 'text-white');
+                currentTopic = btn.dataset.topic;
+                renderNews();
+            });
+        });
+
+        document.querySelectorAll('.region-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('bg-slate-200', 'dark:bg-slate-700', 'text-slate-800', 'dark:text-slate-200'));
+                btn.classList.add('bg-slate-200', 'dark:bg-slate-700', 'text-slate-800', 'dark:text-slate-200');
+                currentRegion = btn.dataset.region;
+                renderNews();
+            });
+        });
+
+        document.getElementById('searchInput').addEventListener('input', renderNews);
+
+        // Fetch on load
+        fetchNews();
+    </script>
+</body>
+</html>
