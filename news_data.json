@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-22 20:46:51",
-  "total_count": 695,
+  "last_update": "2026-07-22 21:50:15",
+  "total_count": 715,
   "articles": [
     {
       "id": "4a4f8ba989600c99191f70863b60a302",
@@ -42,6 +42,384 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2bcf32b5bdc307d5a7b79c1c33fad6ed",
+      "title": "اگر تهدیدات و حملات آمریکا متوقف نشود، ایران نسبت به آشفتگی منطقه هشدار می دهد",
+      "title_fa": "اگر تهدیدات و حملات آمریکا متوقف نشود، ایران نسبت به آشفتگی منطقه هشدار می دهد",
+      "title_en": "Iran warns of regional turmoil if US threats and attacks do not stop",
+      "summary": "مذاکره کننده ارشد تهران می گوید اگر امنیت ایران تامین نشود، هیچ زیرساختی امن نخواهد بود.",
+      "summary_fa": "مذاکره کننده ارشد تهران می گوید اگر امنیت ایران تامین نشود، هیچ زیرساختی امن نخواهد بود.",
+      "summary_en": "Tehran's chief negotiator says if Iran's 'security is not ensured, no infrastructure will be safe'.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 21:41:32 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d025549b52ff6a856e4dc50756e22d64",
+      "title": "چرا کاهو همیشه مردم را بیمار می کند؟",
+      "title_fa": "چرا کاهو همیشه مردم را بیمار می کند؟",
+      "title_en": "Why Lettuce Is Always Making People Sick",
+      "summary": "شیوع اسهال سیکلوسپورا یک حادثه مجزا نیست. این بخشی از الگوی سبزی های برگ دار است که دستگاه گوارش را خراب می کند.",
+      "summary_fa": "شیوع اسهال سیکلوسپورا یک حادثه مجزا نیست. این بخشی از الگوی سبزی های برگ دار است که دستگاه گوارش را خراب می کند.",
+      "summary_en": "The cyclospora diarrhea outbreak isn't an isolated incident. It's part of a pattern of leafy greens wreaking digestive havoc.",
+      "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 21:41:29 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0463a76a9c3842f117fe26fdc5d2e10b",
+      "title": "آی بی ام چشم انداز خود را کاهش داد، اما نه به اندازه ای که سرمایه گذاران می ترسیدند",
+      "title_fa": "آی بی ام چشم انداز خود را کاهش داد، اما نه به اندازه ای که سرمایه گذاران می ترسیدند",
+      "title_en": "IBM just cut its outlook, but not by as much as investors feared",
+      "summary": "گزارش درآمد رسمی آی‌بی‌ام پس از یک هشدار سود کبود در هفته گذشته منتشر شد.",
+      "summary_fa": "گزارش درآمد رسمی آی‌بی‌ام پس از یک هشدار سود کبود در هفته گذشته منتشر شد.",
+      "summary_en": "IBM’s official earnings report comes after a bruising profit warning last week.",
+      "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 21:39:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-855250",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "438644efaa51ee7756141f9ae9ee9cdf",
+      "title": "خبرنگاران زخمی غزه خواستار تخلیه فوری پزشکی شدند",
+      "title_fa": "خبرنگاران زخمی غزه خواستار تخلیه فوری پزشکی شدند",
+      "title_en": "Wounded Gaza journalists call for urgent medical evacuation",
+      "summary": "روزنامه نگاران زخمی و بیمار مزمن فلسطینی با برگزاری تظاهراتی خواستار تخلیه فوری پزشکی از غزه شدند.",
+      "summary_fa": "روزنامه نگاران زخمی و بیمار مزمن فلسطینی با برگزاری تظاهراتی خواستار تخلیه فوری پزشکی از غزه شدند.",
+      "summary_en": "Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 21:36:37 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "aff00541c34345b6b51397b290793cb9",
+      "title": "آمریکا توافق هسته‌ای تاریخی با عربستان سعودی امضا کرد",
+      "title_fa": "آمریکا توافق هسته‌ای تاریخی با عربستان سعودی امضا کرد",
+      "title_en": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "وزارت انرژی ایالات متحده می گوید که توافقنامه همکاری \"صلح آمیز\" به شرکت های آمریکایی \"دسترسی عالی\" به برنامه انرژی هسته ای عربستان سعودی می دهد.",
+      "summary_fa": "وزارت انرژی ایالات متحده می گوید که توافقنامه همکاری \"صلح آمیز\" به شرکت های آمریکایی \"دسترسی عالی\" به برنامه انرژی هسته ای عربستان سعودی می دهد.",
+      "summary_en": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 21:31:25 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "03813d11b0f35c9dd542abe086f3f387",
+      "title": "آمریکا و عربستان سعودی توافقنامه همکاری هسته ای را اعلام کردند",
+      "title_fa": "آمریکا و عربستان سعودی توافقنامه همکاری هسته ای را اعلام کردند",
+      "title_en": "US and Saudi Arabia announce nuclear cooperation deal",
+      "summary": "دولت ترامپ می‌گوید توافق تاریخی «استانداردهای جهانی منع گسترش سلاح‌های هسته‌ای را تقویت می‌کند» و در ایالات متحده شغل ایجاد می‌کند.",
+      "summary_fa": "دولت ترامپ می‌گوید توافق تاریخی «استانداردهای جهانی منع گسترش سلاح‌های هسته‌ای را تقویت می‌کند» و در ایالات متحده شغل ایجاد می‌کند.",
+      "summary_en": "Trump administration says 'historic' agreement will 'reinforce global nonproliferation standards' and create jobs in US.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 21:30:25 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "25244afc52f92e40eeb6432b670699d9",
+      "title": "سود تسلا کاهش می یابد زیرا تخفیف در مدل های EV بر نتایج تأثیر می گذارد",
+      "title_fa": "سود تسلا کاهش می یابد زیرا تخفیف در مدل های EV بر نتایج تأثیر می گذارد",
+      "title_en": "Tesla profits plunge as discounts on EV models weigh on results",
+      "summary": "با سرعت بخشیدن به چرخش شرکت به سمت نیمه هادی ها، تاکسی های خودران و روبات های انسان نما، هزینه های سرمایه بیش از دو برابر شد.",
+      "summary_fa": "با سرعت بخشیدن به چرخش شرکت به سمت نیمه هادی ها، تاکسی های خودران و روبات های انسان نما، هزینه های سرمایه بیش از دو برابر شد.",
+      "summary_en": "Capital expenditures more than doubled as company accelerates pivot to semiconductors, autonomous taxis and humanoid robots",
+      "link": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 21:29:06 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a61aebc-44b5-45d3-be84-095bdec14704.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cdd07108b75eec7af32f788fecc04a05",
+      "title": "فروش در تسلا افزایش یافت، اما هزینه ها و هزینه ها نیز افزایش یافت",
+      "title_fa": "فروش در تسلا افزایش یافت، اما هزینه ها و هزینه ها نیز افزایش یافت",
+      "title_en": "Sales were up at Tesla but so were costs and spending",
+      "summary": "سه ماهه دوم 2026 سودآور بود، اما به سختی.",
+      "summary_fa": "سه ماهه دوم 2026 سودآور بود، اما به سختی.",
+      "summary_en": "Q2 2026 was profitable, but barely.",
+      "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 22 Jul 2026 21:15:19 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd031b39d03b2826e873541ca57453a4",
+      "title": "گوگل گزارش داد که 6 میلیارد دلار در سه ماهه گذشته سوخت نقدی دارد زیرا هزینه های هوش مصنوعی را دوباره افزایش می دهد",
+      "title_fa": "گوگل گزارش داد که 6 میلیارد دلار در سه ماهه گذشته سوخت نقدی دارد زیرا هزینه های هوش مصنوعی را دوباره افزایش می دهد",
+      "title_en": "Google reports $6bn cash burn last quarter as it raises AI spending again",
+      "summary": "غول جستجو می گوید تا 205 میلیارد دلار سرمایه گذاری در هوش مصنوعی در سال 2026 انجام خواهد داد",
+      "summary_fa": "غول جستجو می گوید تا 205 میلیارد دلار سرمایه گذاری در هوش مصنوعی در سال 2026 انجام خواهد داد",
+      "summary_en": "Search giant says it will commit up to $205bn on AI investments in 2026",
+      "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 21:15:11 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01df8252-6f33-4cf3-a02b-0639ab8cf384.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fdc6df8e3c819ef25c85074526c73092",
+      "title": "برنامه سه فرودگاه برای حذف T.S.A. در میان فشار برای امنیت خصوصی",
+      "title_fa": "برنامه سه فرودگاه برای حذف T.S.A. در میان فشار برای امنیت خصوصی",
+      "title_en": "Three Airports Plan to Ditch T.S.A. Amid Push for Private Security",
+      "summary": "سخنگوی آژانس روز چهارشنبه تایید کرد که فرودگاه ها مدل امنیتی جدید آژانس را انتخاب کرده اند. یکی از مقامات اتحادیه گفت که این اقدام می تواند امنیت عمومی را به خطر بیندازد.",
+      "summary_fa": "سخنگوی آژانس روز چهارشنبه تایید کرد که فرودگاه ها مدل امنیتی جدید آژانس را انتخاب کرده اند. یکی از مقامات اتحادیه گفت که این اقدام می تواند امنیت عمومی را به خطر بیندازد.",
+      "summary_en": "The airports have opted in to the agency’s new security model, an agency spokesperson confirmed on Wednesday. A union official said the move could jeopardize public safety.",
+      "link": "https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 21:06:31 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22trav-tsa-hmzb/22trav-tsa-hmzb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f19d49f06f09c79cd8b7288dc57d45f7",
+      "title": "پیش‌بینی شرکت هواپیمایی ساوت‌وست برای سه ماهه سوم با بالا رفتن صورت‌حساب سوخت، کوتاهی می‌کند",
+      "title_fa": "پیش‌بینی شرکت هواپیمایی ساوت‌وست برای سه ماهه سوم با بالا رفتن صورت‌حساب سوخت، کوتاهی می‌کند",
+      "title_en": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+      "summary": "شرکت هواپیمایی ساوث وست افزایش بیش از 9 درصدی در سود سه ماهه دوم را گزارش داد، زیرا کرایه های بالاتر به طور فزاینده ای به این ایرلاین کمک می کند تا سقف سوخت خود را پوشش دهد.",
+      "summary_fa": "شرکت هواپیمایی ساوث وست افزایش بیش از 9 درصدی در سود سه ماهه دوم را گزارش داد، زیرا کرایه های بالاتر به طور فزاینده ای به این ایرلاین کمک می کند تا سقف سوخت خود را پوشش دهد.",
+      "summary_en": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+      "link": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 21:05:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "78e5944f90599976201b269e189fd9b8",
+      "title": "آمریکا و عربستان سعودی بر سر پیمان مهم انرژی هسته ای توافق کردند",
+      "title_fa": "آمریکا و عربستان سعودی بر سر پیمان مهم انرژی هسته ای توافق کردند",
+      "title_en": "US and Saudi Arabia agree landmark nuclear energy pact",
+      "summary": "واشنگتن می گوید توافق راه را برای \"شرکت چند دهه ای و چند میلیارد دلاری\" هموار می کند.",
+      "summary_fa": "واشنگتن می گوید توافق راه را برای \"شرکت چند دهه ای و چند میلیارد دلاری\" هموار می کند.",
+      "summary_en": "Washington says deal would pave the way for ‘decades-long, multibillion-dollar partnership’",
+      "link": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 21:02:34 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b182f91-d4dd-41e6-805c-f62c4f4a5fde.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "5b19654b4ddd24154ee0a4acce9f5aee",
+      "title": "با لینوکس جدید هستید؟ این چک لیست 10 روزه به شما کمک می کند تا به خوبی و آسانی به وضعیت خود برسید",
+      "title_fa": "با لینوکس جدید هستید؟ این چک لیست 10 روزه به شما کمک می کند تا به خوبی و آسانی به وضعیت خود برسید",
+      "title_en": "New to Linux? This 10-day checklist will help you settle in nice and easy",
+      "summary": "ای کاش وقتی 30 سال پیش شروع به استفاده از لینوکس کردم، این برنامه 10 روزه را دنبال می کردم.",
+      "summary_fa": "ای کاش وقتی 30 سال پیش شروع به استفاده از لینوکس کردم، این برنامه 10 روزه را دنبال می کردم.",
+      "summary_en": "I wish I had followed this 10-day plan when I started using Linux 30 years ago.",
+      "link": "https://www.zdnet.com/article/what-to-do-during-your-first-10-days-of-using-linux/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 21:00:41 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "23ab2a5fce1109a30b1367bb86bbb948",
+      "title": "کاخ سفید در تلاش است تا در مورد هوش مصنوعی چینی چه کاری انجام دهد",
+      "title_fa": "کاخ سفید در تلاش است تا در مورد هوش مصنوعی چینی چه کاری انجام دهد",
+      "title_en": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "بحثی در دولت ترامپ درباره نحوه مدیریت مدل‌های هوش مصنوعی چینی که به طور فزاینده‌ای قدرتمندتر هستند، در جریان است.",
+      "summary_fa": "بحثی در دولت ترامپ درباره نحوه مدیریت مدل‌های هوش مصنوعی چینی که به طور فزاینده‌ای قدرتمندتر هستند، در جریان است.",
+      "summary_en": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 21:00:00 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "82d0954008467a7769190d1002e65dc5",
+      "title": "راهول گاندی از هند پس از آزادی صحبت می کند",
+      "title_fa": "راهول گاندی از هند پس از آزادی صحبت می کند",
+      "title_en": "India’s Rahul Gandhi speaks out after release",
+      "summary": "راهول گاندی، رهبر اپوزیسیون هند، برای اولین بار پس از دستگیری در اعتراضات، علناً صحبت کرد.",
+      "summary_fa": "راهول گاندی، رهبر اپوزیسیون هند، برای اولین بار پس از دستگیری در اعتراضات، علناً صحبت کرد.",
+      "summary_en": "Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 20:59:28 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2ce841d8eae1a5cb29cf6595c75d120d",
+      "title": "لایحه مجلس نمایندگان مجلس نمایندگان حاضر در کنگره را از خرید سهام منع می کند",
+      "title_fa": "لایحه مجلس نمایندگان مجلس نمایندگان حاضر در کنگره را از خرید سهام منع می کند",
+      "title_en": "House advances bill barring sitting Congress members from buying stocks",
+      "summary": "مجلس نمایندگان روز چهارشنبه لایحه‌ای را تصویب کرد که بر اساس آن اعضای کنگره از خرید سهام اضافی در زمان تصدی منع می‌شوند.",
+      "summary_fa": "مجلس نمایندگان روز چهارشنبه لایحه‌ای را تصویب کرد که بر اساس آن اعضای کنگره از خرید سهام اضافی در زمان تصدی منع می‌شوند.",
+      "summary_en": "The House on Wednesday advanced a bill that would bar members of Congress from purchasing additional stocks while in office.",
+      "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:59:04 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6688bcd078934efd3e790656b3d62166",
+      "title": "پلیس پرو می گوید آتش سوزی 10 نفر از اعضای یک خانواده را کشته است",
+      "title_fa": "پلیس پرو می گوید آتش سوزی 10 نفر از اعضای یک خانواده را کشته است",
+      "title_en": "Fire kills 10 members of same family in Peru, police say",
+      "summary": "طبق گزارش رسانه های محلی، مقامات در حال بررسی علت آتش سوزی در لیما هستند\n ممکن است آتش سوزی بوده باشد",
+      "summary_fa": "طبق گزارش رسانه های محلی، مقامات در حال بررسی علت آتش سوزی در لیما هستند\n ممکن است آتش سوزی بوده باشد",
+      "summary_en": "Authorities are investigating the cause of the blaze in Lima as local media report\n it may have been arson.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 20:56:26 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e44/live/6c7846a0-860b-11f1-8577-d306e957ffb1.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "24ff9920d2d6ddee62cf69f150c3d1db",
+      "title": "برنامه های هسته ای عربستان سعودی",
+      "title_fa": "برنامه های هسته ای عربستان سعودی",
+      "title_en": "Saudi Arabia’s Nuclear Plans",
+      "summary": "ایالات متحده به سعودی ها کمک خواهد کرد تا یک برنامه هسته ای غیرنظامی را توسعه دهند که پیامدهای نامشخصی برای خاورمیانه خواهد داشت.",
+      "summary_fa": "ایالات متحده به سعودی ها کمک خواهد کرد تا یک برنامه هسته ای غیرنظامی را توسعه دهند که پیامدهای نامشخصی برای خاورمیانه خواهد داشت.",
+      "summary_en": "The U.S. will help the Saudis develop a civilian nuclear program, with uncertain consequences for the Middle East.",
+      "link": "https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 20:52:54 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-theworld-saudi-nuclear-deal-01-bltg-promo/23int-theworld-saudi-nuclear-deal-01-bltg-promo-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
       }
     },
     {
@@ -101,6 +479,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-855250",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c782372857ca5bd019ba465d69f8933",
+      "title": "جان پالسون می گوید ما در مراحل اولیه یک بازار صعودی بلندمدت طلا هستیم",
+      "title_fa": "جان پالسون می گوید ما در مراحل اولیه یک بازار صعودی بلندمدت طلا هستیم",
+      "title_en": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "summary": "او گفت که تقاضا برای شمش همچنان در حال گسترش است، به رهبری بانک های مرکزی که در کنار افزایش بهره بخش خصوصی به ذخایر خود اضافه می کنند.",
+      "summary_fa": "او گفت که تقاضا برای شمش همچنان در حال گسترش است، به رهبری بانک های مرکزی که در کنار افزایش بهره بخش خصوصی به ذخایر خود اضافه می کنند.",
+      "summary_en": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 20:41:53 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -12820,6 +13219,27 @@
       "title": "درآمدهای تسلا پس از دو سال ناامیدکننده در حال افزایش است",
       "title_fa": "درآمدهای تسلا پس از دو سال ناامیدکننده در حال افزایش است",
       "title_en": "Tesla’s revenues are bouncing back after a dismal two years",
+      "summary": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
+      "summary_fa": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
+      "summary_en": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company […]",
+      "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
+      "source": "The Verge",
+      "published_at": "2026-07-22T16:17:46-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1850838c5659175f61bc016a6563e7eb",
+      "title": "درآمدهای تسلا در حال افزایش است، اما سود همچنان ضعیف است",
+      "title_fa": "درآمدهای تسلا در حال افزایش است، اما سود همچنان ضعیف است",
+      "title_en": "Tesla’s revenues are bouncing back, but profits are still weak",
       "summary": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
       "summary_fa": "پس از دو سال تاسف‌آور تضعیف تقاضا، کاهش فروش و آسیب به برند آن توسط فعالیت‌های سیاسی ایلان ماسک، مسیر تسلا به سمت بهبودی به سرعت ادامه دارد. پس از یک گزارش تحویل چشمگیر، این شرکت درآمد خود را برای سه ماهه دوم سال 2026 منتشر کرد - آخرین نگاهی اجمالی به شرکت EV در اختیار ما قرار داد.",
       "summary_en": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company […]",
