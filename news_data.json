@@ -1,7 +1,133 @@
 {
-  "last_update": "2026-07-22 11:21:55",
-  "total_count": 378,
+  "last_update": "2026-07-22 12:55:40",
+  "total_count": 418,
   "articles": [
+    {
+      "id": "1ac37bbac58e7330e0e6b1646d9ba68b",
+      "title": "شعبه چینی فولکس واگن فناوری خودران را دوچندان کرده است",
+      "title_fa": "شعبه چینی فولکس واگن فناوری خودران را دوچندان کرده است",
+      "title_en": "Volkswagen’s Chinese branch doubles down on self-driving technology",
+      "summary": "در بحبوحه رقابت فزاینده در بازار فناوری خودران، به ویژه در چین، بزرگ‌ترین شرکت خودروسازی اروپا قصد دارد اقدامات بزرگی برای عقب‌نشینی انجام دهد.",
+      "summary_fa": "در بحبوحه رقابت فزاینده در بازار فناوری خودران، به ویژه در چین، بزرگ‌ترین شرکت خودروسازی اروپا قصد دارد اقدامات بزرگی برای عقب‌نشینی انجام دهد.",
+      "summary_en": "Amid rising competition in the self-driving technology market, especially in China, Europe’s biggest auto company plans to make some big moves to catch up.",
+      "link": "http://www.euronews.com/business/2026/07/22/volkswagens-chinese-branch-doubles-down-on-self-driving-technology",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 14:43:03 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "aefe432babbb323320f9aa629b57f7d0",
+      "title": "وزیر محیط زیست فرانسه پس از اعلام استعفا متقاعد به ماندن در سمت خود شد",
+      "title_fa": "وزیر محیط زیست فرانسه پس از اعلام استعفا متقاعد به ماندن در سمت خود شد",
+      "title_en": "French environment minister convinced to stay on after announcing resignation",
+      "summary": "باربوت اوایل روز چهارشنبه استعفا داد و در پستی در لینکدین از دولت انتقاد کرد و گفت که از وعده‌های مربوط به لایحه کشاورزی برای معرفی مجدد برخی آفت‌کش‌ها سرپیچی کرده است.",
+      "summary_fa": "باربوت اوایل روز چهارشنبه استعفا داد و در پستی در لینکدین از دولت انتقاد کرد و گفت که از وعده‌های مربوط به لایحه کشاورزی برای معرفی مجدد برخی آفت‌کش‌ها سرپیچی کرده است.",
+      "summary_en": "Barbut had resigned earlier on Wednesday and criticized the government in a LinkedIn post, saying it had reneged on promises over an agricultural bill to reintroduce certain pesticides.",
+      "link": "http://www.euronews.com/my-europe/2026/07/22/french-environment-minister-convinced-to-stay-on-after-announcing-resignation",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 14:42:33 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a67f9980be086661f723e81ee889da1d",
+      "title": "کمپین ضد اودیسه ایلان ماسک به دلیل تهدید به ساخت نسخه هوش مصنوعی حماسه نولان نتیجه معکوس داد.",
+      "title_fa": "کمپین ضد اودیسه ایلان ماسک به دلیل تهدید به ساخت نسخه هوش مصنوعی حماسه نولان نتیجه معکوس داد.",
+      "title_en": "Elon Musk's anti-Odyssey campaign backfires over threat to make AI version of Nolan's epic",
+      "summary": "کمپین ضد اودیسه ایلان ماسک به سطح بعدی رفته است، زیرا مالک X قول داده است که ربات رسانه اجتماعی هوش مصنوعی او، گروک، «فیلمی تمام‌قد از ادیسه را بسازد که از لحاظ تاریخی دقیق و به هنر هومر صادق است». ETA: \"پیش از پایان سال جاری.\"",
+      "summary_fa": "کمپین ضد اودیسه ایلان ماسک به سطح بعدی رفته است، زیرا مالک X قول داده است که ربات رسانه اجتماعی هوش مصنوعی او، گروک، «فیلمی تمام‌قد از ادیسه را بسازد که از لحاظ تاریخی دقیق و به هنر هومر صادق است». ETA: \"پیش از پایان سال جاری.\"",
+      "summary_en": "Elon Musk's anti-Odyssey campaign has gone to the next level, as the X owner has vowed that his AI social media bot, Grok, will make “a full-length movie of The Odyssey that is historically accurate and true to the art of Homer”. ETA: \"Before this year ends.\"",
+      "link": "http://www.euronews.com/culture/2026/07/22/elon-musks-anti-odyssey-campaign-backfires-over-threat-to-make-ai-version-of-nolans-epic",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 14:29:38 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c4bcc16ecade5208fbda411d805b4a0e",
+      "title": "ایران به بلغارستان در مورد استقرار هواپیماهای آمریکایی هشدار داد زیرا ارتش ایالات متحده برای مقابله با تهدیدات آماده است.",
+      "title_fa": "ایران به بلغارستان در مورد استقرار هواپیماهای آمریکایی هشدار داد زیرا ارتش ایالات متحده برای مقابله با تهدیدات آماده است.",
+      "title_en": "Iran warns Bulgaria over US aircraft deployment as US military 'stands ready to counter threats'",
+      "summary": "این هشدار به دنبال پیشنهاد دولت بلغارستان مبنی بر استقرار موقت هشت فروند هواپیمای سوخت‌رسان هوایی ایالات متحده در پایگاه هوایی بزمر در جنوب شرقی این کشور صورت گرفت.",
+      "summary_fa": "این هشدار به دنبال پیشنهاد دولت بلغارستان مبنی بر استقرار موقت هشت فروند هواپیمای سوخت‌رسان هوایی ایالات متحده در پایگاه هوایی بزمر در جنوب شرقی این کشور صورت گرفت.",
+      "summary_en": "The warning follows a Bulgarian government proposal to temporarily deploy up to eight US aerial refuelling aircraft at Bezmer Air Base in the country’s southeast.",
+      "link": "http://www.euronews.com/my-europe/2026/07/22/iran-warns-bulgaria-over-us-aircraft-deployment-as-us-military-stands-ready-to-counter-thr",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 13:31:24 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e97e8434a5bfb43fa96cfff4cf372aa7",
+      "title": "دبی با قیمت کمتر: امارات 700 یورو تخفیف در طرح جدید دعوت از یک دوست ارائه می دهد.",
+      "title_fa": "دبی با قیمت کمتر: امارات 700 یورو تخفیف در طرح جدید دعوت از یک دوست ارائه می دهد.",
+      "title_en": "Dubai for less: Emirate to offer €700 worth of discounts in new invite-a-friend scheme",
+      "summary": "ساکنانی که قبل از 31 اکتبر دوستان و اعضای خانواده خود را برای آمدن به دبی معرفی می کنند، می توانند پیشنهاداتی مانند 45 درصد تخفیف برای اقامت در هتل و بلیط رایگان پارک های موضوعی دریافت کنند.",
+      "summary_fa": "ساکنانی که قبل از 31 اکتبر دوستان و اعضای خانواده خود را برای آمدن به دبی معرفی می کنند، می توانند پیشنهاداتی مانند 45 درصد تخفیف برای اقامت در هتل و بلیط رایگان پارک های موضوعی دریافت کنند.",
+      "summary_en": "Residents who nominate friends and family members to come to Dubai before 31 October can get offers such as 45% off hotel stays and free tickets to theme parks.",
+      "link": "http://www.euronews.com/travel/2026/07/22/dubai-for-less-emirate-to-offer-700-worth-of-discounts-in-new-invite-a-friend-scheme",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 13:24:39 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "19774badeac21e2e6aa44a885826446e",
+      "title": "مجارستان پس از پیوستن وزیر سابق به خودروساز، قرارداد BYD را بررسی می‌کند و نگرانی‌های «درهای گردان» را افزایش می‌دهد.",
+      "title_fa": "مجارستان پس از پیوستن وزیر سابق به خودروساز، قرارداد BYD را بررسی می‌کند و نگرانی‌های «درهای گردان» را افزایش می‌دهد.",
+      "title_en": "Hungary probes BYD deal after ex-minister joins carmaker, raising 'revolving door' concerns",
+      "summary": "همانطور که مجارستان اعلام کرد یارانه های داده شده به خودروساز چینی را بررسی خواهد کرد، شفافیت بین الملل هشدار داد که استخدام وزیر سابقی که با آنها مذاکره کرده است، می تواند دولت را در معرض فشار شرکت های چینی قرار دهد.",
+      "summary_fa": "همانطور که مجارستان اعلام کرد یارانه های داده شده به خودروساز چینی را بررسی خواهد کرد، شفافیت بین الملل هشدار داد که استخدام وزیر سابقی که با آنها مذاکره کرده است، می تواند دولت را در معرض فشار شرکت های چینی قرار دهد.",
+      "summary_en": "As Hungary announced it would investigate subsidies given to the Chinese carmaker, Transparency International warned the hiring of an ex-minister who negotiated them could expose the state to Chinese corporate pressure.",
+      "link": "http://www.euronews.com/my-europe/2026/07/22/hungary-probes-byd-deal-after-ex-minister-joins-carmaker-raising-revolving-door-concerns",
+      "source": "EuroNews",
+      "published_at": "Wed, 22 Jul 2026 13:21:11 +0200",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
     {
       "id": "d53e135e06e830b873cf0b01320d354a",
       "title": "ادای احترام به کیلی هاتل بازیگر فیلم «گودزیلا علیه کنگ» که در 18 سالگی در تصادف رانندگی کشته شد",
@@ -66,6 +192,132 @@
       }
     },
     {
+      "id": "6bb53d46923076f3baa7e33c75c4cbd5",
+      "title": "بله، فروش سهام هوش مصنوعی وحشتناک به نظر می رسد. اما ممکن است در واقع بازار گاوی را نجات دهد.",
+      "title_fa": "بله، فروش سهام هوش مصنوعی وحشتناک به نظر می رسد. اما ممکن است در واقع بازار گاوی را نجات دهد.",
+      "title_en": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "summary": "داغ ترین معاملات فناوری در سال 2026 به تازگی مورد انتقاد قرار گرفته است - سرمایه گذاران هوشمند به هر حال خرید می کنند.",
+      "summary_fa": "داغ ترین معاملات فناوری در سال 2026 به تازگی مورد انتقاد قرار گرفته است - سرمایه گذاران هوشمند به هر حال خرید می کنند.",
+      "summary_en": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+      "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 12:45:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04379850",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1305ffd1260714a623a4e7bac2524c8f",
+      "title": "آیا سوئز می تواند پس از بستن باب المندب توسط حوثی ها، مصرف کنندگان نفت آسیایی را نجات دهد؟",
+      "title_fa": "آیا سوئز می تواند پس از بستن باب المندب توسط حوثی ها، مصرف کنندگان نفت آسیایی را نجات دهد؟",
+      "title_en": "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
+      "summary": "کارشناسان می گویند حدود 6 میلیون بشکه نفت خام در روز که از این تنگه به ​​آسیا می گذرد اکنون در معرض خطر است.",
+      "summary_fa": "کارشناسان می گویند حدود 6 میلیون بشکه نفت خام در روز که از این تنگه به ​​آسیا می گذرد اکنون در معرض خطر است.",
+      "summary_en": "About 6 million barrels of crude per day that pass through the strait to Asia are now at risk, experts say.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:36:06 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "91d711e53c314e7df0c230de238b70df",
+      "title": "در حالی که جنگ غزه در کنفرانس حزبی گسترده شده است، پولیس محلی ALP تغییرات گسترده ای را در محل کار دانشجویان اعلام می کند.",
+      "title_fa": "در حالی که جنگ غزه در کنفرانس حزبی گسترده شده است، پولیس محلی ALP تغییرات گسترده ای را در محل کار دانشجویان اعلام می کند.",
+      "title_en": "ALP announces sweeping changes to student work placements as Gaza war looms large at party conference",
+      "summary": "آنتونی آلبانیز سیاست‌های «عملی» را به عنوان کلید مقابله با اضطراب و ناامیدی در استرالیا انتخاب خواهد کرد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. سخنرانی برای افتتاح کنفرانس ملی کارگر در روز پنجشنبه، که سیاست‌های «عملی» را کلید مبارزه با اضطراب و ناامیدی رای دهندگان خواهد بود. ادامه مطلب...",
+      "summary_fa": "آنتونی آلبانیز سیاست‌های «عملی» را به عنوان کلید مقابله با اضطراب و ناامیدی در استرالیا انتخاب خواهد کرد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. سخنرانی برای افتتاح کنفرانس ملی کارگر در روز پنجشنبه، که سیاست‌های «عملی» را کلید مبارزه با اضطراب و ناامیدی رای دهندگان خواهد بود. ادامه مطلب...",
+      "summary_en": "Anthony Albanese will cast ‘practical’ policies as the key to countering the anxiety and frustration in AustraliaGet our breaking news email, free app or daily news podcastStudents in 10 fields including physiotherapy, speech pathology and clinical psychology will receive financial assistance to complete mandatory placements under a major expansion of the federal government’s paid work experience program.The prime minister, Anthony Albanese, will make the announcement in a speech to open the Labor national conference on Thursday, which will cast “practical” policies as the key to combating the anxiety and frustration gripping the electorate. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/22/alp-announces-sweeping-changes-to-student-work-placements-as-gaza-war-looms-large-at-party-conference",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 12:30:14 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1b493d22c5d54dab0be9b601c674d87d89fe77cb/2256_1639_2401_1921/master/2401.jpg?width=140&quality=85&auto=format&fit=max&s=de320fa7d5f4f1d96cfeabfc97a104be",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "a5f7117ea275837de69204ef94eb598a",
+      "title": "«من 2000 دلار فرانشیز دارم»: من گزارش کردم که شیشه جلوی ماشین کرایه‌ای هرتز من ترک خورده است. آیا می توانند از من اتهام بگیرند؟",
+      "title_fa": "«من 2000 دلار فرانشیز دارم»: من گزارش کردم که شیشه جلوی ماشین کرایه‌ای هرتز من ترک خورده است. آیا می توانند از من اتهام بگیرند؟",
+      "title_en": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+      "summary": "من هرگز نشنیده ام که سنگی به شیشه جلو برخورد کند.",
+      "summary_fa": "من هرگز نشنیده ام که سنگی به شیشه جلو برخورد کند.",
+      "summary_en": "“I never heard a rock hit the windshield.”",
+      "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 12:30:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02089374",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a150e3647e0b8deea82ab8434c83f18a",
+      "title": "پس از دهه‌ها احتیاط، آلمان چگونه سلاح‌های خود را می‌سازد",
+      "title_fa": "پس از دهه‌ها احتیاط، آلمان چگونه سلاح‌های خود را می‌سازد",
+      "title_en": "After Decades of Caution, Germany Is Shaking Up How It Makes Weapons",
+      "summary": "با افزایش تهدیدات از سوی مسکو و کاهش حمایت واشنگتن، ارتش آلمان در حال اختراع مجدد نحوه تحقیق، تامین مالی و استفاده از تسلیحات قرن بیست و یکم است.",
+      "summary_fa": "با افزایش تهدیدات از سوی مسکو و کاهش حمایت واشنگتن، ارتش آلمان در حال اختراع مجدد نحوه تحقیق، تامین مالی و استفاده از تسلیحات قرن بیست و یکم است.",
+      "summary_en": "As threats from Moscow rise and support from Washington dwindles, the German military is reinventing how it researches, funds and wields 21st-century arms.",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 12:28:38 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-germany-innovation-top-ghjc/09int-germany-innovation-top-ghjc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "accd88653a4da0ba105740f228faacd0",
+      "title": "زن بریتانیایی پس از طرح اتهامات نادرست تجاوز جنسی در هنگ کنگ زندانی شد",
+      "title_fa": "زن بریتانیایی پس از طرح اتهامات نادرست تجاوز جنسی در هنگ کنگ زندانی شد",
+      "title_en": "British woman jailed in Hong Kong after making false rape allegations",
+      "summary": "ایزابل رز، 26 ساله، پس از متهم کردن یک بانکدار بریتانیایی، به دلیل باج خواهی و انحراف در مسیر عدالت به شش سال زندان محکوم شد. زن بریتانیایی که به پلیس در هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، از جنوب شرق لندن، در حالی که در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
+      "summary_fa": "ایزابل رز، 26 ساله، پس از متهم کردن یک بانکدار بریتانیایی، به دلیل باج خواهی و انحراف در مسیر عدالت به شش سال زندان محکوم شد. زن بریتانیایی که به پلیس در هنگ کنگ مورد تجاوز جنسی قرار گرفته بود، به دلیل باج خواهی و انحراف در مسیر عدالت عمومی به شش سال زندان محکوم شد. ایزابل رز، 26 ساله، از جنوب شرق لندن، در حالی که در اوایل سفر به هنگ کنگ به من سفر کرده بود. آسیای جنوب شرقی ادامه مطلب...",
+      "summary_en": "Isabel Rose, 26, given six-year sentence for blackmail and perverting course of justice after accusing British bankerA British woman who reported being raped to police in Hong Kong has been sentenced to six years in prison for blackmail and perverting the course of public justice.Isabel Rose, 26, from south-east London, travelled to Hong Kong in early 2024 to visit a British banker she had met while travelling in south-east Asia. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 12:28:15 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8831179a23d1e3ca8bc2179b0c1216dd0b777e24/709_281_3674_2939/master/3674.jpg?width=140&quality=85&auto=format&fit=max&s=efd12e3869e53c076d3f9f29f52eb2d9",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
       "id": "35e072df6dc8292d690b6217b1d030a1",
       "title": "اتحادیه اروپا پس از انحلال رژیم فعلی، در برابر تعرفه‌های جدید ایالات متحده تسلیم خواهد شد",
       "title_fa": "اتحادیه اروپا پس از انحلال رژیم فعلی، در برابر تعرفه‌های جدید ایالات متحده تسلیم خواهد شد",
@@ -105,6 +357,69 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "21185eb6f23aada545b3d4dd251226db",
+      "title": "اعتراض هند: امتناع مودی از برکناری وزیر آموزش چگونه با یک الگو مطابقت دارد",
+      "title_fa": "اعتراض هند: امتناع مودی از برکناری وزیر آموزش چگونه با یک الگو مطابقت دارد",
+      "title_en": "India protest: How Modi’s refusal to sack education minister fits a pattern",
+      "summary": "معترضان خواهان اخراج دارمندرا پرادان به دلیل افشاگری های سریالی در امتحان هستند. اما مودی اینگونه کار نمی کند.",
+      "summary_fa": "معترضان خواهان اخراج دارمندرا پرادان به دلیل افشاگری های سریالی در امتحان هستند. اما مودی اینگونه کار نمی کند.",
+      "summary_en": "Protesters want Dharmendra Pradhan to be sacked over serial exam leaks. But that's not how Modi works.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:09:13 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "a3606766643fc206ba6e0dcab5404d05",
+      "title": "قیمت 37 میلیارد دلاری جنگ ایران: چرا پنتاگون 67 میلیارد دلار بیشتر می‌خواهد؟",
+      "title_fa": "قیمت 37 میلیارد دلاری جنگ ایران: چرا پنتاگون 67 میلیارد دلار بیشتر می‌خواهد؟",
+      "title_en": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?",
+      "summary": "ایالات متحده باید به سرعت ذخایر تسلیحات خود را با ادامه جنگ علیه ایران پر کند.",
+      "summary_fa": "ایالات متحده باید به سرعت ذخایر تسلیحات خود را با ادامه جنگ علیه ایران پر کند.",
+      "summary_en": "The US must rapidly replenish its stockpiles of weapons as the war on Iran rages on.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 12:05:12 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e0ad8f56477bd85bc176ecd9c7e0396e",
+      "title": "این سرمایه گذار هشدار می دهد که هوش مصنوعی باعث کسری بی سابقه گاز طبیعی خواهد شد. در اینجا سهامی برای خرید قبل از بحران وجود دارد.",
+      "title_fa": "این سرمایه گذار هشدار می دهد که هوش مصنوعی باعث کسری بی سابقه گاز طبیعی خواهد شد. در اینجا سهامی برای خرید قبل از بحران وجود دارد.",
+      "title_en": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.",
+      "summary": "متیو اسمیت از شرکای کرونومتر می گوید سرمایه گذاران و بازارها برای کمبود گاز طبیعی آماده نیستند.",
+      "summary_fa": "متیو اسمیت از شرکای کرونومتر می گوید سرمایه گذاران و بازارها برای کمبود گاز طبیعی آماده نیستند.",
+      "summary_en": "Chronometer Partners’ Matthew Smith says investors and markets are not prepared for a natural-gas shortage.",
+      "link": "https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 12:05:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-17493788",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -150,6 +465,27 @@
       }
     },
     {
+      "id": "b1de47e2f34ef9d9678ea39227e24efe",
+      "title": "سرمایه گذاری 100000 دلاری زمانی دروازه ای برای ایجاد ثروت واقعی بود. برای جوانان امروز، این دو برابر است.",
+      "title_fa": "سرمایه گذاری 100000 دلاری زمانی دروازه ای برای ایجاد ثروت واقعی بود. برای جوانان امروز، این دو برابر است.",
+      "title_en": "Having $100,000 invested was once the gateway to building real wealth. For young people today, it’s double that.",
+      "summary": "در حالی که این معیار سرمایه گذاری هنوز ارزش تجلیل دارد، جوانانی که می خواهند در اقتصاد امروز احساس ثروت کنند باید چیزهای بیشتری داشته باشند.",
+      "summary_fa": "در حالی که این معیار سرمایه گذاری هنوز ارزش تجلیل دارد، جوانانی که می خواهند در اقتصاد امروز احساس ثروت کنند باید چیزهای بیشتری داشته باشند.",
+      "summary_en": "While this investing benchmark is still worth celebrating, young people who want to feel rich in today’s economy need to have a lot more.",
+      "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-17563609",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "40aba638d27187f0ed5040ac796447c5",
       "title": "\"بدتر خواهد شد\": دومین پایتخت سرد جهان با گرمای بی سابقه روبرو می شود",
       "title_fa": "\"بدتر خواهد شد\": دومین پایتخت سرد جهان با گرمای بی سابقه روبرو می شود",
@@ -171,6 +507,237 @@
       }
     },
     {
+      "id": "669aad1a88831dc47084f70453a61cd3",
+      "title": "توافق هسته ای مورد انتظار آمریکا و عربستان به نگرانی اسرائیل از مسابقه تسلیحاتی منطقه ای دامن می زند",
+      "title_fa": "توافق هسته ای مورد انتظار آمریکا و عربستان به نگرانی اسرائیل از مسابقه تسلیحاتی منطقه ای دامن می زند",
+      "title_en": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
+      "summary": "یک وزیر اسرائیلی به دنبال کم اهمیت جلوه دادن این توافق بود، اما منتقدان گفتند که این توافق می تواند سایر کشورهای منطقه را به دنبال برنامه هسته ای و به طور بالقوه ساخت بمب تشویق کند.",
+      "summary_fa": "یک وزیر اسرائیلی به دنبال کم اهمیت جلوه دادن این توافق بود، اما منتقدان گفتند که این توافق می تواند سایر کشورهای منطقه را به دنبال برنامه هسته ای و به طور بالقوه ساخت بمب تشویق کند.",
+      "summary_en": "An Israeli minister sought to downplay the deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 11:55:35 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f438091a49f971a31fcb84b5343e90c6",
+      "title": "\"مرگ خزنده\": اسرائیل \"خط زرد\" را برای الحاق غزه به سلاح تبدیل می کند",
+      "title_fa": "\"مرگ خزنده\": اسرائیل \"خط زرد\" را برای الحاق غزه به سلاح تبدیل می کند",
+      "title_en": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
+      "summary": "تحلیلگران و مردم محلی می گویند این اقدام منعکس کننده آنچه پس از جنگ 1967 با اشغال کرانه باختری توسط اسرائیل رخ داد.",
+      "summary_fa": "تحلیلگران و مردم محلی می گویند این اقدام منعکس کننده آنچه پس از جنگ 1967 با اشغال کرانه باختری توسط اسرائیل رخ داد.",
+      "summary_en": "Analysts and locals say the move mirrors what happened after the 1967 war with Israel's occupation of the West Bank.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 11:52:29 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "2b6ccb37954606f044711854ff98ad79",
+      "title": "نحوه استفاده از تم ها در Google Messages تا دیگر هرگز متن اشتباه را برای شخص اشتباه ارسال نکنید",
+      "title_fa": "نحوه استفاده از تم ها در Google Messages تا دیگر هرگز متن اشتباه را برای شخص اشتباه ارسال نکنید",
+      "title_en": "How to use themes in Google Messages so you never send the wrong person the wrong text again",
+      "summary": "با ده ها چت در حال حرکت، احتمالاً موقعیتی داشته اید که پاسخ اشتباهی را برای شخص اشتباهی ارسال کرده اید. من راهی برای جلوگیری از این مشکل پیدا کردم.",
+      "summary_fa": "با ده ها چت در حال حرکت، احتمالاً موقعیتی داشته اید که پاسخ اشتباهی را برای شخص اشتباهی ارسال کرده اید. من راهی برای جلوگیری از این مشکل پیدا کردم.",
+      "summary_en": "With dozens of chats on the go, you've probably had an occasion where you've sent the wrong response to the wrong person. I've found a way to avoid this problem.",
+      "link": "https://www.zdnet.com/article/how-to-use-themes-in-google-messages-so-you-never-send-the-wrong-person-the-wrong-text-again/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 11:52:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c8c7b96a667a195923a5053628da6068",
+      "title": "قیمت نفت برنت نزدیک به 95 دلار در نوسان است زیرا روبیو می گوید ایالات متحده به حمایت از کشتیرانی در هرمز ادامه می دهد.",
+      "title_fa": "قیمت نفت برنت نزدیک به 95 دلار در نوسان است زیرا روبیو می گوید ایالات متحده به حمایت از کشتیرانی در هرمز ادامه می دهد.",
+      "title_en": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz",
+      "summary": "ایالات متحده برای 11 روز متوالی حملات خود را علیه ایران آغاز کرده است و دلیل آن نیاز به \"تضعیف توانایی ایران برای تهدید کشتیرانی تجاری\" است.",
+      "summary_fa": "ایالات متحده برای 11 روز متوالی حملات خود را علیه ایران آغاز کرده است و دلیل آن نیاز به \"تضعیف توانایی ایران برای تهدید کشتیرانی تجاری\" است.",
+      "summary_en": "The U.S. has launched strikes against Iran for 11 consecutive days, citing a need to \"degrade Iran's ability to threaten commercial shipping.\"",
+      "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 11:51:33 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "9c74483dbcfe2a40e1532754f23b1e03",
+      "title": "قیمت گاز اروپا به بالاترین حد جنگ ایران نزدیک می شود زیرا معامله گران از عرضه زمستانی نگران هستند",
+      "title_fa": "قیمت گاز اروپا به بالاترین حد جنگ ایران نزدیک می شود زیرا معامله گران از عرضه زمستانی نگران هستند",
+      "title_en": "European gas prices approach Iran war highs as traders fret over winter supplies",
+      "summary": "موج گرما و جنگ پیشنهادی با خریداران آسیایی، بازار را در برابر اختلال در تنگه هرمز آسیب پذیر کرده است.",
+      "summary_fa": "موج گرما و جنگ پیشنهادی با خریداران آسیایی، بازار را در برابر اختلال در تنگه هرمز آسیب پذیر کرده است.",
+      "summary_en": "Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption",
+      "link": "https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 11:41:40 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd50b41ed-7f2b-4b56-b7fd-095dc30da027.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "bb44fc8af0cb006d655ecdccdf7265a5",
+      "title": "استرالیا به چین هشدار می دهد که با اقدامات \"تحریک آمیز\" به دلیل ساخت زرادخانه نظامی و هسته ای مورد آزار و اذیت قرار نخواهد گرفت.",
+      "title_fa": "استرالیا به چین هشدار می دهد که با اقدامات \"تحریک آمیز\" به دلیل ساخت زرادخانه نظامی و هسته ای مورد آزار و اذیت قرار نخواهد گرفت.",
+      "title_en": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
+      "summary": "پنی وونگ، وزیر امور خارجه، در انتقاد از پرتاب اخیر موشک زیردریایی با قابلیت حمل کلاهک هسته‌ای توسط چین سخنرانی خواهد کرد. دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه، پنی وانگ به چین هشدار می‌دهد که استرالیا و دیگر کشورهای همسایه پس از دخالت در یکی دیگر از خطاب‌های «بی‌ثبات‌کننده و خطرناک» در این هفته، به چین هشدار خواهد داد که اقدامات «تحریک‌آمیز» این کشور مورد آزار و اذیت قرار نخواهند گرفت. فیلیپین، جایی که پنجاه و نهمین نشست وزیر امور خارجه آسه‌آه در آن برگزار می‌شود، همچنین به رهبران جهان هشدار خواهد داد که پس از تهدید ایران و آمریکا در بحبوحه درگیری طولانی‌مدت، تلفاتی بر تنگه هرمز وارد نکنند. ادامه مطلب...",
+      "summary_fa": "پنی وونگ، وزیر امور خارجه، در انتقاد از پرتاب اخیر موشک زیردریایی با قابلیت حمل کلاهک هسته‌ای توسط چین سخنرانی خواهد کرد. دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه، پنی وانگ به چین هشدار می‌دهد که استرالیا و دیگر کشورهای همسایه پس از دخالت در یکی دیگر از خطاب‌های «بی‌ثبات‌کننده و خطرناک» در این هفته، به چین هشدار خواهد داد که اقدامات «تحریک‌آمیز» این کشور مورد آزار و اذیت قرار نخواهند گرفت. فیلیپین، جایی که پنجاه و نهمین نشست وزیر امور خارجه آسه‌آه در آن برگزار می‌شود، همچنین به رهبران جهان هشدار خواهد داد که پس از تهدید ایران و آمریکا در بحبوحه درگیری طولانی‌مدت، تلفاتی بر تنگه هرمز وارد نکنند. ادامه مطلب...",
+      "summary_en": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week.The foreign affairs minister – who will deliver the address on Thursday in the Philippines, where the 59th Asean foreign minister’s meeting is being held – will also caution world leaders against placing a toll on the strait of Hormuz after both Iran and the US threatened to do amid the protracted conflict. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 11:40:08 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d7a7b97d4f3f0fa4f86c3e2e8fa38cf1",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b3f2ed5186ea4e65315de2494f90fbe1",
+      "title": "ایتالیا در تلاش برای استخدام پپ گواردیولا به عنوان مربی، «استثنایی» مالی قائل است",
+      "title_fa": "ایتالیا در تلاش برای استخدام پپ گواردیولا به عنوان مربی، «استثنایی» مالی قائل است",
+      "title_en": "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
+      "summary": "رئیس فدراسیون فوتبال ایتالیا با گواردیولا درباره پست خالی مذاکره می کند، اما انتصاب وی هنوز تایید نشده است.",
+      "summary_fa": "رئیس فدراسیون فوتبال ایتالیا با گواردیولا درباره پست خالی مذاکره می کند، اما انتصاب وی هنوز تایید نشده است.",
+      "summary_en": "Italy's football federation chief holds talks with Guardiola over vacant role, but appointment not yet confirmed.",
+      "link": "https://www.aljazeera.com/sports/2026/7/22/italy-makes-financial-exceptions-in-bid-to-hire-pep-guardiola-as-coach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 11:39:49 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "143452b0e9d696b1ac1efc6a5a8d4786",
+      "title": "دفتر مرکزی دویچه بانک برای سومین بار در سال جاری مورد حمله قرار گرفت",
+      "title_fa": "دفتر مرکزی دویچه بانک برای سومین بار در سال جاری مورد حمله قرار گرفت",
+      "title_en": "Deutsche Bank headquarters raided for third time this year",
+      "summary": "آخرین جست‌وجو، تلاش‌ها برای بازسازی وام‌دهنده آلمانی را تهدید می‌کند",
+      "summary_fa": "آخرین جست‌وجو، تلاش‌ها برای بازسازی وام‌دهنده آلمانی را تهدید می‌کند",
+      "summary_en": "Latest search threatens to detract from efforts to rehabilitate German lender",
+      "link": "https://www.ft.com/content/ffe4cbfd-e997-480f-a220-cf5bbf999d09?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 11:34:30 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F598be055-0ad9-4174-b555-1d72520eccab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d9be91241bb8e1e42c0e25967d7d7dd",
+      "title": "کشف کوکائین به ارزش 370 میلیون دلار در بزرگترین کشفیات مواد مخدر لیبریا",
+      "title_fa": "کشف کوکائین به ارزش 370 میلیون دلار در بزرگترین کشفیات مواد مخدر لیبریا",
+      "title_en": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "summary": "پلیس می گوید که این توقیف پس از تحقیقات طولانی مدت در مورد شبکه های قاچاق مواد مخدر صورت می گیرد.",
+      "summary_fa": "پلیس می گوید که این توقیف پس از تحقیقات طولانی مدت در مورد شبکه های قاچاق مواد مخدر صورت می گیرد.",
+      "summary_en": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 11:32:11 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8a/live/d822f230-859b-11f1-95ab-5d94529b7f34.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "43aafdb34d810accf4b8ddd0581c6f54",
+      "title": "13 بهترین طرفدار برای گذراندن روزهای عرق کردن (2026)",
+      "title_fa": "13 بهترین طرفدار برای گذراندن روزهای عرق کردن (2026)",
+      "title_en": "The 13 Best Fans for Getting Through Sweaty Days (2026)",
+      "summary": "از محرک‌های هوای قدرتمند و مدل‌های پایه‌های آرام گرفته تا گزینه‌هایی که به عنوان میستر، لامپ و تصفیه‌کننده هوا عمل می‌کنند، اینها فن‌هایی هستند که ما را بیشتر تحت تأثیر قرار دادند.",
+      "summary_fa": "از محرک‌های هوای قدرتمند و مدل‌های پایه‌های آرام گرفته تا گزینه‌هایی که به عنوان میستر، لامپ و تصفیه‌کننده هوا عمل می‌کنند، اینها فن‌هایی هستند که ما را بیشتر تحت تأثیر قرار دادند.",
+      "summary_en": "From powerful air movers and whisper-quiet pedestal models to options that double as misters, lamps, and air purifiers, these are the fans that impressed us most.",
+      "link": "https://www.wired.com/story/the-best-fans-2026/",
+      "source": "Wired",
+      "published_at": "Wed, 22 Jul 2026 11:31:00 +0000",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d7e8fc19bde34e5ee57c06f34f8e5f25",
+      "title": "آیا از 300000 دلار از 1.2 میلیون دلار پس انداز دوران بازنشستگی خود استفاده می کنم تا دخترم بتواند در کالج رویایی خود شرکت کند؟",
+      "title_fa": "آیا از 300000 دلار از 1.2 میلیون دلار پس انداز دوران بازنشستگی خود استفاده می کنم تا دخترم بتواند در کالج رویایی خود شرکت کند؟",
+      "title_en": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+      "summary": "\"دختر ما یک بازیکن سافت بال با رتبه بالا با معدل 3.94 است.\"",
+      "summary_fa": "\"دختر ما یک بازیکن سافت بال با رتبه بالا با معدل 3.94 است.\"",
+      "summary_en": "“Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA.”",
+      "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 11:30:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-18449564",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b0707b0cf77f929d8b377a789d903709",
       "title": "در این تور جدید مجلل، ردپای The Odyssey در ترکیه و ایتالیا را دنبال کنید.",
       "title_fa": "در این تور جدید مجلل، ردپای The Odyssey در ترکیه و ایتالیا را دنبال کنید.",
@@ -184,6 +751,48 @@
       "date_iso": "2026-07-22",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "deb6676093a4d6ac7de53dc8ed030611",
+      "title": "استراتژیست می گوید ضعف بازار اوراق قرضه یک مورد سرمایه گذاری قوی برای این بخش دوست نداشتنی ایجاد می کند",
+      "title_fa": "استراتژیست می گوید ضعف بازار اوراق قرضه یک مورد سرمایه گذاری قوی برای این بخش دوست نداشتنی ایجاد می کند",
+      "title_en": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says",
+      "summary": "مایکل داردا می‌گوید بازدهی خزانه‌داری 10 ساله کاهش می‌یابد، بنابراین او خانه‌سازان تحت محاصره را دوست دارد.",
+      "summary_fa": "مایکل داردا می‌گوید بازدهی خزانه‌داری 10 ساله کاهش می‌یابد، بنابراین او خانه‌سازان تحت محاصره را دوست دارد.",
+      "summary_en": "Michael Darda says the yield on the 10-year Treasury will fall, so he likes beleaguered home builders.",
+      "link": "https://www.marketwatch.com/story/bond-market-weakness-makes-a-strong-investment-case-for-this-unloved-sector-strategist-says-2cf258f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 11:26:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-66639372",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c9756f1e97ec18da8a5d6ffde02837f8",
+      "title": "مردم سوریه نباید دوباره شکست بخورند",
+      "title_fa": "مردم سوریه نباید دوباره شکست بخورند",
+      "title_en": "Syrian people must not be failed again",
+      "summary": "ایجاد ثبات در سوریه به معنای ایجاد ثبات در اقتصاد آن است. این کشور نیاز فوری به حمایت بین المللی و فضای سرمایه گذاری امن تر دارد.",
+      "summary_fa": "ایجاد ثبات در سوریه به معنای ایجاد ثبات در اقتصاد آن است. این کشور نیاز فوری به حمایت بین المللی و فضای سرمایه گذاری امن تر دارد.",
+      "summary_en": "Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 11:23:43 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -226,6 +835,69 @@
       "date_iso": "2026-07-22",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b8e15433cfc5f5a6aadb186c590213d5",
+      "title": "مالکان لسترسیتی به دنبال فروش یک دهه پس از قهرمانی در لیگ برتر هستند",
+      "title_fa": "مالکان لسترسیتی به دنبال فروش یک دهه پس از قهرمانی در لیگ برتر هستند",
+      "title_en": "Leicester City owners explore sale a decade after Premier League title",
+      "summary": "کینگ پاور تایلند خریدار باشگاه فوتبالی است که از زمان شکوهش در دو بخش سقوط کرده است.",
+      "summary_fa": "کینگ پاور تایلند خریدار باشگاه فوتبالی است که از زمان شکوهش در دو بخش سقوط کرده است.",
+      "summary_en": "Thailand’s King Power sounds out buyers for football club that has dropped two divisions since its underdog glory",
+      "link": "https://www.ft.com/content/0b2a609f-8c21-432f-afc5-3080d080c3ae?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 11:20:03 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F30c80ea1-759a-4db5-8aae-08d5f2e4e683.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb1ffc3e3d5ca74ab4ab31d9885029eb",
+      "title": "با کاهش امیدها به کاهش تنش در ایران، قیمت نفت به بالاترین حد در شش هفته اخیر رسید",
+      "title_fa": "با کاهش امیدها به کاهش تنش در ایران، قیمت نفت به بالاترین حد در شش هفته اخیر رسید",
+      "title_en": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish",
+      "summary": "قراردادهای یک ماهه نفت خام وست تگزاس اینترمدیت و برنت پس از یازدهمین شب حملات در ایران تقریباً 4 درصد افزایش یافت.",
+      "summary_fa": "قراردادهای یک ماهه نفت خام وست تگزاس اینترمدیت و برنت پس از یازدهمین شب حملات در ایران تقریباً 4 درصد افزایش یافت.",
+      "summary_en": "West Texas Intermediate and Brent crude’s front-month contracts rose almost 4% on Wednesday after an 11th night of attacks in Iran.",
+      "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 11:19:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-74183971",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "26831d5a96c77a4a859f19bb17ca9936",
+      "title": "اندی بیگز، متحد ترامپ، نامزد جمهوری خواهان برای فرمانداری آریزونا شد",
+      "title_fa": "اندی بیگز، متحد ترامپ، نامزد جمهوری خواهان برای فرمانداری آریزونا شد",
+      "title_en": "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
+      "summary": "بیگز با اکثریت قاطع دیوید شوایکرت را شکست داد و اکنون در ماه نوامبر با فرماندار دموکرات کیتی هابز روبرو خواهد شد.",
+      "summary_fa": "بیگز با اکثریت قاطع دیوید شوایکرت را شکست داد و اکنون در ماه نوامبر با فرماندار دموکرات کیتی هابز روبرو خواهد شد.",
+      "summary_en": "Biggs overwhelmingly defeats David Schweikert and will now face Democratic Governor Katie Hobbs in November.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 11:18:44 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -1515,6 +2187,27 @@
       }
     },
     {
+      "id": "773a8062b6f4ae400de2cdde52693e34",
+      "title": "مینی مغزهای رشد یافته در آزمایشگاه ممکن است پیش بینی کنند که کدام درمان آلزایمر مؤثر است",
+      "title_fa": "مینی مغزهای رشد یافته در آزمایشگاه ممکن است پیش بینی کنند که کدام درمان آلزایمر مؤثر است",
+      "title_en": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "summary": "مدل‌های مینیاتوری مغز که از سلول‌های بیماران رشد کرده‌اند، تفاوت‌های چشمگیری را در نحوه واکنش بافت مرتبط با آلزایمر به یک داروی ضد افسردگی نشان می‌دهد. ارگانوئیدها و ذراتی که آزاد می کنند در نهایت می توانند درمان های شخصی تر را راهنمایی کنند و سرنخ های جدیدی برای تشخیص بیماری ارائه دهند.",
+      "summary_fa": "مدل‌های مینیاتوری مغز که از سلول‌های بیماران رشد کرده‌اند، تفاوت‌های چشمگیری را در نحوه واکنش بافت مرتبط با آلزایمر به یک داروی ضد افسردگی نشان می‌دهد. ارگانوئیدها و ذراتی که آزاد می کنند در نهایت می توانند درمان های شخصی تر را راهنمایی کنند و سرنخ های جدیدی برای تشخیص بیماری ارائه دهند.",
+      "summary_en": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 08:34:25 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1c45936d8b5c99f2df5866db4454aff0",
       "title": "برنده دادگاه برای کارگران کم دستمزد دومینو در دعوای دسته جمعی کم دستمزد - همانطور که اتفاق افتاد",
       "title_fa": "برنده دادگاه برای کارگران کم دستمزد دومینو در دعوای دسته جمعی کم دستمزد - همانطور که اتفاق افتاد",
@@ -1529,6 +2222,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/c5959081d6ca7faf1c0c4c1075bd24b4f79b9d75/1325_0_6625_5300/master/6625.jpg?width=140&quality=85&auto=format&fit=max&s=c5cfc144585941d514eb8c7062c1b234",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c625deca5291f17904ff07e3389609b1",
+      "title": "یک اثر کوانتومی عجیب به طور چشمگیری انتقال انرژی را افزایش می دهد",
+      "title_fa": "یک اثر کوانتومی عجیب به طور چشمگیری انتقال انرژی را افزایش می دهد",
+      "title_en": "A strange quantum effect dramatically boosts energy transfer",
+      "summary": "محققان مکانیزمی به کمک پروتون کشف کردند که نحوه حرکت انرژی سه گانه بین نقاط کوانتومی و مولکول های مجاور را بسیار بهبود می بخشد. پروتون برای مدت کوتاهی موقعیت خود را تغییر می‌دهد، به هماهنگی حرکت الکترون کمک می‌کند و سپس به جایی که شروع شده باز می‌گردد. این شاتل کوانتومی می تواند یک راه قدرتمند جدید برای تنظیم سلول های خورشیدی، لیزرها و واکنش های کاتالیزوری ارائه دهد.",
+      "summary_fa": "محققان مکانیزمی به کمک پروتون کشف کردند که نحوه حرکت انرژی سه گانه بین نقاط کوانتومی و مولکول های مجاور را بسیار بهبود می بخشد. پروتون برای مدت کوتاهی موقعیت خود را تغییر می‌دهد، به هماهنگی حرکت الکترون کمک می‌کند و سپس به جایی که شروع شده باز می‌گردد. این شاتل کوانتومی می تواند یک راه قدرتمند جدید برای تنظیم سلول های خورشیدی، لیزرها و واکنش های کاتالیزوری ارائه دهد.",
+      "summary_en": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 08:17:00 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -2136,6 +2850,27 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "60e0b06ad00c3508370a7721b2d8ba3d",
+      "title": "چیپ لایدار جدید MIT می تواند دید وسیع تری به خودروهای خودران بدهد",
+      "title_fa": "چیپ لایدار جدید MIT می تواند دید وسیع تری به خودروهای خودران بدهد",
+      "title_en": "MIT’s new lidar chip could give self-driving cars a wider view",
+      "summary": "مهندسان MIT راهی پیدا کرده اند تا لیدار مبتنی بر تراشه را بدون تکیه بر قطعات متحرک، دید وسیع تر و واضح تر بدهد. طراحی آن‌ها از آنتن‌هایی با شکل‌های متفاوت استفاده می‌کند که می‌توانند در نزدیکی یکدیگر قرار گیرند، بدون اینکه سیگنال‌های یکدیگر را به هم بزنند. در آزمایش‌ها، سیستم به شدت تداخل را کاهش داد، در حالی که یک پرتو دقیق را در یک میدان دید وسیع هدایت می‌کرد.",
+      "summary_fa": "مهندسان MIT راهی پیدا کرده اند تا لیدار مبتنی بر تراشه را بدون تکیه بر قطعات متحرک، دید وسیع تر و واضح تر بدهد. طراحی آن‌ها از آنتن‌هایی با شکل‌های متفاوت استفاده می‌کند که می‌توانند در نزدیکی یکدیگر قرار گیرند، بدون اینکه سیگنال‌های یکدیگر را به هم بزنند. در آزمایش‌ها، سیستم به شدت تداخل را کاهش داد، در حالی که یک پرتو دقیق را در یک میدان دید وسیع هدایت می‌کرد.",
+      "summary_en": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 06:00:54 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -2934,6 +3669,27 @@
       }
     },
     {
+      "id": "0ea254024bcdddd81eaae237f63d4cee",
+      "title": "دانشمندان آنتی بیوتیک قدرتمندی را که ابر میکروب ها شکست داده بودند، احیا کردند",
+      "title_fa": "دانشمندان آنتی بیوتیک قدرتمندی را که ابر میکروب ها شکست داده بودند، احیا کردند",
+      "title_en": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "summary": "دانشمندان راهی برای احیای وانکومایسین، آنتی بیوتیک قدرتمندی که برخی از باکتری های خطرناک یاد گرفته اند در برابر آن مقاومت کنند، یافته اند. به جای ایجاد یک داروی کاملا جدید، محققان وانکومایسین را با مولکول کوچکی به نام pghi-4 جفت کردند که آنزیم باکتریایی مرتبط با مقاومت را مسدود می کند. این ترکیب توانایی آنتی بیوتیک را برای از بین بردن E.faecium مقاوم به دارو احیا کرد و این امیدواری را ایجاد کرد که کمک‌کنندگان شیمیایی مشابه بتوانند سایر داروهای ناموفق را نجات دهند.",
+      "summary_fa": "دانشمندان راهی برای احیای وانکومایسین، آنتی بیوتیک قدرتمندی که برخی از باکتری های خطرناک یاد گرفته اند در برابر آن مقاومت کنند، یافته اند. به جای ایجاد یک داروی کاملا جدید، محققان وانکومایسین را با مولکول کوچکی به نام pghi-4 جفت کردند که آنزیم باکتریایی مرتبط با مقاومت را مسدود می کند. این ترکیب توانایی آنتی بیوتیک را برای از بین بردن E.faecium مقاوم به دارو احیا کرد و این امیدواری را ایجاد کرد که کمک‌کنندگان شیمیایی مشابه بتوانند سایر داروهای ناموفق را نجات دهند.",
+      "summary_en": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 03:21:08 EDT",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": 3,
       "title": "همزمان با تهدید ترامپ به حمله به سایت هسته ای زیرزمینی، ایالات متحده حملات خود به ایران را تجدید می کند",
       "title_fa": "همزمان با تهدید ترامپ به حمله به سایت هسته ای زیرزمینی، ایالات متحده حملات خود به ایران را تجدید می کند",
@@ -3371,6 +4127,27 @@
       "title": "چرا نام های کاربری واتس اپ می تواند مبارزه ضد ترور سومالی را بر هم بزند؟",
       "title_fa": "چرا نام های کاربری واتس اپ می تواند مبارزه ضد ترور سومالی را بر هم بزند؟",
       "title_en": "Why WhatsApp usernames could upset Somalia's anti-terror fight",
+      "summary": "پس از ارائه ویژگی جدید، افراد می توانند بدون فاش کردن شماره تماس خود چت کنند.",
+      "summary_fa": "پس از ارائه ویژگی جدید، افراد می توانند بدون فاش کردن شماره تماس خود چت کنند.",
+      "summary_en": "People will be able to chat without revealing their contact number once the new feature is rolled out.",
+      "link": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 21 Jul 2026 23:46:35 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d2/live/9d562d60-8529-11f1-b976-0b9c15b0ccfc.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a16645208656be9baca811477c6c931b",
+      "title": "نام های کاربری واتس اپ می تواند نبرد ضد ترور سومالی را بر هم بزند",
+      "title_fa": "نام های کاربری واتس اپ می تواند نبرد ضد ترور سومالی را بر هم بزند",
+      "title_en": "WhatsApp usernames could upset Somalia's anti-terror fight",
       "summary": "پس از ارائه ویژگی جدید، افراد می توانند بدون فاش کردن شماره تماس خود چت کنند.",
       "summary_fa": "پس از ارائه ویژگی جدید، افراد می توانند بدون فاش کردن شماره تماس خود چت کنند.",
       "summary_en": "People will be able to chat without revealing their contact number once the new feature is rolled out.",
@@ -3871,6 +4648,27 @@
       "title": "آنچه درباره کوه کلنگ ایران باید بدانید",
       "title_fa": "آنچه درباره کوه کلنگ ایران باید بدانید",
       "title_en": "What to Know About Iran’s Pickaxe Mountain",
+      "summary": "مجتمع زیرزمینی مستحکم، در مرکز ایران، حدود یک مایل با تاسیسات غنی‌سازی اورانیوم نطنز فاصله دارد.",
+      "summary_fa": "مجتمع زیرزمینی مستحکم، در مرکز ایران، حدود یک مایل با تاسیسات غنی‌سازی اورانیوم نطنز فاصله دارد.",
+      "summary_en": "The fortified underground complex, in central Iran, is about one mile away from the Natanz uranium enrichment facility.",
+      "link": "https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html",
+      "source": "NY Times",
+      "published_at": "Tue, 21 Jul 2026 20:59:02 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-wwk-pickaxe-mountain-topart-vbfh/21mideast-live-wwk-pickaxe-mountain-topart-vbfh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "50ff6c6710ad5ac6c9223cd028b9102e",
+      "title": "ترامپ تهدید به حمله به کوه کلنگ، یک سایت مشکوک هسته ای ایران کرد. در اینجا چیزی است که باید بدانید.",
+      "title_fa": "ترامپ تهدید به حمله به کوه کلنگ، یک سایت مشکوک هسته ای ایران کرد. در اینجا چیزی است که باید بدانید.",
+      "title_en": "Trump Threatened to Strike Pickaxe Mountain, a Suspected Iranian Nuclear Site. Here’s What to Know.",
       "summary": "مجتمع زیرزمینی مستحکم، در مرکز ایران، حدود یک مایل با تاسیسات غنی‌سازی اورانیوم نطنز فاصله دارد.",
       "summary_fa": "مجتمع زیرزمینی مستحکم، در مرکز ایران، حدود یک مایل با تاسیسات غنی‌سازی اورانیوم نطنز فاصله دارد.",
       "summary_en": "The fortified underground complex, in central Iran, is about one mile away from the Natanz uranium enrichment facility.",
@@ -7104,6 +7902,27 @@
       }
     },
     {
+      "id": "084eb2dba2fef5bd80ad7ae95bb4dbf1",
+      "title": "Samsung Unpacked 2026: همه اخبار مربوط به عرضه تاشو در ماه جولای",
+      "title_fa": "Samsung Unpacked 2026: همه اخبار مربوط به عرضه تاشو در ماه جولای",
+      "title_en": "Samsung Unpacked 2026: all the news from the July foldable launch",
+      "summary": "سامسونگ قرار است در تابستان امسال گلکسی آنپکد که در ساعت 9 صبح به وقت شرقی / 6 صبح به وقت محلی از لندن آغاز می شود، لیست جدیدی از تاشوها را معرفی کند. علاوه بر گلکسی زد فولد 8 که از شکل گسترده‌تری بهره می‌برد، انتظار می‌رود سامسونگ یک Z Fold 8 Ultra ارتقا یافته را با باتری بزرگ‌تر معرفی کند.",
+      "summary_fa": "سامسونگ قرار است در تابستان امسال گلکسی آنپکد که در ساعت 9 صبح به وقت شرقی / 6 صبح به وقت محلی از لندن آغاز می شود، لیست جدیدی از تاشوها را معرفی کند. علاوه بر گلکسی زد فولد 8 که از شکل گسترده‌تری بهره می‌برد، انتظار می‌رود سامسونگ یک Z Fold 8 Ultra ارتقا یافته را با باتری بزرگ‌تر معرفی کند.",
+      "summary_en": "Samsung is set to reveal a new slate of foldables at this summer’s Galaxy Unpacked, which kicks off at 9AM ET / 6AM PT from London. In addition to a Galaxy Z Fold 8 that adopts a wider form factor, Samsung is expected to reveal an upgraded Z Fold 8 Ultra with a larger battery, […]",
+      "link": "https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news",
+      "source": "The Verge",
+      "published_at": "2026-07-22T08:30:00-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
       "id": "4e0c756df61c9128588fc5767dd3f8a1",
       "title": "متا سیستم تشخیص هوش مصنوعی خود را ساخت. فقط باید از گوگل استفاده می کرد",
       "title_fa": "متا سیستم تشخیص هوش مصنوعی خود را ساخت. فقط باید از گوگل استفاده می کرد",
@@ -7158,6 +7977,27 @@
       "published_at": "2026-07-22T06:12:13-04:00",
       "date_iso": "2026-07-22",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "38593def27b3e95b9dad2319c6893ba5",
+      "title": "چشم ها رو به بی نهایت",
+      "title_fa": "چشم ها رو به بی نهایت",
+      "title_en": "Eyes upturned towards infinity",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02256-3 ستاره در چشمان ما.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02256-3 ستاره در چشمان ما.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02256-3Stars in our eyes.",
+      "link": "https://www.nature.com/articles/d41586-026-02256-3",
+      "source": "Nature",
+      "published_at": "2026-07-22 12:55",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
