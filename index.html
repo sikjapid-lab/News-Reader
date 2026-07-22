@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>جهان‌نما AI | سامانه پیشرفته GIS و مدیریت اخبار</title>
+    <title>سامانه هوشمند جهان‌نما AI</title>
     
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -25,21 +25,24 @@
         }
     </script>
     <style>
-        #map { height: 480px; width: 100%; border-radius: 1rem; z-index: 10; }
-        .custom-marker { display: flex; align-items: center; justify-content: center; border-radius: 50%; color: white; font-size: 14px; border: 2px solid white; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+        #map { height: 450px; width: 100%; border-radius: 1rem; z-index: 10; }
+        .custom-marker { display: flex; align-items: center; justify-content: center; border-radius: 50%; color: white; font-size: 13px; border: 2px solid white; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+        .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800 dark:bg-darkbg dark:text-slate-100 transition-colors duration-200 min-h-screen">
 
-    <header class="sticky top-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur border-b border-slate-200 dark:border-slate-800 shadow-sm">
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-white/95 dark:bg-slate-900/95 backdrop-blur border-b border-slate-200 dark:border-slate-800 shadow-sm">
         <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
             <div class="flex items-center gap-3">
-                <div class="p-2.5 bg-blue-600 text-white rounded-xl shadow-lg">
-                    <i class="fa-solid fa-earth-americas text-2xl"></i>
+                <div class="p-2.5 bg-blue-600 text-white rounded-xl shadow-md">
+                    <i class="fa-solid fa-globe text-2xl"></i>
                 </div>
                 <div>
-                    <h1 class="text-xl font-black tracking-tight bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">جهان‌نما AI</h1>
-                    <p class="text-xs text-slate-500">سامانه GIS، جستجوی پیشرفته و مدیریت بانک اخبار</p>
+                    <h1 class="text-lg font-black tracking-tight text-slate-900 dark:text-white">سامانه هوشمند جهان‌نما AI</h1>
+                    <p class="text-xs text-slate-500">پایش هوشمند اخبار، نقشه GIS و تولید بولتن اختصاصی</p>
                 </div>
             </div>
 
@@ -49,52 +52,49 @@
                     <i class="fa-solid fa-sun hidden dark:inline text-amber-400"></i>
                 </button>
                 <button onclick="openSettingsModal()" class="p-2.5 rounded-xl bg-blue-50 dark:bg-slate-800 text-blue-600 dark:text-blue-400 hover:bg-blue-100 font-bold text-xs flex items-center gap-2">
-                    <i class="fa-solid fa-gears text-sm"></i> پنل مدیریت و تنظیمات
+                    <i class="fa-solid fa-sliders text-sm"></i> مدیریت بانک اخبار
                 </button>
             </div>
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 py-6 space-y-8">
+    <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
 
-        <!-- Analytics -->
+        <!-- Analytics real-time -->
         <section class="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div class="bg-white dark:bg-carddark p-4 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-4">
-                <div class="p-3 bg-blue-100 text-blue-600 rounded-xl"><i class="fa-solid fa-eye text-xl"></i></div>
-                <div><p class="text-xs text-slate-500">بازدید کل</p><h4 id="statTotalViews" class="text-lg font-bold">0</h4></div>
+                <div class="p-3 bg-blue-100 text-blue-600 rounded-xl"><i class="fa-solid fa-database text-xl"></i></div>
+                <div><p class="text-xs text-slate-500">اخبار فعال بانک</p><h4 id="statTotalNews" class="text-lg font-bold">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-4 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-4">
-                <div class="p-3 bg-emerald-100 text-emerald-600 rounded-xl"><i class="fa-solid fa-users text-xl"></i></div>
-                <div><p class="text-xs text-slate-500">بازدید روزانه</p><h4 id="statTodayViews" class="text-lg font-bold">0</h4></div>
+                <div class="p-3 bg-emerald-100 text-emerald-600 rounded-xl"><i class="fa-solid fa-filter text-xl"></i></div>
+                <div><p class="text-xs text-slate-500">نتایج فیلتر شده</p><h4 id="statFilteredNews" class="text-lg font-bold">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-4 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-4">
-                <div class="p-3 bg-purple-100 text-purple-600 rounded-xl"><i class="fa-solid fa-newspaper text-xl"></i></div>
-                <div><p class="text-xs text-slate-500">تعداد اخبار بانک</p><h4 id="statActiveNews" class="text-lg font-bold">0</h4></div>
+                <div class="p-3 bg-purple-100 text-purple-600 rounded-xl"><i class="fa-solid fa-hand-pointer text-xl"></i></div>
+                <div><p class="text-xs text-slate-500">تعامل و کلیک</p><h4 id="statClicks" class="text-lg font-bold">0</h4></div>
             </div>
             <div class="bg-white dark:bg-carddark p-4 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-4">
-                <div class="p-3 bg-amber-100 text-amber-600 rounded-xl"><i class="fa-solid fa-mouse-pointer text-xl"></i></div>
-                <div><p class="text-xs text-slate-500">تعاملات اخبار</p><h4 id="statClicks" class="text-lg font-bold">0</h4></div>
+                <div class="p-3 bg-amber-100 text-amber-600 rounded-xl"><i class="fa-solid fa-clock text-xl"></i></div>
+                <div><p class="text-xs text-slate-500">آخرین بروزرسانی</p><h4 id="statLastUpdate" class="text-xs font-bold truncate max-w-[100px]">در حال دریافت...</h4></div>
             </div>
         </section>
 
         <!-- GIS Map -->
         <section class="bg-white dark:bg-carddark p-4 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800">
             <div class="flex items-center justify-between mb-3">
-                <h2 class="text-md font-bold flex items-center gap-2">
-                    <i class="fa-solid fa-map-location-dot text-blue-600"></i> نقشه GIS اخبار (نقشه‌های کامل گوگل با کلاسترینگ)
+                <h2 class="text-sm font-bold flex items-center gap-2">
+                    <i class="fa-solid fa-map-location-dot text-blue-600"></i> نقشه موقعیت جغرافیایی اخبار (GIS)
                 </h2>
+                <span class="text-xs text-slate-400">کلیک روی مارکرها جهت مطالعه خبر</span>
             </div>
             <div id="map"></div>
         </section>
 
         <!-- Advanced Search Engine -->
-        <section class="bg-white dark:bg-carddark p-6 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 space-y-4">
-            <h3 class="text-md font-bold flex items-center gap-2">
-                <i class="fa-solid fa-sliders text-blue-600"></i> موتور جستجوی پیشرفته اخبار
-            </h3>
-            
+        <section class="bg-white dark:bg-carddark p-5 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 space-y-4">
             <div class="grid grid-cols-1 md:grid-cols-4 gap-3">
-                <input type="text" id="searchInput" oninput="filterNews()" placeholder="کلیدواژه، عنوان یا متن خبر..." class="px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs">
+                <input type="text" id="searchInput" oninput="filterNews()" placeholder="جستجو در عنوان یا متن خبر..." class="px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs">
                 
                 <select id="categoryFilter" onchange="filterNews()" class="px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs">
                     <option value="all">همه موضوعات</option>
@@ -119,15 +119,15 @@
             <div class="flex flex-wrap items-center justify-between gap-4 pt-3 border-t border-slate-100 dark:border-slate-800">
                 <label class="flex items-center gap-2 text-xs text-slate-600 dark:text-slate-400 cursor-pointer">
                     <input type="checkbox" id="imageOnlyFilter" onchange="filterNews()" class="rounded border-slate-300 text-blue-600">
-                    فقط اخبار دارای تصویر رسمی
+                    فقط اخبار دارای تصویر
                 </label>
 
                 <div class="flex gap-2">
-                    <button onclick="exportBulletin('pdf')" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2">
-                        <i class="fa-solid fa-file-pdf"></i> بولتن PDF (با تصویر)
+                    <button onclick="exportStructuredBulletin('pdf')" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 shadow-sm">
+                        <i class="fa-solid fa-file-pdf"></i> تولید بولتن مصور (PDF)
                     </button>
-                    <button onclick="exportBulletin('doc')" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2">
-                        <i class="fa-solid fa-file-word"></i> بولتن Word (با تصویر)
+                    <button onclick="exportStructuredBulletin('doc')" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 shadow-sm">
+                        <i class="fa-solid fa-file-word"></i> تولید بولتن طبقه بندی شده (Word)
                     </button>
                 </div>
             </div>
@@ -137,32 +137,31 @@
         <section><div id="newsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div></section>
     </main>
 
-    <!-- News Details & Comments Modal -->
+    <!-- News Details Modal -->
     <div id="newsModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
         <div class="bg-white dark:bg-carddark w-full max-w-2xl rounded-2xl max-h-[90vh] overflow-y-auto p-6 relative shadow-2xl space-y-4">
             <button onclick="closeNewsModal()" class="absolute top-4 left-4 text-slate-400 hover:text-slate-600"><i class="fa-solid fa-xmark text-xl"></i></button>
             <div id="modalContent"></div>
             <hr class="border-slate-200 dark:border-slate-700">
             <div class="space-y-3">
-                <h4 class="font-bold text-xs flex items-center gap-2"><i class="fa-solid fa-comments text-blue-600"></i> نظرات کاربران (انتشار آنی)</h4>
-                <div id="commentsList" class="space-y-2 max-h-36 overflow-y-auto"></div>
+                <h4 class="font-bold text-xs flex items-center gap-2"><i class="fa-solid fa-comments text-blue-600"></i> نظرات کاربران</h4>
+                <div id="commentsList" class="space-y-2 max-h-36 overflow-y-auto pr-1"></div>
                 <div class="flex gap-2">
-                    <input type="text" id="commentInput" placeholder="نظر شما..." class="flex-1 px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs">
-                    <button onclick="submitComment()" class="bg-blue-600 text-white px-4 py-2 rounded-xl text-xs font-bold">ارسال</button>
+                    <input type="text" id="commentInput" placeholder="دیدگاه شما..." class="flex-1 px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-xs">
+                    <button onclick="submitComment()" class="bg-blue-600 text-white px-4 py-2 rounded-xl text-xs font-bold">ثبت</button>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Admin Panel Modal (مدیریت اخبار و ویرایش بانک NoSQL) -->
+    <!-- Admin Panel Modal -->
     <div id="settingsModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
         <div class="bg-white dark:bg-carddark w-full max-w-3xl rounded-2xl p-6 relative shadow-2xl space-y-4 max-h-[85vh] overflow-y-auto">
             <button onclick="closeSettingsModal()" class="absolute top-4 left-4 text-slate-400 hover:text-slate-600"><i class="fa-solid fa-xmark text-xl"></i></button>
-            <h3 class="font-bold text-md border-b pb-2 dark:border-slate-700">پنل مدیریت اخبار و تنظیمات پایه</h3>
+            <h3 class="font-bold text-sm border-b pb-2 dark:border-slate-700">ویرایش بانک اطلاعاتی و ثبت خبر دستی</h3>
             
-            <!-- فرم افزودن خبر جدید -->
             <div class="bg-slate-50 dark:bg-slate-800 p-4 rounded-xl space-y-3">
-                <h4 class="font-bold text-xs text-blue-600"><i class="fa-solid fa-plus-circle"></i> ثبت خبر جدید در پایگاه داده</h4>
+                <h4 class="font-bold text-xs text-blue-600"><i class="fa-solid fa-plus-circle"></i> افزودن خبر به دیتابیس</h4>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
                     <input type="text" id="newTitle" placeholder="عنوان خبر..." class="px-3 py-1.5 rounded-lg border text-xs bg-white dark:bg-slate-900">
                     <select id="newCategory" class="px-3 py-1.5 rounded-lg border text-xs bg-white dark:bg-slate-900">
@@ -173,19 +172,13 @@
                     </select>
                 </div>
                 <textarea id="newSummary" placeholder="خلاصه متن خبر..." class="w-full px-3 py-1.5 rounded-lg border text-xs bg-white dark:bg-slate-900 h-16"></textarea>
-                <button onclick="addCustomNews()" class="bg-emerald-600 text-white px-4 py-1.5 rounded-lg text-xs font-bold hover:bg-emerald-700">افزودن خبر به بانک داده</button>
+                <button onclick="addCustomNews()" class="bg-emerald-600 text-white px-4 py-1.5 rounded-lg text-xs font-bold hover:bg-emerald-700">ذخیره در دیتابیس</button>
             </div>
 
-            <!-- لیست مدیریت و ویرایش اخبار موجود -->
             <div class="space-y-2">
-                <h4 class="font-bold text-xs"><i class="fa-solid fa-list-check"></i> ویرایش و حذف اخبار موجود</h4>
-                <div id="adminNewsList" class="space-y-2 max-h-60 overflow-y-auto pr-1"></div>
+                <h4 class="font-bold text-xs"><i class="fa-solid fa-list-check"></i> مدیریت اخبار موجود</h4>
+                <div id="adminNewsList" class="space-y-2 max-h-56 overflow-y-auto pr-1"></div>
             </div>
-
-            <button onclick="window.open('./news_archive.json', '_blank')" class="w-full bg-slate-100 dark:bg-slate-800 p-3 rounded-xl flex items-center justify-between text-xs hover:bg-slate-200">
-                <span>دانلود مستقیم فایل NoSQL آرشیو (news_archive.json)</span>
-                <i class="fa-solid fa-database text-blue-600"></i>
-            </button>
         </div>
     </div>
 
@@ -196,33 +189,14 @@
         let activeNewsId = null;
 
         document.addEventListener("DOMContentLoaded", () => {
-            initAnalytics();
             initMap();
             loadNewsData();
         });
 
-        function initAnalytics() {
-            let totalViews = parseInt(localStorage.getItem('total_views') || '120');
-            let todayViews = parseInt(localStorage.getItem('today_views') || '18');
-            let clicks = parseInt(localStorage.getItem('news_clicks') || '45');
-
-            totalViews += 1; todayViews += 1;
-            localStorage.setItem('total_views', totalViews);
-            localStorage.setItem('today_views', todayViews);
-
-            document.getElementById('statTotalViews').innerText = totalViews;
-            document.getElementById('statTodayViews').innerText = todayViews;
-            document.getElementById('statClicks').innerText = clicks;
-        }
-
         function initMap() {
             const googleStreets = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', { maxZoom: 20, subdomains: ['mt0', 'mt1', 'mt2', 'mt3'], attribution: 'Google Maps' });
-            const googleSat = L.tileLayer('https://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', { maxZoom: 20, subdomains: ['mt0', 'mt1', 'mt2', 'mt3'], attribution: 'Google Satellite' });
-
             map = L.map('map', { center: [20, 0], zoom: 2, layers: [googleStreets] });
-            L.control.layers({ "گوگل نقشه": googleStreets, "گوگل ماهواره": googleSat }).addTo(map);
-
-            clusterGroup = L.markerClusterGroup({ disableClusteringAtZoom: 12, maxClusterRadius: 50 });
+            clusterGroup = L.markerClusterGroup({ disableClusteringAtZoom: 10, maxClusterRadius: 40 });
             map.addLayer(clusterGroup);
         }
 
@@ -231,20 +205,27 @@
                 const response = await fetch('./news_data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
-                // ترکیب با اخبار اضافه شده توسط مدیر محلی
                 const localCustomNews = JSON.parse(localStorage.getItem('custom_news') || '[]');
                 allArticles = [...localCustomNews, ...(data.articles || [])];
                 filteredArticles = [...allArticles];
                 
-                document.getElementById('statActiveNews').innerText = allArticles.length;
+                document.getElementById('statTotalNews').innerText = allArticles.length;
+                document.getElementById('statLastUpdate').innerText = data.last_update || 'امروز';
+                
+                updateAnalytics();
                 renderNewsGrid(filteredArticles);
                 renderGISMarkers(filteredArticles);
             } catch (err) {
-                console.error("خطا در بارگذاری داده‌ها:", err);
+                console.error("خطا در دریافت داده‌ها:", err);
             }
         }
 
-        function getCategoryIcon(cat) {
+        function updateAnalytics() {
+            document.getElementById('statFilteredNews').innerText = filteredArticles.length;
+            document.getElementById('statClicks').innerText = localStorage.getItem('news_clicks') || '0';
+        }
+
+        function getCategoryStyle(cat) {
             switch (cat) {
                 case 'سیاست': return { icon: 'fa-landmark', color: '#dc2626' };
                 case 'فناوری و AI': return { icon: 'fa-microchip', color: '#2563eb' };
@@ -256,28 +237,35 @@
 
         function renderGISMarkers(articles) {
             clusterGroup.clearLayers();
-            articles.forEach(art => {
-                if (art.geo && art.geo.lat !== undefined) {
-                    const style = getCategoryIcon(art.category);
-                    const customIcon = L.divIcon({
-                        className: 'custom-div-icon',
-                        html: `<div class="custom-marker" style="background-color: ${style.color}; width: 32px; height: 32px;"><i class="fa-solid ${style.icon}"></i></div>`,
-                        iconSize: [32, 32], iconAnchor: [16, 16]
-                    });
+            let bounds = [];
 
-                    const marker = L.marker([art.geo.lat, art.geo.lng], { icon: customIcon });
-                    const titleText = art.title_fa || art.title || "خبر بدون عنوان";
-                    
-                    marker.bindPopup(`
-                        <div style="direction:rtl; text-align:right;" class="space-y-1">
-                            <span style="background:${style.color}; color:white;" class="text-[10px] px-2 py-0.5 rounded">${art.category}</span>
-                            <h4 class="font-bold text-xs mt-1">${titleText}</h4>
-                            <button onclick="openNewsModal(${art.id})" class="mt-2 text-xs bg-blue-600 text-white w-full py-1 rounded">مشاهده جزئیات</button>
-                        </div>
-                    `);
-                    clusterGroup.addLayer(marker);
-                }
+            articles.forEach(art => {
+                const geo = art.geo || { lat: 20.0, lng: 0.0 };
+                const style = getCategoryStyle(art.category || 'سایر');
+
+                const customIcon = L.divIcon({
+                    className: 'custom-div-icon',
+                    html: `<div class="custom-marker" style="background-color: ${style.color}; width: 30px; height: 30px;"><i class="fa-solid ${style.icon}"></i></div>`,
+                    iconSize: [30, 30], iconAnchor: [15, 15]
+                });
+
+                const marker = L.marker([geo.lat, geo.lng], { icon: customIcon });
+                const titleText = art.title_fa || art.title || "بدون عنوان";
+                
+                marker.bindPopup(`
+                    <div style="direction:rtl; text-align:right;" class="space-y-1">
+                        <span style="background:${style.color}; color:white;" class="text-[10px] px-2 py-0.5 rounded font-bold">${art.category || 'خبر'}</span>
+                        <h4 class="font-bold text-xs mt-1">${titleText}</h4>
+                        <button onclick="openNewsModal(${art.id})" class="mt-2 text-xs bg-blue-600 text-white w-full py-1 rounded">مشاهده خبر</button>
+                    </div>
+                `);
+                clusterGroup.addLayer(marker);
+                bounds.push([geo.lat, geo.lng]);
             });
+
+            if (bounds.length > 0) {
+                map.fitBounds(bounds, { padding: [50, 50], maxZoom: 6 });
+            }
         }
 
         function renderNewsGrid(articles) {
@@ -285,31 +273,37 @@
             grid.innerHTML = '';
 
             articles.forEach(art => {
-                const titleText = art.title_fa || art.title;
-                const summaryText = art.summary_fa || art.summary;
-                const imageHTML = art.image ? `<img src="${art.image}" class="w-full h-48 object-cover">` : '';
+                const titleText = art.title_fa || art.title || 'بدون عنوان';
+                const summaryText = art.summary_fa || art.summary || 'بدون خلاصه';
+                const categoryText = art.category || 'عمومی';
+                const regionText = art.region || 'بین‌المللی';
+                const imgSrc = art.image || "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80";
 
                 const card = document.createElement('div');
-                card.className = "bg-white dark:bg-carddark rounded-2xl overflow-hidden shadow-sm border border-slate-200 dark:border-slate-800 flex flex-col justify-between hover:shadow-md transition";
+                card.className = "bg-white dark:bg-carddark rounded-2xl overflow-hidden shadow-sm border border-slate-200 dark:border-slate-800 flex flex-col justify-between hover:shadow-lg transition duration-200";
                 card.innerHTML = `
                     <div>
-                        ${imageHTML}
-                        <div class="p-5 space-y-3">
-                            <div class="flex items-center justify-between text-xs">
-                                <span class="bg-blue-50 dark:bg-blue-900/40 text-blue-600 dark:text-blue-400 px-2.5 py-1 rounded-full font-bold">${art.category}</span>
-                                <span class="text-slate-400">${art.region || 'بین‌المللی'}</span>
+                        <div class="relative">
+                            <img src="${imgSrc}" class="w-full h-44 object-cover" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80'">
+                            <span class="absolute top-3 right-3 bg-blue-600 text-white text-[10px] font-bold px-2.5 py-1 rounded-full shadow">${categoryText}</span>
+                        </div>
+                        <div class="p-4 space-y-2">
+                            <div class="flex items-center justify-between text-[11px] text-slate-400">
+                                <span><i class="fa-solid fa-earth-americas"></i> ${regionText}</span>
+                                <span>${art.published_at || ''}</span>
                             </div>
-                            <h3 class="font-bold text-sm leading-relaxed text-slate-800 dark:text-slate-100">${titleText}</h3>
+                            <h3 class="font-bold text-sm leading-snug text-slate-800 dark:text-slate-100 line-clamp-2">${titleText}</h3>
                             <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-3 leading-relaxed">${summaryText}</p>
                         </div>
                     </div>
-                    <div class="p-5 pt-0 flex gap-2">
-                        <button onclick="openNewsModal(${art.id})" class="w-full bg-slate-100 dark:bg-slate-800 hover:bg-blue-600 hover:text-white text-slate-700 dark:text-slate-200 py-2 rounded-xl text-xs font-bold transition">مشاهده و ثبت نظر</button>
-                        <a href="${art.link || '#'}" target="_blank" class="p-2 bg-slate-100 dark:bg-slate-800 rounded-xl text-xs text-slate-500 flex items-center justify-center"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <div class="p-4 pt-0 flex gap-2">
+                        <button onclick="openNewsModal(${art.id})" class="w-full bg-slate-100 dark:bg-slate-800 hover:bg-blue-600 hover:text-white text-slate-700 dark:text-slate-200 py-2 rounded-xl text-xs font-bold transition">مطالعه کامل</button>
+                        <a href="${art.link || '#'}" target="_blank" class="p-2 bg-slate-100 dark:bg-slate-800 rounded-xl text-xs text-slate-500 flex items-center justify-center hover:text-blue-600"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                     </div>
                 `;
                 grid.appendChild(card);
             });
+            updateAnalytics();
         }
 
         function filterNews() {
@@ -339,21 +333,24 @@
 
         function openNewsModal(id) {
             activeNewsId = id;
-            let clicks = parseInt(localStorage.getItem('news_clicks') || '45') + 1;
+            let clicks = parseInt(localStorage.getItem('news_clicks') || '0') + 1;
             localStorage.setItem('news_clicks', clicks);
-            document.getElementById('statClicks').innerText = clicks;
+            updateAnalytics();
 
             const art = allArticles.find(a => a.id === id);
             if (!art) return;
 
-            const imgHTML = art.image ? `<img src="${art.image}" class="w-full h-64 object-cover rounded-xl my-3">` : '';
+            const imgSrc = art.image || "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80";
 
             document.getElementById('modalContent').innerHTML = `
-                <span class="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded font-bold">${art.category}</span>
-                <h2 class="text-lg font-bold mt-2">${art.title_fa || art.title}</h2>
-                ${imgHTML}
+                <div class="flex items-center gap-2">
+                    <span class="text-xs bg-blue-100 text-blue-800 px-2.5 py-1 rounded-full font-bold">${art.category || 'خبر'}</span>
+                    <span class="text-xs text-slate-400">${art.region || 'بین‌المللی'}</span>
+                </div>
+                <h2 class="text-base font-bold mt-2 text-slate-900 dark:text-white leading-snug">${art.title_fa || art.title}</h2>
+                <img src="${imgSrc}" class="w-full h-56 object-cover rounded-xl my-3">
                 <p class="text-xs text-slate-600 dark:text-slate-300 leading-relaxed my-3">${art.summary_fa || art.summary}</p>
-                <a href="${art.link || '#'}" target="_blank" class="text-xs text-blue-600 font-bold inline-flex items-center gap-1">ورود به منبع خبر <i class="fa-solid fa-arrow-left"></i></a>
+                <a href="${art.link || '#'}" target="_blank" class="text-xs text-blue-600 font-bold inline-flex items-center gap-1">مشاهده منبع رسمی <i class="fa-solid fa-arrow-left"></i></a>
             `;
 
             loadComments(id);
@@ -361,17 +358,14 @@
         }
 
         function closeNewsModal() { document.getElementById('newsModal').classList.add('hidden'); }
-        function openSettingsModal() { 
-            renderAdminNewsList();
-            document.getElementById('settingsModal').classList.remove('hidden'); 
-        }
+        function openSettingsModal() { renderAdminNewsList(); document.getElementById('settingsModal').classList.remove('hidden'); }
         function closeSettingsModal() { document.getElementById('settingsModal').classList.add('hidden'); }
         function toggleDarkMode() { document.documentElement.classList.toggle('dark'); }
 
         function loadComments(id) {
             const comments = JSON.parse(localStorage.getItem('comments_' + id) || '[]');
             const list = document.getElementById('commentsList');
-            list.innerHTML = comments.length === 0 ? '<p class="text-xs text-slate-400">نظری ثبت نشده است.</p>' : '';
+            list.innerHTML = comments.length === 0 ? '<p class="text-xs text-slate-400">دیدگاهی ثبت نشده است.</p>' : '';
             comments.forEach(c => {
                 const div = document.createElement('div'); div.className = "p-2 bg-slate-100 dark:bg-slate-800 rounded-lg text-xs"; div.innerText = c; list.appendChild(div);
             });
@@ -387,19 +381,19 @@
             loadComments(activeNewsId);
         }
 
-        // سیستم مدیریت اخبار (پنل اداری)
         function addCustomNews() {
             const title = document.getElementById('newTitle').value.trim();
             const category = document.getElementById('newCategory').value;
             const summary = document.getElementById('newSummary').value.trim();
 
-            if (!title || !summary) return alert('لطفا عنوان و خلاصه را وارد کنید');
+            if (!title || !summary) return alert('عنوان و متن را تکمیل نمایید');
 
             const newArt = {
                 id: Date.now(),
                 title: title, title_fa: title,
                 summary: summary, summary_fa: summary,
                 category: category, region: 'بین‌المللی',
+                image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
                 geo: { lat: 35.6892, lng: 51.3890 }
             };
 
@@ -412,7 +406,6 @@
             
             loadNewsData();
             renderAdminNewsList();
-            alert('خبر جدید با موفقیت اضافه شد.');
         }
 
         function deleteNews(id) {
@@ -421,7 +414,7 @@
             localCustomNews = localCustomNews.filter(a => a.id !== id);
             localStorage.setItem('custom_news', JSON.stringify(localCustomNews));
 
-            renderNewsGrid(allArticles);
+            filterNews();
             renderAdminNewsList();
         }
 
@@ -439,29 +432,67 @@
             });
         }
 
-        // تولید بولتن با تصویر
-        function exportBulletin(type) {
+        // تولید خروجی بولتن بسیار شکیل، گرافیکی و طبقه بندی شده
+        function exportStructuredBulletin(type) {
+            const categories = [...new Set(filteredArticles.map(a => a.category || 'سایر'))];
+            const dateStr = new Date().toLocaleDateString('fa-IR');
+
+            let bulletinHTML = `
+                <div style="font-family: Tahoma, sans-serif; direction: rtl; text-align: right; padding: 20px; color: #1e293b;">
+                    <div style="background-color: #1e3a8a; color: white; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 25px;">
+                        <h1 style="margin: 0; font-size: 22px;">بولتن اختصاصی تحلیل اخبار جهان‌نما AI</h1>
+                        <p style="margin: 5px 0 0 0; font-size: 12px; opacity: 0.8;">تاریخ تنظیم: ${dateStr} | تعداد کل اخبار: ${filteredArticles.length}</p>
+                    </div>
+            `;
+
+            categories.forEach(cat => {
+                const catArticles = filteredArticles.filter(a => (a.category || 'سایر') === cat);
+                bulletinHTML += `
+                    <div style="margin-bottom: 30px;">
+                        <h2 style="background-color: #f1f5f9; border-right: 5px solid #2563eb; padding: 8px 12px; font-size: 16px; color: #1e3a8a; margin-bottom: 15px;">
+                            موضوع: ${cat} (${catArticles.length} خبر)
+                        </h2>
+                `;
+
+                catArticles.forEach(art => {
+                    const imgSrc = art.image || "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80";
+                    bulletinHTML += `
+                        <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden;">
+                            <tr>
+                                <td style="width: 30%; padding: 10px; vertical-align: top; background: #fafafa;">
+                                    <img src="${imgSrc}" style="width: 100%; height: 110px; object-fit: cover; border-radius: 6px;">
+                                </td>
+                                <td style="width: 70%; padding: 12px; vertical-align: top;">
+                                    <h3 style="margin: 0 0 8px 0; font-size: 14px; color: #0f172a;">${art.title_fa || art.title}</h3>
+                                    <p style="margin: 0 0 10px 0; font-size: 11px; color: #475569; line-height: 1.6;">${art.summary_fa || art.summary}</p>
+                                    <span style="font-size: 10px; color: #64748b; background: #e2e8f0; padding: 2px 6px; border-radius: 4px;">منطقه: ${art.region || 'بین‌المللی'}</span>
+                                </td>
+                            </tr>
+                        </table>
+                    `;
+                });
+
+                bulletinHTML += `</div>`;
+            });
+
+            bulletinHTML += `</div>`;
+
             if (type === 'pdf') {
                 const element = document.createElement('div');
-                element.style.direction = 'rtl';
-                element.style.padding = '20px';
-                element.innerHTML = `<h1 style="text-align:center;">بولتن اخبار رسمی جهان‌نما AI</h1><hr/><br/>` + 
-                    filteredArticles.map(a => `
-                        <div style="margin-bottom:20px;">
-                            ${a.image ? `<img src="${a.image}" style="max-height:150px; width:auto; margin-bottom:8px;">` : ''}
-                            <h3>${a.title_fa || a.title}</h3>
-                            <p>${a.summary_fa || a.summary}</p>
-                            <small>موضوع: ${a.category}</small>
-                        </div><hr/>`).join('');
-                html2pdf().from(element).save('Bulletin_With_Images.pdf');
+                element.innerHTML = bulletinHTML;
+                html2pdf().from(element).set({
+                    margin: 10,
+                    filename: `Bulletin_${dateStr}.pdf`,
+                    html2canvas: { scale: 2, useCORS: true },
+                    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+                }).save();
             } else {
-                let header = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'></head><body dir='rtl'>";
-                let content = "<h2>بولتن خبری جهان‌نما AI</h2>" + filteredArticles.map(a => `
-                    <h3>${a.title_fa || a.title}</h3>
-                    ${a.image ? `<img src="${a.image}" width="300"><br>` : ''}
-                    <p>${a.summary_fa || a.summary}</p><hr/>`).join('');
-                let blob = new Blob(['\ufeff' + header + content + '</body></html>'], { type: 'application/msword' });
-                let a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'Bulletin_With_Images.doc'; a.click();
+                const header = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'></head><body>";
+                const blob = new Blob(['\ufeff' + header + bulletinHTML + '</body></html>'], { type: 'application/msword' });
+                const a = document.createElement('a');
+                a.href = URL.createObjectURL(blob);
+                a.download = `Bulletin_${dateStr}.doc`;
+                a.click();
             }
         }
     </script>
