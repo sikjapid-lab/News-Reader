@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# نگاشت مختصات جغرافیایی
+# جدول نگاشت جغرافیایی جامع برای GIS
 LOCATION_GEO_MAP = {
     "iran": {"lat": 35.6892, "lng": 51.3890, "name": "ایران"},
     "tehran": {"lat": 35.6892, "lng": 51.3890, "name": "تهران"},
@@ -26,37 +26,42 @@ LOCATION_GEO_MAP = {
     "kyiv": {"lat": 50.4501, "lng": 30.5234, "name": "کی‌یف"},
     "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"},
     "france": {"lat": 48.8566, "lng": 2.3522, "name": "فرانسه"},
+    "paris": {"lat": 48.8566, "lng": 2.3522, "name": "پاریس"},
     "london": {"lat": 51.5074, "lng": -0.1278, "name": "لندن"},
+    "uk": {"lat": 51.5074, "lng": -0.1278, "name": "بریتانیا"},
+    "tokyo": {"lat": 35.6762, "lng": 139.6503, "name": "توکیو"},
     "japan": {"lat": 35.6762, "lng": 139.6503, "name": "ژاپن"}
 }
 
 DEFAULT_GEO = {"lat": 20.0, "lng": 0.0, "name": "بین‌المللی"}
 
-def load_feeds_config():
-    """خواندن منابع فید قابل تغییر از فایل خارجی feeds.json"""
+def load_feeds():
+    """بارگذاری لیست منابع فید از فایل خارجی feeds.json"""
     if os.path.exists('feeds.json'):
         try:
             with open('feeds.json', 'r', encoding='utf-8') as f:
                 return json.load(f)
         except Exception as e:
-            print(f"خطا در خواندن feeds.json: {e}")
+            print(f"خطا در خواندن فایل feeds.json: {e}")
     return []
 
 def generate_id(title, link):
-    """هش‌گذاری یکتا جهت جلوگیری کامل از ورود اخبار تکراری"""
-    raw_str = f"{title.strip().lower()}_{link.strip().lower()}"
-    return hashlib.md5(raw_str.encode('utf-8')).hexdigest()
+    """تولید هش یکتا بر اساس ترکیب عنوان و لینک برای ممانعت از ثبت تکراری"""
+    normalized = f"{title.strip().lower()}_{link.strip().lower()}"
+    return hashlib.md5(normalized.encode('utf-8')).hexdigest()
 
 def translate_text(text):
+    """مترجم خودکار با کنترل خطا و مدیریت طول متن"""
     if not text or len(text.strip()) == 0:
         return ""
     try:
         translated = GoogleTranslator(source='auto', target='fa').translate(text[:2500])
         return translated if translated else text
-    except Exception:
+    except Exception as e:
         return text
 
 def extract_image(entry):
+    """استخراج پیشرفته تصویر از تمامی تک‌ها و سورس‌های ممکن RSS"""
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url')
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
@@ -73,6 +78,7 @@ def extract_image(entry):
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80"
 
 def detect_geo(text):
+    """تشخیص مختصات جغرافیایی بر اساس متن خبر"""
     text_lower = text.lower()
     for key, geo in LOCATION_GEO_MAP.items():
         if key in text_lower:
@@ -80,11 +86,12 @@ def detect_geo(text):
     return DEFAULT_GEO
 
 def process_single_feed(feed_info):
+    """استخراج و ترجمه اخبار یک Feed به‌صورت مجزا با درخواست مستقیم requests"""
     extracted = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-        resp = requests.get(feed_info['url'], headers=headers, timeout=12)
-        parsed = feedparser.parse(resp.content)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        response = requests.get(feed_info['url'], headers=headers, timeout=12)
+        parsed = feedparser.parse(response.content)
 
         for entry in parsed.entries[:30]:
             link = entry.get('link', '')
@@ -115,59 +122,69 @@ def process_single_feed(feed_info):
                 "link": link,
                 "source": feed_info['source'],
                 "published_at": pub_date,
+                "date_iso": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "category": feed_info['category'],
                 "region": feed_info['region'],
                 "image": image_url,
                 "geo": geo_info
             })
     except Exception as e:
-        print(f"اشکال در استخراج فید {feed_info.get('source')}: {e}")
+        print(f"اشکال در دریافت فید {feed_info.get('source', 'نامشخص')}: {e}")
     return extracted
 
 def main():
-    feeds = load_feeds_config()
-    if not feeds:
-        print("هیچ منبع فیدی در feeds.json یافت نشد!")
+    rss_feeds = load_feeds()
+    if not rss_feeds:
+        print("هیچ منبعی در feeds.json یافت نشد!")
         return
 
-    print(f"پایش تعداد {len(feeds)} منبع فید با موفقیت آغاز شد...")
-
+    print(f"شروع استخراج همزمان اخبار از {len(rss_feeds)} منبع در لایه‌های مختلف...")
+    
     existing_articles = {}
+    
+    # ۱. بارگذاری آرشیو قدیمی جهت ادغام اخبار و حفظ دیتابیس
     if os.path.exists('news_data.json'):
         try:
             with open('news_data.json', 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
                 for art in old_data.get('articles', []):
                     existing_articles[art['id']] = art
+            print(f"تعداد اخبار موجود در آرشیو: {len(existing_articles)}")
         except Exception as e:
-            print(f"خطا در بازیابی آرشیو قدیمی: {e}")
+            print(f"خطا در خواندن آرشیو قبلی: {e}")
 
-    new_articles = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        results = executor.map(process_single_feed, feeds)
+    # ۲. پردازش همزمان فیدها با ThreadPoolExecutor
+    new_articles_flat = []
+    with ThreadPoolExecutor(max_workers=12) as executor:
+        results = executor.map(process_single_feed, rss_feeds)
         for res in results:
-            new_articles.extend(res)
+            new_articles_flat.extend(res)
 
-    # ممانعت کامل از ثبت اخبار تکراری بر اساس ID اختصاصی
-    added_count = 0
-    for art in new_articles:
+    print(f"تعداد کل کاندیدهای خبر دریافت شده: {len(new_articles_flat)}")
+
+    # ۳. جلوگیری از ثبت اخبار تکراری با بررسی هش یکتا
+    added_new_count = 0
+    for art in new_articles_flat:
         if art['id'] not in existing_articles:
             existing_articles[art['id']] = art
-            added_count += 1
+            added_new_count += 1
 
-    final_list = list(existing_articles.values())
-    final_list.sort(key=lambda x: x.get('published_at', ''), reverse=True)
+    final_articles = list(existing_articles.values())
+    
+    # ۴. مرتب‌سازی اخبار بر اساس تاریخ
+    final_articles.sort(key=lambda x: x.get('published_at', ''), reverse=True)
 
     data_payload = {
         "last_update": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "total_count": len(final_list),
-        "articles": final_list
+        "total_count": len(final_articles),
+        "articles": final_articles
     }
 
+    # ۵. ذخیره‌سازی فایل خروجی
     with open('news_data.json', 'w', encoding='utf-8') as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
-    print(f"پردازش به پایان رسید. اخبار جدید اضافه شده: {added_count} | مجموع اخبار: {len(final_list)}")
+    print(f"عملیات موفقیت‌آمیز بود. اخبار جدید اضافه شده: {added_new_count} | مجموع اخبار دیتابیس: {len(final_articles)}")
 
 if __name__ == '__main__':
     main()
