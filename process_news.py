@@ -22,11 +22,11 @@ LOCATION_GEO_MAP = {
     "gaza": {"lat": 31.5017, "lng": 34.4668, "name": "غزه"},
     "israel": {"lat": 31.0461, "lng": 34.8516, "name": "فلسطین"},
     "usa": {"lat": 38.9072, "lng": -77.0369, "name": "آمریکا"},
-    "washington": {"lat": 38.9072, "lng": -77.0369, "name": "واشنگتن"},
     "china": {"lat": 39.9042, "lng": 116.4074, "name": "چین"},
     "russia": {"lat": 55.7558, "lng": 37.6173, "name": "مسکو"},
     "ukraine": {"lat": 50.4501, "lng": 30.5234, "name": "اوکراین"},
-    "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"}
+    "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"},
+    "france": {"lat": 48.8566, "lng": 2.3522, "name": "فرانسه"}
 }
 
 DEFAULT_GEO = {"lat": 20.0, "lng": 0.0, "name": "بین‌المللی"}
@@ -35,16 +35,17 @@ def translate_text(text):
     if not text or len(text.strip()) == 0:
         return ""
     try:
-        return GoogleTranslator(source='auto', target='fa').translate(text[:4500])
+        translated = GoogleTranslator(source='auto', target='fa').translate(text[:4000])
+        return translated if translated else text
     except Exception as e:
-        print(f"Translation Exception: {e}")
+        print(f"Translation Error: {e}")
         return text
 
 def extract_image(entry):
     if 'media_content' in entry and len(entry.media_content) > 0:
-        return entry.media_content[0]['url']
+        return entry.media_content[0].get('url')
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
-        return entry.media_thumbnail[0]['url']
+        return entry.media_thumbnail[0].get('url')
     if 'links' in entry:
         for link in entry.links:
             if link.get('type', '').startswith('image/'):
@@ -54,81 +55,62 @@ def extract_image(entry):
         img = soup.find('img')
         if img and img.get('src'):
             return img['src']
-    return None
+    # تصویر پیش‌فرض استوک باکیفیت در صورت عدم وجود تصویر
+    return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80"
 
-def detect_geo_location(text):
+def detect_geo(text):
     text_lower = text.lower()
     for key, geo in LOCATION_GEO_MAP.items():
         if key in text_lower:
             return geo
     return DEFAULT_GEO
 
-def process_all_feeds():
-    print("شروع پردازش اخبار...")
+def main():
+    print("در حال استخراج و پردازش اخبار...")
     articles = []
-    article_id = 1
+    art_id = 1
 
-    for feed_info in RSS_FEEDS:
-        parsed_feed = feedparser.parse(feed_info['url'])
-        for entry in parsed_feed.entries[:10]:
+    for feed in RSS_FEEDS:
+        parsed = feedparser.parse(feed['url'])
+        for entry in parsed.entries[:8]:
             title_en = entry.get('title', '')
-            summary_en = entry.get('summary', entry.get('description', ''))
-            link = entry.get('link', '#')
-            pub_date = entry.get('published', datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
-
-            soup = BeautifulSoup(summary_en, 'html.parser')
-            clean_summary_en = soup.get_text()
+            summary_raw = entry.get('summary', entry.get('description', ''))
+            
+            soup = BeautifulSoup(summary_raw, 'html.parser')
+            summary_en = soup.get_text()
 
             title_fa = translate_text(title_en)
-            summary_fa = translate_text(clean_summary_en)
+            summary_fa = translate_text(summary_en)
             image_url = extract_image(entry)
-            geo_info = detect_geo_location(title_en + " " + clean_summary_en)
+            geo_info = detect_geo(title_en + " " + summary_en)
 
-            article = {
-                "id": article_id,
+            articles.append({
+                "id": art_id,
                 "title": title_fa,
                 "title_fa": title_fa,
                 "title_en": title_en,
                 "summary": summary_fa,
                 "summary_fa": summary_fa,
-                "summary_en": clean_summary_en,
-                "link": link,
-                "published_at": pub_date,
-                "category": feed_info['category'],
-                "region": feed_info['region'],
+                "summary_en": summary_en,
+                "link": entry.get('link', '#'),
+                "published_at": entry.get('published', datetime.datetime.now().strftime("%Y-%m-%d %H:%M")),
+                "category": feed['category'],
+                "region": feed['region'],
                 "image": image_url,
                 "geo": geo_info
-            }
-            articles.append(article)
-            article_id += 1
+            })
+            art_id += 1
 
-    now_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    output_data = {
-        "last_update": now_str,
+    data_payload = {
+        "last_update": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "total_count": len(articles),
         "articles": articles
     }
 
     with open('news_data.json', 'w', encoding='utf-8') as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
+        json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
-    archive_data = []
-    if os.path.exists('news_archive.json'):
-        try:
-            with open('news_archive.json', 'r', encoding='utf-8') as f:
-                archive_data = json.load(f)
-        except Exception:
-            archive_data = []
-
-    existing_links = {a.get('link') for a in archive_data if isinstance(a, dict)}
-    for art in articles:
-        if art['link'] not in existing_links:
-            archive_data.append(art)
-
-    with open('news_archive.json', 'w', encoding='utf-8') as f:
-        json.dump(archive_data, f, ensure_ascii=False, indent=2)
-
-    print("پردازش با موفقیت انجام شد.")
+    print(f"تعداد {len(articles)} خبر با موفقیت پردازش شد.")
 
 if __name__ == '__main__':
-    process_all_feeds()
+    main()
