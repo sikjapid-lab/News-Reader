@@ -39,7 +39,6 @@
         .map-fullscreen { position: fixed !important; top: 0 !important; left: 0 !important; width: 100vw !important; height: 100vh !important; z-index: 9999 !important; border-radius: 0 !important; }
         .custom-marker { display: flex; align-items: center; justify-content: center; border-radius: 50%; color: white; font-size: 13px; border: 2px solid white; box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
         .ticker-wrap { width: 100%; overflow: hidden; white-space: nowrap; }
-        /* کندسازی انیمیشن تا ۱۱۰ ثانیه برای خوانایی عالی و عدم جهش سریع */
         .ticker-move { display: inline-block; animation: ticker 110s linear infinite; }
         .ticker-move:hover { animation-play-state: paused; }
         @keyframes ticker { 0% { transform: translate3d(100%, 0, 0); } 100% { transform: translate3d(-100%, 0, 0); } }
@@ -49,7 +48,7 @@
 </head>
 <body class="bg-slate-100 text-slate-800 dark:bg-darkbg dark:text-slate-100 transition-colors duration-200 min-h-screen">
 
-    <!-- نوار اخبار فوری اصلاح‌شده (سرعت استاندارد + لینک‌دهی مستقیم با کلیک) -->
+    <!-- نوار اخبار فوری -->
     <div class="bg-red-700 text-white text-xs py-2 px-4 flex items-center justify-between shadow-md">
         <div class="flex items-center gap-2 font-bold shrink-0 bg-red-900 px-2.5 py-1 rounded-lg">
             <i class="fa-solid fa-bolt animate-pulse text-amber-300"></i> اخبار فوری جهان
@@ -57,10 +56,10 @@
         <div class="ticker-wrap mx-4">
             <div id="breakingTicker" class="ticker-move text-xs font-semibold">در حال دریافت و بروزرسانی آخرین اخبار...</div>
         </div>
-        <div class="text-[10px] opacity-80 shrink-0 hidden md:block" id="liveClock"></div>
+        <div class="text-[11px] font-bold opacity-90 shrink-0 hidden md:block" id="liveClock"></div>
     </div>
 
-    <!-- هدر و ناوبری اصلی -->
+    <!-- هدر اصلی -->
     <header class="sticky top-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur border-b border-slate-200 dark:border-slate-800 shadow-sm">
         <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
             <div class="flex items-center gap-3">
@@ -80,6 +79,11 @@
                     <button id="btnViewLive" onclick="switchView('live')" class="px-3 py-1.5 rounded-lg text-xs font-bold bg-white dark:bg-slate-700 text-blue-600 shadow">پایش زنده</button>
                     <button id="btnViewArchive" onclick="switchView('archive')" class="px-3 py-1.5 rounded-lg text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-blue-600">آرشیو کامل دیتابیس</button>
                 </div>
+
+                <!-- دکمه تنظیمات و مدیریت سایت -->
+                <button onclick="openSettingsModal()" class="p-2.5 rounded-xl bg-amber-500 hover:bg-amber-600 text-white font-bold text-xs flex items-center gap-1.5 shadow-sm" title="مدیریت و تنظیمات سایت">
+                    <i class="fa-solid fa-gear"></i> <span class="hidden sm:inline">تنظیمات</span>
+                </button>
 
                 <button onclick="forceRefreshData()" class="p-2.5 rounded-xl bg-blue-600 text-white hover:bg-blue-700 font-bold text-xs flex items-center gap-1 shadow-sm" title="بروزرسانی زنده">
                     <i class="fa-solid fa-rotate" id="refreshSpinner"></i>
@@ -113,9 +117,15 @@
                 <div class="p-3 bg-amber-100 text-amber-600 rounded-xl"><i class="fa-solid fa-eye text-lg"></i></div>
                 <div><p class="text-[11px] text-slate-500">آمار بازدید اخبار</p><h4 id="statClicks" class="text-base font-black">0</h4></div>
             </div>
+            
+            <!-- فیلد آخرین بروزرسانی شامل تاریخ/ساعت شمسی و تعداد اخبار جدید -->
             <div class="bg-white dark:bg-carddark p-3.5 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm flex items-center gap-3 col-span-2 md:col-span-1">
                 <div class="p-3 bg-rose-100 text-rose-600 rounded-xl"><i class="fa-solid fa-clock-history text-lg"></i></div>
-                <div><p class="text-[11px] text-slate-500">آخرین بروزرسانی</p><h4 id="statLastUpdate" class="text-xs font-bold truncate max-w-[100px]">در حال استعلام...</h4></div>
+                <div class="overflow-hidden">
+                    <p class="text-[11px] text-slate-500">آخرین بروزرسانی</p>
+                    <h4 id="statLastUpdate" class="text-xs font-bold text-blue-600 dark:text-blue-400">در حال دریافت...</h4>
+                    <span id="statNewCountBadge" class="inline-block mt-0.5 bg-emerald-100 text-emerald-700 dark:bg-emerald-900/50 dark:text-emerald-300 text-[10px] font-bold px-1.5 py-0.5 rounded-md">+0 خبر جدید</span>
+                </div>
             </div>
         </section>
 
@@ -169,10 +179,10 @@
 
                 <div class="flex gap-2">
                     <button onclick="exportStructuredBulletin('pdf')" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 shadow-sm">
-                        <i class="fa-solid fa-file-pdf"></i> تولید بولتن (PDF)
+                        <i class="fa-solid fa-file-pdf"></i> تولید بولتن تصویری (PDF)
                     </button>
                     <button onclick="exportStructuredBulletin('doc')" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-xl text-xs font-bold transition flex items-center gap-2 shadow-sm">
-                        <i class="fa-solid fa-file-word"></i> خروجی Word
+                        <i class="fa-solid fa-file-word"></i> خروجی استاندارد Word
                     </button>
                 </div>
             </div>
@@ -182,11 +192,115 @@
         <section><div id="newsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div></section>
     </main>
 
-    <!-- مدال کامل نمایش جزئیات خبر -->
+    <!-- مدال کامل نمایش جزئیات خبر + بخش نظرات بلادرنگ -->
     <div id="newsModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
-        <div class="bg-white dark:bg-carddark w-full max-w-2xl rounded-2xl max-h-[90vh] overflow-y-auto p-6 relative shadow-2xl space-y-4">
-            <button onclick="closeNewsModal()" class="absolute top-4 left-4 text-slate-400 hover:text-slate-600"><i class="fa-solid fa-xmark text-xl"></i></button>
+        <div class="bg-white dark:bg-carddark w-full max-w-3xl rounded-2xl max-h-[90vh] overflow-y-auto p-6 relative shadow-2xl space-y-5">
+            <button onclick="closeNewsModal()" class="absolute top-4 left-4 text-slate-400 hover:text-slate-600 dark:hover:text-white"><i class="fa-solid fa-xmark text-xl"></i></button>
+            
             <div id="modalContent"></div>
+
+            <!-- بخش کامنت‌های بلادرنگ -->
+            <div class="border-t border-slate-200 dark:border-slate-700 pt-5 space-y-4">
+                <h3 class="text-sm font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                    <i class="fa-solid fa-comments text-blue-600"></i> نظرات و دیدگاه‌های کاربران (بلادرنگ)
+                </h3>
+
+                <!-- فرم ثبت دیدگاه -->
+                <div class="bg-slate-50 dark:bg-slate-800/60 p-4 rounded-xl border border-slate-200 dark:border-slate-700 space-y-3">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                        <input type="text" id="commentAuthor" placeholder="نام شما (اختیاری)" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs focus:outline-none focus:ring-1 focus:ring-blue-500">
+                        <input type="text" id="commentRole" placeholder="سمت/سازمان (اختیاری)" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs focus:outline-none focus:ring-1 focus:ring-blue-500">
+                    </div>
+                    <textarea id="commentText" rows="3" placeholder="دیدگاه یا تحلیل خود را درباره این خبر ثبت کنید..." class="w-full px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs focus:outline-none focus:ring-1 focus:ring-blue-500"></textarea>
+                    <button id="btnSubmitComment" onclick="submitCurrentComment()" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-xs font-bold transition flex items-center gap-2">
+                        <i class="fa-solid fa-paper-plane"></i> ثبت دیدگاه بلادرنگ
+                    </button>
+                </div>
+
+                <!-- لیست نظرات ثبت‌شده -->
+                <div id="commentsList" class="space-y-3 max-h-60 overflow-y-auto pr-1"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- مدال پیشرفته مدیریت و تنظیمات جامع سایت -->
+    <div id="settingsModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+        <div class="bg-white dark:bg-carddark w-full max-w-3xl rounded-2xl max-h-[90vh] overflow-y-auto p-6 relative shadow-2xl space-y-5">
+            <button onclick="closeSettingsModal()" class="absolute top-4 left-4 text-slate-400 hover:text-slate-600 dark:hover:text-white"><i class="fa-solid fa-xmark text-xl"></i></button>
+            
+            <div class="flex items-center gap-3 border-b border-slate-200 dark:border-slate-800 pb-4">
+                <div class="p-2.5 bg-amber-500 text-white rounded-xl"><i class="fa-solid fa-sliders text-xl"></i></div>
+                <div>
+                    <h2 class="text-base font-black text-slate-900 dark:text-white">پنل جامع تنظیمات و مدیریت سایت</h2>
+                    <p class="text-xs text-slate-500">مدیریت منابع خبری، فرکانس بروزرسانی و پشتیبان‌گیری</p>
+                </div>
+            </div>
+
+            <!-- تب‌های تنظیمات -->
+            <div class="flex border-b border-slate-200 dark:border-slate-800 gap-2">
+                <button onclick="switchSettingsTab('sources')" id="tabBtnSources" class="px-4 py-2 text-xs font-bold text-blue-600 border-b-2 border-blue-600">مدیریت منابع RSS</button>
+                <button onclick="switchSettingsTab('general')" id="tabBtnGeneral" class="px-4 py-2 text-xs font-bold text-slate-500 hover:text-blue-600">تنظیمات عمومی</button>
+                <button onclick="switchSettingsTab('backup')" id="tabBtnBackup" class="px-4 py-2 text-xs font-bold text-slate-500 hover:text-blue-600">پشتیبان‌گیری و داده‌ها</button>
+            </div>
+
+            <!-- محتوای تب منابع RSS -->
+            <div id="tabContentSources" class="space-y-4">
+                <div class="bg-slate-50 dark:bg-slate-800/60 p-4 rounded-xl border border-slate-200 dark:border-slate-700 space-y-3">
+                    <h4 class="text-xs font-bold text-slate-800 dark:text-slate-200">افزودن منبع خبری جدید (RSS):</h4>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                        <input type="text" id="newSourceTitle" placeholder="نام خبرگزاری (مثلاً BBC فارسی)" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                        <input type="text" id="newSourceUrl" placeholder="آدرس RSS (https://...)" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                        <select id="newSourceCategory" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                            <option value="سیاست">سیاست</option>
+                            <option value="فناوری و AI">فناوری و AI</option>
+                            <option value="اقتصاد و بازار">اقتصاد و بازار</option>
+                            <option value="علم و سلامت">علم و سلامت</option>
+                        </select>
+                        <select id="newSourceRegion" class="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                            <option value="بین‌المللی">بین‌المللی</option>
+                            <option value="خاورمیانه">خاورمیانه</option>
+                            <option value="اروپا">اروپا</option>
+                            <option value="آمریکا">آمریکا</option>
+                        </select>
+                    </div>
+                    <button onclick="addCustomRssSource()" class="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-lg text-xs font-bold transition flex items-center gap-1.5">
+                        <i class="fa-solid fa-plus"></i> افزودن به لیست منابع
+                    </button>
+                </div>
+
+                <div class="space-y-2">
+                    <h4 class="text-xs font-bold text-slate-800 dark:text-slate-200">لیست منابع فعلی سیستم:</h4>
+                    <div id="rssSourcesList" class="max-h-52 overflow-y-auto space-y-2 pr-1"></div>
+                </div>
+            </div>
+
+            <!-- محتوای تب تنظیمات عمومی -->
+            <div id="tabContentGeneral" class="hidden space-y-4">
+                <div class="space-y-3">
+                    <div>
+                        <label class="block text-xs font-bold mb-1">بازه زمانی بروزرسانی خودکار (دقیقه):</label>
+                        <select id="autoRefreshInterval" onchange="saveGeneralSettings()" class="w-full px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                            <option value="60000">هر ۱ دقیقه</option>
+                            <option value="300000">هر ۵ دقیقه</option>
+                            <option value="900000">هر ۱۵ دقیقه</option>
+                            <option value="1800000">هر ۳۰ دقیقه</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-xs font-bold mb-1">سرعت حرکت نوار اخبار فوری (ثانیه):</label>
+                        <input type="number" id="tickerSpeedInput" value="110" onchange="updateTickerSpeed()" class="w-full px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs">
+                    </div>
+                </div>
+            </div>
+
+            <!-- محتوای تب پشتیبان‌گیری -->
+            <div id="tabContentBackup" class="hidden space-y-4">
+                <p class="text-xs text-slate-500">میتوانید تنظیمات سفارشی و منابع اضافه شده خود را ذخیره یا بازگردانی کنید.</p>
+                <div class="flex gap-3">
+                    <button onclick="exportSettingsJson()" class="bg-blue-600 text-white px-4 py-2 rounded-xl text-xs font-bold">خروجی کانفیگ (JSON)</button>
+                    <button onclick="resetAllSettings()" class="bg-rose-600 text-white px-4 py-2 rounded-xl text-xs font-bold">بازنشانی به تنظیمات کارخانه</button>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -197,23 +311,59 @@
         let currentView = 'live'; 
         let map, clusterGroup;
         let isFullscreen = false;
+        let currentModalArticleId = null;
+        let defaultSourcesList = [
+            {"source": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "سیاست", "region": "بین‌المللی"},
+            {"source": "Al Jazeera", "url": "https://aljazeera.com/xml/rss/all.xml", "category": "سیاست", "region": "خاورمیانه"},
+            {"source": "Reuters", "url": "https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best", "category": "سیاست", "region": "بین‌المللی"},
+            {"source": "TechCrunch", "url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "category": "فناوری و AI", "region": "بین‌المللی"},
+            {"source": "Science Daily", "url": "https://sciencedaily.com/rss/all.xml", "category": "علم و سلامت", "region": "بین‌المللی"}
+        ];
 
         document.addEventListener("DOMContentLoaded", () => {
             initClock();
             initMap();
+            loadCustomSources();
             forceRefreshData();
             
-            // بازیابی تعداد کلیک‌ها از حافظه محلی
             const clicks = localStorage.getItem('news_clicks') || '0';
             document.getElementById('statClicks').innerText = clicks;
 
-            setInterval(() => { forceRefreshData(); }, 60000);
+            const refreshInterval = parseInt(localStorage.getItem('sys_refresh_interval') || '60000');
+            setInterval(() => { forceRefreshData(); }, refreshInterval);
         });
+
+        // تبدیل تاریخ میلادی به هجری شمسی (جلالی)
+        function toJalali(gy, gm, gd) {
+            let g_d_m = [0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334];
+            let jy = (gy <= 1600) ? 0 : 979;
+            gy -= (gy <= 1600) ? 621 : 1600;
+            let gy2 = (gm > 2) ? (gy + 1) : gy;
+            let days = (365 * gy) + (parseInt((gy2 + 3) / 4)) - (parseInt((gy2 + 99) / 100)) + (parseInt((gy2 + 399) / 400)) - 80 + gd + g_d_m[gm - 1];
+            jy += 33 * (parseInt(days / 12053));
+            days %= 12053;
+            jy += 4 * (parseInt(days / 1461));
+            days %= 1461;
+            if (days > 365) {
+                jy += parseInt((days - 1) / 365);
+                days = (days - 1) % 365;
+            }
+            let jm = (days < 186) ? 1 + parseInt(days / 31) : 7 + parseInt((days - 186) / 30);
+            let jd = 1 + ((days < 186) ? (days % 31) : ((days - 186) % 30));
+            return [jy, jm, jd];
+        }
+
+        function getShamsiFormatted(dateObj = new Date()) {
+            const [jy, jm, jd] = toJalali(dateObj.getFullYear(), dateObj.getMonth() + 1, dateObj.getDate());
+            const h = String(dateObj.getHours()).padStart(2, '0');
+            const m = String(dateObj.getMinutes()).padStart(2, '0');
+            const months = ["فروردین","اردیبهشت","خرداد","تیر","مرداد","شهریور","مهر","آبان","آذر","دی","بهمن","اسفند"];
+            return `${jd} ${months[jm-1]} ${jy} - ${h}:${m}`;
+        }
 
         function initClock() {
             setInterval(() => {
-                const now = new Date();
-                document.getElementById('liveClock').innerText = now.toLocaleTimeString('fa-IR') + " - " + now.toLocaleDateString('fa-IR');
+                document.getElementById('liveClock').innerText = getShamsiFormatted(new Date());
             }, 1000);
         }
 
@@ -254,10 +404,15 @@
                 const response = await fetch('./news_data.json?nocache=' + new Date().getTime());
                 const data = await response.json();
                 
+                const prevCount = parseInt(localStorage.getItem('last_news_count') || '0');
                 allArticles = data.articles || [];
                 
+                const newAdded = Math.max(0, allArticles.length - prevCount);
+                localStorage.setItem('last_news_count', allArticles.length);
+
                 document.getElementById('statTotalNews').innerText = allArticles.length;
-                document.getElementById('statLastUpdate').innerText = data.last_update || 'هم‌اکنون';
+                document.getElementById('statLastUpdate').innerText = getShamsiFormatted(new Date());
+                document.getElementById('statNewCountBadge').innerText = `+${newAdded} خبر جدید`;
                 
                 populateSourceFilter();
                 filterNews();
@@ -301,7 +456,6 @@
         function updateBreakingTicker() {
             const breaking = allArticles.slice(0, 15);
             if (breaking.length > 0) {
-                /* لینک‌دهی مستقیم با کلیک بر روی تیتر اخبار فوری نوار بالا */
                 const tickerText = breaking.map(a => `
                     <a href="${a.link}" target="_blank" class="inline-flex items-center gap-1.5 hover:text-amber-300 transition duration-150">
                         <span class="bg-red-900/60 text-[10px] px-1.5 py-0.5 rounded text-amber-200">${a.source || 'خبر'}</span>
@@ -404,8 +558,9 @@
             if (currentView === 'live') renderGISMarkers(displayList);
         }
 
-        /* تابع اصلاح‌شده باز کردن مدال کامل (با تبدیل صریح رشته شناسه جهت رفع لود نشدن) */
+        // مدال جزئیات خبر و نظرات
         function openNewsModal(id) {
+            currentModalArticleId = id;
             let clicks = parseInt(localStorage.getItem('news_clicks') || '0') + 1;
             localStorage.setItem('news_clicks', clicks);
             document.getElementById('statClicks').innerText = clicks;
@@ -421,7 +576,7 @@
                     <span class="text-xs bg-slate-100 text-slate-800 dark:bg-slate-800 dark:text-slate-200 px-2.5 py-1 rounded-full font-bold">${art.source || 'منبع'}</span>
                 </div>
                 <h2 class="text-base font-bold mt-2 text-slate-900 dark:text-white leading-snug">${art.title_fa || art.title}</h2>
-                <img src="${imgSrc}" class="w-full h-60 object-cover rounded-xl my-3 shadow">
+                <img src="${imgSrc}" class="w-full h-64 object-cover rounded-xl my-3 shadow">
                 <div class="space-y-2">
                     <h4 class="text-xs font-bold text-slate-700 dark:text-slate-300">ترجمه فارسی:</h4>
                     <p class="text-xs text-slate-600 dark:text-slate-300 leading-relaxed bg-slate-50 dark:bg-slate-800/50 p-3 rounded-xl border border-slate-100 dark:border-slate-800">${art.summary_fa || art.summary}</p>
@@ -437,43 +592,260 @@
                     <span class="text-[10px] text-slate-400">زمان انتشار: ${art.published_at || ''}</span>
                 </div>
             `;
+
+            renderCommentsList(id);
             document.getElementById('newsModal').classList.remove('hidden');
         }
 
         function closeNewsModal() { document.getElementById('newsModal').classList.add('hidden'); }
         function toggleDarkMode() { document.documentElement.classList.toggle('dark'); }
 
+        // مدیریت کامنت‌های بلادرنگ
+        function renderCommentsList(artId) {
+            const commentsContainer = document.getElementById('commentsList');
+            const savedComments = JSON.parse(localStorage.getItem(`comments_${artId}`) || '[]');
+
+            if (savedComments.length === 0) {
+                commentsContainer.innerHTML = '<p class="text-xs text-slate-400 text-center py-2">هنوز هیچ دیدگاهی برای این خبر ثبت نشده است. اولین نظر را شما بنویسید!</p>';
+                return;
+            }
+
+            commentsContainer.innerHTML = savedComments.map(c => `
+                <div class="bg-slate-50 dark:bg-slate-800/80 p-3 rounded-xl border border-slate-100 dark:border-slate-700 space-y-1">
+                    <div class="flex items-center justify-between">
+                        <div class="flex items-center gap-2">
+                            <span class="w-6 h-6 rounded-full bg-blue-600 text-white text-[10px] flex items-center justify-center font-bold">${c.author[0] || 'ک'}</span>
+                            <span class="text-xs font-bold text-slate-800 dark:text-slate-200">${c.author}</span>
+                            ${c.role ? `<span class="text-[10px] bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300 px-1.5 py-0.5 rounded">${c.role}</span>` : ''}
+                        </div>
+                        <span class="text-[10px] text-slate-400">${c.date}</span>
+                    </div>
+                    <p class="text-xs text-slate-600 dark:text-slate-300 pr-8 leading-relaxed">${c.text}</p>
+                </div>
+            `).join('');
+        }
+
+        function submitCurrentComment() {
+            if (!currentModalArticleId) return;
+
+            const authorInput = document.getElementById('commentAuthor');
+            const roleInput = document.getElementById('commentRole');
+            const textInput = document.getElementById('commentText');
+
+            const text = textInput.value.trim();
+            if (!text) {
+                alert('لطفاً متن دیدگاه را وارد کنید.');
+                return;
+            }
+
+            const author = authorInput.value.trim() || 'کاربر ناشناس';
+            const role = roleInput.value.trim() || '';
+            const date = getShamsiFormatted(new Date());
+
+            const newComment = { author, role, text, date };
+
+            const key = `comments_${currentModalArticleId}`;
+            const existing = JSON.parse(localStorage.getItem(key) || '[]');
+            existing.unshift(newComment);
+            localStorage.setItem(key, JSON.stringify(existing));
+
+            textInput.value = '';
+            renderCommentsList(currentModalArticleId);
+        }
+
+        // بخش تنظیمات و مدیریت کامل سایت
+        function openSettingsModal() {
+            renderRssSourcesList();
+            document.getElementById('settingsModal').classList.remove('hidden');
+        }
+
+        function closeSettingsModal() { document.getElementById('settingsModal').classList.add('hidden'); }
+
+        function switchSettingsTab(tabName) {
+            document.getElementById('tabContentSources').classList.add('hidden');
+            document.getElementById('tabContentGeneral').classList.add('hidden');
+            document.getElementById('tabContentBackup').classList.add('hidden');
+
+            document.getElementById('tabBtnSources').className = "px-4 py-2 text-xs font-bold text-slate-500 hover:text-blue-600";
+            document.getElementById('tabBtnGeneral').className = "px-4 py-2 text-xs font-bold text-slate-500 hover:text-blue-600";
+            document.getElementById('tabBtnBackup').className = "px-4 py-2 text-xs font-bold text-slate-500 hover:text-blue-600";
+
+            if(tabName === 'sources') {
+                document.getElementById('tabContentSources').classList.remove('hidden');
+                document.getElementById('tabBtnSources').className = "px-4 py-2 text-xs font-bold text-blue-600 border-b-2 border-blue-600";
+            } else if(tabName === 'general') {
+                document.getElementById('tabContentGeneral').classList.remove('hidden');
+                document.getElementById('tabBtnGeneral').className = "px-4 py-2 text-xs font-bold text-blue-600 border-b-2 border-blue-600";
+            } else {
+                document.getElementById('tabContentBackup').classList.remove('hidden');
+                document.getElementById('tabBtnBackup').className = "px-4 py-2 text-xs font-bold text-blue-600 border-b-2 border-blue-600";
+            }
+        }
+
+        function loadCustomSources() {
+            const saved = localStorage.getItem('custom_rss_sources');
+            if(!saved) {
+                localStorage.setItem('custom_rss_sources', JSON.stringify(defaultSourcesList));
+            }
+        }
+
+        function renderRssSourcesList() {
+            const sources = JSON.parse(localStorage.getItem('custom_rss_sources') || '[]');
+            const container = document.getElementById('rssSourcesList');
+            
+            container.innerHTML = sources.map((s, idx) => `
+                <div class="flex items-center justify-between bg-white dark:bg-slate-800 p-2.5 rounded-xl border border-slate-200 dark:border-slate-700 text-xs">
+                    <div>
+                        <span class="font-bold text-slate-800 dark:text-slate-100">${s.source}</span>
+                        <span class="text-[10px] text-slate-400 block truncate max-w-xs">${s.url}</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300 text-[10px] px-2 py-0.5 rounded">${s.category}</span>
+                        <button onclick="deleteRssSource(${idx})" class="text-rose-600 hover:text-rose-800 p-1"><i class="fa-solid fa-trash-can"></i></button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function addCustomRssSource() {
+            const title = document.getElementById('newSourceTitle').value.trim();
+            const url = document.getElementById('newSourceUrl').value.trim();
+            const category = document.getElementById('newSourceCategory').value;
+            const region = document.getElementById('newSourceRegion').value;
+
+            if(!title || !url) {
+                alert('لطفاً عنوان و آدرس RSS را وارد کنید.');
+                return;
+            }
+
+            const sources = JSON.parse(localStorage.getItem('custom_rss_sources') || '[]');
+            sources.push({ source: title, url, category, region });
+            localStorage.setItem('custom_rss_sources', JSON.stringify(sources));
+
+            document.getElementById('newSourceTitle').value = '';
+            document.getElementById('newSourceUrl').value = '';
+            renderRssSourcesList();
+            alert('منبع با موفقیت اضافه شد.');
+        }
+
+        function deleteRssSource(index) {
+            const sources = JSON.parse(localStorage.getItem('custom_rss_sources') || '[]');
+            sources.splice(index, 1);
+            localStorage.setItem('custom_rss_sources', JSON.stringify(sources));
+            renderRssSourcesList();
+        }
+
+        function saveGeneralSettings() {
+            const interval = document.getElementById('autoRefreshInterval').value;
+            localStorage.setItem('sys_refresh_interval', interval);
+        }
+
+        function exportSettingsJson() {
+            const data = localStorage.getItem('custom_rss_sources') || '[]';
+            const blob = new Blob([data], { type: 'application/json' });
+            const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+            a.download = 'worldview_sources.json'; a.click();
+        }
+
+        function resetAllSettings() {
+            if(confirm('آیا از بازنشانی کلیه تنظیمات اطمینان دارید؟')) {
+                localStorage.clear();
+                location.reload();
+            }
+        }
+
+        // سیستم خروجی بولتن ساختاریافته (PDF و Word)
         function exportStructuredBulletin(type) {
-            const dateStr = new Date().toLocaleDateString('fa-IR');
-            let bulletinHTML = `
-                <div style="font-family: Tahoma, sans-serif; direction: rtl; text-align: right; padding: 20px;">
-                    <div style="background-color: #1e3a8a; color: white; padding: 20px; text-align: center; border-radius: 8px;">
-                        <h1 style="margin: 0;">بولتن جامع پایش اخبار جهان‌نما AI</h1>
-                        <p style="margin: 5px 0 0 0; font-size: 12px;">تاریخ تنظیم: ${dateStr} | تعداد اخبار گزینش شده: ${filteredArticles.slice(0, 30).length}</p>
-                    </div>
-                    <br>
-            `;
-
-            filteredArticles.slice(0, 30).forEach(art => {
-                bulletinHTML += `
-                    <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; margin-bottom: 12px;">
-                        <span style="background: #2563eb; color: white; font-size: 10px; padding: 2px 6px; border-radius: 4px;">${art.source}</span>
-                        <h3 style="margin: 8px 0; font-size: 14px;">${art.title_fa || art.title}</h3>
-                        <p style="font-size: 11px; color: #475569;">${art.summary_fa || art.summary}</p>
-                        <p style="font-size: 10px; color: #94a3b8; text-align: left;">لینک: ${art.link}</p>
-                    </div>
-                `;
-            });
-
-            bulletinHTML += `</div>`;
+            const dateStr = getShamsiFormatted(new Date());
+            const selectedArticles = filteredArticles.slice(0, 30);
 
             if (type === 'pdf') {
+                let bulletinHTML = `
+                    <div style="font-family: Tahoma, sans-serif; direction: rtl; text-align: right; padding: 25px; background-color: #ffffff;">
+                        <div style="background-color: #1e3a8a; color: white; padding: 20px; text-align: center; border-radius: 10px; margin-bottom: 20px;">
+                            <h1 style="margin: 0; font-size: 20px; font-weight: bold;">بولتن جامع پایش هوشمند اخبار جهان‌نما AI</h1>
+                            <p style="margin: 8px 0 0 0; font-size: 11px; opacity: 0.9;">تاریخ تنظیم: ${dateStr} | تعداد اخبار گزینش شده: ${selectedArticles.length}</p>
+                        </div>
+                `;
+
+                selectedArticles.forEach((art, index) => {
+                    const imgSrc = art.image || "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80";
+                    bulletinHTML += `
+                        <div style="border: 1px solid #cbd5e1; border-radius: 8px; padding: 14px; margin-bottom: 15px; page-break-inside: avoid;">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <span style="background-color: #2563eb; color: white; font-size: 10px; padding: 3px 8px; border-radius: 4px; font-weight: bold;">${art.source || 'خبرگزاری'}</span>
+                                <span style="font-size: 10px; color: #64748b;">${art.published_at || ''}</span>
+                            </div>
+                            <h3 style="margin: 6px 0; font-size: 13px; color: #0f172a; font-weight: bold; line-height: 1.4;">${index + 1}. ${art.title_fa || art.title}</h3>
+                            <div style="text-align: center; margin: 10px 0;">
+                                <img src="${imgSrc}" style="max-width: 100%; height: 180px; object-fit: cover; border-radius: 6px;">
+                            </div>
+                            <p style="font-size: 11px; color: #334155; line-height: 1.6; text-align: justify; background-color: #f8fafc; padding: 10px; border-radius: 6px;">${art.summary_fa || art.summary || 'بدون خلاصه'}</p>
+                        </div>
+                    `;
+                });
+
+                bulletinHTML += `</div>`;
+
                 const element = document.createElement('div');
                 element.innerHTML = bulletinHTML;
-                html2pdf().from(element).set({ margin: 10, filename: `Bulletin_${dateStr}.pdf` }).save();
-            } else {
-                const blob = new Blob(['\ufeff' + bulletinHTML], { type: 'application/msword' });
-                const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Bulletin_${dateStr}.doc`; a.click();
+                html2pdf().from(element).set({
+                    margin: 10,
+                    filename: `WorldView_Bulletin_${new Date().toISOString().slice(0, 10)}.pdf`,
+                    html2canvas: { scale: 2, useCORS: true },
+                    jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+                }).save();
+
+            } else if (type === 'doc') {
+                let wordHTML = `
+                    <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+                    <head>
+                        <meta charset='utf-8'>
+                        <title>بولتن اخبار جهان‌نما</title>
+                        <style>
+                            body { font-family: 'Tahoma', sans-serif; direction: rtl; text-align: right; background-color: #ffffff; padding: 20px; }
+                            .header { background-color: #1e3a8a; color: #ffffff; padding: 20px; text-align: center; border-radius: 8px; }
+                            .header h1 { font-size: 20px; margin: 0; }
+                            .header p { font-size: 11px; margin-top: 5px; color: #dbeafe; }
+                            .card { border: 1px solid #cbd5e1; border-radius: 8px; padding: 15px; margin-top: 15px; }
+                            .badge { background-color: #2563eb; color: #ffffff; font-size: 10px; padding: 2px 6px; border-radius: 4px; font-weight: bold; }
+                            .title { font-size: 14px; font-weight: bold; color: #0f172a; margin: 10px 0; }
+                            .summary { font-size: 11px; color: #334155; line-height: 1.6; background-color: #f8fafc; padding: 10px; border-radius: 6px; }
+                            .footer { font-size: 10px; color: #64748b; margin-top: 8px; border-top: 1px solid #e2e8f0; padding-top: 5px; }
+                        </style>
+                    </head>
+                    <body>
+                        <div class="header">
+                            <h1>بولتن ویژه تحلیل و پایش اخبار جهان‌نما AI</h1>
+                            <p>تاریخ تنظیم: ${dateStr} | تعداد اخبار: ${selectedArticles.length}</p>
+                        </div>
+                `;
+
+                selectedArticles.forEach((art, idx) => {
+                    wordHTML += `
+                        <div class="card">
+                            <span class="badge">${art.source || 'خبرگزاری'} | ${art.category || 'عمومی'}</span>
+                            <div class="title">${idx + 1}. ${art.title_fa || art.title}</div>
+                            <div class="summary">${art.summary_fa || art.summary || 'بدون خلاصه'}</div>
+                            <div class="footer">
+                                <span>زمان انتشار: ${art.published_at || ''}</span> | 
+                                <span>لینک منبع: <a href="${art.link}">${art.link}</a></span>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                wordHTML += `</body></html>`;
+
+                const blob = new Blob(['\ufeff' + wordHTML], { type: 'application/msword;charset=utf-8' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `WorldView_Bulletin_${new Date().toISOString().slice(0, 10)}.doc`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
             }
         }
     </script>
