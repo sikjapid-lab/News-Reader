@@ -15,25 +15,19 @@ with open('rss_feeds.json', 'r', encoding='utf-8') as f:
 HF_SPACE_URL = os.environ.get('HF_SPACE_URL', 'https://api-inference.huggingface.co/models/Helsinki-NLP/opus-mt-en-fa')
 HF_API_TOKEN = os.environ.get('HF_API_TOKEN', '')
 
+from deep_translator import GoogleTranslator
+
 def translate_text(text):
-    """Translates English text to Persian using Hugging Face AI Model API or fallback"""
+    """ترجمه مستقیم و رایگان بدون نیاز به هاگینگ‌فیس"""
     if not text or len(text.strip()) == 0:
         return ""
-    
-    headers = {"Authorization": f"Bearer {HF_API_TOKEN}"} if HF_API_TOKEN else {}
-    payload = {"inputs": text[:1000]} # Limit snippet size
-    
     try:
-        response = requests.post(HF_SPACE_URL, headers=headers, json=payload, timeout=10)
-        if response.status_code == 200:
-            res = response.json()
-            if isinstance(res, list) and len(res) > 0 and 'translation_text' in res[0]:
-                return res[0]['translation_text']
+        # ترجمه انگلیسی به فارسی
+        translated = GoogleTranslator(source='auto', target='fa').translate(text[:4900])
+        return translated
     except Exception as e:
-        print(f"Translation API error: {e}")
-    
-    # Simple mockup / fallback if HF space offline
-    return f"[ترجمه هوشمند] {text[:300]}..."
+        print(f"Translation Error: {e}")
+        return f"[ترجمه] {text[:300]}..."
 
 def clean_html(raw_html):
     """Removes HTML tags from RSS summary"""
