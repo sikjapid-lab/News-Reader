@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-22 15:09:31",
-  "total_count": 513,
+  "last_update": "2026-07-22 16:46:35",
+  "total_count": 591,
   "articles": [
     {
       "id": "ee32a8a6298a60c27ae2352c0b093f73",
@@ -45,6 +45,174 @@
       }
     },
     {
+      "id": "c649bbdfb6d64f0f01be25deb00b55e8",
+      "title": "قوه قضائیه ایران نسبت به «نفوذین» هشدار داد و از اعدام‌های جدید خبر داد",
+      "title_fa": "قوه قضائیه ایران نسبت به «نفوذین» هشدار داد و از اعدام‌های جدید خبر داد",
+      "title_en": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+      "summary": "بسیاری از پرونده های مربوط به جرایم امنیتی با استفاده از قانونی که پس از جنگ 12 روزه سال گذشته با اسرائیل اعلام شد، پیگرد قانونی دارند.",
+      "summary_fa": "بسیاری از پرونده های مربوط به جرایم امنیتی با استفاده از قانونی که پس از جنگ 12 روزه سال گذشته با اسرائیل اعلام شد، پیگرد قانونی دارند.",
+      "summary_en": "Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 16:35:33 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "bd38e9488228ea5a6dbe76cc87706b51",
+      "title": "اعتراضات «عدالت برای لورنزو» جلسه شورای هیوستون را مختل کرد",
+      "title_fa": "اعتراضات «عدالت برای لورنزو» جلسه شورای هیوستون را مختل کرد",
+      "title_en": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+      "summary": "معترضان در جلسه شورای شهر هیوستون، تگزاس، روز سه شنبه پس از تیراندازی در یخ، فریاد زدند «عدالت برای لورنزو».",
+      "summary_fa": "معترضان در جلسه شورای شهر هیوستون، تگزاس، روز سه شنبه پس از تیراندازی در یخ، فریاد زدند «عدالت برای لورنزو».",
+      "summary_en": "Protesters shouted ‘Justice for Lorenzo’ at a Houston, Texas, city council meeting on Tuesday after an ICE shooting.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 16:34:24 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "16bb42adcf1690bf00bdf3f3ebe2139e",
+      "title": "آیا می توانید بازار را شکست دهید؟ شاید با این استراتژی.",
+      "title_fa": "آیا می توانید بازار را شکست دهید؟ شاید با این استراتژی.",
+      "title_en": "Can you beat the market? Maybe with this strategy.",
+      "summary": "این می تواند زمان مناسبی برای خرید یک صندوق حرکتی باشد",
+      "summary_fa": "این می تواند زمان مناسبی برای خرید یک صندوق حرکتی باشد",
+      "summary_en": "This could be the right time to buy a momentum fund",
+      "link": "https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 16:33:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-17622328",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "65418a08b60143af758ecc4217265d7c",
+      "title": "اگر می خواهید هزینه های مراقبت های بهداشتی خود را کاهش دهید، این استراتژی بازنشستگی ایده آل است",
+      "title_fa": "اگر می خواهید هزینه های مراقبت های بهداشتی خود را کاهش دهید، این استراتژی بازنشستگی ایده آل است",
+      "title_en": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+      "summary": "به علاوه، راه‌های بیشتری برای کاهش میزان پرداختی که از جیب خود برای مراقبت‌های پزشکی در دوران بازنشستگی می‌کنید.",
+      "summary_fa": "به علاوه، راه‌های بیشتری برای کاهش میزان پرداختی که از جیب خود برای مراقبت‌های پزشکی در دوران بازنشستگی می‌کنید.",
+      "summary_en": "Plus, more ways to lower how much you pay out of pocket for medical care in retirement.",
+      "link": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 16:31:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-10659605",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "27cc945e4c86a038357aa4b2d47fa5b0",
+      "title": "ممدانی از قول خود برای دستگیری نتانیاهو به دلیل فقدان اقتدار عقب نشینی کرد",
+      "title_fa": "ممدانی از قول خود برای دستگیری نتانیاهو به دلیل فقدان اقتدار عقب نشینی کرد",
+      "title_en": "Mamdani walks back pledge to arrest Netanyahu citing lack of authority",
+      "summary": "شهردار نیویورک در عوض از مقامات آمریکایی خواست تا به حکم بازداشت نخست وزیر اسرائیل از سوی دادگاه کیفری بین المللی عمل کنند.",
+      "summary_fa": "شهردار نیویورک در عوض از مقامات آمریکایی خواست تا به حکم بازداشت نخست وزیر اسرائیل از سوی دادگاه کیفری بین المللی عمل کنند.",
+      "summary_en": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 16:29:28 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f8/live/f3ffae50-85e9-11f1-8ade-a7a676c613b9.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "0b9bff4e7c8eb21516687511c3a156c0",
+      "title": "قیمت جهانی نفت پس از رسیدن به بشکه ای 95 دلار برای اولین بار در 6 هفته گذشته افزایش یافت زیرا امیدها برای کاهش تنش در ایران کاهش یافت.",
+      "title_fa": "قیمت جهانی نفت پس از رسیدن به بشکه ای 95 دلار برای اولین بار در 6 هفته گذشته افزایش یافت زیرا امیدها برای کاهش تنش در ایران کاهش یافت.",
+      "title_en": "Global oil prices hold gains after topping $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+      "summary": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و رئیس‌جمهور دونالد ترامپ هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران می‌کند، قیمت نفت پس از صعود به بالاترین سطح شش هفته اخیر خود در صبح چهارشنبه حفظ شد.",
+      "summary_fa": "پس از اینکه آمریکا برای یازدهمین شب متوالی به ایران حمله کرد و رئیس‌جمهور دونالد ترامپ هشدار داد که اگر تهران به کشتی‌ها در تنگه هرمز شلیک کند، ایالات متحده پل‌ها و نیروگاه‌های ایران را بمباران می‌کند، قیمت نفت پس از صعود به بالاترین سطح شش هفته اخیر خود در صبح چهارشنبه حفظ شد.",
+      "summary_en": "Oil prices were holding on to their gains after climbing to a six-week high on Wednesday morning after the U.S. struck Iran for the 11th night in a row and President Donald Trump warned that the U.S. will bomb Iranian bridges and power plants if Tehran shoots at ships in the Strait of Hormuz.",
+      "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 16:28:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-09944842",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c72cb104befef2b4f671e931c8db6826",
+      "title": "روبیو و دیپلمات چینی برای نشست سران ترامپ و شی در واشنگتن برنامه ریزی می کنند",
+      "title_fa": "روبیو و دیپلمات چینی برای نشست سران ترامپ و شی در واشنگتن برنامه ریزی می کنند",
+      "title_en": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+      "summary": "مارکو روبیو، وزیر امور خارجه، بخش اعظم دیدار با وزیر خارجه چین را صرف بحث در مورد این نشست کرد، اما ادعاهای پرزیدنت ترامپ مبنی بر دخالت چین در انتخابات را مطرح نکرد.",
+      "summary_fa": "مارکو روبیو، وزیر امور خارجه، بخش اعظم دیدار با وزیر خارجه چین را صرف بحث در مورد این نشست کرد، اما ادعاهای پرزیدنت ترامپ مبنی بر دخالت چین در انتخابات را مطرح نکرد.",
+      "summary_en": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
+      "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 16:23:06 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-rubio-china-qztf/22int-rubio-china-qztf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "99480457a1e47b030ed4c44f3fdefa2e",
+      "title": "بهترین قاب‌های Samsung Galaxy Z Fold 8 و Fold 8 Ultra 2026: کارشناسان توصیه می‌کنند",
+      "title_fa": "بهترین قاب‌های Samsung Galaxy Z Fold 8 و Fold 8 Ultra 2026: کارشناسان توصیه می‌کنند",
+      "title_en": "The best Samsung Galaxy Z Fold 8 and Fold 8 Ultra cases of 2026: Expert recommended",
+      "summary": "گوشی‌های جدید Galaxy Z Fold 8 سامسونگ اینجا هستند و ما بهترین قاب‌های گوشی را از برندهایی مانند Spigen، Dbrand و موارد دیگر برای محافظت از دستگاه جدیدتان پیدا کردیم.",
+      "summary_fa": "گوشی‌های جدید Galaxy Z Fold 8 سامسونگ اینجا هستند و ما بهترین قاب‌های گوشی را از برندهایی مانند Spigen، Dbrand و موارد دیگر برای محافظت از دستگاه جدیدتان پیدا کردیم.",
+      "summary_en": "Samsung's new Galaxy Z Fold 8 phones are here, and we found the best phone cases from brands like Spigen, Dbrand, and more to protect your new device.",
+      "link": "https://www.zdnet.com/article/best-samsung-galaxy-z-fold-8-cases/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 16:19:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bca7a3806484b0b01cc8f16ef88bc688",
       "title": "آفت‌کش‌های «فاجعه‌بار» که وزیر محیط‌زیست فرانسه را وادار به تلاش برای استعفا کرد، چیست؟",
       "title_fa": "آفت‌کش‌های «فاجعه‌بار» که وزیر محیط‌زیست فرانسه را وادار به تلاش برای استعفا کرد، چیست؟",
@@ -66,6 +234,27 @@
       }
     },
     {
+      "id": "a955a598510e3d9831e4e35af8725ad9",
+      "title": "بررسی Narwal Flow 2: جاروبرقی رباتی که در نهایت اجتناب از موانع را کامل کرد",
+      "title_fa": "بررسی Narwal Flow 2: جاروبرقی رباتی که در نهایت اجتناب از موانع را کامل کرد",
+      "title_en": "Narwal Flow 2 review: The robot vacuum that finally perfected obstacle avoidance",
+      "summary": "Narwal Flow 2 وعده می دهد که یکی از بهترین جاروبرقی های روباتی برای جلوگیری از موانع و تمیز کردن آنها باشد - و همینطور هم هست.",
+      "summary_fa": "Narwal Flow 2 وعده می دهد که یکی از بهترین جاروبرقی های روباتی برای جلوگیری از موانع و تمیز کردن آنها باشد - و همینطور هم هست.",
+      "summary_en": "The Narwal Flow 2 promises to be one of the best robot vacuum cleaners for obstacle avoidance and mopping - and it is.",
+      "link": "https://www.zdnet.com/article/narwal-flow-2-review-robot-vacuum-mop-combination-2026/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 16:15:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "cfb26d10035ce0d47abbee7f64879b89",
       "title": "آلودگی میکروپلاستیک دریایی: دانشمندان چگونه آن را تشخیص می دهند | گفتگوهای فنی یورونیوز",
       "title_fa": "آلودگی میکروپلاستیک دریایی: دانشمندان چگونه آن را تشخیص می دهند | گفتگوهای فنی یورونیوز",
@@ -79,6 +268,342 @@
       "date_iso": "2026-07-22",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bcd460405e0d33186dc9907a8f55c65b",
+      "title": "Galaxy Z Flip 8 یا Z Fold 8 جدید را در آمازون پیش خرید کنید و تا 350 دلار کارت هدیه رایگان دریافت کنید.",
+      "title_fa": "Galaxy Z Flip 8 یا Z Fold 8 جدید را در آمازون پیش خرید کنید و تا 350 دلار کارت هدیه رایگان دریافت کنید.",
+      "title_en": "Preorder the new Galaxy Z Flip 8 or Z Fold 8 at Amazon and get up to a $350 gift card, free",
+      "summary": "اپراتورهای تلفن همراه تنها کسانی نیستند که برای سری جدید گوشی های گلکسی سامسونگ پیشنهاداتی ارائه می دهند. در آمازون پیش خرید کنید و یک کارت هدیه دیجیتال رایگان دریافت کنید.",
+      "summary_fa": "اپراتورهای تلفن همراه تنها کسانی نیستند که برای سری جدید گوشی های گلکسی سامسونگ پیشنهاداتی ارائه می دهند. در آمازون پیش خرید کنید و یک کارت هدیه دیجیتال رایگان دریافت کنید.",
+      "summary_en": "Mobile carriers aren't the only ones offering deals on Samsung's new Galaxy phone lineup. Preorder at Amazon and get a free digital gift card.",
+      "link": "https://www.zdnet.com/article/amazon-galaxy-z-flip-8-deal/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 16:05:51 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "059a87de2d3154ef63c3bcc402a2aa76",
+      "title": "3 روشی که سامسونگ عمیقاً هوش مصنوعی Gemini را در دستگاه های جدید گلکسی خود ادغام می کند",
+      "title_fa": "3 روشی که سامسونگ عمیقاً هوش مصنوعی Gemini را در دستگاه های جدید گلکسی خود ادغام می کند",
+      "title_en": "3 ways Samsung deeply integrates Gemini AI into its new Galaxy devices",
+      "summary": "Samsung Unpacked به همان اندازه که در مورد نرم افزار بود به همان اندازه که سخت افزار بود.",
+      "summary_fa": "Samsung Unpacked به همان اندازه که در مورد نرم افزار بود به همان اندازه که سخت افزار بود.",
+      "summary_en": "Samsung Unpacked was as much about software as it was hardware.",
+      "link": "https://www.zdnet.com/article/samsung-unpacked-gemini-ai-google-intelligence-integration/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 16:01:36 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8eafc42c738d21e6e1dc9665c0dc6d67",
+      "title": "لایحه کریپتو سنا مقامات فدرال - از جمله روسای جمهور - را از صدور دارایی های دیجیتال منع می کند",
+      "title_fa": "لایحه کریپتو سنا مقامات فدرال - از جمله روسای جمهور - را از صدور دارایی های دیجیتال منع می کند",
+      "title_en": "Senate crypto bill would ban federal officials — including presidents — from issuing digital assets",
+      "summary": "نسخه جدید قانون شفافیت اولین محدودیت ها را برای مقامات فدرال که حامی مالی یا انتشار ارزهای دیجیتال هستند، اعمال می کند.",
+      "summary_fa": "نسخه جدید قانون شفافیت اولین محدودیت ها را برای مقامات فدرال که حامی مالی یا انتشار ارزهای دیجیتال هستند، اعمال می کند.",
+      "summary_en": "A new version of the Clarity Act would impose the first limits on federal officials sponsoring or issuing cryptocurrency.",
+      "link": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 16:00:02 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2f860b6638f20d39f06bb94fa91bbde1",
+      "title": "من و شوهر دومم فرزندانی از روابط قبلی داریم. اگر من اول بمیرم خانه من باید به او برود یا فرزندانم؟",
+      "title_fa": "من و شوهر دومم فرزندانی از روابط قبلی داریم. اگر من اول بمیرم خانه من باید به او برود یا فرزندانم؟",
+      "title_en": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "summary": "ما در خانه‌ای زندگی می‌کنیم که با پولی که قبل از ازدواج داشتم آن را خریدم.»",
+      "summary_fa": "ما در خانه‌ای زندگی می‌کنیم که با پولی که قبل از ازدواج داشتم آن را خریدم.»",
+      "summary_en": "“We live in a house that I purchased entirely with money I had before we were married.”",
+      "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 16:00:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-91798426",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93927a9633be1704e6366634c17277eb",
+      "title": "به دلیل حمایت عمومی از ممنوعیت، محدودیت معاملات سهام کنگره به دلیل جلب رأی مجلس نمایندگان",
+      "title_fa": "به دلیل حمایت عمومی از ممنوعیت، محدودیت معاملات سهام کنگره به دلیل جلب رأی مجلس نمایندگان",
+      "title_en": "Congressional stock trading curb due to get House vote amid public support for a ban",
+      "summary": "مجلس نمایندگان قرار است روز چهارشنبه در مورد لایحه ای رای گیری کند که اعضای کنگره را از خرید سهام اضافی در زمان تصدی منع می کند.",
+      "summary_fa": "مجلس نمایندگان قرار است روز چهارشنبه در مورد لایحه ای رای گیری کند که اعضای کنگره را از خرید سهام اضافی در زمان تصدی منع می کند.",
+      "summary_en": "The House is scheduled to vote on Wednesday on a bill that would bar members of Congress from purchasing additional stocks while in office.",
+      "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 15:59:33 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7b05920ed8a5fc433726cb904454376d",
+      "title": "پلیس فرانسه به طور رسمی از یک زن در مورد قتل بریتانیایی در سال 2025 تحقیق می کند",
+      "title_fa": "پلیس فرانسه به طور رسمی از یک زن در مورد قتل بریتانیایی در سال 2025 تحقیق می کند",
+      "title_en": "French police formally investigate woman over 2025 killing of Briton",
+      "summary": "کارن کارتر با جراحات چاقو در دهکده دوردونی که بیش از یک دهه در آن زندگی می کرد پیدا شد.",
+      "summary_fa": "کارن کارتر با جراحات چاقو در دهکده دوردونی که بیش از یک دهه در آن زندگی می کرد پیدا شد.",
+      "summary_en": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
+      "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 15:59:03 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35aa/live/922bad20-26d9-11f0-85de-91766b10dcb6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34abe8d37b57552f47992dfbdd18d3f5",
+      "title": "نام نوشیدنی زیر رادار توجه معامله گران را به خود جلب می کند",
+      "title_fa": "نام نوشیدنی زیر رادار توجه معامله گران را به خود جلب می کند",
+      "title_en": "Under-the-radar beverage name captures trader's attention",
+      "summary": "Michael Khouw نحوه معامله این سهام را قبل از درآمد توضیح می دهد.",
+      "summary_fa": "Michael Khouw نحوه معامله این سهام را قبل از درآمد توضیح می دهد.",
+      "summary_en": "Michael Khouw breaks down how he's trading this stock ahead of earnings.",
+      "link": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 15:55:40 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e18c9afdd4db2be652de2cfb050b6bcc",
+      "title": "مدل‌های سایبری OpenAI از محیط آموزشی برای هک Hugging Face خارج شدند",
+      "title_fa": "مدل‌های سایبری OpenAI از محیط آموزشی برای هک Hugging Face خارج شدند",
+      "title_en": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "summary": "به گفته Hugging Face، این حادثه منحصربه‌فرد است، زیرا به‌وسیله یک سیستم عامل خودکار هوش مصنوعی هدایت شده است.",
+      "summary_fa": "به گفته Hugging Face، این حادثه منحصربه‌فرد است، زیرا به‌وسیله یک سیستم عامل خودکار هوش مصنوعی هدایت شده است.",
+      "summary_en": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+      "link": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 15:54:48 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d8fd3306718280c277ad68f349879e22",
+      "title": "جنگ علیه ایران: هگزت ۷۰ میلیارد دلار بیشتر برای ادامه جنگ می‌خواهد",
+      "title_fa": "جنگ علیه ایران: هگزت ۷۰ میلیارد دلار بیشتر برای ادامه جنگ می‌خواهد",
+      "title_en": "War on Iran: Hegseth wants $70B more to keep fighting",
+      "summary": "ایران در شب یازدهم حملات آمریکا سامانه‌های پدافند هوایی را در سراسر تهران فعال کرد.",
+      "summary_fa": "ایران در شب یازدهم حملات آمریکا سامانه‌های پدافند هوایی را در سراسر تهران فعال کرد.",
+      "summary_en": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:52:54 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0611907c088f403a52fd5efadb0d5554",
+      "title": "بقایای هواپیمای پان ام که امنیت هوانوردی را شکل داد، 74 سال بعد پیدا شد",
+      "title_fa": "بقایای هواپیمای پان ام که امنیت هوانوردی را شکل داد، 74 سال بعد پیدا شد",
+      "title_en": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+      "summary": "مرگ 52 نفر در Clipper Endeavor منجر به ارائه جلسات توجیهی ایمنی اجباری قبل از پرواز شد.",
+      "summary_fa": "مرگ 52 نفر در Clipper Endeavor منجر به ارائه جلسات توجیهی ایمنی اجباری قبل از پرواز شد.",
+      "summary_en": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 15:50:17 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54fb/live/2c63c4e0-85ca-11f1-926f-c90d1bcfbc84.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7186d101300d75eebc750d3d5c4628cf",
+      "title": "کوین وارش سه عبارت کلیدی را مطرح کرده است. چگونه ناظران فدرال رزرو آنها را تفسیر می کنند",
+      "title_fa": "کوین وارش سه عبارت کلیدی را مطرح کرده است. چگونه ناظران فدرال رزرو آنها را تفسیر می کنند",
+      "title_en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+      "summary": "وارش در پنج حضور عمومی، 13 بار از عبارت \"دعوای خانوادگی\" استفاده کرده است، 11 بار به \"اصول اول\" بازگشته و 6 بار \"تورم یک انتخاب است\" برای فدرال رزرو.",
+      "summary_fa": "وارش در پنج حضور عمومی، 13 بار از عبارت \"دعوای خانوادگی\" استفاده کرده است، 11 بار به \"اصول اول\" بازگشته و 6 بار \"تورم یک انتخاب است\" برای فدرال رزرو.",
+      "summary_en": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+      "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 15:49:56 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72346e45d9fa1eec17078249e594b2ae",
+      "title": "رئیس جدید ارتش اوکراین قول داد همزمان با تلاش اتحادیه اروپا برای نهایی کردن تحریم‌های جدید روسیه، حملات متقابل را افزایش دهد - همانطور که اتفاق افتاد",
+      "title_fa": "رئیس جدید ارتش اوکراین قول داد همزمان با تلاش اتحادیه اروپا برای نهایی کردن تحریم‌های جدید روسیه، حملات متقابل را افزایش دهد - همانطور که اتفاق افتاد",
+      "title_en": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – as it happened",
+      "summary": "مذاکرات بروکسل بین دیپلمات‌های ارشد اکنون در تلاش برای امضای بسته بیست و یکم تحریم‌ها، پس از تلاش‌های ناموفق قبلی، در جریان است. رویترز گزارش داد، کمیسیون اروپا به انتقاد شدید از اوکراین، در حالی که کمیسیون اروپا به انتقاد شدید از اقدام دولت ایتالیا انتقاد کرد، دوسالانه ونیز گفت تصمیم اتحادیه اروپا برای پس گرفتن کمک مالی 2 میلیون یورویی در پاسخ به بازگشت روسیه به نسخه 2026 را به چالش می‌کشد. در صورت بازگشت پاویون روسیه، بودجه را تعلیق یا خاتمه دهید. ادامه مطلب...",
+      "summary_fa": "مذاکرات بروکسل بین دیپلمات‌های ارشد اکنون در تلاش برای امضای بسته بیست و یکم تحریم‌ها، پس از تلاش‌های ناموفق قبلی، در جریان است. رویترز گزارش داد، کمیسیون اروپا به انتقاد شدید از اوکراین، در حالی که کمیسیون اروپا به انتقاد شدید از اقدام دولت ایتالیا انتقاد کرد، دوسالانه ونیز گفت تصمیم اتحادیه اروپا برای پس گرفتن کمک مالی 2 میلیون یورویی در پاسخ به بازگشت روسیه به نسخه 2026 را به چالش می‌کشد. در صورت بازگشت پاویون روسیه، بودجه را تعلیق یا خاتمه دهید. ادامه مطلب...",
+      "summary_en": "Brussels talks between senior diplomats now underway in attempt to sign off 21st package of sanctions, after previous failed attempts The Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠million grant in response to the return of Russia to its 2026 edition, despite continuing aggression on Ukraine, Reuters reported.The Italian government sharply criticised the move, while the European Commission warned it ​would suspend or terminate funding if the Russian ‌pavilion returned. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:49:20 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0e0bf1ee00941b59db4cf04af99d4d2f93ae08d6/0_0_3458_2765/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=e1c86f016c6e525c6ce7892aa10f1ae9",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "3aa4a10bd8f8ea237aa96ed0124939b5",
+      "title": "بررسی قوانین مالکیت خطوط هوایی اتحادیه اروپا پیشنهاد 5.7 میلیارد پوندی ایزی جت آپولو را مختل می کند",
+      "title_fa": "بررسی قوانین مالکیت خطوط هوایی اتحادیه اروپا پیشنهاد 5.7 میلیارد پوندی ایزی جت آپولو را مختل می کند",
+      "title_en": "EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid",
+      "summary": "با حرکت بروکسل، سهام شرکت‌های حامل ارزان‌قیمت بریتانیا سقوط کرد",
+      "summary_fa": "با حرکت بروکسل، سهام شرکت‌های حامل ارزان‌قیمت بریتانیا سقوط کرد",
+      "summary_en": "Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover",
+      "link": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 15:48:01 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d1176c4-e682-4ff9-a766-53c0da249c54.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "db5ff253c54e52b25b8c9790548c116c",
+      "title": "توافقنامه انرژی هسته ای پیشنهادی آمریکا و عربستان: آنچه تاکنون می دانیم",
+      "title_fa": "توافقنامه انرژی هسته ای پیشنهادی آمریکا و عربستان: آنچه تاکنون می دانیم",
+      "title_en": "Proposed US-Saudi nuclear energy deal: What we know so far",
+      "summary": "گزارش ها حاکی از آن است که دولت ترامپ از پیمانی با عربستان سعودی که به این کشور اجازه غنی سازی اورانیوم را می دهد، حمایت می کند.",
+      "summary_fa": "گزارش ها حاکی از آن است که دولت ترامپ از پیمانی با عربستان سعودی که به این کشور اجازه غنی سازی اورانیوم را می دهد، حمایت می کند.",
+      "summary_en": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:46:56 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dbfe43f12580adfdff4353b30fdb5818",
+      "title": "ردیاب تورم مورد علاقه فدرال رزرو در حال تغییر است - درست همانطور که بانک مرکزی افزایش نرخ بهره را ارزیابی می کند. چه خبر است؟",
+      "title_fa": "ردیاب تورم مورد علاقه فدرال رزرو در حال تغییر است - درست همانطور که بانک مرکزی افزایش نرخ بهره را ارزیابی می کند. چه خبر است؟",
+      "title_en": "Fed’s favorite inflation tracker is getting an overhaul — just as the central bank weighs interest-rate hikes. What’s going on?",
+      "summary": "ردیاب تورمی که بیشترین تأثیر را بر اقدامات فدرال رزرو می گذارد، درست همانطور که یک بانک مرکزی تقسیم شده تصمیم می گیرد که آیا نرخ بهره آمریکا را در پاییز امسال افزایش دهد یا خیر، تغییر می کند.",
+      "summary_fa": "ردیاب تورمی که بیشترین تأثیر را بر اقدامات فدرال رزرو می گذارد، درست همانطور که یک بانک مرکزی تقسیم شده تصمیم می گیرد که آیا نرخ بهره آمریکا را در پاییز امسال افزایش دهد یا خیر، تغییر می کند.",
+      "summary_en": "The inflation tracker that exerts the biggest influence on the actions of the Federal Reserve is getting a makeover just as a divided central bank weighs whether to raise U.S. interest rates this fall.",
+      "link": "https://www.marketwatch.com/story/feds-favorite-inflation-tracker-is-getting-an-overhaul-just-as-the-central-bank-weighs-interest-rate-hikes-whats-going-on-3ecb3a1c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 15:44:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-57751057",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e61f4b598583a67f8ed5314dfff822b1",
+      "title": "چرا میلیاردرها ثروتمندتر از همیشه می شوند؟",
+      "title_fa": "چرا میلیاردرها ثروتمندتر از همیشه می شوند؟",
+      "title_en": "Why are billionaires growing richer than ever?",
+      "summary": "میلیاردرها در حال افزایش هستند زیرا بقیه با نابرابری، فقر و بحران هزینه زندگی دست و پنجه نرم می کنند.",
+      "summary_fa": "میلیاردرها در حال افزایش هستند زیرا بقیه با نابرابری، فقر و بحران هزینه زندگی دست و پنجه نرم می کنند.",
+      "summary_en": "Billionaires are on the rise as the rest struggle with inequality, poverty and cost of living crisis.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/22/why-are-billionaires-growing-richer-than-ever?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:38:26 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -126,6 +651,216 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6b530ba1b900045ac87f47c9902ffa42",
+      "title": "از شهرها تا مناطق: چرا اسراییل به مناطق غیرنظامی اسامی نظامی می دهد؟",
+      "title_fa": "از شهرها تا مناطق: چرا اسراییل به مناطق غیرنظامی اسامی نظامی می دهد؟",
+      "title_en": "From towns to zones: Why Israel gives military names to civilian areas",
+      "summary": "مقامات اسرائیلی به طور فزاینده ای از اصطلاحات امنیتی برای مناطق مسکونی که مردم در آن زندگی می کنند استفاده می کنند.",
+      "summary_fa": "مقامات اسرائیلی به طور فزاینده ای از اصطلاحات امنیتی برای مناطق مسکونی که مردم در آن زندگی می کنند استفاده می کنند.",
+      "summary_en": "Israeli authorities are increasingly applying security terminology for residential areas where people live.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/from-towns-to-zones-why-israel-gives-military-names-to-civilian-areas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:36:51 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "04617754f223e37bc3aff35ecb8c0724",
+      "title": "فرانسه بیش از 5700 مرگ و میر بیش از حد در طول موج گرمای ماه ژوئن ثبت کرد",
+      "title_fa": "فرانسه بیش از 5700 مرگ و میر بیش از حد در طول موج گرمای ماه ژوئن ثبت کرد",
+      "title_en": "France recorded more than 5,700 excess deaths during June heatwave",
+      "summary": "این ارقام در حالی منتشر می‌شوند که بخش‌های بزرگی از جنوب اروپا در یک دوره رکوردشکنی دیگر از دماهای شدید متحمل شده‌اند، مقامات اعلام کرده‌اند که فرانسه بیش از 5700 مورد مرگ و میر بیش از حد در طول موج گرمای ماه ژوئن خود ثبت کرده است، زیرا بخش‌هایی از جنوب اروپا همچنان یک دوره رکوردشکنی دیگر از دمای شدید را تحمل می‌کند. ژوئیه، نرخ مرگ و میر بیش از 36٪. ادامه مطلب...",
+      "summary_fa": "این ارقام در حالی منتشر می‌شوند که بخش‌های بزرگی از جنوب اروپا در یک دوره رکوردشکنی دیگر از دماهای شدید متحمل شده‌اند، مقامات اعلام کرده‌اند که فرانسه بیش از 5700 مورد مرگ و میر بیش از حد در طول موج گرمای ماه ژوئن خود ثبت کرده است، زیرا بخش‌هایی از جنوب اروپا همچنان یک دوره رکوردشکنی دیگر از دمای شدید را تحمل می‌کند. ژوئیه، نرخ مرگ و میر بیش از 36٪. ادامه مطلب...",
+      "summary_en": "Figures come as large parts of southern Europe endure another record-breaking period of extreme temperaturesFrance recorded more than 5,700 excess deaths during its June heatwave, authorities have said, as swathes of southern Europe continue to endure another record-breaking period of extreme temperatures.The French national health agency said on Wednesday that it had recorded 5,764 excess deaths ⁠between ​17 June and 2 July, an excess mortality rate of 36%. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:34:27 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/28421f9523a46ca8ec9bd52aa258f40dcc8d49b3/75_0_4791_3833/master/4791.jpg?width=140&quality=85&auto=format&fit=max&s=45a7e82c1bb606dc10c451919474c65d",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a4c2ddb0be17be56fc404ad3cba42357",
+      "title": "من می خواهم 17000 دلار بدهی کارت اعتباری را منتقل کنم. چرا ولز فارگو فقط یک محدودیت اعتباری 4000 دلاری به من پیشنهاد داد؟",
+      "title_fa": "من می خواهم 17000 دلار بدهی کارت اعتباری را منتقل کنم. چرا ولز فارگو فقط یک محدودیت اعتباری 4000 دلاری به من پیشنهاد داد؟",
+      "title_en": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "summary": "من پرسیدم چرا این حد کم است، اما آنها نتوانستند توضیحی به من بدهند.",
+      "summary_fa": "من پرسیدم چرا این حد کم است، اما آنها نتوانستند توضیحی به من بدهند.",
+      "summary_en": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
+      "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 22 Jul 2026 15:31:00 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-55216973",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55bde651a224f1f4f86466a496da5d03",
+      "title": "ایلان و غزه دیگر",
+      "title_fa": "ایلان و غزه دیگر",
+      "title_en": "Elon and the Other Gaza",
+      "summary": "چگونه ثروتمندترین مرد جهان به بحران HIV در یکی از فقیرترین کشورهای جهان کمک کرد.",
+      "summary_fa": "چگونه ثروتمندترین مرد جهان به بحران HIV در یکی از فقیرترین کشورهای جهان کمک کرد.",
+      "summary_en": "How the world's richest man helped trigger an HIV crisis in one of the world's poorest countries.",
+      "link": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:30:00 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "14c7d3640d9f941424dcb4d43837635b",
+      "title": "ترامپ به دلیل حمله به کشتی‌ها، پل‌ها و نیروگاه‌های ایران را به بمباران تهدید کرد",
+      "title_fa": "ترامپ به دلیل حمله به کشتی‌ها، پل‌ها و نیروگاه‌های ایران را به بمباران تهدید کرد",
+      "title_en": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
+      "summary": "یک مقام ایرانی می‌گوید که تهران با هدف قرار دادن «تاسیسات انرژی که منافع ایالات متحده در آن‌ها دارد» تلافی خواهد کرد.",
+      "summary_fa": "یک مقام ایرانی می‌گوید که تهران با هدف قرار دادن «تاسیسات انرژی که منافع ایالات متحده در آن‌ها دارد» تلافی خواهد کرد.",
+      "summary_en": "Iranian official says Tehran would retaliate by targeting 'energy facilities in which the United States has interests'.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:24:13 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "a2f47d3b86414ff8bd875e85d543068a",
+      "title": "رقابت مراکش و الجزایر در حال تغییر سیاست اروپا در شمال آفریقا است",
+      "title_fa": "رقابت مراکش و الجزایر در حال تغییر سیاست اروپا در شمال آفریقا است",
+      "title_en": "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
+      "summary": "از آنجایی که رباط و الجزایر برای نفوذ در رقابت هستند، روابط نزدیکتر با یکی در حال حاضر پیامدهایی برای روابط با دیگری دارد.",
+      "summary_fa": "از آنجایی که رباط و الجزایر برای نفوذ در رقابت هستند، روابط نزدیکتر با یکی در حال حاضر پیامدهایی برای روابط با دیگری دارد.",
+      "summary_en": "As Rabat and Algiers compete for influence, closer ties with one now carry consequences for relations with the other.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/22/the-morocco-algeria-rivalry-is-remaking-europes-north-africa-policy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:23:56 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d1453a4eb3962e7490538f90d518ac19",
+      "title": "میخایلو دراپاتی، فرمانده کل جدید اوکراین کیست؟",
+      "title_fa": "میخایلو دراپاتی، فرمانده کل جدید اوکراین کیست؟",
+      "title_en": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "summary": "دراپاتی سومین فرمانده کل اوکراین از زمان تهاجم گسترده روسیه در فوریه 2022 است.",
+      "summary_fa": "دراپاتی سومین فرمانده کل اوکراین از زمان تهاجم گسترده روسیه در فوریه 2022 است.",
+      "summary_en": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+      "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 15:19:48 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116e/live/d8585fa0-85d3-11f1-b976-0b9c15b0ccfc.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "2513f384c9b9e45227aea21de41429bc",
+      "title": "\"هوش مصنوعی باد بزرگی برای شرکت های نرم افزاری است\": 5 نکته برای انطباق با مدل جدید \"SaS\"",
+      "title_fa": "\"هوش مصنوعی باد بزرگی برای شرکت های نرم افزاری است\": 5 نکته برای انطباق با مدل جدید \"SaS\"",
+      "title_en": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+      "summary": "این چیزی است که مردم در مورد به اصطلاح آخرالزمان SaaS اشتباه می کنند.",
+      "summary_fa": "این چیزی است که مردم در مورد به اصطلاح آخرالزمان SaaS اشتباه می کنند.",
+      "summary_en": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+      "link": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+      "source": "ZDNet",
+      "published_at": "Wed, 22 Jul 2026 15:18:20 GMT",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca33cadc946946bfad8b3ed544d847e0",
+      "title": "شرکای کلیفورد چنس علیرغم کاهش رشد ایالات متحده، 2.3 میلیون پوند پرداخت کردند",
+      "title_fa": "شرکای کلیفورد چنس علیرغم کاهش رشد ایالات متحده، 2.3 میلیون پوند پرداخت کردند",
+      "title_en": "Clifford Chance partners paid record £2.3mn despite US slowdown",
+      "summary": "IPOهای آسیایی با گسترش حضور شرکت \"دایره جادویی\" در وال استریت منجر به رشد درآمد می شوند",
+      "summary_fa": "IPOهای آسیایی با گسترش حضور شرکت \"دایره جادویی\" در وال استریت منجر به رشد درآمد می شوند",
+      "summary_en": "Asian IPOs lead revenue growth as ‘magic circle’ firm expands Wall Street presence",
+      "link": "https://www.ft.com/content/7ee4dffb-3393-45f4-ab7a-2c86a3ba2eea?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 15:15:04 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24532529-9b68-4b25-b67e-deacc0e2a33e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "02f14f88cfe2e830ea32052f3cbae968",
+      "title": "مرد استخدام‌کننده مدل فرانسوی با روابط نزدیک با جفری اپستین پیدا شد",
+      "title_fa": "مرد استخدام‌کننده مدل فرانسوی با روابط نزدیک با جفری اپستین پیدا شد",
+      "title_en": "French model recruiter with close ties to Jeffrey Epstein found dead",
+      "summary": "دانیل سیاد تحت بازجویی در فرانسه متهم به کمک به اپشتاین در قاچاق و آزار زنان شده است.",
+      "summary_fa": "دانیل سیاد تحت بازجویی در فرانسه متهم به کمک به اپشتاین در قاچاق و آزار زنان شده است.",
+      "summary_en": "Under investigation in France, Daniel Siad was accused of helping Epstein to traffic and abuse women.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/french-model-recruiter-with-close-ties-to-jeffrey-epstein-found-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 15:12:32 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
       }
     },
     {
@@ -189,6 +924,111 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4f9a6a26a4954d4843cbc4ea1f3f66e0",
+      "title": "تست AusAlert در روز دوشنبه آژیر هشدار اضطراری را روی اکثر تلفن‌های استرالیا به صدا در می‌آورد. در اینجا چیزی است که باید بدانید",
+      "title_fa": "تست AusAlert در روز دوشنبه آژیر هشدار اضطراری را روی اکثر تلفن‌های استرالیا به صدا در می‌آورد. در اینجا چیزی است که باید بدانید",
+      "title_en": "AusAlert test will blast emergency warning siren over most phones in Australia on Monday. Here’s what to know",
+      "summary": "هشدار تست اضطراری ملی در 27 ژوئیه به همه دستگاه‌های تلفن همراه ارسال می‌شود، و حامیان خشونت خانگی توصیه می‌کنند چگونه تلفن‌های ایمن را خاموش کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید تقریباً همه تلفن‌های این کشور در ساعت 2 بعدازظهر AEST روز دوشنبه 27 ژوئیه، به عنوان بخشی از اولین آزمایش سراسری استرالیا از یک سیستم هشدار ملی هوشمند جدید Australia به نام تلفن‌های هوشمند و اخطار ملی جدید Australia. تبلت‌ها، یک اعلان پاپ آپ و یک صدای هشدار دریافت می‌کنند که نمی‌توان آن را خاموش کرد - حتی اگر دستگاه شما در حالت \"مزاحم نشوید\" یا حالت بی‌صدا باشد. ادامه مطلب...",
+      "summary_fa": "هشدار تست اضطراری ملی در 27 ژوئیه به همه دستگاه‌های تلفن همراه ارسال می‌شود، و حامیان خشونت خانگی توصیه می‌کنند چگونه تلفن‌های ایمن را خاموش کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید تقریباً همه تلفن‌های این کشور در ساعت 2 بعدازظهر AEST روز دوشنبه 27 ژوئیه، به عنوان بخشی از اولین آزمایش سراسری استرالیا از یک سیستم هشدار ملی هوشمند جدید Australia به نام تلفن‌های هوشمند و اخطار ملی جدید Australia. تبلت‌ها، یک اعلان پاپ آپ و یک صدای هشدار دریافت می‌کنند که نمی‌توان آن را خاموش کرد - حتی اگر دستگاه شما در حالت \"مزاحم نشوید\" یا حالت بی‌صدا باشد. ادامه مطلب...",
+      "summary_en": "National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phonesGet our breaking news email, free app or daily news podcastVirtually every phone in the country will blare an emergency siren at 2pm AEST on Monday 27 July, as part of the first Australia-wide test of a new national warning system called AusAlert.Most phones, and some smartwatches and tablets, will receive a pop-up notification and an alert sound that cannot be silenced – even if your device is on “do not disturb” or silent mode. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:00:20 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4311c69f268807a7d4eaba587f3f622fe2d269fd/1110_6_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=5863930652e8b1d36537ccfd17132989",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "a527ca78818215bcf949e5e69dd24e7c",
+      "title": "اگر ماهواره‌ها از کار بیفتند، خدمات اضطراری استرالیا چگونه کنار می‌آیند؟ با سکسانت و دایرکتوری خیابان",
+      "title_fa": "اگر ماهواره‌ها از کار بیفتند، خدمات اضطراری استرالیا چگونه کنار می‌آیند؟ با سکسانت و دایرکتوری خیابان",
+      "title_en": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
+      "summary": "به پرسنل نظامی و SES که فنون ناوبری و ارتباطات آنالوگ آموزش داده می‌شوند، زیرا کارشناسان هشدار می‌دهند که شعله‌های خورشیدی می‌تواند «زیرساخت‌های فضایی حیاتی» را از بین ببرد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. از انجمن فضایی استرالیا در آدلاید در روز چهارشنبه خواسته شد تا بررسی کند که \"اگر ناگهان دسترسی به زیرساخت‌های فضایی حیاتی را از دست بدهیم - بدون ماهواره، بدون GPS، بدون سنجش از راه دور، بدون ارتباطات امن؟\" ادامه مطلب...",
+      "summary_fa": "به پرسنل نظامی و SES که فنون ناوبری و ارتباطات آنالوگ آموزش داده می‌شوند، زیرا کارشناسان هشدار می‌دهند که شعله‌های خورشیدی می‌تواند «زیرساخت‌های فضایی حیاتی» را از بین ببرد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. از انجمن فضایی استرالیا در آدلاید در روز چهارشنبه خواسته شد تا بررسی کند که \"اگر ناگهان دسترسی به زیرساخت‌های فضایی حیاتی را از دست بدهیم - بدون ماهواره، بدون GPS، بدون سنجش از راه دور، بدون ارتباطات امن؟\" ادامه مطلب...",
+      "summary_en": "Military and SES personnel being taught analog communication and navigation techniques as experts warn solar flare could knock out ‘critical space infrastructure’Get our breaking news email, free app or daily news podcastAustralia’s emergency services and military personnel are being trained to read paper maps, navigate without GPS support, and sail by the stars in case something knocks out the nation’s space capabilities.A panel at the 19th Australian space forum in Adelaide on Wednesday was asked to consider what would happen “if we suddenly lost access to critical space infrastructure – no satellites, no GPS, no remote sensing, no secure communications?” Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:00:19 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b390015749ee4e662f058c0b5481dc4635e825a7/588_0_3217_2574/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=a1307f7d80efc2ebad5347e4e7c66e39",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "333e71ed36ecdce8adb548c25d8d388b",
+      "title": "چرا OpenAI و Anthropic قوانین را در استرالیا تشویق می کنند؟ پاسخ در سطح جهانی است",
+      "title_fa": "چرا OpenAI و Anthropic قوانین را در استرالیا تشویق می کنند؟ پاسخ در سطح جهانی است",
+      "title_en": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
+      "summary": "این شرکت‌ها امیدوارند راه‌های SpaceX را دنبال کنند که 86 میلیارد دلار جمع‌آوری کرد و پس از فهرست شدن در بازارهای عمومی در ژوئن به ارزش 2.1 تریلیون دلار رسید. ممکن است غیرقابل تصور به نظر برسد، اما بازی بسیار گسترده‌تری نسبت به آنچه در یک بازار نسبتاً کوچک اتفاق می‌افتد، وجود دارد. ادامه مطلب...",
+      "summary_fa": "این شرکت‌ها امیدوارند راه‌های SpaceX را دنبال کنند که 86 میلیارد دلار جمع‌آوری کرد و پس از فهرست شدن در بازارهای عمومی در ژوئن به ارزش 2.1 تریلیون دلار رسید. ممکن است غیرقابل تصور به نظر برسد، اما بازی بسیار گسترده‌تری نسبت به آنچه در یک بازار نسبتاً کوچک اتفاق می‌افتد، وجود دارد. ادامه مطلب...",
+      "summary_en": "The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in JuneGet our breaking news email, free app or daily news podcastTop US AI developers Anthropic and OpenAI cheered when Australia announced it would set new AI rules.Big tech celebrating limits on their Silicon Valley VC-funded free-for-all might seem counterintuitive but there’s a much broader play than just what happens in one relatively small market. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:00:19 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=465b0af4ff4e84107bd7c769e3028b48",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afbf85ccdb5f3f2266e6b77070faf4bd",
+      "title": "با کشف 500 گونه باکتریایی که قبلاً برای علم ناشناخته بودند، میکروبیوم سد بزرگ مرجانی نقشه برداری شد.",
+      "title_fa": "با کشف 500 گونه باکتریایی که قبلاً برای علم ناشناخته بودند، میکروبیوم سد بزرگ مرجانی نقشه برداری شد.",
+      "title_en": "Great Barrier Reef microbiome mapped as researchers discover 500 bacterial species previously unknown to science",
+      "summary": "تحقیقات 808585 ژنوم ویروسی متعلق به آنچه دانشمندان تخمین می زنند 362802 ویروس مختلف را شناسایی می کند دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه بیش از یک دهه پس از نقشه برداری جامع میکروبیوم انسان، دانشمندان اکنون جوامع وسیعی از میکروب ها را شناسایی کرده اند که نمونه های بیشتری از میکروب ها را تشکیل می دهند. در صخره‌ها، محققان میکروبیوم دیواره مرجانی بزرگ را ترسیم کرده‌اند و بیش از 360000 ویروس متمایز و همچنین بیش از 500 گونه باکتری جدید را که قبلاً برای علم شناخته نشده بودند، ثبت کرده‌اند. ادامه مطلب...",
+      "summary_fa": "تحقیقات 808585 ژنوم ویروسی متعلق به آنچه دانشمندان تخمین می زنند 362802 ویروس مختلف را شناسایی می کند دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه بیش از یک دهه پس از نقشه برداری جامع میکروبیوم انسان، دانشمندان اکنون جوامع وسیعی از میکروب ها را شناسایی کرده اند که نمونه های بیشتری از میکروب ها را تشکیل می دهند. در صخره‌ها، محققان میکروبیوم دیواره مرجانی بزرگ را ترسیم کرده‌اند و بیش از 360000 ویروس متمایز و همچنین بیش از 500 گونه باکتری جدید را که قبلاً برای علم شناخته نشده بودند، ثبت کرده‌اند. ادامه مطلب...",
+      "summary_en": "Research identifies 808,585 viral genomes belonging to what scientists estimate to be 362,802 different virusesGet our breaking news email, free app or daily news podcastMore than a decade after the human microbiome was comprehensively mapped, scientists have now identified the vast communities of microbes that make up the Great Barrier Reef.Analysing DNA from seawater samples of 48 reefs, researchers have mapped the microbiome of the Great Barrier Reef, documenting more than 360,000 distinct viruses as well as more than 500 new bacterial species not previously known to science. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/jul/23/great-barrier-reef-microbiome-mapped-as-researchers-discover-500-bacterial-species-previously-unknown-to-science",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 15:00:18 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/032245f48f62380bebd2dc8401e0f6f35628e162/500_0_2451_1962/master/2451.jpg?width=140&quality=85&auto=format&fit=max&s=08b38e8bb6b5a74ed407faf2d3e9a1eb",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6ddfafe5283532a0dd38b7cc48546d28",
+      "title": "دنیل سیاد، پیشاهنگ نمونه که زنان را به اپشتین متصل می کرد، در فرانسه مرده پیدا شد",
+      "title_fa": "دنیل سیاد، پیشاهنگ نمونه که زنان را به اپشتین متصل می کرد، در فرانسه مرده پیدا شد",
+      "title_en": "Daniel Siad, Model Scout Who Connected Women to Epstein, Is Found Dead in France",
+      "summary": "دنیل سیاد که روز دوشنبه جسدش پیدا شد، طبق پیام هایی که با آقای اپستین رد و بدل کرده بود، بارها جفری اپستین را به زنان جوان معرفی کرد. آقای سیاد منکر تخلف شده بود.",
+      "summary_fa": "دنیل سیاد که روز دوشنبه جسدش پیدا شد، طبق پیام هایی که با آقای اپستین رد و بدل کرده بود، بارها جفری اپستین را به زنان جوان معرفی کرد. آقای سیاد منکر تخلف شده بود.",
+      "summary_en": "Daniel Siad, who was found dead on Monday, repeatedly introduced Jeffrey Epstein to young women, according to messages he exchanged with Mr. Epstein. Mr. Siad had denied wrongdoing.",
+      "link": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html",
+      "source": "NY Times",
+      "published_at": "Wed, 22 Jul 2026 14:59:35 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-France-Epstein/22int-France-Epstein-mediumSquareAt3X-v4.png",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
       }
     },
     {
@@ -381,6 +1221,27 @@
       }
     },
     {
+      "id": "c8377ace4873890ff4bdb23509b02a35",
+      "title": "فوم سفید مرموز جمعیت را در بزرگراه نیجریه به سمت خود می کشاند",
+      "title_fa": "فوم سفید مرموز جمعیت را در بزرگراه نیجریه به سمت خود می کشاند",
+      "title_en": "Mysterious white foam draws crowds on  Nigerian highway",
+      "summary": "آژانس محیط زیست به مردم هشدار داده است که از نزدیک شدن به این ماده خودداری کنند زیرا ممکن است سلامتی را به خطر بیندازد.",
+      "summary_fa": "آژانس محیط زیست به مردم هشدار داده است که از نزدیک شدن به این ماده خودداری کنند زیرا ممکن است سلامتی را به خطر بیندازد.",
+      "summary_en": "The environmental agency has warned people to avoid going near the substance as it could pose a health risk.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g14lzy17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 22 Jul 2026 14:47:32 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2636/live/f8e6b960-85d3-11f1-ab29-01af26e68f77.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1ac37bbac58e7330e0e6b1646d9ba68b",
       "title": "شعبه چینی فولکس واگن فناوری خودران را دوچندان کرده است",
       "title_fa": "شعبه چینی فولکس واگن فناوری خودران را دوچندان کرده است",
@@ -441,6 +1302,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c637387380467f93d15331f20d109bec",
+      "title": "انقلاب داخلی اندی برنهام می‌تواند بدون مزاحمت بریتانیا را به اروپا نزدیک‌تر کند.",
+      "title_fa": "انقلاب داخلی اندی برنهام می‌تواند بدون مزاحمت بریتانیا را به اروپا نزدیک‌تر کند.",
+      "title_en": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
+      "summary": "نخست‌وزیر جدید نسبت به سلف خود کمتر در مورد این قاره صحبت می‌کند، اما دستور کار او بیشتر با اتحادیه اروپا هماهنگ است. اینجا ثبت نام کنید رهبران اروپا این هفته برای استقبال از اندی برنهام به عنوان هفتمین نخست‌وزیر بریتانیا از زمان رای‌گیری برگزیت به صف شده‌اند - همگی ابراز امیدواری می‌کنند که دوران تصدی وی به گرم شدن روابط اتحادیه اروپا و بریتانیا که توسط سلف او، کایر استارمر آغاز شده است، ادامه دهد. اورسولا فون در لاین، رئیس کمیسیون اروپا، گفت: \"او در ابتدا به دنبال تقویت روابط است.\" گفت‌وگوها تعهد مشترک به «نزدیک‌تر کردن اتحادیه اروپا و بریتانیا» را تأیید کرده بود. امانوئل ماکرون از فرانسه گفت که امیدوار است روابط عمیق‌تری داشته باشد که «شتاب جدیدی به مشارکت» بین اتحادیه اروپا و بریتانیا بدهد. فردریش مرتز آلمانی گفت که او نیز مشتاق است تا پیوندی نزدیک تر ایجاد کند. ادامه مطلب...",
+      "summary_fa": "نخست‌وزیر جدید نسبت به سلف خود کمتر در مورد این قاره صحبت می‌کند، اما دستور کار او بیشتر با اتحادیه اروپا هماهنگ است. اینجا ثبت نام کنید رهبران اروپا این هفته برای استقبال از اندی برنهام به عنوان هفتمین نخست‌وزیر بریتانیا از زمان رای‌گیری برگزیت به صف شده‌اند - همگی ابراز امیدواری می‌کنند که دوران تصدی وی به گرم شدن روابط اتحادیه اروپا و بریتانیا که توسط سلف او، کایر استارمر آغاز شده است، ادامه دهد. اورسولا فون در لاین، رئیس کمیسیون اروپا، گفت: \"او در ابتدا به دنبال تقویت روابط است.\" گفت‌وگوها تعهد مشترک به «نزدیک‌تر کردن اتحادیه اروپا و بریتانیا» را تأیید کرده بود. امانوئل ماکرون از فرانسه گفت که امیدوار است روابط عمیق‌تری داشته باشد که «شتاب جدیدی به مشارکت» بین اتحادیه اروپا و بریتانیا بدهد. فردریش مرتز آلمانی گفت که او نیز مشتاق است تا پیوندی نزدیک تر ایجاد کند. ادامه مطلب...",
+      "summary_en": "The new PM talks less about the continent than his predecessor, but his agenda is more closely aligned with the EU’s• Don’t get This Is Europe delivered to your inbox? Sign up hereEurope’s leaders queued up this week to welcome Andy Burnham as Britain’s seventh prime minister since the Brexit vote – all expressing the hope that his tenure would continue the thaw in EU-UK relations initiated by his predecessor, Keir Starmer.Ursula von der Leyen, the European Commission chief, said she was looking forward to strengthening cross-Channel ties, adding that a “very good” first discussion had confirmed a common commitment to “bringing the EU and UK closer and closer”. France’s Emmanuel Macron said he hoped for a deeper relationship that gave “new momentum to the partnership” between the EU and the UK. Germany’s Friedrich Merz said he, too, was looking forward to forging an even closer bond. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 14:40:17 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4cf2da2c0ee787797a1ace6664cd964ffac2bd74/776_0_3880_3104/master/3880.jpg?width=140&quality=85&auto=format&fit=max&s=393b13fd309587ecae8f7b75c3506f45",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "10e9345a64bbd89f9f57dc25d87ff38e",
+      "title": "استریتینگ از تعهد 3 درصدی هزینه های دفاعی خودداری می کند",
+      "title_fa": "استریتینگ از تعهد 3 درصدی هزینه های دفاعی خودداری می کند",
+      "title_en": "Streeting refuses to commit to 3% defence spending ambition",
+      "summary": "وزیر دفاع قبلی پس از اینکه هشدار داد برنامه هزینه های فعلی برای حفظ امنیت بریتانیا کافی نیست، استعفا داد",
+      "summary_fa": "وزیر دفاع قبلی پس از اینکه هشدار داد برنامه هزینه های فعلی برای حفظ امنیت بریتانیا کافی نیست، استعفا داد",
+      "summary_en": "Previous defence minister resigned after warning current spending plan was not enough to keep UK safe",
+      "link": "https://www.ft.com/content/8b9d00aa-7e7a-46f4-bb98-b1635710bd59?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 14:38:30 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5b266eb-009b-440c-8e06-3ecccd4a4580.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -549,6 +1452,27 @@
       }
     },
     {
+      "id": "d72e4a5ac8add5949d0afcf3e3e5d44b",
+      "title": "ترامپ تهدید به تخریب پل ها و نیروگاه های ایران کرد",
+      "title_fa": "ترامپ تهدید به تخریب پل ها و نیروگاه های ایران کرد",
+      "title_en": "Trump threatens to destroy Iranian bridges and power plants",
+      "summary": "هشدار رئیس جمهور آمریکا نشان دهنده آخرین تلاش ها برای اعمال کنترل آمریکا بر تنگه هرمز است",
+      "summary_fa": "هشدار رئیس جمهور آمریکا نشان دهنده آخرین تلاش ها برای اعمال کنترل آمریکا بر تنگه هرمز است",
+      "summary_en": "US president’s warning marks latest attempts to assert American control over Strait of Hormuz",
+      "link": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 14:23:13 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31f096dc-1971-4c40-bccd-dc2ec7c9eca8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "81d2e5e7a2b64697f88358d43d64fa22",
       "title": "Samsung Galaxy Z Fold 8 یا Z Flip 8 جدید را در Verizon بدون هیچ هزینه ای پیش خرید کنید - در اینجا نحوه",
       "title_fa": "Samsung Galaxy Z Fold 8 یا Z Flip 8 جدید را در Verizon بدون هیچ هزینه ای پیش خرید کنید - در اینجا نحوه",
@@ -619,6 +1543,27 @@
       "summary": "اتحادیه اروپا برای بدترین برداشت محصول در دهه اخیر آماده است و نگرانی در مورد تأثیر آن بر قیمت مواد غذایی را برانگیخت. تخمین زده می‌شود که موج گرمایی که در ماه ژوئن سراسر اروپا را فرا گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) به کشاورزان غلات این قاره خسارت وارد کرد و 9 میلیون تن محصول را از بین برد، و نگرانی‌هایی را در مورد تأثیر تخمین‌ها بر قیمت نفت و اتحادیه اروپا ایجاد کرد. برداشت محصولاتی مانند گندم، جو، ذرت و جو پس از موج گرما. ادامه مطلب...",
       "summary_fa": "اتحادیه اروپا برای بدترین برداشت محصول در دهه اخیر آماده است و نگرانی در مورد تأثیر آن بر قیمت مواد غذایی را برانگیخت. تخمین زده می‌شود که موج گرمایی که در ماه ژوئن سراسر اروپا را فرا گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) به کشاورزان غلات این قاره خسارت وارد کرد و 9 میلیون تن محصول را از بین برد، و نگرانی‌هایی را در مورد تأثیر تخمین‌ها بر قیمت نفت و اتحادیه اروپا ایجاد کرد. برداشت محصولاتی مانند گندم، جو، ذرت و جو پس از موج گرما. ادامه مطلب...",
       "summary_en": "EU poised for worst crop harvest in decade, sparking concern about the impact on food pricesThe heatwave that swept across Europe in June is estimated to have cost the continent’s grain farmers €2bn (£1.7bn) in lost revenue and destroyed 9m tonnes of crops, sparking concern about the impact on the price of food.Coceral, the European cereals and oilseeds trade association, made the estimate for the harvest of crops such as wheat, barley, maize and oats following the heatwave. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
+      "source": "The Guardian",
+      "published_at": "Wed, 22 Jul 2026 14:12:47 GMT",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9cc6b99fc363b96e23a12389c8bec809f35d0ce6/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=dd88b4795e32335c9383358193509690",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "021b125bc37dce80c4ac46f4a5046021",
+      "title": "نگرانی از قیمت مواد غذایی پس از موج گرمای اروپا که حدود 2 میلیارد یورو از محصولات کشاورزی را از بین برد",
+      "title_fa": "نگرانی از قیمت مواد غذایی پس از موج گرمای اروپا که حدود 2 میلیارد یورو از محصولات کشاورزی را از بین برد",
+      "title_en": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
+      "summary": "انتظار می رود دمای بی سابقه ژوئن برداشت غلات را 9 میلیون تن کاهش دهد و به پایین ترین سطح خود از سال 2018 برساند. تخمین زده می شود که موج گرمایی که در ماه ژوئن سراسر اروپا را در بر گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) ضرر از دست رفته کشاورزان غلات قاره را به همراه داشت و 9 میلیون تن محصول را از بین برد، و باعث نگرانی در مورد تأثیرات ناشی از تجارت مواد غذایی و قیمت نفت در اروپا شد. برآورد برداشت محصولاتی مانند گندم، جو، ذرت و جو را پس از موج گرما انجام داد. ادامه مطلب...",
+      "summary_fa": "انتظار می رود دمای بی سابقه ژوئن برداشت غلات را 9 میلیون تن کاهش دهد و به پایین ترین سطح خود از سال 2018 برساند. تخمین زده می شود که موج گرمایی که در ماه ژوئن سراسر اروپا را در بر گرفت، 2 میلیارد یورو (1.7 میلیارد پوند) ضرر از دست رفته کشاورزان غلات قاره را به همراه داشت و 9 میلیون تن محصول را از بین برد، و باعث نگرانی در مورد تأثیرات ناشی از تجارت مواد غذایی و قیمت نفت در اروپا شد. برآورد برداشت محصولاتی مانند گندم، جو، ذرت و جو را پس از موج گرما انجام داد. ادامه مطلب...",
+      "summary_en": "Record June temperatures expected to cut grain harvest by 9m tonnes to its lowest level since 2018 The heatwave that swept across Europe in June is estimated to have cost the continent’s grain farmers €2bn (£1.7bn) in lost revenue and destroyed 9m tonnes of crops, sparking concern about the impact on the price of food.Coceral, the European cereals and oilseeds trade association, made the estimate for the harvest of crops such as wheat, barley, maize and oats following the heatwave. Continue reading...",
       "link": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
       "source": "The Guardian",
       "published_at": "Wed, 22 Jul 2026 14:12:47 GMT",
@@ -889,6 +1834,27 @@
       "title": "هوش مصنوعی باز می گوید مدل هوش مصنوعی آن «سرکش شد»: چه می دانیم؟",
       "title_fa": "هوش مصنوعی باز می گوید مدل هوش مصنوعی آن «سرکش شد»: چه می دانیم؟",
       "title_en": "Open AI says its AI model “went rogue”: What do we know?",
+      "summary": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
+      "summary_fa": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
+      "summary_en": "The system hacked into another company without being prompted by a human.",
+      "link": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 22 Jul 2026 13:42:29 +0000",
+      "date_iso": "2026-07-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c2d60dc3832728dcd0142a6e159ed03",
+      "title": "OpenAI می‌گوید مدل هوش مصنوعی آن «سرکش شد»: ما چه می‌دانیم؟",
+      "title_fa": "OpenAI می‌گوید مدل هوش مصنوعی آن «سرکش شد»: ما چه می‌دانیم؟",
+      "title_en": "OpenAI says its AI model ‘went rogue’: What do we know?",
       "summary": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
       "summary_fa": "این سیستم بدون اینکه توسط یک انسان درخواست شود، شرکت دیگری را هک کرد.",
       "summary_en": "The system hacked into another company without being prompted by a human.",
@@ -1907,6 +2873,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a7bc342802ee59024c698a3a111a7cad",
+      "title": "برنهام از بازنگری طرح آزادی زودهنگام برای زندانیان خبر می دهد",
+      "title_fa": "برنهام از بازنگری طرح آزادی زودهنگام برای زندانیان خبر می دهد",
+      "title_en": "Burnham signals review of early-release scheme for prisoners",
+      "summary": "نخست وزیر جدید اولین مداخله را در زمینه عدالت کیفری در انگلستان و ولز انجام می دهد",
+      "summary_fa": "نخست وزیر جدید اولین مداخله را در زمینه عدالت کیفری در انگلستان و ولز انجام می دهد",
+      "summary_en": "New prime minister makes first intervention in area of criminal justice in England and Wales",
+      "link": "https://www.ft.com/content/b60dd8ee-368d-41ef-a259-a3297b3f25f9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 22 Jul 2026 12:33:45 GMT",
+      "date_iso": "2026-07-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F09c0f6cf-e2e0-4f7c-a475-a3ccbcc95332.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -9708,6 +10695,111 @@
       }
     },
     {
+      "id": "09602b9a1a0561073d8bf8746dfdbf8c",
+      "title": "اپل در حال آزمایش مک بوک نئو با رم بیشتر است",
+      "title_fa": "اپل در حال آزمایش مک بوک نئو با رم بیشتر است",
+      "title_en": "Apple is reportedly testing a MacBook Neo with more RAM",
+      "summary": "پس از محبوبیت بسیار زیاد مک بوک نئو تا کنون، ظاهرا اپل در حال توسعه نسخه به روز شده لپ تاپ مقرون به صرفه خود با پردازنده جدید و حافظه بیشتر است و حتی برنامه هایی برای به روز رسانی این مدل با رنگ های جدید دارد. به دنبال گزارش مشابهی از تیم کالپن، تحلیلگر اوایل سال جاری، مارک گورمن از بلومبرگ می‌گوید Neo جدید […]",
+      "summary_fa": "پس از محبوبیت بسیار زیاد مک بوک نئو تا کنون، ظاهرا اپل در حال توسعه نسخه به روز شده لپ تاپ مقرون به صرفه خود با پردازنده جدید و حافظه بیشتر است و حتی برنامه هایی برای به روز رسانی این مدل با رنگ های جدید دارد. به دنبال گزارش مشابهی از تیم کالپن، تحلیلگر اوایل سال جاری، مارک گورمن از بلومبرگ می‌گوید Neo جدید […]",
+      "summary_en": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar report from analyst Tim Culpan earlier this year, Bloomberg's Mark Gurman says the new Neo […]",
+      "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+      "source": "The Verge",
+      "published_at": "2026-07-22T12:35:58-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9f420effb0f04e32d0e9aee63198cd1a",
+      "title": "در اینجا ظاهر عینک هوشمند سامسونگ در واقع چگونه است",
+      "title_fa": "در اینجا ظاهر عینک هوشمند سامسونگ در واقع چگونه است",
+      "title_en": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+      "summary": "سامسونگ اولین فرصت را به ما داده است تا عینک های هوشمند آینده خود را شخصاً بررسی کنیم و دو طرح جدید و اولین مشخصات در این فرآیند از جمله عمر باتری قابل توجه 9 ساعته را فاش کنیم. این عینک که با همکاری گوگل و برندهای عینک Gentle Monster و Warby Parker ساخته شده است، قرار است پاییز امسال عرضه شود. […]",
+      "summary_fa": "سامسونگ اولین فرصت را به ما داده است تا عینک های هوشمند آینده خود را شخصاً بررسی کنیم و دو طرح جدید و اولین مشخصات در این فرآیند از جمله عمر باتری قابل توجه 9 ساعته را فاش کنیم. این عینک که با همکاری گوگل و برندهای عینک Gentle Monster و Warby Parker ساخته شده است، قرار است پاییز امسال عرضه شود. […]",
+      "summary_en": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. […]",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "source": "The Verge",
+      "published_at": "2026-07-22T12:35:34-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "03ea7162fb95622cbace4c5a1c3d1744",
+      "title": "مقایسه گوشی های گلکسی زد فولد 8 و زد فلیپ 8 چگونه است",
+      "title_fa": "مقایسه گوشی های گلکسی زد فولد 8 و زد فلیپ 8 چگونه است",
+      "title_en": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
+      "summary": "آخرین دور گوشی‌های تاشو گلکسی Z و ساعت‌های هوشمند به‌روزرسانی شده سامسونگ در رویداد Unpacked جولای 2026 معرفی شد و قرار است در 7 آگوست عرضه شود. گلکسی زد فلیپ 8، فولد 8 و فولد 8 اولترا برای افرادی که مدل سال گذشته را خریده اند، مناسب به نظر نمی رسد. جدا از چند به روز رسانی طراحی و هوش مصنوعی […]",
+      "summary_fa": "آخرین دور گوشی‌های تاشو گلکسی Z و ساعت‌های هوشمند به‌روزرسانی شده سامسونگ در رویداد Unpacked جولای 2026 معرفی شد و قرار است در 7 آگوست عرضه شود. گلکسی زد فلیپ 8، فولد 8 و فولد 8 اولترا برای افرادی که مدل سال گذشته را خریده اند، مناسب به نظر نمی رسد. جدا از چند به روز رسانی طراحی و هوش مصنوعی […]",
+      "summary_en": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; Aside from a few design updates and AI […]",
+      "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
+      "source": "The Verge",
+      "published_at": "2026-07-22T11:47:10-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8892f9c048b08233bce2a27ada5b77a0",
+      "title": "پیش‌سفارش‌های Z Fold و Flip 8 جدید سامسونگ با گیفت کارت‌های تا سقف 350 دلار ارائه می‌شوند.",
+      "title_fa": "پیش‌سفارش‌های Z Fold و Flip 8 جدید سامسونگ با گیفت کارت‌های تا سقف 350 دلار ارائه می‌شوند.",
+      "title_en": "Preorders for Samsung’s new Z Fold and Flip 8 come with up to $350 in gift cards",
+      "summary": "جدیدترین گوشی های تاشو سامسونگ اینجا هستند. در Galaxy Unpacked، این شرکت گلکسی Z Flip 8، Galaxy Z Fold 8 و Galaxy Z Fold 8 Ultra را معرفی کرد. هر سه دستگاه در تاریخ 7 آگوست در دسترس خواهند بود، اما اکنون می توانید آنها را با قیمت 1199.99 دلار، 1899.99 دلار و 2099.99 دلار پیش خرید کنید. احتمالاً متوجه شده اید که خط تولید تاشو سامسونگ […]",
+      "summary_fa": "جدیدترین گوشی های تاشو سامسونگ اینجا هستند. در Galaxy Unpacked، این شرکت گلکسی Z Flip 8، Galaxy Z Fold 8 و Galaxy Z Fold 8 Ultra را معرفی کرد. هر سه دستگاه در تاریخ 7 آگوست در دسترس خواهند بود، اما اکنون می توانید آنها را با قیمت 1199.99 دلار، 1899.99 دلار و 2099.99 دلار پیش خرید کنید. احتمالاً متوجه شده اید که خط تولید تاشو سامسونگ […]",
+      "summary_en": "Samsung's newest foldables are here. At Galaxy Unpacked, the company announced the Galaxy Z Flip 8, Galaxy Z Fold 8, and Galaxy Z Fold 8 Ultra. All three devices will be available on August 7th, but you can preorder them now starting at $1,199.99, $1,899.99, and $2,099.99, respectively. You probably noticed that Samsung's foldable lineup […]",
+      "link": "https://www.theverge.com/gadgets/968716/samsung-galaxy-z-flip-fold-8-ultra-how-to-buy-preorder-price-release-date",
+      "source": "The Verge",
+      "published_at": "2026-07-22T11:42:22-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1e0599f3f452991cc8cc51236b3a869b",
+      "title": "مسواک هوشمند جدید فیلیپس به شما نشان می دهد که کجا را به درستی مسواک نزده اید",
+      "title_fa": "مسواک هوشمند جدید فیلیپس به شما نشان می دهد که کجا را به درستی مسواک نزده اید",
+      "title_en": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+      "summary": "جدیدترین افزوده شده به خط مسواک های برقی هوشمند فیلیپس Sonicare می تواند حدس و گمان را از روال مسواک زدن شما دور کند. نسل بعدی DiamondClean 9900 Prestige از نسل سوم مدل هوش مصنوعی برای ارائه بازخورد در زمان واقعی درباره نحوه مسواک زدن شما از طریق حلقه درخشان روی پایه آن استفاده می کند، در حالی که یک صفحه نمایش لمسی مناطقی از دهان شما را برجسته می کند که ممکن است […]",
+      "summary_fa": "جدیدترین افزوده شده به خط مسواک های برقی هوشمند فیلیپس Sonicare می تواند حدس و گمان را از روال مسواک زدن شما دور کند. نسل بعدی DiamondClean 9900 Prestige از نسل سوم مدل هوش مصنوعی برای ارائه بازخورد در زمان واقعی درباره نحوه مسواک زدن شما از طریق حلقه درخشان روی پایه آن استفاده می کند، در حالی که یک صفحه نمایش لمسی مناطقی از دهان شما را برجسته می کند که ممکن است […]",
+      "summary_en": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a glowing ring on its base, while a touchscreen highlights areas of your mouth that may […]",
+      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+      "source": "The Verge",
+      "published_at": "2026-07-22T11:09:44-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b79e96240a2c0794da91823fecfe4df7",
       "title": "مایکروسافت بازی های اصلی ایکس باکس را به رایانه شخصی می آورد",
       "title_fa": "مایکروسافت بازی های اصلی ایکس باکس را به رایانه شخصی می آورد",
@@ -9733,6 +10825,27 @@
       "title": "AMD و Anthropic به قرارداد زیرساختی هوش مصنوعی 5 میلیارد دلاری رسیدند",
       "title_fa": "AMD و Anthropic به قرارداد زیرساختی هوش مصنوعی 5 میلیارد دلاری رسیدند",
       "title_en": "AMD and Anthropic reach $5 billion AI infrastructure deal",
+      "summary": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
+      "summary_fa": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
+      "summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "source": "The Verge",
+      "published_at": "2026-07-22T10:44:27-04:00",
+      "date_iso": "2026-07-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5753f3006db25d576de5b73bc22dd315",
+      "title": "AMD تا 5 میلیارد دلار به Anthropic متعهد می شود",
+      "title_fa": "AMD تا 5 میلیارد دلار به Anthropic متعهد می شود",
+      "title_en": "AMD commits up to $5 billion to  Anthropic",
       "summary": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
       "summary_fa": "بر اساس اعلامیه روز چهارشنبه، AMD می‌گوید تا 5 میلیارد دلار در Anthropic سرمایه‌گذاری خواهد کرد و در عین حال به توسعه قدرت محاسباتی شرکت هوش مصنوعی کمک می‌کند. به عنوان بخشی از شراکت جدید، Anthropic تا 2 گیگاوات پردازنده گرافیکی هوش مصنوعی AMD Instinct MI450 را با استفاده از سیستم جدید Helios در مقیاس رک این سازنده تراشه، به کار خواهد گرفت.",
       "summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
@@ -9936,6 +11049,531 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69f5c9d46e3a5d25e848904a44804721",
+      "title": "ساختارها و مهار پلیمراز ویروس تب خونریزی دهنده کریمه کنگو",
+      "title_fa": "ساختارها و مهار پلیمراز ویروس تب خونریزی دهنده کریمه کنگو",
+      "title_en": "Structures and inhibition of the Crimean–Congo haemorrhagic fever virus polymerase",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10701-6مطالعات ساختاری پلیمراز ویروس تب خونریزی دهنده کریمه-کنگو (CCHFV) اساس ساختاری سنتز RNA CCHFV را نشان می دهد و مکان های قابل مصرف دارو را برای طراحی ضد ویروس های نوکلئوزیدی و ضد ویروسی غیر نوکلئوزیدی برجسته می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10701-6مطالعات ساختاری پلیمراز ویروس تب خونریزی دهنده کریمه-کنگو (CCHFV) اساس ساختاری سنتز RNA CCHFV را نشان می دهد و مکان های قابل مصرف دارو را برای طراحی ضد ویروس های نوکلئوزیدی و ضد ویروسی غیر نوکلئوزیدی برجسته می کند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10701-6Structural studies of Crimean–Congo haemorrhagic fever virus (CCHFV) polymerase reveal the structural basis of CCHFV RNA synthesis and highlight druggable sites for designing both nucleoside antivirals and non-nucleoside antivirals.",
+      "link": "https://www.nature.com/articles/s41586-026-10701-6",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "881e6cb40bfaae1898ffdf6b94da4882",
+      "title": "CRISPR-Cas بیان سیستم های دفاعی ضد فاژ تعبیه شده را تنظیم می کند",
+      "title_fa": "CRISPR-Cas بیان سیستم های دفاعی ضد فاژ تعبیه شده را تنظیم می کند",
+      "title_en": "CRISPR–Cas regulates expression of embedded anti-phage defence systems",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10833-9CRISPR–سیستم‌های CRISPR-Cas به طور رونویسی با استفاده از راهنماهای RNA مانند CRISPR، دفاع‌های ذاتی مختلفی را تنظیم می‌کنند تا بین حفاظت ضد ویروسی و تناسب اندام تعادل ایجاد کنند، و این دفاع‌ها را در صورت به خطر انداختن بیش فعال می‌کنند و یک شبکه لایه‌بندی «محافظ ایمنی» باکتریایی ایجاد می‌کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10833-9CRISPR–سیستم‌های CRISPR-Cas به طور رونویسی با استفاده از راهنماهای RNA مانند CRISPR، دفاع‌های ذاتی مختلفی را تنظیم می‌کنند تا بین حفاظت ضد ویروسی و تناسب اندام تعادل ایجاد کنند، و این دفاع‌ها را در صورت به خطر انداختن بیش فعال می‌کنند و یک شبکه لایه‌بندی «محافظ ایمنی» باکتریایی ایجاد می‌کنند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10833-9CRISPR–Cas systems transcriptionally tune diverse innate defences using CRISPR RNA-like guides to balance antiviral protection with fitness, and hyperactivate these defences when compromised, establishing a layered bacterial ‘immunity guard’ network.",
+      "link": "https://www.nature.com/articles/s41586-026-10833-9",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ea6801310fc046cd2783c911f9e02a9",
+      "title": "دیود لیزری پلاریتون پروسکایتی غیر اپیتاکسیال که تحت جریان مستقیم کار می کند",
+      "title_fa": "دیود لیزری پلاریتون پروسکایتی غیر اپیتاکسیال که تحت جریان مستقیم کار می کند",
+      "title_en": "Non-epitaxial perovskite polariton laser diode operating under direct current",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10824-w با ادغام یک میکروپلیت پروسکایتی رشد یافته در محلول با الکترودهای نانولوله کربنی تک جداره شیمیایی خنثی و جاسازی آنها در یک ریزحفره نوری، ریزدستگاه های جدید می توانند به جریان پلاریتون با لیزر مستقیم 8   دست یابند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10824-w با ادغام یک میکروپلیت پروسکایتی رشد یافته در محلول با الکترودهای نانولوله کربنی تک جداره شیمیایی خنثی و جاسازی آنها در یک ریزحفره نوری، ریزدستگاه های جدید می توانند به جریان پلاریتون با لیزر مستقیم 8   دست یابند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-wBy integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
+      "link": "https://www.nature.com/articles/s41586-026-10824-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5a62df386c4845863ee633d1a72aff5d",
+      "title": "درمان قبلی پروفایل های جهش را در سرطان دوران کودکی در زمان عود تعریف می کند",
+      "title_fa": "درمان قبلی پروفایل های جهش را در سرطان دوران کودکی در زمان عود تعریف می کند",
+      "title_en": "Prior therapy defines mutation profiles in childhood cancer at relapse",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10803-1 شیمی درمانی، به ویژه با داروهای مبتنی بر پلاتین، با جهش زایی قابل توجه و قابل تشخیص سریع در سرطان های دوران کودکی، سه برابر شدن امضاهای خصوصی و دوبرابر شدن بار جهش، برجسته کردن فرصت های درمانی ناشی از درمان تومور، برجسته کردن فرصت های درمانی ناشی از تومورها، همراه است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10803-1 شیمی درمانی، به ویژه با داروهای مبتنی بر پلاتین، با جهش زایی قابل توجه و قابل تشخیص سریع در سرطان های دوران کودکی، سه برابر شدن امضاهای خصوصی و دوبرابر شدن بار جهش، برجسته کردن فرصت های درمانی ناشی از درمان تومور، برجسته کردن فرصت های درمانی ناشی از تومورها، همراه است.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10803-1Chemotherapy, particularly with platinum-based drugs, is associated with substantial, rapidly detectable mutagenesis in childhood cancers, tripling private signatures and doubling mutation burden, highlighting therapy-induced tumour evolution and opportunities for safer, de-escalated treatment.",
+      "link": "https://www.nature.com/articles/s41586-026-10803-1",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "05cbd2c950662ff46c3e164a2ff4380e",
+      "title": "اساس ساختاری آبشار ویرایش RNA در میتوکندری تریپانوزوم",
+      "title_fa": "اساس ساختاری آبشار ویرایش RNA در میتوکندری تریپانوزوم",
+      "title_en": "Structural basis of the RNA-editing cascade in trypanosome mitochondria",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10831-x میکروسکوپ الکترونی کریو معماری ادیتوزوم میتوکندری Trypanosoma brucei را روشن می کند و نشان می دهد که چگونه این مجموعه ویرایش mRNA را از طریق درج و حذف نوکلئوت یوریدین انجام می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10831-x میکروسکوپ الکترونی کریو معماری ادیتوزوم میتوکندری Trypanosoma brucei را روشن می کند و نشان می دهد که چگونه این مجموعه ویرایش mRNA را از طریق درج و حذف نوکلئوت یوریدین انجام می دهد.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10831-xCryo-electron microscopy sheds light on the architecture of the Trypanosoma brucei mitochondrial editosome and reveals how this assembly mediates mRNA editing through the insertion and deletion of uridine nucleotides.",
+      "link": "https://www.nature.com/articles/s41586-026-10831-x",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6b06c770d208e666c903a8513b6f9d35",
+      "title": "بزرگراه های چند بانده فوتونیک توپولوژیکی بدون عایق",
+      "title_fa": "بزرگراه های چند بانده فوتونیک توپولوژیکی بدون عایق",
+      "title_en": "Insulator-free topological photonic multi-lane highways",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10817-9 یک معماری موجبر توپولوژیکی بدون عایق که شامل چهار نیمه نیمه فلزی دره فوتونیکی نامتعادل است که در یک پیکربندی چرخه ای موازی چیده شده اند و بسیار نزدیک به یکدیگر چیده شده اند، نوری قوی و یکنواختی0% را نشان می دهد. بهره وری",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10817-9 یک معماری موجبر توپولوژیکی بدون عایق که شامل چهار نیمه نیمه فلزی دره فوتونیکی نامتعادل است که در یک پیکربندی چرخه ای موازی چیده شده اند و بسیار نزدیک به یکدیگر چیده شده اند، نوری قوی و یکنواختی0% را نشان می دهد. بهره وری",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10817-9An insulator-free topological waveguide architecture comprising four inequivalent photonic valley half-semimetals arranged in a parallel, cyclic configuration and stacked very close to one another demonstrates robust, multi-lane, unidirectional light transport with 100% spatial efficiency.",
+      "link": "https://www.nature.com/articles/s41586-026-10817-9",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8691cf90caeb06e5d33d645772b092c2",
+      "title": "ماهواره بیرونی با جرم سیاره ای در اطراف همدم زیر ستاره ای یک ستاره شناسایی شد",
+      "title_fa": "ماهواره بیرونی با جرم سیاره ای در اطراف همدم زیر ستاره ای یک ستاره شناسایی شد",
+      "title_en": "Planetary-mass exosatellite detected around the substellar companion of a star",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10751-w اندازه‌گیری‌های سرعت شعاعی شواهدی برای یک ماهواره بیرونی با جرم مشتری که به دور همدم کوتوله قهوه‌ای CD-35 2722 B می‌چرخد، یک کشف امیدوارکننده از یک شی شبیه ماه فراخورشیدی ارائه می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10751-w اندازه‌گیری‌های سرعت شعاعی شواهدی برای یک ماهواره بیرونی با جرم مشتری که به دور همدم کوتوله قهوه‌ای CD-35 2722 B می‌چرخد، یک کشف امیدوارکننده از یک شی شبیه ماه فراخورشیدی ارائه می‌کند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10751-wRadial velocity measurements provide evidence for a Jupiter-mass exosatellite orbiting the brown dwarf companion CD-35 2722 B, a promising detection of an exomoon-like object.",
+      "link": "https://www.nature.com/articles/s41586-026-10751-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7dd71c1f3da0f2fc5a4fe48e510d0b3b",
+      "title": "ساختارهای لنفوئیدی سوم، سلول های T تومور خاص را در خود جای داده اند",
+      "title_fa": "ساختارهای لنفوئیدی سوم، سلول های T تومور خاص را در خود جای داده اند",
+      "title_en": "Tertiary lymphoid structures harbour stem-like tumour-specific T cells",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10808-w تومورهای کارسینوم سلول کلیوی حاوی ساختارهای لنفاوی سوم (TLSs) برای سلول‌های CD8+ T خسته، از جمله کلونوتیپ‌های خاص تومور با ویژگی‌های اگزوز اجدادی ساقه مانند و کاهش یافته غنی شده‌اند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10808-w تومورهای کارسینوم سلول کلیوی حاوی ساختارهای لنفاوی سوم (TLSs) برای سلول‌های CD8+ T خسته، از جمله کلونوتیپ‌های خاص تومور با ویژگی‌های اگزوز اجدادی ساقه مانند و کاهش یافته غنی شده‌اند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10808-wRenal cell carcinoma tumours containing tertiary lymphoid structures (TLSs) are enriched for exhausted CD8+ T cells, including tumour-specific clonotypes with stem-like progenitor features and reduced terminal exhaustion.",
+      "link": "https://www.nature.com/articles/s41586-026-10808-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6ef1186cb48aa5f5d3491fd09e07887a",
+      "title": "یک استراتژی مبتنی بر برداری برای ناوبری بویایی در <i>Drosophila</i>",
+      "title_fa": "یک استراتژی مبتنی بر برداری برای ناوبری بویایی در <i>Drosophila</i>",
+      "title_en": "A vector-based strategy for olfactory navigation in <i>Drosophila</i>",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10827-7 با استفاده از یک سیستم واقعیت مجازی، آزمایش‌ها در مگس سرکه نشان می‌دهد که مگس‌ها از مکانیسم‌های حافظه برای حرکت در امتداد مرز یک توده بو و ردیابی منبع بو استفاده می‌کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10827-7 با استفاده از یک سیستم واقعیت مجازی، آزمایش‌ها در مگس سرکه نشان می‌دهد که مگس‌ها از مکانیسم‌های حافظه برای حرکت در امتداد مرز یک توده بو و ردیابی منبع بو استفاده می‌کنند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10827-7Using a virtual reality system, experiments in Drosophila show that flies use memory mechanisms to navigate along the boundary of an odour plume and track the source of a smell.",
+      "link": "https://www.nature.com/articles/s41586-026-10827-7",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ebb86c5f582ffef2df0553cf9ed9f4b4",
+      "title": "ویرایش دقیق پایه DNA با استفاده از مدل سازی تماس مبتنی بر AlphaFold3",
+      "title_fa": "ویرایش دقیق پایه DNA با استفاده از مدل سازی تماس مبتنی بر AlphaFold3",
+      "title_en": "Precise DNA base editing using AlphaFold3-based contact modelling",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10794-zContactSeek یک مدل مبتنی بر AlphaFold3 است که می تواند دقت ابزارهای ویرایش ژنوم را بهبود بخشد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10794-zContactSeek یک مدل مبتنی بر AlphaFold3 است که می تواند دقت ابزارهای ویرایش ژنوم را بهبود بخشد.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10794-zContactSeek is an AlphaFold3-driven model that can improve the precision of genome-editing tools.",
+      "link": "https://www.nature.com/articles/s41586-026-10794-z",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "13499538029b264261d52c3c96b46943",
+      "title": "نقاط شروع و نتایج بازطراحی شده با هوش مصنوعی تکامل پروتئین را افزایش می دهد",
+      "title_fa": "نقاط شروع و نتایج بازطراحی شده با هوش مصنوعی تکامل پروتئین را افزایش می دهد",
+      "title_en": "AI-redesigned starting points and outcomes enhance protein evolution",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10820-0A گردش کار با استفاده از نقاط شروع بازطراحی شده با هوش مصنوعی برای تکامل آنزیم هایی با خواص بهبود یافته در مقایسه با آنزیم های تکامل یافته از پروتئین های طبیعی ایجاد شده است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10820-0A گردش کار با استفاده از نقاط شروع بازطراحی شده با هوش مصنوعی برای تکامل آنزیم هایی با خواص بهبود یافته در مقایسه با آنزیم های تکامل یافته از پروتئین های طبیعی ایجاد شده است.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10820-0A workflow using artificial intelligence-redesigned starting points to evolve enzymes with improved properties compared with those evolved from natural proteins is established.",
+      "link": "https://www.nature.com/articles/s41586-026-10820-0",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "da409e54307b0d037174495169fcca7d",
+      "title": "میکروبیوم پلانکتونیک دیواره مرجانی بزرگ",
+      "title_fa": "میکروبیوم پلانکتونیک دیواره مرجانی بزرگ",
+      "title_en": "The planktonic microbiome of the Great Barrier Reef",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10778-z پایگاه داده ژنوم میکروبی صخره سد بزرگ، ژنوم های پروکاریوتی، ویروسی و یوکاریوتی را از آب دریا جمع آوری شده از دیواره بزرگ مرجانی گردآوری می کند و منبعی غنی برای مطالعه تحقیقات و مدیریت سیستم های میکروبی میکروبی دریایی است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10778-z پایگاه داده ژنوم میکروبی صخره سد بزرگ، ژنوم های پروکاریوتی، ویروسی و یوکاریوتی را از آب دریا جمع آوری شده از دیواره بزرگ مرجانی گردآوری می کند و منبعی غنی برای مطالعه تحقیقات و مدیریت سیستم های میکروبی میکروبی دریایی است.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10778-zThe Great Barrier Reef Microbial Genomes Database compiles prokaryotic, viral and eukaryotic genomes from seawater collected from the Great Barrier Reef, providing a rich resource for the study of marine microbial communities and ecosystem research and management.",
+      "link": "https://www.nature.com/articles/s41586-026-10778-z",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "cec8d3b083e5eb9d468499ec408f6e15",
+      "title": "یک کد مولکولی جهانی برای ترتیب تولد و هویت عصبی در <i>Drosophila</i>",
+      "title_fa": "یک کد مولکولی جهانی برای ترتیب تولد و هویت عصبی در <i>Drosophila</i>",
+      "title_en": "A global molecular code for birth order and neuronal identity in <i>Drosophila</i>",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; a",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; a",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10797-wA high-resolution developmental transcriptional atlas of the Drosophila melanogaster nerve cord identifies a shared transcriptional code that records neuronal birth order and organizes neuronal diversity.",
+      "link": "https://www.nature.com/articles/s41586-026-10797-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d1c82f613090ebe89f6795ad4b860735",
+      "title": "بخش بندی ژنوم زیر هسته ای فعالیت کروماتین دو ظرفیتی را کنترل می کند",
+      "title_fa": "بخش بندی ژنوم زیر هسته ای فعالیت کروماتین دو ظرفیتی را کنترل می کند",
+      "title_en": "Subnuclear genome compartmentalization controls bivalent chromatin activity",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10832-w آگاهی از موقعیت مکانی یک ژن برای درک تنظیم اپی ژنومیک آن ضروری است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10832-w آگاهی از موقعیت مکانی یک ژن برای درک تنظیم اپی ژنومیک آن ضروری است.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10832-wKnowledge of the spatial location of a gene is necessary to understand its epigenomic regulation.",
+      "link": "https://www.nature.com/articles/s41586-026-10832-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad66ce67edeb04758c4c8556f1c6c7ee",
+      "title": "آمار غیر گاوسی پارامتر ترتیب در یک انتقال فاز",
+      "title_fa": "آمار غیر گاوسی پارامتر ترتیب در یک انتقال فاز",
+      "title_en": "Non-Gaussian statistics of the order parameter across a phase transition",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10811-1 اندازه‌گیری‌های تک اتمی نوسان‌های پارامتر نظم غیر گاوسی و مقیاس‌بندی بحرانی را در یک انتقال فاز پیوسته نشان می‌دهند، که اهمیت توزیع‌های آماری کامل را در درک جهانی بودن برجسته می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10811-1 اندازه‌گیری‌های تک اتمی نوسان‌های پارامتر نظم غیر گاوسی و مقیاس‌بندی بحرانی را در یک انتقال فاز پیوسته نشان می‌دهند، که اهمیت توزیع‌های آماری کامل را در درک جهانی بودن برجسته می‌کند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10811-1Single-atom measurements show non-Gaussian order-parameter fluctuations and critical scaling across a continuous phase transition, highlighting the importance of full statistical distributions in understanding universality.",
+      "link": "https://www.nature.com/articles/s41586-026-10811-1",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9151a50c9c1584aaf55397f12030c1b2",
+      "title": "تصویربرداری از بافت های قطبی در مقیاس نانو در SrTiO پارالکتریک کوانتومی<sub>3</sub>",
+      "title_fa": "تصویربرداری از بافت های قطبی در مقیاس نانو در SrTiO پارالکتریک کوانتومی<sub>3</sub>",
+      "title_en": "Imaging of nanoscale polar textures in quantum paraelectric SrTiO<sub>3</sub>",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10823-xCryo-STEM نشان می‌دهد که SrTiO3 نانودامنه‌های قطبی تناوبی زیر 105 اینچ کلوین را تشکیل می‌دهد، اما این قطعه‌ها زیر 40 اینچ کلوین است و پارالکتریک کوانتومی را به نظم و نظم قطبی در مقیاس نانو مرتبط می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10823-xCryo-STEM نشان می‌دهد که SrTiO3 نانودامنه‌های قطبی تناوبی زیر 105 اینچ کلوین را تشکیل می‌دهد، اما این قطعه‌ها زیر 40 اینچ کلوین است و پارالکتریک کوانتومی را به نظم و نظم قطبی در مقیاس نانو مرتبط می‌کند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10823-xCryo-STEM reveals that SrTiO3 forms periodic polar nanodomains below 105 K, but these fragment below 40 K, linking quantum paraelectricity to nanoscale polar ordering and disordering.",
+      "link": "https://www.nature.com/articles/s41586-026-10823-x",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "71ebf8b8739253a69b7798ab4cb011be",
+      "title": "تنوع مغزی و زیست محیطی استثنایی در اولین مارها",
+      "title_fa": "تنوع مغزی و زیست محیطی استثنایی در اولین مارها",
+      "title_en": "Exceptional brain and ecological diversity in the earliest snakes",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10809-9 یک مار فسیلی به خوبی حفظ شده از کرتاسه اواخر برزیل، نابرابری اولیه اکولوژیکی و شکل مغز را در این گروه نشان می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10809-9 یک مار فسیلی به خوبی حفظ شده از کرتاسه اواخر برزیل، نابرابری اولیه اکولوژیکی و شکل مغز را در این گروه نشان می دهد.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10809-9A well-preserved fossil snake from the Late Cretaceous of Brazil shows early ecological and brain shape disparity in the group.",
+      "link": "https://www.nature.com/articles/s41586-026-10809-9",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e79e25ec4d2ee8c46e1bd76b0a7e13a7",
+      "title": "ملانوم گربه ماهی سر گاو قهوه ای نشان دهنده یک سرطان قابل انتقال جدید است",
+      "title_fa": "ملانوم گربه ماهی سر گاو قهوه ای نشان دهنده یک سرطان قابل انتقال جدید است",
+      "title_en": "Brown bullhead catfish melanoma represents a novel transmissible cancer",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10828-6 تجزیه و تحلیل توالی ژنومی تومور و بافت‌های میزبان غیر توموری منطبق بر گربه‌ماهی سر گاو نر قهوه‌ای نوعی سرطان قابل انتقال طبیعی را نشان می‌دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10828-6 تجزیه و تحلیل توالی ژنومی تومور و بافت‌های میزبان غیر توموری منطبق بر گربه‌ماهی سر گاو نر قهوه‌ای نوعی سرطان قابل انتقال طبیعی را نشان می‌دهد.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10828-6Whole-genome sequencing analysis of tumour and matched non-tumour host tissues of the brown bullhead catfish reveals a type of naturally occurring transmissible cancer.",
+      "link": "https://www.nature.com/articles/s41586-026-10828-6",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a3a0f95ab0bb96ad6369232230aa21a9",
+      "title": "نیمه هادی و مغناطیسی لانتانید MXene از هالیدهای درونی",
+      "title_fa": "نیمه هادی و مغناطیسی لانتانید MXene از هالیدهای درونی",
+      "title_en": "Semiconducting and magnetic lanthanide MXenes from intercalated halides",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10802-2یک استراتژی سنتز از پایین به بالا، MXenes لانتانید (Ln2CT2) را ایجاد می کند که رفتار نیمه هادی را با فرومغناطیس ترکیب می کند و کلاس جدیدی از مواد دو بعدی را برای کاربردهای اسپینترونیک ارائه می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10802-2یک استراتژی سنتز از پایین به بالا، MXenes لانتانید (Ln2CT2) را ایجاد می کند که رفتار نیمه هادی را با فرومغناطیس ترکیب می کند و کلاس جدیدی از مواد دو بعدی را برای کاربردهای اسپینترونیک ارائه می دهد.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10802-2A bottom-up synthesis strategy creates lanthanide MXenes (Ln2CT2) that combine semiconducting behaviour with ferromagnetism, offering a promising new class of two-dimensional materials for spintronic applications.",
+      "link": "https://www.nature.com/articles/s41586-026-10802-2",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62c6c014bf0a58a83342bd66432f5f2e",
+      "title": "کارآمد و دقیق DNA قابل برنامه ریزی بدون شکستگی دو رشته ای",
+      "title_fa": "کارآمد و دقیق DNA قابل برنامه ریزی بدون شکستگی دو رشته ای",
+      "title_en": "Efficient and precise programmable DNA knock-in without double-strand breaks",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; ویرایش doi:10.1038/s41586-026-10819-7Kilobase-scale-Nicase-Targeting (KNIT) امکان درج DNA مبتنی بر تک ریز را در میان مکان‌های ژنومی و انواع سلول‌ها، پشتیبانی از درج قطعات DNA بیش از 10 کیلوبایت و با حداقل اثرات غیرفعال ناپذیری ef.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; ویرایش doi:10.1038/s41586-026-10819-7Kilobase-scale-Nicase-Targeting (KNIT) امکان درج DNA مبتنی بر تک ریز را در میان مکان‌های ژنومی و انواع سلول‌ها، پشتیبانی از درج قطعات DNA بیش از 10 کیلوبایت و با حداقل اثرات غیرفعال ناپذیری ef.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10819-7Kilobase-scale nickase-targeting (KNIT) editing enables single-nick-based DNA insertion across genomic loci and cell types, supporting insertion of DNA fragments exceeding 10 kb, with high efficiency and minimal unwanted off-target effects.",
+      "link": "https://www.nature.com/articles/s41586-026-10819-7",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "96ec65bfedd1abad25b4a016a47c3b58",
+      "title": "نقشه برداری از عوامل تغییر امید به زندگی در آسیا از سال 1990 تا 2023",
+      "title_fa": "نقشه برداری از عوامل تغییر امید به زندگی در آسیا از سال 1990 تا 2023",
+      "title_en": "Mapping drivers of life expectancy change in Asia from 1990 to 2023",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10739-6با استفاده از داده های مطالعه بار جهانی بیماری در سراسر کشورها و سرزمین های آسیایی، روند امید به زندگی و اثرات مرگ و میر خاص علت و عوامل خطر بر تغییرات در این روندها تجزیه و تحلیل می شود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10739-6با استفاده از داده های مطالعه بار جهانی بیماری در سراسر کشورها و سرزمین های آسیایی، روند امید به زندگی و اثرات مرگ و میر خاص علت و عوامل خطر بر تغییرات در این روندها تجزیه و تحلیل می شود.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10739-6Using the Global Burden of Disease Study data across Asian countries and territories, life expectancy trends and the effects of cause-specific mortality and risk factors on changes in these trends are analysed.",
+      "link": "https://www.nature.com/articles/s41586-026-10739-6",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:46",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ecd659d97855508a5f89dbb4a1c33c77",
+      "title": "مولکول تقویت شده با رزونانس الکترونیکی برای سلول های خورشیدی پروسکایت",
+      "title_fa": "مولکول تقویت شده با رزونانس الکترونیکی برای سلول های خورشیدی پروسکایت",
+      "title_en": "Electronic-resonance enhanced molecule for perovskite solar cells",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10919-4مولکول تقویت شده با رزونانس الکترونیکی برای سلول های خورشیدی پروسکایت",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10919-4مولکول تقویت شده با رزونانس الکترونیکی برای سلول های خورشیدی پروسکایت",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10919-4Electronic-resonance enhanced molecule for perovskite solar cells",
+      "link": "https://www.nature.com/articles/s41586-026-10919-4",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:45",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0fea738b6fe4a9947cbcb1d9543fbcab",
+      "title": "سنتز RNA و مهار آنالوگ سوبسترا در پلیمراز CCHFV",
+      "title_fa": "سنتز RNA و مهار آنالوگ سوبسترا در پلیمراز CCHFV",
+      "title_en": "RNA synthesis and substrate analog inhibition in the CCHFV polymerase",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10913-wRNA سنتز و مهار آنالوگ بستر در پلیمراز CCHFV",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/s41586-026-10913-wRNA سنتز و مهار آنالوگ بستر در پلیمراز CCHFV",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10913-wRNA synthesis and substrate analog inhibition in the CCHFV polymerase",
+      "link": "https://www.nature.com/articles/s41586-026-10913-w",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:45",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f47cf077a823c208e7660d869e8de2bd",
+      "title": "چه چیزی ماه به حساب می آید؟ \"ماهواره بیرونی\" بزرگ بحث را برانگیخت",
+      "title_fa": "چه چیزی ماه به حساب می آید؟ \"ماهواره بیرونی\" بزرگ بحث را برانگیخت",
+      "title_en": "What counts as a moon? Huge ‘exosatellite’ sparks debate",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02299-6کشف یک جرم دوردست مشتری می تواند راه را برای تشخیص ماه های بیرونی هموار کند - به علاوه، سرطان قابل انتقال نادری که در گربه ماهی یافت می شود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02299-6کشف یک جرم دوردست مشتری می تواند راه را برای تشخیص ماه های بیرونی هموار کند - به علاوه، سرطان قابل انتقال نادری که در گربه ماهی یافت می شود.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02299-6Discovery of a distant Jupiter-mass object could pave the way for detection of exomoons — plus, a rare transmissible cancer found in catfish.",
+      "link": "https://www.nature.com/articles/d41586-026-02299-6",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:45",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4748d4f61a7c9620a4d2a1d0cc65c7b2",
+      "title": "کامپیوترهای کوانتومی چگونه کار می کنند؟",
+      "title_fa": "کامپیوترهای کوانتومی چگونه کار می کنند؟",
+      "title_en": "How do quantum computers work?",
+      "summary": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02219-8پیشرفت های اخیر نشان می دهد که دستگاه های قابل استفاده می توانند در یک دهه آینده به بازار عرضه شوند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 22 جولای 2026; doi:10.1038/d41586-026-02219-8پیشرفت های اخیر نشان می دهد که دستگاه های قابل استفاده می توانند در یک دهه آینده به بازار عرضه شوند.",
+      "summary_en": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02219-8Recent breakthroughs suggest usable devices could be here in a decade.",
+      "link": "https://www.nature.com/articles/d41586-026-02219-8",
+      "source": "Nature",
+      "published_at": "2026-07-22 16:45",
+      "date_iso": "2026-07-22",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
