@@ -2,22 +2,43 @@ import os
 import json
 import re
 import datetime
+import hashlib
+from concurrent.futures import ThreadPoolExecutor
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# لیست گسترده‌تر منابع خبری معتبر جهانی
+# منابع خبری بزرگ و معتبر جهانی به تفکیک موضوع
 RSS_FEEDS = [
-    {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "سیاست", "region": "بین‌المللی"},
-    {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "category": "فناوری و AI", "region": "بین‌المللی"},
-    {"url": "https://aljazeera.com/xml/rss/all.xml", "category": "سیاست", "region": "خاورمیانه"},
-    {"url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
-    {"url": "https://sciencedaily.com/rss/all.xml", "category": "علم و سلامت", "region": "بین‌المللی"},
-    {"url": "https://feeds.washingtonpost.com/rss/world", "category": "سیاست", "region": "بین‌المللی"}
+    # سیاست و بین‌الملل
+    {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World", "category": "سیاست", "region": "بین‌المللی"},
+    {"url": "https://aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "category": "سیاست", "region": "خاورمیانه"},
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "NY Times", "category": "سیاست", "region": "بین‌المللی"},
+    {"url": "https://www.theguardian.com/world/rss", "source": "The Guardian", "category": "سیاست", "region": "بین‌المللی"},
+    {"url": "https://feeds.washingtonpost.com/rss/world", "source": "Washington Post", "category": "سیاست", "region": "بین‌المللی"},
+    {"url": "https://www.euronews.com/rss?format=xml", "source": "EuroNews", "category": "سیاست", "region": "اروپا"},
+    {"url": "http://rss.cnn.com/rss/edition_world.rss", "source": "CNN", "category": "سیاست", "region": "بین‌المللی"},
+    
+    # فناوری، هوش مصنوعی و سایبر
+    {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "source": "TechCrunch", "category": "فناوری و AI", "region": "بین‌المللی"},
+    {"url": "https://www.theverge.com/rss/index.xml", "source": "The Verge", "category": "فناوری و AI", "region": "بین‌المللی"},
+    {"url": "https://wired.com/feed/rss", "source": "Wired", "category": "فناوری و AI", "region": "بین‌المللی"},
+    {"url": "https://arstechnica.com/feed/", "source": "Ars Technica", "category": "فناوری و AI", "region": "بین‌المللی"},
+    {"url": "https://zdnet.com/news/rss.xml", "source": "ZDNet", "category": "فناوری و AI", "region": "بین‌المللی"},
+
+    # اقتصاد، بازار و انرژی
+    {"url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "source": "Reuters Business", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+    {"url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "source": "Wall Street Journal", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+    {"url": "https://ft.com/rss/home/uk", "source": "Financial Times", "category": "اقتصاد و بازار", "region": "اروپا"},
+    {"url": "https://cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+
+    # علم، سلامت و نظامی/امنیتی
+    {"url": "https://sciencedaily.com/rss/all.xml", "source": "Science Daily", "category": "علم و سلامت", "region": "بین‌المللی"},
+    {"url": "https://nature.com/nature.rss", "source": "Nature Journal", "category": "علم و سلامت", "region": "بین‌المللی"},
+    {"url": "https://defense.gov/DesktopModules/ArticleCS/RSS.aspx?ContentType=400&Site=945", "source": "Defense News", "category": "سیاست", "region": "بین‌المللی"}
 ]
 
-# پایگاه داده جغرافیایی غنی‌تر برای نقشه GIS
 LOCATION_GEO_MAP = {
     "iran": {"lat": 35.6892, "lng": 51.3890, "name": "ایران"},
     "tehran": {"lat": 35.6892, "lng": 51.3890, "name": "تهران"},
@@ -36,14 +57,16 @@ LOCATION_GEO_MAP = {
 
 DEFAULT_GEO = {"lat": 20.0, "lng": 0.0, "name": "بین‌المللی"}
 
+def generate_id(url):
+    return hashlib.md5(url.encode('utf-8')).hexdigest()
+
 def translate_text(text):
     if not text or len(text.strip()) == 0:
         return ""
     try:
-        translated = GoogleTranslator(source='auto', target='fa').translate(text[:3000])
+        translated = GoogleTranslator(source='auto', target='fa').translate(text[:2500])
         return translated if translated else text
     except Exception as e:
-        print(f"Translation Error: {e}")
         return text
 
 def extract_image(entry):
@@ -69,26 +92,26 @@ def detect_geo(text):
             return geo
     return DEFAULT_GEO
 
-def main():
-    print("شروع استخراج اخبار و انباشت داده‌های GIS...")
-    articles = []
-    art_id = 1
+def process_single_feed(feed_info):
+    extracted = []
+    try:
+        parsed = feedparser.parse(feed_info['url'])
+        for entry in parsed.entries[:20]: # دریافت تا ۲۰ خبر از هر منبع
+            link = entry.get('link', '')
+            if not link: continue
 
-    for feed in RSS_FEEDS:
-        parsed = feedparser.parse(feed['url'])
-        for entry in parsed.entries[:10]:
             title_en = entry.get('title', '')
             summary_raw = entry.get('summary', entry.get('description', ''))
-            
             soup = BeautifulSoup(summary_raw, 'html.parser')
             summary_en = soup.get_text()
 
+            art_id = generate_id(link)
             title_fa = translate_text(title_en)
             summary_fa = translate_text(summary_en)
             image_url = extract_image(entry)
             geo_info = detect_geo(title_en + " " + summary_en)
 
-            articles.append({
+            extracted.append({
                 "id": art_id,
                 "title": title_fa,
                 "title_fa": title_fa,
@@ -96,28 +119,56 @@ def main():
                 "summary": summary_fa,
                 "summary_fa": summary_fa,
                 "summary_en": summary_en,
-                "link": entry.get('link', '#'),
+                "link": link,
+                "source": feed_info['source'],
                 "published_at": entry.get('published', datetime.datetime.now().strftime("%Y-%m-%d %H:%M")),
-                "timestamp": int(datetime.datetime.now().timestamp()),
-                "category": feed['category'],
-                "region": feed['region'],
+                "date_iso": datetime.datetime.now().strftime("%Y-%m-%d"),
+                "category": feed_info['category'],
+                "region": feed_info['region'],
                 "image": image_url,
-                "geo": geo_info,
-                "views": 0,
-                "is_breaking": (art_id % 3 == 0) # تعیین نمونه اخبار فوری
+                "geo": geo_info
             })
-            art_id += 1
+    except Exception as e:
+        print(f"Error parsing feed {feed_info['source']}: {e}")
+    return extracted
+
+def main():
+    print("شروع جمع‌آوری اخبار همزمان از تمامی منابع بزرگ جهانی...")
+    
+    existing_articles = {}
+    if os.path.exists('news_data.json'):
+        try:
+            with open('news_data.json', 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                for art in old_data.get('articles', []):
+                    existing_articles[art['id']] = art
+        except Exception:
+            pass
+
+    new_articles = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        results = executor.map(process_single_feed, RSS_FEEDS)
+        for res in results:
+            new_articles.extend(res)
+
+    # ادغام اخبار جدید با آرشیو به طوری که دیتابیس همواره رشد کند
+    for art in new_articles:
+        existing_articles[art['id']] = art
+
+    final_articles = list(existing_articles.values())
+    # مرتب‌سازی اخبار (جدیدترین‌ها در ابتدا)
+    final_articles.sort(key=lambda x: x.get('published_at', ''), reverse=True)
 
     data_payload = {
         "last_update": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "total_count": len(articles),
-        "articles": articles
+        "total_count": len(final_articles),
+        "articles": final_articles
     }
 
     with open('news_data.json', 'w', encoding='utf-8') as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
-    print(f"پردازش ساختاریافته {len(articles)} خبر با موفقیت به پایان رسید.")
+    print(f"جمع‌آوری و آرشیو کامل شد. تعداد کل اخبار دیتابیس: {len(final_articles)}")
 
 if __name__ == '__main__':
     main()
