@@ -1,6 +1,5 @@
 import os
 import json
-import re
 import datetime
 import hashlib
 from concurrent.futures import ThreadPoolExecutor
@@ -46,7 +45,7 @@ def load_feeds():
     return []
 
 def generate_id(title, link):
-    """تولید هش یکتا بر اساس ترکیب عنوان و لینک برای ممانعت از ثبت تکراری"""
+    """تولید هش یکتا جهت ممانعت از ثبت تکراری اخبار"""
     normalized = f"{title.strip().lower()}_{link.strip().lower()}"
     return hashlib.md5(normalized.encode('utf-8')).hexdigest()
 
@@ -61,7 +60,7 @@ def translate_text(text):
         return text
 
 def extract_image(entry):
-    """استخراج پیشرفته تصویر از تمامی تک‌ها و سورس‌های ممکن RSS"""
+    """استخراج پیشرفته تصویر از RSS"""
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url')
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
@@ -86,14 +85,19 @@ def detect_geo(text):
     return DEFAULT_GEO
 
 def process_single_feed(feed_info):
-    """استخراج و ترجمه اخبار یک Feed به‌صورت مجزا با درخواست مستقیم requests"""
+    """استخراج و ترجمه اخبار یک Feed"""
     extracted = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        response = requests.get(feed_info['url'], headers=headers, timeout=12)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+        url = feed_info.get('url') or feed_info.get('link')
+        source_name = feed_info.get('source') or feed_info.get('name') or 'خبرگزاری'
+        category = feed_info.get('category') or feed_info.get('topic') or 'سیاست'
+        region = feed_info.get('region') or 'بین‌المللی'
+
+        response = requests.get(url, headers=headers, timeout=12)
         parsed = feedparser.parse(response.content)
 
-        for entry in parsed.entries[:30]:
+        for entry in parsed.entries[:25]:
             link = entry.get('link', '')
             title_en = entry.get('title', '')
             if not link or not title_en:
@@ -120,11 +124,11 @@ def process_single_feed(feed_info):
                 "summary_fa": summary_fa,
                 "summary_en": summary_en,
                 "link": link,
-                "source": feed_info['source'],
+                "source": source_name,
                 "published_at": pub_date,
                 "date_iso": datetime.datetime.now().strftime("%Y-%m-%d"),
-                "category": feed_info['category'],
-                "region": feed_info['region'],
+                "category": category,
+                "region": region,
                 "image": image_url,
                 "geo": geo_info
             })
@@ -138,11 +142,10 @@ def main():
         print("هیچ منبعی در feeds.json یافت نشد!")
         return
 
-    print(f"شروع استخراج همزمان اخبار از {len(rss_feeds)} منبع در لایه‌های مختلف...")
+    print(f"شروع استخراج همزمان اخبار از {len(rss_feeds)} منبع...")
     
     existing_articles = {}
     
-    # ۱. بارگذاری آرشیو قدیمی جهت ادغام اخبار و حفظ دیتابیس
     if os.path.exists('news_data.json'):
         try:
             with open('news_data.json', 'r', encoding='utf-8') as f:
@@ -153,16 +156,12 @@ def main():
         except Exception as e:
             print(f"خطا در خواندن آرشیو قبلی: {e}")
 
-    # ۲. پردازش همزمان فیدها با ThreadPoolExecutor
     new_articles_flat = []
-    with ThreadPoolExecutor(max_workers=12) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         results = executor.map(process_single_feed, rss_feeds)
         for res in results:
             new_articles_flat.extend(res)
 
-    print(f"تعداد کل کاندیدهای خبر دریافت شده: {len(new_articles_flat)}")
-
-    # ۳. جلوگیری از ثبت اخبار تکراری با بررسی هش یکتا
     added_new_count = 0
     for art in new_articles_flat:
         if art['id'] not in existing_articles:
@@ -170,8 +169,6 @@ def main():
             added_new_count += 1
 
     final_articles = list(existing_articles.values())
-    
-    # ۴. مرتب‌سازی اخبار بر اساس تاریخ
     final_articles.sort(key=lambda x: x.get('published_at', ''), reverse=True)
 
     data_payload = {
@@ -180,7 +177,6 @@ def main():
         "articles": final_articles
     }
 
-    # ۵. ذخیره‌سازی فایل خروجی
     with open('news_data.json', 'w', encoding='utf-8') as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
