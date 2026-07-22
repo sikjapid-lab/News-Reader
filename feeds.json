@@ -1,0 +1,16 @@
+[
+  {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "category": "سیاست", "region": "خاورمیانه"},
+  {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "NY Times", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://www.theguardian.com/world/rss", "source": "The Guardian", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://feeds.washingtonpost.com/rss/world", "source": "Washington Post", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://www.euronews.com/rss?format=xml", "source": "EuroNews", "category": "سیاست", "region": "اروپا"},
+  {"url": "http://rss.cnn.com/rss/edition_world.rss", "source": "CNN World", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "source": "TechCrunch", "category": "فناوری و AI", "region": "بین‌المللی"},
+  {"url": "https://www.theverge.com/rss/index.xml", "source": "The Verge", "category": "فناوری و AI", "region": "بین‌المللی"},
+  {"url": "https://wired.com/feed/rss", "source": "Wired", "category": "فناوری و AI", "region": "بین‌المللی"},
+  {"url": "https://arstechnica.com/feed/", "source": "Ars Technica", "category": "فناوری و AI", "region": "بین‌المللی"},
+  {"url": "https://sciencedaily.com/rss/all.xml", "source": "Science Daily", "category": "علم و سلامت", "region": "بین‌المللی"},
+  {"url": "https://ft.com/rss/home/uk", "source": "Financial Times", "category": "اقتصاد و بازار", "region": "اروپا"},
+  {"url": "https://cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "category": "اقتصاد و بازار", "region": "بین‌المللی"}
+]
