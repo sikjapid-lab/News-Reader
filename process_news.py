@@ -7,14 +7,17 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
+# لیست گسترده‌تر منابع خبری معتبر جهانی
 RSS_FEEDS = [
     {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "سیاست", "region": "بین‌المللی"},
     {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "category": "فناوری و AI", "region": "بین‌المللی"},
     {"url": "https://aljazeera.com/xml/rss/all.xml", "category": "سیاست", "region": "خاورمیانه"},
     {"url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
-    {"url": "https://sciencedaily.com/rss/all.xml", "category": "علم و سلامت", "region": "بین‌المللی"}
+    {"url": "https://sciencedaily.com/rss/all.xml", "category": "علم و سلامت", "region": "بین‌المللی"},
+    {"url": "https://feeds.washingtonpost.com/rss/world", "category": "سیاست", "region": "بین‌المللی"}
 ]
 
+# پایگاه داده جغرافیایی غنی‌تر برای نقشه GIS
 LOCATION_GEO_MAP = {
     "iran": {"lat": 35.6892, "lng": 51.3890, "name": "ایران"},
     "tehran": {"lat": 35.6892, "lng": 51.3890, "name": "تهران"},
@@ -26,7 +29,9 @@ LOCATION_GEO_MAP = {
     "russia": {"lat": 55.7558, "lng": 37.6173, "name": "مسکو"},
     "ukraine": {"lat": 50.4501, "lng": 30.5234, "name": "اوکراین"},
     "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"},
-    "france": {"lat": 48.8566, "lng": 2.3522, "name": "فرانسه"}
+    "france": {"lat": 48.8566, "lng": 2.3522, "name": "فرانسه"},
+    "london": {"lat": 51.5074, "lng": -0.1278, "name": "لندن"},
+    "tokyo": {"lat": 35.6762, "lng": 139.6503, "name": "توکیو"}
 }
 
 DEFAULT_GEO = {"lat": 20.0, "lng": 0.0, "name": "بین‌المللی"}
@@ -35,7 +40,7 @@ def translate_text(text):
     if not text or len(text.strip()) == 0:
         return ""
     try:
-        translated = GoogleTranslator(source='auto', target='fa').translate(text[:4000])
+        translated = GoogleTranslator(source='auto', target='fa').translate(text[:3000])
         return translated if translated else text
     except Exception as e:
         print(f"Translation Error: {e}")
@@ -55,7 +60,6 @@ def extract_image(entry):
         img = soup.find('img')
         if img and img.get('src'):
             return img['src']
-    # تصویر پیش‌فرض استوک باکیفیت در صورت عدم وجود تصویر
     return "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80"
 
 def detect_geo(text):
@@ -66,13 +70,13 @@ def detect_geo(text):
     return DEFAULT_GEO
 
 def main():
-    print("در حال استخراج و پردازش اخبار...")
+    print("شروع استخراج اخبار و انباشت داده‌های GIS...")
     articles = []
     art_id = 1
 
     for feed in RSS_FEEDS:
         parsed = feedparser.parse(feed['url'])
-        for entry in parsed.entries[:8]:
+        for entry in parsed.entries[:10]:
             title_en = entry.get('title', '')
             summary_raw = entry.get('summary', entry.get('description', ''))
             
@@ -94,10 +98,13 @@ def main():
                 "summary_en": summary_en,
                 "link": entry.get('link', '#'),
                 "published_at": entry.get('published', datetime.datetime.now().strftime("%Y-%m-%d %H:%M")),
+                "timestamp": int(datetime.datetime.now().timestamp()),
                 "category": feed['category'],
                 "region": feed['region'],
                 "image": image_url,
-                "geo": geo_info
+                "geo": geo_info,
+                "views": 0,
+                "is_breaking": (art_id % 3 == 0) # تعیین نمونه اخبار فوری
             })
             art_id += 1
 
@@ -110,7 +117,7 @@ def main():
     with open('news_data.json', 'w', encoding='utf-8') as f:
         json.dump(data_payload, f, ensure_ascii=False, indent=2)
 
-    print(f"تعداد {len(articles)} خبر با موفقیت پردازش شد.")
+    print(f"پردازش ساختاریافته {len(articles)} خبر با موفقیت به پایان رسید.")
 
 if __name__ == '__main__':
     main()
