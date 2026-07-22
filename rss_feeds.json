@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Reuters World",
+    "url": "https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best",
+    "region": "global",
+    "topic": "politics"
+  },
+  {
+    "name": "BBC News - World",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "region": "global",
+    "topic": "politics"
+  },
+  {
+    "name": "BBC Middle East",
+    "url": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    "region": "middle_east",
+    "topic": "politics"
+  },
+  {
+    "name": "CNN World",
+    "url": "http://rss.cnn.com/rss/edition_world.rss",
+    "region": "americas",
+    "topic": "politics"
+  },
+  {
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "region": "middle_east",
+    "topic": "politics"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "region": "global",
+    "topic": "technology"
+  },
+  {
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss",
+    "region": "americas",
+    "topic": "technology"
+  },
+  {
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "region": "americas",
+    "topic": "technology"
+  },
+  {
+    "name": "Bloomberg Economy",
+    "url": "https://feeds.bloomberg.com/economics/news.rss",
+    "region": "global",
+    "topic": "economy"
+  },
+  {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/rss/home/uk",
+    "region": "europe",
+    "topic": "economy"
+  },
+  {
+    "name": "Nature News",
+    "url": "https://www.nature.com/nature.rss",
+    "region": "global",
+    "topic": "science"
+  },
+  {
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/rss/all.xml",
+    "region": "global",
+    "topic": "science"
+  },
+  {
+    "name": "Deutsche Welle (DW)",
+    "url": "https://rss.dw.com/xml/rss-out_top-stories_all",
+    "region": "europe",
+    "topic": "politics"
+  },
+  {
+    "name": "The Guardian World",
+    "url": "https://www.theguardian.com/world/rss",
+    "region": "europe",
+    "topic": "politics"
+  },
+  {
+    "name": "France 24",
+    "url": "https://www.france24.com/en/rss",
+    "region": "europe",
+    "topic": "politics"
+  },
+  {
+    "name": "Japan Times",
+    "url": "https://www.japantimes.co.jp/feed/",
+    "region": "asia_pacific",
+    "topic": "politics"
+  },
+  {
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/rss/91/feed",
+    "region": "asia_pacific",
+    "topic": "politics"
+  },
+  {
+    "name": "ESPN Sports",
+    "url": "https://www.espn.com/espn/rss/news",
+    "region": "global",
+    "topic": "culture"
+  },
+  {
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/foundation/rss/index.html",
+    "region": "global",
+    "topic": "science"
+  },
+  {
+    "name": "BBC Technology",
+    "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "region": "global",
+    "topic": "technology"
+  }
+]
