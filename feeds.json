@@ -6,11 +6,19 @@
   {"url": "https://feeds.washingtonpost.com/rss/world", "source": "Washington Post", "category": "سیاست", "region": "بین‌المللی"},
   {"url": "https://www.euronews.com/rss?format=xml", "source": "EuroNews", "category": "سیاست", "region": "اروپا"},
   {"url": "http://rss.cnn.com/rss/edition_world.rss", "source": "CNN World", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best", "source": "Reuters", "category": "سیاست", "region": "بین‌المللی"},
   {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "source": "TechCrunch", "category": "فناوری و AI", "region": "بین‌المللی"},
   {"url": "https://www.theverge.com/rss/index.xml", "source": "The Verge", "category": "فناوری و AI", "region": "بین‌المللی"},
   {"url": "https://wired.com/feed/rss", "source": "Wired", "category": "فناوری و AI", "region": "بین‌المللی"},
   {"url": "https://arstechnica.com/feed/", "source": "Ars Technica", "category": "فناوری و AI", "region": "بین‌المللی"},
+  {"url": "https://zdnet.com/news/rss.xml", "source": "ZDNet", "category": "فناوری و AI", "region": "بین‌المللی"},
   {"url": "https://sciencedaily.com/rss/all.xml", "source": "Science Daily", "category": "علم و سلامت", "region": "بین‌المللی"},
+  {"url": "https://nature.com/nature.rss", "source": "Nature", "category": "علم و سلامت", "region": "بین‌المللی"},
+  {"url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "source": "Reuters Business", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+  {"url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "source": "Wall Street Journal", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
   {"url": "https://ft.com/rss/home/uk", "source": "Financial Times", "category": "اقتصاد و بازار", "region": "اروپا"},
-  {"url": "https://cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "category": "اقتصاد و بازار", "region": "بین‌المللی"}
+  {"url": "https://cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+  {"url": "https://marketwatch.com/rss/topstories", "source": "MarketWatch", "category": "اقتصاد و بازار", "region": "بین‌المللی"},
+  {"url": "https://defense.gov/DesktopModules/ArticleCS/RSS.aspx?ContentType=400&Site=945", "source": "Defense News", "category": "سیاست", "region": "بین‌المللی"},
+  {"url": "https://www.militarytimes.com/arc/outboundfeeds/rss/", "source": "Military Times", "category": "سیاست", "region": "بین‌المللی"}
 ]
