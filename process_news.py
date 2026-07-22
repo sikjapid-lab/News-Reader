@@ -7,7 +7,6 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 
-# لیست کامل RSS
 RSS_FEEDS = [
     {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "سیاست", "region": "بین‌المللی"},
     {"url": "https://rss.app/feeds/v1.1/_techcrunch.xml", "category": "فناوری و AI", "region": "بین‌المللی"},
@@ -25,10 +24,9 @@ LOCATION_GEO_MAP = {
     "usa": {"lat": 38.9072, "lng": -77.0369, "name": "آمریکا"},
     "washington": {"lat": 38.9072, "lng": -77.0369, "name": "واشنگتن"},
     "china": {"lat": 39.9042, "lng": 116.4074, "name": "چین"},
-    "russia": {"lat": 55.7558, "lng": 37.6173, "name": "روسیه"},
+    "russia": {"lat": 55.7558, "lng": 37.6173, "name": "مسکو"},
     "ukraine": {"lat": 50.4501, "lng": 30.5234, "name": "اوکراین"},
-    "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"},
-    "tokyo": {"lat": 35.6762, "lng": 139.6503, "name": "توکیو"}
+    "europe": {"lat": 50.8503, "lng": 4.3517, "name": "اروپا"}
 }
 
 DEFAULT_GEO = {"lat": 20.0, "lng": 0.0, "name": "بین‌المللی"}
@@ -39,11 +37,10 @@ def translate_text(text):
     try:
         return GoogleTranslator(source='auto', target='fa').translate(text[:4500])
     except Exception as e:
-        print(f"Translation Error: {e}")
+        print(f"Translation Exception: {e}")
         return text
 
 def extract_image(entry):
-    """حذف کامل تصاویر تزئینی؛ اگر تصویر واقعی نبود None برمی‌گرداند"""
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0]['url']
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
@@ -102,7 +99,7 @@ def process_all_feeds():
                 "image": image_url,
                 "geo": geo_info
             }
-                articles.append(article)
+            articles.append(article)
             article_id += 1
 
     now_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -112,11 +109,9 @@ def process_all_feeds():
         "articles": articles
     }
 
-    # ۱. بروزرسانی فایل اصلی اخبار
     with open('news_data.json', 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-    # ۲. ذخیره پایدار NoSQL در فایل news_archive.json
     archive_data = []
     if os.path.exists('news_archive.json'):
         try:
@@ -133,7 +128,7 @@ def process_all_feeds():
     with open('news_archive.json', 'w', encoding='utf-8') as f:
         json.dump(archive_data, f, ensure_ascii=False, indent=2)
 
-    print("پردازش و آرشیو با موفقیت کامل انجام شد.")
+    print("پردازش با موفقیت انجام شد.")
 
 if __name__ == '__main__':
     process_all_feeds()
