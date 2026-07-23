@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-22 23:59:56",
-  "total_count": 738,
+  "last_update": "2026-07-23 03:38:24",
+  "total_count": 763,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -84,6 +84,27 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "d57c90b538e67cd9b542202af982e5b4",
+      "title": "مدیر عامل ServiceNow از ارتباط شرکت دفاع می کند و یک سوئیچ کشتن را برای عوامل سرکش هوش مصنوعی تبلیغ می کند.",
+      "title_fa": "مدیر عامل ServiceNow از ارتباط شرکت دفاع می کند و یک سوئیچ کشتن را برای عوامل سرکش هوش مصنوعی تبلیغ می کند.",
+      "title_en": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+      "summary": "بیل مک‌درموت، مدیر عامل ServiceNow، گفت که این شرکت اهمیت فزاینده‌ای پیدا می‌کند زیرا کسب‌وکارها عوامل هوش مصنوعی بیشتری را مستقر می‌کنند.",
+      "summary_fa": "بیل مک‌درموت، مدیر عامل ServiceNow، گفت که این شرکت اهمیت فزاینده‌ای پیدا می‌کند زیرا کسب‌وکارها عوامل هوش مصنوعی بیشتری را مستقر می‌کنند.",
+      "summary_en": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+      "link": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+      "source": "CNBC",
+      "published_at": "Wed, 22 Jul 2026 22:56:13 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -12125,6 +12146,321 @@
       }
     },
     {
+      "id": "8f87e924694beee6a8aa4b474394c943",
+      "title": "آمریکا توافق هسته ای تاریخی با عربستان سعودی را اعلام کرد",
+      "title_fa": "آمریکا توافق هسته ای تاریخی با عربستان سعودی را اعلام کرد",
+      "title_en": "US announces landmark nuclear deal with Saudi Arabia",
+      "summary": "دولت ترامپ جزئیات این توافق را منتشر نکرد، اما این چارچوب به طور بالقوه می تواند تسهیلاتی را در اختیار عربستان سعودی قرار دهد که به این کشور اجازه غنی سازی اورانیوم را بدهد.",
+      "summary_fa": "دولت ترامپ جزئیات این توافق را منتشر نکرد، اما این چارچوب به طور بالقوه می تواند تسهیلاتی را در اختیار عربستان سعودی قرار دهد که به این کشور اجازه غنی سازی اورانیوم را بدهد.",
+      "summary_en": "The Trump administration did not release details of the deal, but the framework could potentially provide Saudi Arabia with a facility that would allow it to enrich uranium.",
+      "link": "http://www.euronews.com/2026/07/23/us-announces-landmark-nuclear-deal-with-saudi-arabia",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 05:24:54 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a9b2f4a05cadafde188da650735b46d",
+      "title": "اخبار استرالیا به صورت زنده: Husic می گوید پس از مقاومت نخست وزیر در برابر تغییر سیاست، حزب کارگر باید نشان دهد که \"فولاد در ستون فقراتش\" در مورد مالیات صادرات گاز وجود دارد.",
+      "title_fa": "اخبار استرالیا به صورت زنده: Husic می گوید پس از مقاومت نخست وزیر در برابر تغییر سیاست، حزب کارگر باید نشان دهد که \"فولاد در ستون فقراتش\" در مورد مالیات صادرات گاز وجود دارد.",
+      "title_en": "Australia news live: Husic says Labor must show ‘it’s got steel in the spine’ on gas export tax after PM resists policy change",
+      "summary": "رایانامه اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دنبال کنید. موارد خشونت خانگی گزارش شده توسط خود در نیوساوت ولز در حال کاهش است، اما مرگ و میر و بستری شدن در بیمارستان کاهش نمی یابد. نشان دهنده سطوح زیربنایی خشونت در جامعه است، نه فقط آنچه به پلیس گزارش می شود. این نشان می‌دهد که، علی‌رغم افزایش گزارش‌های خشونت خانگی به پلیس، خشونت خانگی در جامعه افزایش نمی‌یابد و ممکن است روند کاهشی داشته باشد. این تصور قوی وجود دارد که خشونت علیه زنان در حال افزایش است، که با توجه به افزایش حوادث ثبت‌شده توسط پلیس، افزایش توجه رسانه‌ها و آگاهی بیشتر عمومی قابل درک است. ادامه مطلب...",
+      "summary_fa": "رایانامه اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دنبال کنید. موارد خشونت خانگی گزارش شده توسط خود در نیوساوت ولز در حال کاهش است، اما مرگ و میر و بستری شدن در بیمارستان کاهش نمی یابد. نشان دهنده سطوح زیربنایی خشونت در جامعه است، نه فقط آنچه به پلیس گزارش می شود. این نشان می‌دهد که، علی‌رغم افزایش گزارش‌های خشونت خانگی به پلیس، خشونت خانگی در جامعه افزایش نمی‌یابد و ممکن است روند کاهشی داشته باشد. این تصور قوی وجود دارد که خشونت علیه زنان در حال افزایش است، که با توجه به افزایش حوادث ثبت‌شده توسط پلیس، افزایش توجه رسانه‌ها و آگاهی بیشتر عمومی قابل درک است. ادامه مطلب...",
+      "summary_en": "Follow liveGet our breaking news email, free app or daily news podcastSelf-reported domestic violence incidents declining in NSW but deaths and hospitalisations fail to fallNew data shows self-reported domestic violence incidents in New South Wales have declined, but the number of women and children murdered or hospitalised in domestic and family violence incidents over the past eight years has not significantly budged.The decline in self-reported violence is significant because it reflects underlying levels of violence in the community, not just what is reported to police. It suggests that, despite rising reports of domestic violence to police, domestic violence in the community is not increasing and may be trending down.There’s a strong perception that violence against women is rising, which is understandable given increases in police-recorded incidents, heightened media attention and greater public awareness. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 03:28:45 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1cd2503bad892f6447623a9d1ae3c89884b7da94/601_0_6012_4810/master/6012.jpg?width=140&quality=85&auto=format&fit=max&s=7a864ecaa317fc4cfaa8daecf7106422",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "133b6bbbcfb7ebe1dce183c27f2b48c0",
+      "title": "قیمت شرکت تراشه‌ها به‌عنوان با ارزش‌ترین شرکت چینی قبل از بررسی دقیق پلتفرم ارزهای دیجیتال",
+      "title_fa": "قیمت شرکت تراشه‌ها به‌عنوان با ارزش‌ترین شرکت چینی قبل از بررسی دقیق پلتفرم ارزهای دیجیتال",
+      "title_en": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+      "summary": "حق بیمه بزرگ تا حدی به دلیل سرمایه‌گذاران خارج از کشور بود که از فهرست‌های مورد انتظار خارج شدند و برای بازار موازی به ارزهای دیجیتال روی آوردند.",
+      "summary_fa": "حق بیمه بزرگ تا حدی به دلیل سرمایه‌گذاران خارج از کشور بود که از فهرست‌های مورد انتظار خارج شدند و برای بازار موازی به ارزهای دیجیتال روی آوردند.",
+      "summary_en": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
+      "link": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 03:28:22 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "0812c37e3b46c987d04b65c281164502",
+      "title": "مهاجمان مسلح بیش از 20 نفر را در شمال غربی نیجریه کشتند",
+      "title_fa": "مهاجمان مسلح بیش از 20 نفر را در شمال غربی نیجریه کشتند",
+      "title_en": "Armed attackers kill more than 20 in northwest Nigeria",
+      "summary": "این حملات نشان دهنده افزایش خشونت ها در حالی است که باندهای مسلح به حمله به روستاها در شمال غرب و مرکز نیجریه ادامه می دهند.",
+      "summary_fa": "این حملات نشان دهنده افزایش خشونت ها در حالی است که باندهای مسلح به حمله به روستاها در شمال غرب و مرکز نیجریه ادامه می دهند.",
+      "summary_en": "The attacks reflect a surge in violence as armed gangs continue raiding villages in northwest and central Nigeria.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 03:21:00 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0d31238a898bf2e6e0891ee798c985f2",
+      "title": "حوثی‌ها مدعی حمله به نفتکش‌ها در حالی که حملات بیشتر آمریکا به ایران انجام می‌شود، هستند",
+      "title_fa": "حوثی‌ها مدعی حمله به نفتکش‌ها در حالی که حملات بیشتر آمریکا به ایران انجام می‌شود، هستند",
+      "title_en": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "summary": "حملات حوثی ها اولین حمله در دریای سرخ از زمانی است که گروه مورد حمایت ایران از «تحریم دریایی» علیه عربستان سعودی خبر داد.",
+      "summary_fa": "حملات حوثی ها اولین حمله در دریای سرخ از زمانی است که گروه مورد حمایت ایران از «تحریم دریایی» علیه عربستان سعودی خبر داد.",
+      "summary_en": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 03:16:51 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b7c5fd757e6ae6ff90ecb7546a49faae",
+      "title": "در غزه، یک راه طولانی برای بهبودی برای یک زن که چشم و دخترش را از دست داده است",
+      "title_fa": "در غزه، یک راه طولانی برای بهبودی برای یک زن که چشم و دخترش را از دست داده است",
+      "title_en": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
+      "summary": "جراحات روحی و روانی آسیب های جسمی نجوا را پس از از دست دادن دخترش در حمله هوایی اسرائیل تشدید می کند.",
+      "summary_fa": "جراحات روحی و روانی آسیب های جسمی نجوا را پس از از دست دادن دخترش در حمله هوایی اسرائیل تشدید می کند.",
+      "summary_en": "Psychological wounds compound Najwa's physical injuries after losing her daughter in an Israeli air strike.",
+      "link": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 03:07:01 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "72b00608a6ec27f09e9756f7d05245b7",
+      "title": "حوثی ها مدعی حمله به 2 نفتکش سعودی در دریای سرخ شدند",
+      "title_fa": "حوثی ها مدعی حمله به 2 نفتکش سعودی در دریای سرخ شدند",
+      "title_en": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
+      "summary": "مقامات سعودی حمله به یکی از کشتی ها را تایید کردند. این اولین حملاتی است که از زمان اعلام محاصره عربستان سعودی توسط گروه یمنی مورد حمایت ایران انجام شده است.",
+      "summary_fa": "مقامات سعودی حمله به یکی از کشتی ها را تایید کردند. این اولین حملاتی است که از زمان اعلام محاصره عربستان سعودی توسط گروه یمنی مورد حمایت ایران انجام شده است.",
+      "summary_en": "The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 02:59:44 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-oil-tankers-htqp/22mideast-live-oil-tankers-htqp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "be49a1073567231d5d198e65f85bbc85",
+      "title": "خبرنامه Inside India: موشک Skyroot هند را در کنار ایالات متحده و چین در پرتاب مداری خصوصی قرار می دهد.",
+      "title_fa": "خبرنامه Inside India: موشک Skyroot هند را در کنار ایالات متحده و چین در پرتاب مداری خصوصی قرار می دهد.",
+      "title_en": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
+      "summary": "استارت‌آپ هندی Skyroot به شرکت‌های خصوصی چینی و آمریکایی در رقابت برای پرتاب ماهواره‌ها در مدار پایین می‌پیوندد.",
+      "summary_fa": "استارت‌آپ هندی Skyroot به شرکت‌های خصوصی چینی و آمریکایی در رقابت برای پرتاب ماهواره‌ها در مدار پایین می‌پیوندد.",
+      "summary_en": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
+      "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 02:37:12 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "15e5670ccae1b7b8faac533559caa339",
+      "title": "آلفابت و تسلا صبر وال استریت را آزمایش می کنند زیرا هزینه های هوش مصنوعی رشد را تحت الشعاع قرار می دهد",
+      "title_fa": "آلفابت و تسلا صبر وال استریت را آزمایش می کنند زیرا هزینه های هوش مصنوعی رشد را تحت الشعاع قرار می دهد",
+      "title_en": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+      "summary": "سهام آلفابت و تسلا پس از گزارش این شرکت‌ها در گزارش‌های سود سه ماهه خود، افزایش مخارج خود را کاهش دادند.",
+      "summary_fa": "سهام آلفابت و تسلا پس از گزارش این شرکت‌ها در گزارش‌های سود سه ماهه خود، افزایش مخارج خود را کاهش دادند.",
+      "summary_en": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+      "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 01:48:22 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "daca961af6fb4cf1cb0d4d7179ce1d8b",
+      "title": "چرا مرگ عبدالرحیم فاکر بحث پاسخگویی پلیس ایتالیا را دوباره برانگیخت",
+      "title_fa": "چرا مرگ عبدالرحیم فاکر بحث پاسخگویی پلیس ایتالیا را دوباره برانگیخت",
+      "title_en": "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
+      "summary": "مرگ یک مرد مراکشی الاصل در بولونیا خشم را برانگیخته و مجدداً بررسی دقیق پلیس و اصلاحات قانونی ایتالیا را برانگیخته است.",
+      "summary_fa": "مرگ یک مرد مراکشی الاصل در بولونیا خشم را برانگیخته و مجدداً بررسی دقیق پلیس و اصلاحات قانونی ایتالیا را برانگیخته است.",
+      "summary_en": "A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 01:44:30 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c5dcd30510a9dcd41a96c92e4e08f1c",
+      "title": "افزایش قیمت نفت پس از برخورد نفتکش در نزدیکی عربستان، ترامپ تهدیدات ایران را تشدید کرد",
+      "title_fa": "افزایش قیمت نفت پس از برخورد نفتکش در نزدیکی عربستان، ترامپ تهدیدات ایران را تشدید کرد",
+      "title_en": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+      "summary": "قیمت نفت پس از تهدید دونالد ترامپ، رئیس جمهور آمریکا به بمباران زیرساخت های ایران در پاسخ به هرگونه حمله به کشتی هایی که از تنگه هرمز عبور می کنند، افزایش یافت.",
+      "summary_fa": "قیمت نفت پس از تهدید دونالد ترامپ، رئیس جمهور آمریکا به بمباران زیرساخت های ایران در پاسخ به هرگونه حمله به کشتی هایی که از تنگه هرمز عبور می کنند، افزایش یافت.",
+      "summary_en": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 01:34:22 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "3e8ec9ca1844ac7e0627dc874308e64f",
+      "title": "برنامه سه فرودگاه برای حذف T.S.A. عوامل در میان فشار برای امنیت خصوصی",
+      "title_fa": "برنامه سه فرودگاه برای حذف T.S.A. عوامل در میان فشار برای امنیت خصوصی",
+      "title_en": "Three Airports Plan to Ditch T.S.A. Agents Amid Push for Private Security",
+      "summary": "سخنگوی آژانس روز چهارشنبه تایید کرد که فرودگاه ها مدل امنیتی جدید آژانس را انتخاب کرده اند. یکی از مقامات اتحادیه گفت که این اقدام می تواند امنیت عمومی را به خطر بیندازد.",
+      "summary_fa": "سخنگوی آژانس روز چهارشنبه تایید کرد که فرودگاه ها مدل امنیتی جدید آژانس را انتخاب کرده اند. یکی از مقامات اتحادیه گفت که این اقدام می تواند امنیت عمومی را به خطر بیندازد.",
+      "summary_en": "The airports have opted in to the agency’s new security model, an agency spokesperson confirmed on Wednesday. A union official said the move could jeopardize public safety.",
+      "link": "https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 01:34:12 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22trav-tsa-hmzb/22trav-tsa-hmzb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6a331299ce15096c00fc03ae25fa6a52",
+      "title": "تاریخ و زمان تست AusAlert: آژیر هشدار اضطراری روز دوشنبه بر روی اکثر تلفن‌های استرالیا منفجر می‌شود. در اینجا چیزی است که باید بدانید",
+      "title_fa": "تاریخ و زمان تست AusAlert: آژیر هشدار اضطراری روز دوشنبه بر روی اکثر تلفن‌های استرالیا منفجر می‌شود. در اینجا چیزی است که باید بدانید",
+      "title_en": "AusAlert test date and time: emergency warning siren will blast over most phones in Australia on Monday. Here’s what to know",
+      "summary": "هشدار تست اضطراری ملی در 27 ژوئیه به همه دستگاه‌های تلفن همراه ارسال می‌شود و طرفداران خشونت خانگی توصیه می‌کنند چگونه تلفن‌های ایمن را خاموش کنید. وبلاگ زنده اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید تقریباً همه تلفن‌های کشور در ساعت 2 بعدازظهر روز دوشنبه 27 ژوئیه به عنوان بخشی از اولین تست ملی استرالیا-Australiat، یک آژیر اضطراری در ساعت 2 بعدازظهر به صدا در خواهند آمد. تلفن‌ها، و برخی از ساعت‌های هوشمند و تبلت‌ها، یک اعلان پاپ‌آپ و یک صدای هشدار دریافت می‌کنند که نمی‌توان آن را بی‌صدا کرد – حتی اگر دستگاه شما در حالت «مزاحم نشوید» یا حالت بی‌صدا باشد. ادامه مطلب...",
+      "summary_fa": "هشدار تست اضطراری ملی در 27 ژوئیه به همه دستگاه‌های تلفن همراه ارسال می‌شود و طرفداران خشونت خانگی توصیه می‌کنند چگونه تلفن‌های ایمن را خاموش کنید. وبلاگ زنده اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید تقریباً همه تلفن‌های کشور در ساعت 2 بعدازظهر روز دوشنبه 27 ژوئیه به عنوان بخشی از اولین تست ملی استرالیا-Australiat، یک آژیر اضطراری در ساعت 2 بعدازظهر به صدا در خواهند آمد. تلفن‌ها، و برخی از ساعت‌های هوشمند و تبلت‌ها، یک اعلان پاپ‌آپ و یک صدای هشدار دریافت می‌کنند که نمی‌توان آن را بی‌صدا کرد – حتی اگر دستگاه شما در حالت «مزاحم نشوید» یا حالت بی‌صدا باشد. ادامه مطلب...",
+      "summary_en": "National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phonesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVirtually every phone in the country will blare an emergency siren at 2pm AEST on Monday 27 July as part of the first Australia-wide test of a new national warning system called AusAlert.Most phones, and some smartwatches and tablets, will receive a pop-up notification and an alert sound that cannot be silenced – even if your device is on “do not disturb” or silent mode. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 01:32:25 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4311c69f268807a7d4eaba587f3f622fe2d269fd/1110_6_6270_5016/master/6270.jpg?width=140&quality=85&auto=format&fit=max&s=5863930652e8b1d36537ccfd17132989",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "f3491d0a61e41ef3d765d3d70d3137e0",
+      "title": "اسپانیا و فرانسه با آتش‌سوزی‌های شدید جنگلی می‌جنگند و خطر آتش‌سوزی‌های دیگر نیز زیاد است",
+      "title_fa": "اسپانیا و فرانسه با آتش‌سوزی‌های شدید جنگلی می‌جنگند و خطر آتش‌سوزی‌های دیگر نیز زیاد است",
+      "title_en": "Spain and France battle raging wildfires, face high risk of more",
+      "summary": "آتش سوزی جنگلی در منطقه گوادالاخارا اسپانیا 32 هزار هکتار را در یکی از بزرگترین آتش سوزی های ثبت شده در این کشور سوخت.",
+      "summary_fa": "آتش سوزی جنگلی در منطقه گوادالاخارا اسپانیا 32 هزار هکتار را در یکی از بزرگترین آتش سوزی های ثبت شده در این کشور سوخت.",
+      "summary_en": "A wildfire in Spain's Guadalajara region has burned 32,000 hectares, in one of the country's largest recorded blazes.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 01:23:57 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "1f98109f54783a3341a84db4ef4c7d76",
+      "title": "تعرفه های ایالات متحده لولا را در برابر پسر بولسونارو در انتخابات آینده \"تقویت\" می کند",
+      "title_fa": "تعرفه های ایالات متحده لولا را در برابر پسر بولسونارو در انتخابات آینده \"تقویت\" می کند",
+      "title_en": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+      "summary": "با در پیش بودن نظرسنجی لولا و اعمال تعرفه ها بر اقتصاد برزیل، استراتژی خانواده بولسونارو در واشنگتن در حال تزلزل است.",
+      "summary_fa": "با در پیش بودن نظرسنجی لولا و اعمال تعرفه ها بر اقتصاد برزیل، استراتژی خانواده بولسونارو در واشنگتن در حال تزلزل است.",
+      "summary_en": "With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 01:20:37 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
       "id": "5de62ec78dbaadc64fdccaafe0794873",
       "title": "تابستان‌های سوزان و خشک: گرما به جای کمبود باران اکنون مقصر خشکسالی‌های اروپاست",
       "title_fa": "تابستان‌های سوزان و خشک: گرما به جای کمبود باران اکنون مقصر خشکسالی‌های اروپاست",
@@ -12143,6 +12479,153 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "2a11242ffbc29e084fc5212204cbab15",
+      "title": "چرا علیرغم یک سه ماهه ناقص و هزینه بیشتر هوش مصنوعی به Alphabet پایبند هستیم",
+      "title_fa": "چرا علیرغم یک سه ماهه ناقص و هزینه بیشتر هوش مصنوعی به Alphabet پایبند هستیم",
+      "title_en": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+      "summary": "بازار حال و هوای بخشایشی ندارد، اما ما عجله ای برای پشت سر گذاشتن این سهام نداریم.",
+      "summary_fa": "بازار حال و هوای بخشایشی ندارد، اما ما عجله ای برای پشت سر گذاشتن این سهام نداریم.",
+      "summary_en": "The market isn't in a forgiving mood, but we're not in a hurry to leave this stock behind.",
+      "link": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 00:57:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "08606bfcaac26bc572d00769f1c4c484",
+      "title": "مناظره بر سر جواهرات باستانی ایران که زندایا در رویداد «ادیسه» پوشیده بود",
+      "title_fa": "مناظره بر سر جواهرات باستانی ایران که زندایا در رویداد «ادیسه» پوشیده بود",
+      "title_en": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
+      "summary": "این هنرپیشه در مراسمی برای «اودیسه» گوشواره‌هایی استفاده کرد که یک گالری لندن گفته است از یک اثر باستانی ساخته شده است.",
+      "summary_fa": "این هنرپیشه در مراسمی برای «اودیسه» گوشواره‌هایی استفاده کرد که یک گالری لندن گفته است از یک اثر باستانی ساخته شده است.",
+      "summary_en": "The actress wore earrings to an event for “The Odyssey” that a London gallery has said were made from an ancient artifact.",
+      "link": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 00:54:46 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22ST-ZENDAYA-EARRING-PHOTO-mwzt/22ST-ZENDAYA-EARRING-PHOTO-mwzt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6b363bfbbf3dcdc468fa08c0cffa375d",
+      "title": "مجلس نمایندگان آمریکا لایحه نظامی 1.15 تریلیون دلاری برای گسترش همکاری اسرائیل را تصویب کرد",
+      "title_fa": "مجلس نمایندگان آمریکا لایحه نظامی 1.15 تریلیون دلاری برای گسترش همکاری اسرائیل را تصویب کرد",
+      "title_en": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+      "summary": "لایحه تأمین مالی جنگ علیه ایران و تعدادی از اولویت های ترامپ عمدتاً در امتداد خطوط حزبی تصویب می شود و با عدم اطمینان سنا مواجه است.",
+      "summary_fa": "لایحه تأمین مالی جنگ علیه ایران و تعدادی از اولویت های ترامپ عمدتاً در امتداد خطوط حزبی تصویب می شود و با عدم اطمینان سنا مواجه است.",
+      "summary_en": "Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 00:29:52 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0039e1e30a655d013ebaa76f64ea4a8b",
+      "title": "هوش مصنوعی، چین، \"کارخانه های تاریک\" و آینده صنعت خودروی ایالات متحده",
+      "title_fa": "هوش مصنوعی، چین، \"کارخانه های تاریک\" و آینده صنعت خودروی ایالات متحده",
+      "title_en": "AI, China, ‘dark factories’ and the future of the US auto industry",
+      "summary": "مری لاولی، اقتصاددان، این ادعا را رد می کند که واداشتن خودروسازان به تولید خودروهای بیشتر در آمریکا، کارآمدی تعرفه ها را ثابت می کند.",
+      "summary_fa": "مری لاولی، اقتصاددان، این ادعا را رد می کند که واداشتن خودروسازان به تولید خودروهای بیشتر در آمریکا، کارآمدی تعرفه ها را ثابت می کند.",
+      "summary_en": "Economist Mary Lovely dismisses the claims that getting automakers to produce more cars in America proves tariffs work.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 00:25:49 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "0c0144abf7bb915519563bd7d3654302",
+      "title": "سود تسلا کاهش می یابد زیرا خودروساز ماسک از تخفیف ها برای افزایش فروش استفاده می کند",
+      "title_fa": "سود تسلا کاهش می یابد زیرا خودروساز ماسک از تخفیف ها برای افزایش فروش استفاده می کند",
+      "title_en": "Tesla’s profits plunge as Musk’s carmaker uses discounts to boost sales",
+      "summary": "با تسریع چرخش شرکت به سمت هوش مصنوعی و روبات ها، هزینه های سرمایه بیش از دو برابر شد",
+      "summary_fa": "با تسریع چرخش شرکت به سمت هوش مصنوعی و روبات ها، هزینه های سرمایه بیش از دو برابر شد",
+      "summary_en": "Capital expenditures more than doubled as company accelerates pivot to AI and robots",
+      "link": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 00:16:11 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a61aebc-44b5-45d3-be84-095bdec14704.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "51842e2723af2e412d220442e2a097a0",
+      "title": "بخش \"قدرت\" لبنیات کانادا در تیررس تجاری ترامپ قرار دارد",
+      "title_fa": "بخش \"قدرت\" لبنیات کانادا در تیررس تجاری ترامپ قرار دارد",
+      "title_en": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "summary": "سیستم مدیریت عرضه لبنیات کانادا پس از آنکه رئیس جمهور ایالات متحده آن را به عنوان یکی از سه عامل تحریک کننده اصلی برای توجیه تعرفه های جدید معرفی کرد، در کانون توجه قرار گرفت.",
+      "summary_fa": "سیستم مدیریت عرضه لبنیات کانادا پس از آنکه رئیس جمهور ایالات متحده آن را به عنوان یکی از سه عامل تحریک کننده اصلی برای توجیه تعرفه های جدید معرفی کرد، در کانون توجه قرار گرفت.",
+      "summary_en": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 00:15:12 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5eb/live/f92abbb0-85dd-11f1-9837-c51febdbeb82.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b74acaa7a5d5e667bc059a56cbe0519c",
+      "title": "جنگ ایران زنده: آمریکا 2 کشته و 11 زخمی بر جای گذاشت. حمله حوثی ها به 2 نفتکش سعودی",
+      "title_fa": "جنگ ایران زنده: آمریکا 2 کشته و 11 زخمی بر جای گذاشت. حمله حوثی ها به 2 نفتکش سعودی",
+      "title_en": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+      "summary": "حملات تجاری آمریکا و ایران در حالی که انفجارهای بیشتری در شهرهای ایران از جمله سیریک، اهواز و بوشهر گزارش شده است.",
+      "summary_fa": "حملات تجاری آمریکا و ایران در حالی که انفجارهای بیشتری در شهرهای ایران از جمله سیریک، اهواز و بوشهر گزارش شده است.",
+      "summary_en": "US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 00:00:00 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -13674,6 +14157,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "38c47e3a2fdab59710506905a5706356",
+      "title": "آیا علم تیم های کوچک ممکن است در حال نابودی باشد؟",
+      "title_fa": "آیا علم تیم های کوچک ممکن است در حال نابودی باشد؟",
+      "title_en": "Could small-team science be dying out?",
+      "summary": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02174-4 نسبت مقالات یک و دو نویسنده در شاخص طبیعت به سرعت در حال کاهش است، زیرا علم انجام شده توسط تیم های بزرگ همچنان در حال افزایش است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02174-4 نسبت مقالات یک و دو نویسنده در شاخص طبیعت به سرعت در حال کاهش است، زیرا علم انجام شده توسط تیم های بزرگ همچنان در حال افزایش است.",
+      "summary_en": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.",
+      "link": "https://www.nature.com/articles/d41586-026-02174-4",
+      "source": "Nature",
+      "published_at": "2026-07-23 03:38",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e61f7a74a1f776dc522f382716399333",
+      "title": "ماشین بازی لگو Donkey Kong به ماریو اجازه می دهد تا از بشکه های بی پایان بپرد - میاموتو خوشحال است",
+      "title_fa": "ماشین بازی لگو Donkey Kong به ماریو اجازه می دهد تا از بشکه های بی پایان بپرد - میاموتو خوشحال است",
+      "title_en": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+      "summary": "کارل مریام تعدادی از لگوهای دلخواه من را طراحی کرده است، از جمله Lego Nintendo Game Boy و Piranha Plant. او در قلعه شوالیه شیر باورنکردنی، کاوشگر کهکشان و دزدان دریایی خلیج باراکودا کمک کرده است. اکنون، او به شرکت کمک کرد تا یک مجموعه ماشین بازی 200 دلاری Donkey Kong بسازد که توانست حتی خالق ماریو را نیز برنده شود.",
+      "summary_fa": "کارل مریام تعدادی از لگوهای دلخواه من را طراحی کرده است، از جمله Lego Nintendo Game Boy و Piranha Plant. او در قلعه شوالیه شیر باورنکردنی، کاوشگر کهکشان و دزدان دریایی خلیج باراکودا کمک کرده است. اکنون، او به شرکت کمک کرد تا یک مجموعه ماشین بازی 200 دلاری Donkey Kong بسازد که توانست حتی خالق ماریو را نیز برنده شود.",
+      "summary_en": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200 Donkey Kong arcade machine set that managed to win even Mario creator […]",
+      "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+      "source": "The Verge",
+      "published_at": "2026-07-22T20:30:00-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
