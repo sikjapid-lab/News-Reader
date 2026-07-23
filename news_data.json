@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-23 12:53:53",
-  "total_count": 958,
+  "last_update": "2026-07-23 15:09:41",
+  "total_count": 1034,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -444,6 +444,27 @@
       }
     },
     {
+      "id": "0a755d3f9f9b00c20cc1184b06cbb00b",
+      "title": "ترکیب طبیعی ممکن است با آرتریت روماتوئید در منبع خود مبارزه کند",
+      "title_fa": "ترکیب طبیعی ممکن است با آرتریت روماتوئید در منبع خود مبارزه کند",
+      "title_en": "Natural compound may fight rheumatoid arthritis at its source",
+      "summary": "یک ترکیب گیاهی باعث کاهش تورم، التهاب و آسیب مفاصل در موش‌های مبتلا به آرتریت روماتوئید شد. همچنین به تعادل مجدد فعالیت ایمنی و بهبود روش پردازش چربی های خاص در بدن کمک کرد. محققان می گویند این یافته ها می تواند به رویکرد جدیدی برای درمان این بیماری منجر شود.",
+      "summary_fa": "یک ترکیب گیاهی باعث کاهش تورم، التهاب و آسیب مفاصل در موش‌های مبتلا به آرتریت روماتوئید شد. همچنین به تعادل مجدد فعالیت ایمنی و بهبود روش پردازش چربی های خاص در بدن کمک کرد. محققان می گویند این یافته ها می تواند به رویکرد جدیدی برای درمان این بیماری منجر شود.",
+      "summary_en": "A plant-derived compound reduced swelling, inflammation, and joint damage in rats with rheumatoid arthritis. It also helped rebalance immune activity and improve the way certain fats were processed in the body. Researchers say the findings could lead to a new approach for treating the disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000845.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 21:57:05 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4a4f8ba989600c99191f70863b60a302",
       "title": "شیوع ابولا در کنگو بیش از 1000 نفر را می کشد",
       "title_fa": "شیوع ابولا در کنگو بیش از 1000 نفر را می کشد",
@@ -689,6 +710,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01df8252-6f33-4cf3-a02b-0639ab8cf384.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afd349adfa6128c8af00caf1fc7e958e",
+      "title": "دانشمندان کلید مخفی مغزی را کشف کردند که به زنبورها وظایف آنها را محول می کند",
+      "title_fa": "دانشمندان کلید مخفی مغزی را کشف کردند که به زنبورها وظایف آنها را محول می کند",
+      "title_en": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "summary": "محققان دریافتند که مدارهای مغزی خاصی به تصمیم گیری در مورد شغلی که زنبورها با افزایش سن انجام می دهند کمک می کند. هنگامی که این مدارها خاموش شدند، زنبورهای کارگر مسن تر به جای انجام وظایف عادی زندگی خود، دوباره شروع به مراقبت از ملکه کردند. یافته ها نشان می دهد که تقسیم کار پیچیده کلنی زنبورها ممکن است توسط کلیدهای عصبی پنهان در مغز هر زنبور هدایت شود.",
+      "summary_fa": "محققان دریافتند که مدارهای مغزی خاصی به تصمیم گیری در مورد شغلی که زنبورها با افزایش سن انجام می دهند کمک می کند. هنگامی که این مدارها خاموش شدند، زنبورهای کارگر مسن تر به جای انجام وظایف عادی زندگی خود، دوباره شروع به مراقبت از ملکه کردند. یافته ها نشان می دهد که تقسیم کار پیچیده کلنی زنبورها ممکن است توسط کلیدهای عصبی پنهان در مغز هر زنبور هدایت شود.",
+      "summary_en": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 22 Jul 2026 21:10:39 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -12188,6 +12230,489 @@
       }
     },
     {
+      "id": "5db99bc0009dba8c26024a2572b1c3a9",
+      "title": "لیبریا 277 میلیون یورو کوکائین مرتبط با شبکه قاچاق \"سازمان یافته و تامین مالی شده\" کشف کرد.",
+      "title_fa": "لیبریا 277 میلیون یورو کوکائین مرتبط با شبکه قاچاق \"سازمان یافته و تامین مالی شده\" کشف کرد.",
+      "title_en": "Liberia seizes €277 million worth of cocaine linked to 'organised and well-funded' trafficking network",
+      "summary": "بر اساس ابتکار جهانی علیه جرایم سازمان‌یافته فراملی، غرب آفریقا یک مرکز کلیدی ترانزیت کوکائین به مقصد اروپا است.",
+      "summary_fa": "بر اساس ابتکار جهانی علیه جرایم سازمان‌یافته فراملی، غرب آفریقا یک مرکز کلیدی ترانزیت کوکائین به مقصد اروپا است.",
+      "summary_en": "According to the Global Initiative Against Transnational Organized Crime, West Africa is a key transit hub for cocaine bound for Europe.",
+      "link": "http://www.euronews.com/2026/07/23/liberia-seizes-277-million-worth-of-cocaine-linked-to-organised-and-well-funded-traffickin",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 16:29:49 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "ac44a43e7ebffd1d056832ba46e285b6",
+      "title": "بانک مرکزی اروپا گروگان قیمت نفت است؟ لاگارد در را برای پیاده روی در سپتامبر باز می گذارد",
+      "title_fa": "بانک مرکزی اروپا گروگان قیمت نفت است؟ لاگارد در را برای پیاده روی در سپتامبر باز می گذارد",
+      "title_en": "ECB hostage to oil prices? Lagarde leaves door open for a September hike",
+      "summary": "کریستین لاگارد، رئیس بانک مرکزی اروپا هشدار داد که افزایش قیمت نفت می‌تواند تصمیم‌گیری در مورد نرخ بهره در سپتامبر را شکل دهد و درها را برای افزایش نرخ بهره در جلسه بعدی باز بگذارد.",
+      "summary_fa": "کریستین لاگارد، رئیس بانک مرکزی اروپا هشدار داد که افزایش قیمت نفت می‌تواند تصمیم‌گیری در مورد نرخ بهره در سپتامبر را شکل دهد و درها را برای افزایش نرخ بهره در جلسه بعدی باز بگذارد.",
+      "summary_en": "ECB President Christine Lagarde warned that surging oil prices could shape the September rate decision, leaving the door open to another interest rate hike at the next meeting.",
+      "link": "http://www.euronews.com/business/2026/07/23/ecb-hostage-to-oil-prices-lagarde-leaves-door-open-for-a-september-hike",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 16:23:17 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e37866cdb8039ed4eda0aab4a082de65",
+      "title": "\"هیچ حس واقعی جهت گیری\": اتحادیه اروپا در تلاش برای یافتن راهی برای تحریم شهرک های اسرائیلی است",
+      "title_fa": "\"هیچ حس واقعی جهت گیری\": اتحادیه اروپا در تلاش برای یافتن راهی برای تحریم شهرک های اسرائیلی است",
+      "title_en": "'No real sense of direction': EU struggling to find path to sanctioning Israeli settlements",
+      "summary": "سفرای اتحادیه اروپا در مورد گام‌های بعدی برای تحریم شهرک‌های اسرائیلی به توافق نرسیده‌اند - و دیپلمات‌ها اعتراف کرده‌اند که هیچ یک از گزینه‌ها به نفع هیچ اکثریتی نیستند.",
+      "summary_fa": "سفرای اتحادیه اروپا در مورد گام‌های بعدی برای تحریم شهرک‌های اسرائیلی به توافق نرسیده‌اند - و دیپلمات‌ها اعتراف کرده‌اند که هیچ یک از گزینه‌ها به نفع هیچ اکثریتی نیستند.",
+      "summary_en": "EU ambassadors have failed to agree on the next steps for sanctioning Israeli settlements – and with no majority in favour of any option, diplomats have admitted there's no clear way forward.",
+      "link": "http://www.euronews.com/my-europe/2026/07/23/no-real-sense-of-direction-eu-struggling-to-find-path-to-sanctioning-israeli-settlements",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 16:13:21 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f4c47e3084fd879cfd3fd063fa30924d",
+      "title": "بانک جهانی می گوید خسارات زمین لرزه ونزوئلا به حدود 20 میلیارد دلار می رسد",
+      "title_fa": "بانک جهانی می گوید خسارات زمین لرزه ونزوئلا به حدود 20 میلیارد دلار می رسد",
+      "title_en": "Venezuela earthquake damages add up to almost $20 billion, World Bank says",
+      "summary": "تقریباً یک ماه پس از زلزله‌های ویرانگر، ونزوئلا وظیفه بزرگی در زمینه بازسازی، بازسازی و کاهش آسیب‌های اجتماعی و اقتصادی بزرگترین بلای طبیعی در دهه‌های اخیر دارد.",
+      "summary_fa": "تقریباً یک ماه پس از زلزله‌های ویرانگر، ونزوئلا وظیفه بزرگی در زمینه بازسازی، بازسازی و کاهش آسیب‌های اجتماعی و اقتصادی بزرگترین بلای طبیعی در دهه‌های اخیر دارد.",
+      "summary_en": "Almost a month after the devastating earthquakes, Venezuela has a mammoth task ahead in terms of rebuilding, rehabilitating and mitigating the social and economic damage of the biggest natural disaster in decades.",
+      "link": "http://www.euronews.com/business/2026/07/23/venezuela-earthquake-damages-add-up-to-almost-20-billion-world-bank-says",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 16:03:55 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f777222926ac7c742e1dcf49487d7838",
+      "title": "بیش از 80700 طوماری را امضا کردند که خواستار برگزاری مجدد فینال جام جهانی شدند",
+      "title_fa": "بیش از 80700 طوماری را امضا کردند که خواستار برگزاری مجدد فینال جام جهانی شدند",
+      "title_en": "More than 80,700 sign petition calling for World Cup final replay",
+      "summary": "در این دادخواست ادعا شده است که اسلاوکو وینچیچ، داور اسلوونیایی، عملکرد \"جنجالی و فاسد\" ارائه کرده است و از فیفا می‌خواهد تا چندین تصمیم او را در طول بازی بررسی کند.",
+      "summary_fa": "در این دادخواست ادعا شده است که اسلاوکو وینچیچ، داور اسلوونیایی، عملکرد \"جنجالی و فاسد\" ارائه کرده است و از فیفا می‌خواهد تا چندین تصمیم او را در طول بازی بررسی کند.",
+      "summary_en": "The petition alleges that Slovenian referee Slavko Vincic delivered a \"controversial and corrupt\" performance and calls on FIFA to review several of his decisions during the match.",
+      "link": "http://www.euronews.com/2026/07/23/more-than-80700-sign-petition-demanding-world-cup-final-replay",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 15:46:27 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b2f8206e07d89dc34d0ff83ebb5a6adc",
+      "title": "مدیر عامل Google Cloud Kurian می گوید مشتریان 50 درصد بیشتر هزینه می کنند زیرا بخش انتظارات را از بین می برد",
+      "title_fa": "مدیر عامل Google Cloud Kurian می گوید مشتریان 50 درصد بیشتر هزینه می کنند زیرا بخش انتظارات را از بین می برد",
+      "title_en": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
+      "summary": "مدیر عامل گوگل کلود توماس کوریان روز پنجشنبه به CNBC گفت که مشتریان فعلی این شرکت \"تقریبا 50 درصد بیشتر\" از آنچه قبلاً متعهد شده اند خرج می کنند.",
+      "summary_fa": "مدیر عامل گوگل کلود توماس کوریان روز پنجشنبه به CNBC گفت که مشتریان فعلی این شرکت \"تقریبا 50 درصد بیشتر\" از آنچه قبلاً متعهد شده اند خرج می کنند.",
+      "summary_en": "Google Cloud CEO Thomas Kurian told CNBC on Thursday that the company's existing customers are spending \"roughly 50% more\" than they've already committed.",
+      "link": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 15:08:12 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "98b2d849a7ef61cc9d5fa083add8a944",
+      "title": "ترامپ می گوید سعودی ها باید اسرائیل را به خاطر توافق هسته ای به رسمیت بشناسند",
+      "title_fa": "ترامپ می گوید سعودی ها باید اسرائیل را به خاطر توافق هسته ای به رسمیت بشناسند",
+      "title_en": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "summary": "رئیس‌جمهور آمریکا می‌گوید توافق مهم برای کمک به سعودی‌ها در توسعه انرژی هسته‌ای وابسته به پیوستن آن به توافق‌نامه ابراهیم است.",
+      "summary_fa": "رئیس‌جمهور آمریکا می‌گوید توافق مهم برای کمک به سعودی‌ها در توسعه انرژی هسته‌ای وابسته به پیوستن آن به توافق‌نامه ابراهیم است.",
+      "summary_en": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 15:05:47 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3939/live/be2c4e20-86a0-11f1-926f-c90d1bcfbc84.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "9848648a0d82ce55714bfc4eeff10aa2",
+      "title": "در پی سقوط بالگرد نظامی چک در پایگاه هوایی، یک کشته و چهار مجروح شدند",
+      "title_fa": "در پی سقوط بالگرد نظامی چک در پایگاه هوایی، یک کشته و چهار مجروح شدند",
+      "title_en": "One dead and four injured after Czech military helicopter crashes at air base",
+      "summary": "تحقیقات درباره این حادثه ادامه دارد. نیروهای مسلح چک در بیانیه ای اعلام کردند که تمامی بالگردهای H-1 ارتش تا زمان تکمیل آن زمینگیر شده اند.",
+      "summary_fa": "تحقیقات درباره این حادثه ادامه دارد. نیروهای مسلح چک در بیانیه ای اعلام کردند که تمامی بالگردهای H-1 ارتش تا زمان تکمیل آن زمینگیر شده اند.",
+      "summary_en": "An investigation into the incident is underway. All of the military's H-1 helicopters have been grounded until it is completed, the Czech armed forces said in a statement.",
+      "link": "http://www.euronews.com/my-europe/2026/07/23/one-dead-and-four-injured-after-czech-military-helicopter-crashes-at-air-base",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 15:03:31 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b0c7a4d297a0ae770f9c1d4060e29acd",
+      "title": "Slack and Teams را فراموش کنید - چت کاری بعدی شما می تواند با همکاران هوش مصنوعی انجام شود",
+      "title_fa": "Slack and Teams را فراموش کنید - چت کاری بعدی شما می تواند با همکاران هوش مصنوعی انجام شود",
+      "title_en": "Forget Slack and Teams — your next work chat could come with AI co-workers",
+      "summary": "Block یک رقیب منبع باز برای Slack و GitHub راه اندازی کرده است که به عوامل هوش مصنوعی هویت و مجوزهای خود را می دهد و با آنها به عنوان همکاران رفتار می کند تا ابزار.",
+      "summary_fa": "Block یک رقیب منبع باز برای Slack و GitHub راه اندازی کرده است که به عوامل هوش مصنوعی هویت و مجوزهای خود را می دهد و با آنها به عنوان همکاران رفتار می کند تا ابزار.",
+      "summary_en": "Block has launched an open-source rival to Slack and GitHub that gives AI agents their own identities and permissions, treating them as colleagues rather than tools.",
+      "link": "http://www.euronews.com/next/2026/07/23/forget-slack-and-teams-your-next-work-chat-could-come-with-ai-co-workers",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 15:02:37 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe5f73df1d5a26cebf610c9bea9eea60",
+      "title": "به روز رسانی زنده جنگ ایران: حملات در دریای سرخ قیمت نفت را به بیش از 100 دلار در هر بشکه رساند",
+      "title_fa": "به روز رسانی زنده جنگ ایران: حملات در دریای سرخ قیمت نفت را به بیش از 100 دلار در هر بشکه رساند",
+      "title_en": "Iran War Live Updates: Attacks in Red Sea Send Oil Prices Over $100 a Barrel",
+      "summary": "قیمت نفت خام برنت پس از آنکه متحدان حوثی ایران در یمن مدعی حمله به دو نفتکش سعودی شدند، افزایش یافت. مجلس نمایندگان آمریکا رای دوم را برای مهار اختیارات جنگی رئیس جمهور ترامپ صادر کرد و چهار جمهوری خواه برای سرزنش رئیس جمهور به دموکرات ها پیوستند.",
+      "summary_fa": "قیمت نفت خام برنت پس از آنکه متحدان حوثی ایران در یمن مدعی حمله به دو نفتکش سعودی شدند، افزایش یافت. مجلس نمایندگان آمریکا رای دوم را برای مهار اختیارات جنگی رئیس جمهور ترامپ صادر کرد و چهار جمهوری خواه برای سرزنش رئیس جمهور به دموکرات ها پیوستند.",
+      "summary_en": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, with four Republicans joining Democrats to rebuke the president.",
+      "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 15:01:13 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23mideast-live-promo-10AM-fmvw/23mideast-live-promo-10AM-fmvw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "38422898dec437389870edcae0283f42",
+      "title": "چگونه شهر قدیمی باکو تاریخ را حفظ می کند و در عین حال آینده را در آغوش می گیرد",
+      "title_fa": "چگونه شهر قدیمی باکو تاریخ را حفظ می کند و در عین حال آینده را در آغوش می گیرد",
+      "title_en": "How Baku’s Old City is preserving history while embracing the future",
+      "summary": "کشف کنید که چگونه ایچریشهر حفاظت از میراث، مدیریت شهری پایدار و زندگی اجتماعی را برای محافظت از یکی از قدیمی ترین شهرهای تاریخی منطقه ترکیب می کند.",
+      "summary_fa": "کشف کنید که چگونه ایچریشهر حفاظت از میراث، مدیریت شهری پایدار و زندگی اجتماعی را برای محافظت از یکی از قدیمی ترین شهرهای تاریخی منطقه ترکیب می کند.",
+      "summary_en": "Discover how Icherisheher combines heritage conservation, sustainable urban management and community life to protect one of the region's oldest historic cities.",
+      "link": "http://www.euronews.com/culture/2026/07/23/how-bakus-old-city-is-preserving-history-while-embracing-the-future",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 15:00:08 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca4058c60de48761496c7f0bc9e8f256",
+      "title": "مرداک و ماسک در تیررس جشنواره فیلم ونیز",
+      "title_fa": "مرداک و ماسک در تیررس جشنواره فیلم ونیز",
+      "title_en": "Murdoch and Musk in the crosshairs at Venice film festival",
+      "summary": "درام دنی بویل درباره خرید The Sun و مستند چهار ساعته ایلان ماسک در کنار فیلم‌های جدیدی از مارتین مک‌دونا و ورنر هرتزوگ نمایش داده می‌شود – اما تنها یک کارگردان زن فیلمی در رقابت دارد. خرید Sun و یک مستند جدید درباره ایلان ماسک که در فهرست فیلم‌های هشتاد و سومین دوره جشنواره گنجانده شده است. در Boyle’s Ink که جشنواره را در 2 سپتامبر در لیدو افتتاح می‌کند، گای پیرس بازیگر استرالیایی نقش مرداک سرمایه‌دار روزنامه‌های هموطن خود را بازی می‌کند که خرید Sun در سال 1969 فضای عمومی را متحول کرد. فیلمنامه توسط جیمز گراهام نمایشنامه نویس و فیلمنامه نویس برنده جایزه اولیویه (انگلیس عزیز، برگزیت: جنگ غیرمجاز) نوشته شده است. ادامه مطلب...",
+      "summary_fa": "درام دنی بویل درباره خرید The Sun و مستند چهار ساعته ایلان ماسک در کنار فیلم‌های جدیدی از مارتین مک‌دونا و ورنر هرتزوگ نمایش داده می‌شود – اما تنها یک کارگردان زن فیلمی در رقابت دارد. خرید Sun و یک مستند جدید درباره ایلان ماسک که در فهرست فیلم‌های هشتاد و سومین دوره جشنواره گنجانده شده است. در Boyle’s Ink که جشنواره را در 2 سپتامبر در لیدو افتتاح می‌کند، گای پیرس بازیگر استرالیایی نقش مرداک سرمایه‌دار روزنامه‌های هموطن خود را بازی می‌کند که خرید Sun در سال 1969 فضای عمومی را متحول کرد. فیلمنامه توسط جیمز گراهام نمایشنامه نویس و فیلمنامه نویس برنده جایزه اولیویه (انگلیس عزیز، برگزیت: جنگ غیرمجاز) نوشته شده است. ادامه مطلب...",
+      "summary_en": "Danny Boyle’s drama about the acquisition of The Sun and a four-hour Elon Musk documentary will premiere alongside new films from Martin McDonagh and Werner Herzog – but only one female director has a movie in competitionThe Venice film festival promises to take a swing at media moguls of the print and digital era this year, with Trainspotting director Danny Boyle’s new film about Rupert Murdoch’s acquisition of the Sun and a new documentary about Elon Musk included in the lineup of the films for the festival’s 83rd edition.In Boyle’s Ink, which will open the festival on the Lido on 2 September, Australian actor Guy Pearce plays compatriot newspaper tycoon Murdoch, whose purchase of the Sun in 1969 sensationalised the media landscape and transformed public life in Britain. The script is written by Olivier award-winning playwright and screenwriter James Graham (Dear England, Brexit: The Uncivil War). Continue reading...",
+      "link": "https://www.theguardian.com/film/2026/jul/23/venice-film-festival-lineup-2026-danny-boyle",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 14:58:18 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8966ea85118eaeb109021acfadba4f0fbb83b66e/34_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=c9598d24c34b921e20ddcba45cb3c3a4",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5d60b348acf63fa5c50b81418ccc019a",
+      "title": "فلورانس اولین مرکز اعتیاد دیجیتال ایتالیا را افتتاح کرد",
+      "title_fa": "فلورانس اولین مرکز اعتیاد دیجیتال ایتالیا را افتتاح کرد",
+      "title_en": "Florence opens Italy's first centre for digital addiction",
+      "summary": "\"Discover\"، اولین مرکز تخصصی ایتالیا برای مقابله با خطرات مرتبط با سوء استفاده از فناوری های دیجیتال، در فلورانس افتتاح می شود.",
+      "summary_fa": "\"Discover\"، اولین مرکز تخصصی ایتالیا برای مقابله با خطرات مرتبط با سوء استفاده از فناوری های دیجیتال، در فلورانس افتتاح می شود.",
+      "summary_en": "\"Discover\", Italy's first specialist centre to tackle risks linked to the misuse of digital technologies, is to open in Florence.",
+      "link": "http://www.euronews.com/health/2026/07/23/social-media-florence-opens-italys-first-centre-for-digital-addiction",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 14:58:02 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79efeeb8fc74890b2d339efd2e0b744d",
+      "title": "قانونگذاران مجلس نمایندگان، جس استالی، مدیر سابق جی پی مورگان را به خاطر روابط اپشتین مورد انتقاد قرار می دهند",
+      "title_fa": "قانونگذاران مجلس نمایندگان، جس استالی، مدیر سابق جی پی مورگان را به خاطر روابط اپشتین مورد انتقاد قرار می دهند",
+      "title_en": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+      "summary": "جیمز کومر، رئیس مجلس نمایندگان گفت که جس استالی از جفری اپستین دفاع کرده و جی‌پی مورگان را تشویق کرده است که او را با وجود پرچم‌های قرمز داخلی حفظ کند.",
+      "summary_fa": "جیمز کومر، رئیس مجلس نمایندگان گفت که جس استالی از جفری اپستین دفاع کرده و جی‌پی مورگان را تشویق کرده است که او را با وجود پرچم‌های قرمز داخلی حفظ کند.",
+      "summary_en": "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+      "link": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 14:57:08 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "46b8aa0bfedf9fb76759b7bc7f7ce1f1",
+      "title": "تقلب در تصویر هوش مصنوعی در سال آینده 40 میلیارد دلار هزینه خواهد داشت - آیا این استانداردهای بین المللی می توانند کمک کنند؟",
+      "title_fa": "تقلب در تصویر هوش مصنوعی در سال آینده 40 میلیارد دلار هزینه خواهد داشت - آیا این استانداردهای بین المللی می توانند کمک کنند؟",
+      "title_en": "AI image fraud will cost $40 billion next year - can these international standards help?",
+      "summary": "تاکنون، تلاش‌ها برای شناسایی و مبارزه با دیپ‌فیک‌ها و کلاهبرداری‌های هوش مصنوعی پراکنده بوده است. کدام استاندارد پیشنهادی غالب خواهد بود؟",
+      "summary_fa": "تاکنون، تلاش‌ها برای شناسایی و مبارزه با دیپ‌فیک‌ها و کلاهبرداری‌های هوش مصنوعی پراکنده بوده است. کدام استاندارد پیشنهادی غالب خواهد بود؟",
+      "summary_en": "Until now, efforts to identify and combat deepfakes and AI scams have been scattered. Which proposed standard will dominate?",
+      "link": "https://www.zdnet.com/article/ai-image-fraud-new-global-standards/",
+      "source": "ZDNet",
+      "published_at": "Thu, 23 Jul 2026 14:51:46 GMT",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8eeac51f0891b520868e331314a05334",
+      "title": "ترامپ می گوید توافق هسته ای عربستان مشروط به روابط با اسرائیل، شامل غنی سازی نمی شود",
+      "title_fa": "ترامپ می گوید توافق هسته ای عربستان مشروط به روابط با اسرائیل، شامل غنی سازی نمی شود",
+      "title_en": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "summary": "وزارت انرژی گفت که توافقنامه همکاری هسته ای غیرنظامی که روز چهارشنبه امضا شد، برای بررسی به کنگره ارسال خواهد شد.",
+      "summary_fa": "وزارت انرژی گفت که توافقنامه همکاری هسته ای غیرنظامی که روز چهارشنبه امضا شد، برای بررسی به کنگره ارسال خواهد شد.",
+      "summary_en": "The civilian nuclear cooperation agreement, signed Wednesday, will be sent to Congress for review, the Department of Energy said.",
+      "link": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 14:50:50 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "32faa23ed9cbd5a28622ce86c48c30e5",
+      "title": "قیمت نفت برای اولین بار از ماه می به 100 دلار رسید",
+      "title_fa": "قیمت نفت برای اولین بار از ماه می به 100 دلار رسید",
+      "title_en": "Oil prices hit $100 for the first time since May",
+      "summary": "با ادامه تشدید جنگ در خاورمیانه، قیمت نفت برنت روز پنجشنبه بیش از 5 درصد افزایش یافت.",
+      "summary_fa": "با ادامه تشدید جنگ در خاورمیانه، قیمت نفت برنت روز پنجشنبه بیش از 5 درصد افزایش یافت.",
+      "summary_en": "The price of Brent crude rose more than 5% on Thursday as the war in the Middle East continues to escalate.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 14:50:03 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "cd9f9fe53eed3b203dd47777a87a8bbc",
+      "title": "مجلس نمایندگان آمریکا اقدامی برای مهار ترامپ در قبال ایران تصویب کرد",
+      "title_fa": "مجلس نمایندگان آمریکا اقدامی برای مهار ترامپ در قبال ایران تصویب کرد",
+      "title_en": "House passes measure to restrain Trump on Iran",
+      "summary": "این رای گیری اولین آزمون حمایت جمهوری خواهان از مناقشه پس از از سرگیری حملات نظامی دونالد ترامپ رئیس جمهور آمریکا علیه تهران در این ماه است.",
+      "summary_fa": "این رای گیری اولین آزمون حمایت جمهوری خواهان از مناقشه پس از از سرگیری حملات نظامی دونالد ترامپ رئیس جمهور آمریکا علیه تهران در این ماه است.",
+      "summary_en": "The vote marks the first test of Republican support for the conflict since President Donald Trump resumed military strikes against Tehran this month.",
+      "link": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
+      "source": "Washington Post",
+      "published_at": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8ed6497b05ca2477f762d04fa14edfea",
+      "title": "مسابقه تسلیحاتی هوش مصنوعی در صف حسابرسی پس از حادثه هک OpenAI",
+      "title_fa": "مسابقه تسلیحاتی هوش مصنوعی در صف حسابرسی پس از حادثه هک OpenAI",
+      "title_en": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "summary": "تکنیک های آموزشی تهاجمی تهدید رفتار بد توسط مدل های پیشرو را تشدید می کند.",
+      "summary_fa": "تکنیک های آموزشی تهاجمی تهدید رفتار بد توسط مدل های پیشرو را تشدید می کند.",
+      "summary_en": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 23 Jul 2026 14:45:05 +0000",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7233fd05f3f4537e9e20cef965bb3860",
+      "title": "قیمت نفت برای اولین بار از ماه می به 100 دلار رسید",
+      "title_fa": "قیمت نفت برای اولین بار از ماه می به 100 دلار رسید",
+      "title_en": "Oil hits $100 for first time since May",
+      "summary": "حمله حوثی‌ها به نفت‌کش‌های عربستان سعودی در دریای سرخ، کاهش بیشتر منابع انرژی را تهدید می‌کند.",
+      "summary_fa": "حمله حوثی‌ها به نفت‌کش‌های عربستان سعودی در دریای سرخ، کاهش بیشتر منابع انرژی را تهدید می‌کند.",
+      "summary_en": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
+      "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 14:43:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5f7b704c-ca64-44e0-92a4-aac0580fc2ae.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eefed9cea5d9d2bea2197ca792992e00",
+      "title": "عامل OpenAI قبل از اینکه یک مدافع هوش مصنوعی آن را بگیرد، Hugging Face را نقض کرد: کاربران در مرحله بعدی چه کاری باید انجام دهند",
+      "title_fa": "عامل OpenAI قبل از اینکه یک مدافع هوش مصنوعی آن را بگیرد، Hugging Face را نقض کرد: کاربران در مرحله بعدی چه کاری باید انجام دهند",
+      "title_en": "OpenAI's agent breached Hugging Face before an AI defender caught it: What users should do next",
+      "summary": "یک هوش مصنوعی عامل به زیرساخت تولید یک پروژه هوش مصنوعی نفوذ کرد. سپس یک هوش مصنوعی آن را شناسایی کرد. آیا این آینده حملات سایبری است و چگونه از آنها دفاع می شود؟",
+      "summary_fa": "یک هوش مصنوعی عامل به زیرساخت تولید یک پروژه هوش مصنوعی نفوذ کرد. سپس یک هوش مصنوعی آن را شناسایی کرد. آیا این آینده حملات سایبری است و چگونه از آنها دفاع می شود؟",
+      "summary_en": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
+      "link": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+      "source": "ZDNet",
+      "published_at": "Thu, 23 Jul 2026 14:29:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a2773fa04f45fec0be2b2aef38b9c7f9",
+      "title": "رشد سود عظیم آلفابت فقط یک توهم است، زیرا اسپیس ایکس و آنتروپیک کمک می کنند تا جریان نقدینگی تاریخی را پنهان کنند.",
+      "title_fa": "رشد سود عظیم آلفابت فقط یک توهم است، زیرا اسپیس ایکس و آنتروپیک کمک می کنند تا جریان نقدینگی تاریخی را پنهان کنند.",
+      "title_en": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
+      "summary": "سود بر روی کاغذ چهار برابر شد، اما یک تحلیلگر آن را عملکردی «توهم‌آمیز» می‌داند که با سودهای محقق نشده از سرمایه‌گذاری‌های سهام حمایت می‌شود.",
+      "summary_fa": "سود بر روی کاغذ چهار برابر شد، اما یک تحلیلگر آن را عملکردی «توهم‌آمیز» می‌داند که با سودهای محقق نشده از سرمایه‌گذاری‌های سهام حمایت می‌شود.",
+      "summary_en": "Earnings quadrupled on paper, but an analyst calls that an “illusory” performance propped up by unrealized gains from equity investments.",
+      "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 14:28:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-53771500",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "822a9046d745532fb19eed604822c22b",
+      "title": "خبرنگار فناوری، جوآنا استرن از هوش مصنوعی خواست که تقریباً همه چیز را برای یک سال انجام دهد - ابزار شماره 1 که او همچنان از آن استفاده خواهد کرد.",
+      "title_fa": "خبرنگار فناوری، جوآنا استرن از هوش مصنوعی خواست که تقریباً همه چیز را برای یک سال انجام دهد - ابزار شماره 1 که او همچنان از آن استفاده خواهد کرد.",
+      "title_en": "Tech reporter Joanna Stern asked AI to do 'almost everything' for a year—the No. 1 tool she'll keep using",
+      "summary": "جوانا استرن، نویسنده \"من یک ربات نیستم\" ده ها برنامه کاربردی هوش مصنوعی را در طول یک سال در زندگی خود ادغام کرد. او می گوید این یکی به او چسبیده است.",
+      "summary_fa": "جوانا استرن، نویسنده \"من یک ربات نیستم\" ده ها برنامه کاربردی هوش مصنوعی را در طول یک سال در زندگی خود ادغام کرد. او می گوید این یکی به او چسبیده است.",
+      "summary_en": "\"I Am Not a Robot\" author Joanna Stern integrated dozens of AI applications into her life over the course of a year. She says this one has stuck with her.",
+      "link": "https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 14:25:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "63f379b332e9ba52cc468aecb757fccd",
       "title": "بانک مرکزی اروپا نرخ بهره را 2.25 درصد نگه داشته است، زیرا جنگ شعله ور شده ایران دومین افزایش را در بازی حفظ کرده است.",
       "title_fa": "بانک مرکزی اروپا نرخ بهره را 2.25 درصد نگه داشته است، زیرا جنگ شعله ور شده ایران دومین افزایش را در بازی حفظ کرده است.",
@@ -12209,6 +12734,48 @@
       }
     },
     {
+      "id": "0be38701e8e51a0efc4f041206509bbd",
+      "title": "برای کره جنوبی، توافق هسته ای آمریکا و عربستان استانداردی دوگانه را نشان می دهد",
+      "title_fa": "برای کره جنوبی، توافق هسته ای آمریکا و عربستان استانداردی دوگانه را نشان می دهد",
+      "title_en": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
+      "summary": "پرزیدنت ترامپ عربستان سعودی را در مسیر غنی سازی اورانیوم در خاک خود قرار داده است، خواسته ای که کره جنوبی سال هاست آن را مطرح کرده است.",
+      "summary_fa": "پرزیدنت ترامپ عربستان سعودی را در مسیر غنی سازی اورانیوم در خاک خود قرار داده است، خواسته ای که کره جنوبی سال هاست آن را مطرح کرده است.",
+      "summary_en": "President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.",
+      "link": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 14:24:39 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-skorea-us-nuclear-bwtm/23int-skorea-us-nuclear-bwtm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8bbc03acdd05ff1510d6c87f7a91a3c5",
+      "title": "ترامپ به توافق هسته‌ای با عربستان سعودی شرط می‌افزاید و این توافق را زیر سوال می‌برد",
+      "title_fa": "ترامپ به توافق هسته‌ای با عربستان سعودی شرط می‌افزاید و این توافق را زیر سوال می‌برد",
+      "title_en": "Trump adds condition to nuclear deal with Saudi Arabia, throwing pact into doubt",
+      "summary": "دونالد ترامپ، رئیس جمهور آمریکا گفت که عربستان سعودی باید روابط خود را با اسرائیل به عنوان شرط توافق هسته ای با ایالات متحده عادی کند.",
+      "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا گفت که عربستان سعودی باید روابط خود را با اسرائیل به عنوان شرط توافق هسته ای با ایالات متحده عادی کند.",
+      "summary_en": "Saudi Arabia would need to normalize relations with Israel as a condition of a nuclear deal with the United States, President Donald Trump said.",
+      "link": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/",
+      "source": "Washington Post",
+      "published_at": "Thu, 23 Jul 2026 14:23:19 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "5cf681152f6c52815d441d60d58d8326",
       "title": "جشنواره فیلم ونیز از نویسندگان حمایت می کند: بازگشت هرتزوگ، کوریدا، مک دونا و مورتی",
       "title_fa": "جشنواره فیلم ونیز از نویسندگان حمایت می کند: بازگشت هرتزوگ، کوریدا، مک دونا و مورتی",
@@ -12222,6 +12789,111 @@
       "date_iso": "2026-07-23",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd7142d1b3fe1f95e2a2747b4dc12151",
+      "title": "من یک پزشک 63 ساله نیمه بازنشسته هستم. اگر 2 میلیون دلار برای بازنشستگی پس انداز کرده اید، آیا تامین اجتماعی اختیاری است؟",
+      "title_fa": "من یک پزشک 63 ساله نیمه بازنشسته هستم. اگر 2 میلیون دلار برای بازنشستگی پس انداز کرده اید، آیا تامین اجتماعی اختیاری است؟",
+      "title_en": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+      "summary": "در آن مرحله، آنها احتمالاً دیگر نیازی به شبکه ایمنی بازنشستگی دولت ندارند.»",
+      "summary_fa": "در آن مرحله، آنها احتمالاً دیگر نیازی به شبکه ایمنی بازنشستگی دولت ندارند.»",
+      "summary_en": "“At that point, they arguably no longer need the government’s retirement safety net.”",
+      "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 14:21:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-15655092",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e6c42000741c4db79ae5e4121e75801d",
+      "title": "چگونه نرخ بیمه حمل و نقل با تعطیلی هرمز و باب المندب در حال افزایش است",
+      "title_fa": "چگونه نرخ بیمه حمل و نقل با تعطیلی هرمز و باب المندب در حال افزایش است",
+      "title_en": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+      "summary": "نرخ های بیمه از طریق هرمز در حال حاضر چهار برابر میانگین پنج ساله است.",
+      "summary_fa": "نرخ های بیمه از طریق هرمز در حال حاضر چهار برابر میانگین پنج ساله است.",
+      "summary_en": "Insurance rates through Hormuz are currently four times the five-year average.",
+      "link": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 14:19:30 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a809755677a194f88f6fd92a1de46e4e",
+      "title": "آیا روسیه به ایران کمک کرده تا سایت های سیا در خلیج فارس را هدف قرار دهد؟",
+      "title_fa": "آیا روسیه به ایران کمک کرده تا سایت های سیا در خلیج فارس را هدف قرار دهد؟",
+      "title_en": "Has Russia helped Iran target CIA sites in the Gulf?",
+      "summary": "گزارش‌هایی مبنی بر هدف قرار دادن سایت‌های متعلق به سیا توسط ایران برای اولین بار در روزهای اولیه جنگ ایران منتشر شد.",
+      "summary_fa": "گزارش‌هایی مبنی بر هدف قرار دادن سایت‌های متعلق به سیا توسط ایران برای اولین بار در روزهای اولیه جنگ ایران منتشر شد.",
+      "summary_en": "Reports of Iran targeting sites belonging to the US's CIA first emerged in the early days of the Iran war.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/has-russia-helped-iran-target-cia-sites-in-the-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 14:18:31 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "5362fd620ee146e78b8a39a66f5c1aae",
+      "title": "حوثی‌های یمن به نفتکش سعودی حمله کردند که آمریکا حملات بیشتری به ایران انجام داد",
+      "title_fa": "حوثی‌های یمن به نفتکش سعودی حمله کردند که آمریکا حملات بیشتری به ایران انجام داد",
+      "title_en": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "گروه مورد حمایت ایران که قبلاً «تحریم دریایی» علیه عربستان سعودی را اعلام کرده بود، همچنین مدعی است که یک کشتی دیگر را هدف قرار داده است.",
+      "summary_fa": "گروه مورد حمایت ایران که قبلاً «تحریم دریایی» علیه عربستان سعودی را اعلام کرده بود، همچنین مدعی است که یک کشتی دیگر را هدف قرار داده است.",
+      "summary_en": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 14:18:13 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf38/live/90c9e750-8676-11f1-b976-0b9c15b0ccfc.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1491efda30278449552c53d6eebff13e",
+      "title": "با افزایش قیمت نفت و ترس از تورم، بازدهی 10 ساله خزانه داری به بالاترین میزان از ژانویه 2025 رسید.",
+      "title_fa": "با افزایش قیمت نفت و ترس از تورم، بازدهی 10 ساله خزانه داری به بالاترین میزان از ژانویه 2025 رسید.",
+      "title_en": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
+      "summary": "بازدهی خزانه داری آمریکا روز چهارشنبه به دنبال افزایش قیمت نفت افزایش یافت، زیرا معامله گران همچنین به کاهش مطالبات هفتگی بیمه بیکاری واکنش نشان دادند.",
+      "summary_fa": "بازدهی خزانه داری آمریکا روز چهارشنبه به دنبال افزایش قیمت نفت افزایش یافت، زیرا معامله گران همچنین به کاهش مطالبات هفتگی بیمه بیکاری واکنش نشان دادند.",
+      "summary_en": "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance.",
+      "link": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 14:15:30 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -12251,6 +12923,132 @@
       }
     },
     {
+      "id": "88e15d8c66136a03de4875b347b65e2c",
+      "title": "برای سرمایه گذاران جوان، 100000 دلار زمانی دروازه ثروت بود. امروز، دو برابر آن است.",
+      "title_fa": "برای سرمایه گذاران جوان، 100000 دلار زمانی دروازه ثروت بود. امروز، دو برابر آن است.",
+      "title_en": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
+      "summary": "در حالی که این معیار سرمایه گذاری هنوز ارزش تجلیل دارد، جوانانی که می خواهند در اقتصاد امروز احساس ثروت کنند باید چیزهای بیشتری داشته باشند.",
+      "summary_fa": "در حالی که این معیار سرمایه گذاری هنوز ارزش تجلیل دارد، جوانانی که می خواهند در اقتصاد امروز احساس ثروت کنند باید چیزهای بیشتری داشته باشند.",
+      "summary_en": "While this investing benchmark is still worth celebrating, young people who want to feel rich in today’s economy need to have a lot more.",
+      "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 14:15:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-17563609",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cf6a48e81590d908db900f07cd6b944c",
+      "title": "هزاران نفر در پی گسترش آتش سوزی در جنوب غربی فرانسه تخلیه شدند",
+      "title_fa": "هزاران نفر در پی گسترش آتش سوزی در جنوب غربی فرانسه تخلیه شدند",
+      "title_en": "Thousands evacuated as wildfire spreads in southwestern France",
+      "summary": "در حالی که آتش‌نشانان با شعله‌های آتش در سراسر جنگل مبارزه می‌کنند و هزاران نفر تخلیه می‌شوند، آتش‌سوزی در نزدیکی Le Porge در ژیروند فرانسه گسترش می‌یابد.",
+      "summary_fa": "در حالی که آتش‌نشانان با شعله‌های آتش در سراسر جنگل مبارزه می‌کنند و هزاران نفر تخلیه می‌شوند، آتش‌سوزی در نزدیکی Le Porge در ژیروند فرانسه گسترش می‌یابد.",
+      "summary_en": "A wildfire spreads near Le Porge in Gironde, France, as firefighters battle flames across the forest and thousands of people are evacuated.",
+      "link": "http://www.euronews.com/video/2026/07/23/thousands-evacuated-as-wildfire-spreads-in-southwestern-france",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 14:14:13 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "114eceadc12a1e713d04b829984b349c",
+      "title": "پس از ادعای حوثی‌ها برای حمله به نفت‌کش‌های عربستان سعودی، قیمت جهانی نفت به ۱۰۰ دلار رسید",
+      "title_fa": "پس از ادعای حوثی‌ها برای حمله به نفت‌کش‌های عربستان سعودی، قیمت جهانی نفت به ۱۰۰ دلار رسید",
+      "title_en": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
+      "summary": "پس از اینکه شبه‌نظامیان حوثی یمن ادعا کردند به دو نفتکش عربستان سعودی در دریای سرخ حمله کردند، قیمت‌های آتی نفت به شدت افزایش یافت و قیمت نفت برنت برای اولین بار از ماه مه به بالای 100 دلار در هر بشکه رسید.",
+      "summary_fa": "پس از اینکه شبه‌نظامیان حوثی یمن ادعا کردند به دو نفتکش عربستان سعودی در دریای سرخ حمله کردند، قیمت‌های آتی نفت به شدت افزایش یافت و قیمت نفت برنت برای اولین بار از ماه مه به بالای 100 دلار در هر بشکه رسید.",
+      "summary_en": "Oil futures climbed sharply Thursday, with global benchmark Brent crude topping $100 a barrel for the first time since May, after Yemen’s Houthi militants claimed attacks on two Saudi Arabian tankers in the Red Sea.",
+      "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 14:09:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-46870434",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3f5f94c6451dd18fdcb302114d7905bd",
+      "title": "شمار قربانیان ابولا در جمهوری دموکراتیک کنگو از 1000 نفر گذشت",
+      "title_fa": "شمار قربانیان ابولا در جمهوری دموکراتیک کنگو از 1000 نفر گذشت",
+      "title_en": "Ebola death toll in DR Congo surpasses 1,000",
+      "summary": "بر اساس داده های رسمی دولت، بیش از 1000 نفر در آخرین شیوع ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده اند.",
+      "summary_fa": "بر اساس داده های رسمی دولت، بیش از 1000 نفر در آخرین شیوع ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده اند.",
+      "summary_en": "More than 1,000 people have died in the latest Ebola outbreak in DR Congo, according to official government data.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ebola-death-toll-in-dr-congo-surpasses-1000?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 14:08:05 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "15176b54f6b264f3c66f4172cbf48b82",
+      "title": "وزارت دفاع آموزش ارتش در کنیا را به دلیل اختیارات برای محاکمه سربازان انگلیسی لغو کرد",
+      "title_fa": "وزارت دفاع آموزش ارتش در کنیا را به دلیل اختیارات برای محاکمه سربازان انگلیسی لغو کرد",
+      "title_en": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
+      "summary": "پس از آنکه دولت کنیا از تصویب یک توافقنامه دفاعی دوجانبه امتناع کرد، پس از آن که کنیا نگرانی هایی را در مورد بودجه و صلاحیت جرایم جنایی ایجاد کرد، پس از آن که دولت کنیا از تصویب توافقنامه دفاعی دوجانبه خودداری کرد، ارتش بریتانیا مجبور به لغو آموزش نیروهای خود در کنیا شد. ادامه مطلب...",
+      "summary_fa": "پس از آنکه دولت کنیا از تصویب یک توافقنامه دفاعی دوجانبه امتناع کرد، پس از آن که کنیا نگرانی هایی را در مورد بودجه و صلاحیت جرایم جنایی ایجاد کرد، پس از آن که دولت کنیا از تصویب توافقنامه دفاعی دوجانبه خودداری کرد، ارتش بریتانیا مجبور به لغو آموزش نیروهای خود در کنیا شد. ادامه مطلب...",
+      "summary_en": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offencesThe British army has been forced to cancel training for its troops in Kenya after the Kenyan government refused to ratify a bilateral defence agreement.While the UK government wanted to renew the existing agreement, Kenyan lawmakers had sought changes to give local authorities greater powers to hold British soldiers accountable for any offences committed in the country. Continue reading...",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 14:06:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/cc893372a6e05bc6d33bcfd80ee3e1949232e157/116_0_3774_3021/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=27102742e8da4fe2d42520d9e13906c1",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "63e4c8875360353417f0c2ac955dd2f8",
+      "title": "نحوه استفاده از تم ها در پیام های گوگل تا دیگر هرگز به شخص اشتباهی پیامک نزنید",
+      "title_fa": "نحوه استفاده از تم ها در پیام های گوگل تا دیگر هرگز به شخص اشتباهی پیامک نزنید",
+      "title_en": "How to use themes in Google Messages so you never text the wrong person again",
+      "summary": "احتمالاً برای شما هم پیش آمده است که پاسخ اشتباهی را به شخص اشتباهی ارسال کرده باشید. من راهی برای جلوگیری از این مشکل پیدا کردم.",
+      "summary_fa": "احتمالاً برای شما هم پیش آمده است که پاسخ اشتباهی را به شخص اشتباهی ارسال کرده باشید. من راهی برای جلوگیری از این مشکل پیدا کردم.",
+      "summary_en": "You've probably had an occasion where you've sent the wrong response to the wrong person. I've found a way to avoid this problem.",
+      "link": "https://www.zdnet.com/article/how-to-use-themes-in-google-messages-so-you-never-send-the-wrong-person-the-wrong-text-again/",
+      "source": "ZDNet",
+      "published_at": "Thu, 23 Jul 2026 14:00:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1a8527a6a56e3c8656bae040a76ff00b",
       "title": "بررسی واقعیت: هیچ مدرکی وجود ندارد که آتش نروژ را به ممنوعیت واردات شهرک‌های اسرائیلی مرتبط کند",
       "title_fa": "بررسی واقعیت: هیچ مدرکی وجود ندارد که آتش نروژ را به ممنوعیت واردات شهرک‌های اسرائیلی مرتبط کند",
@@ -12272,6 +13070,405 @@
       }
     },
     {
+      "id": "4f0391142cb90274136c89559e79825c",
+      "title": "چرا برخی از ارزان ترین شهرها هزینه بیشتری برای زندگی دارند؟",
+      "title_fa": "چرا برخی از ارزان ترین شهرها هزینه بیشتری برای زندگی دارند؟",
+      "title_en": "Why do some of the cheapest cities cost the most to live in?",
+      "summary": "یک کارگر در قاهره می تواند 22 همبرگر در ماه بخرد. در تل آویو، بیش از 200. AJLabs حقوقی را در وعده های غذایی بیگ مک حساب می کند.",
+      "summary_fa": "یک کارگر در قاهره می تواند 22 همبرگر در ماه بخرد. در تل آویو، بیش از 200. AJLabs حقوقی را در وعده های غذایی بیگ مک حساب می کند.",
+      "summary_en": "A worker in Cairo can afford 22 hamburgers a month. In Tel Aviv, more than 200. AJLabs counts a salary in Big Mac meals.",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/23/why-do-some-of-the-cheapest-cities-cost-the-most-to-live-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 13:46:28 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2da40d129688bc9d0416181dc9f3ccc1",
+      "title": "سهام خطوط هوایی امریکن 8 درصد سقوط کرد زیرا افزایش سوخت، چرخش را بیشتر به تعویق انداخت",
+      "title_fa": "سهام خطوط هوایی امریکن 8 درصد سقوط کرد زیرا افزایش سوخت، چرخش را بیشتر به تعویق انداخت",
+      "title_en": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+      "summary": "امریکن ایرلاینز چشم انداز درآمد سال 2026 خود را با اشاره به هزینه های سوخت بالاتر کاهش داد.",
+      "summary_fa": "امریکن ایرلاینز چشم انداز درآمد سال 2026 خود را با اشاره به هزینه های سوخت بالاتر کاهش داد.",
+      "summary_en": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
+      "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 13:45:27 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9851b953bb653af05f0c668f3ca20e2c",
+      "title": "آفریقای جنوبی می‌گوید که دادخواست بین‌المللی کیفری غنا در مورد حملات مهاجران «فرصت‌طلبانه» است",
+      "title_fa": "آفریقای جنوبی می‌گوید که دادخواست بین‌المللی کیفری غنا در مورد حملات مهاجران «فرصت‌طلبانه» است",
+      "title_en": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+      "summary": "این طومار استدلال می کند که خشونت علیه مهاجران در آفریقای جنوبی می تواند جنایت علیه بشریت باشد.",
+      "summary_fa": "این طومار استدلال می کند که خشونت علیه مهاجران در آفریقای جنوبی می تواند جنایت علیه بشریت باشد.",
+      "summary_en": "The petition argues the violence against migrants in South Africa could amount to crimes against humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 13:44:19 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2144/live/28bc2db0-869b-11f1-926f-c90d1bcfbc84.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e587c0cd89cd36eec1f2a64f59f984f",
+      "title": "سهام Albertsons سقوط می کند زیرا می گوید هزینه های ضعیف تر مواد غذایی باعث کاهش فروش و درآمد می شود",
+      "title_fa": "سهام Albertsons سقوط می کند زیرا می گوید هزینه های ضعیف تر مواد غذایی باعث کاهش فروش و درآمد می شود",
+      "title_en": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
+      "summary": "سهام آلبرتسونز روز پنجشنبه پس از آنکه این خواربارفروش نرمی در تجارت اصلی خود را گزارش کرد و در نتیجه چشم انداز کل سال خود را کاهش داد، سقوط کرد.",
+      "summary_fa": "سهام آلبرتسونز روز پنجشنبه پس از آنکه این خواربارفروش نرمی در تجارت اصلی خود را گزارش کرد و در نتیجه چشم انداز کل سال خود را کاهش داد، سقوط کرد.",
+      "summary_en": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
+      "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 13:41:16 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4a67ebf5ccf9cfe5b981a2b18bdbbac6",
+      "title": "ترامپ می گوید توافق هسته ای عربستان به روابط با اسرائیل بستگی دارد",
+      "title_fa": "ترامپ می گوید توافق هسته ای عربستان به روابط با اسرائیل بستگی دارد",
+      "title_en": "Trump says Saudi nuclear deal depends on relations with Israel",
+      "summary": "ولیعهد تاکید کرده است که هرگونه نزدیکی با اسرائیل به اقداماتی در راستای تشکیل کشور فلسطین بستگی دارد.",
+      "summary_fa": "ولیعهد تاکید کرده است که هرگونه نزدیکی با اسرائیل به اقداماتی در راستای تشکیل کشور فلسطین بستگی دارد.",
+      "summary_en": "Crown prince has insisted any rapprochement with Israel would depend on steps towards establishing Palestinian state",
+      "link": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 13:39:29 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa0320a02-6e96-4e26-bdab-fe515a88b798.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "558982488c04b0f17c0d16fa345e31cf",
+      "title": "قیمت نفت برنت به بالای 100 دلار در هر بشکه رسید. چگونه توقف بعدی می تواند 120 دلار باشد",
+      "title_fa": "قیمت نفت برنت به بالای 100 دلار در هر بشکه رسید. چگونه توقف بعدی می تواند 120 دلار باشد",
+      "title_en": "Brent crude tops $100 a barrel. How the next stop could be $120",
+      "summary": "گلدمن ساکس در مورد قیمت نفت و به اصطلاح ته مخازن هشدار می دهد (و عاشق نام جدید مرتبط با گاز طبیعی است).",
+      "summary_fa": "گلدمن ساکس در مورد قیمت نفت و به اصطلاح ته مخازن هشدار می دهد (و عاشق نام جدید مرتبط با گاز طبیعی است).",
+      "summary_en": "Goldman Sachs warns on oil prices and so called tank bottoms ( and loves a new natural gas-related name).",
+      "link": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 13:36:29 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "50bf06c2295d573a10fae6a7f4d7d3c8",
+      "title": "IBM راهنمایی های خود را کاهش داد. به گفته تحلیلگران، اکنون زمان ارائه است.",
+      "title_fa": "IBM راهنمایی های خود را کاهش داد. به گفته تحلیلگران، اکنون زمان ارائه است.",
+      "title_en": "IBM lowered its guidance. Now it’s time to deliver, analysts say.",
+      "summary": "با وجود کاهش راهنمایی‌ها برای درآمد، IBM انتظار خود را برای افزایش حدود 1 میلیارد دلاری جریان نقدی آزاد در سال 2026 حفظ کرد.",
+      "summary_fa": "با وجود کاهش راهنمایی‌ها برای درآمد، IBM انتظار خود را برای افزایش حدود 1 میلیارد دلاری جریان نقدی آزاد در سال 2026 حفظ کرد.",
+      "summary_en": "Despite lowering guidance for revenue, IBM maintained its expectation for free cash flow to increase by about $1 billion in 2026.",
+      "link": "https://www.marketwatch.com/story/ibm-lowered-its-guidance-now-its-time-to-deliver-analysts-say-fe3d7d1a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 13:35:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-57104077",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "babdba17fe09a77c10988b6219076242",
+      "title": "10 مورد برتر جیم کرامر برای تماشای پنجشنبه در بازار سهام",
+      "title_fa": "10 مورد برتر جیم کرامر برای تماشای پنجشنبه در بازار سهام",
+      "title_en": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "summary": "تسلا علیرغم افزایش برآوردهای درآمدی، درآمد خود را از دست داد. به علاوه، باشگاه هانیول تکنولوژیز و دوور نتایج را منتشر کردند.",
+      "summary_fa": "تسلا علیرغم افزایش برآوردهای درآمدی، درآمد خود را از دست داد. به علاوه، باشگاه هانیول تکنولوژیز و دوور نتایج را منتشر کردند.",
+      "summary_en": "Tesla missed on earnings despite beating revenue estimates. Plus, Club names Honeywell Technologies and Dover released results.",
+      "link": "https://www.cnbc.com/2026/07/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 13:31:46 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "adf2de87c301d2c87172ded48dc09857",
+      "title": "عامل حمله OpenAI دقیقاً همان کاری را انجام داد که به آن گفته شد - فقط بی امان تر از آنچه انتظار می رفت",
+      "title_fa": "عامل حمله OpenAI دقیقاً همان کاری را انجام داد که به آن گفته شد - فقط بی امان تر از آنچه انتظار می رفت",
+      "title_en": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
+      "summary": "حمله ناخواسته OpenAI به Hugging Face دنیا را شگفت زده کرد زیرا عامل هوش مصنوعی آن به تنهایی عمل می کرد. اما این دقیقاً همان چیزی است که هوش مصنوعی عاملی برای انجام آن طراحی شده است. ما فقط انتظار نداشتیم که این کار را به این خوبی انجام دهد.",
+      "summary_fa": "حمله ناخواسته OpenAI به Hugging Face دنیا را شگفت زده کرد زیرا عامل هوش مصنوعی آن به تنهایی عمل می کرد. اما این دقیقاً همان چیزی است که هوش مصنوعی عاملی برای انجام آن طراحی شده است. ما فقط انتظار نداشتیم که این کار را به این خوبی انجام دهد.",
+      "summary_en": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is designed to do. We just didn't expect it to do it so well.",
+      "link": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
+      "source": "ZDNet",
+      "published_at": "Thu, 23 Jul 2026 13:31:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b6c01ab32021ab0a0c1a3cc6bd8ab8f8",
+      "title": "معامله گران افزایش نرخ بهره را در ماه سپتامبر در حالی می بینند که بانک مرکزی اروپا در حال بررسی افزایش قیمت انرژی است",
+      "title_fa": "معامله گران افزایش نرخ بهره را در ماه سپتامبر در حالی می بینند که بانک مرکزی اروپا در حال بررسی افزایش قیمت انرژی است",
+      "title_en": "Traders see September rate hike as European Central Bank mulls energy price spike",
+      "summary": "کریستین لاگارد، رئیس بانک مرکزی اروپا گفت این بانک پیش بینی می کند که تورم تا نیمه اول سال 2027 \"بسیار بالاتر از هدف\" باقی بماند.",
+      "summary_fa": "کریستین لاگارد، رئیس بانک مرکزی اروپا گفت این بانک پیش بینی می کند که تورم تا نیمه اول سال 2027 \"بسیار بالاتر از هدف\" باقی بماند.",
+      "summary_en": "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+      "link": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 13:25:57 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9d3ad97c4587aaa288d37efd57f65f0d",
+      "title": "خطر ابتلا به بیماری پارکینسون ممکن است با قرار گرفتن طولانی مدت در معرض صدای ترافیک جاده افزایش یابد",
+      "title_fa": "خطر ابتلا به بیماری پارکینسون ممکن است با قرار گرفتن طولانی مدت در معرض صدای ترافیک جاده افزایش یابد",
+      "title_en": "Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise",
+      "summary": "مطالعه پیشگامی که آلودگی صوتی را با پارکینسون مرتبط می کند، نشان می دهد که به ازای هر افزایش 11.5 دسی بل در سطح سر و صدا، 3 درصد افزایش خطر را نشان می دهد، بزرگترین مطالعه در نوع خود نشان می دهد که قرار گرفتن طولانی مدت در معرض سر و صدای ترافیک جاده با خطر بالاتر بیماری پارکینسون مرتبط است. بیماری پارکینسون یک اختلال پیش رونده است که در آن قسمت هایی از مغز به مرور زمان بر حرکات آسیب می زند و تعادل را تحت تأثیر قرار می دهد. ادامه مطلب...",
+      "summary_fa": "مطالعه پیشگامی که آلودگی صوتی را با پارکینسون مرتبط می کند، نشان می دهد که به ازای هر افزایش 11.5 دسی بل در سطح سر و صدا، 3 درصد افزایش خطر را نشان می دهد، بزرگترین مطالعه در نوع خود نشان می دهد که قرار گرفتن طولانی مدت در معرض سر و صدای ترافیک جاده با خطر بالاتر بیماری پارکینسون مرتبط است. بیماری پارکینسون یک اختلال پیش رونده است که در آن قسمت هایی از مغز به مرور زمان بر حرکات آسیب می زند و تعادل را تحت تأثیر قرار می دهد. ادامه مطلب...",
+      "summary_en": "Pioneering study linking noise pollution to Parkinson’s finds 3% increase in risk for every 11.5dB rise in noise levelsLong-term exposure to road traffic noise is associated with a higher risk of Parkinson’s disease, the biggest study of its kind has found.Parkinson’s disease is a progressive disorder in which parts of the brain become damaged over time, affecting movement and balance. Continue reading...",
+      "link": "https://www.theguardian.com/society/2026/jul/23/road-traffic-noise-parkinsons-disease-study-health",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 13:24:25 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/eb10e87cada197787472eeb15755ff28a85fdc3a/1528_1011_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=e06689e6d14f6f9a8cc09ecbf1f8bc87",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dd6f0a5738af906a6dcc1c53b18960ed",
+      "title": "پس از حملات در دریای سرخ، قیمت نفت به 100 دلار در هر بشکه رسید",
+      "title_fa": "پس از حملات در دریای سرخ، قیمت نفت به 100 دلار در هر بشکه رسید",
+      "title_en": "Oil prices leap to $100 a barrel after attacks in Red Sea",
+      "summary": "قیمت نفت برنت که اکنون حدود 40 درصد در این ماه افزایش یافته است، روز پنجشنبه پس از ادعای حملات حوثی‌های ایران در یمن به نفتکش‌های سعودی افزایش یافت.",
+      "summary_fa": "قیمت نفت برنت که اکنون حدود 40 درصد در این ماه افزایش یافته است، روز پنجشنبه پس از ادعای حملات حوثی‌های ایران در یمن به نفتکش‌های سعودی افزایش یافت.",
+      "summary_en": "The price of Brent crude, now up about 40 percent this month, surged Thursday after Iran’s Houthi allies in Yemen claimed strikes on Saudi tankers.",
+      "link": "https://www.washingtonpost.com/world/2026/07/23/least-one-saudi-oil-tanker-is-attacked-red-sea-war-risks-widen/",
+      "source": "Washington Post",
+      "published_at": "Thu, 23 Jul 2026 13:23:54 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7339968e964ce91f44503168c03b7cf6",
+      "title": "خرم پرویز فعال کشمیری و عرفان مهراج روزنامه نگار با قرار وثیقه آزاد شدند",
+      "title_fa": "خرم پرویز فعال کشمیری و عرفان مهراج روزنامه نگار با قرار وثیقه آزاد شدند",
+      "title_en": "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
+      "summary": "مقامات هندی این دو مرد را پس از سال‌ها حبس آزاد می‌کنند، اگرچه هر دو تحت محدودیت‌های شدید دادگاه قرار دارند",
+      "summary_fa": "مقامات هندی این دو مرد را پس از سال‌ها حبس آزاد می‌کنند، اگرچه هر دو تحت محدودیت‌های شدید دادگاه قرار دارند",
+      "summary_en": "Indian authorities release the two men after years in prison although both remain under tight court-imposed restrictions",
+      "link": "https://www.aljazeera.com/news/2026/7/23/kashmiri-activist-khurram-parvez-and-journalist-irfan-mehraj-freed-on-bail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 13:18:13 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f3606afa5d89dc7f2c95f339f8541a08",
+      "title": "FDA در حال تصمیم گیری است که کدام پپتیدها می توانند به زودی به طور گسترده در ایالات متحده در دسترس باشند.",
+      "title_fa": "FDA در حال تصمیم گیری است که کدام پپتیدها می توانند به زودی به طور گسترده در ایالات متحده در دسترس باشند.",
+      "title_en": "The FDA is about to decide which peptides could soon become widely available in the U.S. Here’s what happens next.",
+      "summary": "FDA در حال تصمیم گیری است که آیا هفت پپتید مانند BPC-157 و TB-500 می توانند به طور قانونی ترکیب شوند و به طور بالقوه در را برای استفاده گسترده تر در آمریکایی ها باز کند.",
+      "summary_fa": "FDA در حال تصمیم گیری است که آیا هفت پپتید مانند BPC-157 و TB-500 می توانند به طور قانونی ترکیب شوند و به طور بالقوه در را برای استفاده گسترده تر در آمریکایی ها باز کند.",
+      "summary_en": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
+      "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 13:18:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-60430384",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d54edbf8ab48b5757b3f52bd29f6ab4",
+      "title": "بر اساس یافته های گزارش، بازسازی غزه با هزینه 71 میلیارد دلاری باید شامل فلسطینی ها نیز باشد",
+      "title_fa": "بر اساس یافته های گزارش، بازسازی غزه با هزینه 71 میلیارد دلاری باید شامل فلسطینی ها نیز باشد",
+      "title_en": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+      "summary": "گزارش مشترک می‌گوید که بازسازی این منطقه هفت برابر مجموع هزینه‌های همه حملات گذشته هزینه خواهد داشت.",
+      "summary_fa": "گزارش مشترک می‌گوید که بازسازی این منطقه هفت برابر مجموع هزینه‌های همه حملات گذشته هزینه خواهد داشت.",
+      "summary_en": "Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 13:06:35 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "33e8b062abf517a2d31a3b6a4e626617",
+      "title": "واکنش شرکت‌ها، دولت‌ها به هک OpenAI چگونه است؟",
+      "title_fa": "واکنش شرکت‌ها، دولت‌ها به هک OpenAI چگونه است؟",
+      "title_en": "How are companies, governments responding to the OpenAI hack?",
+      "summary": "مدل‌های هوش مصنوعی OpenAI به یک شرکت دیگر هک شد، و این امر باعث درخواست‌ها برای بررسی دقیق پادمان‌های سیستم‌های هوش مصنوعی پیشرفته شد.",
+      "summary_fa": "مدل‌های هوش مصنوعی OpenAI به یک شرکت دیگر هک شد، و این امر باعث درخواست‌ها برای بررسی دقیق پادمان‌های سیستم‌های هوش مصنوعی پیشرفته شد.",
+      "summary_en": "OpenAI's AI models hacked into another company, prompting calls for scrutiny of safeguards for advanced AI systems.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 13:00:07 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bcd96c88884bd108326c312e9d578973",
+      "title": "توافق هسته ای ترامپ با سعودی ها خواسته های دیرینه آمریکا را کنار می گذارد",
+      "title_fa": "توافق هسته ای ترامپ با سعودی ها خواسته های دیرینه آمریکا را کنار می گذارد",
+      "title_en": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "summary": "امضای پیمان هسته ای در خاورمیانه اقدامی جسورانه است که در آمریکا و اسرائیل انتقاداتی را به دنبال داشته است.",
+      "summary_fa": "امضای پیمان هسته ای در خاورمیانه اقدامی جسورانه است که در آمریکا و اسرائیل انتقاداتی را به دنبال داشته است.",
+      "summary_en": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 12:58:40 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f864/live/1a57f800-86a3-11f1-926f-c90d1bcfbc84.jpg",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "9265143c68bad107185425eec2ccb64e",
+      "title": "هزاران گردشگر در میان کسانی که به دلیل آتش سوزی شدید در فرانسه تخلیه شده اند",
+      "title_fa": "هزاران گردشگر در میان کسانی که به دلیل آتش سوزی شدید در فرانسه تخلیه شده اند",
+      "title_en": "Thousands of tourists among those evacuated amid intense wildfire in France",
+      "summary": "پس از شروع آتش‌سوزی در جنگل کاج در 45 کیلومتری غرب بوردو اروپا، مراکز پذیرایی به روی هزاران نفر از افراد تخلیه‌شده باز می‌شوند. مقامات فرانسه-آتلانتیک به‌منظور پیشروی‌های آتش‌سوزی جنگل‌های جنوب غربی فرانسه در جنوب غرب فرانسه گفتند که بیش از 20000 نفر از جمله هزاران گردشگر از کمپینگ‌ها و سایر اقامتگاه‌های تعطیلات، به روی هزاران نفر تخلیه شده‌اند. آتش نشانان روز پنجشنبه گفتند که در جنگل انبوه کاج در نزدیکی روستای سائوموس در حدود 40 کیلومتری (25 مایلی) غرب بوردو و درست در شمال خلیج آرکاشون، یک مقصد گردشگری محبوب آغاز شد، 2400 هکتار (5928 هکتار) در کمتر از 24 ساعت سوخت. ادامه مطلب...",
+      "summary_fa": "پس از شروع آتش‌سوزی در جنگل کاج در 45 کیلومتری غرب بوردو اروپا، مراکز پذیرایی به روی هزاران نفر از افراد تخلیه‌شده باز می‌شوند. مقامات فرانسه-آتلانتیک به‌منظور پیشروی‌های آتش‌سوزی جنگل‌های جنوب غربی فرانسه در جنوب غرب فرانسه گفتند که بیش از 20000 نفر از جمله هزاران گردشگر از کمپینگ‌ها و سایر اقامتگاه‌های تعطیلات، به روی هزاران نفر تخلیه شده‌اند. آتش نشانان روز پنجشنبه گفتند که در جنگل انبوه کاج در نزدیکی روستای سائوموس در حدود 40 کیلومتری (25 مایلی) غرب بوردو و درست در شمال خلیج آرکاشون، یک مقصد گردشگری محبوب آغاز شد، 2400 هکتار (5928 هکتار) در کمتر از 24 ساعت سوخت. ادامه مطلب...",
+      "summary_en": "Reception centres open to thousands of evacuees after blaze begins in pine forest 45km west of BordeauxEurope live – latest updatesMore than 20,000 people, including thousands of tourists from campsites and other holiday accommodation, have been evacuated as a “particularly intense” wildfire advances on the Atlantic coast of south-west France, authorities have said.The blaze, which began in dense pine forest near the village of Saumos about 40km (25 miles) west of Bordeaux and just north of the bay of Arcachon, a popular tourist destination, had burned 2,400 hectares (5,928 acres) in less than 24 hours, firefighters said on Thursday. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 12:58:05 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4c0553fd54435dc932a03d73737bbeaa9c10a256/421_0_4896_3919/master/4896.jpg?width=140&quality=85&auto=format&fit=max&s=113269bd9965a7cc24ef40cda4ebd51d",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "c77f427c758ae1f7144d749e584f0440",
+      "title": "«مبارزه ما اصلاح سیستم است»: معترضان هندی خواستار پاسخگویی هستند",
+      "title_fa": "«مبارزه ما اصلاح سیستم است»: معترضان هندی خواستار پاسخگویی هستند",
+      "title_en": "‘Our fight is to fix the system’: India protesters demand accountability",
+      "summary": "حزب سوسک جانتا هند هفته ها اعتراضات را به دلیل افشای برگه های امتحانی رهبری کرد.",
+      "summary_fa": "حزب سوسک جانتا هند هفته ها اعتراضات را به دلیل افشای برگه های امتحانی رهبری کرد.",
+      "summary_en": "India's Cockroach Janta Party led weeks of protests over exam paper leaks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/our-fight-is-to-fix-the-system-india-protesters-demand-accountability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 12:54:11 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aeaa9752bcdab1171d7b19c8b566a973",
       "title": "بازدهی خزانه داری 10 ساله به 4.7 درصد رسید که بالاترین میزان از ژانویه 2025 است",
       "title_fa": "بازدهی خزانه داری 10 ساله به 4.7 درصد رسید که بالاترین میزان از ژانویه 2025 است",
@@ -12290,6 +13487,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9e33e1a20d1a1d4ef468655640662159",
+      "title": "کارمند مشروب فروشی به سختی از حمله پلنگ فرار کرد",
+      "title_fa": "کارمند مشروب فروشی به سختی از حمله پلنگ فرار کرد",
+      "title_en": "Liquor store employee narrowly escapes leopard attack",
+      "summary": "مقامات محلی تایید کردند که پس از نزدیک به پنج ساعت، مقامات این حیوان را گرفتند و بعداً به طبیعت رها شد.",
+      "summary_fa": "مقامات محلی تایید کردند که پس از نزدیک به پنج ساعت، مقامات این حیوان را گرفتند و بعداً به طبیعت رها شد.",
+      "summary_en": "After nearly five hours, officials captured the animal and it was later released back into the wild, local authorities confirmed.",
+      "link": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 12:49:55 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c70f/live/e83909d0-8694-11f1-b976-0b9c15b0ccfc.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9cc897e4390565cd46522f4be7ea55ad",
+      "title": "کدام کشورهای خاورمیانه برنامه هسته ای دارند و چگونه ساخته شده اند؟",
+      "title_fa": "کدام کشورهای خاورمیانه برنامه هسته ای دارند و چگونه ساخته شده اند؟",
+      "title_en": "Which Middle East nations have nuclear programmes, and how were they built?",
+      "summary": "عربستان سعودی پس از امضای قرارداد با آمریکا قصد دارد به باشگاه هسته ای منطقه بپیوندد.",
+      "summary_fa": "عربستان سعودی پس از امضای قرارداد با آمریکا قصد دارد به باشگاه هسته ای منطقه بپیوندد.",
+      "summary_en": "Saudi Arabia aims to join the region's nuclear club after it signs a deal with the US.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 12:46:46 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
       }
     },
     {
@@ -12395,6 +13634,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "f6bef52781609ba871fd364377303849",
+      "title": "AARP به کنگره: ما به شدت با تغییرات سریع تامین اجتماعی مخالفیم",
+      "title_fa": "AARP به کنگره: ما به شدت با تغییرات سریع تامین اجتماعی مخالفیم",
+      "title_en": "AARP to Congress: 'We strongly object to fast-tracking Social Security changes'",
+      "summary": "قانون جدید با هدف شکستن بن بست در مورد بازنگری اساسی تامین اجتماعی است. AARP که از مسائل ارشد دفاع می کند، می گوید که با آنها مخالف است.",
+      "summary_fa": "قانون جدید با هدف شکستن بن بست در مورد بازنگری اساسی تامین اجتماعی است. AARP که از مسائل ارشد دفاع می کند، می گوید که با آنها مخالف است.",
+      "summary_en": "New legislation aims to break the stalemate on overhauling Social Security. AARP, which advocates on senior issues, says it opposes them.",
+      "link": "https://www.cnbc.com/2026/07/23/aarp-opposes-bipartisan-social-security-reform-proposal.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 12:35:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -13130,6 +14390,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "6fb1eb62075d076c2e29885c693e7c5a",
+      "title": "معافیت مالیاتی برای حفظ زمین مورد بررسی IRS قرار گرفته است. اینجا زمانی است که هنوز منطقی است",
+      "title_fa": "معافیت مالیاتی برای حفظ زمین مورد بررسی IRS قرار گرفته است. اینجا زمانی است که هنوز منطقی است",
+      "title_en": "A tax break for preserving land has drawn IRS scrutiny. Here’s when it still makes sense",
+      "summary": "اگر از این پرچم‌های قرمز IRS اجتناب کنید، برای مالکان ثروتمند، حق ارتفاق حفاظتی همچنان منطقی است.",
+      "summary_fa": "اگر از این پرچم‌های قرمز IRS اجتناب کنید، برای مالکان ثروتمند، حق ارتفاق حفاظتی همچنان منطقی است.",
+      "summary_en": "For wealthy landowners, conservation easements can still make sense if you avoid these IRS red flags.",
+      "link": "https://www.cnbc.com/2026/07/23/conservation-easements-tax-incentives-irs-crackdown.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 11:30:01 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -14099,6 +15380,27 @@
       }
     },
     {
+      "id": "12d193b343497c915d04265a9f43606d",
+      "title": "اورکاها از شکستن خورشید ماهی غول پیکر به هزاران قطعه فیلم گرفتند",
+      "title_fa": "اورکاها از شکستن خورشید ماهی غول پیکر به هزاران قطعه فیلم گرفتند",
+      "title_en": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "summary": "محققان در خلیج کالیفرنیا رفتار دراماتیک اورکا را که قبلاً شرح داده نشده بود، ثبت کردند. در دو رویارویی جداگانه، یک اورکا یک خورشیدماهی مرده را با باله گرفت و دیگری با سرعت زیاد به داخل آن حمله کرد و لاشه را به هزاران تکه تکه کرد.",
+      "summary_fa": "محققان در خلیج کالیفرنیا رفتار دراماتیک اورکا را که قبلاً شرح داده نشده بود، ثبت کردند. در دو رویارویی جداگانه، یک اورکا یک خورشیدماهی مرده را با باله گرفت و دیگری با سرعت زیاد به داخل آن حمله کرد و لاشه را به هزاران تکه تکه کرد.",
+      "summary_en": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 23 Jul 2026 09:55:59 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "2f2328346266d305d8daa6a0bfa894ee",
       "title": "اینجا جدیدترین است.",
       "title_fa": "اینجا جدیدترین است.",
@@ -14498,6 +15800,27 @@
       }
     },
     {
+      "id": "cd392d976d85908d78e3c4fb0b6ecf83",
+      "title": "بیش از 4200 اسرائیلی به مسجد الاقصی در اورشلیم یورش بردند",
+      "title_fa": "بیش از 4200 اسرائیلی به مسجد الاقصی در اورشلیم یورش بردند",
+      "title_en": "More than 4,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+      "summary": "وزیر امنیت ملی بن گویر به شهرک نشینان و گروه های راست افراطی در مکان مقدس تحت حفاظت شدید پلیس می پیوندد.",
+      "summary_fa": "وزیر امنیت ملی بن گویر به شهرک نشینان و گروه های راست افراطی در مکان مقدس تحت حفاظت شدید پلیس می پیوندد.",
+      "summary_en": "National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 09:18:37 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "0083fbbce26e235f847052a94fad6a61",
       "title": "جیبو رو یادته؟ جانشین آن یک پوشیدنی است که زندگی شما را به هوش مصنوعی تبدیل می کند",
       "title_fa": "جیبو رو یادته؟ جانشین آن یک پوشیدنی است که زندگی شما را به هوش مصنوعی تبدیل می کند",
@@ -14806,6 +16129,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-89037579",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "097ce95fbfb76c9b06444afdca161885",
+      "title": "نوشیدنی های محبوب دوران کودکی ممکن است چند دهه بعد فشار خون را افزایش دهند",
+      "title_fa": "نوشیدنی های محبوب دوران کودکی ممکن است چند دهه بعد فشار خون را افزایش دهند",
+      "title_en": "Popular childhood drinks may raise blood pressure decades later",
+      "summary": "یک مطالعه 25 ساله نشان داد که مصرف مکرر نوشابه، نوشیدنی های ورزشی و آب میوه که از دوران کودکی شروع می شود با افزایش خطر فشار خون بالا در بزرگسالی مرتبط است. تعویض یک نوشیدنی در روز با میوه کامل، شیر یا آب می تواند این خطر را به میزان قابل توجهی کاهش دهد.",
+      "summary_fa": "یک مطالعه 25 ساله نشان داد که مصرف مکرر نوشابه، نوشیدنی های ورزشی و آب میوه که از دوران کودکی شروع می شود با افزایش خطر فشار خون بالا در بزرگسالی مرتبط است. تعویض یک نوشیدنی در روز با میوه کامل، شیر یا آب می تواند این خطر را به میزان قابل توجهی کاهش دهد.",
+      "summary_en": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, milk, or water could significantly reduce that risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 23 Jul 2026 08:34:58 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -15377,6 +16721,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "04133c91a0a53fe1328af52420013016",
+      "title": "قطب جنوب ممکن است چندین دهه به جهان فرصت دهد تا برای بالا آمدن دریاها آماده شود",
+      "title_fa": "قطب جنوب ممکن است چندین دهه به جهان فرصت دهد تا برای بالا آمدن دریاها آماده شود",
+      "title_en": "Antarctica may give the world decades to prepare for rising seas",
+      "summary": "دانشمندان ممکن است بتوانند به طور قابل اعتمادی از بین رفتن یخ های قطب جنوب را تا اواسط قرن جاری پیش بینی کنند و به دولت ها یک شروع حیاتی برای افزایش سطح آب دریاها ارائه دهند. پس از آن، عقب نشینی ناپایدار یخ می تواند به طور چشمگیری سرعت بگیرد و پیش بینی آینده را بسیار سخت تر کند.",
+      "summary_fa": "دانشمندان ممکن است بتوانند به طور قابل اعتمادی از بین رفتن یخ های قطب جنوب را تا اواسط قرن جاری پیش بینی کنند و به دولت ها یک شروع حیاتی برای افزایش سطح آب دریاها ارائه دهند. پس از آن، عقب نشینی ناپایدار یخ می تواند به طور چشمگیری سرعت بگیرد و پیش بینی آینده را بسیار سخت تر کند.",
+      "summary_en": "Scientists may be able to reliably forecast Antarctic ice loss through the middle of this century, offering governments a vital head start on sea level rise. After that, unstable ice retreat could accelerate dramatically, making the future much harder to predict.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032123.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 23 Jul 2026 06:26:35 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -15989,6 +17354,27 @@
       }
     },
     {
+      "id": "a58abbbed9e476637e828c5c0c349ac2",
+      "title": "روسیه مجبور به واردات سوخت از هند شد زیرا حملات اوکراین به پالایشگاه ها آسیب می رساند",
+      "title_fa": "روسیه مجبور به واردات سوخت از هند شد زیرا حملات اوکراین به پالایشگاه ها آسیب می رساند",
+      "title_en": "Russia forced to import fuel from India as Ukrainian strikes damage refineries",
+      "summary": "حمل و نقل بر بحرانی که مسکو پس از حملات پهپادها باعث کاهش عرضه و منجر به کمبود گسترده شد، تاکید می کند.",
+      "summary_fa": "حمل و نقل بر بحرانی که مسکو پس از حملات پهپادها باعث کاهش عرضه و منجر به کمبود گسترده شد، تاکید می کند.",
+      "summary_en": "Shipment underlines crisis facing Moscow after drone attacks cut supplies and led to widespread shortages",
+      "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 04:00:20 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa34f4e43-7a26-4b9c-bbfc-71f41173dd51.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "ffd7ab8553da025adab5d14f7bf430db",
       "title": "آیا ترامپ در جنگ های تعرفه ای پیروز می شود؟",
       "title_fa": "آیا ترامپ در جنگ های تعرفه ای پیروز می شود؟",
@@ -16238,6 +17624,48 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "19bd431a6d029b9d6715c679659f03a4",
+      "title": "ناسا فرودگرهای SpaceX و Blue Origin Moon را قبل از فرود بعدی ماه آزمایش خواهد کرد",
+      "title_fa": "ناسا فرودگرهای SpaceX و Blue Origin Moon را قبل از فرود بعدی ماه آزمایش خواهد کرد",
+      "title_en": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
+      "summary": "ناسا در حال آماده شدن برای فرود فضانوردان آینده روی ماه با یک تمرین مداری جاه طلبانه غیرمعمول است. در طول Artemis III در سال 2027، فضانوردان Orion به طور جداگانه با نمونه اولیه فرودگرهای ماه از Blue Origin و SpaceX پهلو می گیرند و به خدمه و تیم های زمینی اجازه می دهد تا مانورهای پیچیده مورد نیاز برای ماموریت های بعدی را آزمایش کنند.",
+      "summary_fa": "ناسا در حال آماده شدن برای فرود فضانوردان آینده روی ماه با یک تمرین مداری جاه طلبانه غیرمعمول است. در طول Artemis III در سال 2027، فضانوردان Orion به طور جداگانه با نمونه اولیه فرودگرهای ماه از Blue Origin و SpaceX پهلو می گیرند و به خدمه و تیم های زمینی اجازه می دهد تا مانورهای پیچیده مورد نیاز برای ماموریت های بعدی را آزمایش کنند.",
+      "summary_en": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers from Blue Origin and SpaceX, allowing crews and ground teams to test the complex maneuvers needed for later missions.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 23 Jul 2026 02:14:00 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4c70da9ad4c88769960ca3911b5c2762",
+      "title": "تلسکوپ وب ناسا سیاره غول پیکری را کشف کرد که در یکی از معروف ترین منظومه های ستاره شناسی پنهان شده بود.",
+      "title_fa": "تلسکوپ وب ناسا سیاره غول پیکری را کشف کرد که در یکی از معروف ترین منظومه های ستاره شناسی پنهان شده بود.",
+      "title_en": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
+      "summary": "سیاره‌ای غول‌پیکر درون یکی از دقیق‌ترین منظومه‌های سیاره‌ای نجومی پنهان شده بود که توسط یک قرص درخشان از غبار کیهانی پنهان شده بود. وب Beta Pictoris d را از طریق ردپایی از مونوکسید کربن، بخار آب و متان در اتمسفر نشان داد و روشی نویدبخش برای یافتن سیارات فراخورشیدی گریزان را به نمایش گذاشت.",
+      "summary_fa": "سیاره‌ای غول‌پیکر درون یکی از دقیق‌ترین منظومه‌های سیاره‌ای نجومی پنهان شده بود که توسط یک قرص درخشان از غبار کیهانی پنهان شده بود. وب Beta Pictoris d را از طریق ردپایی از مونوکسید کربن، بخار آب و متان در اتمسفر نشان داد و روشی نویدبخش برای یافتن سیارات فراخورشیدی گریزان را به نمایش گذاشت.",
+      "summary_en": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, water vapor, and methane, showcasing a promising new method for finding elusive exoplanets.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 23 Jul 2026 01:58:04 EDT",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -18129,6 +19557,132 @@
       }
     },
     {
+      "id": "dd768e8a64c9eef309738407dbcc7856",
+      "title": "بازسازی جدید Halo یادآور آن چیزی است که ایکس باکس قبلا بوده است",
+      "title_fa": "بازسازی جدید Halo یادآور آن چیزی است که ایکس باکس قبلا بوده است",
+      "title_en": "The new Halo remake is a reminder of what Xbox used to be",
+      "summary": "غیرممکن است که در مورد یک بازی جدید Xbox بدون صحبت در مورد وضعیت Xbox صحبت کنید. بخش بازی مایکروسافت در حال سقوط آزاد است: عناوین اخیر تحت سلطه اخراج های گسترده، استودیوهای تخریب شده و استراتژی های گیج کننده هستند که بیشتر آنها از سال ها تصمیمات بد و خریدهای گران قیمت ناشی می شوند. اما همیشه اینطور نبود. از طریق آن […]",
+      "summary_fa": "غیرممکن است که در مورد یک بازی جدید Xbox بدون صحبت در مورد وضعیت Xbox صحبت کنید. بخش بازی مایکروسافت در حال سقوط آزاد است: عناوین اخیر تحت سلطه اخراج های گسترده، استودیوهای تخریب شده و استراتژی های گیج کننده هستند که بیشتر آنها از سال ها تصمیمات بد و خریدهای گران قیمت ناشی می شوند. اما همیشه اینطور نبود. از طریق آن […]",
+      "summary_en": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which stem from years of bad decisions and expensive acquisitions. But it wasn't always that way. Through its […]",
+      "link": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
+      "source": "The Verge",
+      "published_at": "2026-07-23T11:00:00-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a0d3a2c3e8228686a4933a2cc943483",
+      "title": "بهترین استیک های پخش 4K آمازون تا 40 درصد تخفیف دارند",
+      "title_fa": "بهترین استیک های پخش 4K آمازون تا 40 درصد تخفیف دارند",
+      "title_en": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "summary": "هیچ کمبودی در نمایش ها و فیلم های عالی برای تماشا وجود ندارد، اما کشف چیز جدید همیشه آسان نیست. Fire TV Stick 4K Plus و Fire TV Stick 4K Max آمازون با نرم‌افزار بازطراحی شده‌ای عرضه می‌شوند که هدف آن آسان‌تر یافتن چیزی است که دوست دارید، و هر دو استیک‌های پخش آماده 4K به پایین‌ترین قیمت‌های خود بازگشته‌اند.",
+      "summary_fa": "هیچ کمبودی در نمایش ها و فیلم های عالی برای تماشا وجود ندارد، اما کشف چیز جدید همیشه آسان نیست. Fire TV Stick 4K Plus و Fire TV Stick 4K Max آمازون با نرم‌افزار بازطراحی شده‌ای عرضه می‌شوند که هدف آن آسان‌تر یافتن چیزی است که دوست دارید، و هر دو استیک‌های پخش آماده 4K به پایین‌ترین قیمت‌های خود بازگشته‌اند.",
+      "summary_en": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll like, and both 4K-ready streaming sticks are back to their lowest prices […]",
+      "link": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-23T11:00:00-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ce26b89d7b8faffb6fb710b5df69c821",
+      "title": "قانون‌گذاران لایحه‌ای را آماده می‌کنند که به هوش مصنوعی «سوئیچ کشتن» نیاز دارد",
+      "title_fa": "قانون‌گذاران لایحه‌ای را آماده می‌کنند که به هوش مصنوعی «سوئیچ کشتن» نیاز دارد",
+      "title_en": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "summary": "طبق گزارشی از پولیتیکو، قانونگذاران در حال آماده‌سازی برای معرفی «قانون سوئیچ کشتن هوش مصنوعی» هستند که شرکت‌های هوش مصنوعی را ملزم می‌کند تا سیستم‌های خود را به دستور وزارت امنیت داخلی تعطیل یا درنگ کنند. انتظار می رود که نمایندگان تد لیو (D-CA) و ناتانیل موران (R-TX) این قانون را روز پنجشنبه معرفی کنند. اخبار مربوط به […]",
+      "summary_fa": "طبق گزارشی از پولیتیکو، قانونگذاران در حال آماده‌سازی برای معرفی «قانون سوئیچ کشتن هوش مصنوعی» هستند که شرکت‌های هوش مصنوعی را ملزم می‌کند تا سیستم‌های خود را به دستور وزارت امنیت داخلی تعطیل یا درنگ کنند. انتظار می رود که نمایندگان تد لیو (D-CA) و ناتانیل موران (R-TX) این قانون را روز پنجشنبه معرفی کنند. اخبار مربوط به […]",
+      "summary_en": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "source": "The Verge",
+      "published_at": "2026-07-23T10:13:35-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7363184dc7122be63deda0cd9c2091a5",
+      "title": "دعوای OpenAI اپل درباره این است که چه کسی باید دوران پسا گوشی هوشمند را تعریف کند",
+      "title_fa": "دعوای OpenAI اپل درباره این است که چه کسی باید دوران پسا گوشی هوشمند را تعریف کند",
+      "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "summary": "امروز در Decoder، من با Hayden Field، گزارشگر ارشد هوش مصنوعی The Verge، در مورد دعوای بزرگ اسرار تجاری بین اپل و OpenAI و آنچه این موضوع در مورد آینده OpenAI به ما می گوید صحبت می کنم. در حال حاضر مطمئن هستم که اکثر شنوندگان Decoder با ادعاهای اپل در این مورد آشنا هستند. این شرکت می گوید تعدادی از کارمندان سابق اپل در […]",
+      "summary_fa": "امروز در Decoder، من با Hayden Field، گزارشگر ارشد هوش مصنوعی The Verge، در مورد دعوای بزرگ اسرار تجاری بین اپل و OpenAI و آنچه این موضوع در مورد آینده OpenAI به ما می گوید صحبت می کنم. در حال حاضر مطمئن هستم که اکثر شنوندگان Decoder با ادعاهای اپل در این مورد آشنا هستند. این شرکت می گوید تعدادی از کارمندان سابق اپل در […]",
+      "summary_en": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a number of ex-Apple employees at […]",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge",
+      "published_at": "2026-07-23T10:00:00-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d9d904d268e39adcaa4f9ae95e017deb",
+      "title": "فورد نقشه های اپل را برای پلتفرم EV بعدی خود و بلوکروز به روز شده انتخاب می کند",
+      "title_fa": "فورد نقشه های اپل را برای پلتفرم EV بعدی خود و بلوکروز به روز شده انتخاب می کند",
+      "title_en": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
+      "summary": "فورد قصد دارد نقشه‌های اپل را مستقیماً در پلتفرم خودروهای الکتریکی جهانی خود جاسازی کند، که با یک پیکاپ 30000 دلاری برای عرضه در سال 2027 شروع می‌شود. در اطلاعیه‌ای در روز پنجشنبه، فورد می‌گوید از نقشه‌های اپل برای ارائه دستورالعمل‌های گام به گام با استفاده از زبان طبیعی، جستجوی دقیق ترافیک در زمان واقعی و اطلاعات بصری بصری استفاده خواهد کرد.",
+      "summary_fa": "فورد قصد دارد نقشه‌های اپل را مستقیماً در پلتفرم خودروهای الکتریکی جهانی خود جاسازی کند، که با یک پیکاپ 30000 دلاری برای عرضه در سال 2027 شروع می‌شود. در اطلاعیه‌ای در روز پنجشنبه، فورد می‌گوید از نقشه‌های اپل برای ارائه دستورالعمل‌های گام به گام با استفاده از زبان طبیعی، جستجوی دقیق ترافیک در زمان واقعی و اطلاعات بصری بصری استفاده خواهد کرد.",
+      "summary_en": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer \"turn-by-turn directions using natural language, real-time traffic and incident information, intuitive search featuring detailed […]",
+      "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
+      "source": "The Verge",
+      "published_at": "2026-07-23T09:49:51-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "276c808be0183501200e85cda049152d",
+      "title": "فیلم علمی تخیلی که هوش مصنوعی را تصور می‌کند، در نهایت دیستوپیایی نیست",
+      "title_fa": "فیلم علمی تخیلی که هوش مصنوعی را تصور می‌کند، در نهایت دیستوپیایی نیست",
+      "title_en": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+      "summary": "تصور کنید شما پدر و مادر یک کودک هفت ساله کنجکاو هستید که عاشق خانواده اش، بازی بیسبال و معاشرت با دوستانش است. این همان زندگی است که همیشه می خواستی و سپس بدترین چیزی که ممکن است اتفاق بیفتد رخ می دهد: یک تصادف عجیب پسر شما را می برد. اما همانطور که مشخص است، لازم نیست با […]",
+      "summary_fa": "تصور کنید شما پدر و مادر یک کودک هفت ساله کنجکاو هستید که عاشق خانواده اش، بازی بیسبال و معاشرت با دوستانش است. این همان زندگی است که همیشه می خواستی و سپس بدترین چیزی که ممکن است اتفاق بیفتد رخ می دهد: یک تصادف عجیب پسر شما را می برد. اما همانطور که مشخص است، لازم نیست با […]",
+      "summary_en": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns out, you don't have to live with […]",
+      "link": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
+      "source": "The Verge",
+      "published_at": "2026-07-23T09:00:00-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4bc4aad94e4d4bbf5a2720dcc67a3ee8",
       "title": "رونق‌های دست راستی که به مراکز داده اعتراض می‌کنند، اشتراکات زیادی با چپ‌ها دارند",
       "title_fa": "رونق‌های دست راستی که به مراکز داده اعتراض می‌کنند، اشتراکات زیادی با چپ‌ها دارند",
@@ -18204,6 +19758,48 @@
       "published_at": "2026-07-23T05:28:30-04:00",
       "date_iso": "2026-07-23",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2d888a94ad74b81b83633718d4a8de4",
+      "title": "چگونه آمریکا را دوباره سالم کنیم در برابر بررسی های علمی مقاومت می کند؟",
+      "title_fa": "چگونه آمریکا را دوباره سالم کنیم در برابر بررسی های علمی مقاومت می کند؟",
+      "title_en": "How does Make America Healthy Again hold up against scientific scrutiny?",
+      "summary": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02024-3محققان نظرات خود را در مورد سیاست های بهداشتی ایالات متحده که شامل موضوعاتی از واکسن گرفته تا تغذیه است، به اشتراک می گذارند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02024-3محققان نظرات خود را در مورد سیاست های بهداشتی ایالات متحده که شامل موضوعاتی از واکسن گرفته تا تغذیه است، به اشتراک می گذارند.",
+      "summary_en": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
+      "link": "https://www.nature.com/articles/d41586-026-02024-3",
+      "source": "Nature",
+      "published_at": "2026-07-23 15:08",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c8aacc57bd2e4caa09b257e74264c3e",
+      "title": "ستارگان در حال ظهور ریاضیات مدال فیلدز 2026 را دریافت کردند",
+      "title_fa": "ستارگان در حال ظهور ریاضیات مدال فیلدز 2026 را دریافت کردند",
+      "title_en": "Rising stars of mathematics awarded 2026 Fields Medal",
+      "summary": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02169-1دو نفر از این چهار نفر اولین برندگان چینی الاصل این جایزه از سال 1986 هستند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02169-1دو نفر از این چهار نفر اولین برندگان چینی الاصل این جایزه از سال 1986 هستند.",
+      "summary_en": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02169-1Two of the four are the first Chinese-born winners of the prize since 1986.",
+      "link": "https://www.nature.com/articles/d41586-026-02169-1",
+      "source": "Nature",
+      "published_at": "2026-07-23 15:08",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
