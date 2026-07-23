@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-23 19:42:27",
-  "total_count": 1162,
+  "last_update": "2026-07-23 20:45:34",
+  "total_count": 1186,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -12230,6 +12230,321 @@
       }
     },
     {
+      "id": "5d4fa8a6a34cc54e1b6b48cb445b7d3d",
+      "title": "کاخ سفید می گوید ترامپ در استرداد برادران تیت به بریتانیا مداخله نمی کند",
+      "title_fa": "کاخ سفید می گوید ترامپ در استرداد برادران تیت به بریتانیا مداخله نمی کند",
+      "title_en": "White House says Trump will not intervene in Tate brothers' extradition to UK",
+      "summary": "به گفته رسانه های آمریکایی، اندرو تیت همچنین به دنبال ایجاد روابط با پسران ترامپ، دونالد ترامپ جونیور و بارون ترامپ بوده است.",
+      "summary_fa": "به گفته رسانه های آمریکایی، اندرو تیت همچنین به دنبال ایجاد روابط با پسران ترامپ، دونالد ترامپ جونیور و بارون ترامپ بوده است.",
+      "summary_en": "According to US media, Andrew Tate has also sought to build ties with Trump's sons, Donald Trump Jr. and Barron Trump.",
+      "link": "http://www.euronews.com/2026/07/23/white-house-says-trump-will-not-intervene-in-tate-brothers-extradition-to-uk",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 22:04:36 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "01abbf8695fff25147ad76c0bc4aaf5f",
+      "title": "جام جهانی علاقه گردشگران چینی را به اسپانیا افزایش می دهد: جستجوی پروازها 33 برابر شده است",
+      "title_fa": "جام جهانی علاقه گردشگران چینی را به اسپانیا افزایش می دهد: جستجوی پروازها 33 برابر شده است",
+      "title_en": "World Cup boosts Chinese tourists' interest in Spain: flight searches up 33-fold",
+      "summary": "قهرمانی اسپانیا در جام جهانی باعث افزایش جست و جوی پروازها از چین به بارسلونا، تنریف و مالاگا شده است که تا 33 برابر افزایش یافته است.",
+      "summary_fa": "قهرمانی اسپانیا در جام جهانی باعث افزایش جست و جوی پروازها از چین به بارسلونا، تنریف و مالاگا شده است که تا 33 برابر افزایش یافته است.",
+      "summary_en": "Spain’s World Cup triumph has sparked a surge in flight searches from China to Barcelona, Tenerife and Malaga, with increases of up to 33-fold.",
+      "link": "http://www.euronews.com/travel/2026/07/23/world-cup-boosts-chinese-tourists-interest-in-spain-flight-searches-up-33-fold",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 21:58:44 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a8828f8ef6b00f422ae93eb4d92e9ee6",
+      "title": "خط ساحلی اسپانیا در \"شکنندگی بی سابقه\": مناطقی که بیشتر توسط تغییرات آب و هوایی تهدید می شوند",
+      "title_fa": "خط ساحلی اسپانیا در \"شکنندگی بی سابقه\": مناطقی که بیشتر توسط تغییرات آب و هوایی تهدید می شوند",
+      "title_en": "Spanish coastline in \"unprecedented fragility\": areas most threatened by climate change",
+      "summary": "صلح سبز هشدار می دهد که توسعه شهری و تغییرات آب و هوایی خط ساحلی اسپانیا را به نقطه شکست سوق داده است و خواستار تغییر از مدل های بازسازی ساحل به راه حل های مبتنی بر طبیعت است.",
+      "summary_fa": "صلح سبز هشدار می دهد که توسعه شهری و تغییرات آب و هوایی خط ساحلی اسپانیا را به نقطه شکست سوق داده است و خواستار تغییر از مدل های بازسازی ساحل به راه حل های مبتنی بر طبیعت است.",
+      "summary_en": "Greenpeace warns that urban development and climate change have pushed Spain's coastline to breaking point and urges a shift from beach regeneration models to nature-based solutions.",
+      "link": "http://www.euronews.com/2026/07/23/spanish-coastline-in-unprecedented-fragility-areas-most-threatened-by-climate-change",
+      "source": "EuroNews",
+      "published_at": "Thu, 23 Jul 2026 21:52:31 +0200",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4db09d275d42726d9fe4a6b021faed0f",
+      "title": "سهام لاکهید مارتین سر به فلک می کشد زیرا تلاش برای ساخت موشک های بیشتر سریعتر نتیجه می دهد",
+      "title_fa": "سهام لاکهید مارتین سر به فلک می کشد زیرا تلاش برای ساخت موشک های بیشتر سریعتر نتیجه می دهد",
+      "title_en": "Lockheed Martin’s stock skyrockets as push to build more missiles faster pays off",
+      "summary": "سهام لاکهید مارتین جهش کرد زیرا افزایش تولید موشک به کاهش و افزایش درآمد کمک کرد.",
+      "summary_fa": "سهام لاکهید مارتین جهش کرد زیرا افزایش تولید موشک به کاهش و افزایش درآمد کمک کرد.",
+      "summary_en": "Lockheed Martin’s stock jumps as a ramp up in missile production helped lead to an earnings beat and raise.",
+      "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 20:41:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02831558",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b0a69e0fe132f99c26e2e40327e034a0",
+      "title": "سهام اینتل 11 درصد جهش کرد زیرا تراشه‌ساز با رونق هوش مصنوعی به سریع‌ترین رشد درآمد در تقریباً 15 سال اخیر رسید.",
+      "title_fa": "سهام اینتل 11 درصد جهش کرد زیرا تراشه‌ساز با رونق هوش مصنوعی به سریع‌ترین رشد درآمد در تقریباً 15 سال اخیر رسید.",
+      "title_en": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "summary": "اینتل پس از گزارش درآمد و راهنمایی های این شرکت افزایش یافت.",
+      "summary_fa": "اینتل پس از گزارش درآمد و راهنمایی های این شرکت افزایش یافت.",
+      "summary_en": "Intel rallied after the company reported blowout earnings and guidance.",
+      "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 20:35:58 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b35bc4481b95511fc1049c5318b95827",
+      "title": "یک فعال هندی پس از ۲۶ روز به اعتصاب غذا پایان داد",
+      "title_fa": "یک فعال هندی پس از ۲۶ روز به اعتصاب غذا پایان داد",
+      "title_en": "India activist ends hunger strike after 26 days",
+      "summary": "سونام وانگچوک، یکی از حامیان معترضان تحت رهبری جوانان که خواستار اصلاحات آموزشی هستند، می گوید که می خواهد از \"خشونت احتمالی\" جلوگیری کند.",
+      "summary_fa": "سونام وانگچوک، یکی از حامیان معترضان تحت رهبری جوانان که خواستار اصلاحات آموزشی هستند، می گوید که می خواهد از \"خشونت احتمالی\" جلوگیری کند.",
+      "summary_en": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 23 Jul 2026 20:31:40 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddaa/live/b1690fb0-86d3-11f1-8749-89447c313de6.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "9f58a54ba5ba49885cac9db248026ae5",
+      "title": "تسلا، آلفابت صدها میلیارد از ارزش خود را در ریزش سهام پس از درآمد از دست داد",
+      "title_fa": "تسلا، آلفابت صدها میلیارد از ارزش خود را در ریزش سهام پس از درآمد از دست داد",
+      "title_en": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+      "summary": "تسلا و آلفابت هر دو با سرمایه‌گذاری در هوش مصنوعی، هزینه‌های بیشتری را نشان دادند.",
+      "summary_fa": "تسلا و آلفابت هر دو با سرمایه‌گذاری در هوش مصنوعی، هزینه‌های بیشتری را نشان دادند.",
+      "summary_en": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+      "link": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 20:26:38 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "af850fd22972586a8ebea5c911f9ac31",
+      "title": "سهام T-Mobile با وجود سرازیر شدن مشتریان به طرح‌های ممتاز کاهش می‌یابد",
+      "title_fa": "سهام T-Mobile با وجود سرازیر شدن مشتریان به طرح‌های ممتاز کاهش می‌یابد",
+      "title_en": "T-Mobile’s stock sinks despite customers pouring into premium plans",
+      "summary": "این اپراتور بی سیم پس از ارائه برنامه های جدید در سال گذشته، بر روی جمع آوری \"حساب های با کیفیت بالاتر\" تمرکز کرده است.",
+      "summary_fa": "این اپراتور بی سیم پس از ارائه برنامه های جدید در سال گذشته، بر روی جمع آوری \"حساب های با کیفیت بالاتر\" تمرکز کرده است.",
+      "summary_en": "The wireless carrier has focused on amassing “higher quality accounts” after introducing new plans last year.",
+      "link": "https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 20:24:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-56289645",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "40cabe3caf95444f5b575c8955f38446",
+      "title": "اخبار استرالیا به صورت زنده: جیم چالمرز می گوید که او \"اولویت های دیگری\" به جز مالیات بر گاز دارد. آنتونی آلبانیز برای تبریک به اندی برنهام زنگ می زند",
+      "title_fa": "اخبار استرالیا به صورت زنده: جیم چالمرز می گوید که او \"اولویت های دیگری\" به جز مالیات بر گاز دارد. آنتونی آلبانیز برای تبریک به اندی برنهام زنگ می زند",
+      "title_en": "Australia news live: Jim Chalmers says he has ‘other priorities’ than a gas tax; Anthony Albanese calls to congratulate Andy Burnham",
+      "summary": "خزانه دار به اصلاحات دیگری پس از درخواست اعضای کارگر برای «بازگشت عادلانه تر» از منابع طبیعی اشاره می کند. اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم و قبل از اینکه وبلاگ نویس همیشگی شما زمام امور را در دست بگیرد، من مارتین فارر هستم. این درحالی است که بازارها انتظار دارند تا پایان سال نرخ بهره دیگری افزایش یابد. او همچنین به عقب‌نشینی از درخواست‌های اعضای حزب کارگر برای وضع مالیات جدید بر صادرات گاز ادامه می‌دهد و گفت که دولت «اولویت‌های دیگری» برای اصلاحات دارد. بیشتر در راه است. ادامه مطلب...",
+      "summary_fa": "خزانه دار به اصلاحات دیگری پس از درخواست اعضای کارگر برای «بازگشت عادلانه تر» از منابع طبیعی اشاره می کند. اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم و قبل از اینکه وبلاگ نویس همیشگی شما زمام امور را در دست بگیرد، من مارتین فارر هستم. این درحالی است که بازارها انتظار دارند تا پایان سال نرخ بهره دیگری افزایش یابد. او همچنین به عقب‌نشینی از درخواست‌های اعضای حزب کارگر برای وضع مالیات جدید بر صادرات گاز ادامه می‌دهد و گفت که دولت «اولویت‌های دیگری» برای اصلاحات دارد. بیشتر در راه است. ادامه مطلب...",
+      "summary_en": "Treasurer points to other reforms after Labor members call for ‘fairer return’ from natural resources. Follow today’s news liveGet our breaking news email, free app or daily news podcastGood morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories before your regular blogger takes the reins.Jim Chalmers has claimed rightwing political parties will “prey on” voter insecurities about a worsening economy while championing “anti-worker” policies. It comes as markets are now expecting another rate hike by the end of the year. He also continues to push back at rank and file Labor members’ calls for a new tax on gas exports, saying the government had “other priorities” for reform. More coming up. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 23 Jul 2026 20:22:32 GMT",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0ed9f2c263f907e249340eb3fefc038e54c166e5/374_0_5033_4027/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=ece620300e962e3c985fc0efb8aca981",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4cd47b63abb795dea352262a0e9ee1be",
+      "title": "رشد سود عظیم آلفابت «توهم‌آمیزی» است، زیرا اسپیس‌ایکس و آنتروپیک به پنهان‌کردن تخلیه تاریخی پول نقد کمک می‌کنند.",
+      "title_fa": "رشد سود عظیم آلفابت «توهم‌آمیزی» است، زیرا اسپیس‌ایکس و آنتروپیک به پنهان‌کردن تخلیه تاریخی پول نقد کمک می‌کنند.",
+      "title_en": "Alphabet’s massive profit growth is ‘illusory’, as SpaceX and Anthropic help mask a historic cash drain",
+      "summary": "سود بر روی کاغذ چهار برابر شد، اما یک تحلیلگر می گوید که عملکرد با سودهای محقق نشده از سرمایه گذاری های سهام تقویت شده است.",
+      "summary_fa": "سود بر روی کاغذ چهار برابر شد، اما یک تحلیلگر می گوید که عملکرد با سودهای محقق نشده از سرمایه گذاری های سهام تقویت شده است.",
+      "summary_en": "Earnings quadrupled on paper, but an analyst says that performance was propped up by unrealized gains from equity investments.",
+      "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 20:17:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-53771500",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b04c58cc4c60091b14af9f541263b547",
+      "title": "شرکت هواپیمایی ساوت وست برای اولین بار سوخت جت تگزاس را بر روی یک قایق به لس آنجلس در میان نگرانی های عرضه قرار داد",
+      "title_fa": "شرکت هواپیمایی ساوت وست برای اولین بار سوخت جت تگزاس را بر روی یک قایق به لس آنجلس در میان نگرانی های عرضه قرار داد",
+      "title_en": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "summary": "Southwest در بهار امسال یک کشتی برای ارسال سوخت از هیوستون به لس آنجلس در صورت کمبود عرضه استخدام کرد.",
+      "summary_fa": "Southwest در بهار امسال یک کشتی برای ارسال سوخت از هیوستون به لس آنجلس در صورت کمبود عرضه استخدام کرد.",
+      "summary_en": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+      "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 20:12:42 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48955192d29134b7612e50420293e9a8",
+      "title": "هک Hagging Face توسط OpenAI لایحه \"AI Kill Switch\" را در کنگره آغاز کرد",
+      "title_fa": "هک Hagging Face توسط OpenAI لایحه \"AI Kill Switch\" را در کنگره آغاز کرد",
+      "title_en": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "summary": "OpenAI این هفته فاش کرد که برخی از مدل‌های هوش مصنوعی آن به پلتفرم توسعه‌دهنده منبع باز Hugging Face هک شده‌اند.",
+      "summary_fa": "OpenAI این هفته فاش کرد که برخی از مدل‌های هوش مصنوعی آن به پلتفرم توسعه‌دهنده منبع باز Hugging Face هک شده‌اند.",
+      "summary_en": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "link": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 20:09:13 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e56c34786da851ec568cd1f87c430ad",
+      "title": "اینتل پس از ثبت سریع ترین رشد 15 ساله تراشه ساز، سهام اینتل افزایش یافت",
+      "title_fa": "اینتل پس از ثبت سریع ترین رشد 15 ساله تراشه ساز، سهام اینتل افزایش یافت",
+      "title_en": "Intel shares rally after chipmaker posts fastest growth in 15 years",
+      "summary": "درآمد Chipmaker در سه ماهه دوم 25 درصد افزایش یافت",
+      "summary_fa": "درآمد Chipmaker در سه ماهه دوم 25 درصد افزایش یافت",
+      "summary_en": "Chipmaker’s revenue jumped 25% in the second quarter",
+      "link": "https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 20:08:47 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f5d30ed-a276-465d-abbe-4723ffac3c3e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2acfa5c4d49265c864ec5d61722b394b",
+      "title": "حمله به نفتکش های سعودی در دریای سرخ، نفت را از 100 دلار در هر بشکه عبور داد",
+      "title_fa": "حمله به نفتکش های سعودی در دریای سرخ، نفت را از 100 دلار در هر بشکه عبور داد",
+      "title_en": "Strikes Against Saudi Tankers in the Red Sea Send Oil Past $100 a Barrel",
+      "summary": "پرزیدنت ترامپ پس از اینکه متحد ایران گفت دو کشتی با پرچم عربستان سعودی را هدف قرار داده است، به شبه نظامیان حوثی حمله خواهد کرد.",
+      "summary_fa": "پرزیدنت ترامپ پس از اینکه متحد ایران گفت دو کشتی با پرچم عربستان سعودی را هدف قرار داده است، به شبه نظامیان حوثی حمله خواهد کرد.",
+      "summary_en": "President Trump threatened attacks on Houthi militants after the Iranian ally said it had hit two Saudi Arabian-flagged vessels.",
+      "link": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 20:05:27 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-mideast-leadall-tzbc/23int-mideast-leadall-tzbc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e87662eefdfc49dc1a848e20d17074ad",
+      "title": "وانگچوک، فعال هندی به اعتصاب غذای ۲۶ روزه به دلیل افشای برگه امتحانی پایان داد",
+      "title_fa": "وانگچوک، فعال هندی به اعتصاب غذای ۲۶ روزه به دلیل افشای برگه امتحانی پایان داد",
+      "title_en": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+      "summary": "سونام وانگچوک می گوید که روزه خود را برای درخواست استعفای وزیر آموزش \"به دلیل خشونت احتمالی\" پایان داده است.",
+      "summary_fa": "سونام وانگچوک می گوید که روزه خود را برای درخواست استعفای وزیر آموزش \"به دلیل خشونت احتمالی\" پایان داده است.",
+      "summary_en": "⁠Sonam ⁠Wangchuk says he ended his fast to demand education minister's resignation 'in view of possible violence'.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 19:58:34 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "076c5cd30108aa2f2d57f93adc35ed6f",
       "title": "نماینده تجاری ایالات متحده می گوید جریمه گوگل برای توافق تجاری اتحادیه اروپا و ایالات متحده \"ابهام ایجاد می کند\".",
       "title_fa": "نماینده تجاری ایالات متحده می گوید جریمه گوگل برای توافق تجاری اتحادیه اروپا و ایالات متحده \"ابهام ایجاد می کند\".",
@@ -12248,6 +12563,111 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "9b88ebadf458b8679d87a736fa74ea7b",
+      "title": "این مدیر صندوق تامینی می گوید: «فرصت خرید نسلی» تورم به اضافه 3 درصد در سال را تضمین می کند.",
+      "title_fa": "این مدیر صندوق تامینی می گوید: «فرصت خرید نسلی» تورم به اضافه 3 درصد در سال را تضمین می کند.",
+      "title_en": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
+      "summary": "باب الیوت جرقه‌هایی برمی‌انگیزد که سطح مقرون به صرفه TIPS را برجسته می‌کند.",
+      "summary_fa": "باب الیوت جرقه‌هایی برمی‌انگیزد که سطح مقرون به صرفه TIPS را برجسته می‌کند.",
+      "summary_en": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
+      "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 19:51:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-20024895",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ba626d3f2a36a4449a43ea9f0149b682",
+      "title": "مرد مینه سوتا که قانونگذار دموکرات را کشت به حبس ابد محکوم شد",
+      "title_fa": "مرد مینه سوتا که قانونگذار دموکرات را کشت به حبس ابد محکوم شد",
+      "title_en": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+      "summary": "قاضی می گوید که برای قتل ملیسا هورتمن، قانونگذار دموکرات ایالتی و همسرش مارک، محکومیت طولانی دارد.",
+      "summary_fa": "قاضی می گوید که برای قتل ملیسا هورتمن، قانونگذار دموکرات ایالتی و همسرش مارک، محکومیت طولانی دارد.",
+      "summary_en": "Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.",
+      "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 19:50:30 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8d365f9e08dba91bd33f800f6b72570a",
+      "title": "مدیر عامل آی مکس می گوید زمان آن رسیده که قیمت ها را افزایش دهیم زیرا بلیت های «اودیسه» به قیمت 1000 دلار به فروش می رسد.",
+      "title_fa": "مدیر عامل آی مکس می گوید زمان آن رسیده که قیمت ها را افزایش دهیم زیرا بلیت های «اودیسه» به قیمت 1000 دلار به فروش می رسد.",
+      "title_en": "Imax’s CEO says it’s time to hike prices as tickets to ‘The Odyssey’ resell for $1,000",
+      "summary": "مردم در سراسر کشور پرواز می کنند تا فیلم پرفروش فانتزی حماسی کریستوفر نولان \"اودیسه\" را ببینند، اولین فیلم بلندی که فقط با دوربین های ایمکس فیلمبرداری شده است.",
+      "summary_fa": "مردم در سراسر کشور پرواز می کنند تا فیلم پرفروش فانتزی حماسی کریستوفر نولان \"اودیسه\" را ببینند، اولین فیلم بلندی که فقط با دوربین های ایمکس فیلمبرداری شده است.",
+      "summary_en": "People are flying across the country to see Christopher Nolan’s epic fantasy blockbuster “The Odyssey,” the first full-length movie shot only with Imax cameras.",
+      "link": "https://www.marketwatch.com/story/imaxs-ceo-says-its-time-to-hike-prices-as-tickets-to-the-odyssey-resell-for-1-000-2df43d7e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 23 Jul 2026 19:50:00 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-16834901",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "67fe05472388a342e14a294dc220c114",
+      "title": "ترامپ آچار بالقوه ای را در توافق هسته ای عربستان که به تازگی امضا کرده است پرتاب می کند",
+      "title_fa": "ترامپ آچار بالقوه ای را در توافق هسته ای عربستان که به تازگی امضا کرده است پرتاب می کند",
+      "title_en": "Trump Throws a Potential Wrench in the Saudi Nuclear Deal He Just Inked",
+      "summary": "عربستان سعودی مدت‌ها گفته است که شرط عادی‌سازی روابط با اسرائیل راهی به سوی تشکیل کشور فلسطین خواهد بود، چشم‌اندازی که دولت کنونی اسرائیل آن را رد کرده است.",
+      "summary_fa": "عربستان سعودی مدت‌ها گفته است که شرط عادی‌سازی روابط با اسرائیل راهی به سوی تشکیل کشور فلسطین خواهد بود، چشم‌اندازی که دولت کنونی اسرائیل آن را رد کرده است.",
+      "summary_en": "Saudi Arabia has long said that a condition of normalizing relations with Israel would be a pathway toward Palestinian statehood, a prospect that Israel’s current government has rejected.",
+      "link": "https://www.nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html",
+      "source": "NY Times",
+      "published_at": "Thu, 23 Jul 2026 19:43:17 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-TrumpTwist-SA--bvjz/23int-TrumpTwist-SA--bvjz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "d95ef5d2989c7dc5113103c0d2981569",
+      "title": "یک روزنامه‌نگار پس از سال‌ها افشای فساد در مکزیک کشته شد",
+      "title_fa": "یک روزنامه‌نگار پس از سال‌ها افشای فساد در مکزیک کشته شد",
+      "title_en": "Journalist killed in Mexico after years of exposing corruption",
+      "summary": "روزنامه نگار مکزیکی الخاندرو لیوا آگیلار هنگام غذا خوردن در یک غرفه غذاخوری خیابانی در اواکساکا به ضرب گلوله کشته شد.",
+      "summary_fa": "روزنامه نگار مکزیکی الخاندرو لیوا آگیلار هنگام غذا خوردن در یک غرفه غذاخوری خیابانی در اواکساکا به ضرب گلوله کشته شد.",
+      "summary_en": "Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 23 Jul 2026 19:40:27 +0000",
+      "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -12853,6 +13273,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea14ba267f235268240acee87d67de62",
+      "title": "چگونه به رسیدن اندی برنهام به مقام نخست وزیری توسط کسانی که توسط استارمر تبریر شدند کمک شد",
+      "title_fa": "چگونه به رسیدن اندی برنهام به مقام نخست وزیری توسط کسانی که توسط استارمر تبریر شدند کمک شد",
+      "title_en": "How Andy Burnham’s rise to PM was helped by those axed by Starmer",
+      "summary": "لیست افرادی که اخراج شده اند یا کنار گذاشته شده اند شامل لوئیز هی، لوسی پاول و آنلیس میگلی، برخی از قدرتمندترین متحدان نخست وزیر جدید است.",
+      "summary_fa": "لیست افرادی که اخراج شده اند یا کنار گذاشته شده اند شامل لوئیز هی، لوسی پاول و آنلیس میگلی، برخی از قدرتمندترین متحدان نخست وزیر جدید است.",
+      "summary_en": "List of people sacked or cast aside includes Louise Haigh, Lucy Powell and Anneliese Midgley, some of new premier’s most powerful allies",
+      "link": "https://www.ft.com/content/f46bb42d-b61d-4932-a07b-09172b15509f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 23 Jul 2026 18:35:21 GMT",
+      "date_iso": "2026-07-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea441fe4-1438-4246-bfb1-bd9e1b685329.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -21993,6 +22434,48 @@
       }
     },
     {
+      "id": "33c5ccf8437379b161fbf07d8c13e24c",
+      "title": "Echo Show 21 یک مرکز خانه هوشمند عالی است که 80 دلار تخفیف دارد",
+      "title_fa": "Echo Show 21 یک مرکز خانه هوشمند عالی است که 80 دلار تخفیف دارد",
+      "title_en": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "summary": "بین خرید تقویم هوشمند، تلویزیون آشپزخانه، هاب خانه هوشمند و نمایشگر هوشمند تقسیم می شود؟ آمازون Echo Show 21 همه این موارد در یک صفحه نمایش بزرگ 21 اینچی است. می توانید از آن برای کنترل چراغ های هوشمند، نگاهی به دستور العمل ها، تماشای برنامه های تلویزیونی و موارد دیگر استفاده کنید. در حال حاضر، بهترین خرید و خانه […]",
+      "summary_fa": "بین خرید تقویم هوشمند، تلویزیون آشپزخانه، هاب خانه هوشمند و نمایشگر هوشمند تقسیم می شود؟ آمازون Echo Show 21 همه این موارد در یک صفحه نمایش بزرگ 21 اینچی است. می توانید از آن برای کنترل چراغ های هوشمند، نگاهی به دستور العمل ها، تماشای برنامه های تلویزیونی و موارد دیگر استفاده کنید. در حال حاضر، بهترین خرید و خانه […]",
+      "summary_en": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home […]",
+      "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-23T16:36:40-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42d7b3d8a05e771146c77a1f6650143e",
+      "title": "جنگ برندان کار رئیس FCC در مورد اصلاحیه اول",
+      "title_fa": "جنگ برندان کار رئیس FCC در مورد اصلاحیه اول",
+      "title_en": "FCC Chairman Brendan Carr’s war on the First Amendment",
+      "summary": "برندن کار به عنوان رئیس کمیسیون ارتباطات فدرال، بر تلویزیون، رادیو و اینترنت کشور اختیار دارد. اما از زمانی که دونالد ترامپ برای دومین دوره ریاست جمهوری خود انتخاب شد، کار از این قدرت استفاده کرد تا صدا و سیما را تهدید کند که از حق آزادی بیان خود استفاده کرده اند تا درباره رئیس جمهور شوخی کنند. او حتی توانست […]",
+      "summary_fa": "برندن کار به عنوان رئیس کمیسیون ارتباطات فدرال، بر تلویزیون، رادیو و اینترنت کشور اختیار دارد. اما از زمانی که دونالد ترامپ برای دومین دوره ریاست جمهوری خود انتخاب شد، کار از این قدرت استفاده کرد تا صدا و سیما را تهدید کند که از حق آزادی بیان خود استفاده کرده اند تا درباره رئیس جمهور شوخی کنند. او حتی توانست […]",
+      "summary_en": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about the president. He was even able to […]",
+      "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+      "source": "The Verge",
+      "published_at": "2026-07-23T15:46:11-04:00",
+      "date_iso": "2026-07-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2cba300c1db4c0faa9246825c2029b69",
       "title": "حالت صدای کلود اکنون برای Opus و Sonnet در دسترس است",
       "title_fa": "حالت صدای کلود اکنون برای Opus و Sonnet در دسترس است",
@@ -22362,6 +22845,27 @@
       "published_at": "2026-07-23T05:28:30-04:00",
       "date_iso": "2026-07-23",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "44c9680ac6fcb6d3f0e71dc12eaa657b",
+      "title": "دانشجویان بین‌المللی دکترا با محدودیت‌های سخت‌گیرانه در زمان در ایالات متحده مواجه می‌شوند",
+      "title_fa": "دانشجویان بین‌المللی دکترا با محدودیت‌های سخت‌گیرانه در زمان در ایالات متحده مواجه می‌شوند",
+      "title_en": "International PhD students to face strict limits on time in the US",
+      "summary": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02280-3دولت ترامپ برای رسیدگی به \"دانشجویان همیشه\" اقدام می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 23 جولای 2026; doi:10.1038/d41586-026-02280-3دولت ترامپ برای رسیدگی به \"دانشجویان همیشه\" اقدام می کند.",
+      "summary_en": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3Trump administration takes action to address ‘forever students’.",
+      "link": "https://www.nature.com/articles/d41586-026-02280-3",
+      "source": "Nature",
+      "published_at": "2026-07-23 20:45",
+      "date_iso": "2026-07-23",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
