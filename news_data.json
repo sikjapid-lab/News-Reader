@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-24 19:54:09",
-  "total_count": 1644,
+  "last_update": "2026-07-24 21:03:47",
+  "total_count": 1665,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22938,6 +22938,27 @@
       }
     },
     {
+      "id": "e07af03934f53992877f8a8fbbb273d4",
+      "title": "ارتش ایران می گوید که پایگاه های آمریکا در بحرین، اردن و کویت را هدف قرار داده است",
+      "title_fa": "ارتش ایران می گوید که پایگاه های آمریکا در بحرین، اردن و کویت را هدف قرار داده است",
+      "title_en": "Iran military says it targeted US bases in Bahrain, Jordan and Kuwait",
+      "summary": "تهران می گوید هر تاسیسات یا پایگاهی در خاورمیانه که توسط ارتش آمریکا برای حمله به ایران استفاده می شود، هدف قانونی برای انتقام است.",
+      "summary_fa": "تهران می گوید هر تاسیسات یا پایگاهی در خاورمیانه که توسط ارتش آمریکا برای حمله به ایران استفاده می شود، هدف قانونی برای انتقام است.",
+      "summary_en": "Tehran says any facility or base in the Middle East used by the US military to launch attacks on Iran is a legitimate target for retaliation.",
+      "link": "http://www.euronews.com/2026/07/24/iran-military-says-it-targeted-us-bases-in-bahrain-jordan-and-kuwait",
+      "source": "EuroNews",
+      "published_at": "Fri, 24 Jul 2026 22:06:25 +0200",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "b09e6bce76e87bb8f0a6b9cec9808415",
       "title": "دادستان ارشد دیوان بین المللی کیفری به دلیل اتهامات سوء رفتار جنسی از سمت خود برکنار شد",
       "title_fa": "دادستان ارشد دیوان بین المللی کیفری به دلیل اتهامات سوء رفتار جنسی از سمت خود برکنار شد",
@@ -22951,6 +22972,237 @@
       "date_iso": "2026-07-24",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aeaa3977de53bc812cb166eed0bae142",
+      "title": "دادستان عالی دیوان بین المللی کیفری به دلیل اتهامات سوء رفتار جنسی برکنار شد",
+      "title_fa": "دادستان عالی دیوان بین المللی کیفری به دلیل اتهامات سوء رفتار جنسی برکنار شد",
+      "title_en": "ICC top prosecutor removed over sexual misconduct allegations",
+      "summary": "کریم خان اتهامات مربوط به درگیر شدن در یک رابطه جنسی نامناسب با یکی از کارمندان جوان ICC و تلاش برای جلوگیری از پیگیری شکایت او را رد می کند.",
+      "summary_fa": "کریم خان اتهامات مربوط به درگیر شدن در یک رابطه جنسی نامناسب با یکی از کارمندان جوان ICC و تلاش برای جلوگیری از پیگیری شکایت او را رد می کند.",
+      "summary_en": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 24 Jul 2026 21:02:30 GMT",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2c18864603e7c86f089caa044ccd3c88",
+      "title": "پارامونت موافقت کرد که خرید WBD را تا ژوئن 2027 به دلیل چالش قانونی به تعویق بیندازد.",
+      "title_fa": "پارامونت موافقت کرد که خرید WBD را تا ژوئن 2027 به دلیل چالش قانونی به تعویق بیندازد.",
+      "title_en": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "summary": "پارامونت قبلاً گفته بود که قصد دارد خرید WBD خود را تا پایان سپتامبر تکمیل کند، اما روز جمعه گفت که این توافق یک \"پیروزی قابل توجه\" است.",
+      "summary_fa": "پارامونت قبلاً گفته بود که قصد دارد خرید WBD خود را تا پایان سپتامبر تکمیل کند، اما روز جمعه گفت که این توافق یک \"پیروزی قابل توجه\" است.",
+      "summary_en": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+      "link": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "source": "CNBC",
+      "published_at": "Fri, 24 Jul 2026 20:58:47 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "007be83fe2005a122857b34c14bfd201",
+      "title": "کریم خان به عنوان I.C.C برکنار شد دادستان ارشد در مورد آزار جنسی",
+      "title_fa": "کریم خان به عنوان I.C.C برکنار شد دادستان ارشد در مورد آزار جنسی",
+      "title_en": "Karim Khan Is Ousted as I.C.C. Chief Prosecutor Over Sexual Misconduct",
+      "summary": "دادگاه کیفری بین‌المللی که برخی از جدی‌ترین جنایات جهان را تحت تعقیب قرار می‌دهد، سال‌ها به دلیل اتهامات علیه کریم ا. ا. خان، دادستان ارشد این دادگاه در هاله‌ای از ابهام قرار داشت.",
+      "summary_fa": "دادگاه کیفری بین‌المللی که برخی از جدی‌ترین جنایات جهان را تحت تعقیب قرار می‌دهد، سال‌ها به دلیل اتهامات علیه کریم ا. ا. خان، دادستان ارشد این دادگاه در هاله‌ای از ابهام قرار داشت.",
+      "summary_en": "The International Criminal Court, which prosecutes some of the world’s most serious crimes, has been in limbo for years over the allegations against Karim A. A. Khan, its top prosecutor.",
+      "link": "https://www.nytimes.com/2026/07/24/world/europe/karim-khan-icc.html",
+      "source": "NY Times",
+      "published_at": "Fri, 24 Jul 2026 20:47:58 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-ICC-kahn-hfo-pzmg/24int-ICC-kahn-hfo-pzmg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "67c4c07ffe0258e854e9a47afe1aabdd",
+      "title": "شرکت‌های چینی ویپ‌هایی با مواد شیمیایی قوی‌تر از نیکوتین می‌فروشند",
+      "title_fa": "شرکت‌های چینی ویپ‌هایی با مواد شیمیایی قوی‌تر از نیکوتین می‌فروشند",
+      "title_en": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+      "summary": "Big Tobacco آنالوگ های نیکوتین مانند 6-methyl-nicotine را برای چندین دهه مطالعه کرد اما هرگز آنها را به بازار عرضه نکرد. در حال حاضر، سازندگان ویپ چینی از آنها برای نادیده گرفتن مقررات ایالات متحده استفاده می کنند.",
+      "summary_fa": "Big Tobacco آنالوگ های نیکوتین مانند 6-methyl-nicotine را برای چندین دهه مطالعه کرد اما هرگز آنها را به بازار عرضه نکرد. در حال حاضر، سازندگان ویپ چینی از آنها برای نادیده گرفتن مقررات ایالات متحده استفاده می کنند.",
+      "summary_en": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+      "link": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+      "source": "Wired",
+      "published_at": "Fri, 24 Jul 2026 20:42:11 +0000",
+      "date_iso": "2026-07-24",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b0c80bb345fafb1aeba985eadda8c94",
+      "title": "شهرک نشینان اسرائیلی حملات خود را به فلسطینیان در نزدیکی نابلس تشدید کردند",
+      "title_fa": "شهرک نشینان اسرائیلی حملات خود را به فلسطینیان در نزدیکی نابلس تشدید کردند",
+      "title_en": "Israeli settlers escalate attacks on Palestinians near Nablus",
+      "summary": "شهرک نشینان اسرائیلی خانه ها و خودروهای فلسطینی ها را در روستاهای نزدیک نابلس به آتش کشیدند",
+      "summary_fa": "شهرک نشینان اسرائیلی خانه ها و خودروهای فلسطینی ها را در روستاهای نزدیک نابلس به آتش کشیدند",
+      "summary_en": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:40:27 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "b9a1aa0766175f87ac55cf6b88518e97",
+      "title": "خروج ونزوئلا از دادگاه کیفری بین‌المللی به اتهام \"سوگیری\"",
+      "title_fa": "خروج ونزوئلا از دادگاه کیفری بین‌المللی به اتهام \"سوگیری\"",
+      "title_en": "Venezuela to exit International Criminal Court, accusing it of ‘bias’",
+      "summary": "این اعلامیه در حالی منتشر می شود که ونزوئلا به دولت ترامپ نزدیک شده است، که متعهد شده دادگاه بین المللی را از کار بیاندازد.",
+      "summary_fa": "این اعلامیه در حالی منتشر می شود که ونزوئلا به دولت ترامپ نزدیک شده است، که متعهد شده دادگاه بین المللی را از کار بیاندازد.",
+      "summary_en": "Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to'disable' international court.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:32:12 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5dcf9e834825fe06219d9da55c1aa2d3",
+      "title": "حمله عربستان به حدیده تحت کنترل حوثی‌های یمن: رسانه‌های شورشی",
+      "title_fa": "حمله عربستان به حدیده تحت کنترل حوثی‌های یمن: رسانه‌های شورشی",
+      "title_en": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
+      "summary": "این یک خبر فوری است.",
+      "summary_fa": "این یک خبر فوری است.",
+      "summary_en": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:27:16 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b842e3bf8e4a5087a9ceb1b0dbd30040",
+      "title": "مشاوران FDA می گویند شش پپتید محبوب را می توان ترکیب کرد. در اینجا مسائلی است که آنها در نظر گرفتند.",
+      "title_fa": "مشاوران FDA می گویند شش پپتید محبوب را می توان ترکیب کرد. در اینجا مسائلی است که آنها در نظر گرفتند.",
+      "title_en": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered.",
+      "summary": "گروهی از کارشناسان، که برخی از آنها در صنعت پپتید کار می کنند، گفتند که سازمان غذا و دارو باید اجازه دهد تا شش پپتید ترکیب شود، در اقدامی که می تواند دسترسی آمریکایی ها به محصولات سلامتی محبوب را افزایش دهد.",
+      "summary_fa": "گروهی از کارشناسان، که برخی از آنها در صنعت پپتید کار می کنند، گفتند که سازمان غذا و دارو باید اجازه دهد تا شش پپتید ترکیب شود، در اقدامی که می تواند دسترسی آمریکایی ها به محصولات سلامتی محبوب را افزایش دهد.",
+      "summary_en": "A group of experts, some of whom work in the peptide industry, said the Food and Drug Administration should allow six peptides to be compounded, in a move that could widen access to the popular wellness products for Americans.",
+      "link": "https://www.marketwatch.com/story/fda-advisers-vote-against-sleep-peptide-as-they-debate-safety-and-health-claims-2bc85739?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 24 Jul 2026 20:26:00 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-86709610",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72f067b02ed1096934588f03c862bb0d",
+      "title": "دفاع ترامپ از احضاریه خبرنگاران نیویورک تایمز توسط وزارت دادگستری گوگل نیز هدف قرار گرفت",
+      "title_fa": "دفاع ترامپ از احضاریه خبرنگاران نیویورک تایمز توسط وزارت دادگستری گوگل نیز هدف قرار گرفت",
+      "title_en": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+      "summary": "وزارت دادگستری در حال بررسی نشت نگرانی های امنیتی به نیویورک تایمز در مورد هواپیمای جدید ایر فورس وان رئیس جمهور دونالد ترامپ، اهدایی قطر است.",
+      "summary_fa": "وزارت دادگستری در حال بررسی نشت نگرانی های امنیتی به نیویورک تایمز در مورد هواپیمای جدید ایر فورس وان رئیس جمهور دونالد ترامپ، اهدایی قطر است.",
+      "summary_en": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
+      "link": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+      "source": "CNBC",
+      "published_at": "Fri, 24 Jul 2026 20:23:12 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c3fbc77a92d555b7140b6777a9b33cc6",
+      "title": "کانادا پس از تعمیق جنگ تجاری، پل گوردی هاو را بدون آمریکا افتتاح کرد",
+      "title_fa": "کانادا پس از تعمیق جنگ تجاری، پل گوردی هاو را بدون آمریکا افتتاح کرد",
+      "title_en": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "summary": "کانادا مراسم برنامه ریزی شده بریدن روبان برون مرزی را لغو کرد و افتتاحیه نقطه عطف فقط در میان کانادایی ها بود.",
+      "summary_fa": "کانادا مراسم برنامه ریزی شده بریدن روبان برون مرزی را لغو کرد و افتتاحیه نقطه عطف فقط در میان کانادایی ها بود.",
+      "summary_en": "Canada cancelled planned cross-border ribbon-cutting ceremony and the milestone opening was only among Canadians.",
+      "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:22:04 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0384782f1f3703264b41413863db36d8",
+      "title": "هفته بد ماسک: تسلا بدترین رکود را از سال 2022 تجربه می کند، اسپیس ایکس قبل از پرواز آزمایشی استارشیپ سقوط می کند",
+      "title_fa": "هفته بد ماسک: تسلا بدترین رکود را از سال 2022 تجربه می کند، اسپیس ایکس قبل از پرواز آزمایشی استارشیپ سقوط می کند",
+      "title_en": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "summary": "سهام تسلا در این هفته پس از از دست دادن درآمد و منفی شدن جریان نقدی، تقریباً 18 درصد سقوط کرد.",
+      "summary_fa": "سهام تسلا در این هفته پس از از دست دادن درآمد و منفی شدن جریان نقدی، تقریباً 18 درصد سقوط کرد.",
+      "summary_en": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
+      "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
+      "source": "CNBC",
+      "published_at": "Fri, 24 Jul 2026 20:20:05 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -22980,6 +23232,27 @@
       }
     },
     {
+      "id": "7a48ef6e61bc984f354f6059012b10b3",
+      "title": "افراح الزوبه، اولین وزیر خارجه زن یمن کیست؟",
+      "title_fa": "افراح الزوبه، اولین وزیر خارجه زن یمن کیست؟",
+      "title_en": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
+      "summary": "در اولین اقدام تاریخی، افراح الزوبه در 23 ژوئیه به عنوان وزیر خارجه یمن منصوب شد.",
+      "summary_fa": "در اولین اقدام تاریخی، افراح الزوبه در 23 ژوئیه به عنوان وزیر خارجه یمن منصوب شد.",
+      "summary_en": "In a historic first, Afrah al-Zouba was appointed Yemeni foreign minister on July 23.",
+      "link": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:18:03 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "197a3d6d592c00cd20cc52b00398d983",
       "title": "آتش‌سوزی‌های جنگلی باعث تخلیه گسترده در سراسر فرانسه و اسپانیا شده است",
       "title_fa": "آتش‌سوزی‌های جنگلی باعث تخلیه گسترده در سراسر فرانسه و اسپانیا شده است",
@@ -22998,6 +23271,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "1b22d968ced78acd04f6389a901f3d97",
+      "title": "من 38 سال دارم، شغلم را از دست دادم و باید پیش پدر و مادرم برگردم. چه غلطی کردم؟",
+      "title_fa": "من 38 سال دارم، شغلم را از دست دادم و باید پیش پدر و مادرم برگردم. چه غلطی کردم؟",
+      "title_en": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "summary": "بودجه اضطراری من در حال اتمام است - فکر کردم همه چیز را درست انجام دادم",
+      "summary_fa": "بودجه اضطراری من در حال اتمام است - فکر کردم همه چیز را درست انجام دادم",
+      "summary_en": "My emergency fund is running out — I thought I did everything right",
+      "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 24 Jul 2026 20:11:00 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-08846111",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -23035,6 +23329,90 @@
       "date_iso": "2026-07-24",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "67e3e8ab7786ca01dca63e5a0bb4aa69",
+      "title": "فرانسه و اسپانیا 150000 نفر را به دلیل گسترش آتش‌سوزی «بی‌سابقه» تخلیه کردند.",
+      "title_fa": "فرانسه و اسپانیا 150000 نفر را به دلیل گسترش آتش‌سوزی «بی‌سابقه» تخلیه کردند.",
+      "title_en": "France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread",
+      "summary": "گرمای شدید و بادهای تند آتش سوزی های سریع السیر را در حالی که مقامات در هر دو کشور برای مهار آن تلاش می کنند، می سوزاند",
+      "summary_fa": "گرمای شدید و بادهای تند آتش سوزی های سریع السیر را در حالی که مقامات در هر دو کشور برای مهار آن تلاش می کنند، می سوزاند",
+      "summary_en": "Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them",
+      "link": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 24 Jul 2026 20:07:51 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9cd448e-c06f-48fd-a223-c508ddb3b5fb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "c28ca727409aaf22439a731c40b4feb8",
+      "title": "نگرانی بازار اوراق قرضه بر سر بودجه‌های سرمایه هوش مصنوعی در حال افزایش است",
+      "title_fa": "نگرانی بازار اوراق قرضه بر سر بودجه‌های سرمایه هوش مصنوعی در حال افزایش است",
+      "title_en": "Bond market anxiety is growing over AI capex budgets",
+      "summary": "گوگل، آمازون و متا شاهد افزایش اسپرد اعتبار هستند زیرا سرمایه گذاران با درآمد ثابت خواهان پاداش بیشتری از شرکت هایی هستند که به آنها وام می دهند.",
+      "summary_fa": "گوگل، آمازون و متا شاهد افزایش اسپرد اعتبار هستند زیرا سرمایه گذاران با درآمد ثابت خواهان پاداش بیشتری از شرکت هایی هستند که به آنها وام می دهند.",
+      "summary_en": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+      "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+      "source": "CNBC",
+      "published_at": "Fri, 24 Jul 2026 20:07:36 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49f8c53752b28710f6632394d9a994e8",
+      "title": "سقف کمیاب پمپئی از قطعاتی بازسازی شده است که صحنه ای از اسطوره را به تصویر می کشد",
+      "title_fa": "سقف کمیاب پمپئی از قطعاتی بازسازی شده است که صحنه ای از اسطوره را به تصویر می کشد",
+      "title_en": "Rare Pompeii Ceiling Is Restored From Fragments, Depicting Scene From Myth",
+      "summary": "باستان شناسان با جمع آوری حدود 1000 قطعه و مونتاژ دقیق قطعات، صحنه ای را بازسازی کردند که داستان عشق محبوب دیونیسوس و آریادنه را به تصویر می کشید.",
+      "summary_fa": "باستان شناسان با جمع آوری حدود 1000 قطعه و مونتاژ دقیق قطعات، صحنه ای را بازسازی کردند که داستان عشق محبوب دیونیسوس و آریادنه را به تصویر می کشید.",
+      "summary_en": "By collecting about 1,000 fragments and painstakingly assembling the pieces, archaeologists restored a scene depicting the popular love story of Dionysus and Ariadne.",
+      "link": "https://www.nytimes.com/2026/07/24/world/europe/rare-pompeii-ceiling-is-restored.html",
+      "source": "NY Times",
+      "published_at": "Fri, 24 Jul 2026 20:05:01 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-ITALY-POMPEII-jbkh/24int-ITALY-POMPEII-jbkh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dcd82075e73d52f2fb9583ee545de4be",
+      "title": "با اعلام وضعیت اضطراری اسپانیا، بازماندگان آتش سوزی جنگلی از فرار باریک می گویند",
+      "title_fa": "با اعلام وضعیت اضطراری اسپانیا، بازماندگان آتش سوزی جنگلی از فرار باریک می گویند",
+      "title_en": "Wildfire survivors tell of narrow escape as Spain declares emergency",
+      "summary": "بیش از 10000 نفر مجبور به تخلیه شده اند زیرا آتش نشانان برای مهار آتش سوزی در مرکز اسپانیا تلاش می کنند.",
+      "summary_fa": "بیش از 10000 نفر مجبور به تخلیه شده اند زیرا آتش نشانان برای مهار آتش سوزی در مرکز اسپانیا تلاش می کنند.",
+      "summary_en": "More than 10,000 people have been forced to evacuate as firefighters struggle to contain wildfires in central Spain.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/wildfire-survivors-tell-of-narrow-escape-as-spain-declares-emergency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 24 Jul 2026 20:03:04 +0000",
+      "date_iso": "2026-07-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -24072,6 +24450,27 @@
       }
     },
     {
+      "id": "f54f50580f0d539ebf0e632eedb1a4a9",
+      "title": "حزب محافظه کار نامزدهایی را که از حقوق بشر و تعهدات خالص آن حمایت نمی کنند، «منع» می کند",
+      "title_fa": "حزب محافظه کار نامزدهایی را که از حقوق بشر و تعهدات خالص آن حمایت نمی کنند، «منع» می کند",
+      "title_en": "Tory party ‘bans’ candidates who don’t back its human rights and net zero pledges",
+      "summary": "رئیس کوین هالین راک می گوید که نمایندگان بالقوه باید دستور کار رهبر کیمی بادنوک در بریتانیا را تایید کنند.",
+      "summary_fa": "رئیس کوین هالین راک می گوید که نمایندگان بالقوه باید دستور کار رهبر کیمی بادنوک در بریتانیا را تایید کنند.",
+      "summary_en": "Chair Kevin Hollinrake says would-be MPs need to endorse leader Kemi Badenoch’s UK agenda",
+      "link": "https://www.ft.com/content/a08167d0-232d-4ab0-9437-da47fcdcf5df?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 24 Jul 2026 17:52:49 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe45a028f-5cc1-444f-9485-eb2f694b1c95.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "e43598bf652e2f270c59e6e8c6f1fcdf",
       "title": "هیلی تحت فشار برای افزایش مالیات یا کاهش مخارج بریتانیا با کاهش حجم مالی",
       "title_fa": "هیلی تحت فشار برای افزایش مالیات یا کاهش مخارج بریتانیا با کاهش حجم مالی",
@@ -24531,6 +24930,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0a58cf8077831988dc3b9a30261f7d5b",
+      "title": "چه چیزی باعث کاهش شدید قایق‌های کوچک در بریتانیا شده است؟",
+      "title_fa": "چه چیزی باعث کاهش شدید قایق‌های کوچک در بریتانیا شده است؟",
+      "title_en": "What is driving the sharp decline in UK small boat crossings?",
+      "summary": "تعداد افرادی که از اول ژانویه تا 23 جولای امسال با چنین کشتی هایی وارد می شوند، 45 درصد کاهش یافته است.",
+      "summary_fa": "تعداد افرادی که از اول ژانویه تا 23 جولای امسال با چنین کشتی هایی وارد می شوند، 45 درصد کاهش یافته است.",
+      "summary_en": "The number of people arriving by such vessels between January 1 and July 23 this year is down 45%",
+      "link": "https://www.ft.com/content/3a62abc2-995b-4901-9ea3-832581295f45?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 24 Jul 2026 16:35:59 GMT",
+      "date_iso": "2026-07-24",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F946040b0-de9c-4e75-9a9a-dc2139cac1a2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -31917,6 +32337,27 @@
       "published_at": "2026-07-24T05:20:09-04:00",
       "date_iso": "2026-07-24",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "53ad1905282128580777caae985ad667",
+      "title": "کاخ سفید بودجه هوش مصنوعی را به کار می‌گیرد - و نشان‌دهنده عصر جدیدی برای علم ایالات متحده است",
+      "title_fa": "کاخ سفید بودجه هوش مصنوعی را به کار می‌گیرد - و نشان‌دهنده عصر جدیدی برای علم ایالات متحده است",
+      "title_en": "White House rolls out AI funding — and signals a new era for US science",
+      "summary": "طبیعت، انتشار آنلاین: 24 جولای 2026; doi:10.1038/d41586-026-02332-8مشاور ارشد علمی ایالات متحده خواستار تغییر در بودجه و اعطای کمک های مالی برای تسریع تحقیقات با هوش مصنوعی است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 24 جولای 2026; doi:10.1038/d41586-026-02332-8مشاور ارشد علمی ایالات متحده خواستار تغییر در بودجه و اعطای کمک های مالی برای تسریع تحقیقات با هوش مصنوعی است.",
+      "summary_en": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
+      "link": "https://www.nature.com/articles/d41586-026-02332-8",
+      "source": "Nature",
+      "published_at": "2026-07-24 21:03",
+      "date_iso": "2026-07-24",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
