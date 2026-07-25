@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-25 10:24:57",
-  "total_count": 1782,
+  "last_update": "2026-07-25 11:44:53",
+  "total_count": 1800,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22226,6 +22226,27 @@
       }
     },
     {
+      "id": "dbd0fa9a6314671aad80b91d81b08825",
+      "title": "آخرین به روز رسانی ها.",
+      "title_fa": "آخرین به روز رسانی ها.",
+      "title_en": "Latest updates.",
+      "summary": "آتش نشانان در حال تلاش برای مهار شعله هایی بودند که به سمت شهرهای بزرگ در حال حرکت بودند. حدود 200000 نفر تخلیه شده یا در خانه های خود پناه گرفته اند.",
+      "summary_fa": "آتش نشانان در حال تلاش برای مهار شعله هایی بودند که به سمت شهرهای بزرگ در حال حرکت بودند. حدود 200000 نفر تخلیه شده یا در خانه های خود پناه گرفته اند.",
+      "summary_en": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
+      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations",
+      "source": "NY Times",
+      "published_at": "Sat, 25 Jul 2026 11:40:12 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9964c64c9f78b0a9961df260d56d5da8",
       "title": "دومین پهپاد در کمتر از 24 ساعت بر فراز حریم هوایی رومانی سرنگون شد",
       "title_fa": "دومین پهپاد در کمتر از 24 ساعت بر فراز حریم هوایی رومانی سرنگون شد",
@@ -22244,6 +22265,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "3e03cfd44d3d95da8a7cb53cac8353b1",
+      "title": "برخورد دو اتوبوس در سوریه دست کم 35 کشته برجای گذاشت",
+      "title_fa": "برخورد دو اتوبوس در سوریه دست کم 35 کشته برجای گذاشت",
+      "title_en": "Two buses collide in Syria, killing at least 35 people",
+      "summary": "این یک خبر فوری است.",
+      "summary_fa": "این یک خبر فوری است.",
+      "summary_en": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 11:14:14 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -22268,6 +22310,195 @@
       }
     },
     {
+      "id": "942890b971b9124ee6ee26728266aa88",
+      "title": "معترضان جوان هندی با طنز و میم های بی احترامی با مودی می جنگند",
+      "title_fa": "معترضان جوان هندی با طنز و میم های بی احترامی با مودی می جنگند",
+      "title_en": "India’s youth protesters are fighting Modi with irreverent humour and memes",
+      "summary": "مودی برند سیاسی خود را از طریق رسانه های اجتماعی ساخت. اکنون معترضان از همان سکوها برای تمسخر دولت او استفاده می کنند.",
+      "summary_fa": "مودی برند سیاسی خود را از طریق رسانه های اجتماعی ساخت. اکنون معترضان از همان سکوها برای تمسخر دولت او استفاده می کنند.",
+      "summary_en": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 11:09:05 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9749f74452b1de82d079d643dbce7c83",
+      "title": "وزیر آموزش هند استعفا داد و پیروزی را به معترضان داد",
+      "title_fa": "وزیر آموزش هند استعفا داد و پیروزی را به معترضان داد",
+      "title_en": "India’s Education Minister Steps Down, Handing Win to Protesters",
+      "summary": "با پیشنهاد استعفای دارمندرا پرادان، جنبش اعتراضی دانشجویی به پیروزی بزرگی در برابر دولت نخست وزیر نارندرا مودی دست یافت.",
+      "summary_fa": "با پیشنهاد استعفای دارمندرا پرادان، جنبش اعتراضی دانشجویی به پیروزی بزرگی در برابر دولت نخست وزیر نارندرا مودی دست یافت.",
+      "summary_en": "With Dharmendra Pradhan offering his resignation, the student protest movement achieved a major victory against the government of Prime Minister Narendra Modi.",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "source": "NY Times",
+      "published_at": "Sat, 25 Jul 2026 11:06:44 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c18ea0e8388143bbd42f63eada3bbdbd",
+      "title": "Cricut Explore 5 در مقابل Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+      "title_fa": "Cricut Explore 5 در مقابل Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+      "title_en": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+      "summary": "ماشین سرگرمی دوستانه یا ابزار تولید جدی؟ در اینجا نحوه دانستن این است که کدام یک برای شما مناسب است.",
+      "summary_fa": "ماشین سرگرمی دوستانه یا ابزار تولید جدی؟ در اینجا نحوه دانستن این است که کدام یک برای شما مناسب است.",
+      "summary_en": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
+      "link": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+      "source": "Wired",
+      "published_at": "Sat, 25 Jul 2026 11:06:00 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b0605d97314ae956cf09ae0ad0acbc31",
+      "title": "موزه‌های هنری با کمک داده‌ها، تجربه بازدیدکنندگان را دوباره چارچوب می‌دهند",
+      "title_fa": "موزه‌های هنری با کمک داده‌ها، تجربه بازدیدکنندگان را دوباره چارچوب می‌دهند",
+      "title_en": "With help from data, art museums are reframing the visitor experience",
+      "summary": "موزه‌ها از مدیریت داده‌محور و چشم‌انداز فناوری در حال تغییر استقبال می‌کنند.",
+      "summary_fa": "موزه‌ها از مدیریت داده‌محور و چشم‌انداز فناوری در حال تغییر استقبال می‌کنند.",
+      "summary_en": "Museums are embracing data-driven curation and a shifting technology landscape.",
+      "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 25 Jul 2026 11:00:32 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "46e51c114b98b9c7e7eb6d77fca646c4",
+      "title": "اسکرول را متوقف کنید: تلفن تاشو 299 دلاری Light و مشخصات قدیمی آن می تواند زندگی شما را تغییر دهد",
+      "title_fa": "اسکرول را متوقف کنید: تلفن تاشو 299 دلاری Light و مشخصات قدیمی آن می تواند زندگی شما را تغییر دهد",
+      "title_en": "Stop scrolling: Light's $299 flip phone and its retro specs could change your life",
+      "summary": "تلفن تاشوی جدید این برند رویکردی در دسترس به مینیمالیسم دارد - با لمسی ملایم.",
+      "summary_fa": "تلفن تاشوی جدید این برند رویکردی در دسترس به مینیمالیسم دارد - با لمسی ملایم.",
+      "summary_en": "The brand's new flip phone takes an accessible approach to minimalism - with a gentle touch.",
+      "link": "https://www.zdnet.com/article/light-flip-news/",
+      "source": "ZDNet",
+      "published_at": "Sat, 25 Jul 2026 11:00:00 GMT",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "28136e723137f30a83e12d9957314813",
+      "title": "سرمایه گذاران در مورد تصمیم فدرال رزرو این هفته در تاریکی هستند - و وارش دقیقاً آن را می خواهد",
+      "title_fa": "سرمایه گذاران در مورد تصمیم فدرال رزرو این هفته در تاریکی هستند - و وارش دقیقاً آن را می خواهد",
+      "title_en": "Investors are in the dark about the Fed’s decision this week — and that’s just how Warsh wants it",
+      "summary": "آیا کوین وارش از افزایش نرخ حمایت خواهد کرد؟ برای تصمیم گیری در روز چهارشنبه کمربند ایمنی خود را ببندید.",
+      "summary_fa": "آیا کوین وارش از افزایش نرخ حمایت خواهد کرد؟ برای تصمیم گیری در روز چهارشنبه کمربند ایمنی خود را ببندید.",
+      "summary_en": "Will Kevin Warsh support a rate hike? Fasten your seat belts for the decision on Wednesday.",
+      "link": "https://www.marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 25 Jul 2026 11:00:00 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-85985776",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "22756e6b087dff8e8068c2504c5f24bb",
+      "title": "3 کار هوشمندانه ای که می توانید با کیندل آمازون قدیمی انجام دهید",
+      "title_fa": "3 کار هوشمندانه ای که می توانید با کیندل آمازون قدیمی انجام دهید",
+      "title_en": "3 Clever Things You Can Do With an Old Amazon Kindle",
+      "summary": "این کتاب‌خوان‌های الکترونیکی در دوران پیری بیش از آنچه فکر می‌کنید مفید هستند.",
+      "summary_fa": "این کتاب‌خوان‌های الکترونیکی در دوران پیری بیش از آنچه فکر می‌کنید مفید هستند.",
+      "summary_en": "These e-readers are more useful in their old age than you might think.",
+      "link": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
+      "source": "Wired",
+      "published_at": "Sat, 25 Jul 2026 11:00:00 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7fb776cef8ec3cc6b909a31b04143134",
+      "title": "Samsung Galaxy Z Fold 8 Ultra در مقابل Z Fold 7: چگونه اولین تاشو Ultra با مدل سال گذشته مقایسه می شود",
+      "title_fa": "Samsung Galaxy Z Fold 8 Ultra در مقابل Z Fold 7: چگونه اولین تاشو Ultra با مدل سال گذشته مقایسه می شود",
+      "title_en": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
+      "summary": "Z Fold 8 Ultra جدید سامسونگ تغییراتی در طراحی و نرم افزار را برای کاربران قدرتمند و علاقه مندان به ارمغان می آورد.",
+      "summary_fa": "Z Fold 8 Ultra جدید سامسونگ تغییراتی در طراحی و نرم افزار را برای کاربران قدرتمند و علاقه مندان به ارمغان می آورد.",
+      "summary_en": "Samsung's new Z Fold 8 Ultra brings design and software changes geared toward power users and enthusiasts.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
+      "source": "ZDNet",
+      "published_at": "Sat, 25 Jul 2026 10:45:42 GMT",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2187bab9ff56796bc50949b45f74c30",
+      "title": "Big Tech متهم به سنگ اندازی از محققان رسانه های اجتماعی اروپایی است",
+      "title_fa": "Big Tech متهم به سنگ اندازی از محققان رسانه های اجتماعی اروپایی است",
+      "title_en": "Big Tech accused of stonewalling European social media researchers",
+      "summary": "محققان می‌گویند TikTok، X و Meta داده‌هایی را که از نظر قانونی موظف هستند، ارائه نمی‌کنند.",
+      "summary_fa": "محققان می‌گویند TikTok، X و Meta داده‌هایی را که از نظر قانونی موظف هستند، ارائه نمی‌کنند.",
+      "summary_en": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 25 Jul 2026 10:45:32 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security-1152x648.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "1d0620558ee4ddf6f21e5c00c34e3086",
       "title": "ترامپ پس از تیراندازی در آوریل به شام ​​خبرنگاران کاخ سفید بازگشت",
       "title_fa": "ترامپ پس از تیراندازی در آوریل به شام ​​خبرنگاران کاخ سفید بازگشت",
@@ -22282,6 +22513,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f6aec74ff1f03f48b9a8589efb8da692",
+      "title": "چرا چرم شناسی برخی از بهترین لباس ها را برای کار می سازد (2026)",
+      "title_fa": "چرا چرم شناسی برخی از بهترین لباس ها را برای کار می سازد (2026)",
+      "title_en": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
+      "summary": "من این لوازم چرم‌شناسی را با لپ‌تاپ، شارژر و هر چیز دیگری که روز کاریم می‌خواهد بسته‌بندی کردم. ماه‌ها بعد، آنها هنوز همان کیف‌هایی هستند که من مدام به آنها دست می‌دهم.",
+      "summary_fa": "من این لوازم چرم‌شناسی را با لپ‌تاپ، شارژر و هر چیز دیگری که روز کاریم می‌خواهد بسته‌بندی کردم. ماه‌ها بعد، آنها هنوز همان کیف‌هایی هستند که من مدام به آنها دست می‌دهم.",
+      "summary_en": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
+      "link": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
+      "source": "Wired",
+      "published_at": "Sat, 25 Jul 2026 10:38:00 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -22310,6 +22562,27 @@
       }
     },
     {
+      "id": "bf7f4969c12062071bc5ddd5f42f58fa",
+      "title": "مدل‌های OpenAI که صورت در آغوش گرفته را هک می‌کردند برای چند روز در اینترنت فعال بودند",
+      "title_fa": "مدل‌های OpenAI که صورت در آغوش گرفته را هک می‌کردند برای چند روز در اینترنت فعال بودند",
+      "title_en": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "به علاوه: هکرهای روسی در تلاش برای سرقت ایمیل های دانشمندان هسته ای ایالات متحده هستند، وزارت امور خارجه کلاهبرداران شناخته شده را از ورود به ایالات متحده منع می کند و موارد دیگر.",
+      "summary_fa": "به علاوه: هکرهای روسی در تلاش برای سرقت ایمیل های دانشمندان هسته ای ایالات متحده هستند، وزارت امور خارجه کلاهبرداران شناخته شده را از ورود به ایالات متحده منع می کند و موارد دیگر.",
+      "summary_en": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired",
+      "published_at": "Sat, 25 Jul 2026 10:30:00 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "6f78f20da9a440b3a492d7af1059fb29",
       "title": "یافته مهم در زادگاه هیتلر: استخوان به گورهای دسته جمعی منتهی می شود",
       "title_fa": "یافته مهم در زادگاه هیتلر: استخوان به گورهای دسته جمعی منتهی می شود",
@@ -22328,6 +22601,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "30b4d1a285767a83c3cd97d79ea8289a",
+      "title": "پس از حمله شبه‌نظامیان مورد حمایت ایران به کشتی‌های دریایی دریای سرخ، ارتش عربستان به اهداف حوثی‌ها در یمن حمله کرد",
+      "title_fa": "پس از حمله شبه‌نظامیان مورد حمایت ایران به کشتی‌های دریایی دریای سرخ، ارتش عربستان به اهداف حوثی‌ها در یمن حمله کرد",
+      "title_en": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
+      "summary": "منابع امنیتی یونان به رویترز گفتند که عربستان سعودی دو موشک بالستیک از یمن را رهگیری کرده است، زیرا درگیری ها در جبهه دوم در جنگ ایران تشدید شده است.",
+      "summary_fa": "منابع امنیتی یونان به رویترز گفتند که عربستان سعودی دو موشک بالستیک از یمن را رهگیری کرده است، زیرا درگیری ها در جبهه دوم در جنگ ایران تشدید شده است.",
+      "summary_en": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+      "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "CNBC",
+      "published_at": "Sat, 25 Jul 2026 10:22:58 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -22436,6 +22730,27 @@
       }
     },
     {
+      "id": "39f74bc390a492c404f40037ae3d345d",
+      "title": "اجرای قانون مهاجرت ایالات متحده بین ترامپ و واکنش عمومی قرار گرفت",
+      "title_fa": "اجرای قانون مهاجرت ایالات متحده بین ترامپ و واکنش عمومی قرار گرفت",
+      "title_en": "US immigration enforcement caught between Trump and public backlash",
+      "summary": "قتل توسط ماموران ICE حمایت رای دهندگان را تضعیف می کند، اما کاخ سفید سیاست اخراج را دوچندان می کند",
+      "summary_fa": "قتل توسط ماموران ICE حمایت رای دهندگان را تضعیف می کند، اما کاخ سفید سیاست اخراج را دوچندان می کند",
+      "summary_en": "Killings by ICE agents undermine support of voters but White House doubles down on deportation policy",
+      "link": "https://www.ft.com/content/38a18d43-5b01-4c08-ab85-c1695f10c1e3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 25 Jul 2026 10:00:09 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6853e0e-4200-40db-ad97-61ce6f32d07d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3818a65753ab635ec63cc651dba1b007",
       "title": "در حالی که ترامپ جنگ تجاری را تشدید می کند، داگ فورد، نخست وزیر انتاریو می خواهد انتقام بگیرد",
       "title_fa": "در حالی که ترامپ جنگ تجاری را تشدید می کند، داگ فورد، نخست وزیر انتاریو می خواهد انتقام بگیرد",
@@ -22503,6 +22818,27 @@
       "title": "چگونه فولکر ترک با وجود مخالفت اسرائیل، یک دوره جدید به عنوان مسئول حقوق سازمان ملل متحد را به دست آورد",
       "title_fa": "چگونه فولکر ترک با وجود مخالفت اسرائیل، یک دوره جدید به عنوان مسئول حقوق سازمان ملل متحد را به دست آورد",
       "title_en": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "summary": "مجمع عمومی سازمان ملل متحد با 144 رای موافق در برابر 10 رای به ترک برای یک دوره چهار ساله جدید، علیرغم مخالفت های ایالات متحده، اسرائیل و روسیه داد.",
+      "summary_fa": "مجمع عمومی سازمان ملل متحد با 144 رای موافق در برابر 10 رای به ترک برای یک دوره چهار ساله جدید، علیرغم مخالفت های ایالات متحده، اسرائیل و روسیه داد.",
+      "summary_en": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 09:54:44 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "2192d9379b1f8a26c11d023910134b09",
+      "title": "چگونه ولکر ترک با وجود مخالفت ایالات متحده و اسرائیل به عنوان رئیس جدید حقوق بشر سازمان ملل متحد شد",
+      "title_fa": "چگونه ولکر ترک با وجود مخالفت ایالات متحده و اسرائیل به عنوان رئیس جدید حقوق بشر سازمان ملل متحد شد",
+      "title_en": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
       "summary": "مجمع عمومی سازمان ملل متحد با 144 رای موافق در برابر 10 رای به ترک برای یک دوره چهار ساله جدید، علیرغم مخالفت های ایالات متحده، اسرائیل و روسیه داد.",
       "summary_fa": "مجمع عمومی سازمان ملل متحد با 144 رای موافق در برابر 10 رای به ترک برای یک دوره چهار ساله جدید، علیرغم مخالفت های ایالات متحده، اسرائیل و روسیه داد.",
       "summary_en": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
@@ -23444,6 +23780,27 @@
       }
     },
     {
+      "id": "a404cf7061240169c6abedb100510df1",
+      "title": "مطالعه نشان می‌دهد خانه‌های گران‌قیمت در بریتانیا «بیش از چهار برابر زمان بیشتری برای فروش دارند».",
+      "title_fa": "مطالعه نشان می‌دهد خانه‌های گران‌قیمت در بریتانیا «بیش از چهار برابر زمان بیشتری برای فروش دارند».",
+      "title_en": "Overpriced UK homes take ‘more than four times longer to sell’, study finds",
+      "summary": "بالا رفتن بیش از حد می تواند به طور نامتناسبی مدت زمان مورد نیاز برای توافق با فروش را طولانی کند",
+      "summary_fa": "بالا رفتن بیش از حد می تواند به طور نامتناسبی مدت زمان مورد نیاز برای توافق با فروش را طولانی کند",
+      "summary_en": "Pitching too high can disproportionately lengthen the time it takes to agree a sale",
+      "link": "https://www.ft.com/content/24a8adf9-8103-44b3-92e8-350ef897dc2a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 25 Jul 2026 04:00:36 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc81baa86-8f53-4a60-a96f-f384edc1cfb5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "80aa75ad2090a0465af9dcfb5ec72c52",
       "title": "\"زمانی برای هدر دادن نیست\": یونان برای ثبت کوه المپوس در فهرست میراث جهانی یونسکو پیشنهاد داده است.",
       "title_fa": "\"زمانی برای هدر دادن نیست\": یونان برای ثبت کوه المپوس در فهرست میراث جهانی یونسکو پیشنهاد داده است.",
@@ -23525,6 +23882,27 @@
         "lat": 29.2985,
         "lng": 42.551,
         "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "a5b8f1223e3932e97fd81f1c7e2750f6",
+      "title": "تا سال 2032 بیش از 600000 پردرآمد بریتانیایی به دام بازنشستگی کشیده می‌شوند.",
+      "title_fa": "تا سال 2032 بیش از 600000 پردرآمد بریتانیایی به دام بازنشستگی کشیده می‌شوند.",
+      "title_en": "More than 600,000 UK high earners could be dragged into pension trap by 2032",
+      "summary": "اگر آستانه ها تغییر نکند، 114000 مالیات دهنده دیگر گرفتار کمک هزینه کاهش یافته سالانه خواهند شد.",
+      "summary_fa": "اگر آستانه ها تغییر نکند، 114000 مالیات دهنده دیگر گرفتار کمک هزینه کاهش یافته سالانه خواهند شد.",
+      "summary_en": "If thresholds are not changed, 114,000 more taxpayers face being caught by the tapered annual allowance",
+      "link": "https://www.ft.com/content/bfe34895-6383-4906-96b9-c622d10e32da?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 25 Jul 2026 04:00:27 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89950c03-dd46-44ef-9c82-0a30f9f3486a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
