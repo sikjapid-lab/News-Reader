@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-25 14:23:39",
-  "total_count": 1836,
+  "last_update": "2026-07-25 15:39:29",
+  "total_count": 1853,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22184,6 +22184,27 @@
       }
     },
     {
+      "id": "b5dddf038aabdb6911327152bef44542",
+      "title": "ایتالیا: زمین لرزه 4.1 ریشتری استان ایسرنیا را لرزاند، ساکنان به خیابان ها ریختند",
+      "title_fa": "ایتالیا: زمین لرزه 4.1 ریشتری استان ایسرنیا را لرزاند، ساکنان به خیابان ها ریختند",
+      "title_en": "Italy: magnitude 4.1 earthquake hits Isernia province, residents take to streets",
+      "summary": "کمی بعد از نیمه شب جمعه و شنبه زلزله ای پیزون در استان ایسرنیا را لرزاند. بسیاری از ساکنان به بیرون هجوم آوردند. شهردار می‌گوید که هیچ تلفات یا خسارتی به ساختمان‌ها وارد نشده است.",
+      "summary_fa": "کمی بعد از نیمه شب جمعه و شنبه زلزله ای پیزون در استان ایسرنیا را لرزاند. بسیاری از ساکنان به بیرون هجوم آوردند. شهردار می‌گوید که هیچ تلفات یا خسارتی به ساختمان‌ها وارد نشده است.",
+      "summary_en": "A quake struck Pizzone, in the province of Isernia, shortly after midnight between Friday and Saturday. Many residents rushed outside; the mayor says there were no injuries or damage to buildings.",
+      "link": "http://www.euronews.com/my-europe/2026/07/25/italy-magnitude-41-earthquake-hits-isernia-province-residents-take-to-streets",
+      "source": "EuroNews",
+      "published_at": "Sat, 25 Jul 2026 17:36:55 +0200",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "81d1f3ad52b8e64a8197db3e9f477ea7",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -22223,6 +22244,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "44043548095d9c7ee5df7a239fd162a7",
+      "title": "حوثی ها مدعی حمله به پالایشگاه نفت عربستان در حالی که جنگ ایران به دریای سرخ کشیده شده است",
+      "title_fa": "حوثی ها مدعی حمله به پالایشگاه نفت عربستان در حالی که جنگ ایران به دریای سرخ کشیده شده است",
+      "title_en": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
+      "summary": "حملات شورشیان حوثی یمن تحت حمایت ایران می تواند به فشار بر بازارهای جهانی نفت در کنار اختلالات ناشی از بسته شدن تنگه هرمز بیفزاید.",
+      "summary_fa": "حملات شورشیان حوثی یمن تحت حمایت ایران می تواند به فشار بر بازارهای جهانی نفت در کنار اختلالات ناشی از بسته شدن تنگه هرمز بیفزاید.",
+      "summary_en": "The strikes by Yemen's Iran-backed Houthi rebels could add to the pressure on global oil markets on top of disruptions caused by the closure of the Strait of Hormuz.",
+      "link": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
+      "source": "Washington Post",
+      "published_at": "Sat, 25 Jul 2026 15:33:08 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -22268,6 +22310,48 @@
       }
     },
     {
+      "id": "aa295cf85b624e475f010c61a9c865f5",
+      "title": "بیش از 250000 نفر از آتش سوزی های جنگلی در فرانسه و اسپانیا فرار می کنند",
+      "title_fa": "بیش از 250000 نفر از آتش سوزی های جنگلی در فرانسه و اسپانیا فرار می کنند",
+      "title_en": "More than 250,000 people flee wildfires in France and Spain",
+      "summary": "در حالی که بادهای شدید آتش را به سمت بوردو می راند و دود هشدارهای بهداشتی را در مادرید هشدار می دهد، صدها آتش نشان با شعله های آتش می جنگند. مقامات هر دو کشور گفتند که در تلاش برای مهار آتش سوزی ها هستند، آتش سوزی های بی رویه در اسپانیا و فرانسه بیش از 250000 نفر را مجبور به فرار کرده است. 197000 نفر در فرانسه فرار کردند، از جمله ده ها هزار نفر از منطقه شراب شهر بوردو. به خواندن ادامه دهید...",
+      "summary_fa": "در حالی که بادهای شدید آتش را به سمت بوردو می راند و دود هشدارهای بهداشتی را در مادرید هشدار می دهد، صدها آتش نشان با شعله های آتش می جنگند. مقامات هر دو کشور گفتند که در تلاش برای مهار آتش سوزی ها هستند، آتش سوزی های بی رویه در اسپانیا و فرانسه بیش از 250000 نفر را مجبور به فرار کرده است. 197000 نفر در فرانسه فرار کردند، از جمله ده ها هزار نفر از منطقه شراب شهر بوردو. به خواندن ادامه دهید...",
+      "summary_en": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in MadridUnrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "source": "The Guardian",
+      "published_at": "Sat, 25 Jul 2026 14:50:23 GMT",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/51560bd61ea0fc08218750aab4180c810614e543/660_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=2f851779e2bec12a67ea89f511203a66",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "095962ec19e0f6ab41abe164f6dd944b",
+      "title": "چگونه یک زنبوردار 70 ساله مزرعه عسل خانوادگی خود را سرپا نگه می دارد: \"این میراثی است که من احساس مسئولیت می کنم\"",
+      "title_fa": "چگونه یک زنبوردار 70 ساله مزرعه عسل خانوادگی خود را سرپا نگه می دارد: \"این میراثی است که من احساس مسئولیت می کنم\"",
+      "title_en": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
+      "summary": "زنبوردار بودن سخت تر از همیشه است، اما دیوید بردشاو مصمم است از کندوهای خود محافظت کند.",
+      "summary_fa": "زنبوردار بودن سخت تر از همیشه است، اما دیوید بردشاو مصمم است از کندوهای خود محافظت کند.",
+      "summary_en": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "link": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
+      "source": "CNBC",
+      "published_at": "Sat, 25 Jul 2026 14:48:15 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d8ce4795e4e490b550470ec75c191f91",
       "title": "دبیرکل سازمان ملل متحد در اولین سفر به دمشق از سال 2009، حمایت جهانی از سوریه را خواستار شد",
       "title_fa": "دبیرکل سازمان ملل متحد در اولین سفر به دمشق از سال 2009، حمایت جهانی از سوریه را خواستار شد",
@@ -22286,6 +22370,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7364ca277b3e68acf42d3501a0735a76",
+      "title": "جنوب جهانی مجبور به انتخاب طلبکاران به جای کودکان است",
+      "title_fa": "جنوب جهانی مجبور به انتخاب طلبکاران به جای کودکان است",
+      "title_en": "The Global South is being forced to choose creditors over children",
+      "summary": "تحصیل میلیون ها کودک به دلیل نظم مالی کنونی جهانی در خطر است. ما نیاز به تغییر داریم",
+      "summary_fa": "تحصیل میلیون ها کودک به دلیل نظم مالی کنونی جهانی در خطر است. ما نیاز به تغییر داریم",
+      "summary_en": "The education of millions of children is at risk because of the current global financial order. We need change",
+      "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 14:33:23 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d9e19feada9c2284bc76eeb6f080d143",
+      "title": "آتش سوزی جنگلی در فرانسه در نزدیکی بوردو، یک شهر شراب مشهور",
+      "title_fa": "آتش سوزی جنگلی در فرانسه در نزدیکی بوردو، یک شهر شراب مشهور",
+      "title_en": "Wildfire in France Rages Near Bordeaux, a Famed Wine City",
+      "summary": "آتش سوزی در حومه جنوب غربی فرانسه به اندازه ای نزدیک شد که مقامات این شهر را با 270000 نفر نگران کرد.",
+      "summary_fa": "آتش سوزی در حومه جنوب غربی فرانسه به اندازه ای نزدیک شد که مقامات این شهر را با 270000 نفر نگران کرد.",
+      "summary_en": "A blaze sweeping the countryside of southwestern France drew close enough to worry officials in the city of some 270,000 people.",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/saumos-wildfire-france-spain-bordeaux.html",
+      "source": "NY Times",
+      "published_at": "Sat, 25 Jul 2026 14:23:49 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-bordeaux-wtk-topart-kcqg/25europe-wildfires-bordeaux-wtk-topart-kcqg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "3689fce9f3d453187e3bcf3117b92228",
+      "title": "اتلتیکو مادرید لی کانگ این ستاره کره جنوبی جام جهانی را از پاری سن ژرمن به خدمت گرفت",
+      "title_fa": "اتلتیکو مادرید لی کانگ این ستاره کره جنوبی جام جهانی را از پاری سن ژرمن به خدمت گرفت",
+      "title_en": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
+      "summary": "لی کانگ این پس از کمک به پاری سن ژرمن برای قهرمانی متوالی در لیگ قهرمانان اروپا به اتلتیکو رفت.",
+      "summary_fa": "لی کانگ این پس از کمک به پاری سن ژرمن برای قهرمانی متوالی در لیگ قهرمانان اروپا به اتلتیکو رفت.",
+      "summary_en": "Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 14:20:21 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
       }
     },
     {
@@ -22940,6 +23087,27 @@
       }
     },
     {
+      "id": "466ccdc63a64b3c9bdec6b273d2218e7",
+      "title": "یک دوز واحد علائم اوتیسم را در موش های بالغ در عرض چند ساعت معکوس کرد",
+      "title_fa": "یک دوز واحد علائم اوتیسم را در موش های بالغ در عرض چند ساعت معکوس کرد",
+      "title_en": "A single dose reversed autism-like symptoms in adult mice within hours",
+      "summary": "حتی التهاب خفیف در دوران بارداری باعث شد که فرزندان موش دچار بیش فعالی مداوم مغز، حساسیت حسی، رفتارهای تکراری و افزایش خطر تشنج شوند. قابل توجه است که یک دوز راپامایسین تقریباً همه این مشکلات را در عرض حدود دو ساعت بهبود بخشید. این مزایا موقتی بود، اما آنها نشان می‌دهند که مدارهای مغز بزرگسالان ممکن است بسیار سازگارتر از آنچه قبلاً تصور می‌شد باقی بماند.",
+      "summary_fa": "حتی التهاب خفیف در دوران بارداری باعث شد که فرزندان موش دچار بیش فعالی مداوم مغز، حساسیت حسی، رفتارهای تکراری و افزایش خطر تشنج شوند. قابل توجه است که یک دوز راپامایسین تقریباً همه این مشکلات را در عرض حدود دو ساعت بهبود بخشید. این مزایا موقتی بود، اما آنها نشان می‌دهند که مدارهای مغز بزرگسالان ممکن است بسیار سازگارتر از آنچه قبلاً تصور می‌شد باقی بماند.",
+      "summary_en": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 11:09:37 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "942890b971b9124ee6ee26728266aa88",
       "title": "معترضان جوان هندی با طنز و میم های بی احترامی با مودی می جنگند",
       "title_fa": "معترضان جوان هندی با طنز و میم های بی احترامی با مودی می جنگند",
@@ -23126,6 +23294,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "b67c929d1cfd7867dd466af9b68f3a81",
+      "title": "سوپراگرها خاطرات جوانی را حفظ می کنند اما DNA آنها دلیل آن را توضیح نمی دهد",
+      "title_fa": "سوپراگرها خاطرات جوانی را حفظ می کنند اما DNA آنها دلیل آن را توضیح نمی دهد",
+      "title_en": "Superagers keep youthful memories but their DNA does not explain why",
+      "summary": "دانشمندان انتظار داشتند که SuperAgers به ​​سادگی خطرات مرتبط با آلزایمر را به ارث ببرد، اما ژن‌های آن‌ها بسیار شبیه ژن‌های افراد مسن معمولی بود. خاطرات خارق‌العاده آن‌ها ممکن است ناشی از نیروهای محافظتی هنوز ناشناخته‌ای باشد که مغز، بدن، سبک زندگی و محیط را درگیر می‌کند.",
+      "summary_fa": "دانشمندان انتظار داشتند که SuperAgers به ​​سادگی خطرات مرتبط با آلزایمر را به ارث ببرد، اما ژن‌های آن‌ها بسیار شبیه ژن‌های افراد مسن معمولی بود. خاطرات خارق‌العاده آن‌ها ممکن است ناشی از نیروهای محافظتی هنوز ناشناخته‌ای باشد که مغز، بدن، سبک زندگی و محیط را درگیر می‌کند.",
+      "summary_en": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 10:41:54 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -23357,6 +23546,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "6357a5449b67f8573e2241f699304b47",
+      "title": "دانشمندان ادعای «بازیافت حواس پرتی است» را به آزمون گذاشته اند",
+      "title_fa": "دانشمندان ادعای «بازیافت حواس پرتی است» را به آزمون گذاشته اند",
+      "title_en": "Scientists put the “recycling is a distraction” claim to the test",
+      "summary": "بازیافت، رژیم‌های غذایی سبزتر، و دیگر انتخاب‌های آب و هوایی شخصی به نظر نمی‌رسد مردم را از حمایت از اصلاحات زیست‌محیطی بزرگ منحرف کند. یک مطالعه چهار ساله بر روی تقریباً 2800 استرالیایی نشان داد که این عادات نه باعث افزایش و نه کاهش تعامل سیاسی بعدی شد.",
+      "summary_fa": "بازیافت، رژیم‌های غذایی سبزتر، و دیگر انتخاب‌های آب و هوایی شخصی به نظر نمی‌رسد مردم را از حمایت از اصلاحات زیست‌محیطی بزرگ منحرف کند. یک مطالعه چهار ساله بر روی تقریباً 2800 استرالیایی نشان داد که این عادات نه باعث افزایش و نه کاهش تعامل سیاسی بعدی شد.",
+      "summary_en": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 10:00:35 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -23605,6 +23815,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1bb72de4-dcdc-4427-b868-e3aabf286c5c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "88700e0d900f8df51f66d9610f941f84",
+      "title": "کیهان می تواند از نور پیشی بگیرد بدون اینکه قوانین انیشتین را زیر پا بگذارد",
+      "title_fa": "کیهان می تواند از نور پیشی بگیرد بدون اینکه قوانین انیشتین را زیر پا بگذارد",
+      "title_en": "The Universe can outrun light without breaking Einstein’s rules",
+      "summary": "انبساط کیهانی به کهکشان‌های دور اجازه می‌دهد سریع‌تر از نور دور شوند، در حالی که همچنان به ما اجازه می‌دهد تا نور باستانی را که در زمان نزدیک‌تر بودن ساطع می‌کردند، ببینیم. در نهایت، انبساط شتابان تقریباً هر کهکشانی را فراتر از گروه محلی ما از دید خارج می‌کند و باعث می‌شود که جهان تقریباً خالی به نظر برسد.",
+      "summary_fa": "انبساط کیهانی به کهکشان‌های دور اجازه می‌دهد سریع‌تر از نور دور شوند، در حالی که همچنان به ما اجازه می‌دهد تا نور باستانی را که در زمان نزدیک‌تر بودن ساطع می‌کردند، ببینیم. در نهایت، انبساط شتابان تقریباً هر کهکشانی را فراتر از گروه محلی ما از دید خارج می‌کند و باعث می‌شود که جهان تقریباً خالی به نظر برسد.",
+      "summary_en": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 09:17:03 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -24011,6 +24242,27 @@
       }
     },
     {
+      "id": "03a484d69e6011ebda7d72584fb6cc62",
+      "title": "داروهای خوراکی GLP-1 ممکن است مدار هوس غذایی مغز را آرام کند",
+      "title_fa": "داروهای خوراکی GLP-1 ممکن است مدار هوس غذایی مغز را آرام کند",
+      "title_en": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
+      "summary": "داروهای خوراکی جدیدتر مربوط به داروهای سماگلوتید مانند اوزمپیک با آرام کردن یک مدار پاداش مغزی عمیق، غذا خوردن مبتنی بر لذت را در موش ها کاهش دادند. این یافته می تواند راه های جدیدی را برای درک هوس های غذایی و درمان احتمالی اختلال مصرف مواد باز کند.",
+      "summary_fa": "داروهای خوراکی جدیدتر مربوط به داروهای سماگلوتید مانند اوزمپیک با آرام کردن یک مدار پاداش مغزی عمیق، غذا خوردن مبتنی بر لذت را در موش ها کاهش دادند. این یافته می تواند راه های جدیدی را برای درک هوس های غذایی و درمان احتمالی اختلال مصرف مواد باز کند.",
+      "summary_en": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 07:34:04 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7d02d214a070a13db45edaa0c8a19c2f",
       "title": "تونس سالگرد اقدامات اضطراری سعید را در بحبوحه بحران مرگبار برق جشن می گیرد",
       "title_fa": "تونس سالگرد اقدامات اضطراری سعید را در بحبوحه بحران مرگبار برق جشن می گیرد",
@@ -24260,6 +24512,27 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "3b306106b5eedf164828c62b292b9550",
+      "title": "مکمل فیبر روزانه باعث کاهش درد آرتریت زانو و بهبود قدرت می شود",
+      "title_fa": "مکمل فیبر روزانه باعث کاهش درد آرتریت زانو و بهبود قدرت می شود",
+      "title_en": "A daily fiber supplement reduced knee arthritis pain and improved strength",
+      "summary": "یک مکمل فیبر پری بیوتیک درد آرتروز زانو را کاهش داد و در عین حال قدرت گرفتن و حساسیت درد را در یک آزمایش شش هفته ای بهبود بخشید. نتایج به ارتباط جذاب روده-عضله-درد اشاره می کند و نشان می دهد که نگهداری یک مکمل ساده روزانه ممکن است راحت تر از فیزیوتراپی دیجیتال باشد.",
+      "summary_fa": "یک مکمل فیبر پری بیوتیک درد آرتروز زانو را کاهش داد و در عین حال قدرت گرفتن و حساسیت درد را در یک آزمایش شش هفته ای بهبود بخشید. نتایج به ارتباط جذاب روده-عضله-درد اشاره می کند و نشان می دهد که نگهداری یک مکمل ساده روزانه ممکن است راحت تر از فیزیوتراپی دیجیتال باشد.",
+      "summary_en": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily supplement may be easier to maintain than digital physiotherapy.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 25 Jul 2026 06:01:05 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -25752,6 +26025,27 @@
       }
     },
     {
+      "id": "9a42e0087c78fcf7a23cca4781dd17e0",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Venus may be tearing itself apart from within",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 24 Jul 2026 23:19:19 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "541476ccd0165db268646af627b491ee",
       "title": "شات هشدار یا شیرین کاری تبلیغاتی - چقدر باید نگران هک OpenAI باشیم؟",
       "title_fa": "شات هشدار یا شیرین کاری تبلیغاتی - چقدر باید نگران هک OpenAI باشیم؟",
@@ -25976,6 +26270,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3d7f20d2810a296a8e27eb780525ef23",
+      "title": "دانشمندان دریافتند خورشید 55 درصد بیشتر از حد انتظار نقره دارد",
+      "title_fa": "دانشمندان دریافتند خورشید 55 درصد بیشتر از حد انتظار نقره دارد",
+      "title_en": "Scientists discover the Sun contains 55% more silver than expected",
+      "summary": "یک تحلیل جدید نشان می‌دهد که خورشید نقره بسیار بیشتری نسبت به تخمین‌های قبلی نشان می‌دهد. مدل‌های پیشرفته‌تر اتمسفر خورشیدی، مقدار محاسبه‌شده را تا 55 درصد افزایش داد و آن را با شهاب‌سنگ‌های باستانی هماهنگ‌تر کرد. این تکنیک همچنین ممکن است به دانشمندان کمک کند تا منشا کیهانی نقره و سایر عناصر سنگین را ردیابی کنند.",
+      "summary_fa": "یک تحلیل جدید نشان می‌دهد که خورشید نقره بسیار بیشتری نسبت به تخمین‌های قبلی نشان می‌دهد. مدل‌های پیشرفته‌تر اتمسفر خورشیدی، مقدار محاسبه‌شده را تا 55 درصد افزایش داد و آن را با شهاب‌سنگ‌های باستانی هماهنگ‌تر کرد. این تکنیک همچنین ممکن است به دانشمندان کمک کند تا منشا کیهانی نقره و سایر عناصر سنگین را ردیابی کنند.",
+      "summary_en": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 24 Jul 2026 21:55:27 EDT",
+      "date_iso": "2026-07-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -35405,6 +35720,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f2729360aca3b9df567e4a75115d6f36",
+      "title": "اولی فریک، مورخ سینث، هزینه های زیادی را برای یک دوچرخه خوب خرج خواهد کرد",
+      "title_fa": "اولی فریک، مورخ سینث، هزینه های زیادی را برای یک دوچرخه خوب خرج خواهد کرد",
+      "title_en": "Synth historian Oli Freke will spend big on a good bicycle",
+      "summary": "اولی فریک یک موسیقیدان و روزنامه نگار است که آثارش در Sound on Sound، The Quietus و Mixmag منتشر شده است. این شامل استفاده از ریاضیات برای کشف پتانسیل ملودیک مقیاس 12 تنی غربی و شیرجه عمیق در افکت های افکت است. او حتی کتابی نوشته است که تکامل سینت سایزر را از سال 1963 تا 1995 دنبال می کند، […]",
+      "summary_fa": "اولی فریک یک موسیقیدان و روزنامه نگار است که آثارش در Sound on Sound، The Quietus و Mixmag منتشر شده است. این شامل استفاده از ریاضیات برای کشف پتانسیل ملودیک مقیاس 12 تنی غربی و شیرجه عمیق در افکت های افکت است. او حتی کتابی نوشته است که تکامل سینت سایزر را از سال 1963 تا 1995 دنبال می کند، […]",
+      "summary_en": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, […]",
+      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "source": "The Verge",
+      "published_at": "2026-07-25T11:15:00-04:00",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5128baa5cdd577ed1eb81d9659f3042d",
+      "title": "دستگاه های موسیقی منحصر به فرد Teenage Engineering 30 درصد تخفیف دارند",
+      "title_fa": "دستگاه های موسیقی منحصر به فرد Teenage Engineering 30 درصد تخفیف دارند",
+      "title_en": "Teenage Engineering’s unique music machines are 30 percent off",
+      "summary": "دستگاه‌های Teenage Engineering با عناصری از سینت‌سایزرها، لوپرها و پدال‌های افکت‌ها، جایی بین ابزار موسیقی و هنر مدرن قرار دارند. این groovebox‌ها، همانطور که اغلب به آنها گفته می‌شود، می‌توانند به شما کمک کنند تا آهنگ‌ها را به صورت بلادرنگ از یک واحد واحد، با زبان طراحی چشم‌گیر تولید کنید. بخش وسیعی از محصولات این برند با 30 درصد تخفیف […]",
+      "summary_fa": "دستگاه‌های Teenage Engineering با عناصری از سینت‌سایزرها، لوپرها و پدال‌های افکت‌ها، جایی بین ابزار موسیقی و هنر مدرن قرار دارند. این groovebox‌ها، همانطور که اغلب به آنها گفته می‌شود، می‌توانند به شما کمک کنند تا آهنگ‌ها را به صورت بلادرنگ از یک واحد واحد، با زبان طراحی چشم‌گیر تولید کنید. بخش وسیعی از محصولات این برند با 30 درصد تخفیف […]",
+      "summary_en": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of the brand’s offerings are 30 percent off […]",
+      "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-25T11:00:00-04:00",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
