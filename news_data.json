@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-25 17:40:24",
-  "total_count": 1871,
+  "last_update": "2026-07-25 18:41:33",
+  "total_count": 1877,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22184,6 +22184,69 @@
       }
     },
     {
+      "id": "48d407bea95473d95c5316e6113398fa",
+      "title": "قیمت نفت ممکن است کاهش یابد، اما قیمت بنزین کاهش نمی یابد. به دامی که در آن گرفتار هستیم نگاه کنید.",
+      "title_fa": "قیمت نفت ممکن است کاهش یابد، اما قیمت بنزین کاهش نمی یابد. به دامی که در آن گرفتار هستیم نگاه کنید.",
+      "title_en": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+      "summary": "جنگ ایران باعث نمی شود که هزینه انرژی شما بالا برود. وال استریت را به خاطر آن مقصر بدانید.",
+      "summary_fa": "جنگ ایران باعث نمی شود که هزینه انرژی شما بالا برود. وال استریت را به خاطر آن مقصر بدانید.",
+      "summary_en": "The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.",
+      "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 25 Jul 2026 18:34:00 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-81565111",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "21bb453b5740e677b069c86f42a54bdc",
+      "title": "در اینجا ارزش خالصی است که برای شروع پیشرفت در دهه 20، 30، 40 سالگی و فراتر از آن در ایالات متحده نیاز دارید.",
+      "title_fa": "در اینجا ارزش خالصی است که برای شروع پیشرفت در دهه 20، 30، 40 سالگی و فراتر از آن در ایالات متحده نیاز دارید.",
+      "title_en": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+      "summary": "بر اساس معیار جدیدی که توسط موسسه آسپن تهیه شده است، حدود سه چهارم آمریکایی ها فاقد ثروت مورد نیاز برای شکوفایی اقتصاد امروزی هستند.",
+      "summary_fa": "بر اساس معیار جدیدی که توسط موسسه آسپن تهیه شده است، حدود سه چهارم آمریکایی ها فاقد ثروت مورد نیاز برای شکوفایی اقتصاد امروزی هستند.",
+      "summary_en": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
+      "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 25 Jul 2026 18:15:00 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-97683684",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1c3f6fee37885213fc8a54cbb826c71",
+      "title": "چرا بازماندگان اپستین هنوز در حال مبارزه هستند",
+      "title_fa": "چرا بازماندگان اپستین هنوز در حال مبارزه هستند",
+      "title_en": "Why Epstein’s survivors are still fighting",
+      "summary": "چرا بازماندگان اپستین هنوز در حال مبارزه هستند",
+      "summary_fa": "چرا بازماندگان اپستین هنوز در حال مبارزه هستند",
+      "summary_en": "Why Epstein's survivors are still fighting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/why-epsteins-survivors-are-still-fighting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 18:06:09 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e1d998d5ba9c56fd0545e5bbe6ca5d9f",
       "title": "آخرین بولتن اخبار | 25 ژوئیه 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 25 ژوئیه 2026 - عصر",
@@ -22223,6 +22286,48 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "e76ff7fd2bddcb83ebf4ee78d85c4d29",
+      "title": "فکر می کنید این بازار سهام در یک حباب است؟ این اعداد درآمد چیز دیگری می گوید.",
+      "title_fa": "فکر می کنید این بازار سهام در یک حباب است؟ این اعداد درآمد چیز دیگری می گوید.",
+      "title_en": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+      "summary": "به گفته یکی از کارشناسان درآمد، با تجارت هوش مصنوعی و سهام فناوری اضافه وزن همراه باشید.",
+      "summary_fa": "به گفته یکی از کارشناسان درآمد، با تجارت هوش مصنوعی و سهام فناوری اضافه وزن همراه باشید.",
+      "summary_en": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+      "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 25 Jul 2026 17:48:00 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-69942419",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cdba2c40eebb0365d2c8ae1c711b362f",
+      "title": "برج چشمان اسپیس ایکس پس از پایان فرخنده سیزدهمین پرواز برای استارشیپ بعدی",
+      "title_fa": "برج چشمان اسپیس ایکس پس از پایان فرخنده سیزدهمین پرواز برای استارشیپ بعدی",
+      "title_en": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "اسپیس ایکس احتمالاً در پرواز بعدی خود تلاش خواهد کرد تا Starship را در سکوی پرتاب بازگرداند.",
+      "summary_fa": "اسپیس ایکس احتمالاً در پرواز بعدی خود تلاش خواهد کرد تا Starship را در سکوی پرتاب بازگرداند.",
+      "summary_en": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 25 Jul 2026 17:47:22 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -36098,6 +36203,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4e919f6c01cddba399fd66f3c38ed4f4",
+      "title": "گوگل اساسا تایید می کند که پیکسل 11 افزایش قیمت دارد",
+      "title_fa": "گوگل اساسا تایید می کند که پیکسل 11 افزایش قیمت دارد",
+      "title_en": "Google basically confirms the Pixel 11 is getting a price hike",
+      "summary": "معاون دستگاه‌ها و خدمات گوگل، شکیل برکات، در مصاحبه‌ای با 9to5 گوگل تایید کرد که گوشی پیکسل بعدی آن بیشتر از پیکسل 10 قیمت خواهد داشت. شرکت هایی از […]",
+      "summary_fa": "معاون دستگاه‌ها و خدمات گوگل، شکیل برکات، در مصاحبه‌ای با 9to5 گوگل تایید کرد که گوشی پیکسل بعدی آن بیشتر از پیکسل 10 قیمت خواهد داشت. شرکت هایی از […]",
+      "summary_en": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from […]",
+      "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+      "source": "The Verge",
+      "published_at": "2026-07-25T14:13:36-04:00",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
