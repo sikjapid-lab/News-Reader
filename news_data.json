@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-25 19:59:01",
-  "total_count": 1885,
+  "last_update": "2026-07-25 21:04:20",
+  "total_count": 1891,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22202,6 +22202,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "118dad75f72353595bf7a454b20fcf39",
+      "title": "صدها هزار نفر به دلیل آتش سوزی در اسپانیا و فرانسه فرار می کنند",
+      "title_fa": "صدها هزار نفر به دلیل آتش سوزی در اسپانیا و فرانسه فرار می کنند",
+      "title_en": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
+      "summary": "آتش‌نشانان برای مهار آتش‌هایی که به مادرید و بوردو نزدیک‌تر می‌شدند، رقابت می‌کردند.",
+      "summary_fa": "آتش‌نشانان برای مهار آتش‌هایی که به مادرید و بوردو نزدیک‌تر می‌شدند، رقابت می‌کردند.",
+      "summary_en": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
+      "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
+      "source": "NY Times",
+      "published_at": "Sat, 25 Jul 2026 20:56:13 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-promo-4pm-khjz/25europe-wildfires-promo-4pm-khjz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d38528a597cebf1f1d909dbc6ab32f91",
+      "title": "تیزر SDCC اولین نگاه خوب ما را به Blade Runner 2099 نشان می دهد",
+      "title_fa": "تیزر SDCC اولین نگاه خوب ما را به Blade Runner 2099 نشان می دهد",
+      "title_en": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "summary": "همچنین: تیزر Forging the One Ring in Rings of Power S3; تریلر جدید Lanterns; Spaceballs: The New One Panel.",
+      "summary_fa": "همچنین: تیزر Forging the One Ring in Rings of Power S3; تریلر جدید Lanterns; Spaceballs: The New One Panel.",
+      "summary_en": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 25 Jul 2026 20:52:30 +0000",
+      "date_iso": "2026-07-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "546549f76cc228caad1b7f6355bc6eb0",
+      "title": "پس از حمله شبه‌نظامیان مورد حمایت ایران به کشتی‌های دریایی دریای سرخ، ارتش عربستان به اهداف حوثی‌ها در یمن حمله کرد",
+      "title_fa": "پس از حمله شبه‌نظامیان مورد حمایت ایران به کشتی‌های دریایی دریای سرخ، ارتش عربستان به اهداف حوثی‌ها در یمن حمله کرد",
+      "title_en": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "summary": "منابع امنیتی یونان به رویترز گفتند که عربستان سعودی دو موشک بالستیک از یمن را رهگیری کرده است، زیرا درگیری ها در جبهه دوم در جنگ ایران تشدید شده است.",
+      "summary_fa": "منابع امنیتی یونان به رویترز گفتند که عربستان سعودی دو موشک بالستیک از یمن را رهگیری کرده است، زیرا درگیری ها در جبهه دوم در جنگ ایران تشدید شده است.",
+      "summary_en": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
+      "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
+      "source": "CNBC",
+      "published_at": "Sat, 25 Jul 2026 20:29:41 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "ea5a9e038cec0c8002f104b809720747",
+      "title": "برزیل بازدید هیئت آمریکایی را که به دنبال زیر سوال بردن سیستم انتخاباتی است مسدود می کند",
+      "title_fa": "برزیل بازدید هیئت آمریکایی را که به دنبال زیر سوال بردن سیستم انتخاباتی است مسدود می کند",
+      "title_en": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+      "summary": "مقامات برزیل از اعطای ویزا به دو مقام ارشد ایالات متحده خودداری کردند زیرا آنها قصد داشتند در مورد امنیت سیستم های رای گیری این کشور تردید ایجاد کنند.",
+      "summary_fa": "مقامات برزیل از اعطای ویزا به دو مقام ارشد ایالات متحده خودداری کردند زیرا آنها قصد داشتند در مورد امنیت سیستم های رای گیری این کشور تردید ایجاد کنند.",
+      "summary_en": "Brazilian authorities refused to grant visas to two senior U.S. officials out of concern they planned to sow doubt about the security of the country’s voting systems.",
+      "link": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
+      "source": "NY Times",
+      "published_at": "Sat, 25 Jul 2026 20:03:26 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-brazil-visas-wfvl/25int-brazil-visas-wfvl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b74271a4ebc9f1996b9f52364b410d60",
+      "title": "رئیس پلیس تحت رهبری حماس در شمال غزه در حمله اسرائیل کشته شد",
+      "title_fa": "رئیس پلیس تحت رهبری حماس در شمال غزه در حمله اسرائیل کشته شد",
+      "title_en": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "summary": "چهار فلسطینی دیگر نیز در حملات هوایی اسرائیل کشته شدند و یک پلیس نیز بر اثر جراحات وارده در هفته گذشته جان باخت.",
+      "summary_fa": "چهار فلسطینی دیگر نیز در حملات هوایی اسرائیل کشته شدند و یک پلیس نیز بر اثر جراحات وارده در هفته گذشته جان باخت.",
+      "summary_en": "Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 25 Jul 2026 20:00:43 +0000",
+      "date_iso": "2026-07-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "468ef53fdb2d32bc1ee86558da4bc0ff",
+      "title": "در اینجا 4 نیرویی که هفته سختی را برای سهام رقم زدند آورده شده است",
+      "title_fa": "در اینجا 4 نیرویی که هفته سختی را برای سهام رقم زدند آورده شده است",
+      "title_en": "Here are 4 forces that drove a tough week for stocks",
+      "summary": "سرمایه‌گذاران همه چیز را از تشدید تنش‌ها در خاورمیانه گرفته تا گزارش‌های کلیدی درآمدهای فناوری و تحولات مراقبت‌های بهداشتی دنبال کردند.",
+      "summary_fa": "سرمایه‌گذاران همه چیز را از تشدید تنش‌ها در خاورمیانه گرفته تا گزارش‌های کلیدی درآمدهای فناوری و تحولات مراقبت‌های بهداشتی دنبال کردند.",
+      "summary_en": "Investors navigated everything from escalating tensions in the Middle East to key tech earnings reports to healthcare developments.",
+      "link": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "source": "CNBC",
+      "published_at": "Sat, 25 Jul 2026 19:56:55 GMT",
+      "date_iso": "2026-07-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
       }
     },
     {
