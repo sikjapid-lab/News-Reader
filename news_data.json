@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-26 09:05:40",
-  "total_count": 1978,
+  "last_update": "2026-07-26 10:52:54",
+  "total_count": 2013,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22037,6 +22037,552 @@
       }
     },
     {
+      "id": "2c3a216e0f91241f84b96801b6c16121",
+      "title": "حملات روسیه در سراسر اوکراین در 24 ساعت گذشته حداقل 8 کشته برجای گذاشته است",
+      "title_fa": "حملات روسیه در سراسر اوکراین در 24 ساعت گذشته حداقل 8 کشته برجای گذاشته است",
+      "title_en": "Russian strikes across Ukraine kill at least eight over last 24 hours",
+      "summary": "مقامات اوکراینی همچنین از حمله روز یکشنبه به یک مرکز خرید در کریوی ریه خبر دادند. بنا بر گزارش ها، پس از اعتصاب، در یک فروشگاه Epitsentr DIY آتش سوزی رخ داد.",
+      "summary_fa": "مقامات اوکراینی همچنین از حمله روز یکشنبه به یک مرکز خرید در کریوی ریه خبر دادند. بنا بر گزارش ها، پس از اعتصاب، در یک فروشگاه Epitsentr DIY آتش سوزی رخ داد.",
+      "summary_en": "Ukrainian authorities also reported an attack on a shopping centre in Kryvyi Rih on Sunday. A fire reportedly broke out at an Epitsentr DIY store following the strike.",
+      "link": "http://www.euronews.com/my-europe/2026/07/26/russian-strikes-across-ukraine-kill-at-least-eight-over-last-24-hours",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 12:32:16 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "def5b11e330ac60b8cb084b1814f1c06",
+      "title": "یورو استار در دسامبر امسال مسیر مستقیم جدیدی را از لندن به آنتورپ راه اندازی می کند",
+      "title_fa": "یورو استار در دسامبر امسال مسیر مستقیم جدیدی را از لندن به آنتورپ راه اندازی می کند",
+      "title_en": "Eurostar is launching a new direct route from London to Antwerp this December",
+      "summary": "مسیر جدید به مسافران این امکان را می دهد که از ترانسفر در بروکسل صرف نظر کنند - اما در مسیر برگشت نمی توانید مستقیماً برگشت داشته باشید.",
+      "summary_fa": "مسیر جدید به مسافران این امکان را می دهد که از ترانسفر در بروکسل صرف نظر کنند - اما در مسیر برگشت نمی توانید مستقیماً برگشت داشته باشید.",
+      "summary_en": "The new route will  allow travellers to skip the transfer in Brussels –  but you won’t be able to take a direct return on the way back.",
+      "link": "http://www.euronews.com/travel/2026/07/26/eurostar-is-launching-a-new-direct-route-from-london-to-antwerp-this-december",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 12:25:07 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "58ef0b6090391bc7af759bdd61e4723f",
+      "title": "سواحل کوه المپوس و D-Day به فهرست میراث جهانی یونسکو اضافه شدند",
+      "title_fa": "سواحل کوه المپوس و D-Day به فهرست میراث جهانی یونسکو اضافه شدند",
+      "title_en": "Mount Olympus and D-Day beaches added to UNESCO World Heritage List",
+      "summary": "کوه افسانه ای یونان، سواحل روز نورماندی و پایتخت های باستانی ژاپن از جمله جدیدترین مکان هایی هستند که توسط یونسکو به دلیل ارزش جهانی برجسته آنها به رسمیت شناخته شده است.",
+      "summary_fa": "کوه افسانه ای یونان، سواحل روز نورماندی و پایتخت های باستانی ژاپن از جمله جدیدترین مکان هایی هستند که توسط یونسکو به دلیل ارزش جهانی برجسته آنها به رسمیت شناخته شده است.",
+      "summary_en": "Greece's mythical mountain, Normandy's D-Day beaches and Japan's ancient capitals are among the latest sites recognised by UNESCO for their outstanding universal value.",
+      "link": "http://www.euronews.com/culture/2026/07/26/mount-olympus-and-d-day-beaches-added-to-unesco-world-heritage-list",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 12:21:35 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "7035c7bca4cdb55d05bf170f37a7e16d",
+      "title": "آخرین بولتن اخبار | 26 ژوئیه 2026 - ظهر",
+      "title_fa": "آخرین بولتن اخبار | 26 ژوئیه 2026 - ظهر",
+      "title_en": "Latest news bulletin | July 26th, 2026 – Midday",
+      "summary": "در 26 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 26 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/26/latest-news-bulletin-july-26th-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 12:00:16 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "46f24cf4a2b3f6ce1392210d8a54c0b8",
+      "title": "پدرو سانچز: \"میزان فاجعه ای که ما در آن زندگی می کنیم بسیار سخت است.\"",
+      "title_fa": "پدرو سانچز: \"میزان فاجعه ای که ما در آن زندگی می کنیم بسیار سخت است.\"",
+      "title_en": "Pedro Sánchez: \"The scale of the disaster we are living through is very hard to accept\"",
+      "summary": "حضور مشترک فرماندهی واحد برای مقابله با آتش سوزی در مادرید، آویلا و تولدو و نخست وزیر بر همکاری نزدیک تاکید کرد. آنها از مردم می خواهند که بر پیشگیری تمرکز کنند و با احتیاط عمل کنند.",
+      "summary_fa": "حضور مشترک فرماندهی واحد برای مقابله با آتش سوزی در مادرید، آویلا و تولدو و نخست وزیر بر همکاری نزدیک تاکید کرد. آنها از مردم می خواهند که بر پیشگیری تمرکز کنند و با احتیاط عمل کنند.",
+      "summary_en": "The joint appearance by the unified command tackling the fires in Madrid, Ávila and Toledo and the prime minister underlined close cooperation. They urge the public to focus on prevention and act with caution.",
+      "link": "http://www.euronews.com/my-europe/2026/07/26/pedro-sanchez-the-scale-of-the-disaster-we-are-living-through-is-very-hard-to-accept",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 11:58:25 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f222b6704eadcb757446b36f2de8bdc8",
+      "title": "بنزین ایتالیا از 2.6 یورو بالاتر رفت: مخالفان و گروه ها زنگ خطر را به صدا در می آورند، دولت تعرفه سوخت متغیر را تعیین می کند",
+      "title_fa": "بنزین ایتالیا از 2.6 یورو بالاتر رفت: مخالفان و گروه ها زنگ خطر را به صدا در می آورند، دولت تعرفه سوخت متغیر را تعیین می کند",
+      "title_en": "Italy petrol tops €2.6: opposition and groups sound alarm, govt weighs variable fuel duty",
+      "summary": "هزینه سوخت دوباره در کانون توجه قرار گرفته است: قیمت در میلان و بزرگراه ها بیش از 2.60 یورو در هر لیتر است. احزاب و انجمن های اپوزیسیون هشدار می دهند که افزایش ها به خانواده ها و شرکت ها ضربه می زند، در حالی که دولت ملونی تدابیری را برای جلوگیری از بحران تهیه می کند.",
+      "summary_fa": "هزینه سوخت دوباره در کانون توجه قرار گرفته است: قیمت در میلان و بزرگراه ها بیش از 2.60 یورو در هر لیتر است. احزاب و انجمن های اپوزیسیون هشدار می دهند که افزایش ها به خانواده ها و شرکت ها ضربه می زند، در حالی که دولت ملونی تدابیری را برای جلوگیری از بحران تهیه می کند.",
+      "summary_en": "Fuel costs are back in the spotlight: in Milan and on motorways prices exceed €2.60 a litre. Opposition parties and associations warn of hikes hitting families and firms, while the Meloni government drafts measures to stem the crisis.",
+      "link": "http://www.euronews.com/business/2026/07/26/italy-petrol-tops-26-opposition-and-groups-sound-alarm-govt-weighs-variable-fuel-duty",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 11:49:14 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26878f145d7f897d8c792b05f68c863d",
+      "title": "\"آدمخوار دریایی\" در سراسر بالتیک گسترش می یابد و گونه های بومی را تهدید می کند",
+      "title_fa": "\"آدمخوار دریایی\" در سراسر بالتیک گسترش می یابد و گونه های بومی را تهدید می کند",
+      "title_en": "'Sea cannibal' spreads across the Baltic, threatening native species",
+      "summary": "ژله شانه‌ای Mnemiopsis leidyi که شبیه یک چتر دریایی است، در تاریکی می‌درخشد و حتی بچه‌های خود را می‌خورد، یکی از عجیب‌ترین موجودات دریایی است و با شدت بیشتری در سراسر دریای بالتیک پخش می‌شود.",
+      "summary_fa": "ژله شانه‌ای Mnemiopsis leidyi که شبیه یک چتر دریایی است، در تاریکی می‌درخشد و حتی بچه‌های خود را می‌خورد، یکی از عجیب‌ترین موجودات دریایی است و با شدت بیشتری در سراسر دریای بالتیک پخش می‌شود.",
+      "summary_en": "Resembling a jellyfish, glowing in the dark, and even eating its own young, the comb jelly Mnemiopsis leidyi is one of the strangest sea creatures and is spreading ever more aggressively throughout the Baltic Sea.",
+      "link": "http://www.euronews.com/my-europe/2026/07/26/sea-cannibal-spreads-across-the-baltic-threatening-native-species",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 11:27:20 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "726762aae409dbc70460e46abcab8333",
+      "title": "آیا جنگ ایران بعد از تنگه هرمز و دریای سرخ به دریای خزر رسیده است؟",
+      "title_fa": "آیا جنگ ایران بعد از تنگه هرمز و دریای سرخ به دریای خزر رسیده است؟",
+      "title_en": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+      "summary": "ایران آنچه را که حمله \"خصمانه و جنایتکارانه\" اوکراین به کشتی تجاری می خواند محکوم می کند. چه تاثیری بر جنگ خواهد داشت؟",
+      "summary_fa": "ایران آنچه را که حمله \"خصمانه و جنایتکارانه\" اوکراین به کشتی تجاری می خواند محکوم می کند. چه تاثیری بر جنگ خواهد داشت؟",
+      "summary_en": "Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?",
+      "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:45:23 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "72f15dd8eb768316a45d52451a98134e",
+      "title": "به روز رسانی زنده: آتش نشانان با آتش سوزی های خشمگین در فرانسه و اسپانیا مبارزه می کنند",
+      "title_fa": "به روز رسانی زنده: آتش نشانان با آتش سوزی های خشمگین در فرانسه و اسپانیا مبارزه می کنند",
+      "title_en": "Live Updates: Firefighters Battle Raging Wildfires in France and Spain",
+      "summary": "صدها هزار نفر مجبور به فرار یا پناه گرفتن در برابر آتش سوزی های سریع شده اند و پیش بینی می شود موج گرما دیگری در این هفته اروپا را در بر بگیرد.",
+      "summary_fa": "صدها هزار نفر مجبور به فرار یا پناه گرفتن در برابر آتش سوزی های سریع شده اند و پیش بینی می شود موج گرما دیگری در این هفته اروپا را در بر بگیرد.",
+      "summary_en": "Hundreds of thousands of people have been forced to flee or take shelter from fast-moving blazes, with another heat wave forecast to hit Europe this week.",
+      "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+      "source": "NY Times",
+      "published_at": "Sun, 26 Jul 2026 10:45:10 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26europe-fires-france-carousel-kqjm/26europe-fires-france-carousel-kqjm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "3950746d0233e67f81afb5c529eb1acb",
+      "title": "راه حل مشکلات شبکه برق ممکن است فقط در راهروی شما باشد",
+      "title_fa": "راه حل مشکلات شبکه برق ممکن است فقط در راهروی شما باشد",
+      "title_en": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+      "summary": "در زمانی که ایالات متحده به طور فزاینده ای به الکترون های بیشتری نیاز دارد، وسایل نقلیه الکتریکی بیشتری قادر به تامین نیروی پشتیبان هستند.",
+      "summary_fa": "در زمانی که ایالات متحده به طور فزاینده ای به الکترون های بیشتری نیاز دارد، وسایل نقلیه الکتریکی بیشتری قادر به تامین نیروی پشتیبان هستند.",
+      "summary_en": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
+      "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 10:45:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0327c057131f64c0eac77af7863b68ed",
+      "title": "اینجا جدیدترین است.",
+      "title_fa": "اینجا جدیدترین است.",
+      "title_en": "Here’s the latest.",
+      "summary": "",
+      "summary_fa": "",
+      "summary_en": "",
+      "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions/heres-the-latest",
+      "source": "NY Times",
+      "published_at": "Sun, 26 Jul 2026 10:43:08 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7022a3483417b2acf608361d1cb97ba2",
+      "title": "نیروهای رومانیایی سومین پهپاد را در سه روز سرنگون کردند",
+      "title_fa": "نیروهای رومانیایی سومین پهپاد را در سه روز سرنگون کردند",
+      "title_en": "Romanian forces shoot down third drone in three days",
+      "summary": "مقامات اعلام کردند که دفتر دادستانی کل رومانی تشخیص داده است که یک هواپیمای بدون سرنشین که روز جمعه توسط نیروهای رومانی رهگیری شد، از نوع شاهد بود که روسیه در جنگ خود علیه اوکراین از آن استفاده کرد.",
+      "summary_fa": "مقامات اعلام کردند که دفتر دادستانی کل رومانی تشخیص داده است که یک هواپیمای بدون سرنشین که روز جمعه توسط نیروهای رومانی رهگیری شد، از نوع شاهد بود که روسیه در جنگ خود علیه اوکراین از آن استفاده کرد.",
+      "summary_en": "The Romanian Prosecutor General's Office has determined that a drone intercepted by Romanian forces on Friday was of the Shahed-type used by Russia in its war against Ukraine, officials have said.",
+      "link": "http://www.euronews.com/my-europe/2026/07/26/romanian-forces-shoot-down-third-drone-in-three-days",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 10:36:01 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "a13fb80ddce332c02e2180d0d4a0b591",
+      "title": "بهترین گوشی های موتورولا، از Razr تا Moto G (2026)",
+      "title_fa": "بهترین گوشی های موتورولا، از Razr تا Moto G (2026)",
+      "title_en": "The Best Motorola Phones, From Razr to Moto G (2026)",
+      "summary": "گوشی‌های موتورولا ممکن است قدیمی به نظر برسند، اما قیمت‌های مناسب، طراحی‌های رنگارنگ و نرم‌افزار ساده آن‌ها را به گوشی‌های اندرویدی خوب و مناسب برای کیف پول تبدیل کرده است.",
+      "summary_fa": "گوشی‌های موتورولا ممکن است قدیمی به نظر برسند، اما قیمت‌های مناسب، طراحی‌های رنگارنگ و نرم‌افزار ساده آن‌ها را به گوشی‌های اندرویدی خوب و مناسب برای کیف پول تبدیل کرده است.",
+      "summary_en": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
+      "link": "https://www.wired.com/story/best-motorola-phones/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 10:34:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59a6fa70e26befc4cc5b25dd172ec543",
+      "title": "وزیر آموزش جدید هند کیست؟",
+      "title_fa": "وزیر آموزش جدید هند کیست؟",
+      "title_en": "Who is India’s new education minister?",
+      "summary": "دولت هند پس از هفته ها اعتراض به رسوایی امتحانات، پرالهاد جوشی را به عنوان وزیر آموزش جدید انتخاب کرد.",
+      "summary_fa": "دولت هند پس از هفته ها اعتراض به رسوایی امتحانات، پرالهاد جوشی را به عنوان وزیر آموزش جدید انتخاب کرد.",
+      "summary_en": "India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:33:58 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ffafb534aecf2dec2bbb3e58f0e047d",
+      "title": "پدرو سانچز می‌گوید آتش‌سوزی‌های اروپا: «ساعت‌های دشواری در راه است» در نبرد برای مهار آتش‌سوزی در حالی که بیش از 300000 نفر در فرانسه و اسپانیا از خانه‌های خود فرار می‌کنند.",
+      "title_fa": "پدرو سانچز می‌گوید آتش‌سوزی‌های اروپا: «ساعت‌های دشواری در راه است» در نبرد برای مهار آتش‌سوزی در حالی که بیش از 300000 نفر در فرانسه و اسپانیا از خانه‌های خود فرار می‌کنند.",
+      "title_en": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
+      "summary": "آتش‌سوزی‌ها مردم را در مقیاس وسیع جابجا می‌کنند و یکی از بزرگترین عملیات تخلیه غیرنظامیان در زمان صلح را که تا به حال در فرانسه انجام شده است آغاز می‌کند. بیش از 250000 نفر از آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا فرار می‌کنند. اروپا تقریباً دو برابر میانگین جهانی گرم می شود. وزارت محیط زیست اسپانیا گفته است که 32 آتش سوزی بزرگ جنگلی تا کنون در سال جاری ثبت شده است، در مقایسه با هفت مورد در مدت مشابه در سال 2025. به خواندن ادامه دهید...",
+      "summary_fa": "آتش‌سوزی‌ها مردم را در مقیاس وسیع جابجا می‌کنند و یکی از بزرگترین عملیات تخلیه غیرنظامیان در زمان صلح را که تا به حال در فرانسه انجام شده است آغاز می‌کند. بیش از 250000 نفر از آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا فرار می‌کنند. اروپا تقریباً دو برابر میانگین جهانی گرم می شود. وزارت محیط زیست اسپانیا گفته است که 32 آتش سوزی بزرگ جنگلی تا کنون در سال جاری ثبت شده است، در مقایسه با هفت مورد در مدت مشابه در سال 2025. به خواندن ادامه دهید...",
+      "summary_en": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainAs my colleagues note in this story, scientists say climate breakdown is triggering more frequent and more extreme weather events, evaporating soils and waterways, fuelling wildfires and leading to thousands of excess deaths. Europe is heating at about twice the global average rate.Spain’s environment ministry has said that 32 major forest fires have been recorded so far this year, compared with seven over the same period in 2025. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "source": "The Guardian",
+      "published_at": "Sun, 26 Jul 2026 10:29:15 GMT",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d4ea3c0184899653b60050ef9031da256e9cc70d/478_0_5566_4453/master/5566.jpg?width=140&quality=85&auto=format&fit=max&s=08c946b3bab63cfa2bb57492210e6177",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "0bb86ddd938e3126a0c1514f9f1d0439",
+      "title": "فلسطینی ها می گویند شهرک نشینان اسرائیلی مساجد، خودروها و زمین های کشاورزی را در کرانه باختری به آتش کشیدند",
+      "title_fa": "فلسطینی ها می گویند شهرک نشینان اسرائیلی مساجد، خودروها و زمین های کشاورزی را در کرانه باختری به آتش کشیدند",
+      "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "summary": "آخرین حملات دو روز پس از درگیری میان شهرک نشینان و فلسطینی ها در نزدیکی روستای تل صورت می گیرد که چهار فلسطینی و دو اسرائیلی کشته شدند.",
+      "summary_fa": "آخرین حملات دو روز پس از درگیری میان شهرک نشینان و فلسطینی ها در نزدیکی روستای تل صورت می گیرد که چهار فلسطینی و دو اسرائیلی کشته شدند.",
+      "summary_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 26 Jul 2026 10:26:05 GMT",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "a61b7ae5f708fa2618b8564dcf92960f",
+      "title": "\"کینگ کازو\" 59 ساله، اسطوره فوتبال ژاپن، اولین گل را پس از چهار سال به ثمر رساند",
+      "title_fa": "\"کینگ کازو\" 59 ساله، اسطوره فوتبال ژاپن، اولین گل را پس از چهار سال به ثمر رساند",
+      "title_en": "Japanese football legend ‘King Kazu’, 59, scores first goal in four years",
+      "summary": "مسن ترین فوتبالیست حرفه ای جهان، کازویوشی میورا، در حالی که فوکوشیما یونایتد ایواکی فوروکاوا را 7-0 شکست داد، گلزنی کرد.",
+      "summary_fa": "مسن ترین فوتبالیست حرفه ای جهان، کازویوشی میورا، در حالی که فوکوشیما یونایتد ایواکی فوروکاوا را 7-0 شکست داد، گلزنی کرد.",
+      "summary_en": "The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.",
+      "link": "https://www.aljazeera.com/sports/2026/7/26/japanese-football-legend-king-kazu-59-scores-first-goal-in-four-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:18:29 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "a06b880e9824e36de915d055eeb3870b",
+      "title": "اوکراین به کشتی های ایرانی در دریای خزر حمله کرد، تهران کیف را به \"اقدام خصمانه و جنایتکارانه\" متهم کرد",
+      "title_fa": "اوکراین به کشتی های ایرانی در دریای خزر حمله کرد، تهران کیف را به \"اقدام خصمانه و جنایتکارانه\" متهم کرد",
+      "title_en": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "summary": "آخرین حملات اوکراین، همراه با حملات نظامی عربستان به اهداف حوثی‌های مورد حمایت ایران در یمن، نشان دهنده گسترش درگیری در خاورمیانه است.",
+      "summary_fa": "آخرین حملات اوکراین، همراه با حملات نظامی عربستان به اهداف حوثی‌های مورد حمایت ایران در یمن، نشان دهنده گسترش درگیری در خاورمیانه است.",
+      "summary_en": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+      "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "source": "CNBC",
+      "published_at": "Sun, 26 Jul 2026 10:14:39 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b45244efe61beb30d384e7e7ea36b78b",
+      "title": "عکس: آتش سوزی های جنگلی در فرانسه 250000 نفر را از خانه های خود بیرون می کند",
+      "title_fa": "عکس: آتش سوزی های جنگلی در فرانسه 250000 نفر را از خانه های خود بیرون می کند",
+      "title_en": "Photos: Wildfires in France drive 250,000 people from their homes",
+      "summary": "با نزدیک شدن شعله های آتش به شهر بوردو، 55000 نفر دیگر مجبور شدند یک شبه از خانه های خود تخلیه شوند.",
+      "summary_fa": "با نزدیک شدن شعله های آتش به شهر بوردو، 55000 نفر دیگر مجبور شدند یک شبه از خانه های خود تخلیه شوند.",
+      "summary_en": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
+      "link": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:08:04 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "c799dd985c97533a6bfdaf2a60db9615",
+      "title": "معترضان اسرائیلی خشونت های مرگبار شهرک نشینان را محکوم کردند",
+      "title_fa": "معترضان اسرائیلی خشونت های مرگبار شهرک نشینان را محکوم کردند",
+      "title_en": "Israeli protesters denounce deadly settler violence",
+      "summary": "ده ها فعال اسرائیلی در تل آویو علیه خشونت شهرک نشینان در کرانه باختری اشغالی تظاهرات کردند.",
+      "summary_fa": "ده ها فعال اسرائیلی در تل آویو علیه خشونت شهرک نشینان در کرانه باختری اشغالی تظاهرات کردند.",
+      "summary_en": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:06:52 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "471e09d36d679a87bc4e4a68a8028e3b",
+      "title": "بهترین دوربین های امنیتی خانگی بدون اشتراک که امتحان کرده ام",
+      "title_fa": "بهترین دوربین های امنیتی خانگی بدون اشتراک که امتحان کرده ام",
+      "title_en": "The Best Subscription-Free Home Security Cameras I’ve Tried",
+      "summary": "لازم نیست ویدیوی خود را در فضای ابری آپلود کنید یا برای ایمن سازی خانه خود هزینه ماهانه بپردازید. این دوربین های امنیتی به صورت محلی ضبط می کنند.",
+      "summary_fa": "لازم نیست ویدیوی خود را در فضای ابری آپلود کنید یا برای ایمن سازی خانه خود هزینه ماهانه بپردازید. این دوربین های امنیتی به صورت محلی ضبط می کنند.",
+      "summary_en": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
+      "link": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68cbfdf6c8f6b6b6d29493e21f2f7864",
+      "title": "بهترین دوربین GoPro (2026): جمع و جور، بودجه، لوازم جانبی",
+      "title_fa": "بهترین دوربین GoPro (2026): جمع و جور، بودجه، لوازم جانبی",
+      "title_en": "Best GoPro Camera (2026): Compact, Budget, Accessories",
+      "summary": "شما یک قهرمان اکشن هستید و به یک دوربین برای مطابقت نیاز دارید. ما شما را از طریق تمام مدل‌ها، به‌علاوه توصیه‌های لوازم جانبی و ترفندهای نرم‌افزاری پنهان که می‌توانید امتحان کنید، راهنمایی می‌کنیم.",
+      "summary_fa": "شما یک قهرمان اکشن هستید و به یک دوربین برای مطابقت نیاز دارید. ما شما را از طریق تمام مدل‌ها، به‌علاوه توصیه‌های لوازم جانبی و ترفندهای نرم‌افزاری پنهان که می‌توانید امتحان کنید، راهنمایی می‌کنیم.",
+      "summary_en": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
+      "link": "https://www.wired.com/gallery/best-gopro-hero-camera/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 10:00:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cd26ed7f0ea786f8b90999395a8beece",
+      "title": "پلیس برلین در جستجوی مظنون حمله مرگبار به رژه غرور است",
+      "title_fa": "پلیس برلین در جستجوی مظنون حمله مرگبار به رژه غرور است",
+      "title_en": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+      "summary": "شکار مرد 21 ساله ای که با گروه های اسلامی محلی ارتباط دارد از اوایل روز یکشنبه آغاز شد. پلیس گفت که در حال بررسی این حمله به عنوان یک اقدام تروریستی احتمالی است.",
+      "summary_fa": "شکار مرد 21 ساله ای که با گروه های اسلامی محلی ارتباط دارد از اوایل روز یکشنبه آغاز شد. پلیس گفت که در حال بررسی این حمله به عنوان یک اقدام تروریستی احتمالی است.",
+      "summary_en": "The hunt for a 21-year-old man with links to local Islamic groups began early Sunday. The police said they were investigating the attack as a possible act of terrorism.",
+      "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "source": "NY Times",
+      "published_at": "Sun, 26 Jul 2026 09:59:47 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-qgjt/26int-berlin-attack-qgjt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b95177233c095062c61b34210566f6a6",
+      "title": "جنگ ایران و آمریکا برای دومین روز متوالی متوقف شد",
+      "title_fa": "جنگ ایران و آمریکا برای دومین روز متوالی متوقف شد",
+      "title_en": "U.S.-Iran War Pauses for 2nd Straight Day",
+      "summary": "مقامات آمریکایی گفتند که پرزیدنت ترامپ تا حدی به دلیل کاهش ذخایر موشک های رهگیر، برنامه های تشدید درگیری ها را به تعویق انداخت.",
+      "summary_fa": "مقامات آمریکایی گفتند که پرزیدنت ترامپ تا حدی به دلیل کاهش ذخایر موشک های رهگیر، برنامه های تشدید درگیری ها را به تعویق انداخت.",
+      "summary_en": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
+      "link": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+      "source": "NY Times",
+      "published_at": "Sun, 26 Jul 2026 09:53:05 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-Iran-War-gpvc/26int-Iran-War-gpvc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7fe291ac0be44ea3bca69de5b8b916a8",
+      "title": "برنهام انتخابات زودهنگام را رد کرد",
+      "title_fa": "برنهام انتخابات زودهنگام را رد کرد",
+      "title_en": "Burnham ‘rules out’ early election",
+      "summary": "نخست‌وزیر جدید بریتانیا می‌گوید زمانی که به نفع بریتانیا باشد، در مقابل دونالد ترامپ می‌ایستد",
+      "summary_fa": "نخست‌وزیر جدید بریتانیا می‌گوید زمانی که به نفع بریتانیا باشد، در مقابل دونالد ترامپ می‌ایستد",
+      "summary_en": "New UK prime minister says he will stand up to Donald Trump when in Britain’s interest",
+      "link": "https://www.ft.com/content/cb14773b-8c05-4434-983f-a10292db8967?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 09:44:08 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c784263-92b9-4d58-8765-19206fcb856f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "1099dc18a61c8069a685800f4183e300",
+      "title": "اثر سوسک: مودی در مقابل ژنرال Z هند",
+      "title_fa": "اثر سوسک: مودی در مقابل ژنرال Z هند",
+      "title_en": "The Cockroach Effect: Modi vs India’s Gen Z",
+      "summary": "اعتراضات حزب سوسک جانتا هند حاکی از آن است که ترساندن و ساکت کردن نسل جوان سخت تر می شود.",
+      "summary_fa": "اعتراضات حزب سوسک جانتا هند حاکی از آن است که ترساندن و ساکت کردن نسل جوان سخت تر می شود.",
+      "summary_en": "Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 09:08:52 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8dfdaea6cc1e3971cd7a3b1ea398e9c5",
       "title": "ترامپ انرژی هسته ای، از جمله توافق عربستان را تحت فشار قرار می دهد. خانواده و حامیان او می توانند سود ببرند.",
       "title_fa": "ترامپ انرژی هسته ای، از جمله توافق عربستان را تحت فشار قرار می دهد. خانواده و حامیان او می توانند سود ببرند.",
@@ -22118,6 +22664,90 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "093d3e3802a9dbef41bebd2de9066243",
+      "title": "اکنون بیش از 320000 نفر در فرانسه و اسپانیا به دلیل ادامه گسترش آتش‌سوزی‌ها تخلیه شده‌اند.",
+      "title_fa": "اکنون بیش از 320000 نفر در فرانسه و اسپانیا به دلیل ادامه گسترش آتش‌سوزی‌ها تخلیه شده‌اند.",
+      "title_en": "More than 320,000 now evacuated in France and Spain as wildfires continue to spread",
+      "summary": "به گفته لوران نونیز، وزیر کشور فرانسه، حدود 2500 آتش نشان از جمله یک تیم سوئیسی برای مقابله با آتش سوزی در جنوب غربی فرانسه مستقر شده اند.",
+      "summary_fa": "به گفته لوران نونیز، وزیر کشور فرانسه، حدود 2500 آتش نشان از جمله یک تیم سوئیسی برای مقابله با آتش سوزی در جنوب غربی فرانسه مستقر شده اند.",
+      "summary_en": "According to French Interior Minister Laurent Nuñez, around 2,500 firefighters, including a Swiss team, have been deployed to tackle fires in southwestern France.",
+      "link": "http://www.euronews.com/my-europe/2026/07/26/more-than-220000-now-evacuated-in-gironde-as-wildfires-continue-to-spread",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 08:57:48 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "8d4553a064b33593f3d2acfa3f36f6f8",
+      "title": "هزاران نفر علیه رئیس جمهور تونس پنج سال پس از به دست گرفتن قدرت تظاهرات کردند",
+      "title_fa": "هزاران نفر علیه رئیس جمهور تونس پنج سال پس از به دست گرفتن قدرت تظاهرات کردند",
+      "title_en": "Thousands rally against Tunisia’s president five years after power grab",
+      "summary": "هزاران نفر در پایتخت تونس راهپیمایی کردند و خواستار استعفای رئیس جمهور قیس سعید شدند.",
+      "summary_fa": "هزاران نفر در پایتخت تونس راهپیمایی کردند و خواستار استعفای رئیس جمهور قیس سعید شدند.",
+      "summary_en": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 08:55:46 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "2013042cc03880597c6069301730107c",
+      "title": "تبدیل شدن به داستان: روزنامه نگاران مجروح برای ترک غزه برای درمان مبارزه می کنند",
+      "title_fa": "تبدیل شدن به داستان: روزنامه نگاران مجروح برای ترک غزه برای درمان مبارزه می کنند",
+      "title_en": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+      "summary": "روزنامه نگاران غزه که در جریان جنگ زخمی شده اند یا با بیماری دست و پنجه نرم می کنند، خواستار تخلیه فوری پزشکی به خارج از کشور هستند.",
+      "summary_fa": "روزنامه نگاران غزه که در جریان جنگ زخمی شده اند یا با بیماری دست و پنجه نرم می کنند، خواستار تخلیه فوری پزشکی به خارج از کشور هستند.",
+      "summary_en": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+      "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 08:55:10 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "183fc479357c7137db533fd163a8e878",
+      "title": "بحث اسرائیل در ایالات متحده به جوش می آید",
+      "title_fa": "بحث اسرائیل در ایالات متحده به جوش می آید",
+      "title_en": "Israel debate boils over in the United States",
+      "summary": "سیاست و رسانه های ایالات متحده واقعاً تا کجا در مورد اسرائیل تغییر کرده است؟",
+      "summary_fa": "سیاست و رسانه های ایالات متحده واقعاً تا کجا در مورد اسرائیل تغییر کرده است؟",
+      "summary_en": "How far have US politics - and media - really shifted on the topic of Israel?",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 08:53:39 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -22352,6 +22982,27 @@
       }
     },
     {
+      "id": "5db10b465f4b412c00a0db32d26c0d79",
+      "title": "یک کشته و 16 مجروح بر اثر ورود خودرو به میان جمعیت پراید برلین",
+      "title_fa": "یک کشته و 16 مجروح بر اثر ورود خودرو به میان جمعیت پراید برلین",
+      "title_en": "One dead and 16 injured as vehicle drives into Berlin Pride crowd",
+      "summary": "پلیس به دنبال مظنون است زیرا شهردار شهر \"حمله به جامعه آزاد و آزاد ما\" را محکوم می کند.",
+      "summary_fa": "پلیس به دنبال مظنون است زیرا شهردار شهر \"حمله به جامعه آزاد و آزاد ما\" را محکوم می کند.",
+      "summary_en": "Police seek suspect as city’s mayor condemns ‘attack on our free and open society’",
+      "link": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 07:05:40 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6834ca8a-5591-4a5f-9023-1c7c8c7b09cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7a713e4fcc9ab8e28be2fc03f4c8925b",
       "title": "وزینیا ستاره جام جهانی کیپ ورد با کولو کولو شیلی موافقت کرد",
       "title_fa": "وزینیا ستاره جام جهانی کیپ ورد با کولو کولو شیلی موافقت کرد",
@@ -22513,6 +23164,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F54b3fe26-c836-4437-b075-fe1aa6f17b99.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "455a95e3fbff362b8e9833f15b8743b9",
+      "title": "یک نقطه عطف پنهان آلزایمر ممکن است تعیین کند چه کسی به زوال عقل مبتلا می شود",
+      "title_fa": "یک نقطه عطف پنهان آلزایمر ممکن است تعیین کند چه کسی به زوال عقل مبتلا می شود",
+      "title_en": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+      "summary": "دانشمندان یک نقطه عطف احتمالی را شناسایی کرده اند که به تعیین اینکه آیا تغییرات مغزی مرتبط با آلزایمر منجر به زوال عقل می شود یا خیر، کمک می کند. نکته کلیدی ممکن است در نحوه واکنش سلول های ایمنی مغز به پلاک ها و تاو نهفته باشد که هدف جدیدی را برای درمان های طراحی شده برای افزایش انعطاف پذیری شناختی ارائه می دهد.",
+      "summary_fa": "دانشمندان یک نقطه عطف احتمالی را شناسایی کرده اند که به تعیین اینکه آیا تغییرات مغزی مرتبط با آلزایمر منجر به زوال عقل می شود یا خیر، کمک می کند. نکته کلیدی ممکن است در نحوه واکنش سلول های ایمنی مغز به پلاک ها و تاو نهفته باشد که هدف جدیدی را برای درمان های طراحی شده برای افزایش انعطاف پذیری شناختی ارائه می دهد.",
+      "summary_en": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 26 Jul 2026 06:14:57 EDT",
+      "date_iso": "2026-07-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -22727,6 +23399,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "350f6c78ac10b8a05de6879bcd418987",
+      "title": "Inside the Backrooms: وحشتناک ترین مکان اینترنت در حال تبدیل شدن به یک جاذبه توریستی است",
+      "title_fa": "Inside the Backrooms: وحشتناک ترین مکان اینترنت در حال تبدیل شدن به یک جاذبه توریستی است",
+      "title_en": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "summary": "The Backrooms به عنوان یک تصویر وهم انگیز از اتاق های خالی زرد شروع شد، اما کاربران اینترنت آن را به یک دنیای خیالی عظیم تبدیل کردند که به طرز آزاردهنده ای واقعی است. از طریق ویدیوها، بازی‌ها، نقشه‌ها، راهنماهای بقا و داستان‌های رسانه‌های اجتماعی، مخاطبان چیزی بیش از تماشای اتفاقات وحشتناک انجام می‌دهند. آنها به ساخت و کشف آن کمک می کنند. محققان پیشنهاد می‌کنند که این محبوبیت نشان‌دهنده نوع جدیدی از گردشگری دیجیتال است، جایی که مردم به صورت احساسی وارد مکان‌های خیالی پر از رمز و راز، نوستالژی و ناراحتی می‌شوند.",
+      "summary_fa": "The Backrooms به عنوان یک تصویر وهم انگیز از اتاق های خالی زرد شروع شد، اما کاربران اینترنت آن را به یک دنیای خیالی عظیم تبدیل کردند که به طرز آزاردهنده ای واقعی است. از طریق ویدیوها، بازی‌ها، نقشه‌ها، راهنماهای بقا و داستان‌های رسانه‌های اجتماعی، مخاطبان چیزی بیش از تماشای اتفاقات وحشتناک انجام می‌دهند. آنها به ساخت و کشف آن کمک می کنند. محققان پیشنهاد می‌کنند که این محبوبیت نشان‌دهنده نوع جدیدی از گردشگری دیجیتال است، جایی که مردم به صورت احساسی وارد مکان‌های خیالی پر از رمز و راز، نوستالژی و ناراحتی می‌شوند.",
+      "summary_en": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 26 Jul 2026 04:16:35 EDT",
+      "date_iso": "2026-07-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -22982,6 +23675,27 @@
       }
     },
     {
+      "id": "eb5175554d5eba3aea87e33ff6f538a1",
+      "title": "تنوع ژنتیکی پنهان به مارهای درختی قهوه ای رنگی کمک کرد تا گوام را فتح کنند",
+      "title_fa": "تنوع ژنتیکی پنهان به مارهای درختی قهوه ای رنگی کمک کرد تا گوام را فتح کنند",
+      "title_en": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "summary": "تهاجم بدنام مار که پرندگان بومی گوام را ویران کرد، ممکن است موفق شده باشد زیرا خزندگان دارای مزایای ژنتیکی پنهانی بودند. محققان با استفاده از توالی یابی DNA پیشرفته و طولانی مدت، بیش از 19000 تفاوت ژنتیکی بزرگ را در مارهای درختی قهوه ای کشف کردند که بسیاری از آنها در ژن های مرتبط با ایمنی و بویایی متمرکز بودند. این تنوع نادیده گرفته شده ممکن است به جمعیتی که تنها توسط چند مار ایجاد شده است کمک کرده باشد که در همخونی زنده بمانند، با محیط جدید سازگار شوند و با تراکم های فوق العاده زیاد شوند.",
+      "summary_fa": "تهاجم بدنام مار که پرندگان بومی گوام را ویران کرد، ممکن است موفق شده باشد زیرا خزندگان دارای مزایای ژنتیکی پنهانی بودند. محققان با استفاده از توالی یابی DNA پیشرفته و طولانی مدت، بیش از 19000 تفاوت ژنتیکی بزرگ را در مارهای درختی قهوه ای کشف کردند که بسیاری از آنها در ژن های مرتبط با ایمنی و بویایی متمرکز بودند. این تنوع نادیده گرفته شده ممکن است به جمعیتی که تنها توسط چند مار ایجاد شده است کمک کرده باشد که در همخونی زنده بمانند، با محیط جدید سازگار شوند و با تراکم های فوق العاده زیاد شوند.",
+      "summary_en": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 26 Jul 2026 03:15:38 EDT",
+      "date_iso": "2026-07-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "5ec24ff6eae166af1e4d5b9564ed0552",
       "title": "آتش‌سوزی‌های جنگلی فرانسه باعث تخلیه گسترده مردم در اطراف بوردو شد",
       "title_fa": "آتش‌سوزی‌های جنگلی فرانسه باعث تخلیه گسترده مردم در اطراف بوردو شد",
@@ -23084,6 +23798,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "d26efa7c3461d935b39c770e2cd617cd",
+      "title": "دانشمندان منشا تکان دهنده چشم انسان را در یک \"سیکلوپ\" باستانی ردیابی می کنند.",
+      "title_fa": "دانشمندان منشا تکان دهنده چشم انسان را در یک \"سیکلوپ\" باستانی ردیابی می کنند.",
+      "title_en": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "summary": "محققان می گویند یک اجداد کوچک یک چشم که نزدیک به 600 میلیون سال پیش می زیسته است، ممکن است تکامل چشم مهره داران از جمله چشم ما را شکل داده باشد. آنها همچنین دریافتند که چشم میانی باستانی آن امروزه به عنوان غده صنوبری زندگی می کند که به هماهنگ کردن خواب ما با نور روز کمک می کند.",
+      "summary_fa": "محققان می گویند یک اجداد کوچک یک چشم که نزدیک به 600 میلیون سال پیش می زیسته است، ممکن است تکامل چشم مهره داران از جمله چشم ما را شکل داده باشد. آنها همچنین دریافتند که چشم میانی باستانی آن امروزه به عنوان غده صنوبری زندگی می کند که به هماهنگ کردن خواب ما با نور روز کمک می کند.",
+      "summary_en": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 26 Jul 2026 01:10:29 EDT",
+      "date_iso": "2026-07-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
