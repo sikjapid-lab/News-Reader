@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-26 10:52:54",
-  "total_count": 2013,
+  "last_update": "2026-07-26 12:01:20",
+  "total_count": 2032,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -22037,6 +22037,27 @@
       }
     },
     {
+      "id": "3a5fe210efe1ae8e3b11e882a3ff4097",
+      "title": "با گسترش جنگ ایران، اوکراین به محموله های روسیه که به ایران می رفت، حمله می کند",
+      "title_fa": "با گسترش جنگ ایران، اوکراین به محموله های روسیه که به ایران می رفت، حمله می کند",
+      "title_en": "Ukraine strikes Russian Iran-bound cargo as Iran war widens",
+      "summary": "اوکراین می گوید مسیرهای دوربرد انتقال تجهیزات نظامی روسیه مرتبط با ایران را هدف قرار داده است، در حالی که زلنسکی مدعی است مسکو داده های ماهواره ای تهران را برای حملات به سایت های آمریکایی در خاورمیانه به تهران داده است.",
+      "summary_fa": "اوکراین می گوید مسیرهای دوربرد انتقال تجهیزات نظامی روسیه مرتبط با ایران را هدف قرار داده است، در حالی که زلنسکی مدعی است مسکو داده های ماهواره ای تهران را برای حملات به سایت های آمریکایی در خاورمیانه به تهران داده است.",
+      "summary_en": "Ukraine says it has struck long-range routes moving Russian military equipment linked to Iran, while Zelenskyy claims Moscow gave Tehran satellite data for attacks on US sites in the Middle East.",
+      "link": "http://www.euronews.com/2026/07/26/ukraine-strikes-russian-iran-bound-cargo-as-iran-war-widens",
+      "source": "EuroNews",
+      "published_at": "Sun, 26 Jul 2026 13:06:06 +0200",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "2c3a216e0f91241f84b96801b6c16121",
       "title": "حملات روسیه در سراسر اوکراین در 24 ساعت گذشته حداقل 8 کشته برجای گذاشته است",
       "title_fa": "حملات روسیه در سراسر اوکراین در 24 ساعت گذشته حداقل 8 کشته برجای گذاشته است",
@@ -22142,6 +22163,27 @@
       }
     },
     {
+      "id": "f888c6c53e40bff6c55358bad9f45efa",
+      "title": "به‌روزرسانی‌های زنده: گرمای شدید و بادهای شدید سوخت آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا",
+      "title_fa": "به‌روزرسانی‌های زنده: گرمای شدید و بادهای شدید سوخت آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا",
+      "title_en": "Live Updates: Extreme Heat and Strong Winds Fuel Wildfires in France and Spain",
+      "summary": "آتش نشانان در حال مهار آتش های جدید هستند در حالی که سایر آتش سوزی ها مهار شده اند و صدها هزار نفر مجبور به فرار شده اند. پیش بینی موج گرما جدید در اروپا می تواند شرایط را بدتر کند.",
+      "summary_fa": "آتش نشانان در حال مهار آتش های جدید هستند در حالی که سایر آتش سوزی ها مهار شده اند و صدها هزار نفر مجبور به فرار شده اند. پیش بینی موج گرما جدید در اروپا می تواند شرایط را بدتر کند.",
+      "summary_en": "Firefighters are tackling new blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
+      "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+      "source": "NY Times",
+      "published_at": "Sun, 26 Jul 2026 11:56:30 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26europe-fires-france-carousel-kqjm/26europe-fires-france-carousel-kqjm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "f222b6704eadcb757446b36f2de8bdc8",
       "title": "بنزین ایتالیا از 2.6 یورو بالاتر رفت: مخالفان و گروه ها زنگ خطر را به صدا در می آورند، دولت تعرفه سوخت متغیر را تعیین می کند",
       "title_fa": "بنزین ایتالیا از 2.6 یورو بالاتر رفت: مخالفان و گروه ها زنگ خطر را به صدا در می آورند، دولت تعرفه سوخت متغیر را تعیین می کند",
@@ -22163,6 +22205,132 @@
       }
     },
     {
+      "id": "8cc54a3b5c7f2c09d40fa69aec67892c",
+      "title": "Samsung Galaxy Z Fold 8 در مقابل Z Flip 8: مقایسه دو تاشو جدید سامسونگ",
+      "title_fa": "Samsung Galaxy Z Fold 8 در مقابل Z Flip 8: مقایسه دو تاشو جدید سامسونگ",
+      "title_en": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: How Samsung's two new foldables compare",
+      "summary": "تاشوهای جدید سامسونگ قابل توجه هستند، اما واقعاً چقدر از نظر مشخصات متفاوت هستند؟ بیایید مقایسه کنیم.",
+      "summary_fa": "تاشوهای جدید سامسونگ قابل توجه هستند، اما واقعاً چقدر از نظر مشخصات متفاوت هستند؟ بیایید مقایسه کنیم.",
+      "summary_en": "Samsung's new foldables are impressive, but how different are they really, by the specs? Let's compare.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
+      "source": "ZDNet",
+      "published_at": "Sun, 26 Jul 2026 11:45:39 GMT",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c65b7c53ec8f62377867b3ad6bf6d71",
+      "title": "آتش‌سوزی‌های «خشونت‌آمیز» در نزدیکی شهرهای فرانسه و اسپانیا خشمگین است",
+      "title_fa": "آتش‌سوزی‌های «خشونت‌آمیز» در نزدیکی شهرهای فرانسه و اسپانیا خشمگین است",
+      "title_en": "‘Violent’ wildfires rage close to French and Spanish cities",
+      "summary": "حدود 335000 نفر به دلیل تشدید آتش سوزی ها تخلیه شدند",
+      "summary_fa": "حدود 335000 نفر به دلیل تشدید آتش سوزی ها تخلیه شدند",
+      "summary_en": "About 335,000 evacuated in worsening blazes",
+      "link": "https://www.ft.com/content/e5bf56e2-9ad1-4778-a25b-9fbe7a3f9eb8?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 11:41:31 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F688e9b64-8063-4185-9c89-4b71f1d654df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe0e1d8c5ff6ff398b05014d27bad80b",
+      "title": "تحلیلگران برتر وال استریت از پتانسیل رشد بلندمدت این 3 سهم حمایت می کنند",
+      "title_fa": "تحلیلگران برتر وال استریت از پتانسیل رشد بلندمدت این 3 سهم حمایت می کنند",
+      "title_en": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "summary": "سرمایه گذاران با افق بلندمدت باید فراتر از سر و صداهای جاری نگاه کنند و روی سهامی تمرکز کنند که موقعیت خوبی برای ایجاد بازده قوی دارند.",
+      "summary_fa": "سرمایه گذاران با افق بلندمدت باید فراتر از سر و صداهای جاری نگاه کنند و روی سهامی تمرکز کنند که موقعیت خوبی برای ایجاد بازده قوی دارند.",
+      "summary_en": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
+      "link": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+      "source": "CNBC",
+      "published_at": "Sun, 26 Jul 2026 11:33:11 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0fccf8f054c4c8ed667d380414d9c32e",
+      "title": "\"عدم پاسخگویی در مورد جنایات جنگی شهرک نشینان علیه فلسطینی ها\"",
+      "title_fa": "\"عدم پاسخگویی در مورد جنایات جنگی شهرک نشینان علیه فلسطینی ها\"",
+      "title_en": "‘No accountability for settler war crimes against Palestinians’",
+      "summary": "\"عدم پاسخگویی در مورد جنایات جنگی شهرک نشینان علیه فلسطینی ها\"",
+      "summary_fa": "\"عدم پاسخگویی در مورد جنایات جنگی شهرک نشینان علیه فلسطینی ها\"",
+      "summary_en": "‘No accountability for settler war crimes against Palestinians’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 11:31:17 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6669a0318397dce11c7486e48c17496c",
+      "title": "در حالی که ده ها هزار نفر در نزدیکی بوردو تخلیه شده اند، آتش نشانان با آتش سوزی در جنگل مبارزه می کنند",
+      "title_fa": "در حالی که ده ها هزار نفر در نزدیکی بوردو تخلیه شده اند، آتش نشانان با آتش سوزی در جنگل مبارزه می کنند",
+      "title_en": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "summary": "در حال حاضر بیش از 330000 نفر به دلیل آتش سوزی در سراسر فرانسه و اسپانیا تخلیه شده اند.",
+      "summary_fa": "در حال حاضر بیش از 330000 نفر به دلیل آتش سوزی در سراسر فرانسه و اسپانیا تخلیه شده اند.",
+      "summary_en": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 26 Jul 2026 11:29:07 GMT",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ef/live/845a1320-88e5-11f1-bcf5-0bde7672ed32.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "9117e37927318136b6941df1cbea2655",
+      "title": "مالزی در ماه اکتبر میزبان مسابقات جایزه بزرگ فرمول یک بحرین خواهد بود",
+      "title_fa": "مالزی در ماه اکتبر میزبان مسابقات جایزه بزرگ فرمول یک بحرین خواهد بود",
+      "title_en": "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
+      "summary": "مسابقه در بحرین در ماه آوریل در بحبوحه جنگ آمریکا و اسرائیل علیه ایران برنامه ریزی شد و اکنون در مالزی برگزار می شود.",
+      "summary_fa": "مسابقه در بحرین در ماه آوریل در بحبوحه جنگ آمریکا و اسرائیل علیه ایران برنامه ریزی شد و اکنون در مالزی برگزار می شود.",
+      "summary_en": "The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.",
+      "link": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 11:28:24 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "26878f145d7f897d8c792b05f68c863d",
       "title": "\"آدمخوار دریایی\" در سراسر بالتیک گسترش می یابد و گونه های بومی را تهدید می کند",
       "title_fa": "\"آدمخوار دریایی\" در سراسر بالتیک گسترش می یابد و گونه های بومی را تهدید می کند",
@@ -22181,6 +22349,153 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1f35c467010667d384abfd03e53322f2",
+      "title": "معترضان ضد جنگ خواستار توقف استفاده آمریکا از پایگاه هوایی بریتانیا برای حمله به ایران شدند",
+      "title_fa": "معترضان ضد جنگ خواستار توقف استفاده آمریکا از پایگاه هوایی بریتانیا برای حمله به ایران شدند",
+      "title_en": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+      "summary": "فعالان ضد جنگ در خارج از یک پایگاه هوایی بریتانیا به دلیل استفاده نیروهای آمریکایی از آن برای بمباران ایران اعتراض کردند",
+      "summary_fa": "فعالان ضد جنگ در خارج از یک پایگاه هوایی بریتانیا به دلیل استفاده نیروهای آمریکایی از آن برای بمباران ایران اعتراض کردند",
+      "summary_en": "Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 11:18:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1dd2c0f8cdab23e694773ebd0c8e6fd8",
+      "title": "بهترین پدهای خواب کوله پشتی، تست شده در مسیر (2026)",
+      "title_fa": "بهترین پدهای خواب کوله پشتی، تست شده در مسیر (2026)",
+      "title_en": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+      "summary": "پدهای خواب برگزیده ما از Nemo، Therm-a-Rest، و Gossamer Gear از مواد پیشرفته برای مهندسی بهترین خوابی که می توانید در فضای باز داشته باشید استفاده می کنند.",
+      "summary_fa": "پدهای خواب برگزیده ما از Nemo، Therm-a-Rest، و Gossamer Gear از مواد پیشرفته برای مهندسی بهترین خوابی که می توانید در فضای باز داشته باشید استفاده می کنند.",
+      "summary_en": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
+      "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 11:09:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d451612a08ce297ed2c2dc4d7bc9e230",
+      "title": "داور زن فوتبال در میان غوغای بازیکنان مرد دچار ضربه مغزی شد",
+      "title_fa": "داور زن فوتبال در میان غوغای بازیکنان مرد دچار ضربه مغزی شد",
+      "title_en": "Female football referee suffers concussion amid male players’ melee",
+      "summary": "داور مسابقه ماتیلد دمنکای در جریان درگیری بازیکنان در جریان بازی دوستانه باشگاهی در فرانسه سرنگون شد.",
+      "summary_fa": "داور مسابقه ماتیلد دمنکای در جریان درگیری بازیکنان در جریان بازی دوستانه باشگاهی در فرانسه سرنگون شد.",
+      "summary_en": "Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/female-football-referee-suffers-concussion-amid-male-players-melee?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 11:00:32 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "4e36cc00ee1a84603c2f1b0eb7618068",
+      "title": "به نظر می رسد دستمزدها و بهره وری بیشتر از هم متمایز شوند",
+      "title_fa": "به نظر می رسد دستمزدها و بهره وری بیشتر از هم متمایز شوند",
+      "title_en": "Wages and productivity look set to diverge further",
+      "summary": "هوش مصنوعی و کاهش سهم نیروی کار از تولید ناخالص داخلی خطر تسریع روند جداسازی در سراسر جهان ثروتمند را دارند.",
+      "summary_fa": "هوش مصنوعی و کاهش سهم نیروی کار از تولید ناخالص داخلی خطر تسریع روند جداسازی در سراسر جهان ثروتمند را دارند.",
+      "summary_en": "AI and a falling labour share of GDP risk accelerating decoupling trends across the rich world",
+      "link": "https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 11:00:07 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a6c481e-23b8-400e-9f45-0f63bb6d8067.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "51296bbb8cc994f0f69f93ee0fb0bd5a",
+      "title": "همه راه هایی که می توانید خواندن در تلفن خود را آسان تر کنید",
+      "title_fa": "همه راه هایی که می توانید خواندن در تلفن خود را آسان تر کنید",
+      "title_en": "All the Ways You Can Make Reading on Your Phone Easier",
+      "summary": "از خستگی چشم خسته شده اید؟ این نکات به بهینه سازی گوشی هوشمند شما برای جلسات ماراتن مطالعه کمک می کند.",
+      "summary_fa": "از خستگی چشم خسته شده اید؟ این نکات به بهینه سازی گوشی هوشمند شما برای جلسات ماراتن مطالعه کمک می کند.",
+      "summary_en": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
+      "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+      "source": "Wired",
+      "published_at": "Sun, 26 Jul 2026 11:00:00 +0000",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4057ce91a25c427fead4caffa887b2cf",
+      "title": "در حالی که عمان به دنبال توافق ترانزیت هرمز است، ایالات متحده حملات ایران را متوقف می کند",
+      "title_fa": "در حالی که عمان به دنبال توافق ترانزیت هرمز است، ایالات متحده حملات ایران را متوقف می کند",
+      "title_en": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
+      "summary": "هیچ یک از طرفین برای دومین شب متوالی حملاتی را آغاز نمی کنند زیرا میانجی ها به دنبال جلوگیری از بازگشت به جنگ تمام عیار هستند.",
+      "summary_fa": "هیچ یک از طرفین برای دومین شب متوالی حملاتی را آغاز نمی کنند زیرا میانجی ها به دنبال جلوگیری از بازگشت به جنگ تمام عیار هستند.",
+      "summary_en": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
+      "link": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 10:58:39 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F26ca8a9e-2d01-4a9c-981a-1c37668eb254.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c5a349d4e4edd52f5ed1085e44475b08",
+      "title": "چرا بریتانیا یک مانور نظامی در کنیا را لغو کرد - و معنی آن چیست؟",
+      "title_fa": "چرا بریتانیا یک مانور نظامی در کنیا را لغو کرد - و معنی آن چیست؟",
+      "title_en": "Why the UK cancelled a military exercise in Kenya – and what it means",
+      "summary": "اختلاف بر سر همکاری نظامی و پاسخگویی، شراکت چند دهه ای بریتانیا و کنیا را تحت فشار قرار داده است.",
+      "summary_fa": "اختلاف بر سر همکاری نظامی و پاسخگویی، شراکت چند دهه ای بریتانیا و کنیا را تحت فشار قرار داده است.",
+      "summary_en": "A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 10:47:27 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -22240,6 +22555,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6dd83ab3d9592838b5bbc2237471633b",
+      "title": "معترضان ژنرال Z هند هاله شکست ناپذیری مودی را سوراخ می کنند",
+      "title_fa": "معترضان ژنرال Z هند هاله شکست ناپذیری مودی را سوراخ می کنند",
+      "title_en": "India’s Gen Z protesters puncture Modi’s aura of invincibility",
+      "summary": "نخست‌وزیر دیرینه هدف خشم تظاهرکنندگان است",
+      "summary_fa": "نخست‌وزیر دیرینه هدف خشم تظاهرکنندگان است",
+      "summary_en": "Long-serving premier the target of demonstrators’ anger",
+      "link": "https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 10:43:58 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4bf12e61-c137-45d9-8f59-ab6dd1aa0e0c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -22860,6 +23196,27 @@
       "title": "یورش اسرائیل به کرانه باختری: ده ها فلسطینی در جریان حمله بازداشت شدند",
       "title_fa": "یورش اسرائیل به کرانه باختری: ده ها فلسطینی در جریان حمله بازداشت شدند",
       "title_en": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+      "summary": "تهاجم ها و دستگیری ها در حالی ادامه دارد که ساکنان وحشت زده فلسطینی برای حملات نظامی و شهرک نشینان آماده می شوند.",
+      "summary_fa": "تهاجم ها و دستگیری ها در حالی ادامه دارد که ساکنان وحشت زده فلسطینی برای حملات نظامی و شهرک نشینان آماده می شوند.",
+      "summary_en": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 26 Jul 2026 07:55:30 +0000",
+      "date_iso": "2026-07-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "8efbbc49e42b75b68c769ec8444a7801",
+      "title": "حمله اسرائیل به کرانه باختری: نخست وزیر نتانیاهو تهدید به اقدام گسترده تر کرد",
+      "title_fa": "حمله اسرائیل به کرانه باختری: نخست وزیر نتانیاهو تهدید به اقدام گسترده تر کرد",
+      "title_en": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
       "summary": "تهاجم ها و دستگیری ها در حالی ادامه دارد که ساکنان وحشت زده فلسطینی برای حملات نظامی و شهرک نشینان آماده می شوند.",
       "summary_fa": "تهاجم ها و دستگیری ها در حالی ادامه دارد که ساکنان وحشت زده فلسطینی برای حملات نظامی و شهرک نشینان آماده می شوند.",
       "summary_en": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
@@ -23567,6 +23924,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d5fd18ea3576609aa4b7a6de4a0b5ee5",
+      "title": "چگونه چین از اختلافات اتحادیه اروپا بر سر تجارت استفاده می کند",
+      "title_fa": "چگونه چین از اختلافات اتحادیه اروپا بر سر تجارت استفاده می کند",
+      "title_en": "How China exploits EU divisions over trade",
+      "summary": "به گفته تحلیلگران، کشورهای عضو و شرکت‌ها در برابر اجبار پکن آسیب‌پذیر هستند.",
+      "summary_fa": "به گفته تحلیلگران، کشورهای عضو و شرکت‌ها در برابر اجبار پکن آسیب‌پذیر هستند.",
+      "summary_en": "Individual member states and companies vulnerable to coercion from Beijing, say analysts",
+      "link": "https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 26 Jul 2026 04:00:08 GMT",
+      "date_iso": "2026-07-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e9b6ea3-2a01-4811-9e04-d2382ab99949.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
@@ -39059,6 +39437,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3af884d334d3352d79207c3508d968eb",
+      "title": "تصاحب ویدیوی عمودی اینجاست",
+      "title_fa": "تصاحب ویدیوی عمودی اینجاست",
+      "title_en": "The vertical video takeover is here",
+      "summary": "این استپ بک، یک خبرنامه هفتگی است که یک داستان ضروری از دنیای فناوری را شرح می دهد. برای اطلاعات بیشتر در مورد همه چیزهای ویدیوی عمودی، دیوید پیرس را دنبال کنید. Stepback روز یکشنبه ساعت 8 صبح به وقت شرقی به صندوق ورودی مشترکان ما می رسد. در اینجا برای The Stepback انتخاب کنید. چگونه شروع شد برای مدتی، هر پلتفرم اجتماعی و رسانه ای […]",
+      "summary_fa": "این استپ بک، یک خبرنامه هفتگی است که یک داستان ضروری از دنیای فناوری را شرح می دهد. برای اطلاعات بیشتر در مورد همه چیزهای ویدیوی عمودی، دیوید پیرس را دنبال کنید. Stepback روز یکشنبه ساعت 8 صبح به وقت شرقی به صندوق ورودی مشترکان ما می رسد. در اینجا برای The Stepback انتخاب کنید. چگونه شروع شد برای مدتی، هر پلتفرم اجتماعی و رسانه ای […]",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social and media platform […]",
+      "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+      "source": "The Verge",
+      "published_at": "2026-07-26T08:00:00-04:00",
+      "date_iso": "2026-07-26",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
