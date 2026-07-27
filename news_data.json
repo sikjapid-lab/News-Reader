@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-27 15:09:52",
-  "total_count": 2420,
+  "last_update": "2026-07-27 17:10:29",
+  "total_count": 2484,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -31592,6 +31592,90 @@
       }
     },
     {
+      "id": "c9a605ab2340f696713dc79d821ada3b",
+      "title": "چرا یک سیگاری به سرطان مبتلا می شود و دیگری نه: یک مطالعه سرنخ هایی را ارائه می دهد",
+      "title_fa": "چرا یک سیگاری به سرطان مبتلا می شود و دیگری نه: یک مطالعه سرنخ هایی را ارائه می دهد",
+      "title_en": "Why one smoker gets cancer and another doesn't: a study provides clues",
+      "summary": "برای اولین بار دانشمندان شواهدی در مورد تأثیر آرایش ژنتیکی بر ابتلا به سرطان ارائه کردند که بر نیاز به در نظر گرفتن مراقبت های شخصی تأکید می کند.",
+      "summary_fa": "برای اولین بار دانشمندان شواهدی در مورد تأثیر آرایش ژنتیکی بر ابتلا به سرطان ارائه کردند که بر نیاز به در نظر گرفتن مراقبت های شخصی تأکید می کند.",
+      "summary_en": "For the first time scientists provided evidence on the effect genetic makeup has on developing cancer, underscoring the need to take personalised care into account.",
+      "link": "http://www.euronews.com/health/2026/07/27/why-one-smoker-gets-cancer-and-another-doesnt-a-study-provides-clues",
+      "source": "EuroNews",
+      "published_at": "Mon, 27 Jul 2026 18:27:11 +0200",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5fde29a1c93ce703ea39c939bd0187f8",
+      "title": "آخرین بولتن اخبار | 27 ژوئیه 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 27 ژوئیه 2026 - عصر",
+      "title_en": "Latest news bulletin | July 27th, 2026 – Evening",
+      "summary": "در 27 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 27 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 27th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/27/latest-news-bulletin-july-27th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Mon, 27 Jul 2026 18:00:29 +0200",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "72de9f6b5d708da136d60a2ab604d0be",
+      "title": "\"آنها باید زودتر وارد می شدند\": برلینی ها با واکنش دولت به حمله مرگبار پراید دست و پنجه نرم می کنند",
+      "title_fa": "\"آنها باید زودتر وارد می شدند\": برلینی ها با واکنش دولت به حمله مرگبار پراید دست و پنجه نرم می کنند",
+      "title_en": "'They should have stepped in earlier': Berliners grapple with state response to deadly Pride attack",
+      "summary": "مقامات مجری قانون آلمان به دلیل ناکامی در جلوگیری از حمله مرگبار خودرو و قمه در نزدیکی رژه پراید برلین در روز شنبه با انتقاد مواجه شدند.",
+      "summary_fa": "مقامات مجری قانون آلمان به دلیل ناکامی در جلوگیری از حمله مرگبار خودرو و قمه در نزدیکی رژه پراید برلین در روز شنبه با انتقاد مواجه شدند.",
+      "summary_en": "German law enforcement authorities faced criticism for failing to prevent a deadly vehicle and machete attack near Berlin's Pride parade on Saturday.",
+      "link": "http://www.euronews.com/my-europe/2026/07/27/they-should-have-stepped-in-earlier-berliners-grapple-with-state-response-to-deadly-pride-",
+      "source": "EuroNews",
+      "published_at": "Mon, 27 Jul 2026 17:17:58 +0200",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5e6f59aa0dc3b7554122d8d1b335c98f",
+      "title": "آتش سوزی های جنگلی اسپانیا در سراسر استان اویلا ویرانی به جا گذاشت",
+      "title_fa": "آتش سوزی های جنگلی اسپانیا در سراسر استان اویلا ویرانی به جا گذاشت",
+      "title_en": "Spain wildfires leave destruction across Ávila province",
+      "summary": "آتش‌نشانان با آتش‌سوزی‌های جنگلی در مرکز اسپانیا مبارزه می‌کنند، زیرا خانه‌های سوخته، خودروها و مناظر سوخته ویرانی در سراسر استان اویلا را آشکار می‌کنند.",
+      "summary_fa": "آتش‌نشانان با آتش‌سوزی‌های جنگلی در مرکز اسپانیا مبارزه می‌کنند، زیرا خانه‌های سوخته، خودروها و مناظر سوخته ویرانی در سراسر استان اویلا را آشکار می‌کنند.",
+      "summary_en": "Firefighters battle wildfires in central Spain as burned homes, cars and scorched landscapes reveal the devastation across Ávila province.",
+      "link": "http://www.euronews.com/video/2026/07/27/spain-wildfires-leave-destruction-across-avila-province",
+      "source": "EuroNews",
+      "published_at": "Mon, 27 Jul 2026 17:12:38 +0200",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "61241f0548ecaddfaf3832aa628b7ef5",
       "title": "از پهپادهای گارپیا تا رقیب استارلینک: اروپا به قدرت نظامی روسیه حمله می کند",
       "title_fa": "از پهپادهای گارپیا تا رقیب استارلینک: اروپا به قدرت نظامی روسیه حمله می کند",
@@ -31634,6 +31718,174 @@
       }
     },
     {
+      "id": "3a907028501ad0af97d821cd499a1661",
+      "title": "نتانیاهو و زلنسکی برای مراسم تشییع جنازه گراهام و دیدار با ترامپ در بحبوحه جنگ به دی سی آمدند.",
+      "title_fa": "نتانیاهو و زلنسکی برای مراسم تشییع جنازه گراهام و دیدار با ترامپ در بحبوحه جنگ به دی سی آمدند.",
+      "title_en": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
+      "summary": "مراسم تشییع جنازه سناتور لیندزی گراهام در حالی رهبران جهان را به واشنگتن می آورد که بسیاری در بحبوحه جنگ ها مشتاق دیدار با رئیس جمهور دونالد ترامپ هستند.",
+      "summary_fa": "مراسم تشییع جنازه سناتور لیندزی گراهام در حالی رهبران جهان را به واشنگتن می آورد که بسیاری در بحبوحه جنگ ها مشتاق دیدار با رئیس جمهور دونالد ترامپ هستند.",
+      "summary_en": "The funeral for Sen. Lindsey Graham is bringing world leaders to Washington at a time when many are eager to meet with President Donald Trump amid wars.",
+      "link": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 17:03:02 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "1d157410b98a6c74c67cd0a52a42ba20",
+      "title": "JetBlue گزینه‌های کرایه را از ابتدایی تا اقتصادی انعطاف‌پذیر اصلاح می‌کند. در اینجا چیزی است که باید بدانید",
+      "title_fa": "JetBlue گزینه‌های کرایه را از ابتدایی تا اقتصادی انعطاف‌پذیر اصلاح می‌کند. در اینجا چیزی است که باید بدانید",
+      "title_en": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
+      "summary": "JetBlue محصول \"Core\" خود را کنار می گذارد و بلیط های اقتصادی را تحت نام جدیدی قرار می دهد.",
+      "summary_fa": "JetBlue محصول \"Core\" خود را کنار می گذارد و بلیط های اقتصادی را تحت نام جدیدی قرار می دهد.",
+      "summary_en": "JetBlue is doing away with its \"Core\" product and putting economy tickets under a new name.",
+      "link": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 17:00:01 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afe11673bc1e8f3420fe6f089fb4014d",
+      "title": "معترضان \"سوسری\" هند متفرق می شوند، اما سوالات در مورد آموزش و مخالفت باقی می ماند",
+      "title_fa": "معترضان \"سوسری\" هند متفرق می شوند، اما سوالات در مورد آموزش و مخالفت باقی می ماند",
+      "title_en": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+      "summary": "جنبش \"سوسک\" متفرق شد و گفت که خواسته هایش برآورده شده است، اما مسائل بزرگ تری در مورد سیستم آموزشی کشور و آینده مخالفان وجود دارد.",
+      "summary_fa": "جنبش \"سوسک\" متفرق شد و گفت که خواسته هایش برآورده شده است، اما مسائل بزرگ تری در مورد سیستم آموزشی کشور و آینده مخالفان وجود دارد.",
+      "summary_en": "The ‘Cockroach’ movement dispersed, saying its demands had been met, but there are larger issues about the country’s education system and the future of dissent.",
+      "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
+      "source": "NY Times",
+      "published_at": "Mon, 27 Jul 2026 16:59:44 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27INDIA-PROTESTS-ANALYSIS-01-jfhl/27INDIA-PROTESTS-ANALYSIS-01-jfhl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "73507b381efbaee78b4b12ff201e6bdb",
+      "title": "ChatGPT شبیه سازی صدای نویسندگان معروف را متوقف می کند اما ممکن است \"احساس مشابه\" را به تصویر بکشد.",
+      "title_fa": "ChatGPT شبیه سازی صدای نویسندگان معروف را متوقف می کند اما ممکن است \"احساس مشابه\" را به تصویر بکشد.",
+      "title_en": "ChatGPT stops cloning famous writers’ voices but may capture a \"similar feeling\"",
+      "summary": "رفتار جدیدی که «ویژگی‌های گسترده» یک نویسنده را به تصویر می‌کشد، می‌تواند پیامدهای قانونی داشته باشد.",
+      "summary_fa": "رفتار جدیدی که «ویژگی‌های گسترده» یک نویسنده را به تصویر می‌کشد، می‌تواند پیامدهای قانونی داشته باشد.",
+      "summary_en": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 16:58:46 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4b73d6e1321daa79239ddd5f45945b60",
+      "title": "تیراندازی به کنسولگری آمریکا در تورنتو برای دومین بار در سال جاری",
+      "title_fa": "تیراندازی به کنسولگری آمریکا در تورنتو برای دومین بار در سال جاری",
+      "title_en": "Shots fired at US consulate in Toronto for a second time this year",
+      "summary": "پلیس گفت که آنها در تعقیب و گریز خودروهای پرسرعت شرکت کردند اما موفق به دستگیری مظنون نشدند که همچنان متواری است. سه نفر در ماه ژوئن پس از حمله مشابه دستگیر شدند.",
+      "summary_fa": "پلیس گفت که آنها در تعقیب و گریز خودروهای پرسرعت شرکت کردند اما موفق به دستگیری مظنون نشدند که همچنان متواری است. سه نفر در ماه ژوئن پس از حمله مشابه دستگیر شدند.",
+      "summary_en": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 16:56:57 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7bb/live/b02f9420-89da-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26bb6dcff806e2d64fd18ce97e2a0f44",
+      "title": "کومی از قاضی خواست تا پرونده «صدف دریایی» ترامپ را به دلیل عدم وجود «تهدید واقعی» رد کند.",
+      "title_fa": "کومی از قاضی خواست تا پرونده «صدف دریایی» ترامپ را به دلیل عدم وجود «تهدید واقعی» رد کند.",
+      "title_en": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
+      "summary": "جیمز کومی، مدیر سابق اف‌بی‌آی متهم به تهدید به قتل دونالد ترامپ، رئیس‌جمهور آمریکا با انتشار عکسی در اینستاگرام از صدف‌هایی است که پیام «۸۶۴۷» را تشکیل می‌دهند.",
+      "summary_fa": "جیمز کومی، مدیر سابق اف‌بی‌آی متهم به تهدید به قتل دونالد ترامپ، رئیس‌جمهور آمریکا با انتشار عکسی در اینستاگرام از صدف‌هایی است که پیام «۸۶۴۷» را تشکیل می‌دهند.",
+      "summary_en": "Ex-FBI Director James Comey is charged with threatening to kill President Donald Trump by posting an Instagram photo of seashells forming the message \"8647.\"",
+      "link": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 16:54:29 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6e8075f2cc13134d0edade0bbab5bc9c",
+      "title": "من یک لینوکس جدید دبیان را آزمایش کردم که با هوش مصنوعی محلی بارگذاری شده بود - ببینید آیا برای شما مناسب است یا خیر",
+      "title_fa": "من یک لینوکس جدید دبیان را آزمایش کردم که با هوش مصنوعی محلی بارگذاری شده بود - ببینید آیا برای شما مناسب است یا خیر",
+      "title_en": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
+      "summary": "با Shadowfetch آشنا شوید: اگر هوش مصنوعی جم و لینوکس سیستم عامل شما است، بهترین راه برای امتحان کردن این توزیع جدید مبتنی بر دبیان در اینجا وجود دارد.",
+      "summary_fa": "با Shadowfetch آشنا شوید: اگر هوش مصنوعی جم و لینوکس سیستم عامل شما است، بهترین راه برای امتحان کردن این توزیع جدید مبتنی بر دبیان در اینجا وجود دارد.",
+      "summary_en": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
+      "link": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
+      "source": "ZDNet",
+      "published_at": "Mon, 27 Jul 2026 16:53:13 GMT",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2b876bad826a112f5983bf92ad1552e3",
+      "title": "در میان آتش سوزی های جنگلی فرانسه، برخی از ساکنان به آتش نشانان کمک می کنند تا آتش سوزی را مهار کنند",
+      "title_fa": "در میان آتش سوزی های جنگلی فرانسه، برخی از ساکنان به آتش نشانان کمک می کنند تا آتش سوزی را مهار کنند",
+      "title_en": "Amid France Wildfires, Some Residents Help Firefighters Contain Blazes",
+      "summary": "با نازک شدن آتش نشانان، داوطلبان با استفاده از مخازن آب، شلنگ و تراکتور برای مهار شعله های آتش از روستاها و مزارع در جنوب غربی فرانسه، خود را در معرض خطر قرار دادند.",
+      "summary_fa": "با نازک شدن آتش نشانان، داوطلبان با استفاده از مخازن آب، شلنگ و تراکتور برای مهار شعله های آتش از روستاها و مزارع در جنوب غربی فرانسه، خود را در معرض خطر قرار دادند.",
+      "summary_en": "With firefighters stretched thin, volunteers put themselves at risk, using water tanks, hoses and tractors to hold back flames from villages and farms in southwestern France.",
+      "link": "https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html",
+      "source": "NY Times",
+      "published_at": "Mon, 27 Jul 2026 16:52:12 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27euro-promo-qtwl/27euro-promo-qtwl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "785965428fbfa9334f9d78f4b431490c",
       "title": "خاخام ها برای تسلیت به منظور نشان دادن پیوندهای بین ادیان به دیدار امیر قطر می روند",
       "title_fa": "خاخام ها برای تسلیت به منظور نشان دادن پیوندهای بین ادیان به دیدار امیر قطر می روند",
@@ -31648,6 +31900,258 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1b6d36c4b7d4e045d992e18a0309d624",
+      "title": "این صندوق سرمایه گذاری کوچک برای برنده شدن در بازی های گزارش درآمد شرکت ها ساخته شده است",
+      "title_fa": "این صندوق سرمایه گذاری کوچک برای برنده شدن در بازی های گزارش درآمد شرکت ها ساخته شده است",
+      "title_en": "This small-cap fund is built to win the earnings-report games companies play",
+      "summary": "براندون نلسون از سرمایه گذاری کالاموس، الگوی ضرب و شتم و افزایش سود فصل را در شناسایی شرکت هایی که برای رشد پایدار و بهبود حاشیه سود آماده شده اند، در نظر می گیرد.",
+      "summary_fa": "براندون نلسون از سرمایه گذاری کالاموس، الگوی ضرب و شتم و افزایش سود فصل را در شناسایی شرکت هایی که برای رشد پایدار و بهبود حاشیه سود آماده شده اند، در نظر می گیرد.",
+      "summary_en": "Brandon Nelson of Calamos Investments considers the earnings-season beat-and-raise pattern in identifying companies primed for sustainable growth and improving profit margins.",
+      "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 16:48:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-26940189",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "01ce5ce27c481a97bc07d604423cd345",
+      "title": "فرانسه و اسپانیا برای مهار آتش سوزی های عظیم قبل از شروع موج گرمای تازه رقابت می کنند",
+      "title_fa": "فرانسه و اسپانیا برای مهار آتش سوزی های عظیم قبل از شروع موج گرمای تازه رقابت می کنند",
+      "title_en": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "summary": "مقامات از روزهای «کاملاً بحرانی» برای آتش نشانان قبل از افزایش مجدد از اواسط هفته صحبت می کنند. ادامه مطلب...",
+      "summary_fa": "مقامات از روزهای «کاملاً بحرانی» برای آتش نشانان قبل از افزایش مجدد از اواسط هفته صحبت می کنند. ادامه مطلب...",
+      "summary_en": "Officials talk of ‘absolutely critical’ days for firefighters before rise again from middle of the weekFirefighters in France and Spain are racing to bring huge wildfires under control before another heatwave later this week that will complicate efforts to tame the flames.Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday onwards. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 16:36:30 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9719db8f2716e9050d9cb16570f425a1fd8d11ce/131_0_2720_2176/master/2720.jpg?width=140&quality=85&auto=format&fit=max&s=52af21ce3ebb3aecf509d507838803d8",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "dab755fe11bd457ee2947473eb541b6b",
+      "title": "پزشکان می گویند که سناتور مک کانل هنوز اجازه نداده است که پس از سقوط به سر کار بازگردد",
+      "title_fa": "پزشکان می گویند که سناتور مک کانل هنوز اجازه نداده است که پس از سقوط به سر کار بازگردد",
+      "title_en": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
+      "summary": "دفتر مک کانل یک بیانیه مطبوعاتی را به اشتراک گذاشت که شامل بیانیه ای کتبی از سناتور بود که در آن به دلیل ناتوانی در شرکت در پیک نیک سالانه کنتاکی عذرخواهی کرده بود.",
+      "summary_fa": "دفتر مک کانل یک بیانیه مطبوعاتی را به اشتراک گذاشت که شامل بیانیه ای کتبی از سناتور بود که در آن به دلیل ناتوانی در شرکت در پیک نیک سالانه کنتاکی عذرخواهی کرده بود.",
+      "summary_en": "McConnell's office shared a press release that included a written statement from the senator apologizing for being unable to attend an annual Kentucky picnic.",
+      "link": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 16:36:30 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ab75d6153df9cdcd01a3c869bfe70e3",
+      "title": "سهام SpaceX با وجود پرواز تقریباً بی‌عیب استارشیپ به پایین‌ترین حد خود می‌رسد",
+      "title_fa": "سهام SpaceX با وجود پرواز تقریباً بی‌عیب استارشیپ به پایین‌ترین حد خود می‌رسد",
+      "title_en": "SpaceX’s stock falls to a new low despite a near-flawless Starship flight",
+      "summary": "گزارش درآمد اسپیس ایکس در هفته آینده می تواند موج بیشتری از فروش را ایجاد کند، زیرا برخی از افراد داخلی به زودی می توانند سهام را تخلیه کنند.",
+      "summary_fa": "گزارش درآمد اسپیس ایکس در هفته آینده می تواند موج بیشتری از فروش را ایجاد کند، زیرا برخی از افراد داخلی به زودی می توانند سهام را تخلیه کنند.",
+      "summary_en": "SpaceX’s earnings report next week could unleash a further wave of selling, as some insiders will soon be able to unload shares.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 16:36:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-45279101",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c74cf56e063d47d4af3c38136d7b2e3",
+      "title": "اوکراین تهدیدهای ایران را رد می کند زیرا حمله دریای خزر مستقیماً جنگ ها را به هم مرتبط می کند",
+      "title_fa": "اوکراین تهدیدهای ایران را رد می کند زیرا حمله دریای خزر مستقیماً جنگ ها را به هم مرتبط می کند",
+      "title_en": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "summary": "ایران با خشم به حمله به کشتی واکنش نشان داده است و وزیر امور خارجه تهران گفته است که این حمله \"نمی‌تواند بی پاسخ بماند\".",
+      "summary_fa": "ایران با خشم به حمله به کشتی واکنش نشان داده است و وزیر امور خارجه تهران گفته است که این حمله \"نمی‌تواند بی پاسخ بماند\".",
+      "summary_en": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 16:33:05 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a3e/live/b5882cf0-1d6c-11f1-b048-c9424b2cf5fd.png",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "bd3e4d0042d28f40a85e9953dd113bfb",
+      "title": "سرباز دوران پینوشه به جرم قتل خواننده فولکلور ویکتور خارا 53 سال پیش به زندان افتاد",
+      "title_fa": "سرباز دوران پینوشه به جرم قتل خواننده فولکلور ویکتور خارا 53 سال پیش به زندان افتاد",
+      "title_en": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
+      "summary": "نلسون هاسه مازی به جرم قتل خارا در سال 2023 محکوم شد، اما از دست مقامات شیلی گریخت. بیش از 50 سال پس از قتل ویکتور خارا، خواننده فولکلور شیلیایی، آخرین مرد تحت تعقیب در ارتباط با مرگ او ردیابی و به دست عدالت سپرده شد. به اتهام قتل خارا و یک مرد دیگر به طور غیابی محکوم شد. ادامه مطلب...",
+      "summary_fa": "نلسون هاسه مازی به جرم قتل خارا در سال 2023 محکوم شد، اما از دست مقامات شیلی گریخت. بیش از 50 سال پس از قتل ویکتور خارا، خواننده فولکلور شیلیایی، آخرین مرد تحت تعقیب در ارتباط با مرگ او ردیابی و به دست عدالت سپرده شد. به اتهام قتل خارا و یک مرد دیگر به طور غیابی محکوم شد. ادامه مطلب...",
+      "summary_en": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice.Nelson Haase Mazzei, a retired colonel, fled from authorities in 2023 after he and six other retired soldiers were sentenced in absentia for murdering Jara and another man. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 16:27:44 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/924e4efcc644c3ea190cbf7970f8a29370732191/0_5_2048_1638/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=2849e63966ace262ddca981c9853639c",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "96cd491881ef01631798a7e6c2b9d681",
+      "title": "تیراندازی در نزدیکی کنسولگری آمریکا در کانادا برای دومین بار در چهار ماه گذشته",
+      "title_fa": "تیراندازی در نزدیکی کنسولگری آمریکا در کانادا برای دومین بار در چهار ماه گذشته",
+      "title_en": "Shots fired near US consulate in Canada for second time in four months",
+      "summary": "در تیراندازی در نزدیکی محوطه تورنتو هیچ کسی مجروح نشده است و هیچ مظنونی شناسایی نشده است، پلیس می گوید تیراندازی در نزدیکی کنسولگری ایالات متحده در تورنتو در اوایل روز دوشنبه شلیک شد اما در دومین تیراندازی در نزدیکی مجتمع دیپلماتیک در چهار ماه گذشته کسی زخمی نشد.",
+      "summary_fa": "در تیراندازی در نزدیکی محوطه تورنتو هیچ کسی مجروح نشده است و هیچ مظنونی شناسایی نشده است، پلیس می گوید تیراندازی در نزدیکی کنسولگری ایالات متحده در تورنتو در اوایل روز دوشنبه شلیک شد اما در دومین تیراندازی در نزدیکی مجتمع دیپلماتیک در چهار ماه گذشته کسی زخمی نشد.",
+      "summary_en": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police sayShots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the diplomatic compound in four months.“Officers heard a firearm being discharged in the area,” and “a white sedan was seen fleeing the scene”, Toronto police said on X. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 16:20:56 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/42532290ef03db65c9ca46041071a3728e010ad6/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=40397ed71162d8e2d4d2757b0988fda1",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d02f5e8384e78541f90208109b73864a",
+      "title": "یک سرباز نیجریه ای به دلیل اطلاع از جنایتکاران دستگیر می شود - اما آیا این موضوع عمیق تر می شود؟",
+      "title_fa": "یک سرباز نیجریه ای به دلیل اطلاع از جنایتکاران دستگیر می شود - اما آیا این موضوع عمیق تر می شود؟",
+      "title_en": "A Nigerian soldier is arrested for tipping off criminals - but does it go deeper?",
+      "summary": "بازداشت یک سرباز این نگرانی را برانگیخته است که سربازان در چالش های امنیتی کشور مشارکت دارند.",
+      "summary_fa": "بازداشت یک سرباز این نگرانی را برانگیخته است که سربازان در چالش های امنیتی کشور مشارکت دارند.",
+      "summary_en": "A private's detention reignites concerns that troops are contributing to the country's security challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 16:19:50 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e43b/live/804602e0-89d4-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef0ea60f42aa947a43ba497a43ff710c",
+      "title": "Big Tech مصرف کنندگان را مجبور می کند تا برای رونق هوش مصنوعی خود هزینه کنند. رای دهندگان در حال عقب نشینی هستند.",
+      "title_fa": "Big Tech مصرف کنندگان را مجبور می کند تا برای رونق هوش مصنوعی خود هزینه کنند. رای دهندگان در حال عقب نشینی هستند.",
+      "title_en": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+      "summary": "تنظیم‌کننده‌های ایالتی شرکت Big Tech را وادار می‌کنند تا هزینه ساخت شبکه خود را بپردازد و سهام شرکت‌های سنتی را در معرض یک حسابرسی سیاسی قرار دهند.",
+      "summary_fa": "تنظیم‌کننده‌های ایالتی شرکت Big Tech را وادار می‌کنند تا هزینه ساخت شبکه خود را بپردازد و سهام شرکت‌های سنتی را در معرض یک حسابرسی سیاسی قرار دهند.",
+      "summary_en": "State regulators are making Big Tech pay for its own grid build-out — leaving traditional utility stocks exposed to a political reckoning.",
+      "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 16:18:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02949966",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "85086fe9987a07d30bf83600dab98072",
+      "title": "سهام میکرون و سایر تراشه‌ها در حالی که چین در کانون توجه است، سقوط می‌کند",
+      "title_fa": "سهام میکرون و سایر تراشه‌ها در حالی که چین در کانون توجه است، سقوط می‌کند",
+      "title_en": "Micron and other chip stocks fall as China steals the spotlight",
+      "summary": "CXMT اولین حضور عمومی قدرتمندی در شانگهای داشت و اکنون سرمایه گذاران در حال ارزیابی چشم انداز یک پیشرفت در تولید هستند که می تواند صنعت تراشه چین را رقابتی تر کند.",
+      "summary_fa": "CXMT اولین حضور عمومی قدرتمندی در شانگهای داشت و اکنون سرمایه گذاران در حال ارزیابی چشم انداز یک پیشرفت در تولید هستند که می تواند صنعت تراشه چین را رقابتی تر کند.",
+      "summary_en": "CXMT had a strong public debut in Shanghai, and now investors are weighing the prospect of a manufacturing breakthrough that could make China’s chip industry more competitive.",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 16:17:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-45953861",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "c2864246cc64faaab1a7e21a7e0255c7",
+      "title": "\"احساس حضور در یک فیلم فاجعه آمیز بود\": عدم اطمینان پس از تخلیه از آتش سوزی جنگل ژیروند فرانسه",
+      "title_fa": "\"احساس حضور در یک فیلم فاجعه آمیز بود\": عدم اطمینان پس از تخلیه از آتش سوزی جنگل ژیروند فرانسه",
+      "title_en": "‘It felt like being in a disaster movie’: uncertainty after evacuation from France’s Gironde wildfire",
+      "summary": "ساکنان ترس خود را توصیف می کنند زیرا مجبور به ترک خانه های خود به دلیل آتش سوزی «بسیار شدید» شدند. کریشما، مترجم و همسرش نصیر، برای اولین بار زمانی که یک ابر سیاه عجیب آسمان را در میانه روز تاریک کرد، در آپارتمان حومه شهر خود در مرینیاک در حومه بوردو نشسته بودند. سپس بوی سوزش تلخی هوای بیرون را پر کرد. نصیر، یک فارغ التحصیل ادبیات انگلیسی از کابل که هفت سال است در فرانسه زندگی می کند، گفت: \"آسمان رنگش را تغییر داد. به نظر می رسید که ابر است اما دود خورشید را پوشانده بود - این یک پدیده طبیعی نبود. به نظر واقعی نمی رسید.\" ما نمی توانستیم به راحتی نفس بکشیم، شما می توانستید آن را در ریه های خود احساس کنید. ادامه مطلب...",
+      "summary_fa": "ساکنان ترس خود را توصیف می کنند زیرا مجبور به ترک خانه های خود به دلیل آتش سوزی «بسیار شدید» شدند. کریشما، مترجم و همسرش نصیر، برای اولین بار زمانی که یک ابر سیاه عجیب آسمان را در میانه روز تاریک کرد، در آپارتمان حومه شهر خود در مرینیاک در حومه بوردو نشسته بودند. سپس بوی سوزش تلخی هوای بیرون را پر کرد. نصیر، یک فارغ التحصیل ادبیات انگلیسی از کابل که هفت سال است در فرانسه زندگی می کند، گفت: \"آسمان رنگش را تغییر داد. به نظر می رسید که ابر است اما دود خورشید را پوشانده بود - این یک پدیده طبیعی نبود. به نظر واقعی نمی رسید.\" ما نمی توانستیم به راحتی نفس بکشیم، شما می توانستید آن را در ریه های خود احساس کنید. ادامه مطلب...",
+      "summary_en": "Residents describe their fear as they were forced to leave their homes because of the ‘extremely intense’ blazeSitting in their suburban apartment in Mérignac on the outskirts of Bordeaux, Krishma, an interpreter, and her husband, Nassir, first felt a sense of dread when a strange black cloud turned the sky dark in the middle of the day. Then a bitter burning smell filled the air outside.“The sky changed colour. It seemed like a cloud but it was smoke covering the sun – it wasn’t a natural phenomenon. It didn’t seem real,” said Nassir, an English literature graduate from Kabul who has been living in France for seven years. “We couldn’t breathe easily, you could feel it in your lungs.” Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/27/it-felt-like-being-in-a-disaster-movie-inside-the-evacuation-from-frances-bordeaux-wildfires",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 16:13:56 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9a4dd8284ae5d16b2ce73887885dce1aa700d84c/426_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=16eb5e490a065a7db7291245305428d3",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "ebaff20d36d8ed2e0b227db2ade86527",
+      "title": "انویدیا میلیاردها دلار روی پیشرفت هوش مصنوعی Ilya Sutskever شرط بندی کرده است",
+      "title_fa": "انویدیا میلیاردها دلار روی پیشرفت هوش مصنوعی Ilya Sutskever شرط بندی کرده است",
+      "title_en": "Nvidia bets billions on Ilya Sutskever’s AI breakthrough",
+      "summary": "Safe Superintelligence از تراشه های Vera Rubin برای گسترش سریع ظرفیت محاسباتی برای تحقیقات محرمانه خود استفاده خواهد کرد.",
+      "summary_fa": "Safe Superintelligence از تراشه های Vera Rubin برای گسترش سریع ظرفیت محاسباتی برای تحقیقات محرمانه خود استفاده خواهد کرد.",
+      "summary_en": "Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research",
+      "link": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 16:11:53 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9d4a37c4-55de-4e4f-8336-b752e9d65fb0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -31676,6 +32180,342 @@
       }
     },
     {
+      "id": "7b3b92f9ddfdb0f9634e9bc638bbd7e4",
+      "title": "چرا بوئینگ و کورنینگ در جهت مخالف حرکت می کنند و در آینده چه انتظاری داریم؟",
+      "title_fa": "چرا بوئینگ و کورنینگ در جهت مخالف حرکت می کنند و در آینده چه انتظاری داریم؟",
+      "title_en": "Why Boeing and Corning are moving in opposite directions and what to expect next",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/07/27/why-boeing-corning-are-moving-in-opposite-directions-and-whats-next.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 16:09:09 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfdf93d0edb1e897de357fc64ead76f0",
+      "title": "ایران: در حال حاضر هیچ مذاکره ای با آمریکا وجود ندارد",
+      "title_fa": "ایران: در حال حاضر هیچ مذاکره ای با آمریکا وجود ندارد",
+      "title_en": "Iran: Currently no negotiations with the US",
+      "summary": "اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران روز دوشنبه گفت که ایران به دنبال مذاکره با آمریکا نیست.",
+      "summary_fa": "اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران روز دوشنبه گفت که ایران به دنبال مذاکره با آمریکا نیست.",
+      "summary_en": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 16:08:27 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "f3f586618ccd27fc7b5fde7bb03b70ba",
+      "title": "سعودی ها شبه نظامیان تحت حمایت ایران مستقر در عراق را مسئول حملات هواپیماهای بدون سرنشین می دانند",
+      "title_fa": "سعودی ها شبه نظامیان تحت حمایت ایران مستقر در عراق را مسئول حملات هواپیماهای بدون سرنشین می دانند",
+      "title_en": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
+      "summary": "این پادشاهی به دلیل مواجهه با حملات عراق و یمن به عمق درگیری های منطقه ای گسترده تر کشیده می شود.",
+      "summary_fa": "این پادشاهی به دلیل مواجهه با حملات عراق و یمن به عمق درگیری های منطقه ای گسترده تر کشیده می شود.",
+      "summary_en": "The kingdom is being dragged deeper into the wider regional conflict as it faces attacks from Iraq and Yemen.",
+      "link": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
+      "source": "NY Times",
+      "published_at": "Mon, 27 Jul 2026 16:07:45 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-saudi-iraq-new-qbhp/27int-saudi-iraq-new-qbhp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "da2e8c3ba95fa0293c7891fe233ddd9b",
+      "title": "Costco فناوری قدیمی شما را می گیرد و یک کارت هدیه به شما هدیه می دهد - در اینجا چیزی است که باید بدانید",
+      "title_fa": "Costco فناوری قدیمی شما را می گیرد و یک کارت هدیه به شما هدیه می دهد - در اینجا چیزی است که باید بدانید",
+      "title_en": "Costco will take your old tech and gift you a gift card - here's what to know",
+      "summary": "آیا ابزارهای قدیمی در اطراف وجود دارد؟ آنها را با کارت های هدیه در Costco مبادله کنید - نیازی به عضویت نیست.",
+      "summary_fa": "آیا ابزارهای قدیمی در اطراف وجود دارد؟ آنها را با کارت های هدیه در Costco مبادله کنید - نیازی به عضویت نیست.",
+      "summary_en": "Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.",
+      "link": "https://www.zdnet.com/article/costco-trade-in-offer-old-tech/",
+      "source": "ZDNet",
+      "published_at": "Mon, 27 Jul 2026 16:01:10 GMT",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b09329ee16ee7820afd8bc48bd9bdc52",
+      "title": "یک فعال پس از دادن \"کد اجباری\" به مامور مرزی که گوشی او را پاک کرده بود، به جرم جنایت متهم شد",
+      "title_fa": "یک فعال پس از دادن \"کد اجباری\" به مامور مرزی که گوشی او را پاک کرده بود، به جرم جنایت متهم شد",
+      "title_en": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "summary": "دولت می گوید از بین بردن داده های خود در طی بازجویی در فرودگاه غیرقانونی است.",
+      "summary_fa": "دولت می گوید از بین بردن داده های خود در طی بازجویی در فرودگاه غیرقانونی است.",
+      "summary_en": "The government says destroying his own data during an airport interrogation was illegal.",
+      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 15:58:34 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7a32da28bd572b73fae333c87cb48f75",
+      "title": "برنهام می گوید دیدار زلنسکی پیام واضح حمایت از اوکراین است",
+      "title_fa": "برنهام می گوید دیدار زلنسکی پیام واضح حمایت از اوکراین است",
+      "title_en": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+      "summary": "رئیس‌جمهور اوکراین اولین بازدیدکننده بین‌المللی نخست‌وزیر جدید از زمان آغاز به کار شد.",
+      "summary_fa": "رئیس‌جمهور اوکراین اولین بازدیدکننده بین‌المللی نخست‌وزیر جدید از زمان آغاز به کار شد.",
+      "summary_en": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 15:58:27 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b9/live/a9855ea0-89d7-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "96ec5d7012d8c39b280f70633861ce67",
+      "title": "آمازون استارلینک ماسک را با صورت فلکی ماهواره ای برای خدمات تلفن همراه هدف قرار می دهد",
+      "title_fa": "آمازون استارلینک ماسک را با صورت فلکی ماهواره ای برای خدمات تلفن همراه هدف قرار می دهد",
+      "title_en": "Amazon targets Musk’s Starlink with satellite constellation for mobile services",
+      "summary": "فایل های غول فناوری برای پرتاب بیش از 5000 ماهواره برای ارائه خدمات جهانی به مصرف کنندگان",
+      "summary_fa": "فایل های غول فناوری برای پرتاب بیش از 5000 ماهواره برای ارائه خدمات جهانی به مصرف کنندگان",
+      "summary_en": "Tech giant files to launch more than 5,000 satellites to provide global consumer service",
+      "link": "https://www.ft.com/content/83e93ce0-1ebd-4b04-a70c-82ff7b64a5f4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 15:57:14 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fec1dc5f6-d329-4f56-b794-1107c3962d06.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "94e224a900c28b04f633c0c24eb1a54d",
+      "title": "آمازون به دنبال مجوز فدرال برای پرتاب 5105 ماهواره برای شبکه مستقیم به دستگاه است",
+      "title_fa": "آمازون به دنبال مجوز فدرال برای پرتاب 5105 ماهواره برای شبکه مستقیم به دستگاه است",
+      "title_en": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
+      "summary": "شبکه پیشنهادی تا حدی به دارایی های گلوبال استار متکی خواهد بود که آمازون در آوریل اعلام کرد که قصد دارد آن را با قیمتی حدود 11.6 میلیارد دلار خریداری کند.",
+      "summary_fa": "شبکه پیشنهادی تا حدی به دارایی های گلوبال استار متکی خواهد بود که آمازون در آوریل اعلام کرد که قصد دارد آن را با قیمتی حدود 11.6 میلیارد دلار خریداری کند.",
+      "summary_en": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
+      "link": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 15:53:18 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79fa1282e81e8816f134a2f7e6944ef4",
+      "title": "آیا منبع باز پاسخی به عوامل سرکش هوش مصنوعی است؟ اتحاد جدید انویدیا می گوید بله",
+      "title_fa": "آیا منبع باز پاسخی به عوامل سرکش هوش مصنوعی است؟ اتحاد جدید انویدیا می گوید بله",
+      "title_en": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
+      "summary": "با افزایش حوادث امنیت سایبری هوش مصنوعی، شرکت ها برای یافتن راه حلی در حال رقابت هستند.",
+      "summary_fa": "با افزایش حوادث امنیت سایبری هوش مصنوعی، شرکت ها برای یافتن راه حلی در حال رقابت هستند.",
+      "summary_en": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
+      "link": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+      "source": "ZDNet",
+      "published_at": "Mon, 27 Jul 2026 15:52:15 GMT",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef3c7cd1c0c144e03e260b6465b52c33",
+      "title": "CME معاملات آتی تک سهام را راه اندازی می کند که سرمایه گذاران را قادر می سازد 23 ساعت در روز SpaceX، Micron و دیگران را معامله کنند.",
+      "title_fa": "CME معاملات آتی تک سهام را راه اندازی می کند که سرمایه گذاران را قادر می سازد 23 ساعت در روز SpaceX، Micron و دیگران را معامله کنند.",
+      "title_en": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+      "summary": "گروه CME روز دوشنبه قراردادهای آتی تک سهام با تسویه نقدی را در 55 سهام ایالات متحده به همراه قراردادهای کوچک در 22 نام راه اندازی کرد.",
+      "summary_fa": "گروه CME روز دوشنبه قراردادهای آتی تک سهام با تسویه نقدی را در 55 سهام ایالات متحده به همراه قراردادهای کوچک در 22 نام راه اندازی کرد.",
+      "summary_en": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
+      "link": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 15:50:20 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "edca1c84f552d8dab8ade58f54bc87dd",
+      "title": "ریباند دیور به کسب و کار مد LVMH کمک می کند تا دوباره رشد کند",
+      "title_fa": "ریباند دیور به کسب و کار مد LVMH کمک می کند تا دوباره رشد کند",
+      "title_en": "Dior rebound helps LVMH’s fashion business return to growth",
+      "summary": "بخش مهم مد و کالاهای چرمی غول لوکس برای اولین بار در دو سال اخیر رشد کرده است.",
+      "summary_fa": "بخش مهم مد و کالاهای چرمی غول لوکس برای اولین بار در دو سال اخیر رشد کرده است.",
+      "summary_en": "Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years",
+      "link": "https://www.ft.com/content/7b1c40ef-4a21-47f3-a9dc-5d1444ec726a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 15:50:11 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F79664c37-f276-4bf7-a75f-64cc4d0ab00c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ff0d561fecdd18bd7ce2fcd133b7a7e0",
+      "title": "شیلی فراری محکوم به قتل خواننده ویکتور خارا در زمان پینوشه را دستگیر می کند",
+      "title_fa": "شیلی فراری محکوم به قتل خواننده ویکتور خارا در زمان پینوشه را دستگیر می کند",
+      "title_en": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+      "summary": "نلسون هاس یکی از کسانی بود که پس از کودتای نظامی شیلی در سال 1973 به جرم ربودن و قتل ویکتور خارا خواننده فولکلور محکوم شد.",
+      "summary_fa": "نلسون هاس یکی از کسانی بود که پس از کودتای نظامی شیلی در سال 1973 به جرم ربودن و قتل ویکتور خارا خواننده فولکلور محکوم شد.",
+      "summary_en": "Nelson Haase was one of those convicted over the kidnap and murder of folk singer Victor Jara after Chile's military coup in 1973.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 15:49:45 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c4d/live/36b149a0-89cf-11f1-b9d9-13fd1053d899.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d4710405f4ad1e44f65dbfe2ae05405",
+      "title": "کارشناسان می گویند که عرضه مواد غذایی تلفیقی ممکن است شیوع سیکلوسپورا را بدتر کند",
+      "title_fa": "کارشناسان می گویند که عرضه مواد غذایی تلفیقی ممکن است شیوع سیکلوسپورا را بدتر کند",
+      "title_en": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
+      "summary": "کارشناسان می گویند ادغام صنایع غذایی ممکن است شیوع سیکلوسپورا را تشدید کند و به محصولات آلوده اجازه انتشار بیشتر بدهد.",
+      "summary_fa": "کارشناسان می گویند ادغام صنایع غذایی ممکن است شیوع سیکلوسپورا را تشدید کند و به محصولات آلوده اجازه انتشار بیشتر بدهد.",
+      "summary_en": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
+      "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 15:49:31 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d59a4a53598616ecd56a11ea515dea12",
+      "title": "برنهام درخواست نمایندگان حزب کارگر شمالی برای لغو مالیات شورایی را رد کرد",
+      "title_fa": "برنهام درخواست نمایندگان حزب کارگر شمالی برای لغو مالیات شورایی را رد کرد",
+      "title_en": "Burnham rejects northern Labour MPs’ call to abolish council tax",
+      "summary": "داونینگ استریت می‌گوید که در نظر ندارد مالیات بر دارایی جدید را جایگزین مالیات و حق تمبر کند",
+      "summary_fa": "داونینگ استریت می‌گوید که در نظر ندارد مالیات بر دارایی جدید را جایگزین مالیات و حق تمبر کند",
+      "summary_en": "Downing Street says it is not considering replacing the levy and stamp duty with a new property tax",
+      "link": "https://www.ft.com/content/8829bb6c-e4e4-4064-960a-8f789da10a41?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 15:40:57 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8816024f-30c9-4447-9f9e-5923a2391565.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d1589f824a52e09a97d0710ffd2b0cce",
+      "title": "زلنسکی اولین رهبر خارجی است که از برنهام، نخست وزیر جدید بریتانیا بازدید می کند",
+      "title_fa": "زلنسکی اولین رهبر خارجی است که از برنهام، نخست وزیر جدید بریتانیا بازدید می کند",
+      "title_en": "Zelensky is first foreign leader to visit Burnham, U.K.’s new prime minister",
+      "summary": "نشست در یک پایگاه دریایی بریتانیا که در آن پرسنل نظامی اوکراینی در حال آموزش هستند، بر حمایت مداوم از کیف در برابر روسیه تاکید کرد.",
+      "summary_fa": "نشست در یک پایگاه دریایی بریتانیا که در آن پرسنل نظامی اوکراینی در حال آموزش هستند، بر حمایت مداوم از کیف در برابر روسیه تاکید کرد.",
+      "summary_en": "The meeting at a British naval base where Ukrainian military personnel are being trained highlighted ongoing support for Kyiv against Russia.",
+      "link": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/",
+      "source": "Washington Post",
+      "published_at": "Mon, 27 Jul 2026 15:40:14 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "d6e4ed0beb884eac7782a642c25383d9",
+      "title": "حمله اسرائیل به مرکز آوارگان فلسطینی سازمان ملل جرقه زد",
+      "title_fa": "حمله اسرائیل به مرکز آوارگان فلسطینی سازمان ملل جرقه زد",
+      "title_en": "Israeli raid sparks fire at UN Palestinian refugee centre",
+      "summary": "نیروهای اسرائیلی به یک مرکز آموزشی آژانس امداد و کار سازمان ملل برای آوارگان فلسطینی حمله کردند.",
+      "summary_fa": "نیروهای اسرائیلی به یک مرکز آموزشی آژانس امداد و کار سازمان ملل برای آوارگان فلسطینی حمله کردند.",
+      "summary_en": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 15:39:58 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "f6fb02b59b2c3a331764402118011a1e",
       "title": "می‌توانید از هر پل پشت اسکناس‌های یورو بازدید کنید - و همه آنها در یک شهر هستند",
       "title_fa": "می‌توانید از هر پل پشت اسکناس‌های یورو بازدید کنید - و همه آنها در یک شهر هستند",
@@ -31690,6 +32530,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c1a4d08f95d6a0691c7fdb2674edf48",
+      "title": "در داخل ماموریت نجات وحشی که 4 نهنگ بلوگا را به شیکاگو برد",
+      "title_fa": "در داخل ماموریت نجات وحشی که 4 نهنگ بلوگا را به شیکاگو برد",
+      "title_en": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
+      "summary": "نهنگ‌های بلوگا پس از شکسته شدن یک پارک موضوعی در کانادا در خطر مرگ کشته شدند. WIRED با برخی از دانشمندانی که در پشت مأموریت نجات پیشگام بودند صحبت کرد.",
+      "summary_fa": "نهنگ‌های بلوگا پس از شکسته شدن یک پارک موضوعی در کانادا در خطر مرگ کشته شدند. WIRED با برخی از دانشمندانی که در پشت مأموریت نجات پیشگام بودند صحبت کرد.",
+      "summary_en": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
+      "link": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
+      "source": "Wired",
+      "published_at": "Mon, 27 Jul 2026 15:33:56 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -31715,6 +32576,174 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "268795822ef9d6fde87190b0ab8d5354",
+      "title": "برنهام و مشکل سیاست توسط رسانه های اجتماعی",
+      "title_fa": "برنهام و مشکل سیاست توسط رسانه های اجتماعی",
+      "title_en": "Burnham and the problem of politics by social media",
+      "summary": "مدل قدیمی پخش حزبی کاملاً تنظیم شده مرده است - چه خوب و چه بد",
+      "summary_fa": "مدل قدیمی پخش حزبی کاملاً تنظیم شده مرده است - چه خوب و چه بد",
+      "summary_en": "The old tightly regulated party broadcast model is dead — for better and for worse",
+      "link": "https://www.ft.com/content/9f9662cb-06ba-42a4-b2f2-800a60818de1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 15:28:56 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8df7a6b7-04ae-4c1b-af1b-728615d45f57.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6878124cc08135287a5760950399e488",
+      "title": "آیا برای مراقبت از یکی از اعضای خانواده باید دستمزد دریافت کنید؟",
+      "title_fa": "آیا برای مراقبت از یکی از اعضای خانواده باید دستمزد دریافت کنید؟",
+      "title_en": "Should you get paid to care for a family member?",
+      "summary": "خدمت به عنوان یک مراقب خانواده فقط خسته کننده نیست. همچنین می تواند از نظر مالی ویرانگر باشد.",
+      "summary_fa": "خدمت به عنوان یک مراقب خانواده فقط خسته کننده نیست. همچنین می تواند از نظر مالی ویرانگر باشد.",
+      "summary_en": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
+      "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 15:28:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-59428583",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b3661e16bb64919727459e935c3ca02",
+      "title": "قیمت نفت کاهش یافت و نفت برنت به زیر 90 دلار رسید زیرا به نظر می رسد توقف درگیری های آمریکا و ایران ادامه دارد.",
+      "title_fa": "قیمت نفت کاهش یافت و نفت برنت به زیر 90 دلار رسید زیرا به نظر می رسد توقف درگیری های آمریکا و ایران ادامه دارد.",
+      "title_en": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+      "summary": "قیمت نفت پس از آنکه گزارش شد ایران اعلام کرد تا زمانی که توقف خصومت‌ها از سوی ایالات متحده پابرجاست، حملات را به حالت تعلیق در می‌آورد، کاهش یافت.",
+      "summary_fa": "قیمت نفت پس از آنکه گزارش شد ایران اعلام کرد تا زمانی که توقف خصومت‌ها از سوی ایالات متحده پابرجاست، حملات را به حالت تعلیق در می‌آورد، کاهش یافت.",
+      "summary_en": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 15:27:45 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "5c89c20486112da6ceef67f8efee3e54",
+      "title": "ترسیم خشونت شهرک نشینان اسرائیلی در کرانه باختری",
+      "title_fa": "ترسیم خشونت شهرک نشینان اسرائیلی در کرانه باختری",
+      "title_en": "Mapping Israeli settler violence in the West Bank",
+      "summary": "شهرک نشینان اسرائیلی مسجدی را در روستای قصره در کرانه باختری به آتش کشیدند و به حملات خشونت آمیز ادامه دادند.",
+      "summary_fa": "شهرک نشینان اسرائیلی مسجدی را در روستای قصره در کرانه باختری به آتش کشیدند و به حملات خشونت آمیز ادامه دادند.",
+      "summary_en": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 15:27:22 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "66867c9317e8d11577ccceaf2fbdcd96",
+      "title": "چگونه اسرائیل از ترور شهرک نشین- سرباز برای استعمار کرانه باختری استفاده می کند",
+      "title_fa": "چگونه اسرائیل از ترور شهرک نشین- سرباز برای استعمار کرانه باختری استفاده می کند",
+      "title_en": "How Israel uses settler-soldier terror to colonise the West Bank",
+      "summary": "حملات شهرک نشینان حوادث مجزا نیستند. همه آنها بخشی از یک استراتژی برای تصاحب زمین و استعمار هستند.",
+      "summary_fa": "حملات شهرک نشینان حوادث مجزا نیستند. همه آنها بخشی از یک استراتژی برای تصاحب زمین و استعمار هستند.",
+      "summary_en": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 15:27:09 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "41ed1d2cdb4a6d9a729318900b50f2c1",
+      "title": "چرا ونزوئلا از دیوان بین المللی کیفری خارج می شود؟",
+      "title_fa": "چرا ونزوئلا از دیوان بین المللی کیفری خارج می شود؟",
+      "title_en": "Why Venezuela is leaving the ICC",
+      "summary": "ونزوئلا از دادگاه کیفری بین‌المللی خارج می‌شود و آن را به تعصب علیه جنوب جهانی متهم می‌کند.",
+      "summary_fa": "ونزوئلا از دادگاه کیفری بین‌المللی خارج می‌شود و آن را به تعصب علیه جنوب جهانی متهم می‌کند.",
+      "summary_en": "Venezuela is withdrawing from the International Criminal Court, accusing it of bias against the Global South.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 15:22:45 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eacade0bec7f5b45baaa527bc949d829",
+      "title": "رونق هوش مصنوعی هیچ نشانه ای از کند شدن را نشان نمی دهد - و اقتصاد ایالات متحده از مزایای آن بهره می برد",
+      "title_fa": "رونق هوش مصنوعی هیچ نشانه ای از کند شدن را نشان نمی دهد - و اقتصاد ایالات متحده از مزایای آن بهره می برد",
+      "title_en": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits",
+      "summary": "تقاضای سیری ناپذیر برای حافظه رایانه و سایر فناوری های مورد نیاز برای ساخت هوش مصنوعی دوباره در سه ماهه دوم رونق گرفت و می تواند باعث افزایش بیش از حد متوسط ​​دیگری در رشد اقتصادی شود.",
+      "summary_fa": "تقاضای سیری ناپذیر برای حافظه رایانه و سایر فناوری های مورد نیاز برای ساخت هوش مصنوعی دوباره در سه ماهه دوم رونق گرفت و می تواند باعث افزایش بیش از حد متوسط ​​دیگری در رشد اقتصادی شود.",
+      "summary_en": "Insatiable demand for computer memory and other technologies needed to build artificial intelligence boomed again in the second quarter, and could spur another above-average increase in economic growth.",
+      "link": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 15:22:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-32737974",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4cf821e032db3589ac72b585378d519e",
+      "title": "چرا جنگ جدید در یمن می تواند برای حوثی ها متفاوت باشد؟",
+      "title_fa": "چرا جنگ جدید در یمن می تواند برای حوثی ها متفاوت باشد؟",
+      "title_en": "Why a new war in Yemen could be different for the Houthis",
+      "summary": "تحولات اخیر نیروهای ضد حوثی را در یمن تقویت می کند زیرا نشانه ها حاکی از قریب الوقوع بودن وقوع مجدد جنگ است.",
+      "summary_fa": "تحولات اخیر نیروهای ضد حوثی را در یمن تقویت می کند زیرا نشانه ها حاکی از قریب الوقوع بودن وقوع مجدد جنگ است.",
+      "summary_en": "Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 15:20:32 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -31816,6 +32845,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/7b2bbb6f663d6ab87e1d09b903f08754d5bea64e/46_0_4334_3467/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=7162d2127ed380761368a788325244e2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c2f498eb5ba47f8750aae12f811e55c",
+      "title": "من لپ‌تاپ پریمیوم «Linux-first» Framework را امتحان کردم: سطح را بالاتر در نظر بگیرید",
+      "title_fa": "من لپ‌تاپ پریمیوم «Linux-first» Framework را امتحان کردم: سطح را بالاتر در نظر بگیرید",
+      "title_en": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
+      "summary": "Framework بازخورد کاربران را جمع‌آوری کرد تا لپ‌تاپ 13 پرو جدید را ایجاد کند، دستگاهی شیک با صفحه لمسی لمسی و عمر باتری عالی.",
+      "summary_fa": "Framework بازخورد کاربران را جمع‌آوری کرد تا لپ‌تاپ 13 پرو جدید را ایجاد کند، دستگاهی شیک با صفحه لمسی لمسی و عمر باتری عالی.",
+      "summary_en": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with a haptic touchpad and excellent battery life.",
+      "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "source": "ZDNet",
+      "published_at": "Mon, 27 Jul 2026 15:00:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -32072,6 +33122,27 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "پاریس"
+      }
+    },
+    {
+      "id": "19b812e18430f4bfdc05a6ccbac7dc27",
+      "title": "آفریقای جنوبی درباره مرگ نیجریه ای که در حین دستگیری به زمین افتاده بود، تحقیق می کند",
+      "title_fa": "آفریقای جنوبی درباره مرگ نیجریه ای که در حین دستگیری به زمین افتاده بود، تحقیق می کند",
+      "title_en": "South Africa investigates death of Nigerian who collapsed during arrest",
+      "summary": "بازرسان می‌گویند که گزارش‌های اولیه از کالبدشکافی حاکی از آن است که او «خراش‌هایی در پشت و قفسه سینه» داشته است.",
+      "summary_fa": "بازرسان می‌گویند که گزارش‌های اولیه از کالبدشکافی حاکی از آن است که او «خراش‌هایی در پشت و قفسه سینه» داشته است.",
+      "summary_en": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 14:26:50 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1296/live/e9165f50-89a6-11f1-a85a-79136c2d298e.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32814,6 +33885,27 @@
       "title": "خشم، شوک و اندوه - پرسش‌ها در پی حمله پراید برلین باقی مانده است",
       "title_fa": "خشم، شوک و اندوه - پرسش‌ها در پی حمله پراید برلین باقی مانده است",
       "title_en": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "summary": "با آشکار شدن جزئیات درباره گذشته مهاجم مظنون به پراید برلین، بسیاری می پرسند که چرا او در زندان نبوده است.",
+      "summary_fa": "با آشکار شدن جزئیات درباره گذشته مهاجم مظنون به پراید برلین، بسیاری می پرسند که چرا او در زندان نبوده است.",
+      "summary_en": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 12:33:31 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce88/live/8415f670-89af-11f1-9c0c-33faa7b3d86d.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "922123424ba37ee12cf081ecc02f892c",
+      "title": "عصبانیت مهاجم برلین پراید فاش شد که چند هفته قبل آزاد شده است",
+      "title_fa": "عصبانیت مهاجم برلین پراید فاش شد که چند هفته قبل آزاد شده است",
+      "title_en": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
       "summary": "با آشکار شدن جزئیات درباره گذشته مهاجم مظنون به پراید برلین، بسیاری می پرسند که چرا او در زندان نبوده است.",
       "summary_fa": "با آشکار شدن جزئیات درباره گذشته مهاجم مظنون به پراید برلین، بسیاری می پرسند که چرا او در زندان نبوده است.",
       "summary_en": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
@@ -47319,6 +48411,174 @@
       }
     },
     {
+      "id": "6d1abdbaaa6d4727062b776009963e09",
+      "title": "چرا چین بهترین مدل های هوش مصنوعی خود را ارائه می کند؟",
+      "title_fa": "چرا چین بهترین مدل های هوش مصنوعی خود را ارائه می کند؟",
+      "title_en": "Why China is giving away its best AI models",
+      "summary": "Silicon Valley بخش زیادی از هفته گذشته را در حالت هشدار قرمز گذرانده است و ورود Kimi K3 متعلق به Moonshot AI را هضم کرده است، یک مدل هوش مصنوعی چینی که گفته می شود می تواند برخی از بهترین سیستم های ساخته شده توسط شرکت های آمریکایی را با کسری از هزینه شکست دهد. عملکرد آن به تنهایی برای تشدید رقابت بین […]",
+      "summary_fa": "Silicon Valley بخش زیادی از هفته گذشته را در حالت هشدار قرمز گذرانده است و ورود Kimi K3 متعلق به Moonshot AI را هضم کرده است، یک مدل هوش مصنوعی چینی که گفته می شود می تواند برخی از بهترین سیستم های ساخته شده توسط شرکت های آمریکایی را با کسری از هزینه شکست دهد. عملکرد آن به تنهایی برای تشدید رقابت بین […]",
+      "summary_en": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge",
+      "published_at": "2026-07-27T12:51:50-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "3158232f03f68a10502d3a074f210caa",
+      "title": "YouTube Premium از سال آینده شامل Peacock می‌شود",
+      "title_fa": "YouTube Premium از سال آینده شامل Peacock می‌شود",
+      "title_en": "YouTube Premium will include Peacock starting next year",
+      "summary": "اشتراک Premium بدون آگهی YouTube امتیاز دیگری دریافت می کند: دسترسی به Peacock. در اطلاعیه‌ای در روز دوشنبه، NBCUniversal می‌گوید که قرارداد چند ساله به مشترکین Premium این امکان را می‌دهد تا در سال 2027، نمایش‌ها، فیلم‌ها و ورزش‌های زنده با پشتیبانی تبلیغاتی Peacock را مستقیماً از طریق برنامه YouTube پخش کنند. YouTube اشتراک استاندارد Peacock را در بسته‌بندی خواهد کرد که به 15.99 دلار در ماه افزایش یافت.",
+      "summary_fa": "اشتراک Premium بدون آگهی YouTube امتیاز دیگری دریافت می کند: دسترسی به Peacock. در اطلاعیه‌ای در روز دوشنبه، NBCUniversal می‌گوید که قرارداد چند ساله به مشترکین Premium این امکان را می‌دهد تا در سال 2027، نمایش‌ها، فیلم‌ها و ورزش‌های زنده با پشتیبانی تبلیغاتی Peacock را مستقیماً از طریق برنامه YouTube پخش کنند. YouTube اشتراک استاندارد Peacock را در بسته‌بندی خواهد کرد که به 15.99 دلار در ماه افزایش یافت.",
+      "summary_en": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube will bundle Peacock in its standard subscription, which increased to $15.99 / month […]",
+      "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
+      "source": "The Verge",
+      "published_at": "2026-07-27T12:18:52-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dcda08123d22e143bdde6d4b9da37ab2",
+      "title": "آمازون در تلاش است تا شبکه تلفن همراه ماهواره ای جهانی را در سال 2028 راه اندازی کند",
+      "title_fa": "آمازون در تلاش است تا شبکه تلفن همراه ماهواره ای جهانی را در سال 2028 راه اندازی کند",
+      "title_en": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
+      "summary": "آمازون روز شنبه درخواست FCC را برای راه اندازی مجموعه ماهواره ای جدید لئو ارائه کرد که خدمات ماهواره ای مستقیم به دستگاه را برای \"خدمات صوتی، پیام رسانی، داده و اضطراری\" ارائه می دهد. در صورت تایید، آمازون استقرار مجموعه جدید 5105 ماهواره را در سال 2028 آغاز خواهد کرد. این شرکت می گوید قصد دارد با اپراتورهای شبکه تلفن همراه برای ارائه ماهواره مستقیم به دستگاه همکاری کند.",
+      "summary_fa": "آمازون روز شنبه درخواست FCC را برای راه اندازی مجموعه ماهواره ای جدید لئو ارائه کرد که خدمات ماهواره ای مستقیم به دستگاه را برای \"خدمات صوتی، پیام رسانی، داده و اضطراری\" ارائه می دهد. در صورت تایید، آمازون استقرار مجموعه جدید 5105 ماهواره را در سال 2028 آغاز خواهد کرد. این شرکت می گوید قصد دارد با اپراتورهای شبکه تلفن همراه برای ارائه ماهواره مستقیم به دستگاه همکاری کند.",
+      "summary_en": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with mobile network operators to offer direct-to-device satellite […]",
+      "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
+      "source": "The Verge",
+      "published_at": "2026-07-27T11:40:38-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e07bd5dff8fe132f4c4ab8b0d58fdca",
+      "title": "این لپ تاپ جدید مورد علاقه من است، اما به لطف RAMagedon قبلاً قیمت آن 800 دلار افزایش یافته است",
+      "title_fa": "این لپ تاپ جدید مورد علاقه من است، اما به لطف RAMagedon قبلاً قیمت آن 800 دلار افزایش یافته است",
+      "title_en": "This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800",
+      "summary": "لپ‌تاپ‌های فریم‌ورک همیشه در ازای پیش‌فرض منحصربه‌فرد خود، سازش‌هایی را به همراه دارند. حتی اگر در مقایسه با گزینه‌های شیک‌تر رقبا برای یکی از آن‌ها هزینه اضافی می‌پردازید، بهانه‌گیری نقص‌های جزئی برای پورت‌های مدولار، تعمیرات آسان و طیف قابل توجهی از قطعات قابل ارتقا آسان‌تر است. پس چه اتفاقی می‌افتد وقتی Framework به «Pro» تبدیل شود؟ ما یک نوع منحصر به فرد دریافت می کنیم […]",
+      "summary_fa": "لپ‌تاپ‌های فریم‌ورک همیشه در ازای پیش‌فرض منحصربه‌فرد خود، سازش‌هایی را به همراه دارند. حتی اگر در مقایسه با گزینه‌های شیک‌تر رقبا برای یکی از آن‌ها هزینه اضافی می‌پردازید، بهانه‌گیری نقص‌های جزئی برای پورت‌های مدولار، تعمیرات آسان و طیف قابل توجهی از قطعات قابل ارتقا آسان‌تر است. پس چه اتفاقی می‌افتد وقتی Framework به «Pro» تبدیل شود؟ ما یک نوع منحصر به فرد دریافت می کنیم […]",
+      "summary_en": "Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor flaws for modular ports, easy repairs, and an impressive range of upgradeable parts. So what happens when Framework goes \"Pro\"? We get a one-of-a-kind […]",
+      "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
+      "source": "The Verge",
+      "published_at": "2026-07-27T11:00:00-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93d9502421acd1d085a5fc5af5de556c",
+      "title": "تعرفه ها مشاغل تولیدی را به ایالات متحده بازنگرداند",
+      "title_fa": "تعرفه ها مشاغل تولیدی را به ایالات متحده بازنگرداند",
+      "title_en": "Tariffs didn’t bring manufacturing jobs back to the US",
+      "summary": "امروز، من با ایوان اسمیت، یکی از بنیانگذاران و مدیرعامل آلتانا، شرکتی که ابزارهای نرم افزاری را برای مدیریت شبکه های زنجیره تامین بزرگ و نامرتب در سراسر جهان توسعه می دهد، صحبت می کنم. آخرین بار اوان را در اوایل سال 2025 ملاقات کردیم تا در مورد اینکه چگونه اولین موج های تعرفه های ترامپ شروع به تأثیرگذاری بر تجارت جهانی کرد و چه چیزهایی […]",
+      "summary_fa": "امروز، من با ایوان اسمیت، یکی از بنیانگذاران و مدیرعامل آلتانا، شرکتی که ابزارهای نرم افزاری را برای مدیریت شبکه های زنجیره تامین بزرگ و نامرتب در سراسر جهان توسعه می دهد، صحبت می کنم. آخرین بار اوان را در اوایل سال 2025 ملاقات کردیم تا در مورد اینکه چگونه اولین موج های تعرفه های ترامپ شروع به تأثیرگذاری بر تجارت جهانی کرد و چه چیزهایی […]",
+      "summary_en": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade and what […]",
+      "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
+      "source": "The Verge",
+      "published_at": "2026-07-27T11:00:00-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42c5f001a1f30f9cf9c9e0ae95f905bb",
+      "title": "مانیتور گیمینگ 27 اینچی QD-OLED سامسونگ دقیقاً 299.99 دلار قیمت دارد.",
+      "title_fa": "مانیتور گیمینگ 27 اینچی QD-OLED سامسونگ دقیقاً 299.99 دلار قیمت دارد.",
+      "title_en": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+      "summary": "قیمت مانیتورهای بازی QD-OLED در حال کاهش است، حتی با وجود اینکه بسیاری از قطعات دیگر رایانه شخصی هنوز بالاتر از قیمت عادی خود هستند. اگر بودجه شما روی 300 دلار قفل شده است، مدل 27 اینچی 1440p سامسونگ به لطف تخفیف 50 دلاری اخیر در آمازون، دقیقاً به همین میزان است. این روزها پیدا کردن یک مانیتور QD-OLED خوب با قیمت کمتر از 500 دلار […]",
+      "summary_fa": "قیمت مانیتورهای بازی QD-OLED در حال کاهش است، حتی با وجود اینکه بسیاری از قطعات دیگر رایانه شخصی هنوز بالاتر از قیمت عادی خود هستند. اگر بودجه شما روی 300 دلار قفل شده است، مدل 27 اینچی 1440p سامسونگ به لطف تخفیف 50 دلاری اخیر در آمازون، دقیقاً به همین میزان است. این روزها پیدا کردن یک مانیتور QD-OLED خوب با قیمت کمتر از 500 دلار […]",
+      "summary_en": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon. Finding a good QD-OLED monitor under $500 these days is […]",
+      "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-27T10:56:38-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "938aa96bb3e8d2266e6bd2ab7cbf167f",
+      "title": "بهترین تریلرهای SDCC 2026 روی سایبرپانک و علمی تخیلی سنگین هستند",
+      "title_fa": "بهترین تریلرهای SDCC 2026 روی سایبرپانک و علمی تخیلی سنگین هستند",
+      "title_en": "SDCC 2026’s best trailers are heavy on cyberpunk and sci-fi",
+      "summary": "کامیک کان سن دیگو در آخر هفته برگزار شد و طبق معمول مملو از خبرهای مهم در زمینه فیلم، تلویزیون و بازی بود. مارول از Ghost Rider بعدی (رایان گاسلینگ) و Black Panther (دیوید جانسون) رونمایی کرد، در حالی که تاریخ انتشار God of War: Laufey (16 فوریه) و چهارمین و آخرین […]",
+      "summary_fa": "کامیک کان سن دیگو در آخر هفته برگزار شد و طبق معمول مملو از خبرهای مهم در زمینه فیلم، تلویزیون و بازی بود. مارول از Ghost Rider بعدی (رایان گاسلینگ) و Black Panther (دیوید جانسون) رونمایی کرد، در حالی که تاریخ انتشار God of War: Laufey (16 فوریه) و چهارمین و آخرین […]",
+      "summary_en": "San Diego Comic-Con took place over the weekend, and as per usual it was full of tidbits of news across film, TV, and gaming. Marvel revealed the next Ghost Rider (Ryan Gosling) and Black Panther (David Jonsson), while we also got release dates for God of War: Laufey (February 16th) and the fourth and final […]",
+      "link": "https://www.theverge.com/entertainment/971285/sdcc-2026-trailers-neuromancer-blade-runner-carrie",
+      "source": "The Verge",
+      "published_at": "2026-07-27T10:38:43-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8b24b9334920a511d5b85e09f5c35c00",
+      "title": "شرکت رم چینی CXMT برای اولین بار در بازار سهام به ارزش 484 میلیارد دلار وارد بازار شد",
+      "title_fa": "شرکت رم چینی CXMT برای اولین بار در بازار سهام به ارزش 484 میلیارد دلار وارد بازار شد",
+      "title_en": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+      "summary": "همانطور که قبلا توسط وال استریت ژورنال و CNBC گزارش شده بود، شرکت حافظه مستقر در چین ChangXin Memory Technologies (CXMT) اولین روز عظیمی را در بورس شانگهای پس از افزایش 466 درصدی سهام آن داشت. شور و هیجان بازار سهام، ارزش CXMT را به 484 میلیارد دلار افزایش داد و آن را به با ارزش ترین شرکت چینی فهرست شده در بورس تبدیل کرد. […]",
+      "summary_fa": "همانطور که قبلا توسط وال استریت ژورنال و CNBC گزارش شده بود، شرکت حافظه مستقر در چین ChangXin Memory Technologies (CXMT) اولین روز عظیمی را در بورس شانگهای پس از افزایش 466 درصدی سهام آن داشت. شور و هیجان بازار سهام، ارزش CXMT را به 484 میلیارد دلار افزایش داد و آن را به با ارزش ترین شرکت چینی فهرست شده در بورس تبدیل کرد. […]",
+      "summary_en": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. […]",
+      "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+      "source": "The Verge",
+      "published_at": "2026-07-27T10:27:16-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "bf6d1035754719d5de54fa0ea45549f1",
       "title": "انویدیا و مایکروسافت اتحاد امنیت هوش مصنوعی باز را راه اندازی کردند - بدون OpenAI، Google یا Anthropic",
       "title_fa": "انویدیا و مایکروسافت اتحاد امنیت هوش مصنوعی باز را راه اندازی کردند - بدون OpenAI، Google یا Anthropic",
@@ -47379,6 +48639,90 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "d53f1dddf229009b50e82035638c59f2",
+      "title": "متا به طور سلطنتی عرضه عینک های هوشمند خود را خراب می کند",
+      "title_fa": "متا به طور سلطنتی عرضه عینک های هوشمند خود را خراب می کند",
+      "title_en": "Meta is royally screwing up its smart glasses rollout",
+      "summary": "در سراسر شهر نیویورک، لندن و واشنگتن دی سی، تبلیغات عینک هوشمند متا با پوسترهای طنز گروه های فعال پوشانده شده است. یک تبلیغ چریکی اینها را \"بزرگترین پیشرفت در فناوری منحرف از زمان سنگرخانه\" می نامد. دیگری عبارت «عینک شکارچی نظارت انبوه» را روی صورت اینفلوئنسر کایلی جنر جابه‌جا می‌کند و او را برای شراکت فرا می‌خواند.",
+      "summary_fa": "در سراسر شهر نیویورک، لندن و واشنگتن دی سی، تبلیغات عینک هوشمند متا با پوسترهای طنز گروه های فعال پوشانده شده است. یک تبلیغ چریکی اینها را \"بزرگترین پیشرفت در فناوری منحرف از زمان سنگرخانه\" می نامد. دیگری عبارت «عینک شکارچی نظارت انبوه» را روی صورت اینفلوئنسر کایلی جنر جابه‌جا می‌کند و او را برای شراکت فرا می‌خواند.",
+      "summary_en": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance predator glasses\" over influencer Kylie Jenner's face, calling her out for partnering […]",
+      "link": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+      "source": "The Verge",
+      "published_at": "2026-07-27T08:00:00-04:00",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "a74038ed2ccd062d873265204977a527",
+      "title": "فوتوآنزیم های پیریدوکسال برای جفت های متقابل رادیکال-رادیکال نامتقارن",
+      "title_fa": "فوتوآنزیم های پیریدوکسال برای جفت های متقابل رادیکال-رادیکال نامتقارن",
+      "title_en": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+      "summary": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/s41586-026-10930-9 فوتوآنزیم های پیریدوکسال برای جفت های متقابل رادیکال-رادیکال نامتقارن",
+      "summary_fa": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/s41586-026-10930-9 فوتوآنزیم های پیریدوکسال برای جفت های متقابل رادیکال-رادیکال نامتقارن",
+      "summary_en": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10930-9Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+      "link": "https://www.nature.com/articles/s41586-026-10930-9",
+      "source": "Nature",
+      "published_at": "2026-07-27 17:10",
+      "date_iso": "2026-07-27",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e9b93810cbfac046170ac6e6aeaaea24",
+      "title": "پروسکایت های هالید مخلوط فاز همگن برای فتوولتائیک های پشت سر هم پایدار",
+      "title_fa": "پروسکایت های هالید مخلوط فاز همگن برای فتوولتائیک های پشت سر هم پایدار",
+      "title_en": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+      "summary": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/s41586-026-10929-2 پروسکایت هالید مخلوط فازی همگن برای فتوولتائیک های پشت سر هم پایدار",
+      "summary_fa": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/s41586-026-10929-2 پروسکایت هالید مخلوط فازی همگن برای فتوولتائیک های پشت سر هم پایدار",
+      "summary_en": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10929-2Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+      "link": "https://www.nature.com/articles/s41586-026-10929-2",
+      "source": "Nature",
+      "published_at": "2026-07-27 17:10",
+      "date_iso": "2026-07-27",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a6bafb64268d60cd438a23dc7b3e7d5e",
+      "title": "چگونه از آسیب رساندن هوش مصنوعی به ریاضیات جلوگیری کنیم؟",
+      "title_fa": "چگونه از آسیب رساندن هوش مصنوعی به ریاضیات جلوگیری کنیم؟",
+      "title_en": "How to prevent AI from harming mathematics",
+      "summary": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/d41586-026-02309-7ریاضیدانان باید فوراً تأثیرات هوش مصنوعی بر حوزه خود را بشناسند - و به سرعت برای کاهش تهدیدها اقدام کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/d41586-026-02309-7ریاضیدانان باید فوراً تأثیرات هوش مصنوعی بر حوزه خود را بشناسند - و به سرعت برای کاهش تهدیدها اقدام کنند.",
+      "summary_en": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.",
+      "link": "https://www.nature.com/articles/d41586-026-02309-7",
+      "source": "Nature",
+      "published_at": "2026-07-27 17:10",
+      "date_iso": "2026-07-27",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
