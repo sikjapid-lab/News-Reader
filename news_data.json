@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-27 20:12:40",
-  "total_count": 2544,
+  "last_update": "2026-07-27 21:31:54",
+  "total_count": 2575,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -31592,6 +31592,27 @@
       }
     },
     {
+      "id": "3898c0e7e7af8c7034e0be8ed4e0a9b9",
+      "title": "برنهام بریتانیا در اولین دیدار با زلنسکی از اوکراین متعهد شد",
+      "title_fa": "برنهام بریتانیا در اولین دیدار با زلنسکی از اوکراین متعهد شد",
+      "title_en": "UK's Burnham pledges full support to Ukraine in first meeting with Zelenskyy",
+      "summary": "سفر زلنسکی اولین دیدار یک رهبر خارجی از زمان روی کار آمدن برنهام در یک هفته پیش بود. نخست وزیر گفت که بر حمایت «تزلزل ناپذیر» بریتانیا از کیف در حالی که از خود در برابر تهاجم تمام عیار روسیه دفاع می کند، تأکید می کند.",
+      "summary_fa": "سفر زلنسکی اولین دیدار یک رهبر خارجی از زمان روی کار آمدن برنهام در یک هفته پیش بود. نخست وزیر گفت که بر حمایت «تزلزل ناپذیر» بریتانیا از کیف در حالی که از خود در برابر تهاجم تمام عیار روسیه دفاع می کند، تأکید می کند.",
+      "summary_en": "Zelenskyy's visit was the first by a foreign leader since Burnham took office a week ago. The prime minister said it underscored the UK's \"unwavering\" support for Kyiv as it defends itself against Russia's full-scale invasion.",
+      "link": "http://www.euronews.com/my-europe/2026/07/27/uks-burnham-pledges-full-support-to-ukraine-in-first-meeting-with-zelenskyy",
+      "source": "EuroNews",
+      "published_at": "Mon, 27 Jul 2026 22:11:52 +0200",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "374c4bc783f423aedddb087b2fb173b6",
       "title": "با افزایش فشار بر مسکو، اوکراین به حملات دوربرد به تأسیسات صادراتی و نفتی روسیه ادامه می‌دهد",
       "title_fa": "با افزایش فشار بر مسکو، اوکراین به حملات دوربرد به تأسیسات صادراتی و نفتی روسیه ادامه می‌دهد",
@@ -31610,6 +31631,69 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "cefdb26dab633632b64689241f7b3e95",
+      "title": "انویدیا و OpenAI در حال مذاکره برای 250 میلیارد دلار پشتیبان برای تأمین مالی برنامه‌های زیرساخت هوش مصنوعی هستند",
+      "title_fa": "انویدیا و OpenAI در حال مذاکره برای 250 میلیارد دلار پشتیبان برای تأمین مالی برنامه‌های زیرساخت هوش مصنوعی هستند",
+      "title_en": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+      "summary": "پشتیبان به OpenAI اجازه می دهد تا با اعتبار انویدیا، بدهی پردیس مرکز داده در شهرستان پایک، اوهایو را افزایش دهد.",
+      "summary_fa": "پشتیبان به OpenAI اجازه می دهد تا با اعتبار انویدیا، بدهی پردیس مرکز داده در شهرستان پایک، اوهایو را افزایش دهد.",
+      "summary_en": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 21:29:40 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c939551c41fb9ffec88b0d4a28f46a9",
+      "title": "اسپیس ایکس اکنون معادل یک تسلا کامل را در ارزش بازار از دست داده است",
+      "title_fa": "اسپیس ایکس اکنون معادل یک تسلا کامل را در ارزش بازار از دست داده است",
+      "title_en": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "summary": "شرکت فضایی ایلان ماسک از زمان رسیدن به بالاترین رقم 225.64 دلاری هر سهم در ژوئن، بیش از 1.2 تریلیون دلار ارزش بازار را از بین برده است.",
+      "summary_fa": "شرکت فضایی ایلان ماسک از زمان رسیدن به بالاترین رقم 225.64 دلاری هر سهم در ژوئن، بیش از 1.2 تریلیون دلار ارزش بازار را از بین برده است.",
+      "summary_en": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+      "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 21:26:03 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cab8d90d3eea30d7369c19576fa5ee82",
+      "title": "خواننده آمریکایی D4vd به اتهام قتل در قتل یک نوجوان محاکمه می شود",
+      "title_fa": "خواننده آمریکایی D4vd به اتهام قتل در قتل یک نوجوان محاکمه می شود",
+      "title_en": "US singer D4vd to go on trial for murder in death of teen",
+      "summary": "این ستاره متهم به قتل سلست ریواس هرناندز است که بقایای او در یک تسلا ثبت شده به آدرس او پیدا شد.",
+      "summary_fa": "این ستاره متهم به قتل سلست ریواس هرناندز است که بقایای او در یک تسلا ثبت شده به آدرس او پیدا شد.",
+      "summary_en": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 21:17:05 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f55/live/663c7760-86d9-11f1-bba7-35d3e67315de.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -31634,6 +31718,153 @@
       }
     },
     {
+      "id": "40e0fda8884475eb65416991060c9656",
+      "title": "اپل با پشت سر گذاشتن انویدیا، روز خود را به عنوان با ارزش ترین شرکت جهان به پایان می رساند",
+      "title_fa": "اپل با پشت سر گذاشتن انویدیا، روز خود را به عنوان با ارزش ترین شرکت جهان به پایان می رساند",
+      "title_en": "Apple ends day as world's most valuable company, passing Nvidia",
+      "summary": "انویدیا از ژوئن 2025، زمانی که تاج را از مایکروسافت گرفت، رتبه اول را به عنوان با ارزش ترین شرکت در اختیار داشت.",
+      "summary_fa": "انویدیا از ژوئن 2025، زمانی که تاج را از مایکروسافت گرفت، رتبه اول را به عنوان با ارزش ترین شرکت در اختیار داشت.",
+      "summary_en": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+      "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 21:12:26 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "05c1dfd0ae3bcda327dc34de717b9515",
+      "title": "اخبار استرالیا زنده: آنتونی آلبانیز از سالی مک مانوس و میشل اونیل به عنوان \"غول\" تمجید می کند که آنها از ACTU کنار می روند.",
+      "title_fa": "اخبار استرالیا زنده: آنتونی آلبانیز از سالی مک مانوس و میشل اونیل به عنوان \"غول\" تمجید می کند که آنها از ACTU کنار می روند.",
+      "title_en": "Australia news live: Anthony Albanese praises Sally McManus and Michele O’Neil as ‘giants’ as they step down from ACTU",
+      "summary": "نخست وزیر پس از اعلام غافلگیرانه از دبیر و رئیس شورای اتحادیه های کارگری استرالیا ادای احترام می کند. به‌روزرسانی‌ها را به‌طور زنده دنبال کنید، ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صبح بخیر، نیک ویسر اینجاست تا اخبار فوری روز را به عهده بگیرد. بیایید به آن برسیم. جلسات مهمی که برای آزمایش استفاده گسترده اداره مالیات استرالیا از مراکز تماس خصوصی طراحی شده‌اند، امروز آغاز می‌شود، در حالی که ادعا می‌شود کارکنان برون‌سپاری تا 40 درصد کمتر از همتایان خدمات عمومی خود در همان خطوط تلفن دستمزد می‌گیرند. ادامه مطلب...",
+      "summary_fa": "نخست وزیر پس از اعلام غافلگیرانه از دبیر و رئیس شورای اتحادیه های کارگری استرالیا ادای احترام می کند. به‌روزرسانی‌ها را به‌طور زنده دنبال کنید، ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صبح بخیر، نیک ویسر اینجاست تا اخبار فوری روز را به عهده بگیرد. بیایید به آن برسیم. جلسات مهمی که برای آزمایش استفاده گسترده اداره مالیات استرالیا از مراکز تماس خصوصی طراحی شده‌اند، امروز آغاز می‌شود، در حالی که ادعا می‌شود کارکنان برون‌سپاری تا 40 درصد کمتر از همتایان خدمات عمومی خود در همان خطوط تلفن دستمزد می‌گیرند. ادامه مطلب...",
+      "summary_en": "Prime minister pays tribute to secretary and president of the Australian Council of Trade Unions after surprise announcement. Follow updates liveGet our breaking news email, free app or daily news podcastGood morning, Nick Visser here to take over the day’s breaking news. Let’s get to it.Landmark hearings designed to test the Australian Taxation Office’s widespread use of private call centres starts today, amid claims outsource workers are paid up to 40% less than their public service counterparts on the same phone lines. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 21:11:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ebb97fab1a824544887f0e5e323eeb64db8a6faa/1692_0_4839_3874/master/4839.jpg?width=140&quality=85&auto=format&fit=max&s=6397ddc8a371ef09beefa096024554d9",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "290331df28d8ad9ae3e8e64431a81ac6",
+      "title": "ترامپ می‌گوید مذاکرات جنگ با ایران در زمان آرامش در حملات انجام می‌شود",
+      "title_fa": "ترامپ می‌گوید مذاکرات جنگ با ایران در زمان آرامش در حملات انجام می‌شود",
+      "title_en": "Trump says Iran war talks taking place during lull in strikes",
+      "summary": "رئیس جمهور آمریکا می گوید \"احتمال زیادی وجود دارد که اتفاقی بیفتد\"، زیرا ایران انجام مذاکرات مستقیم را رد می کند.",
+      "summary_fa": "رئیس جمهور آمریکا می گوید \"احتمال زیادی وجود دارد که اتفاقی بیفتد\"، زیرا ایران انجام مذاکرات مستقیم را رد می کند.",
+      "summary_en": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 21:10:56 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a17b/live/2c584380-89f9-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "250605bcfc3f8c99ae5cde0a3b129f83",
+      "title": "لحظه \"سوسک\" هند",
+      "title_fa": "لحظه \"سوسک\" هند",
+      "title_en": "India’s ‘Cockroach’ Moment",
+      "summary": "نارندرا مودی به خواسته های جوانان هند تن داد - اشاره ای به قدرت واقعی آنها.",
+      "summary_fa": "نارندرا مودی به خواسته های جوانان هند تن داد - اشاره ای به قدرت واقعی آنها.",
+      "summary_en": "Narendra Modi caved to the demands of India’s young people — a nod to their real power.",
+      "link": "https://www.nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html",
+      "source": "NY Times",
+      "published_at": "Mon, 27 Jul 2026 21:10:39 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-theworld-india-protests-01-wcvj-promo/28int-theworld-india-protests-01-wcvj-promo-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "762f3c28631ae3bd41a221f325b17422",
+      "title": "فناوری‌های جدید آتش‌نشانی می‌تواند به نبرد آتش‌سوزی‌هایی مانند آنچه در فرانسه و اسپانیا وجود دارد کمک کند",
+      "title_fa": "فناوری‌های جدید آتش‌نشانی می‌تواند به نبرد آتش‌سوزی‌هایی مانند آنچه در فرانسه و اسپانیا وجود دارد کمک کند",
+      "title_en": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+      "summary": "تغییرات آب و هوایی احتمال آتش سوزی های بزرگ را افزایش می دهد و نیاز به ابزارهای جدید برای مبارزه با آنها را ایجاد می کند.",
+      "summary_fa": "تغییرات آب و هوایی احتمال آتش سوزی های بزرگ را افزایش می دهد و نیاز به ابزارهای جدید برای مبارزه با آنها را ایجاد می کند.",
+      "summary_en": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
+      "link": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+      "source": "Wired",
+      "published_at": "Mon, 27 Jul 2026 21:06:54 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "430c0714199087f4968802f895e3c738",
+      "title": "در حالی که ایالات متحده جنگ با ایران را متوقف می کند، آیا واقعاً سلاح ترامپ تمام شده است؟",
+      "title_fa": "در حالی که ایالات متحده جنگ با ایران را متوقف می کند، آیا واقعاً سلاح ترامپ تمام شده است؟",
+      "title_en": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+      "summary": "ایالات متحده در طول جنگ خود با ایران هزاران موشک را شلیک کرده است که به سختی قابل تعویض هستند. ما باز می کنیم که آیا \"زرادخانه آزادی\" آن به طرز خطرناکی کم است یا خیر.",
+      "summary_fa": "ایالات متحده در طول جنگ خود با ایران هزاران موشک را شلیک کرده است که به سختی قابل تعویض هستند. ما باز می کنیم که آیا \"زرادخانه آزادی\" آن به طرز خطرناکی کم است یا خیر.",
+      "summary_en": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 21:06:42 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6b399ef6867f440763fd4292ffadade4",
+      "title": "امیدها برای بازگشت به دیپلماسی در حالی که ایران و آمریکا برای سومین روز آتش گرفته اند",
+      "title_fa": "امیدها برای بازگشت به دیپلماسی در حالی که ایران و آمریکا برای سومین روز آتش گرفته اند",
+      "title_en": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "summary": "میانجی‌های قطر و پاکستان برای از سرگیری مذاکرات آتش‌بس در میان توقف شکننده خصومت‌ها تلاش می‌کنند.",
+      "summary_fa": "میانجی‌های قطر و پاکستان برای از سرگیری مذاکرات آتش‌بس در میان توقف شکننده خصومت‌ها تلاش می‌کنند.",
+      "summary_en": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 21:04:09 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "af92bcc23309a1a0e1cb833e993f8e1d",
       "title": "\"ذخیره شده در قفسه\": مدیر مراسم تشییع جنازه بریتانیا به دلیل اجساد سوزانده نشده با زندان روبرو می شود",
       "title_fa": "\"ذخیره شده در قفسه\": مدیر مراسم تشییع جنازه بریتانیا به دلیل اجساد سوزانده نشده با زندان روبرو می شود",
@@ -31652,6 +31883,237 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "8274a3d2834b89085472a7ab25aae8e1",
+      "title": "با افزایش هزینه های هوش مصنوعی، ریسک های اعتباری فناوری بزرگ به شدت افزایش می یابد",
+      "title_fa": "با افزایش هزینه های هوش مصنوعی، ریسک های اعتباری فناوری بزرگ به شدت افزایش می یابد",
+      "title_en": "Big Tech credit risks rise sharply as AI spending soars",
+      "summary": "سرمایه‌گذاران به‌طور فزاینده‌ای نگران عجله گرفتن وام برای تأمین سرمایه‌های عظیم در مراکز داده هستند",
+      "summary_fa": "سرمایه‌گذاران به‌طور فزاینده‌ای نگران عجله گرفتن وام برای تأمین سرمایه‌های عظیم در مراکز داده هستند",
+      "summary_en": "Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres",
+      "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 20:55:03 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fae61387f-c3f9-405c-b957-7d8169553736.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ea7079a75ededec5cedb70f80c4fc3a",
+      "title": "از «نفت» تا «شوک»، این چیزی است که معامله گران کالشی انتظار دارند، کوین وارش، رئیس فدرال رزرو در این هفته بیان کند.",
+      "title_fa": "از «نفت» تا «شوک»، این چیزی است که معامله گران کالشی انتظار دارند، کوین وارش، رئیس فدرال رزرو در این هفته بیان کند.",
+      "title_en": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chairman Kevin Warsh will say this week",
+      "summary": "معامله گران Kalshi پیش بینی می کنند که Warsh در کنفرانس مطبوعاتی این هفته فدرال رزرو به شوک عرضه هفته گذشته اشاره کند.",
+      "summary_fa": "معامله گران Kalshi پیش بینی می کنند که Warsh در کنفرانس مطبوعاتی این هفته فدرال رزرو به شوک عرضه هفته گذشته اشاره کند.",
+      "summary_en": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
+      "link": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 20:52:29 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "092e028f716995c69d1ea9091b6b9468",
+      "title": "آیا رهبر جدید پرو، کیکو فوجیموری، میراث پدرش را رد خواهد کرد؟",
+      "title_fa": "آیا رهبر جدید پرو، کیکو فوجیموری، میراث پدرش را رد خواهد کرد؟",
+      "title_en": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+      "summary": "کیکو فوجیموری به عنوان رئیس جمهور انتخاب شد و بسیاری از مردم تردید دارند که او بتواند پرو را همانطور که وعده داده بود متحد کند.",
+      "summary_fa": "کیکو فوجیموری به عنوان رئیس جمهور انتخاب شد و بسیاری از مردم تردید دارند که او بتواند پرو را همانطور که وعده داده بود متحد کند.",
+      "summary_en": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:47:26 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "de88bc17daebe8bf1d4939aa4ff557df",
+      "title": "رئیس هوش مصنوعی مایکروسافت هشدار داد که حادثه هک OpenAI یک \"شلات هشدار\" برای امنیت سایبری است",
+      "title_fa": "رئیس هوش مصنوعی مایکروسافت هشدار داد که حادثه هک OpenAI یک \"شلات هشدار\" برای امنیت سایبری است",
+      "title_en": "OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns",
+      "summary": "غول نرم‌افزاری می‌گوید چاره‌ای نیست جز توسعه سیستم‌های دفاعی هوش مصنوعی در برابر هجوم حملات خودکار",
+      "summary_fa": "غول نرم‌افزاری می‌گوید چاره‌ای نیست جز توسعه سیستم‌های دفاعی هوش مصنوعی در برابر هجوم حملات خودکار",
+      "summary_en": "Software giant says ‘no choice’ but to develop AI defences against onslaught of automated attacks",
+      "link": "https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 20:44:09 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fba89783e-6269-4436-b5e7-3adda9e1f8d4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "db65ed4baaca1b1359e04d39afe5c277",
+      "title": "شیوع اسهال حماسی باعث شده است 40 درصد آمریکایی ها از میوه و سبزیجات اجتناب کنند",
+      "title_fa": "شیوع اسهال حماسی باعث شده است 40 درصد آمریکایی ها از میوه و سبزیجات اجتناب کنند",
+      "title_en": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+      "summary": "به گفته منتقدان، کندی بر تغذیه تمرکز کرده است، اما ایمنی غذا را نادیده گرفته است.",
+      "summary_fa": "به گفته منتقدان، کندی بر تغذیه تمرکز کرده است، اما ایمنی غذا را نادیده گرفته است.",
+      "summary_en": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "link": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 20:42:13 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "89339d7195aaaf96b5129145c58f0f28",
+      "title": "شهردار فرانسه هشدار داد که در حال حاضر آتش سوزی در 9 مایلی شهر بوردو فرانسه وجود دارد",
+      "title_fa": "شهردار فرانسه هشدار داد که در حال حاضر آتش سوزی در 9 مایلی شهر بوردو فرانسه وجود دارد",
+      "title_en": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "summary": "توماس کازناو می گوید که آنها در صورت صدور مجوز تخلیه بیشتر آماده می شوند، زیرا شهردار یک شهر مجاور وضعیت را \"فاجعه بار\" خواند.",
+      "summary_fa": "توماس کازناو می گوید که آنها در صورت صدور مجوز تخلیه بیشتر آماده می شوند، زیرا شهردار یک شهر مجاور وضعیت را \"فاجعه بار\" خواند.",
+      "summary_en": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 20:34:55 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846e/live/d5f99f40-89dd-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4f4694f77a969d9583ceaa5dd7d26e6",
+      "title": "استعفای مقام DHS به دلیل \"جنگ علیه مهاجران\"",
+      "title_fa": "استعفای مقام DHS به دلیل \"جنگ علیه مهاجران\"",
+      "title_en": "DHS Official Resigns, Citing ‘War on Immigrants’",
+      "summary": "مدیر اجرایی مستعفی دفتر آمار امنیت داخلی یکی از معدود مقامات فدرال است که علیه سرکوب مهاجرت دولت ترامپ صحبت می کند.",
+      "summary_fa": "مدیر اجرایی مستعفی دفتر آمار امنیت داخلی یکی از معدود مقامات فدرال است که علیه سرکوب مهاجرت دولت ترامپ صحبت می کند.",
+      "summary_en": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
+      "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
+      "source": "Wired",
+      "published_at": "Mon, 27 Jul 2026 20:34:04 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4583cd4b5f86bd300deeb2536fae7d24",
+      "title": "دادگاه بریتانیا پیشنهاد بحرین برای جلوگیری از شکایت جاسوس‌افزار فعالان را رد کرد",
+      "title_fa": "دادگاه بریتانیا پیشنهاد بحرین برای جلوگیری از شکایت جاسوس‌افزار فعالان را رد کرد",
+      "title_en": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
+      "summary": "این حکم مقرر می‌دارد که کشورهایی که از نرم‌افزارهای جاسوسی بر روی افراد در بریتانیا استفاده می‌کنند، قابل شکایت هستند.",
+      "summary_fa": "این حکم مقرر می‌دارد که کشورهایی که از نرم‌افزارهای جاسوسی بر روی افراد در بریتانیا استفاده می‌کنند، قابل شکایت هستند.",
+      "summary_en": "Ruling establishes that countries using spyware on people in the UK can be sued.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:32:59 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "ee91afbc74c6ebc6a2ef477cd546e642",
+      "title": "iOS و macOS 26.6 امروز وارد شدند و راه را برای iOS و macOS 27 هموار کردند.",
+      "title_fa": "iOS و macOS 26.6 امروز وارد شدند و راه را برای iOS و macOS 27 هموار کردند.",
+      "title_en": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "summary": "اینها احتمالاً آخرین به‌روزرسانی‌های مورد توجه قبل از به‌روزرسانی‌های بزرگ‌تر پاییز اپل هستند.",
+      "summary_fa": "اینها احتمالاً آخرین به‌روزرسانی‌های مورد توجه قبل از به‌روزرسانی‌های بزرگ‌تر پاییز اپل هستند.",
+      "summary_en": "These are likely the last updates of note before Apple's bigger fall updates.",
+      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 20:32:45 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06d4a98d9ca3e682a198ca42ddfa4de6",
+      "title": "موج گرما گسترش بیشتر آتش‌سوزی در فرانسه و اسپانیا را تهدید می‌کند",
+      "title_fa": "موج گرما گسترش بیشتر آتش‌سوزی در فرانسه و اسپانیا را تهدید می‌کند",
+      "title_en": "Heat Wave Threatens Further Wildfire Spread in France and Spain",
+      "summary": "رکورد آتش سوزی جنگلی که بیش از 200 خانه را ویران کرده و باعث تخلیه گسترده شده است، می تواند با ورود موج گرما جدید تشدید شود.",
+      "summary_fa": "رکورد آتش سوزی جنگلی که بیش از 200 خانه را ویران کرده و باعث تخلیه گسترده شده است، می تواند با ورود موج گرما جدید تشدید شود.",
+      "summary_en": "The record wildfires, which have destroyed more than 200 homes and prompted large evacuations, could intensify with the arrival of a new heat wave.",
+      "link": "https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html",
+      "source": "NY Times",
+      "published_at": "Mon, 27 Jul 2026 20:30:03 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-europe-wildfires-ledeall-1-bcvz/27int-europe-wildfires-ledeall-1-bcvz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "828ee181b00040ae8c7df9343bf3bb56",
+      "title": "Hakeem Jeffries مقرون به صرفه بودن را در مرکز مبارزات میان دوره ای دموکرات ها قرار می دهد",
+      "title_fa": "Hakeem Jeffries مقرون به صرفه بودن را در مرکز مبارزات میان دوره ای دموکرات ها قرار می دهد",
+      "title_en": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
+      "summary": "رهبر دموکرات های مجلس نمایندگان آمریکا از دستور کار \"مبارزه برای آمریکای مقرون به صرفه\" رونمایی کرد و دونالد ترامپ را مسئول افزایش هزینه ها دانست.",
+      "summary_fa": "رهبر دموکرات های مجلس نمایندگان آمریکا از دستور کار \"مبارزه برای آمریکای مقرون به صرفه\" رونمایی کرد و دونالد ترامپ را مسئول افزایش هزینه ها دانست.",
+      "summary_en": "US House Democratic leader unveils 'Fighting for an Affordable America' agenda, blaming Donald Trump for rising costs.",
+      "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:27:29 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -31676,6 +32138,111 @@
       }
     },
     {
+      "id": "b3502f3acd66d36c0e147ce55a1fd36a",
+      "title": "ترامپ در بحبوحه کاهش محبوبیت، پیام اقتصادی را به میشیگان می برد",
+      "title_fa": "ترامپ در بحبوحه کاهش محبوبیت، پیام اقتصادی را به میشیگان می برد",
+      "title_en": "Trump takes economic message to Michigan amid dwindling popularity",
+      "summary": "رئیس جمهور ایالات متحده از محبوبیت پایین در ایالتی رنج می برد که برای سیاست های تجاری او به \"زمین صفر\" تبدیل شده است.",
+      "summary_fa": "رئیس جمهور ایالات متحده از محبوبیت پایین در ایالتی رنج می برد که برای سیاست های تجاری او به \"زمین صفر\" تبدیل شده است.",
+      "summary_en": "US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies.",
+      "link": "https://www.aljazeera.com/news/2026/7/27/trump-takes-economic-message-to-michigan-amid-dwindling-popularity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:23:12 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd68b5be62cc723bf97c2851c1ede834",
+      "title": "یک مرد بی گناه را به مدت 18 ماه به زندان فرستاد",
+      "title_fa": "یک مرد بی گناه را به مدت 18 ماه به زندان فرستاد",
+      "title_en": "A missing underscore sent innocent man to prison for 18 months",
+      "summary": "وقتی اولین قدم اشتباه می شود، نتایج بدی به دنبال دارد.",
+      "summary_fa": "وقتی اولین قدم اشتباه می شود، نتایج بدی به دنبال دارد.",
+      "summary_en": "When the first step goes wrong, bad results follow.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 20:22:03 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c46bd66232c78cdf7eae863fa0496f8c",
+      "title": "آیا برنهام به وعده خود مبنی بر عملکرد بهتر در جنگ اسرائیل علیه غزه عمل کرده است؟",
+      "title_fa": "آیا برنهام به وعده خود مبنی بر عملکرد بهتر در جنگ اسرائیل علیه غزه عمل کرده است؟",
+      "title_en": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
+      "summary": "آیا کابینه جدید بریتانیا نقش این کشور را در جنگ اسرائیل علیه غزه تغییر خواهد داد؟",
+      "summary_fa": "آیا کابینه جدید بریتانیا نقش این کشور را در جنگ اسرائیل علیه غزه تغییر خواهد داد؟",
+      "summary_en": "Will Britain's new cabinet change the country’s role in Israel’s war on Gaza?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:12:45 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "4797bdd52363fea8669255e564c95432",
+      "title": "وب اسکرپر پس از پیروزی دادگاه می گوید: «گوگل و ردیت مالک اینترنت نیستند",
+      "title_fa": "وب اسکرپر پس از پیروزی دادگاه می گوید: «گوگل و ردیت مالک اینترنت نیستند",
+      "title_en": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "summary": "کارشناس می‌گوید استفاده گوگل و ردیت از DMCA برای مبارزه با اسکرابر وب عجیب است.",
+      "summary_fa": "کارشناس می‌گوید استفاده گوگل و ردیت از DMCA برای مبارزه با اسکرابر وب عجیب است.",
+      "summary_en": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 27 Jul 2026 20:12:42 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "753af3db51e20f705419047ef67e1fee",
+      "title": "اپل پس از گذشت تاریخی از عملکرد بهتر، عنوان بزرگترین شرکت جهان را پس گرفت",
+      "title_fa": "اپل پس از گذشت تاریخی از عملکرد بهتر، عنوان بزرگترین شرکت جهان را پس گرفت",
+      "title_en": "Apple reclaims title of world’s largest company after historic stretch of outperformance",
+      "summary": "سهام اپل در مسیری قرار دارد که بهترین عملکرد ماهانه خود را در بیش از دو دهه اخیر نسبت به Nasdaq-100 ببیند.",
+      "summary_fa": "سهام اپل در مسیری قرار دارد که بهترین عملکرد ماهانه خود را در بیش از دو دهه اخیر نسبت به Nasdaq-100 ببیند.",
+      "summary_en": "Apple’s stock is on track to see its best monthly performance in more than two decades relative to the Nasdaq-100.",
+      "link": "https://www.marketwatch.com/story/apple-reclaims-title-of-worlds-largest-company-after-historic-stretch-of-outperformance-92920ab6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 27 Jul 2026 20:12:00 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-83869069",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8f54d0e3640dd0dbcd70e4068ac4e71f",
       "title": "دولت ترامپ از دادگاه عالی می‌خواهد تا برای محدودیت‌های رای‌گیری پستی مداخله کند",
       "title_fa": "دولت ترامپ از دادگاه عالی می‌خواهد تا برای محدودیت‌های رای‌گیری پستی مداخله کند",
@@ -31690,6 +32257,48 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a72ed43733c50e64d37a94a52fc63e63",
+      "title": "فیلم منتشر نشده تلاش لیندسی گراهام برای جنگ علیه ایران را نشان می دهد",
+      "title_fa": "فیلم منتشر نشده تلاش لیندسی گراهام برای جنگ علیه ایران را نشان می دهد",
+      "title_en": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
+      "summary": "فیلم مستند منتشر نشده سناتور فقید آمریکایی لیندسی گراهام را نشان می دهد که جنگ علیه ایران را جشن می گیرد.",
+      "summary_fa": "فیلم مستند منتشر نشده سناتور فقید آمریکایی لیندسی گراهام را نشان می دهد که جنگ علیه ایران را جشن می گیرد.",
+      "summary_en": "Unreleased documentary footage shows late US Senator Lindsey Graham celebrating the war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 27 Jul 2026 20:09:16 +0000",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b1c107f42b867910b111d5c34996feeb",
+      "title": "چت های خصوصی کلود در نتایج جستجوی گوگل و بینگ نمایش داده شد",
+      "title_fa": "چت های خصوصی کلود در نتایج جستجوی گوگل و بینگ نمایش داده شد",
+      "title_en": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "summary": "این خرابکاری نشان می دهد که متوقف کردن خزنده های وب از ایجاد مکالمات ظاهرا خصوصی با چت ربات های هوش مصنوعی بسیار دشوار است.",
+      "summary_fa": "این خرابکاری نشان می دهد که متوقف کردن خزنده های وب از ایجاد مکالمات ظاهرا خصوصی با چت ربات های هوش مصنوعی بسیار دشوار است.",
+      "summary_en": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "source": "Wired",
+      "published_at": "Mon, 27 Jul 2026 20:08:00 +0000",
+      "date_iso": "2026-07-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -32397,6 +33006,27 @@
       "summary": "نخست وزیر 61 منشی خصوصی پارلمانی را منصوب کرده است، نقشی بدون دستمزد که دارنده آن را ملزم به رای دادن با دولت می کند.",
       "summary_fa": "نخست وزیر 61 منشی خصوصی پارلمانی را منصوب کرده است، نقشی بدون دستمزد که دارنده آن را ملزم به رای دادن با دولت می کند.",
       "summary_en": "PM has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to vote with the government",
+      "link": "https://www.ft.com/content/2fe22a35-5544-4a0e-b72a-b93e941cbcad?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 27 Jul 2026 17:51:21 GMT",
+      "date_iso": "2026-07-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe72ec290-973b-4bb0-be5b-59bfe504599a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b6a213d8db185f1ff36a915ad9842d6c",
+      "title": "نخست‌وزیر برای جلوگیری از ناآرامی‌های کارگری مشاغل خود را خالی می‌کند",
+      "title_fa": "نخست‌وزیر برای جلوگیری از ناآرامی‌های کارگری مشاغل خود را خالی می‌کند",
+      "title_en": "PM doles out jobs in bid to avert Labour unrest",
+      "summary": "رهبر جدید 61 منشی خصوصی پارلمانی را منصوب کرده است، نقشی بدون مزد که دارنده آن را به دولت متصل می کند.",
+      "summary_fa": "رهبر جدید 61 منشی خصوصی پارلمانی را منصوب کرده است، نقشی بدون مزد که دارنده آن را به دولت متصل می کند.",
+      "summary_en": "New leader has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to the government",
       "link": "https://www.ft.com/content/2fe22a35-5544-4a0e-b72a-b93e941cbcad?syn-25a6b1a6=1",
       "source": "Financial Times",
       "published_at": "Mon, 27 Jul 2026 17:51:21 GMT",
@@ -34000,6 +34630,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/7b2bbb6f663d6ab87e1d09b903f08754d5bea64e/46_0_4334_3467/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=7162d2127ed380761368a788325244e2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d87a365047383156d45e52ae17ea6c55",
+      "title": "بنابراین چگونه می‌توانید به سالن رئیس کانتاس دسترسی پیدا کنید؟ آلن جویس چند نکته دارد",
+      "title_fa": "بنابراین چگونه می‌توانید به سالن رئیس کانتاس دسترسی پیدا کنید؟ آلن جویس چند نکته دارد",
+      "title_en": "So how do you get access to the Qantas chairman’s lounge? Alan Joyce has some tips",
+      "summary": "مدیر اجرایی سابق کانتاس در خاطرات خود استفاده از سالن را به‌عنوان ابزاری برای تأثیرگذاری بر سیاستمداران رد می‌کند. وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. قضات، سیاستمداران، سردبیران روزنامه‌ها و خرج‌کنندگان بزرگ: آلن جویس، مدیر سابق کانتاس، نحوه اطلاع رسانی به مدیران اجرایی خطوط هوایی خصوصی خود را به مدیران شرکت خصوصی خود نشان داده است. جویس در خاطرات خود که روز سه شنبه منتشر شد، استفاده از سالن را به عنوان ابزاری برای تأثیرگذاری بر سیاستمداران رد می کند و ادعا می کند که استرالیایی های معروف \"التماس\" کرده اند تا به \"مشکلات منحصر به فرد ترین باشگاه در کشور\" دسترسی داشته باشند. ادامه مطلب...",
+      "summary_fa": "مدیر اجرایی سابق کانتاس در خاطرات خود استفاده از سالن را به‌عنوان ابزاری برای تأثیرگذاری بر سیاستمداران رد می‌کند. وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. قضات، سیاستمداران، سردبیران روزنامه‌ها و خرج‌کنندگان بزرگ: آلن جویس، مدیر سابق کانتاس، نحوه اطلاع رسانی به مدیران اجرایی خطوط هوایی خصوصی خود را به مدیران شرکت خصوصی خود نشان داده است. جویس در خاطرات خود که روز سه شنبه منتشر شد، استفاده از سالن را به عنوان ابزاری برای تأثیرگذاری بر سیاستمداران رد می کند و ادعا می کند که استرالیایی های معروف \"التماس\" کرده اند تا به \"مشکلات منحصر به فرد ترین باشگاه در کشور\" دسترسی داشته باشند. ادامه مطلب...",
+      "summary_en": "In his memoir, the former Qantas chief executive denies using the lounge as a tool to influence politiciansFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJudges, politicians, newspaper editors and big spenders: Alan Joyce, the former Qantas chief executive, has revealed how the airline admits members to its private chairman’s lounge.In his memoir, released on Tuesday, Joyce denies using the lounge as a tool to influence politicians and claims famous Australians “begged” to be granted access to “arguably the most exclusive club in the country”. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir",
+      "source": "The Guardian",
+      "published_at": "Mon, 27 Jul 2026 15:00:13 GMT",
+      "date_iso": "2026-07-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8a7b7c73d21277af3375bcb5822452e64f814c7d/776_0_2306_1846/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=75f299ffd0667b1bc968e73127c5150c",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
