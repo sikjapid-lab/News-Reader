@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-28 10:03:18",
-  "total_count": 2776,
+  "last_update": "2026-07-28 12:09:04",
+  "total_count": 2845,
   "articles": [
     {
       "id": "95284296b8b73b4d139d9d3eaccad7de",
@@ -9898,6 +9898,384 @@
       }
     },
     {
+      "id": "b37acb04a41f13b462177c20b91a91c3",
+      "title": "هشدار سونامی در جنوب ژاپن پس از زلزله ۷.۱ ریشتری لغو شد",
+      "title_fa": "هشدار سونامی در جنوب ژاپن پس از زلزله ۷.۱ ریشتری لغو شد",
+      "title_en": "Tsunami warning lifted in southern Japan after 7.1 quake",
+      "summary": "برق در حدود 50000 خانه قطع شده است و 50 نفر در بیمارستان بستری هستند، اما مقامات می گویند که هیچ موج بزرگی از کیوشو انتظار نمی رود.",
+      "summary_fa": "برق در حدود 50000 خانه قطع شده است و 50 نفر در بیمارستان بستری هستند، اما مقامات می گویند که هیچ موج بزرگی از کیوشو انتظار نمی رود.",
+      "summary_en": "Power is out in around 50,000 homes and 50 people are in hospital but authorities say no large waves are expected off Kyushu.",
+      "link": "http://www.euronews.com/2026/07/28/tsunami-warning-lifted-in-southern-japan-after-71-quake",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:56:38 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "bedca7a243245d57340e7ade2ea5d903",
+      "title": "اتحادیه اروپا شرکت‌های فناوری را مجبور می‌کند تا به دیپ‌فیک‌ها برچسب بزنند. آیا کار خواهد کرد؟",
+      "title_fa": "اتحادیه اروپا شرکت‌های فناوری را مجبور می‌کند تا به دیپ‌فیک‌ها برچسب بزنند. آیا کار خواهد کرد؟",
+      "title_en": "The EU is forcing tech companies to label deepfakes. Will it work?",
+      "summary": "از این هفته، قانون هوش مصنوعی اتحادیه اروپا ملزم به برچسب گذاری محتوای دیپ فیک و محتوای تولید شده توسط هوش مصنوعی است. کارشناسان هشدار می دهند که شکاف های فنی و فقدان استانداردهای مشترک می تواند اجرای آن را تضعیف کند.",
+      "summary_fa": "از این هفته، قانون هوش مصنوعی اتحادیه اروپا ملزم به برچسب گذاری محتوای دیپ فیک و محتوای تولید شده توسط هوش مصنوعی است. کارشناسان هشدار می دهند که شکاف های فنی و فقدان استانداردهای مشترک می تواند اجرای آن را تضعیف کند.",
+      "summary_en": "From this week, the EU AI Act requires deepfakes and AI-generated content to be labelled. Experts warn technical gaps and a lack of common standards could undermine enforcement.",
+      "link": "http://www.euronews.com/my-europe/2026/07/28/the-eu-is-forcing-tech-companies-to-label-deepfakes-will-it-work",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:52:14 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "337e15e36dd6d84573b4fd8b5b35405a",
+      "title": "گوترش می گوید به تلاش ها برای از سرگیری مذاکرات قبرس ادامه خواهد داد",
+      "title_fa": "گوترش می گوید به تلاش ها برای از سرگیری مذاکرات قبرس ادامه خواهد داد",
+      "title_en": "Guterres says he will continue efforts to restart Cyprus talks",
+      "summary": "دبیر کل سازمان ملل متحد پس از دیدارهای جداگانه با رئیس جمهور قبرس، کریستودولیدس و رهبر ترک قبرس، ارهورمان، بر تعهد خود به حمایت از مذاکرات مجدد تأکید کرد.",
+      "summary_fa": "دبیر کل سازمان ملل متحد پس از دیدارهای جداگانه با رئیس جمهور قبرس، کریستودولیدس و رهبر ترک قبرس، ارهورمان، بر تعهد خود به حمایت از مذاکرات مجدد تأکید کرد.",
+      "summary_en": "The UN Secretary-General reaffirmed his commitment to supporting renewed negotiations after separate meetings with Cypriot President, Christodoulides and Turkish Cypriot leader, Erhürman.",
+      "link": "http://www.euronews.com/my-europe/2026/07/28/guterres-says-he-will-continue-efforts-to-restart-cyprus-talks",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:39:17 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9826c1c12d411b4b5dde3fd966d3d0f9",
+      "title": "جامعه برلین قربانیان حمله رژه غرور را به یاد می آورد",
+      "title_fa": "جامعه برلین قربانیان حمله رژه غرور را به یاد می آورد",
+      "title_en": "Berlin community remembers victims of Pride parade attack",
+      "summary": "برلینی‌ها پس از حمله مرگبار خودرو و قمه در نزدیکی رژه پراید، گل، شمع و پیام‌ها را در یادبود تیرگارتن به جای می‌گذارند.",
+      "summary_fa": "برلینی‌ها پس از حمله مرگبار خودرو و قمه در نزدیکی رژه پراید، گل، شمع و پیام‌ها را در یادبود تیرگارتن به جای می‌گذارند.",
+      "summary_en": "Berliners leave flowers, candles and messages at Tiergarten memorial after a deadly vehicle and machete attack near the Pride parade.",
+      "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:19:23 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4249e2733cdafa2b6d45deb03e43e420",
+      "title": "لباس‌ها و رژه‌های قرون وسطایی خیابان‌های سیگیسوآرا در رومانی را پر کرده است",
+      "title_fa": "لباس‌ها و رژه‌های قرون وسطایی خیابان‌های سیگیسوآرا در رومانی را پر کرده است",
+      "title_en": "Medieval costumes and parades fill Sighisoara streets in Romania",
+      "summary": "جشنواره قرون وسطایی سیگیسوآرا شوالیه ها، لباس ها، موسیقی و نمایش های رزمی را به ارگ ​​تاریخی ترانسیلوانیا رومانی می آورد.",
+      "summary_fa": "جشنواره قرون وسطایی سیگیسوآرا شوالیه ها، لباس ها، موسیقی و نمایش های رزمی را به ارگ ​​تاریخی ترانسیلوانیا رومانی می آورد.",
+      "summary_en": "Sighisoara's medieval festival brings knights, costumes, music and combat displays to Romania's historic Transylvanian citadel.",
+      "link": "http://www.euronews.com/video/2026/07/28/medieval-costumes-and-parades-fill-sighisoara-streets-in-romania",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:09:08 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1072b18641a0f2311911dc0d22aa4c81",
+      "title": "دو سوم کودکان در اروپا در معرض دمای شدید قرار دارند",
+      "title_fa": "دو سوم کودکان در اروپا در معرض دمای شدید قرار دارند",
+      "title_en": "Two-thirds of children exposed to extreme temperatures in Europe",
+      "summary": "به گفته یک سازمان حقوق کودک، شش ماه پس از سال 2026، سه برابر بیشتر از کل سال 2025، کودکان در معرض دمای شدید قرار گرفتند.",
+      "summary_fa": "به گفته یک سازمان حقوق کودک، شش ماه پس از سال 2026، سه برابر بیشتر از کل سال 2025، کودکان در معرض دمای شدید قرار گرفتند.",
+      "summary_en": "Six months into 2026, three times more children were exposed to extreme temperatures compared to the whole of 2025,  according to a child rights organisation.",
+      "link": "http://www.euronews.com/health/2026/07/28/two-thirds-of-children-exposed-to-extreme-temperatures-in-europe",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:00:47 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d41ebafaad3d0c92441a2cd725a6d7e5",
+      "title": "کارشناسان می گویند هیچ مدرکی وجود ندارد که تحقیقات فساد مجارستان برخلاف ادعاهای سیاسی، حاکمیت قانون را نقض کند",
+      "title_fa": "کارشناسان می گویند هیچ مدرکی وجود ندارد که تحقیقات فساد مجارستان برخلاف ادعاهای سیاسی، حاکمیت قانون را نقض کند",
+      "title_en": "No evidence Hungary corruption probe breached rule of law, say experts, contrary to political claims",
+      "summary": "ادعاهای متناقضی در مجارستان در مورد اینکه چرا یک مرکز داده مرتبط با حزب فیدز نخست وزیر سابق ویکتور اوربان به عنوان بخشی از تحقیقات گسترده تر درباره فساد مورد حمله قرار گرفت، مطرح شده است. مکعب نگاهی می اندازد.",
+      "summary_fa": "ادعاهای متناقضی در مجارستان در مورد اینکه چرا یک مرکز داده مرتبط با حزب فیدز نخست وزیر سابق ویکتور اوربان به عنوان بخشی از تحقیقات گسترده تر درباره فساد مورد حمله قرار گرفت، مطرح شده است. مکعب نگاهی می اندازد.",
+      "summary_en": "Conflicting claims have emerged in Hungary about why a data centre linked to former PM Viktor Orbán's Fidesz party was raided as part of a wider corruption investigation. The Cube takes a look.",
+      "link": "http://www.euronews.com/my-europe/2026/07/28/no-evidence-hungary-corruption-probe-breached-rule-of-law-say-experts-contrary-to-politica",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 13:00:33 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f50824f37668e4564d6068f0606a1c32",
+      "title": "مطالعه نشان می‌دهد که پمپ‌های بادی، خورشیدی و حرارتی اتحادیه اروپا را تا سال 2030 از وابستگی LNG نجات می‌دهند.",
+      "title_fa": "مطالعه نشان می‌دهد که پمپ‌های بادی، خورشیدی و حرارتی اتحادیه اروپا را تا سال 2030 از وابستگی LNG نجات می‌دهند.",
+      "title_en": "Wind, solar and heat pumps offer EU escape from LNG dependence by 2030, study says",
+      "summary": "اگر اتحادیه اروپا به اهداف استقرار انرژی خورشیدی و بادی خود دست یابد، می تواند تقاضای گاز را تا سال 2030 حدود یک چهارم کاهش دهد، با صرفه جویی هایی که می تواند بیش از مقدار LNG مورد انتظار بلوک برای واردات از قطر باشد. اما انتقال آب و هوا و انرژی اروپا به چین فرصت منحصر به فردی می دهد.",
+      "summary_fa": "اگر اتحادیه اروپا به اهداف استقرار انرژی خورشیدی و بادی خود دست یابد، می تواند تقاضای گاز را تا سال 2030 حدود یک چهارم کاهش دهد، با صرفه جویی هایی که می تواند بیش از مقدار LNG مورد انتظار بلوک برای واردات از قطر باشد. اما انتقال آب و هوا و انرژی اروپا به چین فرصت منحصر به فردی می دهد.",
+      "summary_en": "If the EU meets its solar and wind deployment targets, it could cut gas demand by around one-quarter by 2030, with savings that could exceed the amount of LNG the bloc is expected to import from Qatar. But Europe's climate and energy transition is giving China a unique opportunity.",
+      "link": "http://www.euronews.com/my-europe/2026/07/28/wind-solar-and-heat-pumps-offer-eu-escape-from-lng-dependence-by-2030-study-says",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 12:57:47 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "59a9e240ed276bfd959dd7a65e0fe410",
+      "title": "گرما، خشکسالی، آتش سوزی: اروپا نیاز به احیای تالاب ها، رودخانه ها و مناظر دارد",
+      "title_fa": "گرما، خشکسالی، آتش سوزی: اروپا نیاز به احیای تالاب ها، رودخانه ها و مناظر دارد",
+      "title_en": "Heat, drought, fire: Europe needs to restore wetlands, rivers and landscapes",
+      "summary": "کارشناسان سازمان‌های زیست‌محیطی، از جمله WWF، از یورونیوز برای اقدام فوری برای انطباق با شرایط آب و هوایی در حال تغییر دعوت می‌کنند. با قرار دادن احیای مناظر و سیستم های آب سالم در قلب قوانین اقلیمی می توان به کاهش خطرات آب و هوایی در ریشه آنها کمک کرد.",
+      "summary_fa": "کارشناسان سازمان‌های زیست‌محیطی، از جمله WWF، از یورونیوز برای اقدام فوری برای انطباق با شرایط آب و هوایی در حال تغییر دعوت می‌کنند. با قرار دادن احیای مناظر و سیستم های آب سالم در قلب قوانین اقلیمی می توان به کاهش خطرات آب و هوایی در ریشه آنها کمک کرد.",
+      "summary_en": "Experts from environmental organisations, including WWF, are calling  in an op-ed for Euronews for urgent action to adapt to a changing climate. By placing the restoration of landscapes and healthy water systems at the heart of climate legislation can help to reducing climate risks at their root.",
+      "link": "http://www.euronews.com/my-europe/2026/07/28/heat-drought-fire-europe-needs-to-restore-wetlands-rivers-and-landscapes",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 12:34:06 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "440b8c41c6574898c4f43129efd839ad",
+      "title": "سوری دختر تام کروز و کیتی هولمز نام خانوادگی پدر خود را حذف می کند",
+      "title_fa": "سوری دختر تام کروز و کیتی هولمز نام خانوادگی پدر خود را حذف می کند",
+      "title_en": "Tom Cruise and Katie Holmes' daughter Suri drops her estranged father's last name",
+      "summary": "سوری دختر تام کروز و کیتی هولمز آخرین فرزند مشهوری است که نام خانوادگی معروف خود را کنار گذاشته است. گزارش ها نشان می دهد که او به طور قانونی نام خانوادگی خود را از کروز به نوئل تغییر داده است - نام میانی هلمز.",
+      "summary_fa": "سوری دختر تام کروز و کیتی هولمز آخرین فرزند مشهوری است که نام خانوادگی معروف خود را کنار گذاشته است. گزارش ها نشان می دهد که او به طور قانونی نام خانوادگی خود را از کروز به نوئل تغییر داده است - نام میانی هلمز.",
+      "summary_en": "Tom Cruise and Katie Holmes’ daughter Suri is the latest celebrity child to drop their famous last name. Reports indicate she has legally changed her surname from Cruise to Noelle - Holmes' middle name.",
+      "link": "http://www.euronews.com/culture/2026/07/28/tom-cruise-and-katie-holmes-daughter-suri-drops-her-estranged-fathers-last-name",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 12:11:09 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2440bd47163b5c2bdfcc1dc8d74e16a9",
+      "title": "AfD آلمان با پرچم های پراید مخالف است اما ممکن است پس از L.G.B.T.Q مورد حمایت قرار گیرد. حمله کنید",
+      "title_fa": "AfD آلمان با پرچم های پراید مخالف است اما ممکن است پس از L.G.B.T.Q مورد حمایت قرار گیرد. حمله کنید",
+      "title_en": "Germany’s AfD Opposes Pride Flags but May Win Support After L.G.B.T.Q. Attack",
+      "summary": "تحلیلگران می گویند که حمله اخیر به جشن پراید احتمالاً انتخابات پاییز را بر موضوعاتی که به نفع حزب راست افراطی آلترناتیو برای آلمان متمرکز است، متمرکز می کند.",
+      "summary_fa": "تحلیلگران می گویند که حمله اخیر به جشن پراید احتمالاً انتخابات پاییز را بر موضوعاتی که به نفع حزب راست افراطی آلترناتیو برای آلمان متمرکز است، متمرکز می کند.",
+      "summary_en": "Analysts say a recent attack on a Pride celebration is likely to focus fall elections on issues favoring the far-right Alternative for Germany party.",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/berlin-pride-attack-afd-politics.html",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 12:06:45 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-Germany-assess-01-flkw/28int-Germany-assess-01-flkw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68c6e3c36bff72dd9f3cbde47a031c36",
+      "title": "به‌روزرسانی‌های زنده: مقامات می‌گویند بسیاری از آنها می‌ترسیدند پس از زلزله ژاپن در ریزش مرکز خرید به دام افتاده باشند",
+      "title_fa": "به‌روزرسانی‌های زنده: مقامات می‌گویند بسیاری از آنها می‌ترسیدند پس از زلزله ژاپن در ریزش مرکز خرید به دام افتاده باشند",
+      "title_en": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+      "summary": "پس از زلزله 6.8 ریشتری که استان کوماموتو در جنوب غربی این کشور را لرزاند، کارگران اورژانس برای یافتن افراد و خاموش کردن آتش در حال رقابت بودند.",
+      "summary_fa": "پس از زلزله 6.8 ریشتری که استان کوماموتو در جنوب غربی این کشور را لرزاند، کارگران اورژانس برای یافتن افراد و خاموش کردن آتش در حال رقابت بودند.",
+      "summary_en": "Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 12:06:44 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28japan-earthquake-kumamoto-wkhb/28japan-earthquake-kumamoto-wkhb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "ce79b527f1a3ce5b4b0370cfaf3b97b5",
+      "title": "بهترین هدایا برای مادر (2026): کتابخوان های الکترونیکی، تقویم دیواری دیجیتال، تغذیه کننده های هوشمند پرنده",
+      "title_fa": "بهترین هدایا برای مادر (2026): کتابخوان های الکترونیکی، تقویم دیواری دیجیتال، تغذیه کننده های هوشمند پرنده",
+      "title_en": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
+      "summary": "مادرتان هرگز هدیه‌ای بی‌فکر به شما نمی‌دهد، بنابراین شما هم نباید برای او هدیه بگیرید. در اینجا هر هدیه جالبی است که نویسندگان WIRED به مادران خود می دهند.",
+      "summary_fa": "مادرتان هرگز هدیه‌ای بی‌فکر به شما نمی‌دهد، بنابراین شما هم نباید برای او هدیه بگیرید. در اینجا هر هدیه جالبی است که نویسندگان WIRED به مادران خود می دهند.",
+      "summary_en": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
+      "link": "https://www.wired.com/story/best-gifts-for-mom-2026/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 12:04:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ceecc51dd7501dde7e794a2c359e8d51",
+      "title": "\"این یک وضعیت جهنمی است\": اسپانیا با آتش سوزی های ویرانگر دست و پنجه نرم می کند",
+      "title_fa": "\"این یک وضعیت جهنمی است\": اسپانیا با آتش سوزی های ویرانگر دست و پنجه نرم می کند",
+      "title_en": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "summary": "سه آتش سوزی در منطقه مادرید نگرانی های خاصی را ایجاد کرده است و انتظار می رود موج گرما جدیدی از روز چهارشنبه اسپانیا را درگیر کند.",
+      "summary_fa": "سه آتش سوزی در منطقه مادرید نگرانی های خاصی را ایجاد کرده است و انتظار می رود موج گرما جدیدی از روز چهارشنبه اسپانیا را درگیر کند.",
+      "summary_en": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 28 Jul 2026 12:03:50 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/6b019120-8a69-11f1-a086-7507d7c35703.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6dbaa173ef4a6dea090ec74130e985fc",
+      "title": "پس از اینکه ترامپ ادعا کرد «مذاکرات عمیق» با ایران در جریان است، قیمت نفت بیشتر کاهش یافت",
+      "title_fa": "پس از اینکه ترامپ ادعا کرد «مذاکرات عمیق» با ایران در جریان است، قیمت نفت بیشتر کاهش یافت",
+      "title_en": "Oil prices decline further after Trump claims ‘deep talks’ are underway with Iran",
+      "summary": "قراردادهای ماهانه نفت برنت و وست تگزاس اینترمدیت دوباره کاهش یافت زیرا ایالات متحده و ایران به توقف درگیری ها ادامه می دهند.",
+      "summary_fa": "قراردادهای ماهانه نفت برنت و وست تگزاس اینترمدیت دوباره کاهش یافت زیرا ایالات متحده و ایران به توقف درگیری ها ادامه می دهند.",
+      "summary_en": "Brent crude and West Texas Intermediate’s front-month contracts fell again as the U.S. and Iran continue to pause fighting.",
+      "link": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 12:01:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-30033725",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8e147d68ecb43b18c1a96da9c79eb16a",
+      "title": "چندین نفر پس از زلزله در مرکز خرید در ژاپن گیر افتاده اند - به روز رسانی زنده",
+      "title_fa": "چندین نفر پس از زلزله در مرکز خرید در ژاپن گیر افتاده اند - به روز رسانی زنده",
+      "title_en": "Multiple people trapped inside shopping centre in Japan after earthquake – live updates",
+      "summary": "زمین لرزه ای با قدرت اولیه 7.1 ریشتر استان کوماموتو کیوشو الکتریک این کشور را لرزاند گفت 48000 خانه در نتیجه آخرین زمین لرزه شدید برق قطع کرده اند، در حالی که شرکت راه آهن از جمله کیوشو خدمات خود را متوقف کرده است. قطارهای گلوله. فرودگاه کوماموتو نیز باند فرودگاه خود را بسته است، زیرا خطوط هوایی پروازها را تغییر داده و لغو کردند. به خواندن ادامه دهید...",
+      "summary_fa": "زمین لرزه ای با قدرت اولیه 7.1 ریشتر استان کوماموتو کیوشو الکتریک این کشور را لرزاند گفت 48000 خانه در نتیجه آخرین زمین لرزه شدید برق قطع کرده اند، در حالی که شرکت راه آهن از جمله کیوشو خدمات خود را متوقف کرده است. قطارهای گلوله. فرودگاه کوماموتو نیز باند فرودگاه خود را بسته است، زیرا خطوط هوایی پروازها را تغییر داده و لغو کردند. به خواندن ادامه دهید...",
+      "summary_en": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌7.1 ‌struck ‌the country’s Kumamoto prefectureKyushu Electric Power said ​48,000 homes had lost power as a result of the latest ​quake, while railway company JR Kyushu said that it had ​suspended services, including its high-speed bullet trains.Kumamoto airport also shut its runway, as airlines diverted and cancelled flights. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Tue, 28 Jul 2026 12:00:55 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/3e7cb28fbd87f15e320c8f85d4eff8aea0cc2788/333_0_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=0174ffcd77687fe7ead801d2df4043f8",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "ccfd9e17e57cc39741bfd870cf66f07c",
+      "title": "آخرین بولتن اخبار | 28 ژوئیه 2026 - ظهر",
+      "title_fa": "آخرین بولتن اخبار | 28 ژوئیه 2026 - ظهر",
+      "title_en": "Latest news bulletin | July 28th, 2026 – Midday",
+      "summary": "در 28 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 28 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 28th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/28/latest-news-bulletin-july-28th-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Tue, 28 Jul 2026 12:00:16 +0200",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "024dd73cb97402f2d978acff21c78002",
+      "title": "آمازون، متا و مایکروسافت در این هفته پس از انتشار گزارش گوگل که جرقه فروش را برانگیخت، با سرمایه گذاران بدبین مواجه شدند",
+      "title_fa": "آمازون، متا و مایکروسافت در این هفته پس از انتشار گزارش گوگل که جرقه فروش را برانگیخت، با سرمایه گذاران بدبین مواجه شدند",
+      "title_en": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "summary": "جریان نقدی آزاد آلفابت منفی شده است و این شرکت پیش بینی هزینه سرمایه خود را افزایش داد. رقبای ابری با رشد کندتر این هفته گزارش می دهند.",
+      "summary_fa": "جریان نقدی آزاد آلفابت منفی شده است و این شرکت پیش بینی هزینه سرمایه خود را افزایش داد. رقبای ابری با رشد کندتر این هفته گزارش می دهند.",
+      "summary_en": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+      "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 12:00:01 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "631d0ffe309e8d796fdf8f1e4bbd9747",
       "title": "آژانس بهداشت هشدار داد که اروپا اهداف حذف هپاتیت 2030 را از دست خواهد داد",
       "title_fa": "آژانس بهداشت هشدار داد که اروپا اهداف حذف هپاتیت 2030 را از دست خواهد داد",
@@ -9916,6 +10294,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "6c34b379123eb8b5c5e70cfe88426eb0",
+      "title": "کوکاکولا بالاتر از برآورد درآمد است، چشم انداز کل سال را با افزایش تقاضا برای نوشیدنی افزایش می دهد.",
+      "title_fa": "کوکاکولا بالاتر از برآورد درآمد است، چشم انداز کل سال را با افزایش تقاضا برای نوشیدنی افزایش می دهد.",
+      "title_en": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "summary": "سهام کوکاکولا در سال جاری 19 درصد افزایش یافته است و از سود S&P 500 پیشی گرفته است.",
+      "summary_fa": "سهام کوکاکولا در سال جاری 19 درصد افزایش یافته است و از سود S&P 500 پیشی گرفته است.",
+      "summary_en": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+      "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:54:11 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "863811f44028350318597a75a17b7b70",
+      "title": "ضرر و زیان بوئینگ بیشتر از حد انتظار است زیرا هزینه های Air Force One بر نتایج تأثیر می گذارد",
+      "title_fa": "ضرر و زیان بوئینگ بیشتر از حد انتظار است زیرا هزینه های Air Force One بر نتایج تأثیر می گذارد",
+      "title_en": "Boeing posts bigger loss than expected as Air Force One costs weigh on results",
+      "summary": "بوئینگ هزینه ای 280 میلیون دلاری از برنامه ایر فورس وان خود دریافت کرد.",
+      "summary_fa": "بوئینگ هزینه ای 280 میلیون دلاری از برنامه ایر فورس وان خود دریافت کرد.",
+      "summary_en": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+      "link": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:52:02 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e159c5545ce9d39f81f07644b65a8c0e",
+      "title": "سیاتل به قربانیان تیراندازی در جشنواره غذا ادای احترام می کند",
+      "title_fa": "سیاتل به قربانیان تیراندازی در جشنواره غذا ادای احترام می کند",
+      "title_en": "Seattle pays tribute to food festival shooting victims",
+      "summary": "خانواده‌ها روز دوشنبه به یاد سه نفری که در تیراندازی در یک جشنواره غذا کشته شدند، غمگین شدند.",
+      "summary_fa": "خانواده‌ها روز دوشنبه به یاد سه نفری که در تیراندازی در یک جشنواره غذا کشته شدند، غمگین شدند.",
+      "summary_en": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 28 Jul 2026 11:50:59 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ac334afb420799c661d94109809cc1a7",
+      "title": "UPS انتظارات درآمد را شکست می دهد، راهنمایی تمام سال را افزایش می دهد",
+      "title_fa": "UPS انتظارات درآمد را شکست می دهد، راهنمایی تمام سال را افزایش می دهد",
+      "title_en": "UPS beats earnings expectations, raises full-year guidance",
+      "summary": "UPS انتظارات وال استریت را شکست داد و در گزارش سود سه ماهه دوم خود در سه‌ماهه دوم، راهنمای کل سال خود را افزایش داد.",
+      "summary_fa": "UPS انتظارات وال استریت را شکست داد و در گزارش سود سه ماهه دوم خود در سه‌ماهه دوم، راهنمای کل سال خود را افزایش داد.",
+      "summary_en": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+      "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:50:50 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea70159a0d2527c3f85930f7baf272d3",
+      "title": "زمین لرزه ای قدرتمند جنوب ژاپن را لرزاند و باعث تخریب شد",
+      "title_fa": "زمین لرزه ای قدرتمند جنوب ژاپن را لرزاند و باعث تخریب شد",
+      "title_en": "Powerful earthquake strikes southern Japan, causing destruction",
+      "summary": "گزارش‌ها حاکی از زخمی شدن دست‌کم 50 نفر به همراه ریزش ساختمان‌ها و آسیب‌دیدگی جاده‌ها در پی زمین‌لرزه قدرتمند 7.1 ریشتری در جزیره کیوشو در جنوب غربی است.",
+      "summary_fa": "گزارش‌ها حاکی از زخمی شدن دست‌کم 50 نفر به همراه ریزش ساختمان‌ها و آسیب‌دیدگی جاده‌ها در پی زمین‌لرزه قدرتمند 7.1 ریشتری در جزیره کیوشو در جنوب غربی است.",
+      "summary_en": "There are reports of at least 50 people injured along with collapsed buildings and damaged roads following the powerful 7.1-magnitude quake on the southwestern island of Kyushu.",
+      "link": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "source": "Washington Post",
+      "published_at": "Tue, 28 Jul 2026 11:45:32 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
       }
     },
     {
@@ -9940,6 +10423,174 @@
       }
     },
     {
+      "id": "b7312f1ed86383d50f73655eb5cd6d06",
+      "title": "فرانسه و اسپانیا برای کنترل آتش‌سوزی‌ها با موج گرمای تازه رقابت می‌کنند، زیرا سازمان ملل هشدار می‌دهد «زنگ هشدار آب و هوا به صدا در می‌آید» - اروپا زنده",
+      "title_fa": "فرانسه و اسپانیا برای کنترل آتش‌سوزی‌ها با موج گرمای تازه رقابت می‌کنند، زیرا سازمان ملل هشدار می‌دهد «زنگ هشدار آب و هوا به صدا در می‌آید» - اروپا زنده",
+      "title_en": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – Europe live",
+      "summary": "نخست‌وزیر اسپانیا همچنین می‌گوید این آتش‌سوزی‌ها یادآور برنامه‌ریزی برای «وخیم‌تر شدن» شرایط اضطراری آب‌وهوای فرانسه و اسپانیا برای مهار آتش‌سوزی‌های عظیم جنگلی قبل از شروع موج گرمای تازه است. دور نیست، آیا دنیا اینگونه به پایان می رسد؟ به خواندن ادامه دهید...",
+      "summary_fa": "نخست‌وزیر اسپانیا همچنین می‌گوید این آتش‌سوزی‌ها یادآور برنامه‌ریزی برای «وخیم‌تر شدن» شرایط اضطراری آب‌وهوای فرانسه و اسپانیا برای مهار آتش‌سوزی‌های عظیم جنگلی قبل از شروع موج گرمای تازه است. دور نیست، آیا دنیا اینگونه به پایان می رسد؟ به خواندن ادامه دهید...",
+      "summary_en": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergencyFrance and Spain race to contain huge wildfires before fresh heatwave beginsJoe Pinner and Jane ClintonTourists caught up in the wildfires spoke to us about their experiences.“My main memory is how bizarre it was to watch people enjoying holidays on the beach while a major catastrophe was unfolding in full view, not far away. Is this how the world ends?” Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Tue, 28 Jul 2026 11:42:54 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c835f639710117bb64cdf5beeb669599eb5c8e24/354_0_7356_5886/master/7356.jpg?width=140&quality=85&auto=format&fit=max&s=b8252b68853cc01c73d906013eced040",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "17478d41e5c9715474c725edfdf8a86f",
+      "title": "تیراندازی مرگبار در عملیات ICE",
+      "title_fa": "تیراندازی مرگبار در عملیات ICE",
+      "title_en": "Fatal Shooting in ICE Operations",
+      "summary": "سرکوب ICE ترامپ با کمک های مالی جدید و استخدام ها در حالی که ادعاهای مربوط به مرگ و سوء استفاده ها بررسی می شود، رشد می کند.",
+      "summary_fa": "سرکوب ICE ترامپ با کمک های مالی جدید و استخدام ها در حالی که ادعاهای مربوط به مرگ و سوء استفاده ها بررسی می شود، رشد می کند.",
+      "summary_en": "Trump’s ICE crackdown grows with new funding and hires as deaths and abuse claims draw review.",
+      "link": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:42:28 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e9c89ecaf67dac74181770251b9d3adf",
+      "title": "در حالی که سرمایه‌گذاران منتظر به‌روزرسانی‌ها در مورد ادغام احتمالی هستند، PayPal با افزایش درآمد مواجه است",
+      "title_fa": "در حالی که سرمایه‌گذاران منتظر به‌روزرسانی‌ها در مورد ادغام احتمالی هستند، PayPal با افزایش درآمد مواجه است",
+      "title_en": "PayPal delivers an earnings beat as investors await updates on possible merger",
+      "summary": "پی پال به عنوان یک شرکت مستقل پیشرفت هایی را در برخی معیارها نشان می دهد، اما وال استریت به دنبال اخبار اخیر نگران چشم انداز معاملات خود است.",
+      "summary_fa": "پی پال به عنوان یک شرکت مستقل پیشرفت هایی را در برخی معیارها نشان می دهد، اما وال استریت به دنبال اخبار اخیر نگران چشم انداز معاملات خود است.",
+      "summary_en": "PayPal is showing progress on some metrics as a standalone company, but Wall Street is preoccupied with its deal prospects following recent news.",
+      "link": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:41:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-69443741",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec18deccbee8f2888f23c7b1a696bf96",
+      "title": "تهدید نوظهور چین، سهام سخت افزار هوش مصنوعی را به وحشت انداخته است. آیا تجارت «کلنگ و بیل» در حال شکست است؟",
+      "title_fa": "تهدید نوظهور چین، سهام سخت افزار هوش مصنوعی را به وحشت انداخته است. آیا تجارت «کلنگ و بیل» در حال شکست است؟",
+      "title_en": "Emerging China threat puts a scare into AI hardware stocks. Is the ‘picks and shovels’ trade breaking down?",
+      "summary": "سهام آسیایی در روز سه‌شنبه به‌دلیل گزارش‌هایی مبنی بر توانایی چین در تولید ماشین‌های لیتوگرافی DUV به شدت فروخت.",
+      "summary_fa": "سهام آسیایی در روز سه‌شنبه به‌دلیل گزارش‌هایی مبنی بر توانایی چین در تولید ماشین‌های لیتوگرافی DUV به شدت فروخت.",
+      "summary_en": "Asian stocks sold off sharply on Tuesday amid reports that China is now capable of manufacturing DUV lithography machines.",
+      "link": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:40:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-76074018",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "31793e22f2ea9d6100130492d9252e91",
+      "title": "وکیل تیت می گوید این اتهامات \"هدفی را بر پشت آنها می گذارد\"",
+      "title_fa": "وکیل تیت می گوید این اتهامات \"هدفی را بر پشت آنها می گذارد\"",
+      "title_en": "Tate’s attorney says allegations ‘puts a target on their backs’",
+      "summary": "وکیل تیت می گوید این اتهامات \"هدفی را بر پشت آنها می گذارد\"",
+      "summary_fa": "وکیل تیت می گوید این اتهامات \"هدفی را بر پشت آنها می گذارد\"",
+      "summary_en": "Tate’s attorney says allegations ‘puts a target on their backs’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:36:07 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c97dbaf5da61b388abe3dfeaa33ede7b",
+      "title": "تسلط ترامپ بر جهان رو به کاهش است",
+      "title_fa": "تسلط ترامپ بر جهان رو به کاهش است",
+      "title_en": "Trump’s waning sway over the world",
+      "summary": "ترول معمولی که در خانه به او خدمت می کند، قدرت او را در صحنه جهانی تضعیف می کند",
+      "summary_fa": "ترول معمولی که در خانه به او خدمت می کند، قدرت او را در صحنه جهانی تضعیف می کند",
+      "summary_en": "The habitual trolling that serves him at home is sapping his potency on the global stage",
+      "link": "https://www.ft.com/content/3441b5aa-9d58-4829-bd2e-b2c0ce0198f1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 28 Jul 2026 11:35:38 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffce39fa5-b743-4fc7-a61d-164da17fa37e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "743f2a1d213334de2808ba7f52234ecf",
+      "title": "بهترین ساعت اپل (2026): سری 11، SE 3 و Ultra 3",
+      "title_fa": "بهترین ساعت اپل (2026): سری 11، SE 3 و Ultra 3",
+      "title_en": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
+      "summary": "آیا باید در سری 11 جدید پرهیز کنید یا SE 3 این کار را خواهد کرد؟ اجازه دهید به شما کمک کنیم تا بفهمید کدام نسخه را دریافت کنید (و از کدام نسخه اجتناب کنید).",
+      "summary_fa": "آیا باید در سری 11 جدید پرهیز کنید یا SE 3 این کار را خواهد کرد؟ اجازه دهید به شما کمک کنیم تا بفهمید کدام نسخه را دریافت کنید (و از کدام نسخه اجتناب کنید).",
+      "summary_en": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
+      "link": "https://www.wired.com/gallery/best-apple-watch/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 11:34:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca1007c97d23d8bb7f8050fc987ede9f",
+      "title": "بهترین هدایا برای کوهنوردان، کوله گردها، افراد بیرون از منزل (2026)",
+      "title_fa": "بهترین هدایا برای کوهنوردان، کوله گردها، افراد بیرون از منزل (2026)",
+      "title_en": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "summary": "بگذارید کفش های پیاده روی خود را انتخاب کنند. در عوض، سعی کنید یک تیغه مفید یا یک دفتر خاطرات طبیعت هدیه دهید تا دوست خود را در فضای باز خوشحال کنید.",
+      "summary_fa": "بگذارید کفش های پیاده روی خود را انتخاب کنند. در عوض، سعی کنید یک تیغه مفید یا یک دفتر خاطرات طبیعت هدیه دهید تا دوست خود را در فضای باز خوشحال کنید.",
+      "summary_en": "Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.",
+      "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 11:33:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9b902fbbfb985d539e667f6a25f72d57",
       "title": "رونق تعطیلات لحظه آخری در میان مسافران بریتانیایی با افزایش 26 درصدی رزروهای روز بعد",
       "title_fa": "رونق تعطیلات لحظه آخری در میان مسافران بریتانیایی با افزایش 26 درصدی رزروهای روز بعد",
@@ -9953,6 +10604,48 @@
       "date_iso": "2026-07-28",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b6e53c0337444fa3d78f7e64cd7dac53",
+      "title": "UPS با کاهش مشاغل و تکمیل «سر خوردن به پایین» آمازون صفحه را برمی گرداند",
+      "title_fa": "UPS با کاهش مشاغل و تکمیل «سر خوردن به پایین» آمازون صفحه را برمی گرداند",
+      "title_en": "UPS turns the page as job cuts and Amazon ‘glide down’ are completed",
+      "summary": "سهام UPS پس از گزارش یک رشد سود و چشم انداز افزایش یافت.",
+      "summary_fa": "سهام UPS پس از گزارش یک رشد سود و چشم انداز افزایش یافت.",
+      "summary_en": "UPS’s stock rallies after reporting an earnings beat and raised outlook.",
+      "link": "https://www.marketwatch.com/story/ups-turns-the-page-as-job-cuts-and-amazon-glide-down-are-completed-e16f03fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:31:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-74584282",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2e7845a36666814fba36d1887fe3f59",
+      "title": "مقامات در بحبوحه ناآرامی های انتخاباتی در کشمیر تحت مدیریت پاکستان آتش گشودند",
+      "title_fa": "مقامات در بحبوحه ناآرامی های انتخاباتی در کشمیر تحت مدیریت پاکستان آتش گشودند",
+      "title_en": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+      "summary": "درگیری‌های مرگبار در کشمیر تحت مدیریت پاکستان پس از هفته‌ها اعتراض و مسدود شدن جاده‌ها آغاز شده است.",
+      "summary_fa": "درگیری‌های مرگبار در کشمیر تحت مدیریت پاکستان پس از هفته‌ها اعتراض و مسدود شدن جاده‌ها آغاز شده است.",
+      "summary_en": "Deadly clashes have erupted in Pakistan-administered Kashmir after weeks of protests and road blockades.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:29:18 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -9982,6 +10675,48 @@
       }
     },
     {
+      "id": "4c67a04d5f230fac9a8a77e50f8aa3d8",
+      "title": "GSK مرکز تاریخی استیونیج را با اعلام صرفه جویی در هزینه 1.9 میلیارد پوندی تعطیل می کند.",
+      "title_fa": "GSK مرکز تاریخی استیونیج را با اعلام صرفه جویی در هزینه 1.9 میلیارد پوندی تعطیل می کند.",
+      "title_en": "GSK to shut historic Stevenage hub as it announces £1.9bn cost-saving drive",
+      "summary": "داروساز بریتانیایی امیدوار است سایت جدید کمبریج خطوط لوله دارو را تقویت کند",
+      "summary_fa": "داروساز بریتانیایی امیدوار است سایت جدید کمبریج خطوط لوله دارو را تقویت کند",
+      "summary_en": "UK drugmaker hopes new Cambridge site will bolster pipelines of medicines",
+      "link": "https://www.ft.com/content/ab2f5d46-3390-4856-967c-060f2b93ab27?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 28 Jul 2026 11:27:31 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9d82875c-6712-46de-8a62-c7ebb005a10a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "8cb2ae1292d80fbdeb027a0b1ce9d79e",
+      "title": "حمله شهرک نشینان اسرائیلی به طوانی",
+      "title_fa": "حمله شهرک نشینان اسرائیلی به طوانی",
+      "title_en": "Israeli settler attack on at-Tuwani",
+      "summary": "حملات شهرک نشینان در کرانه باختری اشغالی به بالاترین حد خود رسیده است.",
+      "summary_fa": "حملات شهرک نشینان در کرانه باختری اشغالی به بالاترین حد خود رسیده است.",
+      "summary_en": "Settler attacks in the occupied West Bank are at record highs.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:27:08 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "66162144c901d667712339605d104be4",
       "title": "اعداد و ارقام در مورد موج گرمای اروپا به ما چه می گویند؟",
       "title_fa": "اعداد و ارقام در مورد موج گرمای اروپا به ما چه می گویند؟",
@@ -10003,6 +10738,132 @@
       }
     },
     {
+      "id": "41886cf4bc150f3e49028ac9ae814b60",
+      "title": "حمله سپیده دم «تقلب‌های چتر» را هدف قرار می‌دهد که نقاط ساحلی را در ناپل رزرو می‌کنند",
+      "title_fa": "حمله سپیده دم «تقلب‌های چتر» را هدف قرار می‌دهد که نقاط ساحلی را در ناپل رزرو می‌کنند",
+      "title_en": "Dawn raid targets ‘umbrella cheaters’ reserving beach spots in Naples",
+      "summary": "توقیف چترها، صندلی‌های عرشه و صندلی‌های عرشه در سرکوب مقامات توره دل گرکو با افرادی که یک شبه مکان رزرو می‌کردند، مقامات در حومه ساحلی ناپل، چترها، صندلی‌های عرشه و صندلی‌های عرشه را در جریان یک جاروی سحرگاهی در یک ساحل با هدف سرکوب روند رو به رشد بندرگاه‌ها به منظور سرکوب روند فزاینده‌ای که مقامات بندری تلاش می‌کردند برای لک‌های بندری کشف کنند، توقیف کردند. کارکنان گارد ساحلی و پلیس محلی با هم 40 مورد را به عنوان بخشی از عملیات ایمنی ملی ساحل و دریاچه جمع آوری کرده بودند که افرادی را هدف قرار می دهد که توسط مطبوعات ایتالیایی به عنوان furbetti dell'ombrellone یا کلاهبرداران چتر برچسب زده شده بودند. به خواندن ادامه دهید...",
+      "summary_fa": "توقیف چترها، صندلی‌های عرشه و صندلی‌های عرشه در سرکوب مقامات توره دل گرکو با افرادی که یک شبه مکان رزرو می‌کردند، مقامات در حومه ساحلی ناپل، چترها، صندلی‌های عرشه و صندلی‌های عرشه را در جریان یک جاروی سحرگاهی در یک ساحل با هدف سرکوب روند رو به رشد بندرگاه‌ها به منظور سرکوب روند فزاینده‌ای که مقامات بندری تلاش می‌کردند برای لک‌های بندری کشف کنند، توقیف کردند. کارکنان گارد ساحلی و پلیس محلی با هم 40 مورد را به عنوان بخشی از عملیات ایمنی ملی ساحل و دریاچه جمع آوری کرده بودند که افرادی را هدف قرار می دهد که توسط مطبوعات ایتالیایی به عنوان furbetti dell'ombrellone یا کلاهبرداران چتر برچسب زده شده بودند. به خواندن ادامه دهید...",
+      "summary_en": "Umbrellas, deck chairs and loungers seized in Torre del Greco authorities’ crackdown on people reserving spots overnightAuthorities in a coastal suburb of Naples seized umbrellas, loungers and deck chairs during a dawn sweep of a beach aimed at cracking down on the growing trend of people attempting to reserve prime spots overnight.Torre del Greco’s port authority said coastguard staff and local police had together collected 40 items as part of a national beach and lake safety operation that targets people labelled by the Italian press as furbetti dell’ombrellone, or umbrella cheaters. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/28/umbrellas-deck-chairs-crackdown-reserving-beach-spots-naples",
+      "source": "The Guardian",
+      "published_at": "Tue, 28 Jul 2026 11:24:49 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/37b3b3014b778a44aae811026e53b0c737b008c8/632_23_3558_2846/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=c6ac5e0bf3c2b913eac280addd705ad5",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b0fa2d78f788782bb5173a3a60f42b17",
+      "title": "با فروختن تراشه‌ها، سرمایه‌گذاران متزلزل باید به این درس سیسکو در هزاره گذشته توجه کنند.",
+      "title_fa": "با فروختن تراشه‌ها، سرمایه‌گذاران متزلزل باید به این درس سیسکو در هزاره گذشته توجه کنند.",
+      "title_en": "As chips sell off, rattled investors should heed this Cisco Systems lesson from the last millennium",
+      "summary": "تام لی از Fundstrat می گوید که بازار باید ظرف چند روز آینده وضعیت خود را بازیابی کند.",
+      "summary_fa": "تام لی از Fundstrat می گوید که بازار باید ظرف چند روز آینده وضعیت خود را بازیابی کند.",
+      "summary_en": "The market should recover its poise within the next few days, says Fundstrat’s Tom Lee.",
+      "link": "https://www.marketwatch.com/story/as-semis-sell-off-rattled-investors-should-heed-last-millenniums-lesson-from-cisco-systems-4bb53304?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:21:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-55319771",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e88421fbcdaa6d3adcbfaf8ce04d1f30",
+      "title": "چرا شورای هاکنی لندن می خواهد وضعیت «دوقلو» خود را با هیفا لغو کند؟",
+      "title_fa": "چرا شورای هاکنی لندن می خواهد وضعیت «دوقلو» خود را با هیفا لغو کند؟",
+      "title_en": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
+      "summary": "حزب سبز که کنترل شورا را از حزب کارگر در دست گرفت، با جنگ نسل کشی اسرائیل علیه غزه مخالف است.",
+      "summary_fa": "حزب سبز که کنترل شورا را از حزب کارگر در دست گرفت، با جنگ نسل کشی اسرائیل علیه غزه مخالف است.",
+      "summary_en": "Green Party, which took over control of the council from the Labour Party, is opposed to Israel's genocidal war on Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:14:27 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "798bbd16ea34f9d00c1ea1827903f34a",
+      "title": "حمله اوکراین به کشتی ایرانی می تواند دو جنگ را به هم نزدیک کند",
+      "title_fa": "حمله اوکراین به کشتی ایرانی می تواند دو جنگ را به هم نزدیک کند",
+      "title_en": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
+      "summary": "حمله به دریای خزر یک رویارویی مستقیم غیرمعمول بین دو کشوری بود که سال‌ها در دو طرف یکدیگر قرار داشتند.",
+      "summary_fa": "حمله به دریای خزر یک رویارویی مستقیم غیرمعمول بین دو کشوری بود که سال‌ها در دو طرف یکدیگر قرار داشتند.",
+      "summary_en": "The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.",
+      "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 11:13:32 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28xp-wars/28xp-wars-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "009bca7c9e6cc35ffcd55382cb0d3a8f",
+      "title": "آتش سوزی در نزدیکی بوردو اخبار بد بیشتری را برای تاکستان های آن به ارمغان می آورد",
+      "title_fa": "آتش سوزی در نزدیکی بوردو اخبار بد بیشتری را برای تاکستان های آن به ارمغان می آورد",
+      "title_en": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+      "summary": "یکی از بزرگترین آتش سوزی های تاریخ مدرن فرانسه در نزدیکی تاکستان های بوردو در حال وقوع است. این تنها آخرین مشکل صنعت شراب درگیر فرانسه است.",
+      "summary_fa": "یکی از بزرگترین آتش سوزی های تاریخ مدرن فرانسه در نزدیکی تاکستان های بوردو در حال وقوع است. این تنها آخرین مشکل صنعت شراب درگیر فرانسه است.",
+      "summary_en": "One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.",
+      "link": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 11:12:37 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-bordeaux-1-jhlz/27int-france-bordeaux-1-jhlz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "97959c0a8e9b607dc795f0dba03e8430",
+      "title": "خطوط مقدم مبهم: ترامپ با زلنسکی با یکدیگر برخورد می کند",
+      "title_fa": "خطوط مقدم مبهم: ترامپ با زلنسکی با یکدیگر برخورد می کند",
+      "title_en": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+      "summary": "دیدار ترامپ و زلنسکی در حالی انجام می شود که جنگ ایالات متحده علیه ایران و حمله تمام عیار روسیه به اوکراین در روزهای اخیر تهدید به همپوشانی با یکدیگر شده است.",
+      "summary_fa": "دیدار ترامپ و زلنسکی در حالی انجام می شود که جنگ ایالات متحده علیه ایران و حمله تمام عیار روسیه به اوکراین در روزهای اخیر تهدید به همپوشانی با یکدیگر شده است.",
+      "summary_en": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+      "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:08:51 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "94f8742b3bc2a007a3b85bfe075c35ae",
       "title": "تقلید تقلید هوش مصنوعی ریک و مورتی کاخ سفید با حضور دونالد ترامپ با واکنش شدیدی روبرو شد",
       "title_fa": "تقلید تقلید هوش مصنوعی ریک و مورتی کاخ سفید با حضور دونالد ترامپ با واکنش شدیدی روبرو شد",
@@ -10021,6 +10882,174 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b28907052ff8385631f25e0dc8f28de4",
+      "title": "زلزله ای به بزرگی 7.1 ریشتر جنوب ژاپن را لرزاند و هشدار سونامی صادر شد",
+      "title_fa": "زلزله ای به بزرگی 7.1 ریشتر جنوب ژاپن را لرزاند و هشدار سونامی صادر شد",
+      "title_en": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
+      "summary": "سانای تاکایچی، نخست‌وزیر انگلیس از مردم می‌خواهد که مراقب احتمال وقوع زلزله دیگری با بزرگی مشابه باشند.",
+      "summary_fa": "سانای تاکایچی، نخست‌وزیر انگلیس از مردم می‌خواهد که مراقب احتمال وقوع زلزله دیگری با بزرگی مشابه باشند.",
+      "summary_en": "PM Sanae Takaichi urges people 'to remain vigilant for the possibility of another earthquake of similar magnitude'.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 11:02:03 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "d441a7015f060f54ab55b3e12aff0c60",
+      "title": "تحلیل: کنفرانس مطبوعاتی فدرال رزرو کوین وارش حتی بدون افزایش نرخ بهره نیز آشکار خواهد بود",
+      "title_fa": "تحلیل: کنفرانس مطبوعاتی فدرال رزرو کوین وارش حتی بدون افزایش نرخ بهره نیز آشکار خواهد بود",
+      "title_en": "Analysis: Kevin Warsh's Fed press conference will be revealing even without a rate hike",
+      "summary": "وارش نشان خواهد داد که چگونه شوک های انرژی، فشار قیمت مبتنی بر هوش مصنوعی، گروه های ضربت فدرال رزرو و فشار ترامپ را ارزیابی می کند.",
+      "summary_fa": "وارش نشان خواهد داد که چگونه شوک های انرژی، فشار قیمت مبتنی بر هوش مصنوعی، گروه های ضربت فدرال رزرو و فشار ترامپ را ارزیابی می کند.",
+      "summary_en": "Warsh will reveal how he weighs energy shocks, AI-driven price pressure, the Fed's task forces and pressure from Trump.",
+      "link": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:00:01 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c393fd73e0c23876dc4066de8ab61aed",
+      "title": "تبلیغات جدید جمهوری خواهان دموکرات های مخالف تعرفه های ترامپ را مورد انتقاد قرار دادند",
+      "title_fa": "تبلیغات جدید جمهوری خواهان دموکرات های مخالف تعرفه های ترامپ را مورد انتقاد قرار دادند",
+      "title_en": "New Republican ads slam Democrats opposed to Trump's tariffs",
+      "summary": "با نزدیک شدن به انتخابات میان دوره ای 2026، کمیته ملی جمهوری خواه کنگره در حال ضربه زدن به دموکرات هایی است که با تعرفه های دونالد ترامپ، رئیس جمهور آمریکا مخالفت کرده اند.",
+      "summary_fa": "با نزدیک شدن به انتخابات میان دوره ای 2026، کمیته ملی جمهوری خواه کنگره در حال ضربه زدن به دموکرات هایی است که با تعرفه های دونالد ترامپ، رئیس جمهور آمریکا مخالفت کرده اند.",
+      "summary_en": "As the 2026 midterm elections approach, the National Republican Congressional Committee is knocking Democrats who have opposed President Donald Trump's tariffs.",
+      "link": "https://www.cnbc.com/2026/07/28/trump-tariffs-trade-election-advertising.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 11:00:01 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec0101db8aa0309402ea45803ebe4388",
+      "title": "چگونه دعوا بر سر لوگوی Cracker Barrel آغاز پایان را برای مدیرعامل آن رقم زد",
+      "title_fa": "چگونه دعوا بر سر لوگوی Cracker Barrel آغاز پایان را برای مدیرعامل آن رقم زد",
+      "title_en": "How the fight over Cracker Barrel’s logo marked the beginning of the end for its CEO",
+      "summary": "Cracker Barrel باید بین جذب وفادارترین غذاخوری های خود یا بیگانگی بالقوه آنها با شکستن ریشه های خود تصمیم بگیرد.",
+      "summary_fa": "Cracker Barrel باید بین جذب وفادارترین غذاخوری های خود یا بیگانگی بالقوه آنها با شکستن ریشه های خود تصمیم بگیرد.",
+      "summary_en": "Cracker Barrel must decide between appealing to its most loyal diners or potentially alienating them by breaking from its roots.",
+      "link": "https://www.marketwatch.com/story/how-the-fight-over-cracker-barrels-logo-marked-the-beginning-of-the-end-for-its-ceo-89283d83?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:00:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-85927820",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc73d2a8d70bc5f839738f98b38c9eb1",
+      "title": "ETF های اهرمی در سال 2026 در حال رونق هستند. اما آنها نیز با سرعتی بی سابقه تعطیل می شوند.",
+      "title_fa": "ETF های اهرمی در سال 2026 در حال رونق هستند. اما آنها نیز با سرعتی بی سابقه تعطیل می شوند.",
+      "title_en": "Leveraged ETFs are booming in 2026. But they’re also being shut down at a record pace.",
+      "summary": "صندوق‌های قابل معامله در بورس که برای انجام شرط‌بندی‌های افزایشی و نزولی بر روی نوسانات سهام و سایر حوزه‌های بازارهای مالی طراحی شده‌اند، با سرعتی بی‌سابقه در حال بسته شدن هستند.",
+      "summary_fa": "صندوق‌های قابل معامله در بورس که برای انجام شرط‌بندی‌های افزایشی و نزولی بر روی نوسانات سهام و سایر حوزه‌های بازارهای مالی طراحی شده‌اند، با سرعتی بی‌سابقه در حال بسته شدن هستند.",
+      "summary_en": "Exchange-traded funds designed to make magnified bullish and bearish bets on swings in stocks and other areas of financial markets are closing down at a record pace.",
+      "link": "https://www.marketwatch.com/story/leveraged-etfs-are-booming-in-2026-but-theyre-also-being-shut-down-at-a-record-pace-f136ef10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 11:00:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-25628055",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f2bf910906350362fad10e26f52aea99",
+      "title": "یک استارتاپ دو نفره یکی از منفورترین صداهای زندگی مدرن را برطرف کرده است",
+      "title_fa": "یک استارتاپ دو نفره یکی از منفورترین صداهای زندگی مدرن را برطرف کرده است",
+      "title_en": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+      "summary": "بییپ بییپ بییییییییییییییییییی",
+      "summary_fa": "بییپ بییپ بییییییییییییییییییی",
+      "summary_en": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
+      "link": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fd3e6c30cbbf99a25ddc2f4edb2d8f0e",
+      "title": "شش مایل دورتر از شعله های آتش در فرانسه: سوخت شیمیایی موشک و موشک های مستعمل",
+      "title_fa": "شش مایل دورتر از شعله های آتش در فرانسه: سوخت شیمیایی موشک و موشک های مستعمل",
+      "title_en": "Six Miles From the Flames in France: Chemical Rocket Fuel and Used Missiles",
+      "summary": "منطقه اطراف بوردو دارای گیاهان زیادی است که با فناوری های پیچیده و مواد خطرناک کار می کنند.",
+      "summary_fa": "منطقه اطراف بوردو دارای گیاهان زیادی است که با فناوری های پیچیده و مواد خطرناک کار می کنند.",
+      "summary_en": "The area around Bordeaux has many plants that work with sophisticated technologies and hazardous materials.",
+      "link": "https://www.nytimes.com/2026/07/27/world/europe/france-fires-aerospace-plants.html",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 10:59:14 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-munitions-bjcp/27europe-wildfires-munitions-bjcp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "ee6740f173358666ebe40d9e5bbe3201",
+      "title": "زمین لرزه ای قدرتمند استان کوماموتو در جنوب ژاپن را لرزاند",
+      "title_fa": "زمین لرزه ای قدرتمند استان کوماموتو در جنوب ژاپن را لرزاند",
+      "title_en": "Powerful earthquake hits Japan’s southern Kumamoto prefecture",
+      "summary": "ریزش ساختمان‌ها و پل‌ها و انفجار در مرکز خرید در حالی که تراشه‌ساز TSMC کارگران را از کارخانه خارج می‌کند.",
+      "summary_fa": "ریزش ساختمان‌ها و پل‌ها و انفجار در مرکز خرید در حالی که تراشه‌ساز TSMC کارگران را از کارخانه خارج می‌کند.",
+      "summary_en": "Buildings and bridges collapse and blast reported at shopping centre as chipmaker TSMC evacuates workers from plant",
+      "link": "https://www.ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 28 Jul 2026 10:53:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F623b309a-5bbb-4b90-9b86-0e2e7a5bc86e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
       }
     },
     {
@@ -10087,6 +11116,90 @@
       }
     },
     {
+      "id": "ab89dd49c251cc31aff2c1a13eb9ecfd",
+      "title": "زلنسکی در واشنگتن در مورد دفاع هوایی ترامپ را تحت فشار قرار خواهد داد",
+      "title_fa": "زلنسکی در واشنگتن در مورد دفاع هوایی ترامپ را تحت فشار قرار خواهد داد",
+      "title_en": "Zelensky to press Trump on air defences while in Washington",
+      "summary": "رهبر اوکراین امیدوار است با تشدید حملات مرگبار روسیه، تعهدات ایالات متحده برای تقویت دفاع ضد موشکی کیف را تقویت کند.",
+      "summary_fa": "رهبر اوکراین امیدوار است با تشدید حملات مرگبار روسیه، تعهدات ایالات متحده برای تقویت دفاع ضد موشکی کیف را تقویت کند.",
+      "summary_en": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 28 Jul 2026 10:41:41 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/eef58e80-8a6b-11f1-924e-bfa32777c3ff.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "0a918003136fe121ac9c92912119811b",
+      "title": "\"ما چیزی یاد نمی گیریم\": Gen Z Rage هند آزمایشی برای مودی است",
+      "title_fa": "\"ما چیزی یاد نمی گیریم\": Gen Z Rage هند آزمایشی برای مودی است",
+      "title_en": "‘We Are Not Learning Anything’: India’s Gen Z Rage Is a Test for Modi",
+      "summary": "از آنجایی که جمعیت عظیم جوانان هند رو به افزایش است، دولت برای اصلاح سیستم آموزشی که بسیاری را برای دانشگاه آماده نمی کند، چه برسد به محل کار، با فشار مواجه است.",
+      "summary_fa": "از آنجایی که جمعیت عظیم جوانان هند رو به افزایش است، دولت برای اصلاح سیستم آموزشی که بسیاری را برای دانشگاه آماده نمی کند، چه برسد به محل کار، با فشار مواجه است.",
+      "summary_en": "As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockroach-genz.html",
+      "source": "NY Times",
+      "published_at": "Tue, 28 Jul 2026 10:38:43 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29INT-INDIA-EDUCATION-01-tmqj/29INT-INDIA-EDUCATION-01-tmqj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0990029f581b2d5791f2075305c9c87f",
+      "title": "خرید سهام اسپیس ایکس توسط اعضای کنگره به نگرانی‌های درگیری دامن می‌زند",
+      "title_fa": "خرید سهام اسپیس ایکس توسط اعضای کنگره به نگرانی‌های درگیری دامن می‌زند",
+      "title_en": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
+      "summary": "پنج تن از اعضای کنگره در کمیته هایی خدمت می کنند که کارشان به قراردادهای فدرال اسپیس ایکس، برنامه های دفاعی، هوش مصنوعی، مخابرات یا بازارهای اوراق بهادار مربوط می شود.",
+      "summary_fa": "پنج تن از اعضای کنگره در کمیته هایی خدمت می کنند که کارشان به قراردادهای فدرال اسپیس ایکس، برنامه های دفاعی، هوش مصنوعی، مخابرات یا بازارهای اوراق بهادار مربوط می شود.",
+      "summary_en": "Five of the Congress members serve on committees whose work touches SpaceX's federal contracts, defense programs, AI, telecommunications or securities markets.",
+      "link": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 10:30:01 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c741bdf7aa9297f9d0e4f1acbd4916e8",
+      "title": "آیا نیویورک تایمز می تواند روزنامه نگاری را از دست صاحبان هوش مصنوعی ما نجات دهد؟",
+      "title_fa": "آیا نیویورک تایمز می تواند روزنامه نگاری را از دست صاحبان هوش مصنوعی ما نجات دهد؟",
+      "title_en": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "summary": "در سال 2023، تایمز از OpenAI و مایکروسافت به دلیل نقض حق چاپ شکایت کرد. آنها از آن زمان بیش از 20 میلیون دلار برای این پرونده هزینه کرده اند و ناشر A.G. Sulzberger هیچ برنامه ای برای توقف مبارزه با آن ندارد.",
+      "summary_fa": "در سال 2023، تایمز از OpenAI و مایکروسافت به دلیل نقض حق چاپ شکایت کرد. آنها از آن زمان بیش از 20 میلیون دلار برای این پرونده هزینه کرده اند و ناشر A.G. Sulzberger هیچ برنامه ای برای توقف مبارزه با آن ندارد.",
+      "summary_en": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 10:30:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c477e1e50535da961d5d1c27e26fd379",
       "title": "قطر برای گسترش نقش خود در تجارت جهانی الماس مبادله ای را راه اندازی کرد",
       "title_fa": "قطر برای گسترش نقش خود در تجارت جهانی الماس مبادله ای را راه اندازی کرد",
@@ -10108,6 +11221,27 @@
       }
     },
     {
+      "id": "b4e21f3c35b1200b1aa21f1563deb4ac",
+      "title": "آتش سوزی جنگلی در فرانسه و اسپانیا به دلیل موج گرما حدود 300000 هکتار را سوزاند.",
+      "title_fa": "آتش سوزی جنگلی در فرانسه و اسپانیا به دلیل موج گرما حدود 300000 هکتار را سوزاند.",
+      "title_en": "Wildfires burn nearly 300,000 acres in France and Spain as heat wave looms",
+      "summary": "انتظار می رود دمای هوا در فرانسه در هفته جاری به 95 درجه فارنهایت افزایش یابد، زیرا آتش نشانان در حال مبارزه با آتش سوزی در حال وقوع است که بخش هایی از اسپانیا را تحت تاثیر قرار داده است.",
+      "summary_fa": "انتظار می رود دمای هوا در فرانسه در هفته جاری به 95 درجه فارنهایت افزایش یابد، زیرا آتش نشانان در حال مبارزه با آتش سوزی در حال وقوع است که بخش هایی از اسپانیا را تحت تاثیر قرار داده است.",
+      "summary_en": "Temperatures in France are expected to rise to 95 degrees Fahrenheit this week, as firefighters battle the ongoing wildfire, which has affected parts of Spain.",
+      "link": "https://www.cnbc.com/2026/07/28/france-spain-wildfires-heat-wave.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 10:23:40 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "c6cee6324d2ceb344c2793f478a6cf51",
       "title": "جواهرات پنهان لندن: نقاط دیدنی کم ارزشی که باید در پایتخت بریتانیا ببینید",
       "title_fa": "جواهرات پنهان لندن: نقاط دیدنی کم ارزشی که باید در پایتخت بریتانیا ببینید",
@@ -10126,6 +11260,90 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "لندن"
+      }
+    },
+    {
+      "id": "123a140fb85a9030301e55921a5cbb84",
+      "title": "خاویر مایلی دموکرات‌های آمریکا را به تامین مالی «کمپین ضد آرژانتینی» در جام جهانی متهم کرد",
+      "title_fa": "خاویر مایلی دموکرات‌های آمریکا را به تامین مالی «کمپین ضد آرژانتینی» در جام جهانی متهم کرد",
+      "title_en": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "summary": "رئیس‌جمهور برزیل و مکزیک را نیز مقصر می‌داند و می‌گوید منتقدان آنلاین «نمی‌خواهند ایده‌های آزادی به موفقیت برسند» بیش از یک هفته از گلزنی فران تورس در وقت‌های اضافه که باعث شد اسپانیا دومین جام جهانی را به ثمر برساند می‌گذرد، اما - حداقل برای رئیس جمهور آرژانتین - این مسابقات تمام نشده است. خاویر مایلی ادعا کرده است که هماهنگی «ضدآرژانتینی در میان هواداران، کمپین انتقادی و تهاجمات ضد آرژانتین» در پشت تیم بوده است. تئوری‌های توطئه مبنی بر اینکه تیم لیونل مسی به طور مخفیانه مورد حمایت فیفا قرار گرفته است. به خواندن ادامه دهید...",
+      "summary_fa": "رئیس‌جمهور برزیل و مکزیک را نیز مقصر می‌داند و می‌گوید منتقدان آنلاین «نمی‌خواهند ایده‌های آزادی به موفقیت برسند» بیش از یک هفته از گلزنی فران تورس در وقت‌های اضافه که باعث شد اسپانیا دومین جام جهانی را به ثمر برساند می‌گذرد، اما - حداقل برای رئیس جمهور آرژانتین - این مسابقات تمام نشده است. خاویر مایلی ادعا کرده است که هماهنگی «ضدآرژانتینی در میان هواداران، کمپین انتقادی و تهاجمات ضد آرژانتین» در پشت تیم بوده است. تئوری‌های توطئه مبنی بر اینکه تیم لیونل مسی به طور مخفیانه مورد حمایت فیفا قرار گرفته است. به خواندن ادامه دهید...",
+      "summary_en": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over.Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations of racism among its fans and conspiracy theories alleging that Lionel Messi’s side was secretly being favoured by Fifa. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian",
+      "published_at": "Tue, 28 Jul 2026 10:21:46 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/86aeafb5c20cd5724a6740beae18fce5628841ac/660_0_3298_2639/master/3298.jpg?width=140&quality=85&auto=format&fit=max&s=fec961d15c795feb3b704fe65aa7440f",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "b48fcadd719bdd84682c73cdc235ad45",
+      "title": "مشاور مالی من مخالف طرح برداشت برای پرتفوی 2.3 میلیون دلاری من است. آیا او اشتباه می کند؟",
+      "title_fa": "مشاور مالی من مخالف طرح برداشت برای پرتفوی 2.3 میلیون دلاری من است. آیا او اشتباه می کند؟",
+      "title_en": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
+      "summary": "\"پیشنهاد او شامل یک استراتژی محافظت از سهام اختصاصی برای مدیریت 700000 دلار از دارایی های من است.\"",
+      "summary_fa": "\"پیشنهاد او شامل یک استراتژی محافظت از سهام اختصاصی برای مدیریت 700000 دلار از دارایی های من است.\"",
+      "summary_en": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 28 Jul 2026 10:15:00 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-22873977",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b09c548a4a6312079d110f9a8c31ff67",
+      "title": "ترامپ برای میزبانی هفتمین سفر نتانیاهو به کاخ سفید، ریسک سیاسی را نادیده گرفت",
+      "title_fa": "ترامپ برای میزبانی هفتمین سفر نتانیاهو به کاخ سفید، ریسک سیاسی را نادیده گرفت",
+      "title_en": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
+      "summary": "نشست سه‌شنبه دفتر بیضی برای اولین بار از زمان آغاز جنگ غیرمحبوب آمریکا و اسرائیل با ایران است.",
+      "summary_fa": "نشست سه‌شنبه دفتر بیضی برای اولین بار از زمان آغاز جنگ غیرمحبوب آمریکا و اسرائیل با ایران است.",
+      "summary_en": "Oval Office meeting on Tuesday is first since US-Israel launched unpopular war with Iran.",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 10:12:24 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8610c3e5ebbc1168b2920db063cfc263",
+      "title": "بن کارول کمیسیون سلطنتی را در بخش ساخت و ساز در اولین اقدام به عنوان نخست وزیر جدید ویکتوریا اعلام می کند",
+      "title_fa": "بن کارول کمیسیون سلطنتی را در بخش ساخت و ساز در اولین اقدام به عنوان نخست وزیر جدید ویکتوریا اعلام می کند",
+      "title_en": "Ben Carroll announces royal commission into construction sector in first act as new Victorian premier",
+      "summary": "جاسینتا آلن قبل از سپری شدن مورد انتظار از سمت خود کناره‌گیری می‌کند و می‌گوید معاونش از \"حمایت غیرقابل صلاحیت\" او برخوردار است به‌روزرسانی‌های زنده: جاسینتا آلن از سمت نخست‌وزیر ویکتوریا استعفا می‌دهد، بن کارول کیست؟ ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، بن کارول به عنوان نخست‌وزیر ویکتوریا سوگند یاد کرده است. در بخش ساخت و ساز. ارتقاء کارول تنها چهار ماه قبل از انتخابات ایالتی است و پس از 48 ساعت پر فراز و نشیب برای حزب کارگر، طی آن آلن استعفا داد و یک رقیب غافلگیرکننده در رقابت رهبری ظاهر شد. به خواندن ادامه دهید...",
+      "summary_fa": "جاسینتا آلن قبل از سپری شدن مورد انتظار از سمت خود کناره‌گیری می‌کند و می‌گوید معاونش از \"حمایت غیرقابل صلاحیت\" او برخوردار است به‌روزرسانی‌های زنده: جاسینتا آلن از سمت نخست‌وزیر ویکتوریا استعفا می‌دهد، بن کارول کیست؟ ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، بن کارول به عنوان نخست‌وزیر ویکتوریا سوگند یاد کرده است. در بخش ساخت و ساز. ارتقاء کارول تنها چهار ماه قبل از انتخابات ایالتی است و پس از 48 ساعت پر فراز و نشیب برای حزب کارگر، طی آن آلن استعفا داد و یک رقیب غافلگیرکننده در رقابت رهبری ظاهر شد. به خواندن ادامه دهید...",
+      "summary_en": "Jacinta Allan steps down from top job before expected spill, saying her deputy has her ‘unqualified support’Live updates: Jacinta Allan quits as premier of VictoriaWho is Ben Carroll?Get our breaking news email, free app or daily news podcastBen Carroll has been sworn in as the premier of Victoria after Jacinta Allan resigned, with his first act as leader to announce a royal commission into alleged corruption in the construction sector.Carroll’s elevation comes just four months before the state election and follows a tumultuous 48 hours for Labor, during which Allan resigned and a surprise challenger emerged in the leadership contest. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "source": "The Guardian",
+      "published_at": "Tue, 28 Jul 2026 10:12:07 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f379c2b04bb66cddde5b073f13ca3c0657976c62/2086_1103_2057_1646/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=c19ed3fc56b9f55e840ea82189b2e0c0",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -10168,6 +11386,27 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "2b02c03a586fd22ae182a8c16a80599a",
+      "title": "میلیاردرهای بعدی IPO سیلیکون ولی در راهند. سازمان های غیرانتفاعی برای آنها آماده هستند",
+      "title_fa": "میلیاردرهای بعدی IPO سیلیکون ولی در راهند. سازمان های غیرانتفاعی برای آنها آماده هستند",
+      "title_en": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "summary": "انتظار می رود کارمندان Anthropic و OpenAI پس از عمومی شدن شرکت هایشان، سخاوتمندانه کمک کنند. یکی از مدیران غیرانتفاعی می‌گوید: «این یک سفر وحشیانه خواهد بود.",
+      "summary_fa": "انتظار می رود کارمندان Anthropic و OpenAI پس از عمومی شدن شرکت هایشان، سخاوتمندانه کمک کنند. یکی از مدیران غیرانتفاعی می‌گوید: «این یک سفر وحشیانه خواهد بود.",
+      "summary_en": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "source": "Wired",
+      "published_at": "Tue, 28 Jul 2026 10:00:00 +0000",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -10276,6 +11515,27 @@
       }
     },
     {
+      "id": "d1f5c6b5686fd6f3532d0b94b14fa370",
+      "title": "زمین لرزه ای به بزرگی 7.1 ریشتر جنوب ژاپن را لرزاند",
+      "title_fa": "زمین لرزه ای به بزرگی 7.1 ریشتر جنوب ژاپن را لرزاند",
+      "title_en": "Moment 7.1-magnitude earthquake rocks southern Japan",
+      "summary": "زمین لرزه ای به بزرگی 7.1 ریشتر کوماموتو در جزیره کیوشو در جنوب ژاپن را لرزاند.",
+      "summary_fa": "زمین لرزه ای به بزرگی 7.1 ریشتر کوماموتو در جزیره کیوشو در جنوب ژاپن را لرزاند.",
+      "summary_en": "A magnitude 7.1 earthquake has hit Kumamoto on Japan's southern island of Kyushu.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/moment-7-1-magnitude-earthquake-rocks-southern-japan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 09:45:13 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "401688f1dbaf80a96815f5ed530b0f47",
       "title": "مترجم اودیسه نقدی تند از اقتباس فیلم نولان می نویسد",
       "title_fa": "مترجم اودیسه نقدی تند از اقتباس فیلم نولان می نویسد",
@@ -10346,6 +11606,27 @@
       "summary": "زین الدین زیدان فوق ستاره سابق تیم ملی فرانسه پس از ناامیدی تیم ملی در جام جهانی 2026 به عنوان سرمربی جدید معرفی شد.",
       "summary_fa": "زین الدین زیدان فوق ستاره سابق تیم ملی فرانسه پس از ناامیدی تیم ملی در جام جهانی 2026 به عنوان سرمربی جدید معرفی شد.",
       "summary_en": "Ex-France superstar player Zinedine Zidane unveiled as new head coach following team's World Cup 2026 disappointment.",
+      "link": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 28 Jul 2026 09:39:06 +0000",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "5e84af53c92f589383577892c8520d8b",
+      "title": "پس از جام جهانی 2026، زین الدین زیدان به عنوان سرمربی فرانسه انتخاب شد",
+      "title_fa": "پس از جام جهانی 2026، زین الدین زیدان به عنوان سرمربی فرانسه انتخاب شد",
+      "title_en": "Zinedine Zidane named as France head coach following World Cup 2026",
+      "summary": "فوق ستاره سابق تیم ملی پس از خروج تلخ تیم ملی از نیمه نهایی جانشین دیدیه دشان به عنوان سرمربی فرانسه شد.",
+      "summary_fa": "فوق ستاره سابق تیم ملی پس از خروج تلخ تیم ملی از نیمه نهایی جانشین دیدیه دشان به عنوان سرمربی فرانسه شد.",
+      "summary_en": "Ex-superstar player succeeds Didier Deschamps as France manager after the national team’s bitter semifinal exit.",
       "link": "https://www.aljazeera.com/sports/2026/7/28/zidane-named-new-france-head-coach-after-fifa-world-cup-2026?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Tue, 28 Jul 2026 09:39:06 +0000",
@@ -11687,6 +12968,27 @@
       "title": "IPO پرفروش CXMT سود بادآورده ای را برای استان خود به ارمغان می آورد",
       "title_fa": "IPO پرفروش CXMT سود بادآورده ای را برای استان خود به ارمغان می آورد",
       "title_en": "CXMT’s blockbuster IPO delivers windfall for its home province",
+      "summary": "وجوهی که توسط دولت محلی در Hefei اداره می شود، 5000 درصد از فهرست پرفروش های سازنده تراشه سود می برد.",
+      "summary_fa": "وجوهی که توسط دولت محلی در Hefei اداره می شود، 5000 درصد از فهرست پرفروش های سازنده تراشه سود می برد.",
+      "summary_en": "Funds run by local government in Hefei make gains of 5,000% from chipmaker’s blockbuster listing",
+      "link": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 28 Jul 2026 05:35:45 GMT",
+      "date_iso": "2026-07-28",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc95db16-9013-4d68-b2d4-d4f9e6693faf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9842c9d274af0f239c09396a9748d5d0",
+      "title": "IPO پرفروش CXMT سود بادآورده ای را برای شهر خود به ارمغان می آورد",
+      "title_fa": "IPO پرفروش CXMT سود بادآورده ای را برای شهر خود به ارمغان می آورد",
+      "title_en": "CXMT’s blockbuster IPO delivers windfall for its home city",
       "summary": "وجوهی که توسط دولت محلی در Hefei اداره می شود، 5000 درصد از فهرست پرفروش های سازنده تراشه سود می برد.",
       "summary_fa": "وجوهی که توسط دولت محلی در Hefei اداره می شود، 5000 درصد از فهرست پرفروش های سازنده تراشه سود می برد.",
       "summary_en": "Funds run by local government in Hefei make gains of 5,000% from chipmaker’s blockbuster listing",
@@ -38060,6 +39362,27 @@
       }
     },
     {
+      "id": "64cb1ae82fa4bbec1c8d9215ea2e33a3",
+      "title": "آتش سوزی های جنگلی اروپا در نقشه ها - و نحوه مقابله با آنها",
+      "title_fa": "آتش سوزی های جنگلی اروپا در نقشه ها - و نحوه مقابله با آنها",
+      "title_en": "European wildfires in maps - and how they're being tackled",
+      "summary": "آتش سوزی در نزدیکی بوردو بیش از 162 مایل مربع (420 کیلومتر مربع) را در کمتر از چهار روز شکسته است، در حالی که منطقه مادرید شاهد بدترین آتش سوزی های خود است.",
+      "summary_fa": "آتش سوزی در نزدیکی بوردو بیش از 162 مایل مربع (420 کیلومتر مربع) را در کمتر از چهار روز شکسته است، در حالی که منطقه مادرید شاهد بدترین آتش سوزی های خود است.",
+      "summary_en": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 27 Jul 2026 15:59:27 GMT",
+      "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6786/live/a29902f0-89c7-11f1-a501-d9a9d2e9b6c1.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "b09329ee16ee7820afd8bc48bd9bdc52",
       "title": "یک فعال پس از دادن \"کد اجباری\" به مامور مرزی که گوشی او را پاک کرده بود، به جرم جنایت متهم شد",
       "title_fa": "یک فعال پس از دادن \"کد اجباری\" به مامور مرزی که گوشی او را پاک کرده بود، به جرم جنایت متهم شد",
@@ -54291,6 +55614,27 @@
       }
     },
     {
+      "id": "ddd228596b349c9790d2cb6afaf059c0",
+      "title": "حلقه های هوشمند شبیه ابزار هوش مصنوعی من هستند",
+      "title_fa": "حلقه های هوشمند شبیه ابزار هوش مصنوعی من هستند",
+      "title_en": "Smart rings are looking like my kind of AI gadget",
+      "summary": "در چند ماه گذشته، زمان زیادی را صرف صحبت کردن با کامپیوتر خود کرده ام. یکی از ویژگی های دست کم گرفته شده انقلاب LLM، جهش قابل توجهی در انواع فناوری دیکته است - حتی سریع ترین و ارزان ترین مدل ها در درک و پردازش گفتار بسیار خوب هستند. من تعداد زیادی از این برنامه ها را آزمایش کرده ام، از […]",
+      "summary_fa": "در چند ماه گذشته، زمان زیادی را صرف صحبت کردن با کامپیوتر خود کرده ام. یکی از ویژگی های دست کم گرفته شده انقلاب LLM، جهش قابل توجهی در انواع فناوری دیکته است - حتی سریع ترین و ارزان ترین مدل ها در درک و پردازش گفتار بسیار خوب هستند. من تعداد زیادی از این برنامه ها را آزمایش کرده ام، از […]",
+      "summary_en": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from […]",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge",
+      "published_at": "2026-07-28T08:00:00-04:00",
+      "date_iso": "2026-07-28",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e1519573b48ca6ecadf1173d505ea5c8",
       "title": "از Hugging Face برای درآوردن راحت زنان و کودکان استفاده می شود",
       "title_fa": "از Hugging Face برای درآوردن راحت زنان و کودکان استفاده می شود",
@@ -54309,6 +55653,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "a03655b7a0a5407e5bfc1481cf4902db",
+      "title": "کلینیک های باروری میتوکندری های جوان را با روش بحث برانگیز باروری ارائه می دهند",
+      "title_fa": "کلینیک های باروری میتوکندری های جوان را با روش بحث برانگیز باروری ارائه می دهند",
+      "title_en": "Fertility clinics are offering young mitochondria in controversial fertility technique",
+      "summary": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-01935-5محققان نگران هستند که این روش، که به طور دقیق مورد مطالعه قرار نگرفته است، توسط کلینیک های سراسر جهان تبلیغ می شود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-01935-5محققان نگران هستند که این روش، که به طور دقیق مورد مطالعه قرار نگرفته است، توسط کلینیک های سراسر جهان تبلیغ می شود.",
+      "summary_en": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-01935-5Researchers are alarmed that the procedure, which has not been rigorously studied, is advertised by clinics around the world.",
+      "link": "https://www.nature.com/articles/d41586-026-01935-5",
+      "source": "Nature",
+      "published_at": "2026-07-28 12:08",
+      "date_iso": "2026-07-28",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4188c68dd85c092f9456f46bd74629de",
+      "title": "هوش مصنوعی پزشکی مشکل اندازه گیری دارد",
+      "title_fa": "هوش مصنوعی پزشکی مشکل اندازه گیری دارد",
+      "title_en": "Medical AI has a measurement problem",
+      "summary": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02125-zتوسعه دو دستیار هوش مصنوعی پزشکی یک چالش نگران کننده را برجسته می کند: در حالی که فناوری در پیش است، بهترین راه برای ارزیابی عملکرد چیست؟",
+      "summary_fa": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02125-zتوسعه دو دستیار هوش مصنوعی پزشکی یک چالش نگران کننده را برجسته می کند: در حالی که فناوری در پیش است، بهترین راه برای ارزیابی عملکرد چیست؟",
+      "summary_en": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02125-zThe development of two medical AI assistants highlights an unnerving challenge: as the technology races ahead, what is the best way to evaluate what works?",
+      "link": "https://www.nature.com/articles/d41586-026-02125-z",
+      "source": "Nature",
+      "published_at": "2026-07-28 12:08",
+      "date_iso": "2026-07-28",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c301db874cd7c68aefa695fdda688a44",
+      "title": "همه موجودات زنده درخشش ضعیفی از خود ساطع می کنند. آیا این چراغ می تواند مفید باشد؟",
+      "title_fa": "همه موجودات زنده درخشش ضعیفی از خود ساطع می کنند. آیا این چراغ می تواند مفید باشد؟",
+      "title_en": "All living things emit a faint glow. Could this light be useful?",
+      "summary": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02311-z «بیوفوتون‌های» فوق‌العاده ضعیف ممکن است برای تشخیص بیماری استفاده شوند، یا حتی می‌توانند یک مکانیسم سیگنال‌دهی جدید در سلول‌ها را نشان دهند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02311-z «بیوفوتون‌های» فوق‌العاده ضعیف ممکن است برای تشخیص بیماری استفاده شوند، یا حتی می‌توانند یک مکانیسم سیگنال‌دهی جدید در سلول‌ها را نشان دهند.",
+      "summary_en": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02311-zUltra-weak ‘biophotons’ might be used to diagnose disease, or could even represent a new signalling mechanism in cells.",
+      "link": "https://www.nature.com/articles/d41586-026-02311-z",
+      "source": "Nature",
+      "published_at": "2026-07-28 12:08",
+      "date_iso": "2026-07-28",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26103d0a9fec8878b7030bea2b88f269",
+      "title": "گزارش روزانه: شهر با یک باتری بزرگ گرم می شود",
+      "title_fa": "گزارش روزانه: شهر با یک باتری بزرگ گرم می شود",
+      "title_en": "Daily briefing: The town heated by one big battery",
+      "summary": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/d41586-026-02355-1A باتری شنی می تواند Pornainen، فنلاند را تا یک هفته در زمستان نان تست نگه دارد. به علاوه، تأسیسات فیزیک بریتانیا با تهدید بودجه مواجه هستند و ادعاهای بهداشتی MAHA را زیر میکروسکوپ بررسی می‌کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 27 جولای 2026; doi:10.1038/d41586-026-02355-1A باتری شنی می تواند Pornainen، فنلاند را تا یک هفته در زمستان نان تست نگه دارد. به علاوه، تأسیسات فیزیک بریتانیا با تهدید بودجه مواجه هستند و ادعاهای بهداشتی MAHA را زیر میکروسکوپ بررسی می‌کنند.",
+      "summary_en": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02355-1A sand battery can keep Pornainen, Finland, toasty for up to a week in winter. Plus, UK physics facilities face a funding threat and examine MAHA health claims under the microscope.",
+      "link": "https://www.nature.com/articles/d41586-026-02355-1",
+      "source": "Nature",
+      "published_at": "2026-07-28 12:08",
+      "date_iso": "2026-07-28",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "5ae0f092f54e4bca51432a88417fdcbb",
+      "title": "گزارش روزانه: علم <i>اودیسه</i>",
+      "title_fa": "گزارش روزانه: علم <i>اودیسه</i>",
+      "title_en": "Daily briefing: The science of <i>The Odyssey</i>",
+      "summary": "طبیعت، انتشار آنلاین: 24 جولای 2026; doi:10.1038/d41586-026-02345-3 این داستان اجمالی از پزشکی و فناوری دنیای هومری را به ما می دهد. بعلاوه، ال نینو امسال بزرگترین رکورد ثبت شده و رونق زبان ها در آغاز کشاورزی خواهد بود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 24 جولای 2026; doi:10.1038/d41586-026-02345-3 این داستان اجمالی از پزشکی و فناوری دنیای هومری را به ما می دهد. بعلاوه، ال نینو امسال بزرگترین رکورد ثبت شده و رونق زبان ها در آغاز کشاورزی خواهد بود.",
+      "summary_en": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02345-3The tale gives us glimpses of the medicine and technology of the Homeric world. Plus, this year’s El Niño is set to be the largest on record and the boom in languages at the dawn of farming.",
+      "link": "https://www.nature.com/articles/d41586-026-02345-3",
+      "source": "Nature",
+      "published_at": "2026-07-28 12:08",
+      "date_iso": "2026-07-28",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
