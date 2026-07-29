@@ -1,7 +1,112 @@
 {
-  "last_update": "2026-07-29 15:28:52",
-  "total_count": 3469,
+  "last_update": "2026-07-29 16:53:23",
+  "total_count": 3528,
   "articles": [
+    {
+      "id": "07f4b83827bd595a464f65b6f507ebf1",
+      "title": "پرتغال: ایرفرانس-کی ال ام و لوفت هانزا پیشنهادهای الزام آور برای خرید TAP ارائه می دهند",
+      "title_fa": "پرتغال: ایرفرانس-کی ال ام و لوفت هانزا پیشنهادهای الزام آور برای خرید TAP ارائه می دهند",
+      "title_en": "Portugal: Air France-KLM and Lufthansa submit binding bids to buy TAP",
+      "summary": "اکنون انتظار می رود دولت این گزارش را ظرف 30 روز دریافت کند و ممکن است از سرمایه گذاران بخواهد که پیشنهاد نهایی بهبود یافته را ارائه کنند.",
+      "summary_fa": "اکنون انتظار می رود دولت این گزارش را ظرف 30 روز دریافت کند و ممکن است از سرمایه گذاران بخواهد که پیشنهاد نهایی بهبود یافته را ارائه کنند.",
+      "summary_en": "The government is now expected to receive the report within 30 days and may ask investors to submit an improved final bid.",
+      "link": "http://www.euronews.com/business/2026/07/29/portugal-air-france-klm-and-lufthansa-submit-binding-bids-to-buy-tap",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 18:45:12 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "e2f2460217db66efcac61aae637e535a",
+      "title": "یوفا از فیفا به دلیل ضرب الاجل اینفانتینو برای فروش سهام جام جهانی انتقاد کرد",
+      "title_fa": "یوفا از فیفا به دلیل ضرب الاجل اینفانتینو برای فروش سهام جام جهانی انتقاد کرد",
+      "title_en": "UEFA slams FIFA over Infantino's deadline for World Cup stake sale",
+      "summary": "درگیری بین فیفا و یوفا پس از آن تشدید شد که هیئت حاکمه فوتبال اروپا نسبت به طرح فروش سهام جام جهانی توبیخ شد. یوفا یک جلسه اضطراری برای بررسی مراحل بعدی خود برگزار خواهد کرد.",
+      "summary_fa": "درگیری بین فیفا و یوفا پس از آن تشدید شد که هیئت حاکمه فوتبال اروپا نسبت به طرح فروش سهام جام جهانی توبیخ شد. یوفا یک جلسه اضطراری برای بررسی مراحل بعدی خود برگزار خواهد کرد.",
+      "summary_en": "The clash between FIFA and UEFA has intensified after European football's governing body issued a fresh rebuke over plans to sell a stake in the World Cup. UEFA will hold an emergency meeting to discuss its next steps.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/uefa-slams-fifa-over-infantinos-deadline-for-world-cup-stake-sale",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 18:28:18 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "ef194f009cde89a575f188a1bb783a5a",
+      "title": "آخرین بولتن اخبار | 29 ژوئیه 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 29 ژوئیه 2026 - عصر",
+      "title_en": "Latest news bulletin | July 29th, 2026 – Evening",
+      "summary": "در 29 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 29 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 18:00:29 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "423958bba0392b56acf26bf8e9c1fb84",
+      "title": "اتحادیه اروپا نسبت به تردید ایتالیا در دریافت وام دفاعی 14.9 میلیارد یورویی بی تاب شده است",
+      "title_fa": "اتحادیه اروپا نسبت به تردید ایتالیا در دریافت وام دفاعی 14.9 میلیارد یورویی بی تاب شده است",
+      "title_en": "EU grows impatient over Italy's hesitancy on €14.9bn defence loan",
+      "summary": "ایتالیا تصمیم نگرفته است که چه مقدار از 14.9 میلیارد یورو وام دفاعی SAFE خود را استفاده خواهد کرد، زیرا چندین ملاحظات داخلی بر محاسبات تأثیر می گذارد. اما بروکسل و سایر کشورهای عضو برای تخصیص مجدد هرگونه بودجه مصرف نشده در مهلت‌های قانونی بی‌صبر هستند.",
+      "summary_fa": "ایتالیا تصمیم نگرفته است که چه مقدار از 14.9 میلیارد یورو وام دفاعی SAFE خود را استفاده خواهد کرد، زیرا چندین ملاحظات داخلی بر محاسبات تأثیر می گذارد. اما بروکسل و سایر کشورهای عضو برای تخصیص مجدد هرگونه بودجه مصرف نشده در مهلت‌های قانونی بی‌صبر هستند.",
+      "summary_en": "Italy hasn't decided how much of its €14.9bn SAFE defence loan it will use, as several domestic considerations affect the calculus. But Brussels and other member states are growing impatient to reallocate any unspent funds within the legal deadlines.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/eu-grows-impatient-over-italys-hesitancy-on-149bn-defence-loan",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 17:44:05 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1482a43b79cdf61c73383ec60aedcd50",
+      "title": "حوثی‌ها کتاب بازی هرمز ایران را با طرح عوارض دریای سرخ کپی می‌کنند",
+      "title_fa": "حوثی‌ها کتاب بازی هرمز ایران را با طرح عوارض دریای سرخ کپی می‌کنند",
+      "title_en": "Houthis to copy Iran's Hormuz playbook with Red Sea toll plan",
+      "summary": "وزیر اطلاعات یمن گفت که اطلاعات تایید کرده است که مستشاران سپاه پاسداران انقلاب اسلامی مستقیماً در طراحی یک سیستم عوارضی که توسط حوثی‌ها برای باب المندب اعمال می‌شود، مشارکت داشته‌اند، که منعکس‌کننده ادعای مورد بحث ایران برای دریافت هزینه در تنگه هرمز است.",
+      "summary_fa": "وزیر اطلاعات یمن گفت که اطلاعات تایید کرده است که مستشاران سپاه پاسداران انقلاب اسلامی مستقیماً در طراحی یک سیستم عوارضی که توسط حوثی‌ها برای باب المندب اعمال می‌شود، مشارکت داشته‌اند، که منعکس‌کننده ادعای مورد بحث ایران برای دریافت هزینه در تنگه هرمز است.",
+      "summary_en": "Yemen's information minister said intelligence confirmed IRGC advisers were directly involved in designing a Houthi-enforced toll system for the Bab el-Mandeb, mirroring Iran's contested claim to charge fees in the Strait of Hormuz.",
+      "link": "http://www.euronews.com/2026/07/29/houthis-to-copy-irans-hormuz-playbook-with-red-sea-toll-plan",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 17:28:12 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
     {
       "id": "30b7efd763370b01a73862db567f0c3d",
       "title": "باد و خورشید از سوخت‌های فسیلی در آلمان سبقت می‌گیرند - اما قیمت‌های منفی برق همچنان بالاست",
@@ -66,6 +171,69 @@
       }
     },
     {
+      "id": "0e42d701e1013929deaa775c297d2688",
+      "title": "پس از اینکه ترامپ گفت آمریکا ضربه سختی به ایران خواهد زد، قیمت نفت ۷ درصد افزایش یافت",
+      "title_fa": "پس از اینکه ترامپ گفت آمریکا ضربه سختی به ایران خواهد زد، قیمت نفت ۷ درصد افزایش یافت",
+      "title_en": "Oil prices jump 7% after Trump says U.S. will hit Iran hard",
+      "summary": "پس از حمله ایران به نیروهای آمریکایی با استفاده از موشک های بالستیک، در بحبوحه تنش های مجدد در خاورمیانه، نفت به شدت افزایش یافت.",
+      "summary_fa": "پس از حمله ایران به نیروهای آمریکایی با استفاده از موشک های بالستیک، در بحبوحه تنش های مجدد در خاورمیانه، نفت به شدت افزایش یافت.",
+      "summary_en": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:51:44 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "36a808c941d77491d8b60d028f891d94",
+      "title": "خدمه آتش نشانی فرانسه در نبرد برای مهار شعله با گرمای شدید روبرو هستند",
+      "title_fa": "خدمه آتش نشانی فرانسه در نبرد برای مهار شعله با گرمای شدید روبرو هستند",
+      "title_en": "France fire crews face searing heat in battle to contain flames",
+      "summary": "آتش نشانان در حال مبارزه با شعله ور شدن در گرمای 40 درجه سانتیگراد هستند، زیرا برخی از مردم محلی به تخلیه در منطقه Gironde خودداری کرده اند.",
+      "summary_fa": "آتش نشانان در حال مبارزه با شعله ور شدن در گرمای 40 درجه سانتیگراد هستند، زیرا برخی از مردم محلی به تخلیه در منطقه Gironde خودداری کرده اند.",
+      "summary_en": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region.",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 16:49:41 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa92/live/15521b20-8b6b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "b68de7c4b9bd7377745182c9f8020a1a",
+      "title": "آنتونی فائوچی در جلسه استماع سنای ایالات متحده در مورد منشاء کووید، از پاسخ دادن به سؤالات خودداری می کند",
+      "title_fa": "آنتونی فائوچی در جلسه استماع سنای ایالات متحده در مورد منشاء کووید، از پاسخ دادن به سؤالات خودداری می کند",
+      "title_en": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+      "summary": "این مقام ارشد سابق بهداشت آمریکا گفت که می ترسد جمهوری خواهان سعی کنند او را به دام بیاندازند و از شهادتش برای محاکمه او به دلیل شهادت دروغ استفاده کنند.",
+      "summary_fa": "این مقام ارشد سابق بهداشت آمریکا گفت که می ترسد جمهوری خواهان سعی کنند او را به دام بیاندازند و از شهادتش برای محاکمه او به دلیل شهادت دروغ استفاده کنند.",
+      "summary_en": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 16:49:06 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c915/live/a70a1ff0-8b4c-11f1-8139-b39d1c7486b2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b8c14d444bedd29c150366c927dbdb0c",
       "title": "بیمارستان لس آنجلس به نمایشگاه هنری همهجانبه تبدیل شد",
       "title_fa": "بیمارستان لس آنجلس به نمایشگاه هنری همهجانبه تبدیل شد",
@@ -87,6 +255,90 @@
       }
     },
     {
+      "id": "8e1b04e140021c1e585497bc68ea8e2b",
+      "title": "آیا جهان در خطر یک شوک انرژی دیگر است؟",
+      "title_fa": "آیا جهان در خطر یک شوک انرژی دیگر است؟",
+      "title_en": "Is the world at risk of another energy shock?",
+      "summary": "اختلالات در تنگه هرمز، باب المندب و دریای سیاه، منابع را تهدید می کند و هزینه ها را برای مصرف کنندگان افزایش می دهد.",
+      "summary_fa": "اختلالات در تنگه هرمز، باب المندب و دریای سیاه، منابع را تهدید می کند و هزینه ها را برای مصرف کنندگان افزایش می دهد.",
+      "summary_en": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 16:43:37 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b94c501ea0029030734d137d8313b6d9",
+      "title": "آنچه درباره شبه نظامیان عراق باید بدانید",
+      "title_fa": "آنچه درباره شبه نظامیان عراق باید بدانید",
+      "title_en": "What to Know About Iraq’s Militias",
+      "summary": "دست کم 20 جنگجوی حشد الشعبی، گروهی از شبه نظامیان عراقی که با ایران ارتباط دارند، در موجی از حملات هوایی آمریکا و عربستان کشته شدند.",
+      "summary_fa": "دست کم 20 جنگجوی حشد الشعبی، گروهی از شبه نظامیان عراقی که با ایران ارتباط دارند، در موجی از حملات هوایی آمریکا و عربستان کشته شدند.",
+      "summary_en": "At least 20 fighters of the Popular Mobilization Forces, an umbrella group of Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes.",
+      "link": "https://www.nytimes.com/2026/07/29/world/middleeast/heres-what-to-know-about-iraqs-militias.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 16:42:04 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29int-iraq-militias-topart-lbhf/29int-iraq-militias-topart-lbhf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7437c771c93ff2b28844e7019a3f6f1c",
+      "title": "نامزدی تاد بلانچ برای دادستان کل در اوج به عنوان کورنین توافق ترامپ و IRS را زیر سوال می برد",
+      "title_fa": "نامزدی تاد بلانچ برای دادستان کل در اوج به عنوان کورنین توافق ترامپ و IRS را زیر سوال می برد",
+      "title_en": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+      "summary": "سناتور جان کورنین می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_fa": "سناتور جان کورنین می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_en": "Sen. John Cornyn says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+      "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:39:37 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a88d1d0ddf79d34ac494bade6dd872dd",
+      "title": "پس از وعده ترامپ برای تلافی حمله غافلگیرانه ایران به نیروهای آمریکایی، قیمت جهانی نفت به بشکه ای 88 دلار رسید.",
+      "title_fa": "پس از وعده ترامپ برای تلافی حمله غافلگیرانه ایران به نیروهای آمریکایی، قیمت جهانی نفت به بشکه ای 88 دلار رسید.",
+      "title_en": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+      "summary": "قیمت نفت روز چهارشنبه پس از آن که دونالد ترامپ، رئیس جمهور آمریکا گفت، پس از اینکه ایران نیروهای آمریکایی را در خاورمیانه با موشک های بالستیک در یک شبه هدف قرار داد، دستور حملات سنگین را صادر خواهد کرد، افزایش یافت.",
+      "summary_fa": "قیمت نفت روز چهارشنبه پس از آن که دونالد ترامپ، رئیس جمهور آمریکا گفت، پس از اینکه ایران نیروهای آمریکایی را در خاورمیانه با موشک های بالستیک در یک شبه هدف قرار داد، دستور حملات سنگین را صادر خواهد کرد، افزایش یافت.",
+      "summary_en": "Oil prices rose on Wednesday after President Donald Trump said the U.S. would order heavy strikes after Iran targeted American forces in the Middle East with ballistic missiles overnight.",
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 16:36:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-35033958",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "15de38e117778c3ab76f504ea3e9ee2b",
       "title": "WHO هشدار می دهد که دود آتش سوزی: یک وضعیت اضطراری بهداشتی فراتر از شعله های آتش",
       "title_fa": "WHO هشدار می دهد که دود آتش سوزی: یک وضعیت اضطراری بهداشتی فراتر از شعله های آتش",
@@ -105,6 +357,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "af09a9af6d8aff88518a8bbb4f74326f",
+      "title": "یک نوجوان نروژی به خاطر سفر به بریتانیا برای انجام قتل قراردادی مجرم است",
+      "title_fa": "یک نوجوان نروژی به خاطر سفر به بریتانیا برای انجام قتل قراردادی مجرم است",
+      "title_en": "Norwegian teenager guilty of travelling to UK to carry out contract killing",
+      "summary": "Johannes Kongsnes Natland برای قتل یک فرد ناشناس توسط یک باند جنایتکار بین المللی مرتبط با ایران استخدام شد یک نوجوان نروژی به خاطر سفر به انگلیس برای انجام قتلی به دستور یک باند جنایتکار بین المللی مرتبط با ایران مجرم شناخته شد. دو روز پس از ورود او به بریتانیا، پلیس مسلح او را در اتاق هتلی در هادرسفیلد دستگیر کرد و دو اسلحه و مهمات را ضبط کرد. به خواندن ادامه دهید...",
+      "summary_fa": "Johannes Kongsnes Natland برای قتل یک فرد ناشناس توسط یک باند جنایتکار بین المللی مرتبط با ایران استخدام شد یک نوجوان نروژی به خاطر سفر به انگلیس برای انجام قتلی به دستور یک باند جنایتکار بین المللی مرتبط با ایران مجرم شناخته شد. دو روز پس از ورود او به بریتانیا، پلیس مسلح او را در اتاق هتلی در هادرسفیلد دستگیر کرد و دو اسلحه و مهمات را ضبط کرد. به خواندن ادامه دهید...",
+      "summary_en": "Johannes Kongsnes Natland was recruited to murder unknown person by international crime gang linked to IranA Norwegian teenager has been found guilty of travelling to England to carry out a killing ordered by an international crime gang linked to Iran.Johannes Kongsnes Natland, 19, from Stavanger, Norway, agreed to shoot an unknown person for €25,000 (£21,500) in March last year. Two days after he arrived in the UK armed police arrested him in a hotel room in Huddersfield, seizing two guns and ammunition. Continue reading...",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 16:33:50 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/13a1f967768d83d7def5caea675ee0208ff38afd/0_28_2548_2038/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=becddf8d4f69c069c2638ac74186d60c",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c55635cb3babac27c2f6ee6e8a611032",
+      "title": "بیماری های گرمسیری مانند تب دنگی و چیکونگونیا در اروپا در حال افزایش هستند",
+      "title_fa": "بیماری های گرمسیری مانند تب دنگی و چیکونگونیا در اروپا در حال افزایش هستند",
+      "title_en": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
+      "summary": "تغییرات آب و هوایی به گونه‌های مهاجم کمک می‌کند تا نه تنها خود را در سراسر قاره مستقر کنند، بلکه برای مدت طولانی‌تری زنده بمانند. دانشمندان پیشنهاد می کنند که به آن عادت کنیم.",
+      "summary_fa": "تغییرات آب و هوایی به گونه‌های مهاجم کمک می‌کند تا نه تنها خود را در سراسر قاره مستقر کنند، بلکه برای مدت طولانی‌تری زنده بمانند. دانشمندان پیشنهاد می کنند که به آن عادت کنیم.",
+      "summary_en": "Climate change is helping invasive species to not only establish themselves across the Continent but to stay alive for longer. Scientists suggest we get used to it.",
+      "link": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 16:31:45 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "5e810ea06054820ab3f5f0f701d835d9",
+      "title": "آنتونی فائوچی از پاسخگویی به سوالات کووید در جلسه استماع آتشین سنا خودداری کرد",
+      "title_fa": "آنتونی فائوچی از پاسخگویی به سوالات کووید در جلسه استماع آتشین سنا خودداری کرد",
+      "title_en": "Anthony Fauci refuses to answer Covid questions at fiery Senate hearing",
+      "summary": "دانشمندی که با دونالد ترامپ اختلاف داشت، سناتور جمهوری خواه را به داشتن \"وسواس بی وقفه\" متهم کرد.",
+      "summary_fa": "دانشمندی که با دونالد ترامپ اختلاف داشت، سناتور جمهوری خواه را به داشتن \"وسواس بی وقفه\" متهم کرد.",
+      "summary_en": "Scientist who fell out with Donald Trump accuses Republican senator of having ‘unhinged obsession’",
+      "link": "https://www.ft.com/content/35811ce1-84a7-4a59-aa91-15c6bdd24392?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 16:30:49 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd757f8ff-5a7d-4c5d-af41-0ee9e21031fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed3e1c3362675c0ce0bd36ffa4e564a5",
+      "title": "دو آتش نشان در کرت در اثر آتش سوزی بخش هایی از جنوب اروپا جان خود را از دست دادند",
+      "title_fa": "دو آتش نشان در کرت در اثر آتش سوزی بخش هایی از جنوب اروپا جان خود را از دست دادند",
+      "title_en": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "summary": "بادهای تندباد شعله های آتش را شعله ور کرده و باعث تخلیه چندین روستا در این جزیره شده است، زیرا بخش هایی از قاره نیز همچنان به مقابله با آتش سوزی ادامه می دهند.",
+      "summary_fa": "بادهای تندباد شعله های آتش را شعله ور کرده و باعث تخلیه چندین روستا در این جزیره شده است، زیرا بخش هایی از قاره نیز همچنان به مقابله با آتش سوزی ادامه می دهند.",
+      "summary_en": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 16:23:41 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61b6/live/24160460-8b60-11f1-b4bb-f7524edbe34a.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "7019702306b89b332497d06ee494ef4c",
+      "title": "جیم کرامر فرصتی برای خرید سهام بیشتری از این سازنده تراشه می بیند",
+      "title_fa": "جیم کرامر فرصتی برای خرید سهام بیشتری از این سازنده تراشه می بیند",
+      "title_en": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:14:35 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -171,6 +528,195 @@
       }
     },
     {
+      "id": "302c14622486097fc5425792f66c1200",
+      "title": "مایکروسافت قرار است درآمد خود را پس از زنگ خطر گزارش کند و همه نگاه ها به برنامه های هزینه ای آن دوخته شده است",
+      "title_fa": "مایکروسافت قرار است درآمد خود را پس از زنگ خطر گزارش کند و همه نگاه ها به برنامه های هزینه ای آن دوخته شده است",
+      "title_en": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
+      "summary": "سرمایه گذاران به دنبال این هستند که ببینند آیا مایکروسافت در افزایش برنامه های هزینه سرمایه خود از آلفابت پیروی می کند یا خیر",
+      "summary_fa": "سرمایه گذاران به دنبال این هستند که ببینند آیا مایکروسافت در افزایش برنامه های هزینه سرمایه خود از آلفابت پیروی می کند یا خیر",
+      "summary_en": "Investors are looking to see if Microsoft follows Alphabet in raising its capital spending plans",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:05:34 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6745232d09e80cf7ae0469dcce28a28",
+      "title": "اسپانیا با سه روز \"پیچیده\" با خطر موج گرما و وزش باد شدید که برخی از آتش‌سوزی‌ها را دوباره شعله‌ور می‌کند، مواجه است - همانطور که اتفاق افتاد",
+      "title_fa": "اسپانیا با سه روز \"پیچیده\" با خطر موج گرما و وزش باد شدید که برخی از آتش‌سوزی‌ها را دوباره شعله‌ور می‌کند، مواجه است - همانطور که اتفاق افتاد",
+      "title_en": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
+      "summary": "مقامات نگران هستند که پیشرفت در مهار آتش سوزی در مناطق ژیروند و مادرید به دلیل دمای پایین 40 درجه کاهش یابد. تیم مدیریت بحران اتحادیه اروپا منتظر هفته های سختی در آینده است، از ترس شیوع بیشتر آتش سوزی در ایتالیا و یونان در تابستان. برای همه جامعه ما و در واقع، گاهی اوقات با تمرکز بر آن، نمی توانند آتش را خاموش کنند. به خواندن ادامه دهید...",
+      "summary_fa": "مقامات نگران هستند که پیشرفت در مهار آتش سوزی در مناطق ژیروند و مادرید به دلیل دمای پایین 40 درجه کاهش یابد. تیم مدیریت بحران اتحادیه اروپا منتظر هفته های سختی در آینده است، از ترس شیوع بیشتر آتش سوزی در ایتالیا و یونان در تابستان. برای همه جامعه ما و در واقع، گاهی اوقات با تمرکز بر آن، نمی توانند آتش را خاموش کنند. به خواندن ادامه دهید...",
+      "summary_en": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40sin BrusselsThe European Union’s crisis-management team is expecting difficult weeks ahead, fearing a further outbreak of wildfires in Italy and Greece as the summer goes on.“A firefighter will focus on protecting people. They will focus on protecting houses, protecting a business, a company, because this is something that matters for all our society. And indeed, sometimes by focusing on that, they cannot extinguish fire, [as] they would do it if it would be just forest. So this is new, this is worrying. And of course also, this means that we need to adapt our methods of fighting the fires.” Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 16:04:42 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e2af04a787db17b71c6f95e1a67d57cc2baa2133/3069_933_6849_5478/master/6849.jpg?width=140&quality=85&auto=format&fit=max&s=8d58b173216d81a85251d760746c5d46",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9b985ba3c5895f8c59df139d49d88a5a",
+      "title": "عربستان سعودی به حملات آمریکا به شبه نظامیان مورد حمایت ایران در عراق می پیوندد",
+      "title_fa": "عربستان سعودی به حملات آمریکا به شبه نظامیان مورد حمایت ایران در عراق می پیوندد",
+      "title_en": "Saudi Arabia joins US strikes on Iran-backed militias in Iraq",
+      "summary": "ایران همچنین به نیروهای آمریکایی در اردن موشک‌های بالستیک شلیک کرد و به توقف چند روزه حملات مستقیم هوایی پایان داد.",
+      "summary_fa": "ایران همچنین به نیروهای آمریکایی در اردن موشک‌های بالستیک شلیک کرد و به توقف چند روزه حملات مستقیم هوایی پایان داد.",
+      "summary_en": "Iran also fired ballistic missiles at US forces in Jordan, ending a days-long pause in direct air strikes",
+      "link": "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 16:03:43 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0592801c-0e56-4e88-b1c0-8bcccc957176.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "92764dcfcb833171bfedfab9f2af31ef",
+      "title": "چگونه یک پدر 40 ساله امپراتوری تنقلات گوشتی 1.6 میلیارد دلاری را از یک تجارت ورشکسته در ویسکانسین راه اندازی کرد.",
+      "title_fa": "چگونه یک پدر 40 ساله امپراتوری تنقلات گوشتی 1.6 میلیارد دلاری را از یک تجارت ورشکسته در ویسکانسین راه اندازی کرد.",
+      "title_en": "How a 40-year-old father launched a $1.6 billion-a-year meat snacks empire from a bankrupt Wisconsin business",
+      "summary": "جک لینک ورشکستگی را به فرصتی برای ساختن یک امپراتوری گوشت گاو بدل کرد. چهار دهه بعد، Link Snacks بیش از 1 میلیارد دلار فروش سالانه به ارمغان می آورد.",
+      "summary_fa": "جک لینک ورشکستگی را به فرصتی برای ساختن یک امپراتوری گوشت گاو بدل کرد. چهار دهه بعد، Link Snacks بیش از 1 میلیارد دلار فروش سالانه به ارمغان می آورد.",
+      "summary_en": "Jack Link turned a bankruptcy into an opportunity to build a beef jerky empire. Four decades later, Link Snacks brings in more than $1 billion in annual sales.",
+      "link": "https://www.cnbc.com/2026/07/29/how-link-snacks-grew-from-jack-links-beef-jerky-to-meat-snacks-empire.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:03:25 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "068cf319deb8947a08a368506ecbbebf",
+      "title": "وارن و شیف از SEC می‌خواهند سرویس پولی ترامپ مدیا را که دسترسی سریع‌تری به پست‌های ترامپ می‌دهد بررسی کند.",
+      "title_fa": "وارن و شیف از SEC می‌خواهند سرویس پولی ترامپ مدیا را که دسترسی سریع‌تری به پست‌های ترامپ می‌دهد بررسی کند.",
+      "title_en": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
+      "summary": "ترامپ مکرراً اعلامیه‌های سیاستی یا سایر اطلاعات خبرساز را در Truth Social منتشر کرده است که باعث افزایش یا نزول بازارهای جهانی شده است.",
+      "summary_fa": "ترامپ مکرراً اعلامیه‌های سیاستی یا سایر اطلاعات خبرساز را در Truth Social منتشر کرده است که باعث افزایش یا نزول بازارهای جهانی شده است.",
+      "summary_en": "Trump has frequently posted policy announcements or other newsworthy information on Truth Social that have sent global markets hurtling up or down.",
+      "link": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:03:07 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1e32fb0ceed5e8c780b1e37573272ccc",
+      "title": "ممکن است یک صورت حساب ارز دیجیتال کلیدی به دلیل سرمایه گذاری های ارز دیجیتال ترامپ و مخالفت های بانک ها از بین برود.",
+      "title_fa": "ممکن است یک صورت حساب ارز دیجیتال کلیدی به دلیل سرمایه گذاری های ارز دیجیتال ترامپ و مخالفت های بانک ها از بین برود.",
+      "title_en": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+      "summary": "پیشرفت قانون شفافیت در ماه مه به افزایش قیمت بیت کوین کمک کرد، اما اکنون این اقدام در مجلس سنا با موانعی روبرو است.",
+      "summary_fa": "پیشرفت قانون شفافیت در ماه مه به افزایش قیمت بیت کوین کمک کرد، اما اکنون این اقدام در مجلس سنا با موانعی روبرو است.",
+      "summary_en": "The Clarity Act’s progress in May helped lift the price of bitcoin, but now the measure is facing obstacles in the full Senate.",
+      "link": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 16:03:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-28575996",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9edefd38e7a168be23dab2cb8f9eb2cf",
+      "title": "حملات عربستان سعودی به عراق نشانه ورود به جنگ ایران و آمریکاست.",
+      "title_fa": "حملات عربستان سعودی به عراق نشانه ورود به جنگ ایران و آمریکاست.",
+      "title_en": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
+      "summary": "",
+      "summary_fa": "",
+      "summary_en": "",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 16:01:05 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-saudi-topart-jvpm/29mideast-saudi-topart-jvpm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8a7efd08898b64ae090b171d9a1a0012",
+      "title": "متا نتایج سه ماهه دوم را پس از بسته شدن گزارش می دهد",
+      "title_fa": "متا نتایج سه ماهه دوم را پس از بسته شدن گزارش می دهد",
+      "title_en": "Meta reports second-quarter results after the close",
+      "summary": "متا همچنان شاهد رشد سالم از طریق تبلیغات آنلاین است، اما سرمایه گذاران به دنبال شفافیت بیشتر در مورد برنامه های شرکت برای تنوع هستند.",
+      "summary_fa": "متا همچنان شاهد رشد سالم از طریق تبلیغات آنلاین است، اما سرمایه گذاران به دنبال شفافیت بیشتر در مورد برنامه های شرکت برای تنوع هستند.",
+      "summary_en": "Meta continues to see healthy growth from online ads, but investors are looking for more clarity on the company's plans to diversify.",
+      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 16:00:01 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7b5c342a4ac1ba6fdb025abbf5291d5f",
+      "title": "Anthropic سریعتر از آن چیزی که مایکروسافت بتواند آنها را برطرف کند، باگ ها را پیدا می کند",
+      "title_fa": "Anthropic سریعتر از آن چیزی که مایکروسافت بتواند آنها را برطرف کند، باگ ها را پیدا می کند",
+      "title_en": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "summary": "مایکروسافت در پشت صحنه برای اصلاح سوء استفاده ها قبل از اینکه هکرها آنها را پیدا کنند، تلاش می کند.",
+      "summary_fa": "مایکروسافت در پشت صحنه برای اصلاح سوء استفاده ها قبل از اینکه هکرها آنها را پیدا کنند، تلاش می کند.",
+      "summary_en": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 15:52:48 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "82d95f370fef3f4ce5eb57d82203c53f",
       "title": "اتحادیه اروپا در بحبوحه هشدارهایی که موج گرما ممکن است گسترش یابد، کمک‌های آتش‌سوزی به فرانسه و اسپانیا را هماهنگ می‌کند",
       "title_fa": "اتحادیه اروپا در بحبوحه هشدارهایی که موج گرما ممکن است گسترش یابد، کمک‌های آتش‌سوزی به فرانسه و اسپانیا را هماهنگ می‌کند",
@@ -192,6 +738,27 @@
       }
     },
     {
+      "id": "34556237f7cc648e330909b93dd7472d",
+      "title": "بلاتر رئیس سابق فیفا از برنامه فروش سهام جام جهانی به سرمایه گذاران انتقاد می کند",
+      "title_fa": "بلاتر رئیس سابق فیفا از برنامه فروش سهام جام جهانی به سرمایه گذاران انتقاد می کند",
+      "title_en": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
+      "summary": "سپ بلاتر، رئیس فیفا به مدت 17 سال تا سال 2015، پیشنهاد جدیدی را که \"بازی مردم\" را از طرفداران دورتر می کند، مورد انتقاد قرار داده است.",
+      "summary_fa": "سپ بلاتر، رئیس فیفا به مدت 17 سال تا سال 2015، پیشنهاد جدیدی را که \"بازی مردم\" را از طرفداران دورتر می کند، مورد انتقاد قرار داده است.",
+      "summary_en": "Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans.",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 15:46:20 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d0d2faddc608f61197d4fa079186e503",
       "title": "آتش‌سوزی‌های جنگلی فرانسه 40000 کسب‌وکار را تحت تأثیر قرار می‌دهد، زیرا اختلال در حال گسترش است",
       "title_fa": "آتش‌سوزی‌های جنگلی فرانسه 40000 کسب‌وکار را تحت تأثیر قرار می‌دهد، زیرا اختلال در حال گسترش است",
@@ -206,6 +773,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a5b6a088342cd1afd0c6a345e1c037b",
+      "title": "ترامپ می گوید آمریکا پس از هدف قرار دادن مجدد پایگاه ها به ایران «کتک» می زند",
+      "title_fa": "ترامپ می گوید آمریکا پس از هدف قرار دادن مجدد پایگاه ها به ایران «کتک» می زند",
+      "title_en": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+      "summary": "رئیس جمهور آمریکا یک روز پس از حملات جدید ایران و دیدار با نتانیاهو در کاخ سفید وعده تشدید تنش بزرگ را می دهد.",
+      "summary_fa": "رئیس جمهور آمریکا یک روز پس از حملات جدید ایران و دیدار با نتانیاهو در کاخ سفید وعده تشدید تنش بزرگ را می دهد.",
+      "summary_en": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 15:43:05 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "aef9771286dca60977e3d16513221eb0",
+      "title": "پچ جدید لینوکس AMD عملکرد بازی های پایین رده را در Steam Deck افزایش می دهد",
+      "title_fa": "پچ جدید لینوکس AMD عملکرد بازی های پایین رده را در Steam Deck افزایش می دهد",
+      "title_en": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+      "summary": "راندمان بهبود یافته در حالت EPP منجر به جهش 32% در نرخ فریم \"1% کم\" می شود.",
+      "summary_fa": "راندمان بهبود یافته در حالت EPP منجر به جهش 32% در نرخ فریم \"1% کم\" می شود.",
+      "summary_en": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
+      "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 15:33:20 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Civ7-Steam-Deck-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0665dcccb6caa15049e88f27128e74db",
+      "title": "با برق کم در کوبا، او از یک باتری غول پیکر برای برگزاری مهمانی ها استفاده می کند",
+      "title_fa": "با برق کم در کوبا، او از یک باتری غول پیکر برای برگزاری مهمانی ها استفاده می کند",
+      "title_en": "With Little Electricity in Cuba, He Uses a Giant Battery to Throw Parties",
+      "summary": "دیوید گونزالس به طور ناگهانی میزبان داغ ترین مهمانی های هاوانا در بحبوحه بحران انرژی آن شده است. آیا او می تواند آنها را به یک جنبش تبدیل کند؟",
+      "summary_fa": "دیوید گونزالس به طور ناگهانی میزبان داغ ترین مهمانی های هاوانا در بحبوحه بحران انرژی آن شده است. آیا او می تواند آنها را به یک جنبش تبدیل کند؟",
+      "summary_en": "David González has suddenly become the host of Havana’s hottest parties amid its energy crisis. Can he turn them into a movement?",
+      "link": "https://www.nytimes.com/2026/07/29/world/americas/havana-cuba-parties-david-gonzalez.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 15:28:02 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29int-cuba-party-profile-jgmw/29int-cuba-party-profile-jgmw-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -843,6 +1473,27 @@
       }
     },
     {
+      "id": "c1f65468228d682b32132256c63bb6fb",
+      "title": "با افزایش دما هواپیماها آب را روی آتش سوزی های جنگلی فرانسه می ریزند",
+      "title_fa": "با افزایش دما هواپیماها آب را روی آتش سوزی های جنگلی فرانسه می ریزند",
+      "title_en": "Planes dump water on French wildfires as temperatures rise",
+      "summary": "مقامات در تلاش برای مهار آتش سوزی های جنگلی هستند که روزها در حال شعله ور شدن است.",
+      "summary_fa": "مقامات در تلاش برای مهار آتش سوزی های جنگلی هستند که روزها در حال شعله ور شدن است.",
+      "summary_en": "Authorities have been trying to contain the wildfires, which have been burning for days.",
+      "link": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 14:25:33 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a716/live/0a317350-8b55-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d9824459250d683f9d2168a3e35033b2",
       "title": "این کشور در حال حاضر بیشترین خانه‌ها را در آمریکا خریداری می‌کند، حتی با پایان یافتن فروش بین‌المللی",
       "title_fa": "این کشور در حال حاضر بیشترین خانه‌ها را در آمریکا خریداری می‌کند، حتی با پایان یافتن فروش بین‌المللی",
@@ -892,6 +1543,27 @@
       "summary": "نظرات پدرو سانچز در حالی است که گرمای شدید فشار بر آتش‌نشان‌هایی را که در حال مقابله با آتش‌سوزی‌ها در سراسر اروپای جنوبی هستند، تازه می‌کند. به‌طور زنده - آخرین به‌روزرسانی‌ها، پدرو سانچز، نخست‌وزیر اسپانیا، گفت: 12 ساعت آینده برای آتش‌سوزی بزرگ جنگلی در نزدیکی مادرید «تعیین‌کننده» خواهد بود، زیرا گرمای شدید هوا باعث افزایش فشار به آتش‌نشانان در جنوب می‌شود. پیش‌بینی می‌شود که دمای هوا در روز چهارشنبه در بوردو به 39 درجه سانتی‌گراد برسد، جایی که آتش‌نشانان از رسیدن شعله هیولا در جنگل‌های کاج مجاور به حومه‌ها جلوگیری کرده‌اند، و دمای 37 درجه سانتی‌گراد در مادرید، که بزرگترین آتش‌سوزی ثبت‌شده اسپانیا در غرب آن در حال شعله‌ور شدن است. ادامه مطلب...",
       "summary_fa": "نظرات پدرو سانچز در حالی است که گرمای شدید فشار بر آتش‌نشان‌هایی را که در حال مقابله با آتش‌سوزی‌ها در سراسر اروپای جنوبی هستند، تازه می‌کند. به‌طور زنده - آخرین به‌روزرسانی‌ها، پدرو سانچز، نخست‌وزیر اسپانیا، گفت: 12 ساعت آینده برای آتش‌سوزی بزرگ جنگلی در نزدیکی مادرید «تعیین‌کننده» خواهد بود، زیرا گرمای شدید هوا باعث افزایش فشار به آتش‌نشانان در جنوب می‌شود. پیش‌بینی می‌شود که دمای هوا در روز چهارشنبه در بوردو به 39 درجه سانتی‌گراد برسد، جایی که آتش‌نشانان از رسیدن شعله هیولا در جنگل‌های کاج مجاور به حومه‌ها جلوگیری کرده‌اند، و دمای 37 درجه سانتی‌گراد در مادرید، که بزرگترین آتش‌سوزی ثبت‌شده اسپانیا در غرب آن در حال شعله‌ور شدن است. ادامه مطلب...",
       "summary_en": "Comments by Pedro Sánchez come as extreme heat renews pressure on firefighters tackling blazes across southern EuropeEurope live – latest updatesThe next 12 hours will be “decisive” for a large wildfire burning near Madrid, the Spanish prime minister, Pedro Sánchez, has said, as extreme heat renews pressure on firefighters racing to control blazes across southern Europe.Temperatures pushed higher by climate breakdown are forecast to reach 39C on Wednesday in Bordeaux, where firefighters have kept a monster blaze in nearby pine forests from reaching the suburbs, and 37C in Madrid, west of which Spain’s largest wildfire on record is burning. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 14:17:53 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f98c3a7a01805b89f888cbc603fde6f6ee1dc314/17_0_4665_3732/master/4665.jpg?width=140&quality=85&auto=format&fit=max&s=97f3bff259b6df01c93937b450ea01de",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "df6d16f5133df5876d20a476568ce765",
+      "title": "دو آتش‌نشان در کرت در جریان آتش‌سوزی جنگل‌های جنوب اروپا کشته شدند",
+      "title_fa": "دو آتش‌نشان در کرت در جریان آتش‌سوزی جنگل‌های جنوب اروپا کشته شدند",
+      "title_en": "Two firefighters killed in Crete as southern Europe battles wildfires",
+      "summary": "کارشناسان هشدار امواج گرمای مکرر و بادهای شدید هشدار می دهند که خاموش کردن آتش سوزی ها سخت تر می شود، اداره آتش نشانی یونان اعلام کرد که دو آتش نشان هنگام مقابله با آتش سوزی در کرت جان خود را از دست داده اند، زیرا گرمای شدید مانع از تلاش برای مهار آتش سوزی های جنوب اروپا شده است. قوس آتش سوزی های وحشیانه، که از اقیانوس اطلس و اقیانوس اطلس شرقی تا دریای مرتفع اسکاتلند و منطقه مد و شرق اسکاتلند ادامه دارد. جنوب اسپانیا، کارشناسان را نگران کرده است، زیرا بسیاری از آتش سوزی ها از کنترل خارج شده اند و در نزدیکی شهرها و شهرها می سوزند. به خواندن ادامه دهید...",
+      "summary_fa": "کارشناسان هشدار امواج گرمای مکرر و بادهای شدید هشدار می دهند که خاموش کردن آتش سوزی ها سخت تر می شود، اداره آتش نشانی یونان اعلام کرد که دو آتش نشان هنگام مقابله با آتش سوزی در کرت جان خود را از دست داده اند، زیرا گرمای شدید مانع از تلاش برای مهار آتش سوزی های جنوب اروپا شده است. قوس آتش سوزی های وحشیانه، که از اقیانوس اطلس و اقیانوس اطلس شرقی تا دریای مرتفع اسکاتلند و منطقه مد و شرق اسکاتلند ادامه دارد. جنوب اسپانیا، کارشناسان را نگران کرده است، زیرا بسیاری از آتش سوزی ها از کنترل خارج شده اند و در نزدیکی شهرها و شهرها می سوزند. به خواندن ادامه دهید...",
+      "summary_en": "Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quellTwo firefighters have died while tackling a wildfire in Crete, the Greek fire department has said, as extreme heat hinders efforts to control blazes ravaging southern Europe.The arc of brutal fires, which runs from the Atlantic coast to the eastern Mediterranean, and from the Scottish Highlands to the south of Spain, has alarmed experts because many of the fires have been out of control and burning close to towns and cities. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
       "source": "The Guardian",
       "published_at": "Wed, 29 Jul 2026 14:17:53 GMT",
@@ -3153,6 +3825,27 @@
       }
     },
     {
+      "id": "60aec427259eb8d05b726d51bb6a3d2c",
+      "title": "ادای احترام به دی جی و موسیقیدان الکترونیک کاوینسکی که درگذشت",
+      "title_fa": "ادای احترام به دی جی و موسیقیدان الکترونیک کاوینسکی که درگذشت",
+      "title_en": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "summary": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_fa": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_en": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+      "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 10:35:13 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b67/live/1718bd10-8b39-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
       "id": "8ef2dd1e6d5f21e73320efcf197ad091",
       "title": "وارن برنامه پنتاگون را برای استخدام کارگران بخش خصوصی با حقوق بالا بررسی می کند",
       "title_fa": "وارن برنامه پنتاگون را برای استخدام کارگران بخش خصوصی با حقوق بالا بررسی می کند",
@@ -3339,6 +4032,27 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "0f4e34be74ee73b1dc498f5ec4292784",
+      "title": "در حالی که رئیس اتحادیه اروپا خواستار اقدام اقلیمی شد، آتش سوزی در یونان و ترکیه گسترش یافت",
+      "title_fa": "در حالی که رئیس اتحادیه اروپا خواستار اقدام اقلیمی شد، آتش سوزی در یونان و ترکیه گسترش یافت",
+      "title_en": "Wildfires spread in Greece and Turkiye as EU chief urges climate action",
+      "summary": "موج گرما باعث تشدید آتش سوزی های مرگبار در سراسر اروپا شد و دو آتش نشان در جزیره کرت یونان کشته شدند.",
+      "summary_fa": "موج گرما باعث تشدید آتش سوزی های مرگبار در سراسر اروپا شد و دو آتش نشان در جزیره کرت یونان کشته شدند.",
+      "summary_en": "Heatwaves intensify deadly fires across Europe, killing two firefighters on the Greek island of Crete.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 10:19:28 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -4217,6 +4931,27 @@
       "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "37dca57d88f6f1d1d21f641100e084c2",
+      "title": "یک ماه پس از معرفی جایزه پاپ آسیایی، BTS از گرمی خارج شد",
+      "title_fa": "یک ماه پس از معرفی جایزه پاپ آسیایی، BTS از گرمی خارج شد",
+      "title_en": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+      "summary": "هر هفت عضو گروه بیانیه ای را در فضای مجازی منتشر می کنند و می گویند که مراسم سال 2027 را تحریم خواهند کرد.",
+      "summary_fa": "هر هفت عضو گروه بیانیه ای را در فضای مجازی منتشر می کنند و می گویند که مراسم سال 2027 را تحریم خواهند کرد.",
+      "summary_en": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 08:16:15 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/cf84c8f0-8b4b-11f1-a7ab-8b30adf0800a.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -67500,6 +68235,48 @@
       }
     },
     {
+      "id": "c8d536c9c643e06203c1a0b051b67fdc",
+      "title": "ممنوعیت تلفن همراه در تمام روزهای مدرسه محبوب تر از همیشه شده است",
+      "title_fa": "ممنوعیت تلفن همراه در تمام روزهای مدرسه محبوب تر از همیشه شده است",
+      "title_en": "Full school day cell phone bans are more popular than ever",
+      "summary": "از آنجایی که مدارس در سراسر کشور به اجرای ممنوعیت تلفن همراه ادامه می دهند، نظرسنجی جدید مرکز تحقیقات پیو نشان می دهد که آنها همچنان به حمایت خود ادامه می دهند. هفتاد و هفت درصد از بزرگسالان ایالات متحده از ممنوعیت تلفن همراه در کلاس های راهنمایی و دبیرستان و 48 درصد از ممنوعیت استفاده از تلفن همراه برای کل روز مدرسه حمایت می کنند. این اولین باری است که بیشتر آمریکایی ها […]",
+      "summary_fa": "از آنجایی که مدارس در سراسر کشور به اجرای ممنوعیت تلفن همراه ادامه می دهند، نظرسنجی جدید مرکز تحقیقات پیو نشان می دهد که آنها همچنان به حمایت خود ادامه می دهند. هفتاد و هفت درصد از بزرگسالان ایالات متحده از ممنوعیت تلفن همراه در کلاس های راهنمایی و دبیرستان و 48 درصد از ممنوعیت استفاده از تلفن همراه برای کل روز مدرسه حمایت می کنند. این اولین باری است که بیشتر آمریکایی ها […]",
+      "summary_en": "As schools across the country continue to implement cell phone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cell phones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time more Americans […]",
+      "link": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
+      "source": "The Verge",
+      "published_at": "2026-07-29T12:42:44-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a92862d82ffed4355b5de7a48515c25",
+      "title": "فراری لوس حداقل 500 طرفدار دارد",
+      "title_fa": "فراری لوس حداقل 500 طرفدار دارد",
+      "title_en": "The Ferrari Luce has at least 500 fans",
+      "summary": "تنها دو ماه پس از یک راه‌اندازی ناهموار در اوایل سال جاری، فراری قبلاً به هدف فروش 2026 خود برای لوس EV طراحی شده توسط Jony Ive رسیده است. پیش از اعلام درآمد سه ماهه فراری در روز پنجشنبه، فایننشال تایمز گزارش می‌دهد که فراری قصد دارد «فقط کمتر از 500» دستگاه لوس در سال جاری بفروشد و به این میزان رسیده است.",
+      "summary_fa": "تنها دو ماه پس از یک راه‌اندازی ناهموار در اوایل سال جاری، فراری قبلاً به هدف فروش 2026 خود برای لوس EV طراحی شده توسط Jony Ive رسیده است. پیش از اعلام درآمد سه ماهه فراری در روز پنجشنبه، فایننشال تایمز گزارش می‌دهد که فراری قصد دارد «فقط کمتر از 500» دستگاه لوس در سال جاری بفروشد و به این میزان رسیده است.",
+      "summary_en": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sell \"just under 500\" Luce units this year, and reached that […]",
+      "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
+      "source": "The Verge",
+      "published_at": "2026-07-29T11:28:50-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ff2f5c5da0193965a19c331d2a020531",
       "title": "بسته بازسازی شده Remarkable یک معامله عالی است که بیش از 350 دلار تخفیف دارد",
       "title_fa": "بسته بازسازی شده Remarkable یک معامله عالی است که بیش از 350 دلار تخفیف دارد",
@@ -67659,6 +68436,468 @@
       "published_at": "2026-07-29T06:58:29-04:00",
       "date_iso": "2026-07-29",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e042d6bbab89f9e03983b241f8be6577",
+      "title": "خواندن متوالی یک پپتید کوتاه شده گام به گام بی حرکت روی نانوحفره",
+      "title_fa": "خواندن متوالی یک پپتید کوتاه شده گام به گام بی حرکت روی نانوحفره",
+      "title_en": "Sequential reading of a stepwise-shortened peptide immobilized on nanopore",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10881-1A مبتنی بر نانوحفره، روش «خرد کردن و اندازه گیری» پپتیدها را با وضوح تک اسید آمینه با استفاده از هضم آنزیمی برای کوتاه کردن تدریجی باقیمانده در انتهای N در یک زمان، همراه با تکرار تکراری، توالی‌بندی می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10881-1A مبتنی بر نانوحفره، روش «خرد کردن و اندازه گیری» پپتیدها را با وضوح تک اسید آمینه با استفاده از هضم آنزیمی برای کوتاه کردن تدریجی باقیمانده در انتهای N در یک زمان، همراه با تکرار تکراری، توالی‌بندی می‌کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10881-1A nanopore-based ‘chop and measure’ method sequences peptides at single-amino-acid resolution by using enzymatic digestion to progressively shorten the N terminus one residue at a time, together with repetitive N-terminus re-reading.",
+      "link": "https://www.nature.com/articles/s41586-026-10881-1",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fab065f45a32b86a0747f0d1d36a2a33",
+      "title": "سوئیچینگ عمودی پلاریزاسیون در فروالکتریک های لایه ای",
+      "title_fa": "سوئیچینگ عمودی پلاریزاسیون در فروالکتریک های لایه ای",
+      "title_en": "Perpendicular switching of polarization in layered ferroelectrics",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10839-3 تعویض عمودی حالت پلاریزاسیون در فروالکتریک لایه لایه Bi4Ti3O12 با استفاده از جفت سه خطی نشان داده شده است که امکان دستکاری مولفه پلاریزاسیون درون صفحه با میدان الکتریکی خارج از صفحه را فراهم می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10839-3 تعویض عمودی حالت پلاریزاسیون در فروالکتریک لایه لایه Bi4Ti3O12 با استفاده از جفت سه خطی نشان داده شده است که امکان دستکاری مولفه پلاریزاسیون درون صفحه با میدان الکتریکی خارج از صفحه را فراهم می کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10839-3Perpendicular switching of the polarization state in the layered ferroelectric Bi4Ti3O12 is demonstrated by means of trilinear coupling, allowing manipulation of the in-plane polarization component with an out-of-plane electric field.",
+      "link": "https://www.nature.com/articles/s41586-026-10839-3",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c8a9da34a56b5f0b0a0dce25966050dc",
+      "title": "برنامه های وام مسکن جدید به طور نامتناسبی به نفع وام گیرندگان سفید پوست بود",
+      "title_fa": "برنامه های وام مسکن جدید به طور نامتناسبی به نفع وام گیرندگان سفید پوست بود",
+      "title_en": "New-deal mortgage programmes benefited white borrowers disproportionately",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10850-8 داده های جدید در مورد سوابق وام خرید مسکن در طول جنگ جهانی دوم در ایالات متحده، مرتبط با نژاد و وضعیت مهاجرت، نشان می دهد که وام گیرندگان سیاه پوست به طور نامتناسبی از برنامه های وام مسکن کنار گذاشته شده اند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10850-8 داده های جدید در مورد سوابق وام خرید مسکن در طول جنگ جهانی دوم در ایالات متحده، مرتبط با نژاد و وضعیت مهاجرت، نشان می دهد که وام گیرندگان سیاه پوست به طور نامتناسبی از برنامه های وام مسکن کنار گذاشته شده اند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10850-8New data on homebuying loan records around the Second World War in the USA, linked to race and immigration status, show that Black borrowers were disproportionally excluded from mortgage programmes.",
+      "link": "https://www.nature.com/articles/s41586-026-10850-8",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "2c727ffa2fcff08c17cb7ae50cfc02aa",
+      "title": "بررسی برابری وزن چهار در یک معماری چرخشی شاتل",
+      "title_fa": "بررسی برابری وزن چهار در یک معماری چرخشی شاتل",
+      "title_en": "Weight-four parity checks in a spin-shuttling architecture",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10766-3 یک دستگاه سیلیکونی اسپین کیوبیت شامل یک گذرگاه شاتل برای انتقال کیوبیت ها برای دستیابی به بررسی برابری تا وزن چهار استفاده می شود که امکان و مزایای استفاده از شاتلینگ در پردازنده های کوانتومی نیمه هادی را برجسته می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10766-3 یک دستگاه سیلیکونی اسپین کیوبیت شامل یک گذرگاه شاتل برای انتقال کیوبیت ها برای دستیابی به بررسی برابری تا وزن چهار استفاده می شود که امکان و مزایای استفاده از شاتلینگ در پردازنده های کوانتومی نیمه هادی را برجسته می کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10766-3A silicon spin-qubit device comprising a shuttling bus for transporting qubits is used to achieve parity checks up to weight four, highlighting the feasibility and benefits of incorporating shuttling into semiconductor quantum processors.",
+      "link": "https://www.nature.com/articles/s41586-026-10766-3",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8440c7ab94ba3ffb38da0ff9ae9b46bd",
+      "title": "گلیکوزیلاسیون و آمیداسیون آنزیمی باعث تغییر شکل زیست فعالی پلین می شود",
+      "title_fa": "گلیکوزیلاسیون و آمیداسیون آنزیمی باعث تغییر شکل زیست فعالی پلین می شود",
+      "title_en": "Enzymatic glycosylation and amidation reshapes polyene bioactivity",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10834-8مسیرهای پلی لن های قبلاً توصیف نشده، از جمله آنزیم های غیرعادی که قندهای بیشتری را به داربست های پلی لن وارد می کنند، کشف شده اند، و دسترسی به آنها از طریق تخمیر تمیز و کارآمد و پتانسیل برای استفاده ایمن به عنوان درمان های ضد قارچی شرح داده شده است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10834-8مسیرهای پلی لن های قبلاً توصیف نشده، از جمله آنزیم های غیرعادی که قندهای بیشتری را به داربست های پلی لن وارد می کنند، کشف شده اند، و دسترسی به آنها از طریق تخمیر تمیز و کارآمد و پتانسیل برای استفاده ایمن به عنوان درمان های ضد قارچی شرح داده شده است.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10834-8Pathways to previously undescribed polyenes, including unusual enzymes that introduce more sugars onto polyene scaffolds, are discovered, and their accessibility through clean and efficient fermentation and potential for safe use as antifungal treatments is described.",
+      "link": "https://www.nature.com/articles/s41586-026-10834-8",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfb0dae7bb26a1ec3b70f2c4f2184a81",
+      "title": "یک واحد پردازش کوانتومی سیلیکونی با کنترل دیجیتال",
+      "title_fa": "یک واحد پردازش کوانتومی سیلیکونی با کنترل دیجیتال",
+      "title_en": "A digitally controlled silicon quantum processing unit",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10754-7 یک واحد پردازش کوانتومی سیلیکونی مدارهای چند کیوبیتی با وفاداری بالا را با تمام سیگنال‌های کنترلی متغیر با زمان تولید شده توسط یک کنترل‌کننده مکمل فلز-اکسید-نیمه رسانا برودتی برنامه‌ریزی‌شده دیجیتالی اجرا می‌کند و از طریق یک دستگاه مبادله‌ای کم‌بیت به یک دستگاه مبادله‌ای کم‌بیت تحویل داده می‌شود. کابل نواری ابررسانا",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10754-7 یک واحد پردازش کوانتومی سیلیکونی مدارهای چند کیوبیتی با وفاداری بالا را با تمام سیگنال‌های کنترلی متغیر با زمان تولید شده توسط یک کنترل‌کننده مکمل فلز-اکسید-نیمه رسانا برودتی برنامه‌ریزی‌شده دیجیتالی اجرا می‌کند و از طریق یک دستگاه مبادله‌ای کم‌بیت به یک دستگاه مبادله‌ای کم‌بیت تحویل داده می‌شود. کابل نواری ابررسانا",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10754-7A silicon quantum processing unit executes high-fidelity multiqubit circuits, with all time-varying control signals generated by a digitally programmed cryogenic complementary metal–oxide–semiconductor controller and delivered to the low-noise, exchange-only qubit device through a high-density superconducting ribbon cable.",
+      "link": "https://www.nature.com/articles/s41586-026-10754-7",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "da86e44859e98ad9a6519f3aae435529",
+      "title": "نمایی جهانی از تغییرات و تکامل سانترومر انسان",
+      "title_fa": "نمایی جهانی از تغییرات و تکامل سانترومر انسان",
+      "title_en": "A global view of human centromere variation and evolution",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10841-9 توالی یابی کامل بیش از 2000 سانترومر از انسان های مختلف، ساختارها و نرخ جهش های بالا را نشان می دهد که تکامل این مناطق بسیار مهم را شکل می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10841-9 توالی یابی کامل بیش از 2000 سانترومر از انسان های مختلف، ساختارها و نرخ جهش های بالا را نشان می دهد که تکامل این مناطق بسیار مهم را شکل می دهد.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10841-9Complete sequencing of more than 2,000 centromeres from diverse humans reveals structures and elevated mutation rates that shape the evolution of these critically important regions.",
+      "link": "https://www.nature.com/articles/s41586-026-10841-9",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f3add6d7e4ae4172901807d13e4b4cf7",
+      "title": "طراحی منطقی پروتئین های بی نظم برای بررسی توالی-عملکرد",
+      "title_fa": "طراحی منطقی پروتئین های بی نظم برای بررسی توالی-عملکرد",
+      "title_en": "Rational design of disordered proteins for sequence–function investigation",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10849-1GOOSE طراحی و آزمایش هزاران توالی ناحیه پروتئینی نامنظم را برای آشکار کردن روابط متمایز توالی به عملکرد امکان پذیر می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10849-1GOOSE طراحی و آزمایش هزاران توالی ناحیه پروتئینی نامنظم را برای آشکار کردن روابط متمایز توالی به عملکرد امکان پذیر می کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10849-1GOOSE enables the design and testing of thousands of disordered protein region sequences to reveal distinct sequence-to-function relationships.",
+      "link": "https://www.nature.com/articles/s41586-026-10849-1",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "8f8ad03bf4598d2517e49e8869baf3e0",
+      "title": "ساختار درجا مجموعه پورتال ویروس آبله",
+      "title_fa": "ساختار درجا مجموعه پورتال ویروس آبله",
+      "title_en": "In situ structure of the poxvirus portal complex",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10856-2 توموگرافی کریو الکترونی ساختار یک \"کمپلکس پورتال\" هگزامری حفاظت شده را که دیواره هسته ویروس واکسینیا را پوشانده است، آشکار می کند و نشان می دهد که چگونه با عملکردهای ویروسی مانند مونتاژ، آزادسازی mRNA و کشف ژنوم مرتبط است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10856-2 توموگرافی کریو الکترونی ساختار یک \"کمپلکس پورتال\" هگزامری حفاظت شده را که دیواره هسته ویروس واکسینیا را پوشانده است، آشکار می کند و نشان می دهد که چگونه با عملکردهای ویروسی مانند مونتاژ، آزادسازی mRNA و کشف ژنوم مرتبط است.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10856-2Cryo-electron tomography uncovers the structure of a conserved hexameric ‘portal complex’ that spans the core wall in vaccinia virus, and shows how it is associated with viral functions such as assembly, mRNA release and genome uncoating.",
+      "link": "https://www.nature.com/articles/s41586-026-10856-2",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c3b1302c1cd040bbfd1cab9e47f5c98",
+      "title": "کریستال زمان فراماده پلاسمونیک",
+      "title_fa": "کریستال زمان فراماده پلاسمونیک",
+      "title_en": "Plasmonic metamaterial time crystal",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10825-9A فراماده پلاسمونیک رانده شده در فرکانس تراهرتز به مدولاسیون زمانی قوی و فوق سریع دست می یابد و انتقال به رژیم کریستالی زمان فوتونیک با کاهش تلفات پلاسمونی را نشان می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10825-9A فراماده پلاسمونیک رانده شده در فرکانس تراهرتز به مدولاسیون زمانی قوی و فوق سریع دست می یابد و انتقال به رژیم کریستالی زمان فوتونیک با کاهش تلفات پلاسمونی را نشان می دهد.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10825-9A plasmonic metamaterial driven at terahertz frequencies achieves strong, ultrafast temporal modulation and shows a transition to the photonic time crystal regime with reduced plasmonic losses.",
+      "link": "https://www.nature.com/articles/s41586-026-10825-9",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc11cc049ddf2d32e5b073b922eb20aa",
+      "title": "اولین سفالوپود سیفونکل دار از کامبرین اولیه",
+      "title_fa": "اولین سفالوپود سیفونکل دار از کامبرین اولیه",
+      "title_en": "Earliest siphuncle-bearing cephalopod from the early Cambrian",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10868-yEoceras shaanxiense کامبرین اولیه et sp. نوامبر سپتوها و یک لوله تقسیم‌بندی شده شبیه سیفونکل اولیه را حفظ می‌کند، منشا سرپایان را گسترش می‌دهد و مونتاژ اولیه پوسته‌های محفظه‌ای را که برای تنظیم شناوری استفاده می‌شوند، آشکار می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10868-yEoceras shaanxiense کامبرین اولیه et sp. نوامبر سپتوها و یک لوله تقسیم‌بندی شده شبیه سیفونکل اولیه را حفظ می‌کند، منشا سرپایان را گسترش می‌دهد و مونتاژ اولیه پوسته‌های محفظه‌ای را که برای تنظیم شناوری استفاده می‌شوند، آشکار می‌کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10868-yEarly Cambrian Eoceras shaanxiense gen. et sp. nov. preserves septa and a segmented tube resembling a primordial siphuncle, extending cephalopod origins and revealing early assembly of chambered shells used for buoyancy regulation.",
+      "link": "https://www.nature.com/articles/s41586-026-10868-y",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3818143fa1318216f64ed93d61430e41",
+      "title": "Co<sub>3</sub>O<sub>4</sub> با هماهنگی هشت وجهی برای الکترولیز آب در اسید",
+      "title_fa": "Co<sub>3</sub>O<sub>4</sub> با هماهنگی هشت وجهی برای الکترولیز آب در اسید",
+      "title_en": "Octahedral-coordinated Co<sub>3</sub>O<sub>4</sub> for water electrolysis in acid",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10851-7 یک Co3O4 فاز سه ضلعی جدید که با استفاده از روش مکانیکی مذاب قلیایی با واسطه خلاء تولید شده است، توضیح داده شده است که هماهنگی هشت وجهی مشترک لبه را نشان می دهد و به پتانسیل بیش از حد اسیدی کمتری نسبت به واکنش spinel3Ooxy است. کاهش انحلال کبالت",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10851-7 یک Co3O4 فاز سه ضلعی جدید که با استفاده از روش مکانیکی مذاب قلیایی با واسطه خلاء تولید شده است، توضیح داده شده است که هماهنگی هشت وجهی مشترک لبه را نشان می دهد و به پتانسیل بیش از حد اسیدی کمتری نسبت به واکنش spinel3Ooxy است. کاهش انحلال کبالت",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10851-7A new trigonal-phase Co3O4 manufactured using a vacuum-mediated molten-alkali mechanochemical method is described, demonstrating edge-shared octahedral coordination and achieving lower overpotential than spinel-type Co3O4 in the acidic oxygen evolution reaction, with reduced dissolution of cobalt.",
+      "link": "https://www.nature.com/articles/s41586-026-10851-7",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b0a78443458a820a502fa130368c5e3",
+      "title": "ساختارهای درجا ابر مجتمع های فتوسیستم گیاهی",
+      "title_fa": "ساختارهای درجا ابر مجتمع های فتوسیستم گیاهی",
+      "title_en": "In situ structures of plant photosystem supercomplexes",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10847-3ساختار cryo-EM ابرکمپلکس فتوسیستم II-برداشت نور Oryza sativa II در غشای بومی آن، معماری فتوسیستم گیاهی دست نخورده را نشان می‌دهد، پروتئین‌ها و لیپیدهای مرتبط فیزیولوژیکی را که در غیر این صورت از بین می‌روند، حفظ می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10847-3ساختار cryo-EM ابرکمپلکس فتوسیستم II-برداشت نور Oryza sativa II در غشای بومی آن، معماری فتوسیستم گیاهی دست نخورده را نشان می‌دهد، پروتئین‌ها و لیپیدهای مرتبط فیزیولوژیکی را که در غیر این صورت از بین می‌روند، حفظ می‌کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10847-3The cryo‑EM structure of the Oryza sativa photosystem II–light harvesting complex II supercomplex in its native membrane reveals the intact plant photosystem architecture, retaining physiologically relevant proteins and lipids that are otherwise lost during purification.",
+      "link": "https://www.nature.com/articles/s41586-026-10847-3",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d18a92537e32d41351c9262e507bda5",
+      "title": "تقسیم آب فوتوکاتالیستی توسط پلیمر دو بعدی با جریان حامل خارج از صفحه",
+      "title_fa": "تقسیم آب فوتوکاتالیستی توسط پلیمر دو بعدی با جریان حامل خارج از صفحه",
+      "title_en": "Photocatalytic water splitting by 2D polymer with out-of-plane carrier flow",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; استراتژی doi:10.1038/s41586-026-10866-0A با استفاده از کریستال‌های نیترید کربن پلیمری، مهاجرت حامل‌های خارج از صفحه را با استفاده از میدان‌های الکتریکی داخلی اعمال شده بر روی نانوفیلم‌های انتخابی وجهی که روی فوتوکاتالیست‌های پلیمری قرار می‌گیرند، القا می‌کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; استراتژی doi:10.1038/s41586-026-10866-0A با استفاده از کریستال‌های نیترید کربن پلیمری، مهاجرت حامل‌های خارج از صفحه را با استفاده از میدان‌های الکتریکی داخلی اعمال شده بر روی نانوفیلم‌های انتخابی وجهی که روی فوتوکاتالیست‌های پلیمری قرار می‌گیرند، القا می‌کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10866-0A strategy using polymeric carbon nitride crystals induces out-of-plane carrier migration by means of internal electric fields applied on facet-selective nanofilms placed on polymer photocatalysts, increasing the apparent quantum efficiency for overall water splitting.",
+      "link": "https://www.nature.com/articles/s41586-026-10866-0",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49ce45aab170f40e0436628a38970248",
+      "title": "معاوضه منافع آب و هوا و هزینه های زیست محیطی برای بارورسازی آهن اقیانوس ها",
+      "title_fa": "معاوضه منافع آب و هوا و هزینه های زیست محیطی برای بارورسازی آهن اقیانوس ها",
+      "title_en": "Climate benefit and ecological cost trade-offs for ocean iron fertilization",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10795-yA مدل بیوژئوشیمیایی جهانی غنی از فرآیند برای تعیین معاوضه بین راندمان حذف دی اکسید کربن و اثرات اکوسیستم در ده زیست اقیانوس اقیانوسی به دنبال بارورسازی آهن اقیانوس استفاده می‌شود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10795-yA مدل بیوژئوشیمیایی جهانی غنی از فرآیند برای تعیین معاوضه بین راندمان حذف دی اکسید کربن و اثرات اکوسیستم در ده زیست اقیانوس اقیانوسی به دنبال بارورسازی آهن اقیانوس استفاده می‌شود.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10795-yA process-rich global biogeochemical model is used to determine the trade-offs between carbon dioxide removal efficiency and ecosystem impacts in ten ocean ocean biomes following ocean iron fertilization.",
+      "link": "https://www.nature.com/articles/s41586-026-10795-y",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e5586fe3ec494b38265b8f66df9afe7d",
+      "title": "بیش از 20000 عملیات خاکی قبل از استعمار در جنوب غربی آمازون",
+      "title_fa": "بیش از 20000 عملیات خاکی قبل از استعمار در جنوب غربی آمازون",
+      "title_en": "Over 20,000 precolonial earthworks in the Southwest Amazonia",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10835-7با استفاده از داده‌های LiDAR با نفوذ تاج پوشش، به نظر می‌رسد که بخش شمالی جنوب غربی آمازون حاوی همان تعداد عملیات خاکی است که قبلاً برای کل آمازون برآورد شده بود.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10835-7با استفاده از داده‌های LiDAR با نفوذ تاج پوشش، به نظر می‌رسد که بخش شمالی جنوب غربی آمازون حاوی همان تعداد عملیات خاکی است که قبلاً برای کل آمازون برآورد شده بود.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10835-7Using canopy-penetrating LiDAR data, the northern part of southwestern Amazonia appears to contain as many earthworks as previously estimated for the whole of Amazonia.",
+      "link": "https://www.nature.com/articles/s41586-026-10835-7",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:53",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2844e29f9174f60969e9af1cfddacf31",
+      "title": "کارهای خاکی مشاهده شده در آمازون به تمدن عظیم باستانی اشاره دارد",
+      "title_fa": "کارهای خاکی مشاهده شده در آمازون به تمدن عظیم باستانی اشاره دارد",
+      "title_en": "Earthworks spotted in the Amazon hint at huge ancient civilization",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02367-xکشف تقریباً 400 ساختار ممکن است به تعریف مجدد مقیاس واقعی تمدن Aquiry کمک کند - بعلاوه، فسیل‌های کوچک اولین اجداد ماهی مرکب فسیلی.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02367-xکشف تقریباً 400 ساختار ممکن است به تعریف مجدد مقیاس واقعی تمدن Aquiry کمک کند - بعلاوه، فسیل‌های کوچک اولین اجداد ماهی مرکب فسیلی.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-xDiscovery of almost 400 structures may help to redefine the true scale of the Aquiry civilization — plus, tiny fossils of the earliest fossil squid ancestor.",
+      "link": "https://www.nature.com/articles/d41586-026-02367-x",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f617e6395b8c0ab0953a8620f14a7182",
+      "title": "اثر پیزوکرال",
+      "title_fa": "اثر پیزوکرال",
+      "title_en": "The piezochiral effect",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10845-5اثر پیزوکایرال، عضو جدیدی از خانواده عملکردهای پاسخگو به کرنش در کنار پیزوالکتریک و پیزومغناطیس، معرفی شده است، که کنترل کایرالیته را از طریق کرنش مکانیکی، با کاربردهای کوانتومی و کاربردهای کوانتومی در آینده ممکن می سازد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10845-5اثر پیزوکایرال، عضو جدیدی از خانواده عملکردهای پاسخگو به کرنش در کنار پیزوالکتریک و پیزومغناطیس، معرفی شده است، که کنترل کایرالیته را از طریق کرنش مکانیکی، با کاربردهای کوانتومی و کاربردهای کوانتومی در آینده ممکن می سازد.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10845-5The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality through mechanical strain, with future applications in photonics, spintronics, biosensing and quantum information.",
+      "link": "https://www.nature.com/articles/s41586-026-10845-5",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b3b2c9d6b96ea3ef54f4b34838e8772d",
+      "title": "گیرنده های مختلف تشخیص الگوی باکتریایی پروتئوم فاژ هسته را حس می کنند",
+      "title_fa": "گیرنده های مختلف تشخیص الگوی باکتریایی پروتئوم فاژ هسته را حس می کنند",
+      "title_en": "Diverse bacterial pattern recognition receptors sense the core phage proteome",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10852-6 تجزیه و تحلیل سیستماتیک STAND NTPases پروکاریوتی - خویشاوندان گیرنده های ایمنی حیوانی و گیاهی - حسگرهای ضد ویروسی متنوعی را آشکار می کند که بیشتر پروتئین های ساختاری و تکثیر کننده هسته باکتریوفاژها را شناسایی می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10852-6 تجزیه و تحلیل سیستماتیک STAND NTPases پروکاریوتی - خویشاوندان گیرنده های ایمنی حیوانی و گیاهی - حسگرهای ضد ویروسی متنوعی را آشکار می کند که بیشتر پروتئین های ساختاری و تکثیر کننده هسته باکتریوفاژها را شناسایی می کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10852-6Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and replicative proteins of bacteriophages.",
+      "link": "https://www.nature.com/articles/s41586-026-10852-6",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "14242005df96841ad1b4ddef917f7cfc",
+      "title": "متابولیسم میتوکندری و تداخل اپی ژنتیکی SASP را هدایت می کند",
+      "title_fa": "متابولیسم میتوکندری و تداخل اپی ژنتیکی SASP را هدایت می کند",
+      "title_en": "Mitochondrial metabolism and epigenetic crosstalk drive SASP",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10791-2 در سلول های پیر، استیل-CoA مشتق از میتوکندری استیلاسیون هیستون را ترویج می کند و دسترسی کروماتین را در مکان های ژن التهابی افزایش می دهد. مهار SLC25A1 این اثرات را کاهش می دهد و بر پتانسیل درمانی هدف قرار دادن متابولیسم میتوکندری و تداخل اپی ژنتیک آن برای به تاخیر انداختن کاهش عملکرد مرتبط با سن تاکید می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10791-2 در سلول های پیر، استیل-CoA مشتق از میتوکندری استیلاسیون هیستون را ترویج می کند و دسترسی کروماتین را در مکان های ژن التهابی افزایش می دهد. مهار SLC25A1 این اثرات را کاهش می دهد و بر پتانسیل درمانی هدف قرار دادن متابولیسم میتوکندری و تداخل اپی ژنتیک آن برای به تاخیر انداختن کاهش عملکرد مرتبط با سن تاکید می کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10791-2In senescent cells, mitochondria-derived acetyl-CoA promotes histone acetylation and increases chromatin accessibility at inflammatory gene loci. Inhibition of SLC25A1 attenuates these effects, underscoring the therapeutic potential of targeting mitochondrial metabolism and its epigenetic crosstalk to delay age-related functional decline.",
+      "link": "https://www.nature.com/articles/s41586-026-10791-2",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "699dae577bd03ece57c59772fee541c2",
+      "title": "کوپلیمریزاسیون متناوب CO<sub>2</sub> و بی سیکلوالکان به پلی استرهای دایره ای",
+      "title_fa": "کوپلیمریزاسیون متناوب CO<sub>2</sub> و بی سیکلوالکان به پلی استرهای دایره ای",
+      "title_en": "Alternating CO<sub>2</sub> and bicycloalkane copolymerization to circular polyesters",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10848-2 یک کاتالیزور آلی ساده، کوپلیمریزاسیون متناوب مستقیم CO2 با دو سیکلوآلکان را قادر می سازد تا پلی استرهایی با کارایی بالا تولید کند که می توانند به طور انتخابی در یک چرخه عمر حلقه بسته، پلیمریزه و بازیافت شوند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10848-2 یک کاتالیزور آلی ساده، کوپلیمریزاسیون متناوب مستقیم CO2 با دو سیکلوآلکان را قادر می سازد تا پلی استرهایی با کارایی بالا تولید کند که می توانند به طور انتخابی در یک چرخه عمر حلقه بسته، پلیمریزه و بازیافت شوند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10848-2A simple organic catalyst enables direct alternating copolymerization of CO2 with bicycloalkanes to produce high-performance polyesters that can be selectively depolymerized and recycled in a closed-loop lifecycle.",
+      "link": "https://www.nature.com/articles/s41586-026-10848-2",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8ebe50ceb34980776e44f75f60976a54",
+      "title": "همبستگی بهمن مانند و همبستگی درون ذره ای در گرافیت",
+      "title_fa": "همبستگی بهمن مانند و همبستگی درون ذره ای در گرافیت",
+      "title_en": "Avalanche-like intercalation and intraparticle correlations in graphite",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10862-4 میکروسکوپ نوری اپراندو، فرآیندهای بهمن‌مانندی را نشان می‌دهد که بینابینی لیتیوم (میانگین شدن) را در حین تخلیه (پر شدن) مراحل رقیق گرافیت نشان می‌دهد و نشان می‌دهد که چگونه اختلال موضعی بر دینامیک باتری انتقال فاز در الکترودها و الکترودهای انتقال فاز حاکم است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/s41586-026-10862-4 میکروسکوپ نوری اپراندو، فرآیندهای بهمن‌مانندی را نشان می‌دهد که بینابینی لیتیوم (میانگین شدن) را در حین تخلیه (پر شدن) مراحل رقیق گرافیت نشان می‌دهد و نشان می‌دهد که چگونه اختلال موضعی بر دینامیک باتری انتقال فاز در الکترودها و الکترودهای انتقال فاز حاکم است.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10862-4Operando optical microscopy shows avalanche-like lithium deintercalation (intercalation) processes as the dilute stages of graphite are emptied (filled), showing how local disorder governs phase-transition dynamics and ion transport in lithium-ion battery electrodes.",
+      "link": "https://www.nature.com/articles/s41586-026-10862-4",
+      "source": "Nature",
+      "published_at": "2026-07-29 16:52",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
