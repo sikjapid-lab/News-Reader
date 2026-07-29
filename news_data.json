@@ -1,7 +1,70 @@
 {
-  "last_update": "2026-07-29 21:36:41",
-  "total_count": 3647,
+  "last_update": "2026-07-29 22:37:54",
+  "total_count": 3669,
   "articles": [
+    {
+      "id": "0d1c0de2ff4ee20951d99c2347c87989",
+      "title": "سم آلتمن با قانونگذاران در پشت شرکت های هک کننده OpenAI ملاقات می کند",
+      "title_fa": "سم آلتمن با قانونگذاران در پشت شرکت های هک کننده OpenAI ملاقات می کند",
+      "title_en": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "summary": "دونالد ترامپ، رئیس‌جمهور ایالات متحده می‌گوید که پس از افشای OpenAI، «کنترل‌های هوش مصنوعی» را بررسی می‌کند.",
+      "summary_fa": "دونالد ترامپ، رئیس‌جمهور ایالات متحده می‌گوید که پس از افشای OpenAI، «کنترل‌های هوش مصنوعی» را بررسی می‌کند.",
+      "summary_en": "US President Donald Trump says he is considering 'AI controls' following OpenAI's disclosure.",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 22:27:35 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d8baf4b581a538cfecf597d9e07642e2",
+      "title": "مایکروسافت با افزایش برنامه های هزینه های سرمایه ای، با اشاره به تقاضا، 7 درصد جهش کرد",
+      "title_fa": "مایکروسافت با افزایش برنامه های هزینه های سرمایه ای، با اشاره به تقاضا، 7 درصد جهش کرد",
+      "title_en": "Microsoft jumps 7% as it boosts capital spending plans, citing demand",
+      "summary": "مایکروسافت با تغییر حسابداری مراکز داده و ساختمان های اداری، جریان نقدی آزاد مثبتی را برای سال مالی جدید می بیند.",
+      "summary_fa": "مایکروسافت با تغییر حسابداری مراکز داده و ساختمان های اداری، جریان نقدی آزاد مثبتی را برای سال مالی جدید می بیند.",
+      "summary_en": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 22:26:25 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e17ce242481c8339f491959ceb797064",
+      "title": "Chipotle پیش‌بینی فروش خود را افزایش می‌دهد، حتی در شرایطی که شیوع مرتبط با کاهو باعث کاهش ترافیک می‌شود.",
+      "title_fa": "Chipotle پیش‌بینی فروش خود را افزایش می‌دهد، حتی در شرایطی که شیوع مرتبط با کاهو باعث کاهش ترافیک می‌شود.",
+      "title_en": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
+      "summary": "در نیمه دوم ژوئیه، زنجیره‌ای مکزیکی به «نرم‌کردن» ترافیک اذعان کرد، اما چشم‌انداز بهتری نسبت به چشم‌انداز تمام سال خود دارد.",
+      "summary_fa": "در نیمه دوم ژوئیه، زنجیره‌ای مکزیکی به «نرم‌کردن» ترافیک اذعان کرد، اما چشم‌انداز بهتری نسبت به چشم‌انداز تمام سال خود دارد.",
+      "summary_en": "Mexican fast-casual chain acknowledged ‘softening’ traffic in the second half of July, but it’s taking a rosier view of its full-year prospects.",
+      "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 22:22:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04039669",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
     {
       "id": "4e9bf2f4ddb9a7aea9bafab9b1a46faf",
       "title": "صدها مهاجر از مراکش به سمت قلمرو اسپانیایی سئوتا شنا می کنند",
@@ -17,6 +80,90 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06603025f2b80f9007b7c950413fd60f",
+      "title": "مهاجم سلمان رشدی به اتهام جرایم تروریستی محکوم شد",
+      "title_fa": "مهاجم سلمان رشدی به اتهام جرایم تروریستی محکوم شد",
+      "title_en": "Salman Rushdie attacker convicted of terror offenses",
+      "summary": "هادی مطر 28 ساله به اتهام تلاش برای کمک به حزب الله با حمله به نویسنده هندی بریتانیایی محکوم شد.",
+      "summary_fa": "هادی مطر 28 ساله به اتهام تلاش برای کمک به حزب الله با حمله به نویسنده هندی بریتانیایی محکوم شد.",
+      "summary_en": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 22:15:33 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1b77963cbb0e862da93954d904570d05",
+      "title": "ارتش روبات چینی صنعت خرده فروشی بریتانیا را متحول می کند",
+      "title_fa": "ارتش روبات چینی صنعت خرده فروشی بریتانیا را متحول می کند",
+      "title_en": "The Chinese robot army transforming the UK's retail industry",
+      "summary": "رشد ضعیف بهره وری بریتانیا و کمبود نیروی کار فرصتی را برای شرکت های روباتیک چین ایجاد کرده است.",
+      "summary_fa": "رشد ضعیف بهره وری بریتانیا و کمبود نیروی کار فرصتی را برای شرکت های روباتیک چین ایجاد کرده است.",
+      "summary_en": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 22:08:29 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "3a23c3d8f74fcc9b9829bf229bb37520",
+      "title": "Mythos نقاط ضعف کریپتو را کشف می کند که سال ها ناشناخته مانده بود",
+      "title_fa": "Mythos نقاط ضعف کریپتو را کشف می کند که سال ها ناشناخته مانده بود",
+      "title_en": "Mythos uncovers crypto weaknesses that went unknown for years",
+      "summary": "جدا کردن کاه از گندم در نتایج آنتروپیک سخت است. به هر حال ما چاقو می کشیم.",
+      "summary_fa": "جدا کردن کاه از گندم در نتایج آنتروپیک سخت است. به هر حال ما چاقو می کشیم.",
+      "summary_en": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 22:07:06 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c54284c80ee39199261d09387e3f6586",
+      "title": "سهام متا 10 درصد سقوط کرد زیرا زاکربرگ سعی می کند چشم انداز خود را برای \"عوامل\" هوش مصنوعی بفروشد.",
+      "title_fa": "سهام متا 10 درصد سقوط کرد زیرا زاکربرگ سعی می کند چشم انداز خود را برای \"عوامل\" هوش مصنوعی بفروشد.",
+      "title_en": "Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’",
+      "summary": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
+      "summary_fa": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
+      "summary_en": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
+      "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 22:04:47 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12685ac0-8fa0-4587-a936-389d490bf498.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -45,6 +192,48 @@
       }
     },
     {
+      "id": "84dda010a612e8409003aaddadf863d7",
+      "title": "سهام و اوراق قرضه شاهد نوسانات وحشیانه «روز فدرال رزرو» با بخار شدن «بالشتک سقوط» وال استریت هستند.",
+      "title_fa": "سهام و اوراق قرضه شاهد نوسانات وحشیانه «روز فدرال رزرو» با بخار شدن «بالشتک سقوط» وال استریت هستند.",
+      "title_en": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+      "summary": "شاخص های اصلی سهام بدترین عملکرد خود را در «روز فدرال رزرو» از دسامبر 2024 نشان دادند، در حالی که بازده اوراق قرضه 30 ساله بالاتر بود.",
+      "summary_fa": "شاخص های اصلی سهام بدترین عملکرد خود را در «روز فدرال رزرو» از دسامبر 2024 نشان دادند، در حالی که بازده اوراق قرضه 30 ساله بالاتر بود.",
+      "summary_en": "Major equity indexes put in their worst “Fed Day” performance since December 2024, while the yield on the 30-year bond shot higher.",
+      "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 21:56:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-37906792",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1192ea2231b5775fb65806574293dfbb",
+      "title": "Chipotle پیش‌بینی فروش در همان فروشگاه را افزایش داد، می‌گوید ترس‌های cyclospora به فروش در اواخر جولای رسید",
+      "title_fa": "Chipotle پیش‌بینی فروش در همان فروشگاه را افزایش داد، می‌گوید ترس‌های cyclospora به فروش در اواخر جولای رسید",
+      "title_en": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+      "summary": "سهام Chipotle Mexican Grill امسال بیش از 7 درصد کاهش یافته و ارزش بازار آن را به حدود 44 میلیارد دلار رسانده است.",
+      "summary_fa": "سهام Chipotle Mexican Grill امسال بیش از 7 درصد کاهش یافته و ارزش بازار آن را به حدود 44 میلیارد دلار رسانده است.",
+      "summary_en": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 21:52:41 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a1e8e7636207b9d2993186587d914d64",
       "title": "فدرال رزرو ایالات متحده نرخ های بهره را ثابت نگه می دارد زیرا سه سیاست گذار عقب نشینی کرده اند",
       "title_fa": "فدرال رزرو ایالات متحده نرخ های بهره را ثابت نگه می دارد زیرا سه سیاست گذار عقب نشینی کرده اند",
@@ -63,6 +252,132 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "b465f3f2820f32b148a5612082a22e82",
+      "title": "سهام کاروانا سقوط کرد زیرا راهنمای درآمد خرده فروشان خودرو در سال 2026 انتظارات وال استریت را نادیده گرفت.",
+      "title_fa": "سهام کاروانا سقوط کرد زیرا راهنمای درآمد خرده فروشان خودرو در سال 2026 انتظارات وال استریت را نادیده گرفت.",
+      "title_en": "Carvana stock falls as auto retailer’s 2026 earnings guidance misses Wall Street’s expectations",
+      "summary": "کاروانا روز چهارشنبه گفت که انتظار دارد درآمدی بین 2.7 تا 3 میلیارد دلار در سال جاری داشته باشد، پس از گزارش بی سابقه نتایج سه ماهه برای سه ماهه دوم.",
+      "summary_fa": "کاروانا روز چهارشنبه گفت که انتظار دارد درآمدی بین 2.7 تا 3 میلیارد دلار در سال جاری داشته باشد، پس از گزارش بی سابقه نتایج سه ماهه برای سه ماهه دوم.",
+      "summary_en": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+      "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 21:47:28 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e88b073beb0e9318aad3409600aef28",
+      "title": "آیا فیفا بخش هایی از جام جهانی را به سرمایه گذاران خصوصی می فروشد؟",
+      "title_fa": "آیا فیفا بخش هایی از جام جهانی را به سرمایه گذاران خصوصی می فروشد؟",
+      "title_en": "Is FIFA selling parts of the World Cup to private investors?",
+      "summary": "این هفته فیفا اعلام کرد که قصد دارد یک شرکت تابعه جدید برای اجرای بخشی از جام جهانی و ارائه 20 درصد از سهام تشکیل دهد.",
+      "summary_fa": "این هفته فیفا اعلام کرد که قصد دارد یک شرکت تابعه جدید برای اجرای بخشی از جام جهانی و ارائه 20 درصد از سهام تشکیل دهد.",
+      "summary_en": "This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 21:46:22 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1f9d5d363be216ae21d80105d529445",
+      "title": "در اینجا آخرین بارهایی که داو 1000 امتیاز کاهش یافت و آنچه بعدا اتفاق افتاد را مشاهده می کنید",
+      "title_fa": "در اینجا آخرین بارهایی که داو 1000 امتیاز کاهش یافت و آنچه بعدا اتفاق افتاد را مشاهده می کنید",
+      "title_en": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "summary": "پس از کاهش 1000 واحدی داو، شاخص معمولاً در هفته بعد ضعیف است. سپس میانگین سود در ماه و سه ماه آینده را ارسال می کند.",
+      "summary_fa": "پس از کاهش 1000 واحدی داو، شاخص معمولاً در هفته بعد ضعیف است. سپس میانگین سود در ماه و سه ماه آینده را ارسال می کند.",
+      "summary_en": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+      "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 21:43:50 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4be5124b2e6a78a877c551d892213d11",
+      "title": "افزایش حق بیمه قسمت D مدیکر می تواند افراد بیشتری را به برنامه های Medicare Advantage سوق دهد",
+      "title_fa": "افزایش حق بیمه قسمت D مدیکر می تواند افراد بیشتری را به برنامه های Medicare Advantage سوق دهد",
+      "title_en": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "summary": "طرح‌های Medicare Advantage می‌توانند برنده تصمیم دولت ترامپ برای پایان دادن زودهنگام به برنامه‌ای باشند که هزینه برنامه‌های داروهای تجویزی مدیکر را پایین‌تر نگه می‌دارد.",
+      "summary_fa": "طرح‌های Medicare Advantage می‌توانند برنده تصمیم دولت ترامپ برای پایان دادن زودهنگام به برنامه‌ای باشند که هزینه برنامه‌های داروهای تجویزی مدیکر را پایین‌تر نگه می‌دارد.",
+      "summary_en": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
+      "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 21:43:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-87598403",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "472ed6ef1e1a893eda9b5e518beb6fd7",
+      "title": "کسب و کار ابری مایکروسافت با افزایش سرمایه به 41 میلیارد دلار، فروش را افزایش می دهد",
+      "title_fa": "کسب و کار ابری مایکروسافت با افزایش سرمایه به 41 میلیارد دلار، فروش را افزایش می دهد",
+      "title_en": "Microsoft’s cloud business boosts sales as capex climbs to $41bn",
+      "summary": "درآمد بخش ابر هوشمند گروه فناوری با 32 درصد افزایش به 39.3 میلیارد دلار رسید.",
+      "summary_fa": "درآمد بخش ابر هوشمند گروه فناوری با 32 درصد افزایش به 39.3 میلیارد دلار رسید.",
+      "summary_en": "Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn",
+      "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 21:31:37 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d00991e-ae47-4af8-96f7-c5e752f0cb5e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4ada36ff409e13309c3cd190a6c5bf9a",
+      "title": "دادگاه میانمار فعالان را به دلیل اعتراضات انتخاباتی به 37 سال زندان محکوم کرد",
+      "title_fa": "دادگاه میانمار فعالان را به دلیل اعتراضات انتخاباتی به 37 سال زندان محکوم کرد",
+      "title_en": "Myanmar court sentences activists to 37 years over election protest",
+      "summary": "9 فعال به دلیل اعتراض به انتخابات دسامبر که مورد حمایت ارتش قرار گرفته است، با مجازات حداکثر 37 سال زندان روبرو هستند.",
+      "summary_fa": "9 فعال به دلیل اعتراض به انتخابات دسامبر که مورد حمایت ارتش قرار گرفته است، با مجازات حداکثر 37 سال زندان روبرو هستند.",
+      "summary_en": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 21:29:33 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -126,6 +441,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c27b7772f5412ea3c6f50a2ae763eb6d",
+      "title": "اینفانتینو از سرمایه گذاری تجاری 20 میلیارد دلاری فیفا پس از واکنش های شدید دفاع می کند",
+      "title_fa": "اینفانتینو از سرمایه گذاری تجاری 20 میلیارد دلاری فیفا پس از واکنش های شدید دفاع می کند",
+      "title_en": "Infantino defends $20bn Fifa commercial venture after mounting backlash",
+      "summary": "رئیس هیئت حاکمه فوتبال جهان می گوید برنامه فروش سهام به سرمایه گذاران \"یک فرصت است و نه یک تعهد\"",
+      "summary_fa": "رئیس هیئت حاکمه فوتبال جهان می گوید برنامه فروش سهام به سرمایه گذاران \"یک فرصت است و نه یک تعهد\"",
+      "summary_en": "President of world football’s governing body says plan to sell stake to investors ‘is an opportunity and not an obligation’",
+      "link": "https://www.ft.com/content/b97720c3-b6d7-455e-84ca-1e4339003644?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 21:25:30 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd086a9cd-918d-461d-9e7e-4370214110b3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7b30c1e2518118224b3f591ef6af603f",
+      "title": "فیفا آرژانتین را پس از درگیری فینال جام جهانی با اسپانیا متهم کرد",
+      "title_fa": "فیفا آرژانتین را پس از درگیری فینال جام جهانی با اسپانیا متهم کرد",
+      "title_en": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "summary": "فیفا آرژانتین را به دلیل درگیری پس از فینال با اسپانیا و بنر 'مالویناس' پس از بازی انگلیس در جام جهانی مورد انتقاد قرار داد.",
+      "summary_fa": "فیفا آرژانتین را به دلیل درگیری پس از فینال با اسپانیا و بنر 'مالویناس' پس از بازی انگلیس در جام جهانی مورد انتقاد قرار داد.",
+      "summary_en": "FIFA hits Argentina with World Cup charges for scuffle after final with Spain and 'Malvinas' banner after England game.",
+      "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 21:20:42 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79923341629faf936bf0ea1cbe697cc7",
+      "title": "ترامپ پس از حمله به پایگاه آمریکایی در اردن، ایران را به حمله تهدید کرد",
+      "title_fa": "ترامپ پس از حمله به پایگاه آمریکایی در اردن، ایران را به حمله تهدید کرد",
+      "title_en": "Trump threatens Iran strikes after attack on US base in Jordan",
+      "summary": "\"نوبت ماست.\" دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید پس از حمله به نیروهای آمریکایی در اردن، ایالات متحده «بسیار سخت» به ایران ضربه خواهد زد",
+      "summary_fa": "\"نوبت ماست.\" دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید پس از حمله به نیروهای آمریکایی در اردن، ایالات متحده «بسیار سخت» به ایران ضربه خواهد زد",
+      "summary_en": "”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 21:18:24 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -3402,6 +3780,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6fd2ffec6e59d3c2aa143c34a54ab984",
+      "title": "کمپین‌های «بسیار مؤثر» علیه باد و خورشید که حمایت از انرژی‌های تجدیدپذیر را تضعیف می‌کنند، سازماندهی کرد",
+      "title_fa": "کمپین‌های «بسیار مؤثر» علیه باد و خورشید که حمایت از انرژی‌های تجدیدپذیر را تضعیف می‌کنند، سازماندهی کرد",
+      "title_en": "‘Extremely effective’ organised campaigns against wind and solar undermining support for renewable energy",
+      "summary": "شورای انرژی پاک خواستار طرحی ملی و قانونی برای بازگرداندن مزایای میزبانی پروژه‌های انرژی‌های تجدیدپذیر به شوراهای محلی است. ثبت‌نام در خبرنامه رایگان هوای پاک آدام مورتون سردبیر آب و هوا و محیط‌زیست در اینجا وبلاگ زنده اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید کمپین‌های سازمان‌دهی شده علیه انرژی باد و خورشیدی ثابت کرده‌اند که «حمایت بسیار مؤثری از وسایل نقلیه الکتریکی برای وسایل نقلیه الکتریکی است، اما از وسایل نقلیه الکتریکی بسیار مؤثر است» در موارد ضعیف. بر اساس یک عکس فوری دقیق از نگرش استرالیا به انتقال انرژی پاک، پس از حمله دونالد ترامپ به ایران، جهش یافته است. این نظرسنجی نشان داد که سطوح «پشتیبانی عمیق» از فناوری‌های پاک برای باتری‌های خانگی و خورشیدی روی پشت بام بالاترین سطح را نشان می‌دهد و همچنین برای پروژه‌های زیرساختی بزرگ مانند خطوط انتقال، که هدف منتقدان انرژی‌های تجدیدپذیر و محیط‌زیست هوای جدید است، ثبت نام کنید. خبرنامه ادامه مطلب...",
+      "summary_fa": "شورای انرژی پاک خواستار طرحی ملی و قانونی برای بازگرداندن مزایای میزبانی پروژه‌های انرژی‌های تجدیدپذیر به شوراهای محلی است. ثبت‌نام در خبرنامه رایگان هوای پاک آدام مورتون سردبیر آب و هوا و محیط‌زیست در اینجا وبلاگ زنده اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید کمپین‌های سازمان‌دهی شده علیه انرژی باد و خورشیدی ثابت کرده‌اند که «حمایت بسیار مؤثری از وسایل نقلیه الکتریکی برای وسایل نقلیه الکتریکی است، اما از وسایل نقلیه الکتریکی بسیار مؤثر است» در موارد ضعیف. بر اساس یک عکس فوری دقیق از نگرش استرالیا به انتقال انرژی پاک، پس از حمله دونالد ترامپ به ایران، جهش یافته است. این نظرسنجی نشان داد که سطوح «پشتیبانی عمیق» از فناوری‌های پاک برای باتری‌های خانگی و خورشیدی روی پشت بام بالاترین سطح را نشان می‌دهد و همچنین برای پروژه‌های زیرساختی بزرگ مانند خطوط انتقال، که هدف منتقدان انرژی‌های تجدیدپذیر و محیط‌زیست هوای جدید است، ثبت نام کنید. خبرنامه ادامه مطلب...",
+      "summary_en": "Clean Energy Council calls for a national, legislated scheme to funnel benefits of hosting renewables projects back to local councilsSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereFollow our Australia news live blog for latest updatesOrganised campaigns against wind and solar energy have proved “extremely effective” in undermining community support for renewable energy but enthusiasm for electric vehicles has jumped after Donald Trump’s attack on Iran, according to a detailed snapshot of Australian attitudes to the clean energy transition.The survey found levels of “deep support” for clean technologies were highest for home batteries and rooftop solar and also improving for major infrastructure projects such as transmission lines, which have been a target for critics of renewables.Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/30/australians-value-batteries-and-evs-but-renewables-industry-must-earn-trust-of-regions-summit-told",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 15:00:36 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/110f391da0e3a62746765ab04432b6a5c206a0e5/234_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=2e332875a62061663062d906019cb569",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -70559,6 +70958,69 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "164106222e60ffc340c3c2235ce01bcd",
+      "title": "مایکروسافت تایید کرده است که Copilot 'super app' امسال عرضه می شود",
+      "title_fa": "مایکروسافت تایید کرده است که Copilot 'super app' امسال عرضه می شود",
+      "title_en": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "مایکروسافت در حال کار بر روی یک \"فوق العاده برنامه\" هوش مصنوعی است که چت، کدنویسی و قابلیت های عامل Copilot را ترکیب می کند. ساتیا نادلا، مدیر عامل مایکروسافت، در طی تماسی با درآمد روز چهارشنبه گفت که این اپلیکیشن در زمان عرضه در سال جاری \"هم تجربیات مصرف کننده و هم تجربیات تجاری\" را در بر می گیرد. نادلا گفت: \"Copilot به سرعت از چت به Cowork و Autopilots در حال تغییر است.\" «این سه ماهه، […]",
+      "summary_fa": "مایکروسافت در حال کار بر روی یک \"فوق العاده برنامه\" هوش مصنوعی است که چت، کدنویسی و قابلیت های عامل Copilot را ترکیب می کند. ساتیا نادلا، مدیر عامل مایکروسافت، در طی تماسی با درآمد روز چهارشنبه گفت که این اپلیکیشن در زمان عرضه در سال جاری \"هم تجربیات مصرف کننده و هم تجربیات تجاری\" را در بر می گیرد. نادلا گفت: \"Copilot به سرعت از چت به Cowork و Autopilots در حال تغییر است.\" «این سه ماهه، […]",
+      "summary_en": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, […]",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge",
+      "published_at": "2026-07-29T18:17:38-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48bfcd6147c07f4fc2b4ce28c7587e59",
+      "title": "مارک زاکربرگ در حال برنامه ریزی برای یک فشار بزرگ به سمت عوامل هوش مصنوعی شخصی است",
+      "title_fa": "مارک زاکربرگ در حال برنامه ریزی برای یک فشار بزرگ به سمت عوامل هوش مصنوعی شخصی است",
+      "title_en": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "summary": "متا در زمینه هوش مصنوعی همه کاره است و به زودی، این شرکت قصد دارد به عوامل هوش مصنوعی شخصی که می توانند کارهایی را از طرف شما انجام دهند فشار زیادی وارد کند. در جلسه کسب درآمد سه ماهه دوم 2026 در روز چهارشنبه، مارک زاکربرگ، مدیر عامل شرکت، چشم انداز سطح بالایی از نحوه فکر شرکت در مورد نمایندگان شخصی و کارهایی که انجام خواهد داد را پیش نمایش داد.",
+      "summary_fa": "متا در زمینه هوش مصنوعی همه کاره است و به زودی، این شرکت قصد دارد به عوامل هوش مصنوعی شخصی که می توانند کارهایی را از طرف شما انجام دهند فشار زیادی وارد کند. در جلسه کسب درآمد سه ماهه دوم 2026 در روز چهارشنبه، مارک زاکربرگ، مدیر عامل شرکت، چشم انداز سطح بالایی از نحوه فکر شرکت در مورد نمایندگان شخصی و کارهایی که انجام خواهد داد را پیش نمایش داد.",
+      "summary_en": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "source": "The Verge",
+      "published_at": "2026-07-29T17:48:07-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a99e88fe266df44894d871b42b169b7b",
+      "title": "کوالکام قیمت تراشه های گوشی را از اول سپتامبر افزایش می دهد",
+      "title_fa": "کوالکام قیمت تراشه های گوشی را از اول سپتامبر افزایش می دهد",
+      "title_en": "Qualcomm is raising phone chip prices starting September 1st",
+      "summary": "RAMagedon تنها دلیل قیمت بیشتر گوشی بعدی شما نخواهد بود - کوالکام قصد دارد قیمت تمام پردازنده های خود را نیز افزایش دهد. به گزارش سی ان بی سی، کریستیانو آمون، مدیرعامل کوالکام روز چهارشنبه گفت که از اول سپتامبر قیمت محصولات این شرکت افزایش خواهد یافت. افزایش قیمت ها هفته گذشته شایعه شد […]",
+      "summary_fa": "RAMagedon تنها دلیل قیمت بیشتر گوشی بعدی شما نخواهد بود - کوالکام قصد دارد قیمت تمام پردازنده های خود را نیز افزایش دهد. به گزارش سی ان بی سی، کریستیانو آمون، مدیرعامل کوالکام روز چهارشنبه گفت که از اول سپتامبر قیمت محصولات این شرکت افزایش خواهد یافت. افزایش قیمت ها هفته گذشته شایعه شد […]",
+      "summary_en": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week […]",
+      "link": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+      "source": "The Verge",
+      "published_at": "2026-07-29T17:41:56-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
