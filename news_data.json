@@ -1,7 +1,154 @@
 {
-  "last_update": "2026-07-29 19:41:11",
-  "total_count": 3593,
+  "last_update": "2026-07-29 20:37:56",
+  "total_count": 3619,
   "articles": [
+    {
+      "id": "4e9bf2f4ddb9a7aea9bafab9b1a46faf",
+      "title": "صدها مهاجر از مراکش به سمت قلمرو اسپانیایی سئوتا شنا می کنند",
+      "title_fa": "صدها مهاجر از مراکش به سمت قلمرو اسپانیایی سئوتا شنا می کنند",
+      "title_en": "Hundreds of migrants are swimming from Morocco to the Spanish territory of Ceuta",
+      "summary": "در حالی که آب و هوای خوب معمولاً باعث افزایش گذرگاه های مهاجران از طریق دریا در تابستان می شود، مقامات سئوتا گفتند که تعداد فعلی شناگران غیرعادی است.",
+      "summary_fa": "در حالی که آب و هوای خوب معمولاً باعث افزایش گذرگاه های مهاجران از طریق دریا در تابستان می شود، مقامات سئوتا گفتند که تعداد فعلی شناگران غیرعادی است.",
+      "summary_en": "While good weather usually brings a surge in migrant crossings by sea in the summer, Ceuta authorities said the current number of swimmers is unusual.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/hundreds-of-migrants-are-swimming-from-morocco-to-the-spanish-territory-of-ceuta",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 22:16:35 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b4c014d703e18bdc5418cddf193f9f8d",
+      "title": "سه آتش نشان در مبارزه با آتش سوزی در جنگل های یونان جان باختند",
+      "title_fa": "سه آتش نشان در مبارزه با آتش سوزی در جنگل های یونان جان باختند",
+      "title_en": "Three firefighters die battling wildfires in Greece",
+      "summary": "حدود 2000 گردشگر از آگیا گالینی تخلیه می شوند زیرا آتش سوزی های جنگلی باعث تخلیه بیشتر در سراسر جنوب ریتیمنو شده است.",
+      "summary_fa": "حدود 2000 گردشگر از آگیا گالینی تخلیه می شوند زیرا آتش سوزی های جنگلی باعث تخلیه بیشتر در سراسر جنوب ریتیمنو شده است.",
+      "summary_en": "Around 2,000 tourists are being evacuated from Agia Galini as wildfires force further evacuations across southern Rethymno,",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/three-firefighters-die-battling-wildfires-in-greece",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 21:58:59 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a1e8e7636207b9d2993186587d914d64",
+      "title": "فدرال رزرو ایالات متحده نرخ های بهره را ثابت نگه می دارد زیرا سه سیاست گذار عقب نشینی کرده اند",
+      "title_fa": "فدرال رزرو ایالات متحده نرخ های بهره را ثابت نگه می دارد زیرا سه سیاست گذار عقب نشینی کرده اند",
+      "title_en": "US Federal Reserve holds interest rates steady as three policymakers back hike",
+      "summary": "فدرال رزرو با وجود تورم بالا و افزایش قیمت انرژی ناشی از جنگ در ایران، روز چهارشنبه نرخ بهره کلیدی خود را ثابت نگه داشت.",
+      "summary_fa": "فدرال رزرو با وجود تورم بالا و افزایش قیمت انرژی ناشی از جنگ در ایران، روز چهارشنبه نرخ بهره کلیدی خود را ثابت نگه داشت.",
+      "summary_en": "The Federal Reserve held its key interest rate steady on Wednesday despite persistently high inflation and an Iran war-driven surge in energy prices.",
+      "link": "http://www.euronews.com/business/2026/07/29/us-federal-reserve-holds-interest-rates-steady-as-three-policymakers-back-hike",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 21:49:07 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "29cf8cd9c8143883d99d2042182852c8",
+      "title": "سهام متا با راهنمایی درآمد کم کاهش می یابد و جریان نقدی آزاد کاهش می یابد",
+      "title_fa": "سهام متا با راهنمایی درآمد کم کاهش می یابد و جریان نقدی آزاد کاهش می یابد",
+      "title_en": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
+      "summary": "متا پیش بینی درآمد ضعیف تر از حد انتظار را منتشر کرد و محدوده سرمایه خود را برای سال محدود کرد.",
+      "summary_fa": "متا پیش بینی درآمد ضعیف تر از حد انتظار را منتشر کرد و محدوده سرمایه خود را برای سال محدود کرد.",
+      "summary_en": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
+      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:32:59 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a6f5404f06e27bcf2990062539938510",
+      "title": "مایکروسافت انتظارات ابری سه ماهه چهارم را پشت سر گذاشت زیرا درآمد تمام سال Azure به بالای 100 میلیارد دلار رسید",
+      "title_fa": "مایکروسافت انتظارات ابری سه ماهه چهارم را پشت سر گذاشت زیرا درآمد تمام سال Azure به بالای 100 میلیارد دلار رسید",
+      "title_en": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "summary": "حجم معوقه مایکروسافت 8 درصد بیشتر از سه ماهه قبل بود که عمدتاً به لطف مشارکت مشتریانی غیر از شرکت های بزرگ هوش مصنوعی بود.",
+      "summary_fa": "حجم معوقه مایکروسافت 8 درصد بیشتر از سه ماهه قبل بود که عمدتاً به لطف مشارکت مشتریانی غیر از شرکت های بزرگ هوش مصنوعی بود.",
+      "summary_en": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies.",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:32:49 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1987b21c8d99f3706e0080e4aea9ac5f",
+      "title": "سهام کاروانا 15 درصد سقوط کرد زیرا راهنمای درآمد خرده فروشان خودرو در سال 2026 انتظارات وال استریت را نادیده گرفت.",
+      "title_fa": "سهام کاروانا 15 درصد سقوط کرد زیرا راهنمای درآمد خرده فروشان خودرو در سال 2026 انتظارات وال استریت را نادیده گرفت.",
+      "title_en": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
+      "summary": "کاروانا روز چهارشنبه گفت که انتظار دارد درآمدی بین 2.7 تا 3 میلیارد دلار در سال جاری داشته باشد، پس از گزارش بی سابقه نتایج سه ماهه برای سه ماهه دوم.",
+      "summary_fa": "کاروانا روز چهارشنبه گفت که انتظار دارد درآمدی بین 2.7 تا 3 میلیارد دلار در سال جاری داشته باشد، پس از گزارش بی سابقه نتایج سه ماهه برای سه ماهه دوم.",
+      "summary_en": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+      "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:32:31 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6f4e68940d8df24dbc5de1de52fea1f5",
+      "title": "به‌روزرسانی‌های زنده جنگ ایران: کشورهای بیشتری با موجی از حملات وارد درگیری شدند",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: کشورهای بیشتری با موجی از حملات وارد درگیری شدند",
+      "title_en": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
+      "summary": "ایالات متحده و عربستان سعودی گفتند که حملات هوایی به شبه نظامیان مورد حمایت ایران در عراق انجام دادند، ایران سایت های مورد استفاده ارتش آمریکا در اردن را هدف قرار داد و یک کشتی متعلق به ایالات متحده در یک بندر مصر هدف قرار گرفت.",
+      "summary_fa": "ایالات متحده و عربستان سعودی گفتند که حملات هوایی به شبه نظامیان مورد حمایت ایران در عراق انجام دادند، ایران سایت های مورد استفاده ارتش آمریکا در اردن را هدف قرار داد و یک کشتی متعلق به ایالات متحده در یک بندر مصر هدف قرار گرفت.",
+      "summary_en": "The U.S. and Saudi Arabia said they carried out airstrikes on Iran-backed militias in Iraq, Iran targeted sites used by the American military in Jordan and a U.S.-owned ship was hit in an Egyptian port.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 20:31:33 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo320p-btkg/29mideast-live-promo320p-btkg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
     {
       "id": "3b7eddbfdb1ff6dd3bda56812b7f839f",
       "title": "بزرگترین بحث های اروپا در مورد حلقه - امنیت اتحادیه اروپا ... به چه قیمتی؟",
@@ -21,6 +168,195 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "c72576b3facd27068a73252c9cd98218",
+      "title": "سهام استارباکس جهش کرد زیرا غول قهوه چشم انداز کل سال را افزایش داد",
+      "title_fa": "سهام استارباکس جهش کرد زیرا غول قهوه چشم انداز کل سال را افزایش داد",
+      "title_en": "Starbucks stock jumps as coffee giant raises full-year outlook",
+      "summary": "استارباکس چهارمین سه ماهه متوالی رشد فروش خود را در همان فروشگاه ثبت کرد، زیرا به چرخش خود تحت مدیریت برایان نیکول، مدیر عامل شرکت، ادامه می دهد.",
+      "summary_fa": "استارباکس چهارمین سه ماهه متوالی رشد فروش خود را در همان فروشگاه ثبت کرد، زیرا به چرخش خود تحت مدیریت برایان نیکول، مدیر عامل شرکت، ادامه می دهد.",
+      "summary_en": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:27:19 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "57b735a81df78335915ab9f3c272c7a6",
+      "title": "اخبار استرالیا زنده: جیلیان سگال به کمیسیون سلطنتی یهودی ستیزی بازگشت. سه کشته در آتش سوزی خانه سیدنی",
+      "title_fa": "اخبار استرالیا زنده: جیلیان سگال به کمیسیون سلطنتی یهودی ستیزی بازگشت. سه کشته در آتش سوزی خانه سیدنی",
+      "title_en": "Australia news live: Jillian Segal returns to antisemitism royal commission; three dead in Sydney house fire",
+      "summary": "فرستاده ویژه دولت امروز دوباره به صندوق شاهد بازگشته است. سه قربانی در خانه سوخته در ویلی پارک پیدا شدند. به‌روزرسانی‌ها را به‌طور زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، یکی از 19 هدف کاهش شکاف، پس از ثبت‌نام در آموزش ابتدایی دوران کودکی برای کودکان ملل اول به 95 درصد در سراسر کشور رسید. گزارش جمع‌آوری داده‌های سالانه که امروز توسط کمیسیون بهره‌وری منتشر شد، افزایشی را از 61.3 درصد در سراسر کشور نشان داد. این نتیجه، و بهبود در هشت هدف دیگر از جمله اشتغال و آموزش، دلگرم کننده است. با این حال، بسیار نگران کننده است که ما همچنان شاهد بدتر شدن پیامدها برای رشد اولیه کودکی، کودکان در مراقبت های خارج از خانه، میزان زندانی شدن و خودکشی هستیم. ادامه مطلب...",
+      "summary_fa": "فرستاده ویژه دولت امروز دوباره به صندوق شاهد بازگشته است. سه قربانی در خانه سوخته در ویلی پارک پیدا شدند. به‌روزرسانی‌ها را به‌طور زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، یکی از 19 هدف کاهش شکاف، پس از ثبت‌نام در آموزش ابتدایی دوران کودکی برای کودکان ملل اول به 95 درصد در سراسر کشور رسید. گزارش جمع‌آوری داده‌های سالانه که امروز توسط کمیسیون بهره‌وری منتشر شد، افزایشی را از 61.3 درصد در سراسر کشور نشان داد. این نتیجه، و بهبود در هشت هدف دیگر از جمله اشتغال و آموزش، دلگرم کننده است. با این حال، بسیار نگران کننده است که ما همچنان شاهد بدتر شدن پیامدها برای رشد اولیه کودکی، کودکان در مراقبت های خارج از خانه، میزان زندانی شدن و خودکشی هستیم. ادامه مطلب...",
+      "summary_en": "Government’s special envoy returns to the witness box again today; three victims found in burned-out house in Wiley Park. Follow updates liveGet our breaking news email, free app or daily news podcastOne of the 19 Closing the Gap targets has officially been reached after early childhood education enrolment for First Nations children hit 95% across the country.Released by the Productivity Commission today, the annual data compilation report showed an increase from 61.3% enrolments in 2016 (the baseline year), to hitting the 95% mark across every state and territory today.This result is encouraging, as are improvements in eight other targets including employment and education.However, it is very concerning that we are still seeing outcomes worsening for early childhood development, children in out-of-home care, incarceration rates and suicide. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 20:25:07 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/88788e964ebfce8713fad12cbc5d06993b0b75f6/657_275_4515_3614/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=73b43cd42cdec7f7597958489a09c648",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c89f13beb9440d871e0d6d60d1950b2",
+      "title": "جفری گانلاچ می گوید بازار اوراق قرضه به وارش می گوید که فدرال رزرو باید بر اساس تورم عمل کند.",
+      "title_fa": "جفری گانلاچ می گوید بازار اوراق قرضه به وارش می گوید که فدرال رزرو باید بر اساس تورم عمل کند.",
+      "title_en": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "summary": "گانلاچ گفت که حرکت‌های متفاوت در منحنی خزانه‌داری نشان داد که سرمایه‌گذاران شک دارند که فدرال رزرو در نهایت از آن پیروی خواهد کرد.",
+      "summary_fa": "گانلاچ گفت که حرکت‌های متفاوت در منحنی خزانه‌داری نشان داد که سرمایه‌گذاران شک دارند که فدرال رزرو در نهایت از آن پیروی خواهد کرد.",
+      "summary_en": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+      "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:22:27 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "51ba3d74cd5fc287d761da96e94d3292",
+      "title": "زندایا در مورد همکاری با تام هالند در مرد عنکبوتی: «وقتی بهترین دوست باشید، آسان است»",
+      "title_fa": "زندایا در مورد همکاری با تام هالند در مرد عنکبوتی: «وقتی بهترین دوست باشید، آسان است»",
+      "title_en": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "summary": "این زوج در اولین اکران جدیدترین فیلم خود در لندن، روی فرش سفید راه رفتند، Spiderman: Brand New Day.",
+      "summary_fa": "این زوج در اولین اکران جدیدترین فیلم خود در لندن، روی فرش سفید راه رفتند، Spiderman: Brand New Day.",
+      "summary_en": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 20:21:46 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ad2/live/e88c90f0-8b8a-11f1-9432-3dcf466331f0.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "dcfb705bb42170369002968b439a6ebb",
+      "title": "Chipotle پیش‌بینی فروش در همان فروشگاه را افزایش می‌دهد، زیرا غذاخوری‌ها برای کاسه‌های بوریتو بازمی‌گردند",
+      "title_fa": "Chipotle پیش‌بینی فروش در همان فروشگاه را افزایش می‌دهد، زیرا غذاخوری‌ها برای کاسه‌های بوریتو بازمی‌گردند",
+      "title_en": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+      "summary": "سهام Chipotle Mexican Grill امسال بیش از 7 درصد کاهش یافته و ارزش بازار آن را به حدود 44 میلیارد دلار رسانده است.",
+      "summary_fa": "سهام Chipotle Mexican Grill امسال بیش از 7 درصد کاهش یافته و ارزش بازار آن را به حدود 44 میلیارد دلار رسانده است.",
+      "summary_en": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:19:31 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93ecbc937406424f960a0fb5769b2d29",
+      "title": "سهام متا به دلیل کاهش سود و پیش بینی ضعیف فروش کاهش می یابد",
+      "title_fa": "سهام متا به دلیل کاهش سود و پیش بینی ضعیف فروش کاهش می یابد",
+      "title_en": "Meta shares drop on falling profits and weak sales forecast",
+      "summary": "مارک زاکربرگ به دلیل هزینه های هنگفت هوش مصنوعی تحت فشار است",
+      "summary_fa": "مارک زاکربرگ به دلیل هزینه های هنگفت هوش مصنوعی تحت فشار است",
+      "summary_en": "Mark Zuckerberg under pressure over huge AI spending",
+      "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 20:17:43 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12685ac0-8fa0-4587-a936-389d490bf498.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f50524047716e867b3bb6dc1fb8acf26",
+      "title": "انتخاب دادستان کل ترامپ با موانع احتمالی جمهوری خواهان مواجه است",
+      "title_fa": "انتخاب دادستان کل ترامپ با موانع احتمالی جمهوری خواهان مواجه است",
+      "title_en": "Trump’s attorney general pick faces possible Republican roadblock",
+      "summary": "تاد بلانچ، وکیل مدافع سابق ترامپ، به دلیل وفاداری ادعایی خود به رئیس جمهور آمریکا مورد بررسی قرار گرفته است.",
+      "summary_fa": "تاد بلانچ، وکیل مدافع سابق ترامپ، به دلیل وفاداری ادعایی خود به رئیس جمهور آمریکا مورد بررسی قرار گرفته است.",
+      "summary_en": "Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 20:11:54 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a695ee2cdf2c64fe734296528a6ff48",
+      "title": "الجزایر اولین زن رئیس پارلمان را انتخاب کرد",
+      "title_fa": "الجزایر اولین زن رئیس پارلمان را انتخاب کرد",
+      "title_en": "Algeria elects first-ever woman speaker of parliament",
+      "summary": "خالده بوفدچه از جبهه آزادیبخش ملی اولین زن رئیس پارلمان الجزایر شد.",
+      "summary_fa": "خالده بوفدچه از جبهه آزادیبخش ملی اولین زن رئیس پارلمان الجزایر شد.",
+      "summary_en": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 20:09:26 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c3a398a43d1f96c81590fe0f8b746ca",
+      "title": "اسلام آباد چگونه بحران کشمیر تحت مدیریت پاکستان را مدیریت می کند؟",
+      "title_fa": "اسلام آباد چگونه بحران کشمیر تحت مدیریت پاکستان را مدیریت می کند؟",
+      "title_en": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+      "summary": "درگیری های مرگبار بین نیروهای امنیتی و معترضان انتخابات محلی را مخدوش کرده است.",
+      "summary_fa": "درگیری های مرگبار بین نیروهای امنیتی و معترضان انتخابات محلی را مخدوش کرده است.",
+      "summary_en": "Fatal confrontations between security forces and protesters have marred local elections.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 20:08:09 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -45,6 +381,69 @@
       }
     },
     {
+      "id": "d85bf4073ef767c2afce347c7ccd5e0a",
+      "title": "پس از ممنوعیت ربات های خارجی توسط ایالات متحده چه کسی برنده و چه کسی بازنده است؟",
+      "title_fa": "پس از ممنوعیت ربات های خارجی توسط ایالات متحده چه کسی برنده و چه کسی بازنده است؟",
+      "title_en": "Who wins and who loses after US bans foreign robots?",
+      "summary": "ممنوعیت دولت بر روی ربات‌های ساخت خارج ممکن است به جای کمک به رباتیک ایالات متحده مانعی ایجاد کند.",
+      "summary_fa": "ممنوعیت دولت بر روی ربات‌های ساخت خارج ممکن است به جای کمک به رباتیک ایالات متحده مانعی ایجاد کند.",
+      "summary_en": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 20:03:42 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "faee2925c3838a78d58fa97ab65613f3",
+      "title": "کوالکام قیمت‌ها را در زمان کمبود حافظه افزایش می‌دهد زیرا سازنده تراشه دستورالعمل‌های درآمدی ملایمی را صادر می‌کند",
+      "title_fa": "کوالکام قیمت‌ها را در زمان کمبود حافظه افزایش می‌دهد زیرا سازنده تراشه دستورالعمل‌های درآمدی ملایمی را صادر می‌کند",
+      "title_en": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+      "summary": "کریستیانو آمون، مدیرعامل کوالکام در مصاحبه ای گفت: \"هزینه افزایش یافت، قیمت ها نیز افزایش خواهند یافت.\"",
+      "summary_fa": "کریستیانو آمون، مدیرعامل کوالکام در مصاحبه ای گفت: \"هزینه افزایش یافت، قیمت ها نیز افزایش خواهند یافت.\"",
+      "summary_en": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+      "link": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 20:02:38 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5f0413a2cd421cdf2188543f3aff633e",
+      "title": "وکلای جیمز کومی می گویند دولت آمریکا جزئیات پرونده صدف دریایی را تحریف کرده است",
+      "title_fa": "وکلای جیمز کومی می گویند دولت آمریکا جزئیات پرونده صدف دریایی را تحریف کرده است",
+      "title_en": "James Comey’s lawyers say US government distorted details in seashell case",
+      "summary": "مرکز پرونده در رسانه های اجتماعی پست هایی با صدف های دریایی را نشان می دهد که دادستان ها ادعا می کنند اشاره ای به قتل رئیس جمهور ترامپ است.",
+      "summary_fa": "مرکز پرونده در رسانه های اجتماعی پست هایی با صدف های دریایی را نشان می دهد که دادستان ها ادعا می کنند اشاره ای به قتل رئیس جمهور ترامپ است.",
+      "summary_en": "Case centres on social media post featuring seashells that prosecutors allege is a reference to killing President Trump.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/james-comeys-lawyers-say-us-government-distorted-details-in-seashell-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 20:00:29 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2587ca71e0a9abd35c70cde901e16b4a",
       "title": "زینیا فدورووا، مبلغ طرفدار روسیه با اخراج از فرانسه مواجه است",
       "title_fa": "زینیا فدورووا، مبلغ طرفدار روسیه با اخراج از فرانسه مواجه است",
@@ -63,6 +462,90 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "c670210403ffda6d5d4c58c7677579f3",
+      "title": "تحقیقات جدید نشان می دهد که چگونه یک شهرک نشین اسرائیلی از دست عدالت فرار کرده است",
+      "title_fa": "تحقیقات جدید نشان می دهد که چگونه یک شهرک نشین اسرائیلی از دست عدالت فرار کرده است",
+      "title_en": "New investigation shows how an Israeli settler escaped justice",
+      "summary": "یک گروه مدافع حقوق فلسطین متوجه شد که یک شهرک نشین اسرائیلی عوده هاتالین را کشته است اما همچنان از عدالت فرار می کند.",
+      "summary_fa": "یک گروه مدافع حقوق فلسطین متوجه شد که یک شهرک نشین اسرائیلی عوده هاتالین را کشته است اما همچنان از عدالت فرار می کند.",
+      "summary_en": "A Palestinian rights' group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 19:55:31 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "6323803a9191c133aa367c986fbafdf1",
+      "title": "بستنی برای آموزش: کافه غزه کمک مالی برای مطالعات جمع آوری می کند",
+      "title_fa": "بستنی برای آموزش: کافه غزه کمک مالی برای مطالعات جمع آوری می کند",
+      "title_en": "Ice cream for education: Gaza cafe raises funds for studies",
+      "summary": "در غزه جنگ زده، گروهی از دانشجویان فلسطینی فلورا، یک بستنی فروشی و کافه را برای پرداخت هزینه های دانشگاه افتتاح کردند.",
+      "summary_fa": "در غزه جنگ زده، گروهی از دانشجویان فلسطینی فلورا، یک بستنی فروشی و کافه را برای پرداخت هزینه های دانشگاه افتتاح کردند.",
+      "summary_en": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 19:46:57 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "a24fec93958ee99390d2f152a590968b",
+      "title": "حملات عربستان سعودی به عراق نشانه ورود به جنگ ایران و آمریکاست.",
+      "title_fa": "حملات عربستان سعودی به عراق نشانه ورود به جنگ ایران و آمریکاست.",
+      "title_en": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
+      "summary": "",
+      "summary_fa": "",
+      "summary_en": "",
+      "link": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 19:45:32 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-saudi-topart-jvpm/29mideast-saudi-topart-jvpm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "43fdab03881373d2a9f98d63dc2f4f39",
+      "title": "من برنامه های پخش پولی خود را با برنامه های رایگان جایگزین کردم - این چیزی است که من را شگفت زده کرد",
+      "title_fa": "من برنامه های پخش پولی خود را با برنامه های رایگان جایگزین کردم - این چیزی است که من را شگفت زده کرد",
+      "title_en": "I replaced my paid streaming apps with free ones - here's what surprised me",
+      "summary": "آیا سرویس های پخش رایگان آنقدر بد هستند؟ اشتراک های پولی خود را با اشتراک های رایگان عوض کردم تا ببینم.",
+      "summary_fa": "آیا سرویس های پخش رایگان آنقدر بد هستند؟ اشتراک های پولی خود را با اشتراک های رایگان عوض کردم تا ببینم.",
+      "summary_en": "Are free streaming services that bad? I swapped my paid subscriptions for free ones to see.",
+      "link": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/",
+      "source": "ZDNet",
+      "published_at": "Wed, 29 Jul 2026 19:42:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -1305,6 +1788,27 @@
       }
     },
     {
+      "id": "d83603a96d2b274b3c9e0b63ebbd4cbe",
+      "title": "در حالی که مردم محلی از مبارزه برای نجات خانه‌ها به بی‌بی‌سی می‌گویند، خدمه آتش‌نشانی فرانسه با گرما مبارزه می‌کنند",
+      "title_fa": "در حالی که مردم محلی از مبارزه برای نجات خانه‌ها به بی‌بی‌سی می‌گویند، خدمه آتش‌نشانی فرانسه با گرما مبارزه می‌کنند",
+      "title_en": "France fire crews battle heat as locals tell BBC of fight to save homes",
+      "summary": "یکی از داوطلبان در حال مبارزه با آتش سوزی در منطقه ژیروند به بی بی سی گفت: \"این جنگل ماست.\"",
+      "summary_fa": "یکی از داوطلبان در حال مبارزه با آتش سوزی در منطقه ژیروند به بی بی سی گفت: \"این جنگل ماست.\"",
+      "summary_en": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 16:49:41 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8d/live/017e2260-8b89-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "b68de7c4b9bd7377745182c9f8020a1a",
       "title": "آنتونی فائوچی در جلسه استماع سنای ایالات متحده در مورد منشاء کووید، از پاسخ دادن به سؤالات خودداری می کند",
       "title_fa": "آنتونی فائوچی در جلسه استماع سنای ایالات متحده در مورد منشاء کووید، از پاسخ دادن به سؤالات خودداری می کند",
@@ -1403,6 +1907,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f6fafed8ade970b5619448202b856d81",
+      "title": "تراشه‌های انویدیا ممکن است جدید باشند، اما «تامین مالی دایره‌ای» آن اینطور نیست",
+      "title_fa": "تراشه‌های انویدیا ممکن است جدید باشند، اما «تامین مالی دایره‌ای» آن اینطور نیست",
+      "title_en": "Nvidia’s chips may be novel, but its ‘circular financing’ isn’t",
+      "summary": "Chipmaker اساساً چک می نویسد تا مشتریان خود را قادر به خرید بیشتر از محصولات خود نسبت به آنچه در غیر این صورت می توانستند بپردازند.",
+      "summary_fa": "Chipmaker اساساً چک می نویسد تا مشتریان خود را قادر به خرید بیشتر از محصولات خود نسبت به آنچه در غیر این صورت می توانستند بپردازند.",
+      "summary_en": "Chipmaker is basically writing cheques to enable its customers to buy more of its products than they could otherwise afford",
+      "link": "https://www.ft.com/content/33714af0-a646-4271-8078-49a87182917f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 16:36:50 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F54a7cdbb-04be-41bb-b4ac-a1252c29567b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -69488,6 +70013,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4bfc71a9448e1bf59875da2943d31568",
+      "title": "درآمد ایکس باکس با افزایش تجارت ابری و هوش مصنوعی مایکروسافت 10 درصد کاهش می یابد",
+      "title_fa": "درآمد ایکس باکس با افزایش تجارت ابری و هوش مصنوعی مایکروسافت 10 درصد کاهش می یابد",
+      "title_en": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+      "summary": "Xbox یک سه ماهه سخت دیگر را پشت سر می گذارد، زیرا درآمد حاصل از محتوا و خدماتی مانند اشتراک Game Pass آن در چند ماه گذشته 10 درصد کاهش یافته است. بر اساس گزارش درآمد سه ماهه چهارم مایکروسافت که در روز چهارشنبه منتشر شد، در همان زمان، فروش سخت افزار ایکس باکس 14 درصد کاهش یافت. این خبر تنها چند هفته پس از آن منتشر شد که رئیس ایکس باکس آشا شارما […]",
+      "summary_fa": "Xbox یک سه ماهه سخت دیگر را پشت سر می گذارد، زیرا درآمد حاصل از محتوا و خدماتی مانند اشتراک Game Pass آن در چند ماه گذشته 10 درصد کاهش یافته است. بر اساس گزارش درآمد سه ماهه چهارم مایکروسافت که در روز چهارشنبه منتشر شد، در همان زمان، فروش سخت افزار ایکس باکس 14 درصد کاهش یافت. این خبر تنها چند هفته پس از آن منتشر شد که رئیس ایکس باکس آشا شارما […]",
+      "summary_en": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 14 percent, according to Microsoft's fourth-quarter earnings report released on Wednesday. The news comes just weeks after Xbox head Asha Sharma […]",
+      "link": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+      "source": "The Verge",
+      "published_at": "2026-07-29T16:26:48-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
