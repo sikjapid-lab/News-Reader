@@ -1,7 +1,574 @@
 {
-  "last_update": "2026-07-29 09:17:04",
-  "total_count": 3262,
+  "last_update": "2026-07-29 11:37:03",
+  "total_count": 3336,
   "articles": [
+    {
+      "id": "a03df6e13dbe252374b492c756807f76",
+      "title": "در حالی که غرب در فکر کاهش سرعت هوش مصنوعی است، آیا چین نیز از این روند پیروی خواهد کرد؟",
+      "title_fa": "در حالی که غرب در فکر کاهش سرعت هوش مصنوعی است، آیا چین نیز از این روند پیروی خواهد کرد؟",
+      "title_en": "As the West mulls slowing AI down, will China follow suit?",
+      "summary": "کارمندان OpenAI، Anthropic و دیگر آزمایشگاه‌های برتر از واشنگتن می‌خواهند که به سرعت مسابقه هوش مصنوعی کمک کند. چین یک سال را صرف کم کردن شکاف، ایجاد یک نهاد حاکمیتی رقیب و شرط بندی بر روی مدل های منبع باز کرده است.",
+      "summary_fa": "کارمندان OpenAI، Anthropic و دیگر آزمایشگاه‌های برتر از واشنگتن می‌خواهند که به سرعت مسابقه هوش مصنوعی کمک کند. چین یک سال را صرف کم کردن شکاف، ایجاد یک نهاد حاکمیتی رقیب و شرط بندی بر روی مدل های منبع باز کرده است.",
+      "summary_en": "Employees at OpenAI, Anthropic and other top labs want Washington to help pace the AI race. China has spent the year closing the gap, building a rival governance body and betting on open-source models instead.",
+      "link": "http://www.euronews.com/next/2026/07/29/as-the-west-mulls-slowing-ai-down-will-china-follow-suit",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:34:46 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "725761300f25c65554ae511a4ce82216",
+      "title": "پیش از حمله اسرائیل به منطقه مسجد، ساکنان غزه فرار می کنند",
+      "title_fa": "پیش از حمله اسرائیل به منطقه مسجد، ساکنان غزه فرار می کنند",
+      "title_en": "Gaza residents flee before Israeli strike hits mosque area",
+      "summary": "حملات اسرائیل پس از هشدار تخلیه شهر غزه و دیرالبلاح را هدف قرار دادند و تصاویری از انفجار، شعله های آتش و دود در آسمان شب را نشان می دهد.",
+      "summary_fa": "حملات اسرائیل پس از هشدار تخلیه شهر غزه و دیرالبلاح را هدف قرار دادند و تصاویری از انفجار، شعله های آتش و دود در آسمان شب را نشان می دهد.",
+      "summary_en": "Israeli strikes hit Gaza City and Deir al-Balah after an evacuation warning, with footage showing explosions, flames and smoke rising into the night sky.",
+      "link": "http://www.euronews.com/video/2026/07/29/gaza-residents-flee-before-israeli-strike-hits-mosque-area",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:30:57 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "dce1e61d22384ca463570d83c6e13678",
+      "title": "\"او موضع خود را سیاسی می کند\": X، نقطه عطفی در ارتباطات برنارد آرنو",
+      "title_fa": "\"او موضع خود را سیاسی می کند\": X، نقطه عطفی در ارتباطات برنارد آرنو",
+      "title_en": "\"He politicises his stance\": X, a turning point in Bernard Arnault's communication",
+      "summary": "رئیس LVMH پس از بررسی طولانی مدت آن در مورد امپراتوری و زندگی خصوصی لوموند به X پیوست تا به لوموند پاسخ دهد و از کمرویی رسانه ای که مدت ها برنارد آرنو را تعریف می کرد، شکست.",
+      "summary_fa": "رئیس LVMH پس از بررسی طولانی مدت آن در مورد امپراتوری و زندگی خصوصی لوموند به X پیوست تا به لوموند پاسخ دهد و از کمرویی رسانه ای که مدت ها برنارد آرنو را تعریف می کرد، شکست.",
+      "summary_en": "The LVMH chief has joined X to hit back at Le Monde after its lengthy probe into his empire and private life, breaking with the media shyness that long defined Bernard Arnault.",
+      "link": "http://www.euronews.com/business/2026/07/29/he-politicises-his-stance-x-a-turning-point-in-bernard-arnaults-communication",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:24:14 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8243a0507e9b1d8b8f569957366e8f79",
+      "title": "بازگشت تخلیه‌شدگان در اسپانیا و تثبیت آتش‌سوزی‌های فرانسه، اگرچه موج گرما مقامات را در حالت آماده باش نگه می‌دارد.",
+      "title_fa": "بازگشت تخلیه‌شدگان در اسپانیا و تثبیت آتش‌سوزی‌های فرانسه، اگرچه موج گرما مقامات را در حالت آماده باش نگه می‌دارد.",
+      "title_en": "Evacuees return in Spain and French wildfires stabilise, though heatwave keeps authorities on alert",
+      "summary": "آتش‌سوزی‌هایی که سراسر اسپانیا و فرانسه را دربرگرفت، یکی از بزرگترین آتش‌سوزی‌هایی است که این دو کشور در تاریخ اخیر تجربه کرده‌اند.",
+      "summary_fa": "آتش‌سوزی‌هایی که سراسر اسپانیا و فرانسه را دربرگرفت، یکی از بزرگترین آتش‌سوزی‌هایی است که این دو کشور در تاریخ اخیر تجربه کرده‌اند.",
+      "summary_en": "The wildfires that swept across Spain and France are among the largest the two countries have experienced in recent history.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/evacuees-return-in-spain-and-french-wildfires-stabilise-though-heatwave-keeps-authorities-",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:21:18 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "da1aecb48af132bae942be752258bc29",
+      "title": "'دست از بازی ما بردارید': اتحادیه اروپا فیفا را به دلیل فروش سهام جام جهانی مورد انتقاد قرار داد",
+      "title_fa": "'دست از بازی ما بردارید': اتحادیه اروپا فیفا را به دلیل فروش سهام جام جهانی مورد انتقاد قرار داد",
+      "title_en": "'Hands off our game': EU slams FIFA for selling a stake in the World Cup",
+      "summary": "گلن میکالف، کمیسر ورزش اتحادیه اروپا، از اتحادیه فوتبال اروپا در انتقاد از این طرح حمایت می‌کند که در آن جاشوا کوشنر، خویشاوند نزدیک ترامپ نیز دخالت دارد، در حالی که کشورهای اروپایی بنا به گزارش‌ها در حال بررسی تحریم هستند.",
+      "summary_fa": "گلن میکالف، کمیسر ورزش اتحادیه اروپا، از اتحادیه فوتبال اروپا در انتقاد از این طرح حمایت می‌کند که در آن جاشوا کوشنر، خویشاوند نزدیک ترامپ نیز دخالت دارد، در حالی که کشورهای اروپایی بنا به گزارش‌ها در حال بررسی تحریم هستند.",
+      "summary_en": "EU Commissioner for Sport Glenn Micallef backs the European Football Association in criticising the plan, which involves Trump’s affinal relative Joshua Kushner, while European countries are reportedly weighing a boycott.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/hands-off-our-game-eu-slams-fifa-for-selling-a-stake-in-the-world-cup",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:15:50 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "0a6487c43309137e19c3d83ccf362850",
+      "title": "چه کسی آتش را شروع کرد؟ درون شکاف اطلاعاتی آتش سوزی اروپا",
+      "title_fa": "چه کسی آتش را شروع کرد؟ درون شکاف اطلاعاتی آتش سوزی اروپا",
+      "title_en": "Who started the fire? Inside Europe's arson intelligence gap",
+      "summary": "اروپا سیستم های پیشرفته ای برای تشخیص آتش سوزی و هماهنگی واکنش اضطراری ساخته است. با این حال، هیچ تصویر مشترکی از اینکه چه کسی یا چرا آتش سوزی عمدی را آغاز می کند، وجود ندارد، زیرا آتش سوزی همچنان یک موضوع ملی پراکنده است.",
+      "summary_fa": "اروپا سیستم های پیشرفته ای برای تشخیص آتش سوزی و هماهنگی واکنش اضطراری ساخته است. با این حال، هیچ تصویر مشترکی از اینکه چه کسی یا چرا آتش سوزی عمدی را آغاز می کند، وجود ندارد، زیرا آتش سوزی همچنان یک موضوع ملی پراکنده است.",
+      "summary_en": "Europe has built advanced systems to detect wildfires and coordinate emergency response. Still, there is no common picture of who starts deliberate fires or why, as arson remains a fragmented national matter.",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/who-started-the-fire-inside-europes-arson-intelligence-gap",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:10:25 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "3b6bdb818df34f336653c2ede095e32e",
+      "title": "اسپانیا برای ستاره دوم سکه ضرب می کند: قطعه ای که قهرمان جام جهانی 2026 را تاج می اندازد",
+      "title_fa": "اسپانیا برای ستاره دوم سکه ضرب می کند: قطعه ای که قهرمان جام جهانی 2026 را تاج می اندازد",
+      "title_en": "Spain mints coin for second star: the piece that crowns 2026 World Cup champions",
+      "summary": "ضرابخانه سلطنتی اسپانیا در چارچوب برنامه رسمی سکه شناسی جام جهانی 2026، یک سکه نقره 5 یورویی به افتخار عنوان قهرمانی جهان در 19 جولای در نیوجرسی منتشر خواهد کرد.",
+      "summary_fa": "ضرابخانه سلطنتی اسپانیا در چارچوب برنامه رسمی سکه شناسی جام جهانی 2026، یک سکه نقره 5 یورویی به افتخار عنوان قهرمانی جهان در 19 جولای در نیوجرسی منتشر خواهد کرد.",
+      "summary_en": "Spain's Royal Mint will issue a 5‑euro silver coin honouring the world title won on 19 July in New Jersey, within the official numismatic programme for the 2026 World Cup.",
+      "link": "http://www.euronews.com/culture/2026/07/29/spain-mints-coin-for-second-star-the-piece-that-crowns-2026-world-cup-champions",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:08:19 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef155018f41bff3c66ea87cd4aab4770",
+      "title": "Nobu هتل، رستوران و اقامتگاه های جدیدی را در منطقه Algarve پرتغال راه اندازی می کند",
+      "title_fa": "Nobu هتل، رستوران و اقامتگاه های جدیدی را در منطقه Algarve پرتغال راه اندازی می کند",
+      "title_en": "Nobu to launch new hotel, restaurant and residences in Portugal’s Algarve region",
+      "summary": "با دومین مقصد خود در پرتغال، برند مهمان نوازی Nobu یک هتل، رستوران و پیشنهادات مسکونی جدید را در استراحتگاه Monte Rei در منطقه شرقی Algarve معرفی خواهد کرد. انتظار می رود اولین مهمانان در سال 2029 پذیرایی شوند.",
+      "summary_fa": "با دومین مقصد خود در پرتغال، برند مهمان نوازی Nobu یک هتل، رستوران و پیشنهادات مسکونی جدید را در استراحتگاه Monte Rei در منطقه شرقی Algarve معرفی خواهد کرد. انتظار می رود اولین مهمانان در سال 2029 پذیرایی شوند.",
+      "summary_en": "With its second destination in Portugal, the Nobu hospitality brand will introduce a new hotel, restaurant and residential offerings at the Monte Rei resort in the eastern Algarve region. The first guests are expected to be welcomed in 2029.",
+      "link": "http://www.euronews.com/travel/2026/07/29/nobu-to-launch-new-hotel-restaurant-and-residences-in-portugals-algarve-region",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:02:13 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e8151d384eef07957bc0a7b4e95c8e5d",
+      "title": "عراق در بحبوحه بحران هرمز به تامین روزانه یک میلیون بشکه نفت ترکیه چشم دوخته است",
+      "title_fa": "عراق در بحبوحه بحران هرمز به تامین روزانه یک میلیون بشکه نفت ترکیه چشم دوخته است",
+      "title_en": "Iraq eyes supplying Turkey with 1 million oil barrels a day amid Hormuz crisis",
+      "summary": "علی زیدی، نخست وزیر عراق برای اولین بار از آنکارا برای گفتگو با اردوغان از زمان روی کار آمدن خود دیدار کرد و پیشنهاد داد روزانه یک میلیون بشکه نفت به ترکیه عرضه کند زیرا آنکارا به دنبال کاهش وابستگی خود به مسیرهای مختل شده خلیج فارس است.",
+      "summary_fa": "علی زیدی، نخست وزیر عراق برای اولین بار از آنکارا برای گفتگو با اردوغان از زمان روی کار آمدن خود دیدار کرد و پیشنهاد داد روزانه یک میلیون بشکه نفت به ترکیه عرضه کند زیرا آنکارا به دنبال کاهش وابستگی خود به مسیرهای مختل شده خلیج فارس است.",
+      "summary_en": "Iraqi Prime Minister Ali Zeydi visited Ankara for his first talks with Erdoğan since taking office, offering to supply Turkey with 1 million barrels of oil per day as Ankara seeks to reduce its dependence on disrupted Gulf routes.",
+      "link": "http://www.euronews.com/2026/07/29/iraq-eyes-supplying-turkey-with-1-million-oil-barrels-a-day-amid-hormuz-crisis",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 13:01:24 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9b4bf494d5f490b828104c7f64ed74f0",
+      "title": "بی‌ام‌و قصد دارد حدود 8000 شغل را با صرفه‌جویی در هزینه‌ها کاهش دهد",
+      "title_fa": "بی‌ام‌و قصد دارد حدود 8000 شغل را با صرفه‌جویی در هزینه‌ها کاهش دهد",
+      "title_en": "BMW plans to cut around 8,000 jobs in major cost-saving drive",
+      "summary": "بر اساس گزارش رسانه ها، این خودروساز آلمانی با برنامه اخراج داوطلبانه که نقش های اداری و توسعه را هدف قرار می دهد، موافقت کرده است، در حالی که اخراج اجباری و کاهش مشاغل تولیدی را رد می کند.",
+      "summary_fa": "بر اساس گزارش رسانه ها، این خودروساز آلمانی با برنامه اخراج داوطلبانه که نقش های اداری و توسعه را هدف قرار می دهد، موافقت کرده است، در حالی که اخراج اجباری و کاهش مشاغل تولیدی را رد می کند.",
+      "summary_en": "The German carmaker has agreed a voluntary redundancy programme targeting administrative and development roles, while ruling out compulsory redundancies and cuts to production jobs, according to media reports.",
+      "link": "http://www.euronews.com/business/2026/07/29/bmw-plans-to-cut-around-8000-jobs-in-major-cost-saving-drive",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:57:57 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b7f34a28684f99d1127886799aaedfde",
+      "title": "ساکنان ناواس دل ری پس از تخلیه آتش سوزی در جنگل های اسپانیا بازگشتند",
+      "title_fa": "ساکنان ناواس دل ری پس از تخلیه آتش سوزی در جنگل های اسپانیا بازگشتند",
+      "title_en": "Navas del Rey residents return after Spain wildfire evacuation",
+      "summary": "ساکنان پس از آتش‌سوزی‌های اسپانیا به ناواس دل ری بازگشتند و با یافتن خانه‌های سوخته و باغ‌های سوخته در حالی که آتش‌نشانان به مبارزه با آتش‌های اطراف ادامه دادند.",
+      "summary_fa": "ساکنان پس از آتش‌سوزی‌های اسپانیا به ناواس دل ری بازگشتند و با یافتن خانه‌های سوخته و باغ‌های سوخته در حالی که آتش‌نشانان به مبارزه با آتش‌های اطراف ادامه دادند.",
+      "summary_en": "Residents returned to Navas del Rey after Spain's wildfires, finding burned homes and scorched gardens as firefighters continued battling nearby blazes.",
+      "link": "http://www.euronews.com/video/2026/07/29/navas-del-rey-residents-return-after-spain-wildfire-evacuation",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:07:54 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4ae9ff317fd52595cbd9820a9f04fdd6",
+      "title": "دی‌جی کاوینسکی که به خاطر آهنگ «نیت‌کال» شناخته می‌شود، در خانه‌اش در پاریس جسد پیدا شد",
+      "title_fa": "دی‌جی کاوینسکی که به خاطر آهنگ «نیت‌کال» شناخته می‌شود، در خانه‌اش در پاریس جسد پیدا شد",
+      "title_en": "DJ Kavinsky, known for his track 'Nightcall', found dead at his Paris home",
+      "summary": "یکی از چهره‌های کلیدی صحنه خانه لمسی فرانسوی، کاوینسکی آهنگ «تنگ شب» را نوشت، آهنگی که با فیلم «درایو» معروف شد و در مراسم اختتامیه المپیک پاریس 2024 در کنار آنجل و فینیکس اجرا شد.",
+      "summary_fa": "یکی از چهره‌های کلیدی صحنه خانه لمسی فرانسوی، کاوینسکی آهنگ «تنگ شب» را نوشت، آهنگی که با فیلم «درایو» معروف شد و در مراسم اختتامیه المپیک پاریس 2024 در کنار آنجل و فینیکس اجرا شد.",
+      "summary_en": "A key figure of the French touch house scene, Kavinsky wrote \"Nightcall\", the track made famous by the film 'Drive', performed at the Paris 2024 Olympic closing ceremony alongside Angèle and Phoenix.",
+      "link": "http://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:04:07 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "3f9d524e3b47947143302e7435442c6c",
+      "title": "سود پورشه علیرغم رکود چین و کاهش فروش، 34 درصد افزایش یافت",
+      "title_fa": "سود پورشه علیرغم رکود چین و کاهش فروش، 34 درصد افزایش یافت",
+      "title_en": "Porsche profit jumps 34% despite China slump and falling sales",
+      "summary": "با وجود کاهش 32 درصدی تحویل در چین و برنامه‌ریزی برای حذف هزاران شغل تا سال 2035، پورشه دستورالعمل تمام سال خود را حفظ کرد زیرا کاهش هزینه‌ها و فروش قوی‌تر 911 باعث افزایش سود شد.",
+      "summary_fa": "با وجود کاهش 32 درصدی تحویل در چین و برنامه‌ریزی برای حذف هزاران شغل تا سال 2035، پورشه دستورالعمل تمام سال خود را حفظ کرد زیرا کاهش هزینه‌ها و فروش قوی‌تر 911 باعث افزایش سود شد.",
+      "summary_en": "Porsche maintained its full-year guidance as cost-cutting and stronger 911 sales lifted profit, despite a 32% fall in Chinese deliveries and plans to eliminate thousands of jobs by 2035.",
+      "link": "http://www.euronews.com/business/2026/07/29/porsche-profit-jumps-34-despite-china-slump-and-falling-sales",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:01:45 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "4ab81d1731d1b1935c712f37505500a5",
+      "title": "سوریه مظنونان حملات ساحلی مارس را تعقیب می کند و هسته های داعش را در حلب متلاشی می کند",
+      "title_fa": "سوریه مظنونان حملات ساحلی مارس را تعقیب می کند و هسته های داعش را در حلب متلاشی می کند",
+      "title_en": "Syria hunts down suspects in March coastal attacks, dismantles IS cells in Aleppo",
+      "summary": "نیروهای امنیتی یک فرمانده شبه نظامی را که متهم به هدایت یکی از واحدهای حمله مارس 2025 به کمینی در نزدیکی جبله بود فریب دادند و او و مظنون دوم را در تبادل آتش کشتند. هسته های داعش به طور جداگانه در حلب و الباب برچیده شدند.",
+      "summary_fa": "نیروهای امنیتی یک فرمانده شبه نظامی را که متهم به هدایت یکی از واحدهای حمله مارس 2025 به کمینی در نزدیکی جبله بود فریب دادند و او و مظنون دوم را در تبادل آتش کشتند. هسته های داعش به طور جداگانه در حلب و الباب برچیده شدند.",
+      "summary_en": "Security forces lured a militia commander accused of leading one of the March 2025 assault units into an ambush near Jableh, killing him and a second suspect in an exchange of fire. IS cells were separately dismantled in Aleppo and al-Bab.",
+      "link": "http://www.euronews.com/2026/07/29/syria-hunts-down-suspects-in-march-coastal-attacks-dismantles-is-cells-in-aleppo",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:01:43 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79d4816c235ea67abf0e8f7a1a2bf3ae",
+      "title": "آخرین بولتن اخبار | 29 ژوئیه 2026 - ظهر",
+      "title_fa": "آخرین بولتن اخبار | 29 ژوئیه 2026 - ظهر",
+      "title_en": "Latest news bulletin | July 29th, 2026 – Midday",
+      "summary": "در 29 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 29 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 29th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 12:00:16 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "618cb3be56729e02633d7bc22e442d51",
+      "title": "درآمد Procter & Gamble برآوردها را از دست می دهد زیرا حجم آن بدون تغییر باقی می ماند",
+      "title_fa": "درآمد Procter & Gamble برآوردها را از دست می دهد زیرا حجم آن بدون تغییر باقی می ماند",
+      "title_en": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+      "summary": "Procter & Gamble درآمد سه ماهه هر سهم را گزارش کرد که بالاتر از برآوردهای وال استریت بود، اما درآمد آن کمتر از انتظارات بود.",
+      "summary_fa": "Procter & Gamble درآمد سه ماهه هر سهم را گزارش کرد که بالاتر از برآوردهای وال استریت بود، اما درآمد آن کمتر از انتظارات بود.",
+      "summary_en": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+      "link": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 11:35:27 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a34290506cabad0c2336e501f14208d0",
+      "title": "اگر کشورها از طرح بحث برانگیز حمایت کنند، فیفا 40 میلیون دلار پیشنهاد می دهد",
+      "title_fa": "اگر کشورها از طرح بحث برانگیز حمایت کنند، فیفا 40 میلیون دلار پیشنهاد می دهد",
+      "title_en": "Fifa offers $40m if nations back controversial plan",
+      "summary": "فیفا مهلتی را تا 19 سپتامبر برای انجمن های عضو تعیین کرده است تا به پول نقد دسترسی داشته باشند، زیرا اتحادیه فوتبال انگلیس پیش از نشست اضطراری یوفا، طرح بودجه هیئت حاکمه جهان را تایید نمی کند.",
+      "summary_fa": "فیفا مهلتی را تا 19 سپتامبر برای انجمن های عضو تعیین کرده است تا به پول نقد دسترسی داشته باشند، زیرا اتحادیه فوتبال انگلیس پیش از نشست اضطراری یوفا، طرح بودجه هیئت حاکمه جهان را تایید نمی کند.",
+      "summary_en": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan ahead of emergency Uefa meeting.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 11:33:45 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8597/live/49e2a200-8b2b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a38854c122f260bcb7537c0b0badf0d",
+      "title": "پس از حمله آمریکا و عربستان سعودی به شبه نظامیان تحت حمایت ایران در عراق، قیمت نفت افزایش یافت",
+      "title_fa": "پس از حمله آمریکا و عربستان سعودی به شبه نظامیان تحت حمایت ایران در عراق، قیمت نفت افزایش یافت",
+      "title_en": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
+      "summary": "قراردادهای یک ماهه نفت خام وست تگزاس اینترمدیت و برنت روز چهارشنبه به دلیل خطر درگیری بیشتر افزایش یافت.",
+      "summary_fa": "قراردادهای یک ماهه نفت خام وست تگزاس اینترمدیت و برنت روز چهارشنبه به دلیل خطر درگیری بیشتر افزایش یافت.",
+      "summary_en": "West Texas Intermediate and Brent crude’s front-month contracts climbed on Wednesday on the risk of more fighting.",
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 11:32:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-35033958",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1b83061d29cff5b1e6a9579de1571368",
+      "title": "ژاپن برای دستیابی به افرادی که پس از زلزله بزرگ گرفتار شده‌اند، «مسابقه با زمان» می‌رود",
+      "title_fa": "ژاپن برای دستیابی به افرادی که پس از زلزله بزرگ گرفتار شده‌اند، «مسابقه با زمان» می‌رود",
+      "title_en": "Japan ‘Races Against Time’ to Reach People Trapped After Large Quake",
+      "summary": "پرسنل امداد و نجات در تلاش هستند تا افراد گرفتار در ساختمان های فروریخته پس از زمین لرزه 6.8 ریشتری روز سه شنبه کوماموتو را رها کنند.",
+      "summary_fa": "پرسنل امداد و نجات در تلاش هستند تا افراد گرفتار در ساختمان های فروریخته پس از زمین لرزه 6.8 ریشتری روز سه شنبه کوماموتو را رها کنند.",
+      "summary_en": "Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday.",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 11:27:40 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29int-japan-quake-rescue-01-thlc/29int-japan-quake-rescue-01-thlc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "b0c1b5f3d15a450c6ffbc8b82bc60b07",
+      "title": "گلن هانسارد ترانه سرای برنده اسکار در تصادف کشته شد",
+      "title_fa": "گلن هانسارد ترانه سرای برنده اسکار در تصادف کشته شد",
+      "title_en": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "summary": "هانسار که 56 ساله بود، در سال 2007 جایزه اسکار بهترین آهنگ را برای فیلم موزیکال کم‌هزینه یک بار دریافت کرد.",
+      "summary_fa": "هانسار که 56 ساله بود، در سال 2007 جایزه اسکار بهترین آهنگ را برای فیلم موزیکال کم‌هزینه یک بار دریافت کرد.",
+      "summary_en": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 11:27:03 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e52b/live/72b577f0-8b3c-11f1-b2d7-b96c6bc9d7f5.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7f1d614f4f58272f40884cf33bcecd90",
+      "title": "سهام تراشه ها بیش از 1 تریلیون دلار سقوط کرد زیرا فروش به شرکت هایی که رونق هوش مصنوعی را تقویت می کنند، رسید",
+      "title_fa": "سهام تراشه ها بیش از 1 تریلیون دلار سقوط کرد زیرا فروش به شرکت هایی که رونق هوش مصنوعی را تقویت می کنند، رسید",
+      "title_en": "Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom",
+      "summary": "Nvidia، SK Hynix و Samsung Electronics از زمان بسته شدن بازار در روز جمعه پیشتاز فروش بوده اند.",
+      "summary_fa": "Nvidia، SK Hynix و Samsung Electronics از زمان بسته شدن بازار در روز جمعه پیشتاز فروش بوده اند.",
+      "summary_en": "Nvidia, SK Hynix and Samsung Electronics have led the selloff since market close on Friday.",
+      "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 11:25:02 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c64d329888c2ba673043c156647b949a",
+      "title": "پدرو سانچز می گوید 12 ساعت آینده در نبرد برای مهار آتش سوزی ها \"تعیین کننده\" خواهد بود - اروپا زنده",
+      "title_fa": "پدرو سانچز می گوید 12 ساعت آینده در نبرد برای مهار آتش سوزی ها \"تعیین کننده\" خواهد بود - اروپا زنده",
+      "title_en": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
+      "summary": "مقامات نگران هستند که پیشرفت در مهار آتش سوزی در مناطق ژیروند و مادرید به دلیل دمای پایین 40 درجه کاهش یابد. تیم مدیریت بحران اتحادیه اروپا منتظر هفته های سختی در آینده است، از ترس شیوع بیشتر آتش سوزی در ایتالیا و یونان در تابستان. برای همه جامعه ما و در واقع، گاهی اوقات با تمرکز بر آن، نمی توانند آتش را خاموش کنند. ادامه مطلب...",
+      "summary_fa": "مقامات نگران هستند که پیشرفت در مهار آتش سوزی در مناطق ژیروند و مادرید به دلیل دمای پایین 40 درجه کاهش یابد. تیم مدیریت بحران اتحادیه اروپا منتظر هفته های سختی در آینده است، از ترس شیوع بیشتر آتش سوزی در ایتالیا و یونان در تابستان. برای همه جامعه ما و در واقع، گاهی اوقات با تمرکز بر آن، نمی توانند آتش را خاموش کنند. ادامه مطلب...",
+      "summary_en": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40sin BrusselsThe European Union’s crisis-management team is expecting difficult weeks ahead, fearing a further outbreak of wildfires in Italy and Greece as the summer goes on.“A firefighter will focus on protecting people. They will focus on protecting houses, protecting a business, a company, because this is something that matters for all our society. And indeed, sometimes by focusing on that, they cannot extinguish fire, [as] they would do it if it would be just forest. So this is new, this is worrying. And of course also, this means that we need to adapt our methods of fighting the fires.” Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 11:23:57 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/21dd9143df532d0540de0cde6b32da2ceef15a3e/153_0_3630_2904/master/3630.jpg?width=140&quality=85&auto=format&fit=max&s=c057c36170165460fb4f91ea8906d54b",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "08f517b01a56d138b131ef12a04361ec",
+      "title": "این شهرها پذیراترین شهرها برای گردشگران در اروپا هستند",
+      "title_fa": "این شهرها پذیراترین شهرها برای گردشگران در اروپا هستند",
+      "title_en": "These are the most welcoming cities for tourists in Europe",
+      "summary": "در رده‌بندی جهانی، 9 شهر در این قاره در بین 20 شهر برتر قرار گرفتند و این یک دولت-شهر آسیایی بود که مقام اول را به خود اختصاص داد.",
+      "summary_fa": "در رده‌بندی جهانی، 9 شهر در این قاره در بین 20 شهر برتر قرار گرفتند و این یک دولت-شهر آسیایی بود که مقام اول را به خود اختصاص داد.",
+      "summary_en": "In the global ranking, nine cities on the continent made the top 20 and it was an Asian city-state which claimed the top spot.",
+      "link": "http://www.euronews.com/travel/2026/07/29/these-are-the-most-welcoming-cities-for-tourists-in-europe",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 11:23:17 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9530fe403b37eed51daa9e630b85e92c",
+      "title": "فشار سود برای فناوری در راه است. این مدیر در عوض روی این سهام غیر جذاب شرط بندی می کند.",
+      "title_fa": "فشار سود برای فناوری در راه است. این مدیر در عوض روی این سهام غیر جذاب شرط بندی می کند.",
+      "title_en": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
+      "summary": "رابرت آلمیدا، استراتژیست ارشد سرمایه‌گذاری جهانی مدیریت سرمایه‌گذاری MFS، می‌گوید سرمایه‌گذاران بیش از حد بر روی فدرال رزرو تمرکز می‌کنند، در حالی که توجه آنها باید به یک تغییر عمده در چرخه سرمایه باشد.",
+      "summary_fa": "رابرت آلمیدا، استراتژیست ارشد سرمایه‌گذاری جهانی مدیریت سرمایه‌گذاری MFS، می‌گوید سرمایه‌گذاران بیش از حد بر روی فدرال رزرو تمرکز می‌کنند، در حالی که توجه آنها باید به یک تغییر عمده در چرخه سرمایه باشد.",
+      "summary_en": "MFS Investment Management’s chief global investment strategist, Robert Almeida, says investors are focusing too much on the Federal Reserve, when their attention should be on a major shift in the capital cycle.",
+      "link": "https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 11:20:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-89518427",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9fa5e83bfb9942e15949ac02ee2ef65a",
+      "title": "به روز رسانی زنده جنگ ایران: حملات هوایی ایالات متحده و عربستان، کشورهای بیشتری را وارد جنگ می کند",
+      "title_fa": "به روز رسانی زنده جنگ ایران: حملات هوایی ایالات متحده و عربستان، کشورهای بیشتری را وارد جنگ می کند",
+      "title_en": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
+      "summary": "قیمت جهانی نفت روز چهارشنبه پس از اینکه آمریکا و عربستان سعودی اعلام کردند حملات هوایی مشترکی را علیه نیروهای نیابتی ایران در عراق انجام داده اند، افزایش یافت.",
+      "summary_fa": "قیمت جهانی نفت روز چهارشنبه پس از اینکه آمریکا و عربستان سعودی اعلام کردند حملات هوایی مشترکی را علیه نیروهای نیابتی ایران در عراق انجام داده اند، افزایش یافت.",
+      "summary_en": "Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 11:18:29 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-prom-245-zwpg/29mideast-prom-245-zwpg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "38caba69c7f81f5e398e8adfa5eb0aa4",
+      "title": "در داخل شبکه مالی که سبد سرمایه گذاری ۸۵۸ میلیون دلاری ترامپ را مدیریت می کند",
+      "title_fa": "در داخل شبکه مالی که سبد سرمایه گذاری ۸۵۸ میلیون دلاری ترامپ را مدیریت می کند",
+      "title_en": "Inside the financial network managing Trump's $858 million investment portfolio",
+      "summary": "تحلیل CNBC نشان داد JPMorgan، Schwab، UBS و Stephens Inc. از جمله شرکت هایی هستند که ثروت ترامپ را در حساب هایی به ارزش حداقل 858 میلیون دلار مدیریت کرده اند.",
+      "summary_fa": "تحلیل CNBC نشان داد JPMorgan، Schwab، UBS و Stephens Inc. از جمله شرکت هایی هستند که ثروت ترامپ را در حساب هایی به ارزش حداقل 858 میلیون دلار مدیریت کرده اند.",
+      "summary_en": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million, a CNBC analysis found.",
+      "link": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 11:17:45 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4506331f0b5d8738646d763cda4207ea",
+      "title": "به نظر می‌رسد هیچ چیز این بازار را متزلزل نمی‌کند. به گفته این استراتژیست‌های صعودی، چرا وقت آن است که همه چیز را روی سهام انجام دهیم.",
+      "title_fa": "به نظر می‌رسد هیچ چیز این بازار را متزلزل نمی‌کند. به گفته این استراتژیست‌های صعودی، چرا وقت آن است که همه چیز را روی سهام انجام دهیم.",
+      "title_en": "‘Nothing seems to shake this market.’ Why it’s time to go all-in on stocks, according to these bullish strategists.",
+      "summary": "استراتژیست های این بانک به رهبری مکس کتنر روی سهام شرط بندی می کنند زیرا علیرغم نوسانات ژئوپلیتیکی و عقب نشینی در بخش فناوری، انعطاف پذیر باقی مانده اند.",
+      "summary_fa": "استراتژیست های این بانک به رهبری مکس کتنر روی سهام شرط بندی می کنند زیرا علیرغم نوسانات ژئوپلیتیکی و عقب نشینی در بخش فناوری، انعطاف پذیر باقی مانده اند.",
+      "summary_en": "Strategists at the bank, led by Max Kettner, are betting on equities as they have remained resilient despite geopolitical volatility and pullbacks in the technology sector.",
+      "link": "https://www.marketwatch.com/story/oil-is-up-40-and-tech-is-tumbling-why-its-time-to-go-all-in-on-stocks-according-to-these-bullish-strategists-41d812f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 11:17:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-41552747",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
     {
       "id": "e09ae7af9aa4a7f8fc0754528b1f0c7e",
       "title": "آتش سوزی بزرگی در جزیره پاروس یونان با تخلیه روستاها رخ داد",
@@ -17,6 +584,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d101ec9569e64d8d0744ccfa6b1abf7",
+      "title": "برنهام دری را برای افزایش مالیات به منظور پرداخت هزینه تعمیرات اساسی مراقبت اجتماعی باز می کند",
+      "title_fa": "برنهام دری را برای افزایش مالیات به منظور پرداخت هزینه تعمیرات اساسی مراقبت اجتماعی باز می کند",
+      "title_en": "Burnham opens door to tax rises to pay for social care overhaul",
+      "summary": "نخست‌وزیر می‌گوید که می‌خواهد از مردمی که مجبور به فروش خانه‌هایشان برای پرداخت هزینه مراقبت خود نشوند، جلوگیری کند",
+      "summary_fa": "نخست‌وزیر می‌گوید که می‌خواهد از مردمی که مجبور به فروش خانه‌هایشان برای پرداخت هزینه مراقبت خود نشوند، جلوگیری کند",
+      "summary_en": "Prime minister says he wants to avoid people having to sell their homes to pay for care",
+      "link": "https://www.ft.com/content/ed644365-4902-4f62-b57a-089ef243eef1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 11:14:41 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc6c501a-c7e6-4ff7-af3f-bb40a621d094.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -45,6 +633,27 @@
       }
     },
     {
+      "id": "ce68b28154efeda34dba30feb62c4160",
+      "title": "بیش از 100 پس لرزه ژاپن را پس از زلزله مرگباری که 13 کشته برجای گذاشت، روی داد",
+      "title_fa": "بیش از 100 پس لرزه ژاپن را پس از زلزله مرگباری که 13 کشته برجای گذاشت، روی داد",
+      "title_en": "More than 100 aftershocks hit Japan after deadly quake that killed 13",
+      "summary": "مقامات می گویند که با توجه به پس لرزه های زلزله که احتمالاً به بزرگی 7 ریشتر می رسد از مردم خواسته می شود هوشیار باشند.",
+      "summary_fa": "مقامات می گویند که با توجه به پس لرزه های زلزله که احتمالاً به بزرگی 7 ریشتر می رسد از مردم خواسته می شود هوشیار باشند.",
+      "summary_en": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 11:10:54 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe7c/live/701f52d0-8b33-11f1-b170-2de1c3aec73b.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "21c238138798aa650d1c25a730efde90",
       "title": "اتحادیه اروپا از شرکت‌ها می‌خواهد که دسترسی سریع‌تری به نوآوری از آزمایشگاه‌های تحقیقاتی داشته باشند",
       "title_fa": "اتحادیه اروپا از شرکت‌ها می‌خواهد که دسترسی سریع‌تری به نوآوری از آزمایشگاه‌های تحقیقاتی داشته باشند",
@@ -63,6 +672,216 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "2e57e661952181b99207591ee632f504",
+      "title": "اتحادیه اروپا هشدار داد که در مورد سرمایه گذاری تجاری 20 میلیارد دلاری فیفا تحقیق خواهد کرد",
+      "title_fa": "اتحادیه اروپا هشدار داد که در مورد سرمایه گذاری تجاری 20 میلیارد دلاری فیفا تحقیق خواهد کرد",
+      "title_en": "EU warns it will investigate Fifa’s $20bn commercial venture",
+      "summary": "بلوک به موج خشم نسبت به طرح فیفا برای جمع آوری میلیاردها دلار از سرمایه گذاران خارجی می پیوندد",
+      "summary_fa": "بلوک به موج خشم نسبت به طرح فیفا برای جمع آوری میلیاردها دلار از سرمایه گذاران خارجی می پیوندد",
+      "summary_en": "Bloc joins wave of indignation at Fifa’s plan to raise billions from outside investors",
+      "link": "https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 11:04:25 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93a4bf31-af2d-4866-aabe-40476ed8be17.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c974f14e2ca56eabaae012533c9c903",
+      "title": "\"فکر می کردم بمیرم\": بازماندگان شوک و وحشت زلزله قدرتمند ژاپن را توصیف می کنند",
+      "title_fa": "\"فکر می کردم بمیرم\": بازماندگان شوک و وحشت زلزله قدرتمند ژاپن را توصیف می کنند",
+      "title_en": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
+      "summary": "عملیات نجات در پی زمین لرزه 6.8 ریشتری ادامه دارد و بازماندگان با این شوک دست و پنجه نرم می کنند.",
+      "summary_fa": "عملیات نجات در پی زمین لرزه 6.8 ریشتری ادامه دارد و بازماندگان با این شوک دست و پنجه نرم می کنند.",
+      "summary_en": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 11:01:20 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3661/live/a86f3030-8b36-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "5b8c343ae6af4d77ed67902937d86c08",
+      "title": "شکستن واترمارک SynthID گوگل سخت است، اما اطلاعات غلط هوش مصنوعی را حل نمی کند",
+      "title_fa": "شکستن واترمارک SynthID گوگل سخت است، اما اطلاعات غلط هوش مصنوعی را حل نمی کند",
+      "title_en": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "summary": "تصمیم گیری در مورد واقعی بودن اینترنت در آینده آسان نخواهد بود.",
+      "summary_fa": "تصمیم گیری در مورد واقعی بودن اینترنت در آینده آسان نخواهد بود.",
+      "summary_en": "Deciding what's real on the Internet won't be easy in the future.",
+      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 11:00:39 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "acfe589ea26da2f11a9d8b283b9bbbfe",
+      "title": "نایک زمانی پادشاه کفش های کتانی چین بود. چرا فروش آن 30 درصد کاهش یافته است",
+      "title_fa": "نایک زمانی پادشاه کفش های کتانی چین بود. چرا فروش آن 30 درصد کاهش یافته است",
+      "title_en": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
+      "summary": "چین زمانی سریع‌ترین منطقه در حال رشد نایک بود، اما این شرکت ارتباط بین مصرف‌کنندگان جوان را از دست داد و سهم بازار را به برندهای کوچک‌تر داخلی واگذار کرد.",
+      "summary_fa": "چین زمانی سریع‌ترین منطقه در حال رشد نایک بود، اما این شرکت ارتباط بین مصرف‌کنندگان جوان را از دست داد و سهم بازار را به برندهای کوچک‌تر داخلی واگذار کرد.",
+      "summary_en": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
+      "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 11:00:01 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "6fa38dabe58f03ce7bf4a6ea56c16d2f",
+      "title": "شیوع سیکلوسپورا که به تاکو بل گره خورده است توجهات را از درآمدهای یام برندز می‌دزدد.",
+      "title_fa": "شیوع سیکلوسپورا که به تاکو بل گره خورده است توجهات را از درآمدهای یام برندز می‌دزدد.",
+      "title_en": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
+      "summary": "وال استریت یک سه ماهه دوم قوی را برای یام برندز پیش‌بینی می‌کند، اما تمرکز سرمایه‌گذاران روی به‌روزرسانی‌های مربوط به شیوع سیکلوسپورا مرتبط با تاکو بل خواهد بود.",
+      "summary_fa": "وال استریت یک سه ماهه دوم قوی را برای یام برندز پیش‌بینی می‌کند، اما تمرکز سرمایه‌گذاران روی به‌روزرسانی‌های مربوط به شیوع سیکلوسپورا مرتبط با تاکو بل خواهد بود.",
+      "summary_en": "Wall Street is projecting a strong second quarter for Yum Brands, but investors' focus will be on updates related to the cyclospora outbreak tied to Taco Bell.",
+      "link": "https://www.cnbc.com/2026/07/29/cyclospora-outbreak-taco-bell-yum-brands-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 11:00:01 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d5042cc00e56f980c3d3267656f534f1",
+      "title": "افزایش ارزش دلار مهم است - اما هنوز به وارش فدرال رزرو کمک نمی کند که در مبارزه با تورم پیروز شود.",
+      "title_fa": "افزایش ارزش دلار مهم است - اما هنوز به وارش فدرال رزرو کمک نمی کند که در مبارزه با تورم پیروز شود.",
+      "title_en": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
+      "summary": "یک دلار قوی برای مبارزه با تورم بسیار کمتر از آنچه که انتظار می رود عمل می کند.",
+      "summary_fa": "یک دلار قوی برای مبارزه با تورم بسیار کمتر از آنچه که انتظار می رود عمل می کند.",
+      "summary_en": "A strong dollar is doing far less for the fight against inflation than might be expected.",
+      "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 11:00:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-28654226",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6195c287fbe137624dde0075fe85cb8b",
+      "title": "در دسترس بودن مک مینی: انتظار طولانی و قیمت های بالاتر",
+      "title_fa": "در دسترس بودن مک مینی: انتظار طولانی و قیمت های بالاتر",
+      "title_en": "Mac Mini Availability: Long Waits and Higher Prices",
+      "summary": "به لطف افزایش پردازش هوش مصنوعی محلی و کمبود مداوم حافظه، خرید Mac Mini فوق‌العاده دشوار است.",
+      "summary_fa": "به لطف افزایش پردازش هوش مصنوعی محلی و کمبود مداوم حافظه، خرید Mac Mini فوق‌العاده دشوار است.",
+      "summary_en": "Thanks to the surge in local AI processing and the ongoing memory shortage, it’s incredibly difficult to buy a Mac Mini.",
+      "link": "https://www.wired.com/story/mac-mini-availability/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bb7c538a9a0c3e3931dc492b5fad33fa",
+      "title": "روسیه پاول دوروف موسس تلگرام را به کمک به تروریسم متهم کرد",
+      "title_fa": "روسیه پاول دوروف موسس تلگرام را به کمک به تروریسم متهم کرد",
+      "title_en": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+      "summary": "اتهامات علیه پاول دوروف منعکس کننده دعوای مداوم بر سر یکی از محبوب ترین برنامه های پیام رسانی و رسانه ای در کشور است.",
+      "summary_fa": "اتهامات علیه پاول دوروف منعکس کننده دعوای مداوم بر سر یکی از محبوب ترین برنامه های پیام رسانی و رسانه ای در کشور است.",
+      "summary_en": "The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.",
+      "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 10:55:43 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "94af9e347f6fed1628928d66a3c0dc9e",
+      "title": "زوج متاهل اخراج شده توسط ICE در گواتمالا کشته شدند",
+      "title_fa": "زوج متاهل اخراج شده توسط ICE در گواتمالا کشته شدند",
+      "title_en": "Married couple deported by ICE killed in Guatemala",
+      "summary": "نیکسون جیووانی پاز، که سال گذشته توسط ICE اخراج شد، در کنار همسرش در گواتمالا بسته شد و به ضرب گلوله کشته شد.",
+      "summary_fa": "نیکسون جیووانی پاز، که سال گذشته توسط ICE اخراج شد، در کنار همسرش در گواتمالا بسته شد و به ضرب گلوله کشته شد.",
+      "summary_en": "Nixon Giovanni Paz, deported by ICE last year was bound and shot dead alongside his wife in Guatemala.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 10:55:38 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b8f8f51ccfe9562e38cf092fcbea4b72",
+      "title": "نه، احتمالاً نباید آیفون خود را اجاره کنید",
+      "title_fa": "نه، احتمالاً نباید آیفون خود را اجاره کنید",
+      "title_en": "No, You Probably Shouldn’t Lease Your iPhone",
+      "summary": "با ارتقای اپل، این شرکت پرداخت اقساط ماهانه محصولات خود را آسان‌تر می‌کند. منتقدان آن را «مالی‌سازی بحران استطاعت» می‌نامند.",
+      "summary_fa": "با ارتقای اپل، این شرکت پرداخت اقساط ماهانه محصولات خود را آسان‌تر می‌کند. منتقدان آن را «مالی‌سازی بحران استطاعت» می‌نامند.",
+      "summary_en": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
+      "link": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 10:45:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -87,6 +906,174 @@
       }
     },
     {
+      "id": "373acb52176072257feb63b3146888f4",
+      "title": "آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا کند است، اما بدتر از آن ممکن است در پیش باشد",
+      "title_fa": "آتش‌سوزی‌های جنگلی در فرانسه و اسپانیا کند است، اما بدتر از آن ممکن است در پیش باشد",
+      "title_en": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
+      "summary": "آتش‌نشانان آتش‌سوزی‌های وسیعی را در هر دو کشور مهار کرده‌اند، اما باد شدید است و دما در حال افزایش است. نخست وزیر اسپانیا گفت 12 ساعت آینده \"تعیین کننده\" خواهد بود.",
+      "summary_fa": "آتش‌نشانان آتش‌سوزی‌های وسیعی را در هر دو کشور مهار کرده‌اند، اما باد شدید است و دما در حال افزایش است. نخست وزیر اسپانیا گفت 12 ساعت آینده \"تعیین کننده\" خواهد بود.",
+      "summary_en": "Firefighters have contained vast fires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”",
+      "link": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 10:37:06 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29int-europe-fires-01-vbfw/29int-europe-fires-01-vbfw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "0d3352f27df9aed5b5952f2778a368e7",
+      "title": "کاوینسکی دی جی و نوازنده الکتروپاپ فرانسوی در سن 50 سالگی درگذشت",
+      "title_fa": "کاوینسکی دی جی و نوازنده الکتروپاپ فرانسوی در سن 50 سالگی درگذشت",
+      "title_en": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+      "summary": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_fa": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_en": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+      "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 10:35:13 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b67/live/1718bd10-8b39-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "8ef2dd1e6d5f21e73320efcf197ad091",
+      "title": "وارن برنامه پنتاگون را برای استخدام کارگران بخش خصوصی با حقوق بالا بررسی می کند",
+      "title_fa": "وارن برنامه پنتاگون را برای استخدام کارگران بخش خصوصی با حقوق بالا بررسی می کند",
+      "title_en": "Warren probes Pentagon program to hire highly paid private sector workers",
+      "summary": "سناتور الیزابت وارن، از ماساچوست، گفت که نگران برنامه پنتاگون برای پرداخت حقوق های بالا به استخدام کنندگان وال استریت است.",
+      "summary_fa": "سناتور الیزابت وارن، از ماساچوست، گفت که نگران برنامه پنتاگون برای پرداخت حقوق های بالا به استخدام کنندگان وال استریت است.",
+      "summary_en": "Sen. Elizabeth Warren, D-Mass., said she is concerned about a Pentagon program to pay high salaries to Wall Street recruits.",
+      "link": "https://www.cnbc.com/2026/07/29/warren-probes-pentagon-program-to-hire-highly-paid-private-sector-workers.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 10:30:01 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "87cbc9e2cebceff058afdb75c2b4b080",
+      "title": "بهترین سوئیچ های اترنت: سریع، قابل اعتماد و ایمن",
+      "title_fa": "بهترین سوئیچ های اترنت: سریع، قابل اعتماد و ایمن",
+      "title_en": "Best Ethernet Switches: Fast, Reliable, and Secure",
+      "summary": "اگر روتر شما پورت‌های کوتاهی دارد، می‌توانید با یکی از بهترین سوئیچ‌های اترنت موارد بیشتری اضافه کنید. اینها بهترین انتخاب های من از آنچه آزمایش کرده ام هستند.",
+      "summary_fa": "اگر روتر شما پورت‌های کوتاهی دارد، می‌توانید با یکی از بهترین سوئیچ‌های اترنت موارد بیشتری اضافه کنید. اینها بهترین انتخاب های من از آنچه آزمایش کرده ام هستند.",
+      "summary_en": "If your router is short on ports, you can add more with one of the best Ethernet switches. These are my top picks from what I’ve tested.",
+      "link": "https://www.wired.com/story/best-ethernet-switches/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ddb9bfc0b23b9601cf992a6d0f8ac946",
+      "title": "غلط املایی بیشتر، خط تیره کمتر: نویسندگان در حال ایجاد یک «ضدفرهنگ ادبی» ضد هوش مصنوعی هستند",
+      "title_fa": "غلط املایی بیشتر، خط تیره کمتر: نویسندگان در حال ایجاد یک «ضدفرهنگ ادبی» ضد هوش مصنوعی هستند",
+      "title_en": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "summary": "رمان‌نویسان، روزنامه‌نگاران و پوسترهای قدرتمند لینکدین، روایت‌های اول شخص و ویژگی‌های خاص را در بر می‌گیرند تا با ربات‌های چت اشتباه گرفته نشوند.",
+      "summary_fa": "رمان‌نویسان، روزنامه‌نگاران و پوسترهای قدرتمند لینکدین، روایت‌های اول شخص و ویژگی‌های خاص را در بر می‌گیرند تا با ربات‌های چت اشتباه گرفته نشوند.",
+      "summary_en": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 10:30:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17b592eed75f51ea4e5dfc990636cd4d",
+      "title": "روسیه دوروف موسس تلگرام را به تسهیل تروریسم متهم کرد",
+      "title_fa": "روسیه دوروف موسس تلگرام را به تسهیل تروریسم متهم کرد",
+      "title_en": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "summary": "FSB ادعا می کند که برنامه پیام رسان که توسط پاول دوروف ایجاد شده است، نتوانسته حساب ها و کانال های مورد استفاده برای استخدام توسط سرویس مخفی اوکراین را حذف کند.",
+      "summary_fa": "FSB ادعا می کند که برنامه پیام رسان که توسط پاول دوروف ایجاد شده است، نتوانسته حساب ها و کانال های مورد استفاده برای استخدام توسط سرویس مخفی اوکراین را حذف کند.",
+      "summary_en": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 10:23:29 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aab/live/599f9370-8b2f-11f1-b2c5-873bffcd48e7.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "001db678df36c63cd34482dfb0e2ed89",
+      "title": "با کاهش شدید سود، سهام SK Hynix بار دیگر افزایش یافت",
+      "title_fa": "با کاهش شدید سود، سهام SK Hynix بار دیگر افزایش یافت",
+      "title_en": "SK Hynix shares sent sprawling once more as earnings miss steepens decline",
+      "summary": "ضعف در سهام SK Hynix را می توان به اهرم بیش از حد سرمایه گذاران خرد، ترس از رقابت چینی و ناتوانی در برآورده کردن انتظارات تهاجمی نسبت داد، اما برخی از تحلیلگران همچنان صعودی هستند.",
+      "summary_fa": "ضعف در سهام SK Hynix را می توان به اهرم بیش از حد سرمایه گذاران خرد، ترس از رقابت چینی و ناتوانی در برآورده کردن انتظارات تهاجمی نسبت داد، اما برخی از تحلیلگران همچنان صعودی هستند.",
+      "summary_en": "Weakness in SK Hynix shares can be attributed to excessive leverage by retail investors, fears of Chinese competition and a failure to live up to aggressive expectations but some analysts remain bullish.,",
+      "link": "https://www.marketwatch.com/story/sk-hynix-shares-sent-sprawling-once-more-as-earnings-miss-deepens-decline-df526e8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 10:23:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-31641838",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "57d2a5c6135765526a5918bb14673d8e",
+      "title": "FTSE 100 با درخشش شاخص «ضد فناوری» در مسیریابی تراشه های جهانی به بالاترین حد خود رسید.",
+      "title_fa": "FTSE 100 با درخشش شاخص «ضد فناوری» در مسیریابی تراشه های جهانی به بالاترین حد خود رسید.",
+      "title_en": "FTSE 100 hits all-time high as ‘anti-tech’ index shines in global chip rout",
+      "summary": "بانک‌ها و شرکت‌های نفتی به بازگشت سهام بریتانیا از فروش جنگ با ایران کمک می‌کنند",
+      "summary_fa": "بانک‌ها و شرکت‌های نفتی به بازگشت سهام بریتانیا از فروش جنگ با ایران کمک می‌کنند",
+      "summary_en": "Banks and oil companies power UK stocks’ rebound from Iran war sell-off",
+      "link": "https://www.ft.com/content/2e3048dc-e003-44be-957c-3f119bde3f48?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 10:21:56 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2c519fb6-21bf-4f04-a17a-85afbaff7286.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "28747e811d9fe3aa8f8289f18dfc6660",
       "title": "تصاویر پهپاد کوه تله کابین اتنا را بر فراز منظره آتشفشانی نشان می دهد",
       "title_fa": "تصاویر پهپاد کوه تله کابین اتنا را بر فراز منظره آتشفشانی نشان می دهد",
@@ -105,6 +1092,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "9c2b5130f761cefb3dc2fe2b4ee62e73",
+      "title": "رئیس بحران اتحادیه اروپا خواستار اقدامات شدیدتر آب و هوایی در میان آتش‌سوزی‌های فرانسه و اسپانیا شد",
+      "title_fa": "رئیس بحران اتحادیه اروپا خواستار اقدامات شدیدتر آب و هوایی در میان آتش‌سوزی‌های فرانسه و اسپانیا شد",
+      "title_en": "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+      "summary": "حاجه لهبیب خواستار تسریع برنامه های موجود و سرمایه گذاری بیشتر به دلیل تهدید موج گرمای شوم است.",
+      "summary_fa": "حاجه لهبیب خواستار تسریع برنامه های موجود و سرمایه گذاری بیشتر به دلیل تهدید موج گرمای شوم است.",
+      "summary_en": "Hadja Lahbib calls for existing plans to be accelerated and more investment as an ominous heatwave threatens.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/eu-crisis-chief-urges-tougher-climate-action-amid-france-spain-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 10:19:28 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "de645759f8295b9d74f31f6ccfab2965",
+      "title": "روسیه پاول دوروف بنیانگذار تلگرام را به «کمک به تروریسم» متهم کرد",
+      "title_fa": "روسیه پاول دوروف بنیانگذار تلگرام را به «کمک به تروریسم» متهم کرد",
+      "title_en": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+      "summary": "FSB روسیه می‌گوید تلگرام محتوایی را که توسط اطلاعات و گروه‌های تروریستی اوکراین برای برنامه‌ریزی حملات استفاده می‌شود، جمع‌آوری نکرده است.",
+      "summary_fa": "FSB روسیه می‌گوید تلگرام محتوایی را که توسط اطلاعات و گروه‌های تروریستی اوکراین برای برنامه‌ریزی حملات استفاده می‌شود، جمع‌آوری نکرده است.",
+      "summary_en": "Russia's FSB says Telegram has not pulled content used by Ukrainian intelligence and 'terrorist' groups to plan attacks.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 10:18:49 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -150,6 +1179,195 @@
       }
     },
     {
+      "id": "1953502083cb421ac2b174bc9303d045",
+      "title": "عربستان سعودی به حملات نظامی آمریکا علیه نیروهای نیابتی ایران می پیوندد",
+      "title_fa": "عربستان سعودی به حملات نظامی آمریکا علیه نیروهای نیابتی ایران می پیوندد",
+      "title_en": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
+      "summary": "عملیات مشترک نادر در عراق بر خطر گسترش درگیری با ایران تاکید دارد. این اقدام پس از شلیک موشک های ایران به سمت آمریکا صورت گرفت. پایگاه در اردن",
+      "summary_fa": "عملیات مشترک نادر در عراق بر خطر گسترش درگیری با ایران تاکید دارد. این اقدام پس از شلیک موشک های ایران به سمت آمریکا صورت گرفت. پایگاه در اردن",
+      "summary_en": "The rare joint operation in Iraq underscores the risk that the Iran conflict could expand. It came after Iran fired missiles at a US. base in Jordan.",
+      "link": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
+      "published_at": "Wed, 29 Jul 2026 10:07:54 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e5b6ee9e7d37f88fdb924b7dbf2f9313",
+      "title": "ایلان ماسک بالاخره X Money را عرضه کرد. چه چیزی ممکن است اشتباه باشد؟",
+      "title_fa": "ایلان ماسک بالاخره X Money را عرضه کرد. چه چیزی ممکن است اشتباه باشد؟",
+      "title_en": "Elon Musk finally launches X Money. What could possibly go wrong?",
+      "summary": "به دلیل حذف بازارهای مالی عمده ایالات متحده، با عرضه X Money انتظار مشکلاتی را داشته باشید.",
+      "summary_fa": "به دلیل حذف بازارهای مالی عمده ایالات متحده، با عرضه X Money انتظار مشکلاتی را داشته باشید.",
+      "summary_en": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 10:00:51 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "10ac786b9e743a6c9809bde1b1f57488",
+      "title": "چگونه یک چاه زمین گرمایی را از مرده بازگردانیم؟",
+      "title_fa": "چگونه یک چاه زمین گرمایی را از مرده بازگردانیم؟",
+      "title_en": "How to Bring a Geothermal Well Back from the Dead",
+      "summary": "استارت‌آپ زانسکار یکی از پربازده‌ترین چاه‌های زمین گرمایی در ایالات متحده را در نیروگاهی ایجاد کرده است که سال‌ها در حال کاهش بود.",
+      "summary_fa": "استارت‌آپ زانسکار یکی از پربازده‌ترین چاه‌های زمین گرمایی در ایالات متحده را در نیروگاهی ایجاد کرده است که سال‌ها در حال کاهش بود.",
+      "summary_en": "Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years.",
+      "link": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 10:00:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dfd585699e756dcd8f46e510e59e7ed4",
+      "title": "واکنش دولت هند به اعتراضات «سوسک» چگونه بوده است؟",
+      "title_fa": "واکنش دولت هند به اعتراضات «سوسک» چگونه بوده است؟",
+      "title_en": "How has the Indian government responded to ‘Cockroach’ protests?",
+      "summary": "پاسخ دولت BJP تاکنون سرکوب سنجیده ای بوده است زیرا تلاش می کند جوانان را جذب کند.",
+      "summary_fa": "پاسخ دولت BJP تاکنون سرکوب سنجیده ای بوده است زیرا تلاش می کند جوانان را جذب کند.",
+      "summary_en": "The BJP government's response so far has been a measured crackdown as it also attempts to woo the youth.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/how-has-the-indian-government-responded-to-cockroach-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 09:52:16 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cab0dc1d2ea78215e49026cb7e11bdf6",
+      "title": "فضای امن برای زنان غزه: پناهگاهی برای صحبت، درمان و اشتراک در میان جنگ",
+      "title_fa": "فضای امن برای زنان غزه: پناهگاهی برای صحبت، درمان و اشتراک در میان جنگ",
+      "title_en": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
+      "summary": "ابتکار فضاهای امن زنان در غزه جلسات حمایت روانی و آگاهی را ارائه می دهد.",
+      "summary_fa": "ابتکار فضاهای امن زنان در غزه جلسات حمایت روانی و آگاهی را ارائه می دهد.",
+      "summary_en": "A women’s safe spaces initiative in Gaza offers psychological support and awareness sessions.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 09:51:52 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "e961aaa1f8109c25fb26c92488d92e72",
+      "title": "مدیر عامل UBS می گوید عقب نشینی هوش مصنوعی سالم است - اما ریسک بزرگتری وجود دارد که سرمایه گذاران باید مراقب آن باشند",
+      "title_fa": "مدیر عامل UBS می گوید عقب نشینی هوش مصنوعی سالم است - اما ریسک بزرگتری وجود دارد که سرمایه گذاران باید مراقب آن باشند",
+      "title_en": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
+      "summary": "این غول بانکی سوئیس سود پیش از مالیات را 3.6 میلیارد دلار در سه ماهه گزارش کرد، زیرا مدیر عامل شرکت سرجیو ارموتی نسبت به نوسانات ژئوپلیتیکی پیش رو هشدار داد.",
+      "summary_fa": "این غول بانکی سوئیس سود پیش از مالیات را 3.6 میلیارد دلار در سه ماهه گزارش کرد، زیرا مدیر عامل شرکت سرجیو ارموتی نسبت به نوسانات ژئوپلیتیکی پیش رو هشدار داد.",
+      "summary_en": "The Swiss banking gian reported pre-tax profits of $3.6 billion for the quarter, as CEO Sergio Ermotti warned of geopolitical volatility ahead.",
+      "link": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 09:40:12 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59372bc6eb62500aae6a67f8638fcb99",
+      "title": "تخفیف دانشجویی Apple Music و Apple TV را فقط با 6 دلار در ماه دریافت کنید - این روش",
+      "title_fa": "تخفیف دانشجویی Apple Music و Apple TV را فقط با 6 دلار در ماه دریافت کنید - این روش",
+      "title_en": "Get Apple Music's student discount plus Apple TV for just $6 a month - here's how",
+      "summary": "دانش آموزان می توانند در اشتراک Apple Music صرفه جویی زیادی کنند. در اینجا نحوه دریافت آن آمده است.",
+      "summary_fa": "دانش آموزان می توانند در اشتراک Apple Music صرفه جویی زیادی کنند. در اینجا نحوه دریافت آن آمده است.",
+      "summary_en": "Students can save big on an Apple Music subscription. Here's how to get it.",
+      "link": "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/",
+      "source": "ZDNet",
+      "published_at": "Wed, 29 Jul 2026 09:30:45 GMT",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c2a24a9aa1a0d3b63aa303e2384462c0",
+      "title": "بومرزها نمی توانند از هدیه دادن کتاب های اسلوپ تولید شده توسط هوش مصنوعی به نوه های خود دست بردارند",
+      "title_fa": "بومرزها نمی توانند از هدیه دادن کتاب های اسلوپ تولید شده توسط هوش مصنوعی به نوه های خود دست بردارند",
+      "title_en": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "summary": "والدین از داستان‌های آشفته قبل از خواب که شخصیت‌هایی را بر اساس عکس‌های واقعی فرزندانشان نشان می‌دهند، خسته شده‌اند.",
+      "summary_fa": "والدین از داستان‌های آشفته قبل از خواب که شخصیت‌هایی را بر اساس عکس‌های واقعی فرزندانشان نشان می‌دهند، خسته شده‌اند.",
+      "summary_en": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 09:30:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f363176926afaabeaf5e0db7597cf0d0",
+      "title": "مدل سه بعدی جدید ناسا زمین را آشفته نشان می دهد",
+      "title_fa": "مدل سه بعدی جدید ناسا زمین را آشفته نشان می دهد",
+      "title_en": "NASA’s New 3D Model Shows the Earth Is a Lumpy Mess",
+      "summary": "ما دوست داریم خانه خود را به عنوان یک کره زیبا و صاف در نظر بگیریم. اما نقشه برداری از میدان گرانشی زمین، دید متفاوتی از سیاره ارائه می دهد.",
+      "summary_fa": "ما دوست داریم خانه خود را به عنوان یک کره زیبا و صاف در نظر بگیریم. اما نقشه برداری از میدان گرانشی زمین، دید متفاوتی از سیاره ارائه می دهد.",
+      "summary_en": "We like to think of our home as a nice, smooth sphere. But mapping the Earth’s gravitational field provides a different view of the planet.",
+      "link": "https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 09:30:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c3e12f3cb51008c0d52f7f4c8ebc6788",
       "title": "گردباد ویسکانسین خانه ها را آسیب دیده و خیابان ها را با آوار پوشانده است",
       "title_fa": "گردباد ویسکانسین خانه ها را آسیب دیده و خیابان ها را با آوار پوشانده است",
@@ -192,6 +1410,27 @@
       }
     },
     {
+      "id": "790807114145db79883442885d2ee77b",
+      "title": "ثروتمندترین مرد آسیا، آدانی، پیشنهاد برای اپراتور برتر بندر بریتانیا را می سنجد",
+      "title_fa": "ثروتمندترین مرد آسیا، آدانی، پیشنهاد برای اپراتور برتر بندر بریتانیا را می سنجد",
+      "title_en": "Asia’s richest man Adani weighs bid for UK’s top port operator",
+      "summary": "صنعتگر هندی در حالی که دو صندوق بازنشستگی کانادایی برای فروش سهام آماده می شوند، پیشنهادی را برای بنادر Associated British Ports در نظر می گیرد",
+      "summary_fa": "صنعتگر هندی در حالی که دو صندوق بازنشستگی کانادایی برای فروش سهام آماده می شوند، پیشنهادی را برای بنادر Associated British Ports در نظر می گیرد",
+      "summary_en": "Indian industrialist considers offer for Associated British Ports as two Canadian pension funds prepare to sell stakes",
+      "link": "https://www.ft.com/content/be6ae5f1-01fd-41d2-bd0f-e2f492076b6e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 09:16:44 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99676dd5-8b5f-49b7-825f-c1bc118e24e6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "431e84230409c93c4684feb5c5a8c01b",
       "title": "من Ultrahuman Ring Pro: سرشار از ویژگی‌ها، اما هنوز فروش سختی را آزمایش کردم",
       "title_fa": "من Ultrahuman Ring Pro: سرشار از ویژگی‌ها، اما هنوز فروش سختی را آزمایش کردم",
@@ -213,10 +1452,73 @@
       }
     },
     {
+      "id": "fec3cec177f6992926a26ca71697599d",
+      "title": "«ما از قبل وصیت نامه داریم»: ما در دهه 60 زندگی خود با 1.5 میلیون دلار هستیم. چگونه از نمایش خانوادگی در بین وارثانمان جلوگیری کنیم؟",
+      "title_fa": "«ما از قبل وصیت نامه داریم»: ما در دهه 60 زندگی خود با 1.5 میلیون دلار هستیم. چگونه از نمایش خانوادگی در بین وارثانمان جلوگیری کنیم؟",
+      "title_en": "‘We already have wills’: We’re in our 60s with $1.5 million. How do we prevent family drama among our heirs?",
+      "summary": "\"من متوجه هستم که وکالت می تواند طولانی، عمومی و پرهزینه باشد.\"",
+      "summary_fa": "\"من متوجه هستم که وکالت می تواند طولانی، عمومی و پرهزینه باشد.\"",
+      "summary_en": "“I realize that probate can be lengthy, public and expensive.”",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 09:15:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04056298",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fdd3615af7463274d4f31fe26ec974d3",
+      "title": "\"لرزش وحشتناک بود\": داستان های بقا و از دست دادن پس از زلزله ژاپن ظاهر می شود",
+      "title_fa": "\"لرزش وحشتناک بود\": داستان های بقا و از دست دادن پس از زلزله ژاپن ظاهر می شود",
+      "title_en": "‘The shaking was terrifying’: stories of survival and loss emerge after Japan earthquake",
+      "summary": "امدادگران در حال بیرون کشیدن افراد از لاشه هواپیما در جنوب ژاپن در تکرار وحشتناک فاجعه ای که 10 سال پیش زمین لرزه ژاپن روی داد - آخرین به روز رسانی ها \"مسابقه با زمان\": با جستجوی تیم های امداد برای مفقود شدن تعداد قربانیان زلزله ژاپن افزایش می یابد \"صدایی از خانه فرو ریخته می آمد، و من می توانستم یک دست را ببینم.\" کوماموتو نیچینیچی شیمبون. یکی از اعضای ارشد ما خزید و او را بیرون کشید. از سرش خون می‌آمد، اما من خیلی خوشحالم که زنده ماند.» ناگاتا صدایی را شنیده بود که از یک خانه کاملاً مسطح در شهر روستایی هیکاوا، نزدیک به مرکز زلزله 6.8 ریشتری روز سه‌شنبه در جنوب ژاپن می‌آمد. این شهر یکی از مناطقی بود که بیشترین آسیب را دید و خانه‌های قدیمی‌تر زیادی فروریخت. بسیاری از ساکنان که از پس لرزه های مداوم وحشت داشتند، سه شنبه شب را در اتومبیل های خود در خارج از تالار شهر هیکاوا، جایی که کارکنان غذا و نوشیدنی توزیع می کردند، سپری کردند. ادامه مطلب...",
+      "summary_fa": "امدادگران در حال بیرون کشیدن افراد از لاشه هواپیما در جنوب ژاپن در تکرار وحشتناک فاجعه ای که 10 سال پیش زمین لرزه ژاپن روی داد - آخرین به روز رسانی ها \"مسابقه با زمان\": با جستجوی تیم های امداد برای مفقود شدن تعداد قربانیان زلزله ژاپن افزایش می یابد \"صدایی از خانه فرو ریخته می آمد، و من می توانستم یک دست را ببینم.\" کوماموتو نیچینیچی شیمبون. یکی از اعضای ارشد ما خزید و او را بیرون کشید. از سرش خون می‌آمد، اما من خیلی خوشحالم که زنده ماند.» ناگاتا صدایی را شنیده بود که از یک خانه کاملاً مسطح در شهر روستایی هیکاوا، نزدیک به مرکز زلزله 6.8 ریشتری روز سه‌شنبه در جنوب ژاپن می‌آمد. این شهر یکی از مناطقی بود که بیشترین آسیب را دید و خانه‌های قدیمی‌تر زیادی فروریخت. بسیاری از ساکنان که از پس لرزه های مداوم وحشت داشتند، سه شنبه شب را در اتومبیل های خود در خارج از تالار شهر هیکاوا، جایی که کارکنان غذا و نوشیدنی توزیع می کردند، سپری کردند. ادامه مطلب...",
+      "summary_en": "Rescuers pulling people from the wreckage in southern Japan in a haunting repeat of disaster that struck 10 years agoJapan earthquake – latest updates‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing“There was a voice coming from the collapsed house, and I could see a hand,” Tomohide Nagata, a volunteer firefighter, told the Kumamoto Nichinichi Shimbun. “One of our senior members crawled in and pulled him out. He was bleeding from the head, but I’m so glad he survived.”Nagata had heard a noise coming from one completely flattened home in the rural town of Hikawa, close to the epicentre of Tuesday’s 6.8-magnitude earthquake in southern Japan. The town was one of the areas hardest hit, with numerous older houses collapsing. Terrified of the ongoing aftershocks, many residents spent Tuesday night in their cars outside Hikawa’s town hall, where staff distributed food and drinks. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 09:08:57 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b147767b372fa3c2b900ee756134ef45d94d079a/552_160_3105_2484/master/3105.jpg?width=140&quality=85&auto=format&fit=max&s=d542cbca79eb675846d997134c3f4a0f",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "1c0174cd1beea60fd69c3560a40b379c",
       "title": "رئیس جدید جاسوسی ترامپ در سنای آمریکا تایید شد",
       "title_fa": "رئیس جدید جاسوسی ترامپ در سنای آمریکا تایید شد",
       "title_en": "Trump's new spy chief confirmed by US Senate",
+      "summary": "تایید جی کلیتون پس از رد شدن گزینه اصلی رئیس جمهور ایالات متحده توسط قانونگذاران به دلیل عدم تجربه مرتبط صورت گرفت.",
+      "summary_fa": "تایید جی کلیتون پس از رد شدن گزینه اصلی رئیس جمهور ایالات متحده توسط قانونگذاران به دلیل عدم تجربه مرتبط صورت گرفت.",
+      "summary_en": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+      "link": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 09:07:40 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3279/live/f3e4cc50-8b18-11f1-ad6a-6171441778fb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "95f8e7c2c1250429f5729f15a8e1a474",
+      "title": "جی کلیتون، رئیس جدید جاسوسی ترامپ در سنای آمریکا تایید شد",
+      "title_fa": "جی کلیتون، رئیس جدید جاسوسی ترامپ در سنای آمریکا تایید شد",
+      "title_en": "Trump's new spy chief Jay Clayton confirmed by US Senate",
       "summary": "تایید جی کلیتون پس از رد شدن گزینه اصلی رئیس جمهور ایالات متحده توسط قانونگذاران به دلیل عدم تجربه مرتبط صورت گرفت.",
       "summary_fa": "تایید جی کلیتون پس از رد شدن گزینه اصلی رئیس جمهور ایالات متحده توسط قانونگذاران به دلیل عدم تجربه مرتبط صورت گرفت.",
       "summary_en": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
@@ -1473,6 +2775,27 @@
       }
     },
     {
+      "id": "5110e7b4a40efb12a432497792c39a1d",
+      "title": "با تشدید درگیری ها، هزاران نفر در شهر مهم سودان دوباره در معرض تهدید قرار گرفتند",
+      "title_fa": "با تشدید درگیری ها، هزاران نفر در شهر مهم سودان دوباره در معرض تهدید قرار گرفتند",
+      "title_en": "Thousands sheltering in key Sudan city under threat again as fighting escalates",
+      "summary": "رهبران بین‌المللی هشدار داده‌اند که نیروهای RSF ممکن است برای حمله به شهر آماده شوند و این نگرانی‌ها را در مورد جنایات بیشتر افزایش داده است.",
+      "summary_fa": "رهبران بین‌المللی هشدار داده‌اند که نیروهای RSF ممکن است برای حمله به شهر آماده شوند و این نگرانی‌ها را در مورد جنایات بیشتر افزایش داده است.",
+      "summary_en": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 05:01:46 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6848/live/f72b2db0-8a68-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "3c862fddb7d6f0aed50e2367f83311a6",
       "title": "\"شهرک نشینان اسرائیلی خانه ما را محاصره کردند\": در داخل یک روستای فلسطینی تحت حمله هفتگی",
       "title_fa": "\"شهرک نشینان اسرائیلی خانه ما را محاصره کردند\": در داخل یک روستای فلسطینی تحت حمله هفتگی",
@@ -1771,6 +3094,27 @@
       "title": "برخی از اردنی ها خواستار خروج نیروهای آمریکایی از پادشاهی هستند",
       "title_fa": "برخی از اردنی ها خواستار خروج نیروهای آمریکایی از پادشاهی هستند",
       "title_en": "Some Jordanians Demand that American Troops Leave the Kingdom",
+      "summary": "صدها شخصیت سیاسی، حقوقی و غیره با امضای نامه ای عمومی هشدار دادند که اتحاد نزدیک اردن با ایالات متحده خطرآفرین است.",
+      "summary_fa": "صدها شخصیت سیاسی، حقوقی و غیره با امضای نامه ای عمومی هشدار دادند که اتحاد نزدیک اردن با ایالات متحده خطرآفرین است.",
+      "summary_en": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.",
+      "link": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
+      "source": "NY Times",
+      "published_at": "Wed, 29 Jul 2026 04:01:19 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27jordan--opposition-fqlz/27jordan--opposition-fqlz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7df6028f91d153def03340eb0578b6d4",
+      "title": "برخی از اردنی ها جرات دارند علیه حضور نیروهای آمریکایی صحبت کنند",
+      "title_fa": "برخی از اردنی ها جرات دارند علیه حضور نیروهای آمریکایی صحبت کنند",
+      "title_en": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
       "summary": "صدها شخصیت سیاسی، حقوقی و غیره با امضای نامه ای عمومی هشدار دادند که اتحاد نزدیک اردن با ایالات متحده خطرآفرین است.",
       "summary_fa": "صدها شخصیت سیاسی، حقوقی و غیره با امضای نامه ای عمومی هشدار دادند که اتحاد نزدیک اردن با ایالات متحده خطرآفرین است.",
       "summary_en": "Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.",
@@ -2347,6 +3691,27 @@
       "date_iso": "2026-07-29",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "22f224339448531908d1c33ea822116c",
+      "title": "آئودی با SUV سه ردیفه Q9 به تولید محصولات ایالات متحده ادامه می دهد",
+      "title_fa": "آئودی با SUV سه ردیفه Q9 به تولید محصولات ایالات متحده ادامه می دهد",
+      "title_en": "Audi continues U.S. product push with three-row Q9 SUV",
+      "summary": "فروش آئودی در ایالات متحده طی سه ماهه گذشته با مشکل مواجه شده است. این برند تحت تاثیر تعرفه ها و تغییر بازار از خودروهای الکتریکی قرار گرفته است. محصول جدید ممکن است کمک کند.",
+      "summary_fa": "فروش آئودی در ایالات متحده طی سه ماهه گذشته با مشکل مواجه شده است. این برند تحت تاثیر تعرفه ها و تغییر بازار از خودروهای الکتریکی قرار گرفته است. محصول جدید ممکن است کمک کند.",
+      "summary_en": "Audi sales have struggled in the U.S. over the last several quarters. The brand has been hit by tariffs and a market shift away from EVs. New product may help.",
+      "link": "https://www.cnbc.com/2026/07/28/audi-q9-suv.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 01:56:52 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -12880,6 +14245,27 @@
       }
     },
     {
+      "id": "347289dcbe7c6c802330deaba27f2ff1",
+      "title": "جیم کرامر می گوید وال استریت از تجارت هوش مصنوعی فرار می کند و به جای آن این سهام را می خرد",
+      "title_fa": "جیم کرامر می گوید وال استریت از تجارت هوش مصنوعی فرار می کند و به جای آن این سهام را می خرد",
+      "title_en": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+      "summary": "جیم کرامر از CNBC گفت که سرمایه‌گذاران از برندگان تراشه‌های حافظه خارج می‌شوند و به شرکت‌هایی با رشد خارج از مرکز داده تبدیل می‌شوند.",
+      "summary_fa": "جیم کرامر از CNBC گفت که سرمایه‌گذاران از برندگان تراشه‌های حافظه خارج می‌شوند و به شرکت‌هایی با رشد خارج از مرکز داده تبدیل می‌شوند.",
+      "summary_en": "CNBC's Jim Cramer said investors are rotating out of memory-chip winners and into companies with growth outside the data center buildout.",
+      "link": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 22:20:01 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "afbffb04a0c1ae74299bb45ff514248b",
       "title": "درآمد سیگیت یک خبر خوشایند برای تجارت آسیب دیده هوش مصنوعی است",
       "title_fa": "درآمد سیگیت یک خبر خوشایند برای تجارت آسیب دیده هوش مصنوعی است",
@@ -12957,6 +14343,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-07566733",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d44ba7247a3a9dcbf9c872ae7c8a1e6e",
+      "title": "چرا ویمبلدون بستنی هندی و بیت های بالیوود سرو می کند؟",
+      "title_fa": "چرا ویمبلدون بستنی هندی و بیت های بالیوود سرو می کند؟",
+      "title_en": "Why Wimbledon is serving Indian ice cream and Bollywood beats",
+      "summary": "ویمبلدون با دور شدن از سنت، محدودیت خود را برای هدف قرار دادن مخاطبان جدید در هند دیوانه کریکت کنار گذاشت.",
+      "summary_fa": "ویمبلدون با دور شدن از سنت، محدودیت خود را برای هدف قرار دادن مخاطبان جدید در هند دیوانه کریکت کنار گذاشت.",
+      "summary_en": "Departing from tradition, Wimbledon shed its restraint to target new audiences in cricket-crazy India.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 28 Jul 2026 22:05:26 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/319b/live/5097b070-875e-11f1-95ec-a30de4e448c4.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -13440,6 +14847,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/asteroid1-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9cf6a340f3b031cf2f45b696ce72b664",
+      "title": "Corning علیرغم نتایج قوی سه ماهه سقوط کرد - برنامه ما برای سهام اینجاست",
+      "title_fa": "Corning علیرغم نتایج قوی سه ماهه سقوط کرد - برنامه ما برای سهام اینجاست",
+      "title_en": "Corning plunges despite strong quarterly results — here's our plan for the stock",
+      "summary": "Corning یک سهام شکسته و منفور است، با وجود عملکرد خوب و چشم انداز رشد.",
+      "summary_fa": "Corning یک سهام شکسته و منفور است، با وجود عملکرد خوب و چشم انداز رشد.",
+      "summary_en": "Corning is a broken and hated stock, despite its solid performance and growth prospects.",
+      "link": "https://www.cnbc.com/2026/07/28/corning-plunges-despite-strong-results-heres-our-plan-for-the-stock.html",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 20:47:48 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -63629,6 +65057,132 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b0b9a13c1346f8d87c46acc364413b5e",
+      "title": "دلایل ما برای نادیده گرفتن ایمنی هوش مصنوعی تمام شده است",
+      "title_fa": "دلایل ما برای نادیده گرفتن ایمنی هوش مصنوعی تمام شده است",
+      "title_en": "We’re running out of reasons to ignore AI safety",
+      "summary": "در اوایل این ماه، OpenAI به چندین مدل هوش مصنوعی خود وظیفه داد: آزمایشی را انجام دهید که برای اندازه‌گیری قابلیت‌های امنیت سایبری آنها طراحی شده است. این سیستم ها را در یک محیط sandbox بدون اتصال به اینترنت قرار می دهد و آنها را به کار می اندازد. اتفاقی که بعدا افتاد تقریباً به طرز خنده‌آمیزی احمقانه است - اما همانطور که آدام گلیو، یکی از بنیانگذاران و مدیر اجرایی […]",
+      "summary_fa": "در اوایل این ماه، OpenAI به چندین مدل هوش مصنوعی خود وظیفه داد: آزمایشی را انجام دهید که برای اندازه‌گیری قابلیت‌های امنیت سایبری آنها طراحی شده است. این سیستم ها را در یک محیط sandbox بدون اتصال به اینترنت قرار می دهد و آنها را به کار می اندازد. اتفاقی که بعدا افتاد تقریباً به طرز خنده‌آمیزی احمقانه است - اما همانطور که آدام گلیو، یکی از بنیانگذاران و مدیر اجرایی […]",
+      "summary_en": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "source": "The Verge",
+      "published_at": "2026-07-29T07:00:00-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7a44878cbbbd3ae07aa2a1121c34465",
+      "title": "مایکروسافت تأیید می کند که قطعی ایکس باکس نباید روی بازی های روی دیسک تأثیر بگذارد",
+      "title_fa": "مایکروسافت تأیید می کند که قطعی ایکس باکس نباید روی بازی های روی دیسک تأثیر بگذارد",
+      "title_en": "Xbox outage shouldn&#8217;t have affected games on disc, Microsoft confirms",
+      "summary": "پس از قطعی اخیر ایکس باکس حتی افراد را از بازی آفلاین بازی های کنسول مبتنی بر دیسک مسدود کرد، مایکروسافت در تلاش است تا نگرانی هایی را که شما واقعاً مالک چیزی تحت سیستم مجوز ایکس باکس نیستید، کاهش دهد. در بیانیه‌ای به The Verge، اسکات ون ویلیت، مدیر فناوری Xbox می‌گوید که در حالی که دیسک‌های بازی فیزیکی تحت بازرسی مجوز هستند، نباید […]",
+      "summary_fa": "پس از قطعی اخیر ایکس باکس حتی افراد را از بازی آفلاین بازی های کنسول مبتنی بر دیسک مسدود کرد، مایکروسافت در تلاش است تا نگرانی هایی را که شما واقعاً مالک چیزی تحت سیستم مجوز ایکس باکس نیستید، کاهش دهد. در بیانیه‌ای به The Verge، اسکات ون ویلیت، مدیر فناوری Xbox می‌گوید که در حالی که دیسک‌های بازی فیزیکی تحت بازرسی مجوز هستند، نباید […]",
+      "summary_en": "After the recent Xbox outage even blocked people from playing offline disc-based console games, Microsoft is trying to soothe concerns that you don't truly own anything under Xbox's license system. In a statement to The Verge, Xbox technology chief Scott Van Vliet says that while physical game discs are subject to licensing inspections, that shouldn't […]",
+      "link": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue",
+      "source": "The Verge",
+      "published_at": "2026-07-29T06:58:29-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "16b6e174168b44b8fdd27bb9ea7e0557",
+      "title": "اگر فلج اطفال به زودی تمام نشود، فلج اطفال خروشان باز خواهد گشت",
+      "title_fa": "اگر فلج اطفال به زودی تمام نشود، فلج اطفال خروشان باز خواهد گشت",
+      "title_en": "Polio will come roaring back if the task of eradicating it isn’t finished soon",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02308-8 حذف فلج اطفال در دسترس است - اگر کشورها آن را به عنوان یک اولویت ضروری برای سلامت عمومی ببینند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02308-8 حذف فلج اطفال در دسترس است - اگر کشورها آن را به عنوان یک اولویت ضروری برای سلامت عمومی ببینند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02308-8Eliminating polio is within reach — if countries see it as an essential public-health priority.",
+      "link": "https://www.nature.com/articles/d41586-026-02308-8",
+      "source": "Nature",
+      "published_at": "2026-07-29 11:36",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aea138c2204dbc2730487b00168ddadb",
+      "title": "درگذشت: سوسومو تونگاوا، اولین برنده جایزه نوبل در فیزیولوژی یا پزشکی ژاپن",
+      "title_fa": "درگذشت: سوسومو تونگاوا، اولین برنده جایزه نوبل در فیزیولوژی یا پزشکی ژاپن",
+      "title_en": "Obituary: Susumu Tonegawa, Japan’s first Nobel prizewinner in physiology or medicine",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02340-8زیست شناس مولکولی بی باک که عملکرد آنتی بادی ها و خاطرات را فاش کرد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02340-8زیست شناس مولکولی بی باک که عملکرد آنتی بادی ها و خاطرات را فاش کرد.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02340-8Fearless molecular biologist who revealed the workings of antibodies and memories.",
+      "link": "https://www.nature.com/articles/d41586-026-02340-8",
+      "source": "Nature",
+      "published_at": "2026-07-29 11:36",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "6a7644b3712f0d6d4674c78ba9a5a07d",
+      "title": "حکاکی‌های پرندگان 40000 ساله سرنخ‌هایی از چگونگی شکوفایی انسان‌های عصر یخبندان ارائه می‌دهد.",
+      "title_fa": "حکاکی‌های پرندگان 40000 ساله سرنخ‌هایی از چگونگی شکوفایی انسان‌های عصر یخبندان ارائه می‌دهد.",
+      "title_en": "40,000-year-old bird carvings provide clues to how ice age humans flourished",
+      "summary": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02312-y مجسمه‌های تازه کشف‌شده به مهارت‌هایی اشاره می‌کنند که ممکن است به شکل‌گیری گسترش انسان‌های اولیه در سراسر اروپا کمک کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 29 جولای 2026; doi:10.1038/d41586-026-02312-y مجسمه‌های تازه کشف‌شده به مهارت‌هایی اشاره می‌کنند که ممکن است به شکل‌گیری گسترش انسان‌های اولیه در سراسر اروپا کمک کند.",
+      "summary_en": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02312-yNewly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.",
+      "link": "https://www.nature.com/articles/d41586-026-02312-y",
+      "source": "Nature",
+      "published_at": "2026-07-29 11:36",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "97f39f6b57c7b54a90a33229ea18187b",
+      "title": "اولین داوطلب واکسن ابولا را دریافت کرد - سه ماه پس از شروع شیوع",
+      "title_fa": "اولین داوطلب واکسن ابولا را دریافت کرد - سه ماه پس از شروع شیوع",
+      "title_en": "First volunteer gets Ebola vaccine — three months after the outbreak began",
+      "summary": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02278-xدانشگاه آکسفورد قبلاً اولین شرکت کننده کارآزمایی بالینی خود را واکسینه کرده است. ترزا لمب، دانشمند ارشد این مطالعه، به طبیعت می گوید که چگونه آنها توانستند اینقدر سریع حرکت کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 28 جولای 2026; doi:10.1038/d41586-026-02278-xدانشگاه آکسفورد قبلاً اولین شرکت کننده کارآزمایی بالینی خود را واکسینه کرده است. ترزا لمب، دانشمند ارشد این مطالعه، به طبیعت می گوید که چگونه آنها توانستند اینقدر سریع حرکت کنند.",
+      "summary_en": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02278-xThe University of Oxford has already vaccinated its first clinical-trial participant. The study’s lead scientist Teresa Lambe tells Nature how they were able to move so fast.",
+      "link": "https://www.nature.com/articles/d41586-026-02278-x",
+      "source": "Nature",
+      "published_at": "2026-07-29 11:36",
+      "date_iso": "2026-07-29",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
