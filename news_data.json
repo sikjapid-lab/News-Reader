@@ -1,7 +1,49 @@
 {
-  "last_update": "2026-07-29 18:05:26",
-  "total_count": 3557,
+  "last_update": "2026-07-29 19:41:11",
+  "total_count": 3593,
   "articles": [
+    {
+      "id": "3b7eddbfdb1ff6dd3bda56812b7f839f",
+      "title": "بزرگترین بحث های اروپا در مورد حلقه - امنیت اتحادیه اروپا ... به چه قیمتی؟",
+      "title_fa": "بزرگترین بحث های اروپا در مورد حلقه - امنیت اتحادیه اروپا ... به چه قیمتی؟",
+      "title_en": "Europe’s biggest debates on The Ring - EU’s security… at what cost?",
+      "summary": "با توقف فعالیت پارلمان برای تعطیلات تابستانی، به برخی از بحث های فصل نگاه می کنیم. این نسخه ویژه به برخی از مهم‌ترین پرسش‌های پیش روی اتحادیه اروپا بازنگری می‌کند: اروپا چگونه باید در جهانی بی‌ثبات از خود دفاع کند و چگونه باید به درگیری‌های فراتر از مرزهایش پاسخ دهد؟",
+      "summary_fa": "با توقف فعالیت پارلمان برای تعطیلات تابستانی، به برخی از بحث های فصل نگاه می کنیم. این نسخه ویژه به برخی از مهم‌ترین پرسش‌های پیش روی اتحادیه اروپا بازنگری می‌کند: اروپا چگونه باید در جهانی بی‌ثبات از خود دفاع کند و چگونه باید به درگیری‌های فراتر از مرزهایش پاسخ دهد؟",
+      "summary_en": "As parliamentary activity pauses for the summer recess, we look back at some of the debates of the season. This special edition revisits some of the most pressing questions facing the EU: how should Europe defend itself in an unstable world, and how should it respond to conflicts beyond its borders?",
+      "link": "http://www.euronews.com/my-europe/2026/07/29/europes-biggest-debates-on-the-ring-eus-security-at-what-cost",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 20:30:20 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "ce37cd77e9452ef8e855e0c6f5ad343d",
+      "title": "آژانس محیط زیست بریتانیا می گوید بیش از نیمی از انگلیس \"رسما در خشکسالی\" قرار دارد",
+      "title_fa": "آژانس محیط زیست بریتانیا می گوید بیش از نیمی از انگلیس \"رسما در خشکسالی\" قرار دارد",
+      "title_en": "More than half of England 'officially in drought', UK Environment agency says",
+      "summary": "آژانس محیط زیست بریتانیا در اطلاعیه خود گفت: رودخانه ها رو به اتمام هستند، کشاورزان مجبور به برداشت زودهنگام محصولات هستند، خطر آتش سوزی در جنگل ها در حال افزایش است و میلیون ها نفر تحت محدودیت های مصرف آب زندگی می کنند.",
+      "summary_fa": "آژانس محیط زیست بریتانیا در اطلاعیه خود گفت: رودخانه ها رو به اتمام هستند، کشاورزان مجبور به برداشت زودهنگام محصولات هستند، خطر آتش سوزی در جنگل ها در حال افزایش است و میلیون ها نفر تحت محدودیت های مصرف آب زندگی می کنند.",
+      "summary_en": "\"Rivers are running low, farmers are having to harvest crops early, wildfire risk is increasing, and millions of people are living under restrictions on water use,\" the UK Environment Agency said in its announcement.",
+      "link": "http://www.euronews.com/2026/07/29/more-than-half-of-england-officially-in-drought-uk-environment-agency-says",
+      "source": "EuroNews",
+      "published_at": "Wed, 29 Jul 2026 20:05:58 +0200",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
     {
       "id": "2587ca71e0a9abd35c70cde901e16b4a",
       "title": "زینیا فدورووا، مبلغ طرفدار روسیه با اخراج از فرانسه مواجه است",
@@ -45,6 +87,48 @@
       }
     },
     {
+      "id": "7ab29a5d9adbc6aea2c24cc8ab85e566",
+      "title": "دعوی قضایی ادعا می کند که فروشگاه Comcast فروش کم را با شکستن کیک ها در صورت کارگران مجازات می کند",
+      "title_fa": "دعوی قضایی ادعا می کند که فروشگاه Comcast فروش کم را با شکستن کیک ها در صورت کارگران مجازات می کند",
+      "title_en": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "summary": "Comcast که متهم به سهل انگاری است، می گوید که شکایت وقایع ادعایی را به اشتباه توصیف کرد.",
+      "summary_fa": "Comcast که متهم به سهل انگاری است، می گوید که شکایت وقایع ادعایی را به اشتباه توصیف کرد.",
+      "summary_en": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 19:33:55 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/banana-cream-pie-1152x648-1785351920.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eac3ea305f0ca116ede118a7307b7927",
+      "title": "سم آلتمن این هفته پیش از پایان ضرب الاجل چارچوب هوش مصنوعی با وایلز کاخ سفید دیدار خواهد کرد",
+      "title_fa": "سم آلتمن این هفته پیش از پایان ضرب الاجل چارچوب هوش مصنوعی با وایلز کاخ سفید دیدار خواهد کرد",
+      "title_en": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+      "summary": "سام آلتمن، مدیر عامل OpenAI با تعدادی از مقامات ارشد دولت ترامپ، قانونگذاران و اقتصاددانان دیدار می کند.",
+      "summary_fa": "سام آلتمن، مدیر عامل OpenAI با تعدادی از مقامات ارشد دولت ترامپ، قانونگذاران و اقتصاددانان دیدار می کند.",
+      "summary_en": "OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.",
+      "link": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 19:31:58 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8bf8c10063c3b65737dbae88284f0daa",
       "title": "ایتالیا در حال حرکت برای ممنوع کردن کالسکه های توریستی با اسب در رم و دیگر شهرهای هنری است",
       "title_fa": "ایتالیا در حال حرکت برای ممنوع کردن کالسکه های توریستی با اسب در رم و دیگر شهرهای هنری است",
@@ -63,6 +147,216 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a9553f83e6d64ba844417e176f4f39b9",
+      "title": "خوانندگان ZDNET نسبت به آیفون تاشو در سال 2026 تردید دارند. در عوض این نظر آنهاست",
+      "title_fa": "خوانندگان ZDNET نسبت به آیفون تاشو در سال 2026 تردید دارند. در عوض این نظر آنهاست",
+      "title_en": "ZDNET readers are skeptical of a foldable iPhone in 2026. Here's what they think instead",
+      "summary": "ما از خوانندگان ZDNET خواستیم تا مشخصات آیفون 18 را برای شانس بردن یک اپل واچ جدید پیش بینی کنند. Hot طول می کشد خوش آمدید.",
+      "summary_fa": "ما از خوانندگان ZDNET خواستیم تا مشخصات آیفون 18 را برای شانس بردن یک اپل واچ جدید پیش بینی کنند. Hot طول می کشد خوش آمدید.",
+      "summary_en": "We asked ZDNET readers to predict the iPhone 18 specs for a chance to win a new Apple Watch. Hot takes welcome.",
+      "link": "https://www.zdnet.com/article/apple-guessing-game-round-2-answers/",
+      "source": "ZDNet",
+      "published_at": "Wed, 29 Jul 2026 19:30:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfb65508643780da01262ac3bc4e5f80",
+      "title": "من یک همکار سابق را مدیریت می کنم که نمی تواند با حجم کاری خود ادامه دهد. چگونه می توانم بدون این که یک تند و تیز باشم با این موضوع کنار بیایم؟",
+      "title_fa": "من یک همکار سابق را مدیریت می کنم که نمی تواند با حجم کاری خود ادامه دهد. چگونه می توانم بدون این که یک تند و تیز باشم با این موضوع کنار بیایم؟",
+      "title_en": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
+      "summary": "\"ای کاش او فقط جای دیگری برای کار پیدا می کرد.\"",
+      "summary_fa": "\"ای کاش او فقط جای دیگری برای کار پیدا می کرد.\"",
+      "summary_en": "“I wish she would just find somewhere else to work.”",
+      "link": "https://www.marketwatch.com/story/im-managing-a-former-colleague-who-just-cant-keep-up-with-her-workload-how-do-i-handle-this-without-being-a-jerk-eb2303ee?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 19:26:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-42251030",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f807d0de9b2dd81a57a7af66b7df81f0",
+      "title": "Ars را با اشتراک Ars Pro سفارشی کنید",
+      "title_fa": "Ars را با اشتراک Ars Pro سفارشی کنید",
+      "title_en": "Customize Ars your way with an Ars Pro subscription",
+      "summary": "مشترکین Ars Pro دارای طرح‌بندی‌های قابل تنظیم و بدون تبلیغات و بدون ردیاب هستند.",
+      "summary_fa": "مشترکین Ars Pro دارای طرح‌بندی‌های قابل تنظیم و بدون تبلیغات و بدون ردیاب هستند.",
+      "summary_en": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+      "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 19:23:27 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ars-subscriber-ball-track-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6adb88bb43d0918d92f7f2c4acf593ec",
+      "title": "آمریکایی ها بیشتر از توان سیستم بازنشستگی ما زندگی می کنند - و بسیاری از ما آماده نیستیم",
+      "title_fa": "آمریکایی ها بیشتر از توان سیستم بازنشستگی ما زندگی می کنند - و بسیاری از ما آماده نیستیم",
+      "title_en": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+      "summary": "مراقب این 4 دام بزرگ مالی باشید.",
+      "summary_fa": "مراقب این 4 دام بزرگ مالی باشید.",
+      "summary_en": "Watch out for these 4 major financial pitfalls.",
+      "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 19:21:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-80581419",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5103124a1161bc3791d4eb9915837e69",
+      "title": "فدرال رزرو نرخ بهره را ثابت نگه می دارد. سوال بزرگ اکنون: مایکروسافت و متا در مورد AI capex چه خواهند گفت؟",
+      "title_fa": "فدرال رزرو نرخ بهره را ثابت نگه می دارد. سوال بزرگ اکنون: مایکروسافت و متا در مورد AI capex چه خواهند گفت؟",
+      "title_en": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+      "summary": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_fa": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "link": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 19:11:58 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c5afdf59a1a56285d43decd0911cbc0",
+      "title": "در حال حاضر تمرکز عمده بر روی پتانسیل افزایش نرخ بهره در ماه سپتامبر پس از شکست فدرال رزرو است",
+      "title_fa": "در حال حاضر تمرکز عمده بر روی پتانسیل افزایش نرخ بهره در ماه سپتامبر پس از شکست فدرال رزرو است",
+      "title_en": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+      "summary": "یک اقتصاددان می‌گوید: بازارها باید برای افزایش در ماه سپتامبر آماده باشند، به ویژه با ابرهای جنگی که قیمت‌های انرژی را دوباره بالا می‌برد.",
+      "summary_fa": "یک اقتصاددان می‌گوید: بازارها باید برای افزایش در ماه سپتامبر آماده باشند، به ویژه با ابرهای جنگی که قیمت‌های انرژی را دوباره بالا می‌برد.",
+      "summary_en": "Markets should be ‘on alert for a hike in September, particularly with war clouds pushing up energy prices again,’ one economist says",
+      "link": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 19:11:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-42161453",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c4e0fa4c63674a47e680294f1999d38",
+      "title": "کدام یک از مدل‌های وکیوم 2026 Dyson بهترین است؟",
+      "title_fa": "کدام یک از مدل‌های وکیوم 2026 Dyson بهترین است؟",
+      "title_en": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
+      "summary": "کنجکاو هستید که آیا باید جاروبرقی های جدید Dyson 2026 را تهیه کنید یا به جاروهای قدیمی تر بچسبید؟ من پنج مدل قدیمی و جدید را تست کردم تا متوجه شوید.",
+      "summary_fa": "کنجکاو هستید که آیا باید جاروبرقی های جدید Dyson 2026 را تهیه کنید یا به جاروهای قدیمی تر بچسبید؟ من پنج مدل قدیمی و جدید را تست کردم تا متوجه شوید.",
+      "summary_en": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
+      "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 19:08:24 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a597c7e349f7a50ffea10ba1dd3169bb",
+      "title": "الشباب پنج نیروی امنیتی کنیایی را در کمین کشته است",
+      "title_fa": "الشباب پنج نیروی امنیتی کنیایی را در کمین کشته است",
+      "title_en": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "summary": "این کمین بخشی از افزایش سریع حملات برون مرزی در امتداد مرز شمالی کنیا است.",
+      "summary_fa": "این کمین بخشی از افزایش سریع حملات برون مرزی در امتداد مرز شمالی کنیا است.",
+      "summary_en": "The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 19:06:38 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c9859dc52ddedf9890d1074237bbbfa",
+      "title": "پس از تهدید ترامپ به ضربه شدید به ایران، نفت برنت به بالای 90 دلار رسید",
+      "title_fa": "پس از تهدید ترامپ به ضربه شدید به ایران، نفت برنت به بالای 90 دلار رسید",
+      "title_en": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard",
+      "summary": "پس از حمله ایران به نیروهای آمریکایی با استفاده از موشک های بالستیک، در بحبوحه تنش های مجدد در خاورمیانه، نفت به شدت افزایش یافت.",
+      "summary_fa": "پس از حمله ایران به نیروهای آمریکایی با استفاده از موشک های بالستیک، در بحبوحه تنش های مجدد در خاورمیانه، نفت به شدت افزایش یافت.",
+      "summary_en": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 19:05:55 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e2416221cbdfa755976f2410056bf15d",
+      "title": "هندوها در تعطیلات مقدس در رودخانه های هند غوطه ور می شوند",
+      "title_fa": "هندوها در تعطیلات مقدس در رودخانه های هند غوطه ور می شوند",
+      "title_en": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "summary": "فیلم نشان می‌دهد که ده‌ها هزار نفر از جانبازان هندو در رودخانه‌های گانگا و ساریو هند در حال حمام کردن به یاد گورو پورنیما هستند.",
+      "summary_fa": "فیلم نشان می‌دهد که ده‌ها هزار نفر از جانبازان هندو در رودخانه‌های گانگا و ساریو هند در حال حمام کردن به یاد گورو پورنیما هستند.",
+      "summary_en": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:49:33 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -87,6 +381,132 @@
       }
     },
     {
+      "id": "f846373971408d529d7065ce75903025",
+      "title": "نبرد آتش سوزی بوردو در میان گرمای شدید ادامه دارد",
+      "title_fa": "نبرد آتش سوزی بوردو در میان گرمای شدید ادامه دارد",
+      "title_en": "Bordeaux wildfire battle continues amid extreme heat",
+      "summary": "آتش نشانان در فرانسه در حالت آماده باش هستند زیرا دمای سوزان و باد باعث آتش سوزی جنگلی در غرب بوردو می شود.",
+      "summary_fa": "آتش نشانان در فرانسه در حالت آماده باش هستند زیرا دمای سوزان و باد باعث آتش سوزی جنگلی در غرب بوردو می شود.",
+      "summary_en": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:42:11 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "0a9df6993655e5a578dfbce8ed1093f2",
+      "title": "معضل عربستان سعودی در تلاش برای دور ماندن از جنگ آمریکا و ایران",
+      "title_fa": "معضل عربستان سعودی در تلاش برای دور ماندن از جنگ آمریکا و ایران",
+      "title_en": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "summary": "پادشاهی با این انتخاب مواجه است که آیا به عنوان یک عامل بازدارنده به عقب نشینی ادامه دهد یا برای کاهش تنش اوضاع.",
+      "summary_fa": "پادشاهی با این انتخاب مواجه است که آیا به عنوان یک عامل بازدارنده به عقب نشینی ادامه دهد یا برای کاهش تنش اوضاع.",
+      "summary_en": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "dfb9f7202caf67bb99457a8d7069ed76",
+      "title": "دکتر آنتونی فائوچی پنجمین جلسه استماع کووید را مطرح می کند",
+      "title_fa": "دکتر آنتونی فائوچی پنجمین جلسه استماع کووید را مطرح می کند",
+      "title_en": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "summary": "دکتر آنتونی فائوچی از پاسخ به سوالات در جلسه استماع سنا در مورد منشاء همه گیری کووید-19 خودداری کرد.",
+      "summary_fa": "دکتر آنتونی فائوچی از پاسخ به سوالات در جلسه استماع سنا در مورد منشاء همه گیری کووید-19 خودداری کرد.",
+      "summary_en": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:34:09 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b50c6ff1a53af07f6c9dc1789ae70a7",
+      "title": "شرط بندی کامیون بزرگ فورد در حال نتیجه دادن است - و وال استریت متوجه این موضوع شده است",
+      "title_fa": "شرط بندی کامیون بزرگ فورد در حال نتیجه دادن است - و وال استریت متوجه این موضوع شده است",
+      "title_en": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+      "summary": "یک داستان چرخشی ممکن است در فورد در دست ساخت باشد، که کمتر از جنرال موتورز در وال استریت مورد توجه قرار می گیرد.",
+      "summary_fa": "یک داستان چرخشی ممکن است در فورد در دست ساخت باشد، که کمتر از جنرال موتورز در وال استریت مورد توجه قرار می گیرد.",
+      "summary_en": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 18:32:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-63854577",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c1324fd5a0ce91d949bbc91d34eed10",
+      "title": "سه آتش نشان در کرت و در سرزمین اصلی یونان در حالی که اروپا در حال نبرد با آتش سوزی های جنگلی است، کشته شدند",
+      "title_fa": "سه آتش نشان در کرت و در سرزمین اصلی یونان در حالی که اروپا در حال نبرد با آتش سوزی های جنگلی است، کشته شدند",
+      "title_en": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
+      "summary": "کارشناسان هشدار امواج گرمای مکرر و بادهای شدید که هشدار می‌دهند خاموش کردن آتش سوزی‌ها سخت‌تر می‌شود، اداره آتش‌نشانی یونان اعلام کرد سه آتش‌نشان یونانی هنگام مقابله با آتش‌سوزی‌های جنگلی در جزیره کرت و جنوب سرزمین اصلی جان خود را از دست داده‌اند، زیرا گرمای شدید مانع از تلاش‌ها برای کنترل آتش‌سوزی‌هایی شده است که جنوب اروپا را فرا گرفته است. مدیترانه، و از ارتفاعات اسکاتلند تا جنوب اسپانیا، کارشناسان را نگران کرده است، زیرا بسیاری از آتش سوزی ها از کنترل خارج شده اند و در نزدیکی شهرها و شهرها می سوزند. ادامه مطلب...",
+      "summary_fa": "کارشناسان هشدار امواج گرمای مکرر و بادهای شدید که هشدار می‌دهند خاموش کردن آتش سوزی‌ها سخت‌تر می‌شود، اداره آتش‌نشانی یونان اعلام کرد سه آتش‌نشان یونانی هنگام مقابله با آتش‌سوزی‌های جنگلی در جزیره کرت و جنوب سرزمین اصلی جان خود را از دست داده‌اند، زیرا گرمای شدید مانع از تلاش‌ها برای کنترل آتش‌سوزی‌هایی شده است که جنوب اروپا را فرا گرفته است. مدیترانه، و از ارتفاعات اسکاتلند تا جنوب اسپانیا، کارشناسان را نگران کرده است، زیرا بسیاری از آتش سوزی ها از کنترل خارج شده اند و در نزدیکی شهرها و شهرها می سوزند. ادامه مطلب...",
+      "summary_en": "Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quellThree Greek firefighters have died while tackling wildfires on the island of Crete and in the south of the mainland, the Greek fire department has said, as extreme heat hinders efforts to control blazes ravaging southern Europe.The arc of brutal fires, which runs from the Atlantic coast to the eastern Mediterranean, and from the Scottish Highlands to the south of Spain, has alarmed experts because many of the fires have been out of control and burning close to towns and cities. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 18:30:27 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/470b83c4361b2a7a2ba777daea620921052ffe11/0_25_5128_4102/master/5128.jpg?width=140&quality=85&auto=format&fit=max&s=099c2dda3f1d96beac2ac8180d034295",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "f7266d1a46d96cb171114f13343c7160",
+      "title": "جیلبریک کردن برخی از مدل های هوش مصنوعی مرزی به طرز وحشتناکی آسان است",
+      "title_fa": "جیلبریک کردن برخی از مدل های هوش مصنوعی مرزی به طرز وحشتناکی آسان است",
+      "title_en": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+      "summary": "من ابزار جدیدی را تماشا کردم که سعی می‌کرد الگوی حفاظتی چهار شرکت بزرگ مرزی را دور بزند. ممکن است از نحوه عملکرد آنها تعجب کنید.",
+      "summary_fa": "من ابزار جدیدی را تماشا کردم که سعی می‌کرد الگوی حفاظتی چهار شرکت بزرگ مرزی را دور بزند. ممکن است از نحوه عملکرد آنها تعجب کنید.",
+      "summary_en": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+      "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "source": "Wired",
+      "published_at": "Wed, 29 Jul 2026 18:30:00 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e2f2460217db66efcac61aae637e535a",
       "title": "یوفا از فیفا به دلیل ضرب الاجل اینفانتینو برای فروش سهام جام جهانی انتقاد کرد",
       "title_fa": "یوفا از فیفا به دلیل ضرب الاجل اینفانتینو برای فروش سهام جام جهانی انتقاد کرد",
@@ -105,6 +525,153 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "e875664cf5c6d5e7b8e698385b7ccc30",
+      "title": "Google Home در مقابل Sonos Era 100: من از هر دو بلندگوی هوشمند استفاده کردم، این چیزی است که توصیه می کنم",
+      "title_fa": "Google Home در مقابل Sonos Era 100: من از هر دو بلندگوی هوشمند استفاده کردم، این چیزی است که توصیه می کنم",
+      "title_en": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
+      "summary": "با ورود اسپیکر Google Home جدید به قفسه فروشگاه ها، ممکن است تعجب کنید که آیا Sonos Era 100 هنوز بهترین انتخاب است یا خیر.",
+      "summary_fa": "با ورود اسپیکر Google Home جدید به قفسه فروشگاه ها، ممکن است تعجب کنید که آیا Sonos Era 100 هنوز بهترین انتخاب است یا خیر.",
+      "summary_en": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
+      "link": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
+      "source": "ZDNet",
+      "published_at": "Wed, 29 Jul 2026 18:25:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "90c7f4e46e5c6c238b6ebb3b821dca18",
+      "title": "سهام Hims and Hers 10% سقوط می کند زیرا FTC از شرکت به دلیل داده ها و شیوه های صورتحساب شکایت کرد",
+      "title_fa": "سهام Hims and Hers 10% سقوط می کند زیرا FTC از شرکت به دلیل داده ها و شیوه های صورتحساب شکایت کرد",
+      "title_en": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+      "summary": "FTC از Hims & Hers به ​​دلیل به اشتراک گذاری اطلاعات بهداشتی با متا و اسنپ، شیوه های صورتحساب و لغو اشتراک شکایت کرد.",
+      "summary_fa": "FTC از Hims & Hers به ​​دلیل به اشتراک گذاری اطلاعات بهداشتی با متا و اسنپ، شیوه های صورتحساب و لغو اشتراک شکایت کرد.",
+      "summary_en": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+      "link": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 18:24:09 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1fc5ff4ab5ff4158e6f1f74a987493ec",
+      "title": "بهترین ساعت‌های هوشمند سال 2026: آزمایش و بررسی کارشناسان",
+      "title_fa": "بهترین ساعت‌های هوشمند سال 2026: آزمایش و بررسی کارشناسان",
+      "title_en": "The best smartwatches of 2026: Expert tested and reviewed",
+      "summary": "من بهترین ساعت‌های هوشمند، از جمله جدیدترین Samsung Galaxy Watch Ultra 2 را آزمایش کرده‌ام. در اینجا نحوه انتخاب مناسب آورده شده است.",
+      "summary_fa": "من بهترین ساعت‌های هوشمند، از جمله جدیدترین Samsung Galaxy Watch Ultra 2 را آزمایش کرده‌ام. در اینجا نحوه انتخاب مناسب آورده شده است.",
+      "summary_en": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
+      "link": "https://www.zdnet.com/article/best-smartwatch/",
+      "source": "ZDNet",
+      "published_at": "Wed, 29 Jul 2026 18:20:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dbc2b000ae3be34ff547e6959408dea2",
+      "title": "سیستم تأیید سن «حفظ حریم خصوصی» گوگل به Play Store می آید",
+      "title_fa": "سیستم تأیید سن «حفظ حریم خصوصی» گوگل به Play Store می آید",
+      "title_en": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+      "summary": "API جدید Google برای تنظیم محدوده سنی در Family Link به والدین متکی است.",
+      "summary_fa": "API جدید Google برای تنظیم محدوده سنی در Family Link به والدین متکی است.",
+      "summary_en": "Google's new API relies on parents to set age ranges in Family Link.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 18:08:22 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "405bc4203b59fc1ee5d1c2428f2e3277",
+      "title": "فدرال رزرو آمریکا با استناد به تورم \"بالا\" نرخ بهره را ثابت نگه می دارد",
+      "title_fa": "فدرال رزرو آمریکا با استناد به تورم \"بالا\" نرخ بهره را ثابت نگه می دارد",
+      "title_en": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+      "summary": "فدرال رزرو گفت: افزایش تورم تا حدی منعکس کننده شوک های عرضه است که باعث افزایش قیمت ها از جمله انرژی شده است.",
+      "summary_fa": "فدرال رزرو گفت: افزایش تورم تا حدی منعکس کننده شوک های عرضه است که باعث افزایش قیمت ها از جمله انرژی شده است.",
+      "summary_en": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:07:55 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1d8653e2bc0fbe9899897f947b883e8",
+      "title": "اعتراضات قطعی برق لیبی، شبکه از کار افتاده این کشور را آشکار می کند",
+      "title_fa": "اعتراضات قطعی برق لیبی، شبکه از کار افتاده این کشور را آشکار می کند",
+      "title_en": "Libya electricity blackout protests expose country’s failing grid",
+      "summary": "لیبیایی ها به قطع شدید برق اعتراض کردند و خواستار پایان دادن به فساد و فرسودگی شبکه شدند.",
+      "summary_fa": "لیبیایی ها به قطع شدید برق اعتراض کردند و خواستار پایان دادن به فساد و فرسودگی شبکه شدند.",
+      "summary_en": "Libyans protest severe power cuts, demanding an end to corruption and grid decay.",
+      "link": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:07:19 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1eeea94bd982aa749db08d1f94eeffce",
+      "title": "آتش سوزی در کشتی ها در بندر دمیتا مصر",
+      "title_fa": "آتش سوزی در کشتی ها در بندر دمیتا مصر",
+      "title_en": "Fire erupts on ships at Egypt’s Damietta port",
+      "summary": "وزارت نفت می‌گوید در حادثه‌ای که بر دو کشتی تأثیر گذاشت، آسیبی وارد نشد و انتظار می‌رود عملیات بندری در یک شب از سر گرفته شود.",
+      "summary_fa": "وزارت نفت می‌گوید در حادثه‌ای که بر دو کشتی تأثیر گذاشت، آسیبی وارد نشد و انتظار می‌رود عملیات بندری در یک شب از سر گرفته شود.",
+      "summary_en": "Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 18:01:57 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -231,6 +798,48 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "5ff1f9695745bcfd24ffc1366ef9b792",
+      "title": "مدیر سابق گلدمن 1.45 میلیون پوند پس از \"انگ\" مرخصی پدری دریافت کرد.",
+      "title_fa": "مدیر سابق گلدمن 1.45 میلیون پوند پس از \"انگ\" مرخصی پدری دریافت کرد.",
+      "title_en": "Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’",
+      "summary": "جان ریوز پس از 6 ماه مرخصی برای مراقبت از کودکش شغل خود را از دست داد",
+      "summary_fa": "جان ریوز پس از 6 ماه مرخصی برای مراقبت از کودکش شغل خود را از دست داد",
+      "summary_en": "Jon Reeves lost his job after he took six months off to look after his baby",
+      "link": "https://www.ft.com/content/730ebfb9-cec0-4cb6-947a-598d64518dad?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 17:54:46 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48e49f63-e3c3-4421-8829-e22d9393ebf6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59f03a89aa1d0f2810a1a1e0b93090de",
+      "title": "قیمت نفت پس از اینکه ترامپ گفت ایران برای حمله موشکی \"شکست خواهد خورد\" افزایش یافت",
+      "title_fa": "قیمت نفت پس از اینکه ترامپ گفت ایران برای حمله موشکی \"شکست خواهد خورد\" افزایش یافت",
+      "title_en": "Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack",
+      "summary": "واشنگتن می گوید که تهران تلاشی برای «حمله غافلگیرانه» به تأسیسات نظامی آمریکا در خاورمیانه انجام داده است",
+      "summary_fa": "واشنگتن می گوید که تهران تلاشی برای «حمله غافلگیرانه» به تأسیسات نظامی آمریکا در خاورمیانه انجام داده است",
+      "summary_en": "Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East",
+      "link": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 17:54:46 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ff02a6-a438-46bd-a993-3fcea4d36971.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -458,6 +1067,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2148806962-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5e9ff4f9ad795378682257882db93ddf",
+      "title": "فیفا پرونده انضباطی را علیه آرژانتین باز کرد",
+      "title_fa": "فیفا پرونده انضباطی را علیه آرژانتین باز کرد",
+      "title_en": "Fifa opens disciplinary proceedings against Argentina",
+      "summary": "فیفا پرونده انضباطی را علیه آرژانتین به دلیل رفتار آنها پس از باخت در فینال جام جهانی مقابل اسپانیا و در طول مسابقات آغاز کرد.",
+      "summary_fa": "فیفا پرونده انضباطی را علیه آرژانتین به دلیل رفتار آنها پس از باخت در فینال جام جهانی مقابل اسپانیا و در طول مسابقات آغاز کرد.",
+      "summary_en": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 17:21:57 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa96/live/523cb650-8b6e-11f1-9c48-75e854e5573d.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -787,6 +1417,27 @@
       "summary": "سرمایه گذاران احتمال می دهند که بانک مرکزی برای مقابله با تورم ناشی از جنگ در ایران، نرخ ها را افزایش می دهد.",
       "summary_fa": "سرمایه گذاران احتمال می دهند که بانک مرکزی برای مقابله با تورم ناشی از جنگ در ایران، نرخ ها را افزایش می دهد.",
       "summary_en": "Investors see one-in-three chance central bank increases rates to combat jolt of inflation triggered by war in Iran",
+      "link": "https://www.ft.com/content/0f9a8575-12ad-4c17-9ee0-50cdab5b8961",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 16:36:20 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fab1261dd-614b-4822-9f2f-64855efdedb4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "60923e5e65e6fe683d118a9ceb6ef306",
+      "title": "فدرال رزرو نرخ بهره را ثابت نگه می دارد، حتی در شرایطی که جنگ ایران، تورم جدیدی را تهدید می کند",
+      "title_fa": "فدرال رزرو نرخ بهره را ثابت نگه می دارد، حتی در شرایطی که جنگ ایران، تورم جدیدی را تهدید می کند",
+      "title_en": "Fed holds rates steady even as Iran war threatens fresh jolt of inflation",
+      "summary": "سه عضو رای‌دهنده FOMC پس از جلسه با ریسک بالا خواستار هزینه‌های استقراض بالاتر هستند",
+      "summary_fa": "سه عضو رای‌دهنده FOMC پس از جلسه با ریسک بالا خواستار هزینه‌های استقراض بالاتر هستند",
+      "summary_en": "Three voting members of FOMC call for higher borrowing costs after high-stakes meeting",
       "link": "https://www.ft.com/content/0f9a8575-12ad-4c17-9ee0-50cdab5b8961",
       "source": "Financial Times",
       "published_at": "Wed, 29 Jul 2026 16:36:20 GMT",
@@ -1550,6 +2201,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/dd13799e6b4b9d371d48508f61c4003633a790d4/124_0_3720_2976/master/3720.jpg?width=140&quality=85&auto=format&fit=max&s=e62eeab93d3ebd2ac3dce1dfe467e7ee",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9ce10f3dd6b631c8757770facd1dd356",
+      "title": "جسد کشف شده در چمدان در آتن جسد یک زن 38 ساله بریتانیایی است",
+      "title_fa": "جسد کشف شده در چمدان در آتن جسد یک زن 38 ساله بریتانیایی است",
+      "title_en": "Body found in suitcase in Athens is that of 38-year-old British woman",
+      "summary": "مقامات یونان پس از کشف در یک ساختمان متروکه در 11 روز پیش، اجساد الیزابت جین راس را شناسایی کردند. جسدی که در یک چمدان در ساختمانی متروکه در مرکز آتن پیدا شد، جسد یک زن 38 ساله بریتانیایی شناسایی شد. یازده روز پس از کشف، پلیس معمای جسدی را روشن کرد که تا روز چهارشنبه پس از درخواست تجدیدنظر توسط مقامات خارجی همچنان باقی مانده بود. ادامه مطلب...",
+      "summary_fa": "مقامات یونان پس از کشف در یک ساختمان متروکه در 11 روز پیش، اجساد الیزابت جین راس را شناسایی کردند. جسدی که در یک چمدان در ساختمانی متروکه در مرکز آتن پیدا شد، جسد یک زن 38 ساله بریتانیایی شناسایی شد. یازده روز پس از کشف، پلیس معمای جسدی را روشن کرد که تا روز چهارشنبه پس از درخواست تجدیدنظر توسط مقامات خارجی همچنان باقی مانده بود. ادامه مطلب...",
+      "summary_en": "Greek authorities identify remains as those of Elizabeth Jane Ross after discovery in a derelict building 11 days agoA body found in a suitcase in an abandoned building in central Athens has been identified as that of a 38-year-old British woman.Eleven days after the find, police shed some light on the mystery of a body that until Wednesday had remained unidentified, after appealing to foreign law enforcement agencies. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/29/body-suitcase-athens-38-year-old-british-woman-greek-authorities",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 15:12:06 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/eec996a8eeed7197b070337f57303277436904d5/386_0_4768_3817/master/4768.jpg?width=140&quality=85&auto=format&fit=max&s=bd16cb094209c765bcafb4848efef6fe",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -4396,6 +5068,27 @@
       "title": "ادای احترام به دی جی و موسیقیدان الکترونیک کاوینسکی که درگذشت",
       "title_fa": "ادای احترام به دی جی و موسیقیدان الکترونیک کاوینسکی که درگذشت",
       "title_en": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "summary": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_fa": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
+      "summary_en": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
+      "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 10:35:13 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b67/live/1718bd10-8b39-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "94e9071be27cacc371496f936bc252ad",
+      "title": "دی‌جی گتا ادای احترامی به موسیقیدان الکترونیک کاوینسکی که درگذشته انجام می‌دهد",
+      "title_fa": "دی‌جی گتا ادای احترامی به موسیقیدان الکترونیک کاوینسکی که درگذشته انجام می‌دهد",
+      "title_en": "DJ Guetta leads tributes to electronic ‌musician Kavinsky who has died",
       "summary": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
       "summary_fa": "او موفق شد با Nightfall که در موسیقی متن Drive و در المپیک 2024 پاریس پخش شد.",
       "summary_en": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
@@ -68795,6 +69488,69 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e27e7a6b10333ac4071f198774e1505",
+      "title": "مشکل برنامه ارتقای اپل چیست؟",
+      "title_fa": "مشکل برنامه ارتقای اپل چیست؟",
+      "title_en": "What’s the catch with the Apple Upgrade program?",
+      "summary": "برنامه ارتقاء جدید اپل اینجاست و به شما امکان می دهد مدل های انتخابی آیفون، آی پد، مک و ساعت را با پرداخت ماهانه نسبتاً کم اجاره کنید. این شرکت قول می دهد که در طول مدت اجاره یک تا سه ساله بیش از قیمت کامل دستگاه را پرداخت نخواهید کرد و در برخی موارد صدها […]",
+      "summary_fa": "برنامه ارتقاء جدید اپل اینجاست و به شما امکان می دهد مدل های انتخابی آیفون، آی پد، مک و ساعت را با پرداخت ماهانه نسبتاً کم اجاره کنید. این شرکت قول می دهد که در طول مدت اجاره یک تا سه ساله بیش از قیمت کامل دستگاه را پرداخت نخواهید کرد و در برخی موارد صدها […]",
+      "summary_en": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in some cases, you'll pay hundreds of […]",
+      "link": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+      "source": "The Verge",
+      "published_at": "2026-07-29T14:40:06-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4977f4133fe59fb4292571159c2231e",
+      "title": "رئیس OpenAI می گوید در حال ایجاد خانواده ای از دستگاه ها است. برای چت ربات های هوش مصنوعی آن",
+      "title_fa": "رئیس OpenAI می گوید در حال ایجاد خانواده ای از دستگاه ها است. برای چت ربات های هوش مصنوعی آن",
+      "title_en": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "summary": "گرگ براکمن، رئیس OpenAI در مصاحبه ای با دوست ما Joanna Stern در کانال یوتیوب خود گفت که این شرکت در حال کار بر روی \"خانواده ای از دستگاه ها\" برای تعامل با مدل های هوش مصنوعی خود است. با این حال، براکمن گزارش‌هایی مبنی بر اینکه یکی از این دستگاه‌ها یک اسپیکر هوشمند OpenAI است که شایعه شده است در سال 2027 یا قبل از آن عرضه می‌شود را تایید نکرد.",
+      "summary_fa": "گرگ براکمن، رئیس OpenAI در مصاحبه ای با دوست ما Joanna Stern در کانال یوتیوب خود گفت که این شرکت در حال کار بر روی \"خانواده ای از دستگاه ها\" برای تعامل با مدل های هوش مصنوعی خود است. با این حال، براکمن گزارش‌هایی مبنی بر اینکه یکی از این دستگاه‌ها یک اسپیکر هوشمند OpenAI است که شایعه شده است در سال 2027 یا قبل از آن عرضه می‌شود را تایید نکرد.",
+      "summary_en": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge",
+      "published_at": "2026-07-29T14:15:02-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4fc56f0535f903c657826cf20c345161",
+      "title": "دولت آمریکا رومباس را ممنوع کرد",
+      "title_fa": "دولت آمریکا رومباس را ممنوع کرد",
+      "title_en": "The US government just banned Roombas",
+      "summary": "زمانی که دولت ترامپ دیروز اعلام کرد که ورود «دستگاه های روباتیک پیشرفته» را به ایالات متحده ممنوع می کند، سرفصل ها همه درباره انسان نماها بود. اما جاسوسی نیازی به پاها ندارد - و همچنین ممنوعیت ربات FCC نیز وجود ندارد. کتی گورسکاک، مدیر روابط رسانه ای FCC تایید می کند که ممنوعیت ربات جاروبرقی های ربات را نیز جارو می کند.",
+      "summary_fa": "زمانی که دولت ترامپ دیروز اعلام کرد که ورود «دستگاه های روباتیک پیشرفته» را به ایالات متحده ممنوع می کند، سرفصل ها همه درباره انسان نماها بود. اما جاسوسی نیازی به پاها ندارد - و همچنین ممنوعیت ربات FCC نیز وجود ندارد. کتی گورسکاک، مدیر روابط رسانه ای FCC تایید می کند که ممنوعیت ربات جاروبرقی های ربات را نیز جارو می کند.",
+      "summary_en": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations director Katie Gorscak confirms to […]",
+      "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "source": "The Verge",
+      "published_at": "2026-07-29T14:13:09-04:00",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
