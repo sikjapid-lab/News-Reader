@@ -1,7 +1,175 @@
 {
-  "last_update": "2026-07-29 22:37:54",
-  "total_count": 3669,
+  "last_update": "2026-07-29 23:41:39",
+  "total_count": 3679,
   "articles": [
+    {
+      "id": "b2c86192ea1ec6527198a7c0084d73e4",
+      "title": "معنای تقسیم فدرال رزرو برای سرمایه گذاران چیست",
+      "title_fa": "معنای تقسیم فدرال رزرو برای سرمایه گذاران چیست",
+      "title_en": "What a divided Fed means for investors",
+      "summary": "وال استریت یک برداشت واضح از تصمیم این هفته فدرال رزرو دارد: افزایش احتمالی در افق وجود دارد.",
+      "summary_fa": "وال استریت یک برداشت واضح از تصمیم این هفته فدرال رزرو دارد: افزایش احتمالی در افق وجود دارد.",
+      "summary_en": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+      "link": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 23:36:34 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4b59c6784818797bdb40bc2c19d2d89",
+      "title": "ترامپ از حکم مدنی 83.3 میلیون دلاری ژان کارول به دیوان عالی ایالات متحده درخواست تجدید نظر داد",
+      "title_fa": "ترامپ از حکم مدنی 83.3 میلیون دلاری ژان کارول به دیوان عالی ایالات متحده درخواست تجدید نظر داد",
+      "title_en": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "summary": "وزارت دادگستری پرونده های جداگانه ای در حمایت از پرونده ترامپ برای پرتاب جایزه افترا منتشر کرده است.",
+      "summary_fa": "وزارت دادگستری پرونده های جداگانه ای در حمایت از پرونده ترامپ برای پرتاب جایزه افترا منتشر کرده است.",
+      "summary_en": "The Department of Justice has issued separate filings in support of Trump's case to toss the defamation award.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:25:37 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c567f2d73436c22e4fe50303fb90d2c0",
+      "title": "ایالات متحده می خواهد آسیا از هوش مصنوعی خود استفاده کند - اما چین بر مدل های ارزان تر تسلط دارد",
+      "title_fa": "ایالات متحده می خواهد آسیا از هوش مصنوعی خود استفاده کند - اما چین بر مدل های ارزان تر تسلط دارد",
+      "title_en": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+      "summary": "بزرگترین قاره جهان در حال تبدیل شدن به مرکز رقابت هوش مصنوعی بین ایالات متحده و چین است.",
+      "summary_fa": "بزرگترین قاره جهان در حال تبدیل شدن به مرکز رقابت هوش مصنوعی بین ایالات متحده و چین است.",
+      "summary_en": "The world's largest continent is becoming the center of the artificial intelligence race between the U.S. and China.",
+      "link": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 23:10:46 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "80d66e129e03c1adb76ce6754e930684",
+      "title": "عراق حملات عربستان و آمریکا را «نقض آشکار حاکمیت» خواند",
+      "title_fa": "عراق حملات عربستان و آمریکا را «نقض آشکار حاکمیت» خواند",
+      "title_en": "Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’",
+      "summary": "علی الزیدی نخست وزیر این کشور در اعتراض به اولین سفر رسمی خود به عربستان سعودی را لغو کرد.",
+      "summary_fa": "علی الزیدی نخست وزیر این کشور در اعتراض به اولین سفر رسمی خود به عربستان سعودی را لغو کرد.",
+      "summary_en": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:10:15 +0000",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "798711193c7084e5dd28308ff38ae245",
+      "title": "سارا فریار، مدیر مالی OpenAI به کارمندان می گوید که درآمد سالانه در ماه جولای بالاتر از کل سه ماهه دوم است",
+      "title_fa": "سارا فریار، مدیر مالی OpenAI به کارمندان می گوید که درآمد سالانه در ماه جولای بالاتر از کل سه ماهه دوم است",
+      "title_en": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+      "summary": "OpenAI در تلاش است تا به کارکنان اطمینان دهد که کسب و کار سالم است زیرا رقابت از Anthropic و همچنین تعداد زیادی از بازیکنان منبع باز پدیدار می شود.",
+      "summary_fa": "OpenAI در تلاش است تا به کارکنان اطمینان دهد که کسب و کار سالم است زیرا رقابت از Anthropic و همچنین تعداد زیادی از بازیکنان منبع باز پدیدار می شود.",
+      "summary_en": "OpenAI is trying to reassure employees that the business is healthy as competition emerges from Anthropic as well as a host of open-source players.",
+      "link": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 23:09:42 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c1e4ab7dc7fd3cd2d370713fd37c452",
+      "title": "نمایندگان پارلمان می گویند که نشت داده های وزارت دفاع افغانستان \"شکست سیستمی قابل پیش بینی\" بود",
+      "title_fa": "نمایندگان پارلمان می گویند که نشت داده های وزارت دفاع افغانستان \"شکست سیستمی قابل پیش بینی\" بود",
+      "title_en": "MoD’s Afghan data leak was ‘foreseeable systemic failure’, say MPs",
+      "summary": "سرباز به طور تصادفی اطلاعات شخصی 25000 نفر را که برای نقل مکان به بریتانیا درخواست داده بودند فاش کرد.",
+      "summary_fa": "سرباز به طور تصادفی اطلاعات شخصی 25000 نفر را که برای نقل مکان به بریتانیا درخواست داده بودند فاش کرد.",
+      "summary_en": "Soldier accidentally disclosed the personal details of 25,000 people who had applied for relocation to Britain",
+      "link": "https://www.ft.com/content/f8d3ad2e-83bb-41a9-99d2-8004a2e8c22a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 23:01:06 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef4551ec-d8af-4996-96ac-c49e72866856.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b17ac54200a94f838115f9a8fe846a5d",
+      "title": "اعتراض CJP هند: چرا فناوری به تنهایی جلوی درز برگه امتحان را نمی گیرد؟",
+      "title_fa": "اعتراض CJP هند: چرا فناوری به تنهایی جلوی درز برگه امتحان را نمی گیرد؟",
+      "title_en": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "summary": "آیا تست کامپیوتری می تواند نشت کاغذ NEET را متوقف کند؟ کارشناسان می گویند حکمرانی به اندازه فناوری اهمیت دارد.",
+      "summary_fa": "آیا تست کامپیوتری می تواند نشت کاغذ NEET را متوقف کند؟ کارشناسان می گویند حکمرانی به اندازه فناوری اهمیت دارد.",
+      "summary_en": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 22:50:14 GMT",
+      "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8b/live/9c0bab50-8b24-11f1-aaf3-8dae78dd0f1a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d08f2535c9b119abec87b83ec8322f06",
+      "title": "چرا ETF نفت USO خرید بهتری نسبت به معاملات آتی نفت خام در حالی است که جنگ ایران بیداد می کند؟",
+      "title_fa": "چرا ETF نفت USO خرید بهتری نسبت به معاملات آتی نفت خام در حالی است که جنگ ایران بیداد می کند؟",
+      "title_en": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+      "summary": "صندوق نفت ایالات متحده از زمان آغاز جنگ ایران تا کنون 58 درصد افزایش یافته است که بیش از دو برابر افزایش قیمت نفت خام WTI است.",
+      "summary_fa": "صندوق نفت ایالات متحده از زمان آغاز جنگ ایران تا کنون 58 درصد افزایش یافته است که بیش از دو برابر افزایش قیمت نفت خام WTI است.",
+      "summary_en": "The United States Oil Fund has climbed by 58% since the start of the Iran war, more than double the gain of WTI crude futures.",
+      "link": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 29 Jul 2026 22:44:00 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-302233",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
     {
       "id": "0d1c0de2ff4ee20951d99c2347c87989",
       "title": "سم آلتمن با قانونگذاران در پشت شرکت های هک کننده OpenAI ملاقات می کند",
@@ -150,10 +318,52 @@
       }
     },
     {
+      "id": "7fda56f8db6acb8ff109feb84d370761",
+      "title": "حمله Mythos به کاندیدای الگوریتم PQC دور سوم، آن را از کار انداخته است",
+      "title_fa": "حمله Mythos به کاندیدای الگوریتم PQC دور سوم، آن را از کار انداخته است",
+      "title_en": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "summary": "هاوک در برابر سال‌ها آزمایش مقاومت کرد که هنوز نتوانسته بود ضعف مهلکی را که از طریق Mythos پیدا شده بود کشف کند.",
+      "summary_fa": "هاوک در برابر سال‌ها آزمایش مقاومت کرد که هنوز نتوانسته بود ضعف مهلکی را که از طریق Mythos پیدا شده بود کشف کند.",
+      "summary_en": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 29 Jul 2026 22:07:06 +0000",
+      "date_iso": "2026-07-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c54284c80ee39199261d09387e3f6586",
       "title": "سهام متا 10 درصد سقوط کرد زیرا زاکربرگ سعی می کند چشم انداز خود را برای \"عوامل\" هوش مصنوعی بفروشد.",
       "title_fa": "سهام متا 10 درصد سقوط کرد زیرا زاکربرگ سعی می کند چشم انداز خود را برای \"عوامل\" هوش مصنوعی بفروشد.",
       "title_en": "Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’",
+      "summary": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
+      "summary_fa": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
+      "summary_en": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
+      "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 22:04:47 GMT",
+      "date_iso": "2026-07-29",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F12685ac0-8fa0-4587-a936-389d490bf498.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34b078abdcd810d69539e0aadc357b45",
+      "title": "در حالی که زاکربرگ تلاش می کند چشم انداز خود را به «عوامل» هوش مصنوعی بفروشد، سهام متا سقوط می کند.",
+      "title_fa": "در حالی که زاکربرگ تلاش می کند چشم انداز خود را به «عوامل» هوش مصنوعی بفروشد، سهام متا سقوط می کند.",
+      "title_en": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
       "summary": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
       "summary_fa": "رئیس رسانه های اجتماعی از استراتژی مبتنی بر ربات های شخصی شده دفاع می کند زیرا هزینه ها افزایش می یابد و پیش بینی های درآمد ناامید می شود",
       "summary_en": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
