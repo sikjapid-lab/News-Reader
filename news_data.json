@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 01:03:47",
-  "total_count": 3699,
+  "last_update": "2026-07-30 04:17:07",
+  "total_count": 3739,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -360,6 +360,27 @@
       }
     },
     {
+      "id": "31c8d744f10d7c78efc29136502e9629",
+      "title": "Qualcomm کاهش فروش و سود را منتشر می کند زیرا هزینه های تراشه به بازار گوشی های هوشمند آسیب می زند",
+      "title_fa": "Qualcomm کاهش فروش و سود را منتشر می کند زیرا هزینه های تراشه به بازار گوشی های هوشمند آسیب می زند",
+      "title_en": "Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market",
+      "summary": "درآمد خالص 25 درصد کاهش می یابد زیرا قیمت های بالاتر تراشه های حافظه به تجارت دستگاه ضربه می زند",
+      "summary_fa": "درآمد خالص 25 درصد کاهش می یابد زیرا قیمت های بالاتر تراشه های حافظه به تجارت دستگاه ضربه می زند",
+      "summary_en": "Net income falls 25% as higher memory chip prices hit device business",
+      "link": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 29 Jul 2026 22:20:48 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1169a02c-ed08-4cf8-bac8-ffca2ce1ac2c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4e9bf2f4ddb9a7aea9bafab9b1a46faf",
       "title": "صدها مهاجر از مراکش به سمت قلمرو اسپانیایی سئوتا شنا می کنند",
       "title_fa": "صدها مهاجر از مراکش به سمت قلمرو اسپانیایی سئوتا شنا می کنند",
@@ -392,6 +413,27 @@
       "source": "BBC World",
       "published_at": "Wed, 29 Jul 2026 22:15:33 GMT",
       "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0bb06d05cbcb7b60abb87b2194a3d4e1",
+      "title": "مهاجم سلمان رشدی به اتهام جرایم تروریستی محکوم شد",
+      "title_fa": "مهاجم سلمان رشدی به اتهام جرایم تروریستی محکوم شد",
+      "title_en": "Salman Rushdie attacker convicted of terror offences",
+      "summary": "هادی مطر 28 ساله به اتهام تلاش برای کمک به حزب الله با حمله به نویسنده هندی بریتانیایی محکوم شد.",
+      "summary_fa": "هادی مطر 28 ساله به اتهام تلاش برای کمک به حزب الله با حمله به نویسنده هندی بریتانیایی محکوم شد.",
+      "summary_en": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 22:15:33 GMT",
+      "date_iso": "2026-07-30",
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg",
@@ -32516,6 +32558,678 @@
       }
     },
     {
+      "id": "4f6276a4cfcd28f4b4bb86450c028462",
+      "title": "حملات مستقیم آمریکا به ایران یک روز پس از خنثی شدن حملات این کشور به پایگاه های اردن میزبان نیروهای آمریکایی از سر گرفته می شود.",
+      "title_fa": "حملات مستقیم آمریکا به ایران یک روز پس از خنثی شدن حملات این کشور به پایگاه های اردن میزبان نیروهای آمریکایی از سر گرفته می شود.",
+      "title_en": "US resumes direct attacks on Iran one day after its foiled strikes on Jordanian bases hosting American troops",
+      "summary": "حملات اخیر پس از آن صورت می‌گیرد که ترامپ در پی حملات اخیر آنها به پایگاه‌های میزبان نیروهای آمریکایی در اردن و دیگر متحدان آمریکا در منطقه، از جمله مصر و کشورهای عربی خلیج فارس، قول حمله «بسیار سخت» به ایران را داد.",
+      "summary_fa": "حملات اخیر پس از آن صورت می‌گیرد که ترامپ در پی حملات اخیر آنها به پایگاه‌های میزبان نیروهای آمریکایی در اردن و دیگر متحدان آمریکا در منطقه، از جمله مصر و کشورهای عربی خلیج فارس، قول حمله «بسیار سخت» به ایران را داد.",
+      "summary_en": "The latest attacks come after Trump vowed “very hard” strikes on Iran following their recent strikes on bases hosting American troops in Jordan, and other US allies in the region, including Egypt and the Gulf Arab states.",
+      "link": "http://www.euronews.com/2026/07/30/washington-resumes-direct-attacks-on-iran-a-day-after-its-foiled-strikes-on-jordanian-base",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 05:53:06 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "187d43ef69c9692cc9b01b576c3569bb",
+      "title": "قوه قضائیه سنا رای نامزدی Blanche AG را به دلیل نگرانی های ترامپ و IRS به تعویق انداخت",
+      "title_fa": "قوه قضائیه سنا رای نامزدی Blanche AG را به دلیل نگرانی های ترامپ و IRS به تعویق انداخت",
+      "title_en": "Senate Judiciary postpones Blanche AG nomination vote over Trump-IRS settlement concerns",
+      "summary": "سناتور جان کورنین، از ایالت تگزاس، می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ، رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_fa": "سناتور جان کورنین، از ایالت تگزاس، می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ، رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_en": "Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+      "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 04:16:32 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "de29acbe9f7f82a62c9e43e3188761cb",
+      "title": "در حالی که آتش سوزی های جنگلی اروپا را فرا می گیرد، اسکاتلند برای نجات یک پارک ملی گرامی مسابقه می دهد",
+      "title_fa": "در حالی که آتش سوزی های جنگلی اروپا را فرا می گیرد، اسکاتلند برای نجات یک پارک ملی گرامی مسابقه می دهد",
+      "title_en": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
+      "summary": "با گرم شدن آب و هوای اروپا، حتی دشت‌ها و جنگل‌های کرنگورمز، در ارتفاعات اسکاتلند، قربانی شعله‌های آتش شده‌اند که به سرعت در حال گسترش هستند.",
+      "summary_fa": "با گرم شدن آب و هوای اروپا، حتی دشت‌ها و جنگل‌های کرنگورمز، در ارتفاعات اسکاتلند، قربانی شعله‌های آتش شده‌اند که به سرعت در حال گسترش هستند.",
+      "summary_en": "As Europe’s climate warms, even moorlands and forests in the Cairngorms, in the Scottish Highlands, have fallen victim to rapidly spreading flames.",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 04:01:06 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-uk-scotland-wildfires-01-qmkl/30int-uk-scotland-wildfires-01-qmkl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "0a3f190bf9aab5349c631eb924d4e69c",
+      "title": "«مثل سقوط خاکستر آتشفشانی»: داخل مرکز خرید آئون پس از زلزله ژاپن",
+      "title_fa": "«مثل سقوط خاکستر آتشفشانی»: داخل مرکز خرید آئون پس از زلزله ژاپن",
+      "title_en": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
+      "summary": "تاکایچی، نخست‌وزیر ژاپن می‌گوید برای نجات افراد گرفتار در مرکز خرید و سایر آسیب‌دیدگان زلزله، «با زمان مسابقه دهید».",
+      "summary_fa": "تاکایچی، نخست‌وزیر ژاپن می‌گوید برای نجات افراد گرفتار در مرکز خرید و سایر آسیب‌دیدگان زلزله، «با زمان مسابقه دهید».",
+      "summary_en": "Japanese PM Takaichi says 'race against time' to rescue those trapped in the mall and others affected by the quake.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 04:00:30 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "44e7e84b18339ee948c3c1a8df9c99cc",
+      "title": "چگونه تغییرات آب و هوایی و تعرفه ها به چین کمک می کند تا گاوهای بیشتری را پرورش دهد",
+      "title_fa": "چگونه تغییرات آب و هوایی و تعرفه ها به چین کمک می کند تا گاوهای بیشتری را پرورش دهد",
+      "title_en": "How Climate Change and Tariffs Help China Raise More Cattle",
+      "summary": "از آنجایی که افزایش باران، علفزارها و مزارع ذرت را در مناطقی که زمانی بیابان بودند ممکن می‌سازد، بزرگترین واردکننده گوشت گاو در جهان با گسترش گله‌های داخلی به خود متکی‌تر می‌شود.",
+      "summary_fa": "از آنجایی که افزایش باران، علفزارها و مزارع ذرت را در مناطقی که زمانی بیابان بودند ممکن می‌سازد، بزرگترین واردکننده گوشت گاو در جهان با گسترش گله‌های داخلی به خود متکی‌تر می‌شود.",
+      "summary_en": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.",
+      "link": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 04:00:11 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/Biz-China-Beef-1/c-01-jmqw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "362230408ca93c1bd24eb348e9de24e9",
+      "title": "حمله ایالات متحده و عربستان به شبه نظامیان عراقی خطر کشاندن آنها به جنگ را دارد",
+      "title_fa": "حمله ایالات متحده و عربستان به شبه نظامیان عراقی خطر کشاندن آنها به جنگ را دارد",
+      "title_en": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+      "summary": "شبه نظامیان همسو با ایران در عراق تحت فشار فزاینده ای برای خلع سلاح بودند، اما حملات اخیر ممکن است آنها را برای درگیر شدن عمیق تر در جنگ جسارت کند.",
+      "summary_fa": "شبه نظامیان همسو با ایران در عراق تحت فشار فزاینده ای برای خلع سلاح بودند، اما حملات اخیر ممکن است آنها را برای درگیر شدن عمیق تر در جنگ جسارت کند.",
+      "summary_en": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 04:00:10 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-iran-iraq-1-vqtb/30int-iran-iraq-1-vqtb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7ed07f019dbe6be43e2cfbbf910863e9",
+      "title": "آمریکا دور دیگری از حملات خود را علیه ایران آغاز کرد",
+      "title_fa": "آمریکا دور دیگری از حملات خود را علیه ایران آغاز کرد",
+      "title_en": "US launches another round of attacks on Iran",
+      "summary": "اهداف در سرتاسر جنوب ایران از جمله جزیره استراتژیک قشم مورد اصابت قرار گرفت.",
+      "summary_fa": "اهداف در سرتاسر جنوب ایران از جمله جزیره استراتژیک قشم مورد اصابت قرار گرفت.",
+      "summary_en": "Targets across southern Iran hit, including on strategic Qeshm Island.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 03:56:07 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0999ba337a62c08601f45413e0944d69",
+      "title": "اخبار استرالیا به صورت زنده: ایکاک می شنود که تیلور «قطعاً مخالف» فعالیت های جناح راست لیبرال نبود. هزینه بازی های تاسمانیایی Neil the seal 36000 دلار است",
+      "title_fa": "اخبار استرالیا به صورت زنده: ایکاک می شنود که تیلور «قطعاً مخالف» فعالیت های جناح راست لیبرال نبود. هزینه بازی های تاسمانیایی Neil the seal 36000 دلار است",
+      "title_en": "Australia news live: Taylor ‘definitely wasn’t opposed’ to rightwing Liberal faction’s activities, Icac hears; Neil the seal’s Tasmanian antics cost $36,000",
+      "summary": "به‌روزرسانی‌ها را به‌طور زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. بخش بومی و تحت کنترل جامعه و کسانی که در بخش پیش دبستانی دخیل هستند. ... واضح است که چالش‌ها با همه اهداف دیگر همچنان پابرجا هستند، اما من از این واقعیت که به این هدف دست یافته است، دل می‌بندم. مقابله با این موقعیت‌ها که در آن شما قوانین خاصی دارید که نرخ بالای زندانی شدن افراد ملل اول را مشاهده می‌کند، بسیار دشوار است. معنای آن این است که ما باید سخت‌تر پیش برویم، ما باید به فشار آوردن بر ایالت‌ها و مناطق اطراف عوامل عدالت ادامه دهیم. واضح است که این یک نگرانی واقعی است. ادامه مطلب...",
+      "summary_fa": "به‌روزرسانی‌ها را به‌طور زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. بخش بومی و تحت کنترل جامعه و کسانی که در بخش پیش دبستانی دخیل هستند. ... واضح است که چالش‌ها با همه اهداف دیگر همچنان پابرجا هستند، اما من از این واقعیت که به این هدف دست یافته است، دل می‌بندم. مقابله با این موقعیت‌ها که در آن شما قوانین خاصی دارید که نرخ بالای زندانی شدن افراد ملل اول را مشاهده می‌کند، بسیار دشوار است. معنای آن این است که ما باید سخت‌تر پیش برویم، ما باید به فشار آوردن بر ایالت‌ها و مناطق اطراف عوامل عدالت ادامه دهیم. واضح است که این یک نگرانی واقعی است. ادامه مطلب...",
+      "summary_en": "Follow updates liveGet our breaking news email, free app or daily news podcastMinister says meeting Closing the Gap target a major step, but more work needed on othersMalarndirri McCarthy, the minister for Indigenous Australians, said early childhood education enrolment for First Nations children was a milestone in the effort to reach the Closing the Gap targets.It is important to see this milestone achieved, and that is because of the work of the Aboriginal and community controlled sector and those involved in the preschool sector. … Clearly, the challenges with all the other targets remain, but I do take heart at the fact that this has been achieved.It’s very, very difficult to deal with these situations where you have particular pieces of legislation that see the high incarceration rates of First Nations people. What that means is that we have to go harder, we have to keep pushing the states and territories around the justice factors. Clearly, that is a real concern. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 03:52:03 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f1ff7bf2bc04d5e59c5502c3f93cfc9898ec594f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=803173d10e098d1c118d5966fe4bb866",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ff2439e2bc5f73dd2ace81ab64209533",
+      "title": "ایالات متحده پس از حمله موشکی غافلگیرانه به ایران حمله کرد و امیدها برای کاهش تنش را از بین برد",
+      "title_fa": "ایالات متحده پس از حمله موشکی غافلگیرانه به ایران حمله کرد و امیدها برای کاهش تنش را از بین برد",
+      "title_en": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation",
+      "summary": "نیروهای آمریکایی از چهارشنبه حملات خود را علیه ایالت ایران آغاز کردند و دو طرف را پس از یک توقف چند روزه به درگیری آشکار بازگرداندند.",
+      "summary_fa": "نیروهای آمریکایی از چهارشنبه حملات خود را علیه ایالت ایران آغاز کردند و دو طرف را پس از یک توقف چند روزه به درگیری آشکار بازگرداندند.",
+      "summary_en": "The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.",
+      "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 03:50:29 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "76ce91104616db077927ba55a6b23bb6",
+      "title": "حملات اسرائیل باعث سوختن ساختمان ها در شهر غزه شد",
+      "title_fa": "حملات اسرائیل باعث سوختن ساختمان ها در شهر غزه شد",
+      "title_en": "Israeli strikes leave buildings burning in Gaza City",
+      "summary": "حملات اسرائیل ده ها خانواده را در اردوگاه آوارگان شاطی شهر غزه آواره کرده است.",
+      "summary_fa": "حملات اسرائیل ده ها خانواده را در اردوگاه آوارگان شاطی شهر غزه آواره کرده است.",
+      "summary_en": "Israeli strikes have displaced dozens of families in Gaza City's Shati refugee camp.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 03:49:25 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "80c6deb482fb4e466932d8a72e358843",
+      "title": "نجات چشمگیر در دریا با جان باختن آتش نشانان در جزیره یونانی کرت",
+      "title_fa": "نجات چشمگیر در دریا با جان باختن آتش نشانان در جزیره یونانی کرت",
+      "title_en": "Dramatic sea rescue as firefighters die on the Greek island of Crete",
+      "summary": "گارد ساحلی یونان در حال نجات افرادی است که با گسترش سریع آتش سوزی در جزیره کرت به دام افتاده بودند.",
+      "summary_fa": "گارد ساحلی یونان در حال نجات افرادی است که با گسترش سریع آتش سوزی در جزیره کرت به دام افتاده بودند.",
+      "summary_en": "The Greek Coast Guard is rescuing people trapped by rapidly spreading wildfires on the island of Crete.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/aje-onl-nf_dramatic-sea-rescue-as-firefighters-die-in-greece-290726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 03:33:34 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b412799a8c31368d260accba88a49d96",
+      "title": "ایالات متحده پس از تلاش برای حمله به نیروهای آمریکایی، حملات «سنگین» به ایران انجام داد",
+      "title_fa": "ایالات متحده پس از تلاش برای حمله به نیروهای آمریکایی، حملات «سنگین» به ایران انجام داد",
+      "title_en": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "ارتش آمریکا گفت این حملات در پاسخ به شلیک موشک های ایران به نیروهای آمریکایی در خاورمیانه در روز سه شنبه انجام شده است.",
+      "summary_fa": "ارتش آمریکا گفت این حملات در پاسخ به شلیک موشک های ایران به نیروهای آمریکایی در خاورمیانه در روز سه شنبه انجام شده است.",
+      "summary_en": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 03:33:01 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7724/live/4674b810-8bb2-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e6819f504b8510077752c89eca42b895",
+      "title": "آگاهی موقعیتی لئوپولد اشنبرنر به دنبال افزایش سرمایه پس از شکست هوش مصنوعی است",
+      "title_fa": "آگاهی موقعیتی لئوپولد اشنبرنر به دنبال افزایش سرمایه پس از شکست هوش مصنوعی است",
+      "title_en": "Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout",
+      "summary": "صندوق تامینی در روزهای اخیر مذاکراتی را با سرمایه گذاران و وام دهندگان موجود انجام داده است",
+      "summary_fa": "صندوق تامینی در روزهای اخیر مذاکراتی را با سرمایه گذاران و وام دهندگان موجود انجام داده است",
+      "summary_en": "Hedge fund has held talks with existing investors and lenders in recent days",
+      "link": "https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 03:28:38 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3dc4831d-d3dc-4b09-9ef7-8d00120f80e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "654af7eccb1afc088df26633ceab326b",
+      "title": "لوک گاسلینگ، نماینده حزب کارگر فدرال به حمله به مدیر NT متهم شد",
+      "title_fa": "لوک گاسلینگ، نماینده حزب کارگر فدرال به حمله به مدیر NT متهم شد",
+      "title_en": "Federal Labor MP Luke Gosling charged with assaulting NT administrator",
+      "summary": "یکی از اعضای Solomon قبلاً وقوع حادثه ادعایی با مدیر دیوید کانولی را رد کرده و می‌گوید که با اتهامات وارده رقابت خواهد کرد. پلیس روز پنجشنبه در بیانیه ای اعلام کرد که لوک گاسلینگ، عضو 54 ساله فدرال را به خاطر سولومون در رابطه با حمله به مدیر منطقه شمالی متهم کرد. ادامه مطلب...",
+      "summary_fa": "یکی از اعضای Solomon قبلاً وقوع حادثه ادعایی با مدیر دیوید کانولی را رد کرده و می‌گوید که با اتهامات وارده رقابت خواهد کرد. پلیس روز پنجشنبه در بیانیه ای اعلام کرد که لوک گاسلینگ، عضو 54 ساله فدرال را به خاطر سولومون در رابطه با حمله به مدیر منطقه شمالی متهم کرد. ادامه مطلب...",
+      "summary_en": "Member for Solomon previously denied alleged incident with administrator David Connolly and says he will contest chargesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLuke Gosling, the federal Labor member for Solomon, has been charged over an alleged assault on the Northern Territory’s administrator earlier this month, NT police have said.“The Northern Territory police force has charged the 54-year-old federal member for Solomon, Luke Gosling, in relation to an alleged assault on the administrator of the Northern Territory,” police said in a statement on Thursday. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 03:23:04 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbb01f44b65ffc54a660cd01f20224d2",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "5d312e626a62f27a6d6b6dd035a29ea5",
+      "title": "حملات مرگبار به شهرهای اوکراین پس از هشدار زلنسکی درباره حمله \"گسترده\" روسیه",
+      "title_fa": "حملات مرگبار به شهرهای اوکراین پس از هشدار زلنسکی درباره حمله \"گسترده\" روسیه",
+      "title_en": "Deadly strikes on Ukrainian cities after Zelenskyy warns of ‘massive’ Russian attack",
+      "summary": "شش کشته در کریوی ریه از جمله دو کودک و آتش سوزی در کیف، پایتخت اوکراین، پس از موج پرتاب موشک بالستیک رئیس اداره نظامی کریو ریه گفت: حمله موشکی روسیه حداقل شش نفر را در مرکز اوکراین کشته است، از جمله دو دختر، در حالی که حداقل یک نفر در کیف جان خود را از دست داده است. الکساندر ویلکول گفت که هشت نفر دیگر زخمی شده‌اند و ممکن است تعداد کشته‌ها افزایش یابد، در حومه کریوی ریه، حمله مستقیم موشک بالستیک اسکندر-ام که از ورونژ پرتاب شد، به خانه‌ای خصوصی که در آن یک خانواده بزرگ زندگی می‌کردند، اصابت کرد. ادامه مطلب...",
+      "summary_fa": "شش کشته در کریوی ریه از جمله دو کودک و آتش سوزی در کیف، پایتخت اوکراین، پس از موج پرتاب موشک بالستیک رئیس اداره نظامی کریو ریه گفت: حمله موشکی روسیه حداقل شش نفر را در مرکز اوکراین کشته است، از جمله دو دختر، در حالی که حداقل یک نفر در کیف جان خود را از دست داده است. الکساندر ویلکول گفت که هشت نفر دیگر زخمی شده‌اند و ممکن است تعداد کشته‌ها افزایش یابد، در حومه کریوی ریه، حمله مستقیم موشک بالستیک اسکندر-ام که از ورونژ پرتاب شد، به خانه‌ای خصوصی که در آن یک خانواده بزرگ زندگی می‌کردند، اصابت کرد. ادامه مطلب...",
+      "summary_en": "Six dead in Kryvi Rih including two children and fires in Kyiv, the Ukrainian capital, after wave of ballistic missile launchesA Russian missile strike killed at least six people in central Ukraine, including two girls, the head of Kryvyi Rih’s military administration said, while at least one person died in Kyiv, after the Ukrainian president, Volodymyr Zelenskyy, warned the country hours in advance of Moscow launching another massive attack.“In a village on the outskirts of Kryvyi Rih, a direct strike by an Iskander-M ballistic missile, launched from Voronezh, hit a private house where a large family lived, killing girls aged five and 12 and four adults,” said Oleksandr Vilkul, adding that a further eight people were wounded and that the death toll may rise. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 03:19:54 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/babd7f6accd2e9d5e6429126c465bb9af25bbb88/253_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=53181e8adc28b97c373c754b7764256b",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "bca11d2b9c8f9bc7e1ec01f67b800f9a",
+      "title": "به روز رسانی زنده جنگ ایران: ایالات متحده با شعله ور شدن درگیری ها در سراسر منطقه به ایران حمله می کند",
+      "title_fa": "به روز رسانی زنده جنگ ایران: ایالات متحده با شعله ور شدن درگیری ها در سراسر منطقه به ایران حمله می کند",
+      "title_en": "Iran War Live Updates: U.S. Strikes Iran as Fighting Reignites Across Region",
+      "summary": "پس از آن که ایران نیروهای آمریکایی در اردن را هدف قرار داد، رئیس جمهور ترامپ متعهد شده بود که پاسخ دهد. در عراق نیز حملاتی صورت گرفت، در حالی که یک نفتکش آمریکایی در میان دو کشتی بود که در مصر آتش گرفت.",
+      "summary_fa": "پس از آن که ایران نیروهای آمریکایی در اردن را هدف قرار داد، رئیس جمهور ترامپ متعهد شده بود که پاسخ دهد. در عراق نیز حملاتی صورت گرفت، در حالی که یک نفتکش آمریکایی در میان دو کشتی بود که در مصر آتش گرفت.",
+      "summary_en": "President Trump had vowed a response after Iran targeted U.S. forces in Jordan. There were also attacks in Iraq, while an American tanker was among two ships that caught fire in Egypt.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 03:13:48 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo830p-zhwm/29mideast-live-promo830p-zhwm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c423d476cdd44f3d24a86ceb37fd4d7c",
+      "title": "مایکروسافت با افزایش برنامه های هزینه های سرمایه ای با اشاره به تقاضا، 8 درصد جهش کرد",
+      "title_fa": "مایکروسافت با افزایش برنامه های هزینه های سرمایه ای با اشاره به تقاضا، 8 درصد جهش کرد",
+      "title_en": "Microsoft jumps 8% as it boosts capital spending plans, citing demand",
+      "summary": "مایکروسافت با تغییر حسابداری مراکز داده و ساختمان های اداری، جریان نقدی آزاد مثبتی را برای سال مالی جدید می بیند.",
+      "summary_fa": "مایکروسافت با تغییر حسابداری مراکز داده و ساختمان های اداری، جریان نقدی آزاد مثبتی را برای سال مالی جدید می بیند.",
+      "summary_en": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
+      "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 03:09:11 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e8705643bf531ad3c7a0e209d8584bf",
+      "title": "چرا آنتونی فائوچی متمم پنجم را مورد استناد قرار داد؟ جلسه استماع سنا توضیح داد",
+      "title_fa": "چرا آنتونی فائوچی متمم پنجم را مورد استناد قرار داد؟ جلسه استماع سنا توضیح داد",
+      "title_en": "Why did Anthony Fauci invoke the Fifth Amendment? Senate hearing explained",
+      "summary": "مقام ارشد سابق بهداشتی ایالات متحده در حالی که جمهوری خواهان از وی در مورد کووید-19 سؤال کردند، این اصلاحیه را مورد استناد قرار داد.",
+      "summary_fa": "مقام ارشد سابق بهداشتی ایالات متحده در حالی که جمهوری خواهان از وی در مورد کووید-19 سؤال کردند، این اصلاحیه را مورد استناد قرار داد.",
+      "summary_en": "The former top US health official invoked the amendment as Republicans questioned him over COVID-19.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/why-did-anthony-fauci-invoke-the-fifth-amendment-senate-hearing-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 03:04:18 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8d4ccf17d0e0bebc5e4b3cfaf8be64a4",
+      "title": "استرالیا تلگرام را به دلیل عدم حذف مطالب \"طرفدار ترور\" به دادگاه می کشاند",
+      "title_fa": "استرالیا تلگرام را به دلیل عدم حذف مطالب \"طرفدار ترور\" به دادگاه می کشاند",
+      "title_en": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "summary": "تلگرام به بی بی سی گفته است که این اتهامات را رد می کند و آنها را در دادگاه به چالش می کشد.",
+      "summary_fa": "تلگرام به بی بی سی گفته است که این اتهامات را رد می کند و آنها را در دادگاه به چالش می کشد.",
+      "summary_en": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 03:03:12 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1a/live/c8c335c0-f81a-11f0-8652-4de4e28f2840.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b9361e4c8050cf5d3c1e6c4517aa9a41",
+      "title": "تعداد قربانیان زمین لرزه ژاپن به 23 نفر افزایش یافت زیرا پس لرزه و گرما عملیات امداد و نجات را پیچیده کرده است.",
+      "title_fa": "تعداد قربانیان زمین لرزه ژاپن به 23 نفر افزایش یافت زیرا پس لرزه و گرما عملیات امداد و نجات را پیچیده کرده است.",
+      "title_en": "Death toll in Japan earthquake rises to 23 as aftershock and heat complicate rescue efforts",
+      "summary": "سربازان و کارکنان اورژانس در حال بررسی یک مرکز خرید به شدت آسیب دیده و خانه‌های فروریخته به دنبال بازماندگان گرفتار هستند. تعداد قربانیان زلزله بزرگی که روز سه‌شنبه ژاپن را لرزاند به حداقل 23 نفر افزایش یافت زیرا جستجو برای بازماندگان گرفتار در داخل یک مرکز خرید به شدت آسیب دیده و خانه‌های فروریخته در جنوب غربی این کشور ادامه داشت. دولت استانی اعلام کرد که در جزیره کیوشو حداقل 62 نفر زخمی شده اند. این تعداد به طور پیوسته افزایش یافته است و نگرانی از افزایش آن را افزایش داده است. ادامه مطلب...",
+      "summary_fa": "سربازان و کارکنان اورژانس در حال بررسی یک مرکز خرید به شدت آسیب دیده و خانه‌های فروریخته به دنبال بازماندگان گرفتار هستند. تعداد قربانیان زلزله بزرگی که روز سه‌شنبه ژاپن را لرزاند به حداقل 23 نفر افزایش یافت زیرا جستجو برای بازماندگان گرفتار در داخل یک مرکز خرید به شدت آسیب دیده و خانه‌های فروریخته در جنوب غربی این کشور ادامه داشت. دولت استانی اعلام کرد که در جزیره کیوشو حداقل 62 نفر زخمی شده اند. این تعداد به طور پیوسته افزایش یافته است و نگرانی از افزایش آن را افزایش داده است. ادامه مطلب...",
+      "summary_en": "Soldiers and emergency workers are combing through a badly damaged shopping mall and collapsed houses looking for trapped survivorsThe death toll from the major earthquake that hit Japan on Tuesday rose to at least 23 as the search for trapped survivors inside a badly damaged shopping mall and collapsed houses in the country’s south-west continued.The magnitude 6.8 earthquake that struck the Kumamoto prefecture on the island of Kyushu has injured at least 62, the prefectural government said. That number has steadily grown, fanning fears it will rise. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 02:59:32 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/bb27f9a2323803dfc653cb9bf288d8465f10c4ad/34_0_6465_5175/master/6465.jpg?width=140&quality=85&auto=format&fit=max&s=e550eaa42d0267d4a707a6b1bd8e0405",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "f7688ac319b15875f62f9aa28a97ccf4",
+      "title": "سنگاپور یک نوجوان فرانسوی را به دلیل شیرین کاری ویروسی لیسیدن نی 465 دلار جریمه کرد",
+      "title_fa": "سنگاپور یک نوجوان فرانسوی را به دلیل شیرین کاری ویروسی لیسیدن نی 465 دلار جریمه کرد",
+      "title_en": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "summary": "وکلای او گفتند که این جوان 19 ساله به دلیل ایجاد مشکل \"واقعا متاسف است\".",
+      "summary_fa": "وکلای او گفتند که این جوان 19 ساله به دلیل ایجاد مشکل \"واقعا متاسف است\".",
+      "summary_en": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "link": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 02:54:54 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf7/live/fa355690-8bbf-11f1-842d-097f342ad5c4.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "71995556aad4be443c2cd9f69a0a4c6b",
+      "title": "چین تهدید به مقابله به مثل ممنوعیت ربات های انسان نما توسط ایالات متحده کرد و می گوید این به روابط \"به شدت آسیب می زند\"",
+      "title_fa": "چین تهدید به مقابله به مثل ممنوعیت ربات های انسان نما توسط ایالات متحده کرد و می گوید این به روابط \"به شدت آسیب می زند\"",
+      "title_en": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+      "summary": "وزارت بازرگانی چین روز پنجشنبه اعلام کرد که کمیسیون ارتباطات فدرال ایالات متحده بارها موضع خویشتن‌دار پکن را نادیده گرفته است.",
+      "summary_fa": "وزارت بازرگانی چین روز پنجشنبه اعلام کرد که کمیسیون ارتباطات فدرال ایالات متحده بارها موضع خویشتن‌دار پکن را نادیده گرفته است.",
+      "summary_en": "China's Commerce Ministry said Thursday the U.S. Federal Communications Commission has repeatedly ignored Beijing's restrained stance.",
+      "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 02:52:30 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "bd1c0eb6ab5de0f8a312c6dd4d51380d",
+      "title": "زندگی با ترس: در داخل یک روستای جنوب لبنان که توسط اسرائیل تقسیم شده است",
+      "title_fa": "زندگی با ترس: در داخل یک روستای جنوب لبنان که توسط اسرائیل تقسیم شده است",
+      "title_en": "Living with fear: Inside a southern Lebanon village divided by Israel",
+      "summary": "روستای منصوری در جنوب لبنان توسط خط زرد اسرائیل تقسیم می شود، مرز نظامی که منطقه ای را که اشغال کرده است جدا می کند.",
+      "summary_fa": "روستای منصوری در جنوب لبنان توسط خط زرد اسرائیل تقسیم می شود، مرز نظامی که منطقه ای را که اشغال کرده است جدا می کند.",
+      "summary_en": "Southern Lebanon’s Mansouri village is divided by Israel's Yellow Line, a military boundary separating area it occupies.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 02:45:25 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "21ef74ed023a8cf626ff4ee80fd85f53",
+      "title": "پس از کسب مدال نقره لاچلان کندی در گلاسکو، نماینده مجلس کوئینزلند در شبکه اجتماعی پست «مردان سفیدپوست می‌توانند با سرعت دویدند» نوشت.",
+      "title_fa": "پس از کسب مدال نقره لاچلان کندی در گلاسکو، نماینده مجلس کوئینزلند در شبکه اجتماعی پست «مردان سفیدپوست می‌توانند با سرعت دویدند» نوشت.",
+      "title_en": "Queensland MP pens ‘White Men Can Sprint’ social media post after Lachlan Kennedy takes silver in Glasgow",
+      "summary": "Llew O'Brien عضو LNP می‌گوید: «اشتباهی برای افتخار کردن به میراث خود وجود ندارد» و باعث شد آنگوس تیلور بیان کند: «من به همه استرالیایی‌ها تبریک می‌گویم. برای آخرین به‌روزرسانی‌ها وبلاگ اخبار استرالیا را دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، نماینده ائتلاف فدرال، Llew O'Brien، نماینده ائتلاف فدرال، به من اعلام کرده است: «Whidalco printering من را برنده شده است». در بازی‌های مشترک المنافع، پس از اینکه لاچلان کندی هنگام ثبت رکورد ملی جدید در گلاسکو، نقره گرفت. ادامه مطلب...",
+      "summary_fa": "Llew O'Brien عضو LNP می‌گوید: «اشتباهی برای افتخار کردن به میراث خود وجود ندارد» و باعث شد آنگوس تیلور بیان کند: «من به همه استرالیایی‌ها تبریک می‌گویم. برای آخرین به‌روزرسانی‌ها وبلاگ اخبار استرالیا را دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، نماینده ائتلاف فدرال، Llew O'Brien، نماینده ائتلاف فدرال، به من اعلام کرده است: «Whidalco printering من را برنده شده است». در بازی‌های مشترک المنافع، پس از اینکه لاچلان کندی هنگام ثبت رکورد ملی جدید در گلاسکو، نقره گرفت. ادامه مطلب...",
+      "summary_en": "LNP member Llew O’Brien says ‘there is nothing wrong with being proud of your heritage’, leading Angus Taylor to state: ‘I congratulate all Australians’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFederal Coalition MP Llew O’Brien has declared it’s “encouraging to see a White Australian” win a sprinting medal at the Commonwealth Games, after Lachlan Kennedy took silver when setting a new national record in Glasgow.O’Brien, the member for Wide Bay in Queensland, wrote on social media on Wednesday: “White Men Can Sprint!” Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/30/queensland-mp-llew-obrien-white-men-can-sprint-social-media-post-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 02:28:08 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/81e8b872b90909875c02603a921e2812f2e4480d/1260_0_3362_2690/master/3362.jpg?width=140&quality=85&auto=format&fit=max&s=e692a63f5a76e666ea08785cdc62c947",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e9ed714e8bb63144641200b7c71d41f4",
+      "title": "تامین کننده هوش مصنوعی چین Zhongji Innolight پس از عرضه اولیه سهام 6.8 میلیارد دلاری در هنگ کنگ، دچار افت شد.",
+      "title_fa": "تامین کننده هوش مصنوعی چین Zhongji Innolight پس از عرضه اولیه سهام 6.8 میلیارد دلاری در هنگ کنگ، دچار افت شد.",
+      "title_en": "China AI supplier Zhongji Innolight slips in Hong Kong debut after $6.8 billion IPO",
+      "summary": "سهام Zhongji Innolight روز پنجشنبه پس از اینکه سازنده فرستنده گیرنده نوری چینی اولین معاملات خود را در بورس هنگ کنگ انجام داد، سقوط کرد.",
+      "summary_fa": "سهام Zhongji Innolight روز پنجشنبه پس از اینکه سازنده فرستنده گیرنده نوری چینی اولین معاملات خود را در بورس هنگ کنگ انجام داد، سقوط کرد.",
+      "summary_en": "Shares of Zhongji Innolight fell on Thursday after the Chinese optical transceiver maker made its trading debut on the Hong Kong Stock Exchange.",
+      "link": "https://www.cnbc.com/2026/07/30/china-ai-supplier-zhongji-innolight-hong-kong-debut.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 02:15:40 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "ac31426d664d9f109d2b0b4f741f7dce",
+      "title": "بن کارول هدایت بودجه حلقه راه آهن حومه ای به پروژه های دیگر را رد نمی کند",
+      "title_fa": "بن کارول هدایت بودجه حلقه راه آهن حومه ای به پروژه های دیگر را رد نمی کند",
+      "title_en": "Ben Carroll will not rule out redirecting Suburban Rail Loop funds to other projects",
+      "summary": "نخست‌وزیر جدید ویکتوریا همچنین در حال بررسی «تغییرات معقول» در قوانینی است که دو روز در هفته حق کار از خانه را تثبیت می‌کند، وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. \"بزرگترین ارزش برای ویکتوریایی ها\". بن کارول همچنین از دومین روز خود در شغل اصلی استفاده کرد تا \"تغییرات معقول\" را در قوانین پیشرو کشوری که حق کار از خانه دو روز در هفته را تثبیت می کند، در حالی که سعی می کند از پیشینیان جاسینتا آلن و دنیل اندروز فاصله بگیرد، استفاده کرد. ادامه مطلب...",
+      "summary_fa": "نخست‌وزیر جدید ویکتوریا همچنین در حال بررسی «تغییرات معقول» در قوانینی است که دو روز در هفته حق کار از خانه را تثبیت می‌کند، وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. \"بزرگترین ارزش برای ویکتوریایی ها\". بن کارول همچنین از دومین روز خود در شغل اصلی استفاده کرد تا \"تغییرات معقول\" را در قوانین پیشرو کشوری که حق کار از خانه دو روز در هفته را تثبیت می کند، در حالی که سعی می کند از پیشینیان جاسینتا آلن و دنیل اندروز فاصله بگیرد، استفاده کرد. ادامه مطلب...",
+      "summary_en": "New Victorian premier also considering ‘sensible changes’ to laws that would enshrine right to work from home two days a weekFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVictoria’s new premier has not ruled out redirecting billions of dollars earmarked for the controversial Suburban Rail Loop to other projects, saying he’s seeking to pursue the “greatest value for Victorians”.Ben Carroll also used his second day in the top job to flag “sensible changes” to nation-leading laws that would enshrine the right to work from home two days a week, as he tries to distance himself from predecessors Jacinta Allan and Daniel Andrews. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/30/ben-carroll-victoria-suburban-rail-loop-funds-srl-wfh-laws",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 02:11:34 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/066f584e23b5d927f9b6b94b5beaab6ef0a27bb9/424_0_5912_4731/master/5912.jpg?width=140&quality=85&auto=format&fit=max&s=066e508cfc9c1a791ccbd49e61ac9919",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8ed5cc966778d911593799740a4ebd6d",
+      "title": "پس از یک حمله مرگبار، یک مادر آواره نیجریه ای راه نجاتی در خیاطی پیدا می کند",
+      "title_fa": "پس از یک حمله مرگبار، یک مادر آواره نیجریه ای راه نجاتی در خیاطی پیدا می کند",
+      "title_en": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "summary": "صفیه پس از از دست دادن همسر و دو فرزندش اکنون می ترسد که آینده شکننده ای را که بازسازی کرده است از دست بدهد.",
+      "summary_fa": "صفیه پس از از دست دادن همسر و دو فرزندش اکنون می ترسد که آینده شکننده ای را که بازسازی کرده است از دست بدهد.",
+      "summary_en": "After losing her husband and two children, Safiya now fears losing the fragile future she rebuilt.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 01:56:57 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c75fea336141b0f357c632a21bff98c3",
+      "title": "سه آتش نشان یونانی در اثر آتش سوزی بخش هایی از جنوب اروپا جان خود را از دست دادند",
+      "title_fa": "سه آتش نشان یونانی در اثر آتش سوزی بخش هایی از جنوب اروپا جان خود را از دست دادند",
+      "title_en": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "summary": "بادهای شدید در کرت شعله های آتش را شعله ور کرده و باعث تخلیه چندین روستا شده است، زیرا بخش هایی از این قاره همچنان به مقابله با آتش سوزی ادامه می دهند.",
+      "summary_fa": "بادهای شدید در کرت شعله های آتش را شعله ور کرده و باعث تخلیه چندین روستا شده است، زیرا بخش هایی از این قاره همچنان به مقابله با آتش سوزی ادامه می دهند.",
+      "summary_en": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 01:53:25 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f48/live/2a7fb530-8bb5-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a145af071896324b514e2892d3e71bb0",
+      "title": "پس از آن که ترامپ قول داد «کتک» بزند، آمریکا به ایران حمله کرد.",
+      "title_fa": "پس از آن که ترامپ قول داد «کتک» بزند، آمریکا به ایران حمله کرد.",
+      "title_en": "US launches strikes on Iran after Trump vows to deliver ‘beating’",
+      "summary": "این حمله یک روز پس از پرتاب موشک های بالستیک تهران به سوی نیروهای آمریکایی صورت گرفت",
+      "summary_fa": "این حمله یک روز پس از پرتاب موشک های بالستیک تهران به سوی نیروهای آمریکایی صورت گرفت",
+      "summary_en": "Attack comes day after Tehran launched ballistic missiles at American forces",
+      "link": "https://www.ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 01:46:43 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff37696ca-17b0-467c-ab3b-c723806051b6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8e4c6a03bb73ecc482ffbe7420554fca",
+      "title": "ژاپن به نفت خام کانادا روی می آورد زیرا آسیا احساس می کند عرضه هرمز کاهش یافته است",
+      "title_fa": "ژاپن به نفت خام کانادا روی می آورد زیرا آسیا احساس می کند عرضه هرمز کاهش یافته است",
+      "title_en": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "summary": "عدم اطمینان در مورد عرضه نفت خام از طریق تنگه هرمز، کشورهای آسیایی را به سمت نفت خام TMX کانادا سوق داده است.",
+      "summary_fa": "عدم اطمینان در مورد عرضه نفت خام از طریق تنگه هرمز، کشورهای آسیایی را به سمت نفت خام TMX کانادا سوق داده است.",
+      "summary_en": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada's TMX crude oil.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 01:42:30 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "809f640bde7b57a0b0823d6a0d25334e",
+      "title": "آنفولانزای پرندگان به ویکتوریا رسیده است و مرگ و میرهای بیشتری در حیات وحش وجود دارد. چقدر می تواند بد شود؟",
+      "title_fa": "آنفولانزای پرندگان به ویکتوریا رسیده است و مرگ و میرهای بیشتری در حیات وحش وجود دارد. چقدر می تواند بد شود؟",
+      "title_en": "Bird flu has reached Victoria and more wildlife deaths loom. How bad could it get?",
+      "summary": "مقامات می گویند که انتقال محلی ویروس آنفولانزای پرندگان H5 در میان پرندگان استرالیای جنوبی نشان دهنده «تغییر وضعیت» است. برای آخرین به روز رسانی ها وبلاگ خبری استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دنبال کنید استرالیا وارد مرحله جدیدی در مقابله با هجوم آنفولانزای پرندگان H5N1 شده است، با مقامات رسمی تایید کردند که اولین مورد محلی در روز چهارشنبه و در اولین مورد انتقال ویروسی در ویکتوریا رخ داده است. جولی کالینز، وزیر کشاورزی، شیلات و جنگلداری فدرال، بعد از ظهر چهارشنبه، پس از گزارش 11 مورد مشکوک در پرندگان استرالیای جنوبی، گفت: «ما برای اولین بار چیزی را داشتیم که نشان دهنده انتقال محلی است. ادامه مطلب...",
+      "summary_fa": "مقامات می گویند که انتقال محلی ویروس آنفولانزای پرندگان H5 در میان پرندگان استرالیای جنوبی نشان دهنده «تغییر وضعیت» است. برای آخرین به روز رسانی ها وبلاگ خبری استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دنبال کنید استرالیا وارد مرحله جدیدی در مقابله با هجوم آنفولانزای پرندگان H5N1 شده است، با مقامات رسمی تایید کردند که اولین مورد محلی در روز چهارشنبه و در اولین مورد انتقال ویروسی در ویکتوریا رخ داده است. جولی کالینز، وزیر کشاورزی، شیلات و جنگلداری فدرال، بعد از ظهر چهارشنبه، پس از گزارش 11 مورد مشکوک در پرندگان استرالیای جنوبی، گفت: «ما برای اولین بار چیزی را داشتیم که نشان دهنده انتقال محلی است. ادامه مطلب...",
+      "summary_en": "Authorities say local transmission of H5 bird flu virus among South Australian birds signals ‘shift in the situation’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia has entered a new phase in dealing with the incursion of deadly H5N1 bird flu, with authorities confirming on Wednesday that local transmission had taken place, and Victoria confirming first case of the highly virulent strain Thursday.“We have had what is suggestive of local transmission for the first time,” Julie Collins, the federal minister for agriculture, fisheries and forestry, said on Wednesday afternoon, after 11 suspected detections were reported in South Australian birds. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 01:07:04 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/62db495f6c2c3fa2445c3c6cf01fcb97c01f2374/0_0_3524_2819/master/3524.jpg?width=140&quality=85&auto=format&fit=max&s=1638ae4bfd6c2db0d44c17d747eaafd7",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aca2c62f46034a280367f58ba141a366",
+      "title": "ترامپ با وجود مخالفت اسرائیل، فروش جنگنده به ترکیه را تحت فشار قرار داد",
+      "title_fa": "ترامپ با وجود مخالفت اسرائیل، فروش جنگنده به ترکیه را تحت فشار قرار داد",
+      "title_en": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "summary": "دونالد ترامپ، رئیس جمهور آمریکا بار دیگر از فروش جنگنده های اف-35 به ترکیه حمایت کرد.",
+      "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا بار دیگر از فروش جنگنده های اف-35 به ترکیه حمایت کرد.",
+      "summary_en": "US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 01:04:42 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "dcc50ca5377a4018004665ee86981d0b",
       "title": "رای گیری نامزدی تاد بلانچ AG توسط قوه قضاییه سنا در بحبوحه نگرانی های توافق ترامپ و IRS به تعویق افتاد.",
       "title_fa": "رای گیری نامزدی تاد بلانچ AG توسط قوه قضاییه سنا در بحبوحه نگرانی های توافق ترامپ و IRS به تعویق افتاد.",
@@ -32526,6 +33240,48 @@
       "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
       "source": "CNBC",
       "published_at": "Thu, 30 Jul 2026 01:02:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "860f580429bffcfd1e37397eba36dba7",
+      "title": "چرا سهام SoFi افت می کند، حتی پس از اینکه درآمد آن از انتظارات پیشی گرفت",
+      "title_fa": "چرا سهام SoFi افت می کند، حتی پس از اینکه درآمد آن از انتظارات پیشی گرفت",
+      "title_en": "Why SoFi’s stock drops, even after its earnings beat expectations",
+      "summary": "سرمایه گذاران از راهنمایی های محدود نئوبانک ناامید شدند.",
+      "summary_fa": "سرمایه گذاران از راهنمایی های محدود نئوبانک ناامید شدند.",
+      "summary_en": "Investors were disappointed by the neobank’s restrained guidance.",
+      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 01:01:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-782502",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "653bb3ce37da132edec415de3996c3cf",
+      "title": "تحلیل: اعتبار وارش رئیس فدرال رزرو پس از بدون تغییر ماندن نرخ های بهره زیر سوال رفته است",
+      "title_fa": "تحلیل: اعتبار وارش رئیس فدرال رزرو پس از بدون تغییر ماندن نرخ های بهره زیر سوال رفته است",
+      "title_en": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+      "summary": "فدرال رزرو نرخ بهره را ثابت نگه داشت، اما بازدهی بلندمدت خزانه داری افزایش یافت. سرمایه گذاران این سوال را مطرح می کنند که آیا او با قدرت کافی در مورد تورم عمل خواهد کرد یا خیر.",
+      "summary_fa": "فدرال رزرو نرخ بهره را ثابت نگه داشت، اما بازدهی بلندمدت خزانه داری افزایش یافت. سرمایه گذاران این سوال را مطرح می کنند که آیا او با قدرت کافی در مورد تورم عمل خواهد کرد یا خیر.",
+      "summary_en": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
+      "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 01:00:01 GMT",
       "date_iso": "2026-07-30",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
@@ -32555,6 +33311,48 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "60d67e647600d4d159a91b7795d6d7e2",
+      "title": "زاکربرگ معضل ظرفیت هوش مصنوعی متا را مطرح می کند: چه چیزی بفروشیم در مقابل چه چیزی نگه داریم.",
+      "title_fa": "زاکربرگ معضل ظرفیت هوش مصنوعی متا را مطرح می کند: چه چیزی بفروشیم در مقابل چه چیزی نگه داریم.",
+      "title_en": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep",
+      "summary": "مارک زاکربرگ برای سرمایه‌گذارانی که مشتاق شنیدن بیشتر در مورد برنامه‌های متا برای کسب درآمد از هزینه‌های هنگفت هوش مصنوعی هستند، گفت که یک معامله وجود دارد.",
+      "summary_fa": "مارک زاکربرگ برای سرمایه‌گذارانی که مشتاق شنیدن بیشتر در مورد برنامه‌های متا برای کسب درآمد از هزینه‌های هنگفت هوش مصنوعی هستند، گفت که یک معامله وجود دارد.",
+      "summary_en": "For investors anxious to hear more about Meta's plans to make money from its big AI spending, Mark Zuckerberg said there's a trade-off.",
+      "link": "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:58:44 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b8d49c46990806d950b2195ecd3a79e9",
+      "title": "ما در حال افزایش هدف قیمت خود در استارباکس پس از یک سه ماهه خانگی هستیم",
+      "title_fa": "ما در حال افزایش هدف قیمت خود در استارباکس پس از یک سه ماهه خانگی هستیم",
+      "title_en": "We're raising our price target on Starbucks after a home-run quarter",
+      "summary": "سهام در معاملات طولانی روز پنجشنبه جهش کردند، زیرا چرخش مدیرعامل برایان نیکول شتاب گرفته است.",
+      "summary_fa": "سهام در معاملات طولانی روز پنجشنبه جهش کردند، زیرا چرخش مدیرعامل برایان نیکول شتاب گرفته است.",
+      "summary_en": "Shares jumped in extended trading Thursday as CEO Brian Niccol's turnaround gathers momentum.",
+      "link": "https://www.cnbc.com/2026/07/29/were-raising-our-price-target-on-starbucks-after-a-home-run-quarter-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:54:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32705,6 +33503,27 @@
       }
     },
     {
+      "id": "a47298a6d9e90c937fb6bd87e4cdaf73",
+      "title": "یک روز پس از هشدار زلنسکی در حملات موشکی روسیه به کیف یک نفر کشته شد",
+      "title_fa": "یک روز پس از هشدار زلنسکی در حملات موشکی روسیه به کیف یک نفر کشته شد",
+      "title_en": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+      "summary": "زلنسکی در بازگشت از ایالات متحده می گوید که امنیت اوکراین به تمایل متحدان برای ارائه دفاع ضد موشکی بستگی دارد.",
+      "summary_fa": "زلنسکی در بازگشت از ایالات متحده می گوید که امنیت اوکراین به تمایل متحدان برای ارائه دفاع ضد موشکی بستگی دارد.",
+      "summary_en": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 00:23:13 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "7727912b38331bf23a0fe6b27e8f2577",
       "title": "اسپیس ایکس با درخواست کمیته انرژی مجلس نمایندگان برای بازدید از مراکز داده هوش مصنوعی خود در ممفیس مواجه است",
       "title_fa": "اسپیس ایکس با درخواست کمیته انرژی مجلس نمایندگان برای بازدید از مراکز داده هوش مصنوعی خود در ممفیس مواجه است",
@@ -32772,6 +33591,27 @@
       "title": "جنگ ایران زنده: ترامپ تهدید کرد که به خاطر حملات به اردن ضربه \"بسیار سخت\" خواهد زد",
       "title_fa": "جنگ ایران زنده: ترامپ تهدید کرد که به خاطر حملات به اردن ضربه \"بسیار سخت\" خواهد زد",
       "title_en": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+      "summary": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
+      "summary_fa": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
+      "summary_en": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "99fe53fe9aef4480f236b64c0564f392",
+      "title": "جنگ ایران زنده: آمریکا پس از حمله سپاه پاسداران انقلاب اسلامی به اردن حملات «قدرتمند» را انجام داد",
+      "title_fa": "جنگ ایران زنده: آمریکا پس از حمله سپاه پاسداران انقلاب اسلامی به اردن حملات «قدرتمند» را انجام داد",
+      "title_en": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
       "summary": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
       "summary_fa": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
       "summary_en": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
