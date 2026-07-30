@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 15:25:10",
-  "total_count": 4022,
+  "last_update": "2026-07-30 17:01:38",
+  "total_count": 4053,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32726,6 +32726,69 @@
       }
     },
     {
+      "id": "f22ba118cc7ec83dd663f4d991fea50b",
+      "title": "Retailer Reformation پس از قیمت گذاری IPO در 15 دلار، اولین بار در بازار شروع به کار کرد",
+      "title_fa": "Retailer Reformation پس از قیمت گذاری IPO در 15 دلار، اولین بار در بازار شروع به کار کرد",
+      "title_en": "Retailer Reformation opens flat in market debut after pricing IPO at $15",
+      "summary": "Retailer Reformation روز پنجشنبه در بورس نیویورک با نماد تیک \"REF\" عرضه اولیه سهام خود را انجام داد.",
+      "summary_fa": "Retailer Reformation روز پنجشنبه در بورس نیویورک با نماد تیک \"REF\" عرضه اولیه سهام خود را انجام داد.",
+      "summary_en": "Retailer Reformation made its IPO on the New York Stock Exchange on Thursday under the ticker symbol \"REF.\"",
+      "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 16:58:41 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0021161293a59a51d002ff9bc6df9f2e",
+      "title": "معامله NBCUniversal با YouTube چگونه می تواند فصل بعدی جنگ های پخش جریانی را آغاز کند",
+      "title_fa": "معامله NBCUniversal با YouTube چگونه می تواند فصل بعدی جنگ های پخش جریانی را آغاز کند",
+      "title_en": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
+      "summary": "تکرار بعدی جنگ‌های استریم احتمالاً در مورد جمع‌آوری محتوا در بزرگترین پلتفرم‌های موجود است.",
+      "summary_fa": "تکرار بعدی جنگ‌های استریم احتمالاً در مورد جمع‌آوری محتوا در بزرگترین پلتفرم‌های موجود است.",
+      "summary_en": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
+      "link": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 16:49:22 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2ab87ed52fbbf2a57d317239495c02a",
+      "title": "شکستن زیر این آستانه بحرانی در بازار سهام برای سیگنال وحشت برای سرمایه گذاران استفاده می شود. دیگر نه.",
+      "title_fa": "شکستن زیر این آستانه بحرانی در بازار سهام برای سیگنال وحشت برای سرمایه گذاران استفاده می شود. دیگر نه.",
+      "title_en": "A break below this critical stock-market threshold used to signal panic for investors. Not anymore.",
+      "summary": "امسال به خوبی نشان می دهد که چگونه این استراتژی اغلب ثابت می ماند.",
+      "summary_fa": "امسال به خوبی نشان می دهد که چگونه این استراتژی اغلب ثابت می ماند.",
+      "summary_en": "This year provides a good illustration of how this strategy often falls flat.",
+      "link": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 16:45:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-00830422",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "00a1d74454d9f8114d84b55751168aa1",
       "title": "تنباکوی غیرمجاز: حملات موفقیت آمیز برای پایان دادن به این تجارت جنایتکارانه کافی نیست",
       "title_fa": "تنباکوی غیرمجاز: حملات موفقیت آمیز برای پایان دادن به این تجارت جنایتکارانه کافی نیست",
@@ -32744,6 +32807,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "bf2ae615089d954bedf59a012c818514",
+      "title": "ترامپ در تلاش است تا نامزدی بلانچ را تا زمانی که حزب جمهوری خواه از ریاست جمهوری خارج شود، کنار بکشد",
+      "title_fa": "ترامپ در تلاش است تا نامزدی بلانچ را تا زمانی که حزب جمهوری خواه از ریاست جمهوری خارج شود، کنار بکشد",
+      "title_en": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
+      "summary": "کمیته قضایی سنا، که شامل سناتورهای جان کورنین و تام تیلیس است، رای گیری در مورد پیشبرد نامزدی تاد بلانچ در AG را به تعویق انداخت.",
+      "summary_fa": "کمیته قضایی سنا، که شامل سناتورهای جان کورنین و تام تیلیس است، رای گیری در مورد پیشبرد نامزدی تاد بلانچ در AG را به تعویق انداخت.",
+      "summary_en": "The Senate Judiciary Committee, which includes Sens. John Cornyn and Thom Tillis, postponed a vote on advancing Todd Blanche's AG nomination.",
+      "link": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 16:41:31 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "543cb935b92f4d8c16112bbd4e8f1518",
+      "title": "نرخ های وام مسکن به بالاترین سطح خود در یک سال گذشته می رسد و نشانه های اندکی از کاهش را نشان می دهد",
+      "title_fa": "نرخ های وام مسکن به بالاترین سطح خود در یک سال گذشته می رسد و نشانه های اندکی از کاهش را نشان می دهد",
+      "title_en": "Mortgage rates jump to their highest level in a year and show few signs of falling",
+      "summary": "فدرال رزرو روز چهارشنبه نرخ بهره معیار خود را ثابت نگه داشت، اما تحولات سیاسی و اقتصادی نرخ های وام مسکن را بالاتر می برد.",
+      "summary_fa": "فدرال رزرو روز چهارشنبه نرخ بهره معیار خود را ثابت نگه داشت، اما تحولات سیاسی و اقتصادی نرخ های وام مسکن را بالاتر می برد.",
+      "summary_en": "The Federal Reserve on Wednesday kept its benchmark interest rate steady, but political and economic developments are pushing mortgage rates higher.",
+      "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 16:20:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-08882434",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fae003d53d7cb665eb7421b359331087",
+      "title": "دانلود ویندوز شما بزرگتر می شود و هوش مصنوعی مقصر است - در اینجا دلیل اهمیت آن است",
+      "title_fa": "دانلود ویندوز شما بزرگتر می شود و هوش مصنوعی مقصر است - در اینجا دلیل اهمیت آن است",
+      "title_en": "Your Windows download keeps getting bigger, and AI is to blame - here's why it matters",
+      "summary": "این تصور شما نیست. حجم فایل های نصب ویندوز افزایش یافته است. حتی ممکن است منصفانه باشد که آنها را پف کرده خطاب کنیم. و هرگز نمی توانید حدس بزنید که مشکل از کجا می آید.",
+      "summary_fa": "این تصور شما نیست. حجم فایل های نصب ویندوز افزایش یافته است. حتی ممکن است منصفانه باشد که آنها را پف کرده خطاب کنیم. و هرگز نمی توانید حدس بزنید که مشکل از کجا می آید.",
+      "summary_en": "It's not your imagination. Windows installation files have been creeping up in size. It might even be fair to call them bloated. And you'll never guess where the problem comes from.",
+      "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
+      "source": "ZDNet",
+      "published_at": "Thu, 30 Jul 2026 16:18:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a51b1c64cd9da2330fcb5e32f61e908e",
+      "title": "کرامر یک سیگنال مطمئن برای خرید سهام می بیند. به علاوه آنچه ما از نتایج آمازون می خواهیم",
+      "title_fa": "کرامر یک سیگنال مطمئن برای خرید سهام می بیند. به علاوه آنچه ما از نتایج آمازون می خواهیم",
+      "title_en": "Cramer sees a 'sure signal to buy' stocks. Plus what we want from Amazon's results",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/07/30/cramer-sees-signal-to-buy-stocks-previews-reports-amzn-aapl.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 16:17:11 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "44340250c2597d6812a90fbd0fd2037b",
+      "title": "دوست من و شوهرش املاک دارند. فرزندان او از ازدواج قبلی چگونه می توانند سهم عادلانه خود را بدست آورند؟",
+      "title_fa": "دوست من و شوهرش املاک دارند. فرزندان او از ازدواج قبلی چگونه می توانند سهم عادلانه خود را بدست آورند؟",
+      "title_en": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
+      "summary": "\"شوهرش برای امانت باز است، اما می‌خواهد مدیر باشد.\"",
+      "summary_fa": "\"شوهرش برای امانت باز است، اما می‌خواهد مدیر باشد.\"",
+      "summary_en": "“Her husband is open to a trust, but he wants to be the administrator.”",
+      "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 16:15:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-21809299",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32789,6 +32957,90 @@
       }
     },
     {
+      "id": "8d208bcf6f451bb50d95e442ba535f6d",
+      "title": "عامل سرکش OpenAI به Hugging Face بسنده نکرد - این چیزی است که ما می دانیم",
+      "title_fa": "عامل سرکش OpenAI به Hugging Face بسنده نکرد - این چیزی است که ما می دانیم",
+      "title_en": "OpenAI's rogue agent didn't stop at Hugging Face - here's what we know",
+      "summary": "همان عامل مستقل OpenAI که از محیط آزمایشی خود فرار کرد و Hugging Face را نقض کرد، همچنین مشغول هک کردن سایر سیستم‌های هوش مصنوعی بود. خوش شانس ما.",
+      "summary_fa": "همان عامل مستقل OpenAI که از محیط آزمایشی خود فرار کرد و Hugging Face را نقض کرد، همچنین مشغول هک کردن سایر سیستم‌های هوش مصنوعی بود. خوش شانس ما.",
+      "summary_en": "The same autonomous OpenAI agent that escaped its test environment and breached Hugging Face was also busy hacking other AI systems. Lucky us.",
+      "link": "https://www.zdnet.com/article/openais-rogue-ai-models-attacked-other-companies-besides-hugging-face/",
+      "source": "ZDNet",
+      "published_at": "Thu, 30 Jul 2026 16:06:50 GMT",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be65a9006a1d218e211c88ddf410cbb8",
+      "title": "آمازون در عرشه برای گزارش درآمد پس از زنگ با ابر، سرمایه در تمرکز",
+      "title_fa": "آمازون در عرشه برای گزارش درآمد پس از زنگ با ابر، سرمایه در تمرکز",
+      "title_en": "Amazon on deck to report earnings after the bell with cloud, capex in focus",
+      "summary": "آمازون پیش‌بینی کرده است که در سال 2026 سرمایه خود به 200 میلیارد دلار خواهد رسید و برخی تحلیلگران معتقدند که در مواجهه با تقاضای فزاینده هوش مصنوعی، کل سرمایه ممکن است افزایش یابد.",
+      "summary_fa": "آمازون پیش‌بینی کرده است که در سال 2026 سرمایه خود به 200 میلیارد دلار خواهد رسید و برخی تحلیلگران معتقدند که در مواجهه با تقاضای فزاینده هوش مصنوعی، کل سرمایه ممکن است افزایش یابد.",
+      "summary_en": "Amazon projected its 2026 capex will reach $200 billion, and some analysts believe the total could rise in the face of surging artificial intelligence demand.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 16:06:46 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1b0e9b792d0207670b051da8c3afba55",
+      "title": "فیلم سپاه پاسداران انقلاب اسلامی از حملات تلافی جویانه به اهداف آمریکایی در اردن",
+      "title_fa": "فیلم سپاه پاسداران انقلاب اسلامی از حملات تلافی جویانه به اهداف آمریکایی در اردن",
+      "title_en": "IRGC video of retaliatory strikes on US targets in Jordan",
+      "summary": "سپاه پاسداران انقلاب اسلامی ویدئویی از موشک‌هایی منتشر کرد که به گفته آن‌ها توسط نیروی دریایی ارتش این کشور به هواپیماهای آمریکایی در اردن شلیک شد.",
+      "summary_fa": "سپاه پاسداران انقلاب اسلامی ویدئویی از موشک‌هایی منتشر کرد که به گفته آن‌ها توسط نیروی دریایی ارتش این کشور به هواپیماهای آمریکایی در اردن شلیک شد.",
+      "summary_en": "The IRGC released a video of what they say were missiles launched by their naval forces targeting US aircraft in Jordan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 16:06:08 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "99c9ef6204f005c0ea7824cc750fc2b8",
+      "title": "مراقبان پس انداز خود را تمام می کنند و بسیاری از آنها تلاش برای پس انداز را متوقف کرده اند. آیا آنها باید حقوق بگیرند؟",
+      "title_fa": "مراقبان پس انداز خود را تمام می کنند و بسیاری از آنها تلاش برای پس انداز را متوقف کرده اند. آیا آنها باید حقوق بگیرند؟",
+      "title_en": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+      "summary": "خدمت به عنوان یک مراقب خانواده فقط خسته کننده نیست. همچنین می تواند از نظر مالی ویرانگر باشد.",
+      "summary_fa": "خدمت به عنوان یک مراقب خانواده فقط خسته کننده نیست. همچنین می تواند از نظر مالی ویرانگر باشد.",
+      "summary_en": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
+      "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 16:06:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-59428583",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "0128a898340acc9d70a3a98cfb0fb4e9",
       "title": "خدمه آتش نشانی در حال مهار آتش سوزی در نزدیکی سایت های اصلی انرژی هسته ای در بریتانیا هستند",
       "title_fa": "خدمه آتش نشانی در حال مهار آتش سوزی در نزدیکی سایت های اصلی انرژی هسته ای در بریتانیا هستند",
@@ -32807,6 +33059,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "a7a298a4071d16beb9d9b69944e21d91",
+      "title": "هزاران نفر در کرت تخلیه شدند زیرا آتش سوزی های جنگلی اقامتگاه های گردشگری را تهدید می کند",
+      "title_fa": "هزاران نفر در کرت تخلیه شدند زیرا آتش سوزی های جنگلی اقامتگاه های گردشگری را تهدید می کند",
+      "title_en": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+      "summary": "در حالی که آتش سوزی های جنگلی در جزیره یونان همچنان ادامه دارد، بادهای شدید شعله های آتش را در منطقه Rethymno شعله ور کرده است.",
+      "summary_fa": "در حالی که آتش سوزی های جنگلی در جزیره یونان همچنان ادامه دارد، بادهای شدید شعله های آتش را در منطقه Rethymno شعله ور کرده است.",
+      "summary_en": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 16:04:53 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae4/live/ffd46200-8be0-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -32831,6 +33104,48 @@
       }
     },
     {
+      "id": "40ad58e162411feb0e1ec78da3c3ef42",
+      "title": "آویز هوش مصنوعی دوست جدید اکنون می تواند با شما صحبت کند",
+      "title_fa": "آویز هوش مصنوعی دوست جدید اکنون می تواند با شما صحبت کند",
+      "title_en": "The New Friend AI Pendant Can Now Talk Back to You",
+      "summary": "Avi Schiffmann نسخه جدیدی از همدم جنجالی هوش مصنوعی خود دارد. گران تر است و نمی توانید شخصیت آن را تغییر دهید.",
+      "summary_fa": "Avi Schiffmann نسخه جدیدی از همدم جنجالی هوش مصنوعی خود دارد. گران تر است و نمی توانید شخصیت آن را تغییر دهید.",
+      "summary_en": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 16:00:00 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc0dcb8e9cd8b1f0a540db972c17b8fe",
+      "title": "کامپیوترهای کوانتومی عملکرد بهتری نسبت به کامپیوترهای کلاسیک دارند، با نتایجی که می توانید به آنها اعتماد کنید",
+      "title_fa": "کامپیوترهای کوانتومی عملکرد بهتری نسبت به کامپیوترهای کلاسیک دارند، با نتایجی که می توانید به آنها اعتماد کنید",
+      "title_en": "Quantum computers outperform classical ones, with results you can trust",
+      "summary": "سه رویکرد به موضوع نتایج کوانتومی که به صورت کلاسیک قابل تأیید نیستند.",
+      "summary_fa": "سه رویکرد به موضوع نتایج کوانتومی که به صورت کلاسیک قابل تأیید نیستند.",
+      "summary_en": "Three approaches to the issue of quantum results that can't be verified classically.",
+      "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 15:59:37 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-4-1152x648.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f888793f330259d517ea2d0af357cb6c",
       "title": "چگونه قانون هوش مصنوعی اتحادیه اروپا قوانین شرکت را از واشنگتن تا توکیو تغییر می دهد",
       "title_fa": "چگونه قانون هوش مصنوعی اتحادیه اروپا قوانین شرکت را از واشنگتن تا توکیو تغییر می دهد",
@@ -32852,6 +33167,69 @@
       }
     },
     {
+      "id": "e34f9a3e8262b1ea364c82328ffd0d92",
+      "title": "رشد تولید ناخالص داخلی ایالات متحده کاهش می یابد زیرا تورم و کسری تجاری اقتصاد را تحت فشار قرار می دهند",
+      "title_fa": "رشد تولید ناخالص داخلی ایالات متحده کاهش می یابد زیرا تورم و کسری تجاری اقتصاد را تحت فشار قرار می دهند",
+      "title_en": "US GDP growth dips as inflation and trade deficits pressure economy",
+      "summary": "تولید ناخالص داخلی در سه ماهه دوم به دنبال افزایش 2.1 درصدی در سه ماهه اول، 1.5 درصد رشد کرد.",
+      "summary_fa": "تولید ناخالص داخلی در سه ماهه دوم به دنبال افزایش 2.1 درصدی در سه ماهه اول، 1.5 درصد رشد کرد.",
+      "summary_en": "GDP grew by 1.5 percent in the second quarter following a 2.1 percent increase in the first quarter.",
+      "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:52:47 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f911472da1d96edd9edba3e9a0a1b959",
+      "title": "مردی که توسط یک تیر کوهنوردی به چوب گرفته شده، 10 مایلی پایین کوه را طی می کند",
+      "title_fa": "مردی که توسط یک تیر کوهنوردی به چوب گرفته شده، 10 مایلی پایین کوه را طی می کند",
+      "title_en": "Man impaled by a hiking pole treks 10 miles down mountain",
+      "summary": "دیوید سیفالدی به جای فراخوانی برای نجات هلیکوپتر، از قله گرانیتی مونتانا با یک میله کوهنوردی که کنارش را سوراخ کرده بود، پیاده روی کرد.",
+      "summary_fa": "دیوید سیفالدی به جای فراخوانی برای نجات هلیکوپتر، از قله گرانیتی مونتانا با یک میله کوهنوردی که کنارش را سوراخ کرده بود، پیاده روی کرد.",
+      "summary_en": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
+      "link": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 15:47:09 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f62/live/bc2bb760-8c2b-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9cb7e41fdddc00c339e6b2b86ec26532",
+      "title": "انتظار می‌رود که با افزایش فروش شرکت‌ها، 5 سهام نرم‌افزار microcap سه رقمی افزایش یابد",
+      "title_fa": "انتظار می‌رود که با افزایش فروش شرکت‌ها، 5 سهام نرم‌افزار microcap سه رقمی افزایش یابد",
+      "title_en": "5 microcap software stocks expected to soar by triple digits as the companies’ sales pop",
+      "summary": "انتظار می رود همه این شرکت ها تا سال 2028 رشد درآمد بسیار سریعی از خود نشان دهند.",
+      "summary_fa": "انتظار می رود همه این شرکت ها تا سال 2028 رشد درآمد بسیار سریعی از خود نشان دهند.",
+      "summary_en": "These companies are all expected to show very rapid revenue growth through 2028.",
+      "link": "https://www.marketwatch.com/story/5-microcap-software-stocks-expected-to-soar-by-triple-digits-as-the-companies-sales-pop-66b5cf6a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 15:47:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-53091266",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8bbf202aa74d9ca035803f815c3bbb8a",
       "title": "جایزه مرکوری 2026: پل مک کارتنی برای اولین بار در فهرست کوتاه هیجان انگیز نامزد شد",
       "title_fa": "جایزه مرکوری 2026: پل مک کارتنی برای اولین بار در فهرست کوتاه هیجان انگیز نامزد شد",
@@ -32865,6 +33243,48 @@
       "date_iso": "2026-07-30",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "102213f6a6608c5b012d23a8b5357924",
+      "title": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
+      "title_fa": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
+      "title_en": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
+      "summary": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
+      "summary_fa": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
+      "summary_en": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:36:56 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "feea59081faf79d7eec87af631fbe1c2",
+      "title": "جمهوری خواهان رای گیری برای انتخاب دادستان کل آمریکا توسط ترامپ را به دلیل نگرانی ها به تاخیر انداختند",
+      "title_fa": "جمهوری خواهان رای گیری برای انتخاب دادستان کل آمریکا توسط ترامپ را به دلیل نگرانی ها به تاخیر انداختند",
+      "title_en": "Republicans delay vote on Trump’s US attorney general pick amid concerns",
+      "summary": "کمیته سنا رأی گیری را به تعویق انداخت زیرا جمهوری خواهان کلیدی می گویند اطلاعاتی در مورد صندوق «ضد تسلیحات» دریافت نکرده است.",
+      "summary_fa": "کمیته سنا رأی گیری را به تعویق انداخت زیرا جمهوری خواهان کلیدی می گویند اطلاعاتی در مورد صندوق «ضد تسلیحات» دریافت نکرده است.",
+      "summary_en": "Senate committee postpones vote as key Republican says he has not received information on 'anti-weaponisation' fund.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:36:35 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -32891,6 +33311,48 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "94dd6f902f21edaba00180cf5e8b5278",
+      "title": "خدمات میدانی 95 درصد با هوش مصنوعی انجام می شود، اما این مسائل قدیمی نیاز به توجه دارند",
+      "title_fa": "خدمات میدانی 95 درصد با هوش مصنوعی انجام می شود، اما این مسائل قدیمی نیاز به توجه دارند",
+      "title_en": "Field service is 95% on board with AI but these legacy issues need attention",
+      "summary": "تقریباً همه سازمان‌های خدمات میدانی از هوش مصنوعی استفاده می‌کنند و درآمدهای حاصل در حوزه‌های کلیدی بینش‌هایی را برای متخصصان در سایر کارکردهای تجاری ارائه می‌دهد.",
+      "summary_fa": "تقریباً همه سازمان‌های خدمات میدانی از هوش مصنوعی استفاده می‌کنند و درآمدهای حاصل در حوزه‌های کلیدی بینش‌هایی را برای متخصصان در سایر کارکردهای تجاری ارائه می‌دهد.",
+      "summary_en": "Almost all field service organizations use AI, and revenue gains in key areas offer insights for professionals in other business functions.",
+      "link": "https://www.zdnet.com/article/state-of-field-service-and-ai-adoption/",
+      "source": "ZDNet",
+      "published_at": "Thu, 30 Jul 2026 15:32:27 GMT",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76dc0b57094060fcfb3c1c8e488c4bc8",
+      "title": "در صورتی که برنامه های اینفانتینو در جام جهانی دنبال شود، اعضای یوفا به تحریم فیفا رأی می دهند",
+      "title_fa": "در صورتی که برنامه های اینفانتینو در جام جهانی دنبال شود، اعضای یوفا به تحریم فیفا رأی می دهند",
+      "title_en": "UEFA members vote to boycott FIFA if Infantino’s World Cup plans pursued",
+      "summary": "کشورهای اروپایی در یک نشست مجازی برای تحریم مسابقات فیفا در اعتراض به طرح سهام خصوصی برای جام جهانی موافقت کردند.",
+      "summary_fa": "کشورهای اروپایی در یک نشست مجازی برای تحریم مسابقات فیفا در اعتراض به طرح سهام خصوصی برای جام جهانی موافقت کردند.",
+      "summary_en": "European nations agree in virtual meeting to boycott FIFA competitions in protest at the private equity plan for World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:30:40 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -33083,6 +33545,27 @@
       }
     },
     {
+      "id": "5a71613065bc0c1c41265e056e7323b7",
+      "title": "آیا پاکستان از کتاب بازی هند در کشمیر استفاده می کند؟",
+      "title_fa": "آیا پاکستان از کتاب بازی هند در کشمیر استفاده می کند؟",
+      "title_en": "Is Pakistan ‘using India’s playbook’ in Kashmir?",
+      "summary": "پاکستان با اتهاماتی مبنی بر کشته شدن تظاهرکنندگان غیرمسلح در کشمیر تحت کنترل پاکستان توسط نیروهایش مواجه است",
+      "summary_fa": "پاکستان با اتهاماتی مبنی بر کشته شدن تظاهرکنندگان غیرمسلح در کشمیر تحت کنترل پاکستان توسط نیروهایش مواجه است",
+      "summary_en": "Pakistan is facing accusations that its forces have killed unarmed protesters in Pakistan-administered Kashmir",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/is-pakistan-using-indias-playbook-in-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:08:58 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "6fc030d5678323c781bd211c09c4819a",
       "title": "Gemini Robotics 2 هوش مصنوعی گوگل را به دنیای فیزیکی می آورد",
       "title_fa": "Gemini Robotics 2 هوش مصنوعی گوگل را به دنیای فیزیکی می آورد",
@@ -33118,6 +33601,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-ukraine-poland-jkbf/30int-ukraine-poland-jkbf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "23457ef6f6431ce8cc450f8351eab652",
+      "title": "ناتو تمام اقدامات لازم را برای دفاع از خاک پس از سقوط موشک روسیه در لهستان انجام خواهد داد - همانطور که اتفاق افتاد",
+      "title_fa": "ناتو تمام اقدامات لازم را برای دفاع از خاک پس از سقوط موشک روسیه در لهستان انجام خواهد داد - همانطور که اتفاق افتاد",
+      "title_en": "Nato ‘will take all necessary measures’ to defend territory after Russian missile crashes in Poland – as it happened",
+      "summary": "نخست‌وزیر لهستان تأیید کرد موشکی که در لهستان سقوط کرد یک موشک کروز روسی Kh-101 بود و گفت که با رهبران اتحادیه اروپا و ایالات متحده در تماس است، وزیر دفاع لهستان، ولادیسلاو کوسینیاک-کامیش، تأیید می‌کند که «به احتمال زیاد» این موشک کروز با پرتاب Kh-101 بوده است. ادامه مطلب...",
+      "summary_fa": "نخست‌وزیر لهستان تأیید کرد موشکی که در لهستان سقوط کرد یک موشک کروز روسی Kh-101 بود و گفت که با رهبران اتحادیه اروپا و ایالات متحده در تماس است، وزیر دفاع لهستان، ولادیسلاو کوسینیاک-کامیش، تأیید می‌کند که «به احتمال زیاد» این موشک کروز با پرتاب Kh-101 بوده است. ادامه مطلب...",
+      "summary_en": "Polish PM confirms the missile that crashed in Poland was a Russian Kh-101 cruise missile and says he is in touch with EU and US leadersPoland’s defence minister Władysław Kosiniak-Kamysz confirms it’s “most likely” it was a Kh-101 air-launched cruise missile.“That’s the most probable hypothesis,” he says. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 15:03:25 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1d3394783450690167b72a83e6b701074d96b750/877_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=6527c456c4d43e3e2d323f2b3d598754",
       "geo": {
         "lat": 55.7558,
         "lng": 37.6173,
@@ -78126,6 +78630,90 @@
       }
     },
     {
+      "id": "e721f5ab26685b432bf33c1a6ddb4bc7",
+      "title": "گوگل روی به‌روزرسانی‌های کروم کار می‌کند که نیازی به راه‌اندازی مجدد ندارند",
+      "title_fa": "گوگل روی به‌روزرسانی‌های کروم کار می‌کند که نیازی به راه‌اندازی مجدد ندارند",
+      "title_en": "Google is working on Chrome updates that don’t require restarts",
+      "summary": "گوگل در حال کار روی راهی برای اعمال به‌روزرسانی‌های کروم بدون نیاز به راه‌اندازی مجدد مرورگر است. در پستی در روز پنجشنبه، گوگل رویکرد خود را برای رفع اشکال در عصر هوش مصنوعی تشریح می‌کند، در حالی که اشاره می‌کند که تلاش می‌کند با سرمایه‌گذاری در «وصله‌های پویا» که نیاز به […]",
+      "summary_fa": "گوگل در حال کار روی راهی برای اعمال به‌روزرسانی‌های کروم بدون نیاز به راه‌اندازی مجدد مرورگر است. در پستی در روز پنجشنبه، گوگل رویکرد خود را برای رفع اشکال در عصر هوش مصنوعی تشریح می‌کند، در حالی که اشاره می‌کند که تلاش می‌کند با سرمایه‌گذاری در «وصله‌های پویا» که نیاز به […]",
+      "summary_en": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by \"investing in 'dynamic patching' that will eliminate the need for […]",
+      "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
+      "source": "The Verge",
+      "published_at": "2026-07-30T13:00:00-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d2498fb5720b129500933e9aafc76c2",
+      "title": "طراحی Pixel 11 Pro Fold قبل از مراسم راه اندازی گوگل فاش شد",
+      "title_fa": "طراحی Pixel 11 Pro Fold قبل از مراسم راه اندازی گوگل فاش شد",
+      "title_en": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "summary": "هفته‌ها قبل از رویداد سخت‌افزار بعدی گوگل، Leaker Evan Blass آنچه را که به نظر می‌رسد رندرهای بازاریابی از Google Pixel 11 Pro Fold معرفی‌نشده است را در پستی در Substack خود به اشتراک گذاشته است. رندرها، اگر دقیق باشند، نشان می‌دهند که تاشو جدید تقریباً شبیه مدل سال گذشته خواهد بود - دارای ارتفاع بلند […]",
+      "summary_fa": "هفته‌ها قبل از رویداد سخت‌افزار بعدی گوگل، Leaker Evan Blass آنچه را که به نظر می‌رسد رندرهای بازاریابی از Google Pixel 11 Pro Fold معرفی‌نشده است را در پستی در Substack خود به اشتراک گذاشته است. رندرها، اگر دقیق باشند، نشان می‌دهند که تاشو جدید تقریباً شبیه مدل سال گذشته خواهد بود - دارای ارتفاع بلند […]",
+      "summary_en": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a tall […]",
+      "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "source": "The Verge",
+      "published_at": "2026-07-30T12:57:39-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6ecc5bdf931c572ffabd4ee999e60358",
+      "title": "Friend آویز هوش مصنوعی خود را با بلندگوی که با شما صحبت می کند با دو برابر قیمت دوباره راه اندازی می کند",
+      "title_fa": "Friend آویز هوش مصنوعی خود را با بلندگوی که با شما صحبت می کند با دو برابر قیمت دوباره راه اندازی می کند",
+      "title_en": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "یادت هست دوست؟ دوستی که یک آویز هوش مصنوعی راه اندازی کرد، 1.8 میلیون دلار از 2.5 میلیون دلار خود را برای به دست آوردن friend.com خرج کرد و متروی نیویورک را با تبلیغاتی که همراهی مصنوعی را ترویج می کرد، آغشته کرد؟ بله، اگر یادتان نبود، دوست برگشته است. و اکنون، دو برابر قیمت است. امروز صبح، Friend یک تبلیغ جدید راه اندازی کرد که در آن دو […]",
+      "summary_fa": "یادت هست دوست؟ دوستی که یک آویز هوش مصنوعی راه اندازی کرد، 1.8 میلیون دلار از 2.5 میلیون دلار خود را برای به دست آوردن friend.com خرج کرد و متروی نیویورک را با تبلیغاتی که همراهی مصنوعی را ترویج می کرد، آغشته کرد؟ بله، اگر یادتان نبود، دوست برگشته است. و اکنون، دو برابر قیمت است. امروز صبح، Friend یک تبلیغ جدید راه اندازی کرد که در آن دو […]",
+      "summary_en": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad showing two […]",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge",
+      "published_at": "2026-07-30T12:33:32-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "212d8268261718dc6259b953d2f4fcbd",
+      "title": "Best Buy یک RTX 5080 را به قیمتی بیشتر از MSRP RTX 5090 می فروشد.",
+      "title_fa": "Best Buy یک RTX 5080 را به قیمتی بیشتر از MSRP RTX 5090 می فروشد.",
+      "title_en": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+      "summary": "به گزارش VideoCardz، Best Buy قیمت Asus ROG Astral RTX 5080 OC را به 2099 دلار افزایش داده است - اولین باری است که یک خرده فروش بزرگ ایالات متحده مستقیماً یک RTX 5080 را به قیمت بیش از 1999 دلار MSRP RTX 5090 می فروشد. ROG Astral RTX 5080 OC اکنون 40 درصد بیشتر از […]",
+      "summary_fa": "به گزارش VideoCardz، Best Buy قیمت Asus ROG Astral RTX 5080 OC را به 2099 دلار افزایش داده است - اولین باری است که یک خرده فروش بزرگ ایالات متحده مستقیماً یک RTX 5080 را به قیمت بیش از 1999 دلار MSRP RTX 5090 می فروشد. ROG Astral RTX 5080 OC اکنون 40 درصد بیشتر از […]",
+      "summary_en": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its […]",
+      "link": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+      "source": "The Verge",
+      "published_at": "2026-07-30T11:48:10-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "6d3f7eadcab5f583226ad08d9737ec86",
       "title": "SkyNomad N90 Max شیائومی یک EV با برد وسیع با فضای داخلی متحول کننده است",
       "title_fa": "SkyNomad N90 Max شیائومی یک EV با برد وسیع با فضای داخلی متحول کننده است",
@@ -78291,6 +78879,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cadc33dbc86bb6e0eae982dcb69cb319",
+      "title": "جهش های سوماتیک، انتوژن میکروگلیا را در پیری انسان نشان می دهد",
+      "title_fa": "جهش های سوماتیک، انتوژن میکروگلیا را در پیری انسان نشان می دهد",
+      "title_en": "Somatic mutations reveal the ontogeny of microglia in human aging",
+      "summary": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/s41586-026-10939-0 جهش های سوماتیک، انتوژن میکروگلیا را در پیری انسان نشان می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/s41586-026-10939-0 جهش های سوماتیک، انتوژن میکروگلیا را در پیری انسان نشان می دهد.",
+      "summary_en": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0Somatic mutations reveal the ontogeny of microglia in human aging",
+      "link": "https://www.nature.com/articles/s41586-026-10939-0",
+      "source": "Nature",
+      "published_at": "2026-07-30 17:01",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36b3e9906b4ff2d74f7c0146884446d1",
+      "title": "تصحیح نویسنده: نمودار خواب ساعتهای پیری بیولوژیکی در میانسالی و اواخر عمر",
+      "title_fa": "تصحیح نویسنده: نمودار خواب ساعتهای پیری بیولوژیکی در میانسالی و اواخر عمر",
+      "title_en": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+      "summary": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/s41586-026-10920-x تصحیح نویسنده: نمودار خواب ساعتهای پیری بیولوژیکی در میانسالی و اواخر عمر",
+      "summary_fa": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/s41586-026-10920-x تصحیح نویسنده: نمودار خواب ساعتهای پیری بیولوژیکی در میانسالی و اواخر عمر",
+      "summary_en": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-xAuthor Correction: Sleep chart of biological ageing clocks in middle and late life",
+      "link": "https://www.nature.com/articles/s41586-026-10920-x",
+      "source": "Nature",
+      "published_at": "2026-07-30 17:01",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ba8b3078fd79127b6695fd83b0cadf6c",
+      "title": "آتش‌سوزی‌ها در اروپا در حال شکستن رکوردها هستند: آینده چه خواهد بود",
+      "title_fa": "آتش‌سوزی‌ها در اروپا در حال شکستن رکوردها هستند: آینده چه خواهد بود",
+      "title_en": "Fires in Europe are breaking records: here’s what the future holds",
+      "summary": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/d41586-026-02361-3به گفته دانشمندان، کشورهایی مانند اسپانیا و فرانسه می توانند از رژیم های آتش سوزی بیشتر مانند کالیفرنیا انتظار داشته باشند، زیرا تغییرات آب و هوا به نفع شرایط گرم و خشک است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 30 جولای 2026; doi:10.1038/d41586-026-02361-3به گفته دانشمندان، کشورهایی مانند اسپانیا و فرانسه می توانند از رژیم های آتش سوزی بیشتر مانند کالیفرنیا انتظار داشته باشند، زیرا تغییرات آب و هوا به نفع شرایط گرم و خشک است.",
+      "summary_en": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+      "link": "https://www.nature.com/articles/d41586-026-02361-3",
+      "source": "Nature",
+      "published_at": "2026-07-30 17:01",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
