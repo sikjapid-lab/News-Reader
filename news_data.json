@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 20:06:56",
-  "total_count": 4127,
+  "last_update": "2026-07-30 21:22:00",
+  "total_count": 4164,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32663,6 +32663,657 @@
       }
     },
     {
+      "id": "85571b5f401723205173537fea29d811",
+      "title": "سهامی که بعد از ساعت کاری بیشترین حرکت را انجام می دهند: اپل، آمازون، ریویان، ردیت و موارد دیگر",
+      "title_fa": "سهامی که بعد از ساعت کاری بیشترین حرکت را انجام می دهند: اپل، آمازون، ریویان، ردیت و موارد دیگر",
+      "title_en": "Stocks making the biggest moves after hours: Apple, Amazon, Rivian, Reddit & more",
+      "summary": "این سهام در حال ثبت حرکت های بزرگ پس از زنگ خطر هستند.",
+      "summary_fa": "این سهام در حال ثبت حرکت های بزرگ پس از زنگ خطر هستند.",
+      "summary_en": "These stocks are posting big moves after the bell.",
+      "link": "https://www.cnbc.com/2026/07/30/stocks-making-the-biggest-moves-after-hours-aapl-amzn-rivn-rddt-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 21:20:30 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fa380e6408d104e75c49a27e59c2a852",
+      "title": "آمازون به دلیل افزایش هزینه های حافظه، سرمایه 2026 را به 220 میلیارد دلار افزایش می دهد",
+      "title_fa": "آمازون به دلیل افزایش هزینه های حافظه، سرمایه 2026 را به 220 میلیارد دلار افزایش می دهد",
+      "title_en": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+      "summary": "فروش AWS نسبت به سال گذشته 37 درصد افزایش یافت که انتظارات تحلیلگران را برای رشد 31 درصدی کاهش داد.",
+      "summary_fa": "فروش AWS نسبت به سال گذشته 37 درصد افزایش یافت که انتظارات تحلیلگران را برای رشد 31 درصدی کاهش داد.",
+      "summary_en": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 21:19:58 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d99d4d475a18b3d006c6cc79e2376b2",
+      "title": "Rivian برنامه های هزینه های 2026 را کاهش می دهد، راهنمایی های درآمد را محدود می کند",
+      "title_fa": "Rivian برنامه های هزینه های 2026 را کاهش می دهد، راهنمایی های درآمد را محدود می کند",
+      "title_en": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+      "summary": "ریوین برنامه‌های مخارج سال 2026 خود را کاهش داد و با گزارش نتایج سه ماهه دوم این شرکت، زیان‌های پیش‌بینی‌شده قبلی خود را در سال جاری کمی کاهش داد.",
+      "summary_fa": "ریوین برنامه‌های مخارج سال 2026 خود را کاهش داد و با گزارش نتایج سه ماهه دوم این شرکت، زیان‌های پیش‌بینی‌شده قبلی خود را در سال جاری کمی کاهش داد.",
+      "summary_en": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results.",
+      "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 21:19:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2cc00ba4a5fdd6c4f272b26cdd65c5a9",
+      "title": "سهام Reddit در ارجاع‌های جستجوی «متوقف» 11 درصد کاهش می‌یابد، حتی اگر نتایج تخمین‌های گذشته را تحت تأثیر قرار دهند.",
+      "title_fa": "سهام Reddit در ارجاع‌های جستجوی «متوقف» 11 درصد کاهش می‌یابد، حتی اگر نتایج تخمین‌های گذشته را تحت تأثیر قرار دهند.",
+      "title_en": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
+      "summary": "Reddit درآمدهای سه ماهه دوم را گزارش کرد که در بالا و پایین شکست خورد و پیش بینی درآمدی را ارائه داد که بالاتر از برآوردها بود.",
+      "summary_fa": "Reddit درآمدهای سه ماهه دوم را گزارش کرد که در بالا و پایین شکست خورد و پیش بینی درآمدی را ارائه داد که بالاتر از برآوردها بود.",
+      "summary_en": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
+      "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 21:17:37 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "982c3bec1e186adff25ae5667ebdb9bf",
+      "title": "آیا کارت های اعتباری می توانند از خرید هوش مصنوعی جان سالم به در ببرند؟ چرا مدیر عامل مسترکارت می گوید آنها در این دوره جدید \"غلبه خواهند کرد\".",
+      "title_fa": "آیا کارت های اعتباری می توانند از خرید هوش مصنوعی جان سالم به در ببرند؟ چرا مدیر عامل مسترکارت می گوید آنها در این دوره جدید \"غلبه خواهند کرد\".",
+      "title_en": "Can credit cards survive AI shopping? Why Mastercard’s CEO says they’ll ‘prevail’ in this new era.",
+      "summary": "مسترکارت با تکامل دنیای فناوری پرداخت، خود را برای \"تجارت نمایندگی\" قرار می دهد",
+      "summary_fa": "مسترکارت با تکامل دنیای فناوری پرداخت، خود را برای \"تجارت نمایندگی\" قرار می دهد",
+      "summary_en": "Mastercard is positioning itself for ‘agentic commerce’ as the payment-technology world evolves",
+      "link": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 21:13:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-708561",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f20cf0a877b564493b03ac5146be1403",
+      "title": "سهام کوین‌بیس پس از انتشار پست‌های صرافی کریپتو که نتایج ناامیدکننده‌ای در سه‌ماهه دوم منتشر کرد، سقوط کرد",
+      "title_fa": "سهام کوین‌بیس پس از انتشار پست‌های صرافی کریپتو که نتایج ناامیدکننده‌ای در سه‌ماهه دوم منتشر کرد، سقوط کرد",
+      "title_en": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
+      "summary": "گزارش پنجشنبه کوین بیس سومین سه ماهه متوالی خود را نشان داد که پیش بینی های وال استریت برای درآمد و درآمد را از دست داده است.",
+      "summary_fa": "گزارش پنجشنبه کوین بیس سومین سه ماهه متوالی خود را نشان داد که پیش بینی های وال استریت برای درآمد و درآمد را از دست داده است.",
+      "summary_en": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
+      "link": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 21:07:33 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "84da9095761dfda8a90eac466a1ae57d",
+      "title": "اخبار استرالیا به صورت زنده: وکلای کل برای اصلاح چک های کار با کودکان ملاقات کردند. رهبران برای جشنواره گرما جمع می شوند",
+      "title_fa": "اخبار استرالیا به صورت زنده: وکلای کل برای اصلاح چک های کار با کودکان ملاقات کردند. رهبران برای جشنواره گرما جمع می شوند",
+      "title_en": "Australia news live: attorneys general meet to reform working with children checks; leaders gather for Garma festival",
+      "summary": "پس از اتهامات جدی نقض ایمنی در بخش مراقبت از کودکان، وکلای کل در داروین گرد هم می آیند تا روی ملی کردن چک کار با کودکان کار کنند. زنده را دنبال کنید دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم با داستان‌های برتر یک شبه و سپس نیک ویسر نقش اصلی را برعهده دارد. دادستان‌های کل ایالت، قلمرو و فدرال امروز گرد هم می‌آیند تا درباره اصلاحات مربوط به چک‌های کار با کودکان صحبت کنند. این جلسه با اتهامات جدی در مورد نقض ایمنی و کودک آزاری در بخش مراقبت از کودکان آغاز شده است. ادامه مطلب...",
+      "summary_fa": "پس از اتهامات جدی نقض ایمنی در بخش مراقبت از کودکان، وکلای کل در داروین گرد هم می آیند تا روی ملی کردن چک کار با کودکان کار کنند. زنده را دنبال کنید دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه صبح بخیر و به وبلاگ اخبار زنده ما خوش آمدید. من مارتین فارر هستم با داستان‌های برتر یک شبه و سپس نیک ویسر نقش اصلی را برعهده دارد. دادستان‌های کل ایالت، قلمرو و فدرال امروز گرد هم می‌آیند تا درباره اصلاحات مربوط به چک‌های کار با کودکان صحبت کنند. این جلسه با اتهامات جدی در مورد نقض ایمنی و کودک آزاری در بخش مراقبت از کودکان آغاز شده است. ادامه مطلب...",
+      "summary_en": "Attorneys general meet in Darwin to work on nationalising the working with children check after serious allegations of safety breaches in childcare sector. Follow liveGet our breaking news email, free app or daily news podcastGood morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Nick Visser with the main action.State, territory and federal attorneys general are meeting today to discuss reform on working with children checks. The meeting has been sparked by serious allegations of safety breaches and child abuse in the childcare sector. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 21:04:22 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/736759d8e8c67b2ab7a990b70f96b917334b9785/273_0_3981_3187/master/3981.jpg?width=140&quality=85&auto=format&fit=max&s=35b51995974ce3e3bec3725ad9bdc415",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f0412cd15e74f96b24ace46471f599ba",
+      "title": "آیا عربستان سعودی بیشتر به جنگ ایران کشیده خواهد شد؟",
+      "title_fa": "آیا عربستان سعودی بیشتر به جنگ ایران کشیده خواهد شد؟",
+      "title_en": "Will Saudi Arabia be dragged further into the war in Iran?",
+      "summary": "خشم در عراق پس از حملات آمریکا و عربستان به گروه شبه نظامی مرتبط با تهران.",
+      "summary_fa": "خشم در عراق پس از حملات آمریکا و عربستان به گروه شبه نظامی مرتبط با تهران.",
+      "summary_en": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 21:00:28 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e7a48e1eeae8e005f621faed86fb00de",
+      "title": "باغ وحش پراگ خرس های قطبی را با یخ در میان موج گرما خنک نگه می دارد",
+      "title_fa": "باغ وحش پراگ خرس های قطبی را با یخ در میان موج گرما خنک نگه می دارد",
+      "title_en": "Prague Zoo keeps polar bears cool with ice amid heatwave",
+      "summary": "در حالی که اروپا با گرمای سوزان دست و پنجه نرم می کرد، نگهبانان باغ وحش پراگ از تن ها یخ استفاده کردند تا به حیوانات کمک کنند.",
+      "summary_fa": "در حالی که اروپا با گرمای سوزان دست و پنجه نرم می کرد، نگهبانان باغ وحش پراگ از تن ها یخ استفاده کردند تا به حیوانات کمک کنند.",
+      "summary_en": "Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Europe grappled with scorching heat.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 21:00:11 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "40e397c2d52a07d8e32b48972ccb64cd",
+      "title": "نقص سرور Exchange با حداکثر شدت تحت بهره برداری فعال توسط هکرهای کرملین",
+      "title_fa": "نقص سرور Exchange با حداکثر شدت تحت بهره برداری فعال توسط هکرهای کرملین",
+      "title_en": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "summary": "اکسپلویت ها می توانند به سرور دسترسی دائمی بدهند که از چرخش اعتبار و تصویربرداری مجدد دیسک جان سالم به در می برد.",
+      "summary_fa": "اکسپلویت ها می توانند به سرور دسترسی دائمی بدهند که از چرخش اعتبار و تصویربرداری مجدد دیسک جان سالم به در می برد.",
+      "summary_en": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+      "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 20:57:22 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d4de31be7b243a1184b607ec6bf0f35",
+      "title": "سازمان ملل در بحبوحه چالش های فزاینده، به دنبال رئیس بعدی است",
+      "title_fa": "سازمان ملل در بحبوحه چالش های فزاینده، به دنبال رئیس بعدی است",
+      "title_en": "UN launches hunt for next chief amid rising challenges",
+      "summary": "جانشین آنتونیو گوترش وظیفه احیای یک سازمان در بحران و مواجهه با فشار برای اصلاحات را بر عهده خواهد داشت.",
+      "summary_fa": "جانشین آنتونیو گوترش وظیفه احیای یک سازمان در بحران و مواجهه با فشار برای اصلاحات را بر عهده خواهد داشت.",
+      "summary_en": "Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:54:48 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "92f8010e9056dac5ab6d548f927e8236",
+      "title": "«اودیسه» اقامت خود را در سالن‌های 70 میلی‌متری ایمکس تمدید می‌کند زیرا نمایش‌ها هفته‌ها قبل به فروش می‌رسند",
+      "title_fa": "«اودیسه» اقامت خود را در سالن‌های 70 میلی‌متری ایمکس تمدید می‌کند زیرا نمایش‌ها هفته‌ها قبل به فروش می‌رسند",
+      "title_en": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+      "summary": "یونیورسال و آی مکس در دسترس بودن نمایش‌های ۷۰ میلی‌متری از بازخوانی حماسه هومر توسط کریستوفر نولان را تا اواسط سپتامبر تمدید کرده‌اند.",
+      "summary_fa": "یونیورسال و آی مکس در دسترس بودن نمایش‌های ۷۰ میلی‌متری از بازخوانی حماسه هومر توسط کریستوفر نولان را تا اواسط سپتامبر تمدید کرده‌اند.",
+      "summary_en": "Universal and Imax have extended the availability of 70 mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
+      "link": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 20:51:02 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "38ddb9eb56000ac3e8968b8917c11daf",
+      "title": "FCC ترامپ در تلاش برای سخنرانی پلیس در تلویزیون با ضربه مواجه شد",
+      "title_fa": "FCC ترامپ در تلاش برای سخنرانی پلیس در تلویزیون با ضربه مواجه شد",
+      "title_en": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
+      "summary": "«پیام دلخراش برای همه صدا و سیما: سخنانی را که ما دوست نداریم به خطر بیاندازید.»",
+      "summary_fa": "«پیام دلخراش برای همه صدا و سیما: سخنانی را که ما دوست نداریم به خطر بیاندازید.»",
+      "summary_en": "\"Chilling message to all broadcasters: carry speech we don’t like at your peril.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 20:48:47 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7259a7a913bcaeb8af4053147eb32f79",
+      "title": "ملت اعدام",
+      "title_fa": "ملت اعدام",
+      "title_en": "Execution Nation",
+      "summary": "ایالات متحده در غرب کشوری دور افتاده است. ما نگاه می کنیم که چرا کشور به مجازات اعدام چسبیده است.",
+      "summary_fa": "ایالات متحده در غرب کشوری دور افتاده است. ما نگاه می کنیم که چرا کشور به مجازات اعدام چسبیده است.",
+      "summary_en": "The United States is an outlier in the West. We look at why the country clings to the death penalty.",
+      "link": "https://www.nytimes.com/2026/07/30/world/us-death-penalty-iran-saudi-world-cup.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 20:47:34 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-theworld-usa-death-penalty-01-tgpl-promo/31int-theworld-usa-death-penalty-01-tgpl-promo-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bf3f759e1fd9877d627f84d653c353db",
+      "title": "ماهواره‌ها نشان می‌دهند که ایران در بحبوحه گسترش جنگ دوباره به مراکز داده آمازون حمله کرد",
+      "title_fa": "ماهواره‌ها نشان می‌دهند که ایران در بحبوحه گسترش جنگ دوباره به مراکز داده آمازون حمله کرد",
+      "title_en": "Iran struck Amazon data centers again amid widening war, satellites show",
+      "summary": "ماهواره ها آثار سوختگی و آتش سوزی در مراکز داده AWS و پالایشگاه نفت عربستان را نشان می دهند.",
+      "summary_fa": "ماهواره ها آثار سوختگی و آتش سوزی در مراکز داده AWS و پالایشگاه نفت عربستان را نشان می دهند.",
+      "summary_en": "Satellites show burn scars and fires at AWS data centers and Saudi oil refinery.",
+      "link": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 20:45:39 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/AWS-logo-1024x648.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "33731f3801e0e65332854317f508a56a",
+      "title": "انفجار صندوق تامینی آگاهی از موقعیت باعث شده است که وال استریت شرط بندی کند که در تجارت هوش مصنوعی قرار دارد",
+      "title_fa": "انفجار صندوق تامینی آگاهی از موقعیت باعث شده است که وال استریت شرط بندی کند که در تجارت هوش مصنوعی قرار دارد",
+      "title_en": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+      "summary": "یکی از وحشی‌ترین ماه‌های اخیر در بازار سهام ایالات متحده با یک یادداشت قابل توجه دیگر به پایان می‌رسد: ظاهراً یک صندوق سرمایه‌گذاری پرهیجان که توسط یک واندرکایند هوش مصنوعی در اواسط ۲۰ سالگی اداره می‌شود، روی برانکارد انجام شده است.",
+      "summary_fa": "یکی از وحشی‌ترین ماه‌های اخیر در بازار سهام ایالات متحده با یک یادداشت قابل توجه دیگر به پایان می‌رسد: ظاهراً یک صندوق سرمایه‌گذاری پرهیجان که توسط یک واندرکایند هوش مصنوعی در اواسط ۲۰ سالگی اداره می‌شود، روی برانکارد انجام شده است.",
+      "summary_en": "One of the wildest months in recent memory for the U.S. stock market is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind in his mid-20s has apparently just been carried out on a stretcher.",
+      "link": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 20:40:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-42421702",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "294fe94abff84b754b81b9d2cb5b5623",
+      "title": "دوربین امنیتی «موشک روسی» را در حال انفجار در لهستان نشان می دهد",
+      "title_fa": "دوربین امنیتی «موشک روسی» را در حال انفجار در لهستان نشان می دهد",
+      "title_en": "Security camera shows ‘Russian missile’ exploding in Poland",
+      "summary": "فیلم دوربین امنیتی لحظه انفجار یک موشک مشکوک روسیه در داخل لهستان را نشان می دهد.",
+      "summary_fa": "فیلم دوربین امنیتی لحظه انفجار یک موشک مشکوک روسیه در داخل لهستان را نشان می دهد.",
+      "summary_en": "Security camera video shows the moment a suspected Russian missile exploded inside Poland.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:39:38 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f1eaafca292acc1678472498f1bd9f71",
+      "title": "پدر تیرانداز مدرسه آپالاچی جورجیا به 15 سال زندان محکوم شد",
+      "title_fa": "پدر تیرانداز مدرسه آپالاچی جورجیا به 15 سال زندان محکوم شد",
+      "title_en": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+      "summary": "کالین گری، 55 ساله، پس از آن که پسرش کولت در مدرسه ای تیراندازی کرد که منجر به کشته شدن چهار نفر شد، به قتل درجه دوم محکوم شد.",
+      "summary_fa": "کالین گری، 55 ساله، پس از آن که پسرش کولت در مدرسه ای تیراندازی کرد که منجر به کشته شدن چهار نفر شد، به قتل درجه دوم محکوم شد.",
+      "summary_en": "Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:35:18 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "939205101c11375c7c38881d69028ebc",
+      "title": "مقامات ایالات متحده حمله سایبری به سیستم های آبی در مینه سوتا را بررسی می کنند",
+      "title_fa": "مقامات ایالات متحده حمله سایبری به سیستم های آبی در مینه سوتا را بررسی می کنند",
+      "title_en": "US authorities probe cyberattack on water systems in Minnesota",
+      "summary": "اوایل این هفته بیش از 30 تاسیسات آبی در ایالت غرب میانه آمریکا هدف حمله سایبری قرار گرفت.",
+      "summary_fa": "اوایل این هفته بیش از 30 تاسیسات آبی در ایالت غرب میانه آمریکا هدف حمله سایبری قرار گرفت.",
+      "summary_en": "A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:32:13 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3cddc4b2226e184c6ab0027f65fdf32b",
+      "title": "اپل با فروش بالای آیفون، رکود گوشی های هوشمند را به چالش می کشد",
+      "title_fa": "اپل با فروش بالای آیفون، رکود گوشی های هوشمند را به چالش می کشد",
+      "title_en": "Apple defies smartphone downturn with strong iPhone sales",
+      "summary": "درآمد گوشی های هوشمند بیش از یک پنجم افزایش یافت زیرا رقبا در حال مبارزه هستند",
+      "summary_fa": "درآمد گوشی های هوشمند بیش از یک پنجم افزایش یافت زیرا رقبا در حال مبارزه هستند",
+      "summary_en": "Smartphone revenue rose more than a fifth as rivals struggle",
+      "link": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 20:31:38 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb48ab579-e3ca-4fe0-9fba-456c66420d5f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c004accaf04619dd8c817a9e4a47f77",
+      "title": "سهام متا به شدت سقوط می کند. در اینجا دلیل حضور این شرکت در خانه سگ وال استریت است.",
+      "title_fa": "سهام متا به شدت سقوط می کند. در اینجا دلیل حضور این شرکت در خانه سگ وال استریت است.",
+      "title_en": "Meta’s stock falls hard. Here’s why the company is in Wall Street’s doghouse.",
+      "summary": "هزینه‌های متا برای هوش مصنوعی در حال افزایش است و سرمایه‌گذاران مدرکی می‌خواهند که نشان دهد این شرکت می‌تواند در زمینه‌هایی غیر از تبلیغات درآمد جدی داشته باشد.",
+      "summary_fa": "هزینه‌های متا برای هوش مصنوعی در حال افزایش است و سرمایه‌گذاران مدرکی می‌خواهند که نشان دهد این شرکت می‌تواند در زمینه‌هایی غیر از تبلیغات درآمد جدی داشته باشد.",
+      "summary_en": "Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 20:31:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-48912216",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "23532b272cfb26fc11945b6228114065",
+      "title": "پس از رشد 37 درصدی تجارت ابری، سهام آمازون افزایش یافت",
+      "title_fa": "پس از رشد 37 درصدی تجارت ابری، سهام آمازون افزایش یافت",
+      "title_en": "Amazon shares surge higher after cloud business grows 37%",
+      "summary": "مخارج سرمایه در سراسر گروه در سه ماهه منتهی به ژوئن به 53 میلیارد دلار افزایش یافت",
+      "summary_fa": "مخارج سرمایه در سراسر گروه در سه ماهه منتهی به ژوئن به 53 میلیارد دلار افزایش یافت",
+      "summary_en": "Capital expenditure across the group climbed to $53bn in the quarter ending in June",
+      "link": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 20:26:21 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F331dcdbe-5d32-4e7b-b237-a496376f4d74.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f7bb73131128890842c5fc24445bd9da",
+      "title": "چرا سهام مایکروسافت پس از درآمد به رشدی تاریخی رسید؟",
+      "title_fa": "چرا سهام مایکروسافت پس از درآمد به رشدی تاریخی رسید؟",
+      "title_en": "Why Microsoft’s stock soared to a historic gain after earnings",
+      "summary": "کسب و کار ابری این شرکت رشد چشمگیری دارد و مایکروسافت انتظار دارد از رفتن به حالت سوزاندن نقدینگی با صرف هزینه های هوش مصنوعی خودداری کند.",
+      "summary_fa": "کسب و کار ابری این شرکت رشد چشمگیری دارد و مایکروسافت انتظار دارد از رفتن به حالت سوزاندن نقدینگی با صرف هزینه های هوش مصنوعی خودداری کند.",
+      "summary_en": "The company’s cloud business is sporting impressive growth, and Microsoft expects to avoid heading into cash-burn mode as it spends up on AI.",
+      "link": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 20:21:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-06137309",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6dc2a3ce3e35b49f23912acf9c9ee30b",
+      "title": "متا 8 درصد سقوط کرد و به رکورد باخت ادامه داد، در حالی که مایکروسافت با تقسیم تجارت هوش مصنوعی 15 درصد جهش کرد.",
+      "title_fa": "متا 8 درصد سقوط کرد و به رکورد باخت ادامه داد، در حالی که مایکروسافت با تقسیم تجارت هوش مصنوعی 15 درصد جهش کرد.",
+      "title_en": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "summary": "مایکروسافت رشد قوی Azure و Copilot را ثبت کرد، در حالی که متا پیش‌بینی‌های راهنمای درآمد را از دست داد زیرا جریان نقدی آزاد کاهش یافت و منجر به تغییرات سهام شد.",
+      "summary_fa": "مایکروسافت رشد قوی Azure و Copilot را ثبت کرد، در حالی که متا پیش‌بینی‌های راهنمای درآمد را از دست داد زیرا جریان نقدی آزاد کاهش یافت و منجر به تغییرات سهام شد.",
+      "summary_en": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 20:17:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e4f9e7c47b1d40a3f8b71e44af8688a",
+      "title": "سهام جرسی مایک در اولین بازار عمومی پس از قیمت گذاری سهام در 23 دلار، 6 درصد سقوط کرد",
+      "title_fa": "سهام جرسی مایک در اولین بازار عمومی پس از قیمت گذاری سهام در 23 دلار، 6 درصد سقوط کرد",
+      "title_en": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+      "summary": "جرسی مایک عرضه اولیه عمومی خود را 23 دلار برای هر سهم قیمت گذاری کرد.",
+      "summary_fa": "جرسی مایک عرضه اولیه عمومی خود را 23 دلار برای هر سهم قیمت گذاری کرد.",
+      "summary_en": "Jersey Mike's priced its initial public offering at $23 per share.",
+      "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 20:13:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e8ad182c6f19dc135e01c74131f7908",
+      "title": "همه از OpenAI و مسابقه Anthropic برای تسلط وحشت دارند",
+      "title_fa": "همه از OpenAI و مسابقه Anthropic برای تسلط وحشت دارند",
+      "title_en": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "summary": "محققان می ترسند هوش مصنوعی خیلی سریع حرکت کند، در حالی که مارک زاکربرگ نگران مالک آن است. بعلاوه: فشار داخل آزمایشگاه جنگل سیاه به سمت روباتیک.",
+      "summary_fa": "محققان می ترسند هوش مصنوعی خیلی سریع حرکت کند، در حالی که مارک زاکربرگ نگران مالک آن است. بعلاوه: فشار داخل آزمایشگاه جنگل سیاه به سمت روباتیک.",
+      "summary_en": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 20:12:57 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e6ee153f948565933165e6cb9551fc37",
+      "title": "فقط به این دلیل که یک بازی روی دیسک است به این معنی نیست که در آینده کار خواهد کرد",
+      "title_fa": "فقط به این دلیل که یک بازی روی دیسک است به این معنی نیست که در آینده کار خواهد کرد",
+      "title_en": "Just because a game is on disc doesn’t mean it will work in the future",
+      "summary": "DoesItPlay بسیاری از بازی‌های «فیزیکی» را که بدون اینترنت کار نمی‌کنند، ردیابی می‌کند.",
+      "summary_fa": "DoesItPlay بسیاری از بازی‌های «فیزیکی» را که بدون اینترنت کار نمی‌کنند، ردیابی می‌کند.",
+      "summary_en": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet.",
+      "link": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 20:12:50 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/discburn-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ddba5d2b97f84b05b7960d6a5d8e3a21",
+      "title": "یکی از بنیانگذاران اقدام فلسطین برنده مناقصه استیناف دادگاه عالی بریتانیا شد",
+      "title_fa": "یکی از بنیانگذاران اقدام فلسطین برنده مناقصه استیناف دادگاه عالی بریتانیا شد",
+      "title_en": "Palestine Action co-founder wins UK Supreme Court appeal bid",
+      "summary": "هدی عموری مجوز اعتراض به ممنوعیت اقدام فلسطین را در دادگاه عالی بریتانیا کسب کرده است.",
+      "summary_fa": "هدی عموری مجوز اعتراض به ممنوعیت اقدام فلسطین را در دادگاه عالی بریتانیا کسب کرده است.",
+      "summary_en": "Huda Ammori has won permission to challenge Palestine Action's ban at the UK Supreme Court.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:11:07 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "2d8b939756d168846839dc3281b6db69",
+      "title": "Retailer Reformation در اولین NYSE بسته می شود زیرا مدیرعامل می گوید شرکت \"آماده مقیاس\" است.",
+      "title_fa": "Retailer Reformation در اولین NYSE بسته می شود زیرا مدیرعامل می گوید شرکت \"آماده مقیاس\" است.",
+      "title_en": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
+      "summary": "Retailer Reformation روز پنجشنبه در بورس نیویورک با نماد تیک \"REF\" عرضه اولیه سهام خود را انجام داد.",
+      "summary_fa": "Retailer Reformation روز پنجشنبه در بورس نیویورک با نماد تیک \"REF\" عرضه اولیه سهام خود را انجام داد.",
+      "summary_en": "Retailer Reformation made its IPO on the New York Stock Exchange on Thursday under the ticker symbol \"REF.\"",
+      "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 20:08:13 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cdbcd12fc0a767226b550245be2556c0",
+      "title": "من Android Auto را به‌صورت آفلاین در سفر جاده‌ای امتحان کردم و داده‌های تلفن همراه را به دو روش شکست داد",
+      "title_fa": "من Android Auto را به‌صورت آفلاین در سفر جاده‌ای امتحان کردم و داده‌های تلفن همراه را به دو روش شکست داد",
+      "title_en": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
+      "summary": "یک سفر اخیر به بالای ایالت مزایا و محدودیت‌های اجرای Android Auto در مناطق کم تا بدون سیگنال را نشان داد.",
+      "summary_fa": "یک سفر اخیر به بالای ایالت مزایا و محدودیت‌های اجرای Android Auto در مناطق کم تا بدون سیگنال را نشان داد.",
+      "summary_en": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
+      "link": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
+      "source": "ZDNet",
+      "published_at": "Thu, 30 Jul 2026 20:08:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "437adfc631138969a2d64627987dcdcd",
+      "title": "انفجار معدن زغال‌سنگ پاکستان دست‌کم ۱۱ کشته برجای گذاشت و ده‌ها نفر را گرفتار کرد",
+      "title_fa": "انفجار معدن زغال‌سنگ پاکستان دست‌کم ۱۱ کشته برجای گذاشت و ده‌ها نفر را گرفتار کرد",
+      "title_en": "Pakistan coal mine explosion kills at least 11, traps dozens",
+      "summary": "حوادث رایج در صنعت معدن زغال سنگ پاکستان، به ویژه در بلوچستان، جایی که بسیاری از معادن فاقد ایمنی اولیه هستند.",
+      "summary_fa": "حوادث رایج در صنعت معدن زغال سنگ پاکستان، به ویژه در بلوچستان، جایی که بسیاری از معادن فاقد ایمنی اولیه هستند.",
+      "summary_en": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:07:56 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "18abb4efb49a2b0933ec39c01d4858aa",
       "title": "درآمد آمازون تمام شده است - در اینجا اعداد آمده است",
       "title_fa": "درآمد آمازون تمام شده است - در اینجا اعداد آمده است",
@@ -32673,6 +33324,27 @@
       "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
       "source": "CNBC",
       "published_at": "Thu, 30 Jul 2026 20:05:18 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df828ba9b9c7a1dc6bc68dab157d7323",
+      "title": "AMD و Micron افزایش یافتند، با افزایش سهام تراشه‌ها، Lam Research 17 درصد صعود کرد",
+      "title_fa": "AMD و Micron افزایش یافتند، با افزایش سهام تراشه‌ها، Lam Research 17 درصد صعود کرد",
+      "title_en": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
+      "summary": "درآمدهای قوی لام ریسرچ، مایکروسافت و آرم باعث شد سهام نیمه هادی ها به شدت آسیب ببینند.",
+      "summary_fa": "درآمدهای قوی لام ریسرچ، مایکروسافت و آرم باعث شد سهام نیمه هادی ها به شدت آسیب ببینند.",
+      "summary_en": "Strong earnings from Lam Research, Microsoft and Arm boosted hard-hit semiconductor stocks.",
+      "link": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 20:04:13 GMT",
       "date_iso": "2026-07-30",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
@@ -32702,6 +33374,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c16c2fc16a8bd2f6e6bec03abfc8d75",
+      "title": "با متحد شدن اروپا پشت تحریم جام جهانی، اسپین آف تجاری 20 میلیارد دلاری فیفا در خطر است",
+      "title_fa": "با متحد شدن اروپا پشت تحریم جام جهانی، اسپین آف تجاری 20 میلیارد دلاری فیفا در خطر است",
+      "title_en": "Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott",
+      "summary": "کونکاکاف به یوفا می پیوندد و با طرح جیانی اینفانتینو برای وارد کردن سرمایه خارجی به فوتبال مخالفت می کند.",
+      "summary_fa": "کونکاکاف به یوفا می پیوندد و با طرح جیانی اینفانتینو برای وارد کردن سرمایه خارجی به فوتبال مخالفت می کند.",
+      "summary_en": "Concacaf joins Uefa in opposing Gianni Infantino’s plan to bring outside capital into football",
+      "link": "https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 20:02:55 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F332fcd9f-1238-4307-b939-1fd0922795ff.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -34070,6 +34763,27 @@
       }
     },
     {
+      "id": "c495fe0343633ac73109aaedcf2522b2",
+      "title": "در صورت تایید فیفا، یوفا جام جهانی را تحریم می کند",
+      "title_fa": "در صورت تایید فیفا، یوفا جام جهانی را تحریم می کند",
+      "title_en": "Uefa to boycott World Cups if Fifa plans approved",
+      "summary": "یوفا پس از رای 55 اتحادیه عضوش به تحریم مسابقات آتی در صورتی که فیفا و رئیس آن، جیانی اینفانتینو، از پیشنهادهای سرمایه گذاری خود عقب نشینی نکنند، می گوید: «جام جهانی برای فروش نیست».",
+      "summary_fa": "یوفا پس از رای 55 اتحادیه عضوش به تحریم مسابقات آتی در صورتی که فیفا و رئیس آن، جیانی اینفانتینو، از پیشنهادهای سرمایه گذاری خود عقب نشینی نکنند، می گوید: «جام جهانی برای فروش نیست».",
+      "summary_en": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 16:47:40 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aae/live/be7e8ec0-8c30-11f1-89bb-9b3e3c6f25f4.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e2ab87ed52fbbf2a57d317239495c02a",
       "title": "شکستن زیر این آستانه بحرانی در بازار سهام برای سیگنال وحشت برای سرمایه گذاران استفاده می شود. دیگر نه.",
       "title_fa": "شکستن زیر این آستانه بحرانی در بازار سهام برای سیگنال وحشت برای سرمایه گذاران استفاده می شود. دیگر نه.",
@@ -34683,6 +35397,27 @@
       "title": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
       "title_fa": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
       "title_en": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
+      "summary": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
+      "summary_fa": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
+      "summary_en": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 15:36:56 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "672974f45752a34e8ff65234634b696c",
+      "title": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
+      "title_fa": "منطقه محصور اسپانیا، سئوتا، با عبور هزاران نفر از مراکش، زنگ خطر را به صدا درآورد",
+      "title_en": "Spainish enclave Ceuta raises alarm as thousands cross border from Morocco",
       "summary": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
       "summary_fa": "برآوردها حاکی از آن است که در روزهای اخیر بیش از 2000 نفر در تلاش برای رسیدن به اروپا وارد خاک اسپانیا شده اند.",
       "summary_en": "Estimates suggest up to 2,000 have entered the Spanish territory in recent days in an attempt to reach Europe.",
@@ -80051,6 +80786,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "92f87ac18abd4f2f23aa8b2cff7bcb11",
+      "title": "فروش آیفون و مک اپل با وجود کمبود رم همچنان در حال رشد است",
+      "title_fa": "فروش آیفون و مک اپل با وجود کمبود رم همچنان در حال رشد است",
+      "title_en": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "summary": "فروش آیفون و مک اپل حتی در شرایطی که کمبود حافظه جهانی سازندگان دستگاه ها را تحت فشار قرار داده است در حال افزایش است. اپل در گزارش درآمد سه ماهه سوم خود که روز پنجشنبه منتشر شد، فاش کرد که فروش آیفون با 22 درصد افزایش به 54.25 میلیارد دلار و فروش مک با 29 درصد افزایش به 10.35 میلیارد دلار رسیده است که درآمد کلی این شرکت را به 109.4 میلیارد دلار رساند. این […]",
+      "summary_fa": "فروش آیفون و مک اپل حتی در شرایطی که کمبود حافظه جهانی سازندگان دستگاه ها را تحت فشار قرار داده است در حال افزایش است. اپل در گزارش درآمد سه ماهه سوم خود که روز پنجشنبه منتشر شد، فاش کرد که فروش آیفون با 22 درصد افزایش به 54.25 میلیارد دلار و فروش مک با 29 درصد افزایش به 10.35 میلیارد دلار رسیده است که درآمد کلی این شرکت را به 109.4 میلیارد دلار رساند. این […]",
+      "summary_en": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. This […]",
+      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "source": "The Verge",
+      "published_at": "2026-07-30T16:49:32-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "250978a29f7d56cbb18bcd5019ea9007",
+      "title": "از دست دادن آگاهی موقعیتی",
+      "title_fa": "از دست دادن آگاهی موقعیتی",
+      "title_en": "The loss of Situational Awareness",
+      "summary": "من به هیچ وجه در امور مالی متخصص نیستم، اما فکر می‌کنم در حال حاضر توصیه‌هایی برای افرادی دارم که اینگونه هستند: صندوق سرمایه‌گذاری خود را نامی نبرید که در صورت انفجار خنده‌دار باشد. از نامی مانند «مدیریت سرمایه بلندمدت» یا «مشاوران آمارانت» (که برای نماد گل برای […]",
+      "summary_fa": "من به هیچ وجه در امور مالی متخصص نیستم، اما فکر می‌کنم در حال حاضر توصیه‌هایی برای افرادی دارم که اینگونه هستند: صندوق سرمایه‌گذاری خود را نامی نبرید که در صورت انفجار خنده‌دار باشد. از نامی مانند «مدیریت سرمایه بلندمدت» یا «مشاوران آمارانت» (که برای نماد گل برای […]",
+      "summary_en": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge",
+      "published_at": "2026-07-30T16:46:25-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
