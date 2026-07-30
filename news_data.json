@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 22:35:12",
-  "total_count": 4183,
+  "last_update": "2026-07-30 23:39:24",
+  "total_count": 4195,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32660,6 +32660,237 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a0db30a58a0ab5b6a581c545f5e76ed2",
+      "title": "چرا A.I چین مدل ها می توانند حزب کمونیست را تهدید کنند",
+      "title_fa": "چرا A.I چین مدل ها می توانند حزب کمونیست را تهدید کنند",
+      "title_en": "Why China’s A.I. Models Could Threaten the Communist Party",
+      "summary": "هوش مصنوعی چین افزایش یک معضل جدید برای پکن ایجاد می کند. مدل‌های باز که در خارج از کشور نفوذ می‌کنند ممکن است خطراتی را برای امنیت و استراتژی ژئوپلیتیک کشور ایجاد کنند.",
+      "summary_fa": "هوش مصنوعی چین افزایش یک معضل جدید برای پکن ایجاد می کند. مدل‌های باز که در خارج از کشور نفوذ می‌کنند ممکن است خطراتی را برای امنیت و استراتژی ژئوپلیتیک کشور ایجاد کنند.",
+      "summary_en": "China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.",
+      "link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 23:31:47 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/00int-china-ai-controls-01-pljb/00int-china-ai-controls-01-pljb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "1e57249a9cb718f6b5bd73e088005d2a",
+      "title": "ترامپ می گوید شورای صلح برای خلع سلاح حماس به توافق رسیده است",
+      "title_fa": "ترامپ می گوید شورای صلح برای خلع سلاح حماس به توافق رسیده است",
+      "title_en": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "summary": "اسرائیل و حماس هنوز درباره این خبر اظهار نظر نکرده اند.",
+      "summary_fa": "اسرائیل و حماس هنوز درباره این خبر اظهار نظر نکرده اند.",
+      "summary_en": "Israel and Hamas have yet to comment on the announcement.",
+      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 23:30:41 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "8ab886f0d8d2e049253391bc308640be",
+      "title": "اودیسه 3 ساله عرضه اولیه سهام شرکت شین، خرده‌فروشی فست مد، به قیمت «زمان طلایی» عرضه عمومی تمام شد.",
+      "title_fa": "اودیسه 3 ساله عرضه اولیه سهام شرکت شین، خرده‌فروشی فست مد، به قیمت «زمان طلایی» عرضه عمومی تمام شد.",
+      "title_en": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+      "summary": "سرمایه گذاران این سوال را مطرح می کنند که آیا برکت پکن می تواند ارزشی بالغ بر 40 میلیارد دلار برای یک خرده فروش پوشاک داشته باشد که موتور رشد آن متوقف شده است.",
+      "summary_fa": "سرمایه گذاران این سوال را مطرح می کنند که آیا برکت پکن می تواند ارزشی بالغ بر 40 میلیارد دلار برای یک خرده فروش پوشاک داشته باشد که موتور رشد آن متوقف شده است.",
+      "summary_en": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
+      "link": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 23:30:34 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "پکن"
+      }
+    },
+    {
+      "id": "41856e8b1b143f8f9b0cdc27d3bf1363",
+      "title": "Anthropic می‌گوید مدل‌های Claude آن به سیستم‌های سازمان‌های دیگر دسترسی غیرمجاز به دست آورده‌اند",
+      "title_fa": "Anthropic می‌گوید مدل‌های Claude آن به سیستم‌های سازمان‌های دیگر دسترسی غیرمجاز به دست آورده‌اند",
+      "title_en": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+      "summary": "آنتروپیک گفت که سه مورد را کشف کرده است که مدل‌های هوش مصنوعی کلود این شرکت در طی یک ارزیابی به اینترنت دسترسی پیدا کرده و به سیستم‌های خارجی دسترسی پیدا کرده‌اند.",
+      "summary_fa": "آنتروپیک گفت که سه مورد را کشف کرده است که مدل‌های هوش مصنوعی کلود این شرکت در طی یک ارزیابی به اینترنت دسترسی پیدا کرده و به سیستم‌های خارجی دسترسی پیدا کرده‌اند.",
+      "summary_en": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+      "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 23:27:36 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f05867b2af5dad1a906bdc16e5636f41",
+      "title": "آمازون پس از آن که اندی جاسی، مدیر عامل شرکت، سرمایه گذاری عظیم خود را در هوش مصنوعی مطرح کرد، اوج گرفت",
+      "title_fa": "آمازون پس از آن که اندی جاسی، مدیر عامل شرکت، سرمایه گذاری عظیم خود را در هوش مصنوعی مطرح کرد، اوج گرفت",
+      "title_en": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+      "summary": "آمازون در معاملات پس از ساعت کاری حدود 10 درصد جهش کرد و به 258 دلار رسید و سهام را در بالاترین سطح خود از اوایل ژوئن قرار داد.",
+      "summary_fa": "آمازون در معاملات پس از ساعت کاری حدود 10 درصد جهش کرد و به 258 دلار رسید و سهام را در بالاترین سطح خود از اوایل ژوئن قرار داد.",
+      "summary_en": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 23:27:04 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8cf2a20f12da2e8fba99a549d850e9af",
+      "title": "اخبار استرالیا زنده: استرالیا آتش نشانان را به فرانسه می فرستد در حالی که شعله های آتش خشمگین می شود. رهبران برای جشنواره گرما جمع می شوند",
+      "title_fa": "اخبار استرالیا زنده: استرالیا آتش نشانان را به فرانسه می فرستد در حالی که شعله های آتش خشمگین می شود. رهبران برای جشنواره گرما جمع می شوند",
+      "title_en": "Australia news live: Australia sends firefighters to France as blazes rage; leaders gather for Garma festival",
+      "summary": "یک هلیکوپتر شینوک مجهز به مخزن آب 11300 لیتری و یک هواپیمای پشتیبانی به همراه 24 خدمه ماهر هوایی و زمینی از سرویس آتش نشانی روستایی نیو ساوت ولز مستقر خواهد شد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را به صورت زنده دنبال کنید. کمیسر ایمنی می گوید که اقدام دادگاه علیه تلگرام «بسیار مهم» است، جولی اینمن گرانت، کمیسر امنیت eSafety، امروز صبح پس از اقدام دادگاه دیروز علیه تلگرام به دلیل عدم شناسایی و حذف مطالب حامی ترور از پلتفرمش، با ABC صحبت کرد. … اینها پلتفرم هایی هستند – و ممکن است نظارت بیشتری بر محتوا انجام دهند و ما آن را تشویق می کنیم – اما نه به میزانی که قانون استرالیا از آن ها خواسته است. و اگر زمانی که دادگاه تشخیص داد از آنها تبعیت نکنند، یا اگر دادگاه علیه آنها تشخیص دهد، در این صورت تحقیر خواهند شد. ادامه مطلب...",
+      "summary_fa": "یک هلیکوپتر شینوک مجهز به مخزن آب 11300 لیتری و یک هواپیمای پشتیبانی به همراه 24 خدمه ماهر هوایی و زمینی از سرویس آتش نشانی روستایی نیو ساوت ولز مستقر خواهد شد. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را به صورت زنده دنبال کنید. کمیسر ایمنی می گوید که اقدام دادگاه علیه تلگرام «بسیار مهم» است، جولی اینمن گرانت، کمیسر امنیت eSafety، امروز صبح پس از اقدام دادگاه دیروز علیه تلگرام به دلیل عدم شناسایی و حذف مطالب حامی ترور از پلتفرمش، با ABC صحبت کرد. … اینها پلتفرم هایی هستند – و ممکن است نظارت بیشتری بر محتوا انجام دهند و ما آن را تشویق می کنیم – اما نه به میزانی که قانون استرالیا از آن ها خواسته است. و اگر زمانی که دادگاه تشخیص داد از آنها تبعیت نکنند، یا اگر دادگاه علیه آنها تشخیص دهد، در این صورت تحقیر خواهند شد. ادامه مطلب...",
+      "summary_en": "A Chinook helicopter equipped with a 11,300-litre water tank and a support aircraft would be deployed, alongside 24 skilled aerial and ground crew from the New South Wales Rural Fire Service. Follow liveGet our breaking news email, free app or daily news podcasteSafety commissioner says court action against Telegram ‘very significant’Julie Inman Grant, the eSafety commissioner, spoke to the ABC this morning after yesterday’s court action against Telegram over its alleged failure to detect and remove pro-terror material from its platform.The scars are still very raw around Bondi. … These are platforms – and they may be doing more content moderation and we would encourage that – but not to the degree that Australian law requires them to.This is just upping the ante and it’s much more serious. And if they don’t comply when the court finds, or if the court finds against them, then they’ll be in contempt. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 23:22:31 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1d6e6f4221ea227a8830ece520b7579a48d9ad65/499_0_6558_5246/master/6558.jpg?width=140&quality=85&auto=format&fit=max&s=44c4c38855faef79983919f636507056",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "a37f8f5257197a77330794345854ef85",
+      "title": "چگونه قانون جدید FCC بر جاروبرقی روبات ها تأثیر می گذارد",
+      "title_fa": "چگونه قانون جدید FCC بر جاروبرقی روبات ها تأثیر می گذارد",
+      "title_en": "How the FCC’s New Rule Will Affect Robot Vacuums",
+      "summary": "محدودیت جدیدی برای ربات‌های متحرک ساخت خارجی بر جاروبرقی‌های رباتیک، پاک‌کننده‌های استخر و ماشین‌های چمن‌زنی تأثیر می‌گذارد. در اینجا معنای آن برای ربات هایی است که قبلاً در خانه شما هستند - و آنهایی که ممکن است هرگز نتوانید آنها را بخرید.",
+      "summary_fa": "محدودیت جدیدی برای ربات‌های متحرک ساخت خارجی بر جاروبرقی‌های رباتیک، پاک‌کننده‌های استخر و ماشین‌های چمن‌زنی تأثیر می‌گذارد. در اینجا معنای آن برای ربات هایی است که قبلاً در خانه شما هستند - و آنهایی که ممکن است هرگز نتوانید آنها را بخرید.",
+      "summary_en": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
+      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 23:17:46 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b3e7d8954ee8e55508e63cd94a1c5d23",
+      "title": "صندلی های خالی؟ غول کنسرت Live Nation می گوید فروش بلیت در واقع در سطح بی سابقه ای است.",
+      "title_fa": "صندلی های خالی؟ غول کنسرت Live Nation می گوید فروش بلیت در واقع در سطح بی سابقه ای است.",
+      "title_en": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
+      "summary": "شرکت مادر Ticketmaster در پی گفتگوهای آنلاین درباره لغو تورهای پرمخاطب گفت که هنرمندان بیش از حد معمول از نمایش‌ها کنار نمی‌روند.",
+      "summary_fa": "شرکت مادر Ticketmaster در پی گفتگوهای آنلاین درباره لغو تورهای پرمخاطب گفت که هنرمندان بیش از حد معمول از نمایش‌ها کنار نمی‌روند.",
+      "summary_en": "In the wake of online chatter about high-profile tour cancellations, Ticketmaster’s parent company said artists aren’t ditching shows any more than usual.",
+      "link": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 23:01:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-94658938",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "54d84a4eebd3fe0d8e507ae4ce389d05",
+      "title": "رئیس ایکس‌باکس مایکروسافت در یادداشتی به کارمندان برنامه‌ای برای عبور از رقبای خود تا سال 2030 ارائه می‌کند.",
+      "title_fa": "رئیس ایکس‌باکس مایکروسافت در یادداشتی به کارمندان برنامه‌ای برای عبور از رقبای خود تا سال 2030 ارائه می‌کند.",
+      "title_en": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "summary": "واحد بازی مایکروسافت می‌خواهد در امتیاز Minecraft خود سرمایه‌گذاری کند و از طریق مشارکت، از جمله در چین، گسترش یابد.",
+      "summary_fa": "واحد بازی مایکروسافت می‌خواهد در امتیاز Minecraft خود سرمایه‌گذاری کند و از طریق مشارکت، از جمله در چین، گسترش یابد.",
+      "summary_en": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+      "link": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:48:30 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "0cd70ed17fdbf4a75e5269447f1ebdd9",
+      "title": "جیم کرامر می گوید که انفجار این صندوق تامینی خطرات پنهان اهرم را آشکار می کند",
+      "title_fa": "جیم کرامر می گوید که انفجار این صندوق تامینی خطرات پنهان اهرم را آشکار می کند",
+      "title_en": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+      "summary": "جیم کرامر از سی‌ان‌بی‌سی می‌گوید رها شدن اجباری آگاهی از وضعیت نشان می‌دهد که چگونه وام گرفتن پول می‌تواند به سرعت زیان‌ها را بزرگ‌تر کند و باعث فروش اجباری شود.",
+      "summary_fa": "جیم کرامر از سی‌ان‌بی‌سی می‌گوید رها شدن اجباری آگاهی از وضعیت نشان می‌دهد که چگونه وام گرفتن پول می‌تواند به سرعت زیان‌ها را بزرگ‌تر کند و باعث فروش اجباری شود.",
+      "summary_en": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+      "link": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:37:02 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "95a28459952cf8cf42a19d95658dcde9",
+      "title": "ترامپ می گوید شورای صلح بر سر خلع سلاح حماس در غزه به توافق رسیده است",
+      "title_fa": "ترامپ می گوید شورای صلح بر سر خلع سلاح حماس در غزه به توافق رسیده است",
+      "title_en": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+      "summary": "این یک خبر فوری است.",
+      "summary_fa": "این یک خبر فوری است.",
+      "summary_en": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 22:34:19 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -81168,6 +81399,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0cce99160ec3727bb91b73fe5e55f2ae",
+      "title": "تیم کوک به سطح iCloud Plus برای کاربران دارای هوش مصنوعی اشاره می کند",
+      "title_fa": "تیم کوک به سطح iCloud Plus برای کاربران دارای هوش مصنوعی اشاره می کند",
+      "title_en": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "summary": "اپل ممکن است به کاربران اجازه دهد تا برای افزایش محدودیت های استفاده از هوش مصنوعی هزینه پرداخت کنند. تیم کوک، مدیر عامل اپل در روز پنجشنبه طی تماسی با درآمد خود گفت که او معتقد است که مردم تمایل زیادی به استفاده از هوش اپل و هوش مصنوعی آینده سیری دارند و افزود که «ما نوعی امکان ارتقا در iCloud Plus خواهیم داشت که در آن افراد […]",
+      "summary_fa": "اپل ممکن است به کاربران اجازه دهد تا برای افزایش محدودیت های استفاده از هوش مصنوعی هزینه پرداخت کنند. تیم کوک، مدیر عامل اپل در روز پنجشنبه طی تماسی با درآمد خود گفت که او معتقد است که مردم تمایل زیادی به استفاده از هوش اپل و هوش مصنوعی آینده سیری دارند و افزود که «ما نوعی امکان ارتقا در iCloud Plus خواهیم داشت که در آن افراد […]",
+      "summary_en": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people […]",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "published_at": "2026-07-30T18:29:45-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
