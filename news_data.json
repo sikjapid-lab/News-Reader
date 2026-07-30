@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 13:11:23",
-  "total_count": 3947,
+  "last_update": "2026-07-30 15:25:10",
+  "total_count": 4022,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -381,6 +381,27 @@
       }
     },
     {
+      "id": "14cc6e0c581a252a7d0a9019b1aa23fc",
+      "title": "5 میلیون دلار ارزش دارد؟ بازدیدکنندگان به مجسمه های اسب بازسازی شده واشنگتن واکنش نشان می دهند",
+      "title_fa": "5 میلیون دلار ارزش دارد؟ بازدیدکنندگان به مجسمه های اسب بازسازی شده واشنگتن واکنش نشان می دهند",
+      "title_en": "Worth $5m? Visitors react to renovated Washington horse statues",
+      "summary": "دولت ترامپ مجسمه های هنرهای جنگ را در نزدیکی یادبود لینکلن با طلای 23.75 عیار تزیین کرده است.",
+      "summary_fa": "دولت ترامپ مجسمه های هنرهای جنگ را در نزدیکی یادبود لینکلن با طلای 23.75 عیار تزیین کرده است.",
+      "summary_en": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+      "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 29 Jul 2026 22:23:08 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/5ab09630-8b9b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
       "id": "e17ce242481c8339f491959ceb797064",
       "title": "Chipotle پیش‌بینی فروش خود را افزایش می‌دهد، حتی در شرایطی که شیوع مرتبط با کاهو باعث کاهش ترافیک می‌شود.",
       "title_fa": "Chipotle پیش‌بینی فروش خود را افزایش می‌دهد، حتی در شرایطی که شیوع مرتبط با کاهو باعث کاهش ترافیک می‌شود.",
@@ -416,6 +437,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1169a02c-ed08-4cf8-bac8-ffca2ce1ac2c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "82e0048e3eebb51be7d2e512be6e0e0c",
+      "title": "پرتوهای ایکس فوق سریع، شیمی را که اتم به اتم باز می شود، ضبط می کند",
+      "title_fa": "پرتوهای ایکس فوق سریع، شیمی را که اتم به اتم باز می شود، ضبط می کند",
+      "title_en": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "summary": "اشعه ایکس فوق سریع نشان داد که چگونه یک مولکول نور جذب شده را تنها در تریلیونم ثانیه به حرکت تبدیل می کند. اتم‌های منفرد مراحل مختلفی از فرآیند را ثبت کردند و یک پنجره جدید قدرتمند را به روی شیمی نور محور باز کردند.",
+      "summary_fa": "اشعه ایکس فوق سریع نشان داد که چگونه یک مولکول نور جذب شده را تنها در تریلیونم ثانیه به حرکت تبدیل می کند. اتم‌های منفرد مراحل مختلفی از فرآیند را ثبت کردند و یک پنجره جدید قدرتمند را به روی شیمی نور محور باز کردند.",
+      "summary_en": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven chemistry.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 29 Jul 2026 22:18:28 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -1050,6 +1092,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "d46a21c194f603b83d988d54b5c4546f",
+      "title": "هوش مصنوعی انفجارهای انفجاری را در تکامل پرندگان نشان می دهد",
+      "title_fa": "هوش مصنوعی انفجارهای انفجاری را در تکامل پرندگان نشان می دهد",
+      "title_en": "AI reveals explosive bursts in bird evolution",
+      "summary": "به نظر می رسد که پرندگان آوازخوان از طریق انفجارهای نادر تغییر که با دوره های طولانی رشد کندتر از هم جدا شده اند، تکامل یافته اند. بسیاری از این انفجارها همراه با تغییرات عمده آب و هوایی هستند که نشان می دهد تحولات محیطی می تواند زندگی را به روش های قدرتمندی تغییر دهد.",
+      "summary_fa": "به نظر می رسد که پرندگان آوازخوان از طریق انفجارهای نادر تغییر که با دوره های طولانی رشد کندتر از هم جدا شده اند، تکامل یافته اند. بسیاری از این انفجارها همراه با تغییرات عمده آب و هوایی هستند که نشان می دهد تحولات محیطی می تواند زندگی را به روش های قدرتمندی تغییر دهد.",
+      "summary_en": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can reshape life in powerful ways.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 29 Jul 2026 21:01:26 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32600,6 +32663,531 @@
       }
     },
     {
+      "id": "07daf95c9f381a15937df57bde05cd7e",
+      "title": "هزاران مهاجر از مراکش به مرز سئوتا یورش بردند",
+      "title_fa": "هزاران مهاجر از مراکش به مرز سئوتا یورش بردند",
+      "title_en": "Thousands of migrants storm Ceuta border from Morocco",
+      "summary": "هزاران نفر از مراکش وارد منطقه سیوتای اسپانیا در شمال آفریقا شدند که باعث شد مقامات محلی درخواست یک فوریت ملی و حمایت نظامی کنند.",
+      "summary_fa": "هزاران نفر از مراکش وارد منطقه سیوتای اسپانیا در شمال آفریقا شدند که باعث شد مقامات محلی درخواست یک فوریت ملی و حمایت نظامی کنند.",
+      "summary_en": "Thousands crossed into Spain's North African enclave of Ceuta from Morocco, prompting local authorities to request a national emergency and military support.",
+      "link": "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 17:10:17 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "be07bd4948de43b5057b00ae908456e4",
+      "title": "سرامیک در ایتالیا، شیشه در چک: با قطار به این مراکز صنایع دستی سنتی در اروپا بروید",
+      "title_fa": "سرامیک در ایتالیا، شیشه در چک: با قطار به این مراکز صنایع دستی سنتی در اروپا بروید",
+      "title_en": "Ceramics in Italy, glass in Czechia: Take the train to these traditional crafts centres in Europe",
+      "summary": "از مجسمه‌سازی گلی گرفته تا شیشه‌کاری، در اینجا مهارت‌های باستانی وجود دارد که می‌توانید در مورد آنها بیاموزید و چگونه با قطار به جایی برسید که هنوز تمرین می‌شود.",
+      "summary_fa": "از مجسمه‌سازی گلی گرفته تا شیشه‌کاری، در اینجا مهارت‌های باستانی وجود دارد که می‌توانید در مورد آنها بیاموزید و چگونه با قطار به جایی برسید که هنوز تمرین می‌شود.",
+      "summary_en": "From clay-sculpting to glasswork, here are the ancient skills you can learn about and how to reach where they are still practised by train.",
+      "link": "http://www.euronews.com/travel/2026/07/30/ceramics-in-italy-glass-in-czechia-take-the-train-to-these-traditional-crafts-centres-in-e",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 17:00:20 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "c4995e574538c5f9e816fcf8545f2673",
+      "title": "اروپای جنوبی با آتش سوزی های کمتر اما خطر آتش سوزی «بزرگتر» درگیر است. آیا راه حلی وجود دارد؟",
+      "title_fa": "اروپای جنوبی با آتش سوزی های کمتر اما خطر آتش سوزی «بزرگتر» درگیر است. آیا راه حلی وجود دارد؟",
+      "title_en": "Southern Europe is dealing with fewer blazes but ‘greater’ wildfire risk. Is there a solution?",
+      "summary": "یک مطالعه جدید بزرگ هشدار می دهد که پرتغال، اسپانیا، فرانسه، ایتالیا و یونان آب و هوای \"موج آتش\" بیشتری را تجربه می کنند.",
+      "summary_fa": "یک مطالعه جدید بزرگ هشدار می دهد که پرتغال، اسپانیا، فرانسه، ایتالیا و یونان آب و هوای \"موج آتش\" بیشتری را تجربه می کنند.",
+      "summary_en": "A major new study warns that Portugal, Spain, France, Italy and Greece are experiencing more ‘fire-promoting’ weather.",
+      "link": "http://www.euronews.com/2026/07/30/southern-europe-is-dealing-with-fewer-blazes-but-greater-wildfire-risk-is-there-a-solution",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 17:00:01 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "00a1d74454d9f8114d84b55751168aa1",
+      "title": "تنباکوی غیرمجاز: حملات موفقیت آمیز برای پایان دادن به این تجارت جنایتکارانه کافی نیست",
+      "title_fa": "تنباکوی غیرمجاز: حملات موفقیت آمیز برای پایان دادن به این تجارت جنایتکارانه کافی نیست",
+      "title_en": "Illicit tobacco: Successful raids are not enough to put an end to this criminal trade",
+      "summary": "حملات موفقیت آمیز تیتر خبرها می شود. با این حال، آنها همچنین نشان می دهند که هنوز چه مقدار تنباکو غیرقانونی می تواند ضبط شود. جووانی کسلر، مدیر کل سابق دفتر مبارزه با تقلب اروپا (OLAF)، بنابراین در یک مقاله نظری برای یورونیوز خواستار اقدامات گسترده ای است.",
+      "summary_fa": "حملات موفقیت آمیز تیتر خبرها می شود. با این حال، آنها همچنین نشان می دهند که هنوز چه مقدار تنباکو غیرقانونی می تواند ضبط شود. جووانی کسلر، مدیر کل سابق دفتر مبارزه با تقلب اروپا (OLAF)، بنابراین در یک مقاله نظری برای یورونیوز خواستار اقدامات گسترده ای است.",
+      "summary_en": "Successful raids make the headlines. However, they also highlight just how much illegal tobacco can still be seized. Giovanni Kessler, former Director-General of the European Anti-Fraud Office (OLAF), is therefore calling for far-reaching measures in an opinion piece for Euronews.",
+      "link": "http://www.euronews.com/my-europe/2026/07/30/illicit-tobacco-successful-raids-are-not-enough-to-put-an-end-to-this-criminal-trade",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 16:43:21 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a735d88cb2ad2172d0f1cff424d6437e",
+      "title": "نیروگاه اتمی پاکس مجارستان با کاهش بی سابقه سطح آب دانوب با تعطیلی مواجه شد",
+      "title_fa": "نیروگاه اتمی پاکس مجارستان با کاهش بی سابقه سطح آب دانوب با تعطیلی مواجه شد",
+      "title_en": "Hungary's Paks nuclear plant faces shutdown as Danube water levels hit record low",
+      "summary": "نیروگاه اتمی پاکس مجارستان که تقریباً نیمی از برق کشور را تامین می کند، ممکن است طی چند روز تعطیل شود زیرا سطح آب دانوب به پایین ترین حد خود رسیده است. نخست وزیر پیتر ماگیار می گوید عرضه همچنان امن است.",
+      "summary_fa": "نیروگاه اتمی پاکس مجارستان که تقریباً نیمی از برق کشور را تامین می کند، ممکن است طی چند روز تعطیل شود زیرا سطح آب دانوب به پایین ترین حد خود رسیده است. نخست وزیر پیتر ماگیار می گوید عرضه همچنان امن است.",
+      "summary_en": "Hungary's Paks nuclear plant, which provides nearly half the country's power, may shut down within days as Danube water levels hit record lows. PM Péter Magyar says supply remains secure.",
+      "link": "http://www.euronews.com/my-europe/2026/07/30/hungarys-paks-nuclear-plant-faces-shutdown-as-danube-water-levels-hit-record-low",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 16:13:56 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79a09324e99321e315026b6e5a249450",
+      "title": "سطح پایین آب: اتحادیه اروپا کشتی های جنگی قدیمی نازی ها را از دانوب پاکسازی می کند",
+      "title_fa": "سطح پایین آب: اتحادیه اروپا کشتی های جنگی قدیمی نازی ها را از دانوب پاکسازی می کند",
+      "title_en": "Low water levels: EU clears old Nazi warships from the Danube",
+      "summary": "در نزدیکی پراهوو در صربستان، آثار جنگ جهانی دوم زمانی پدیدار می شود که سطح رودخانه ها پایین است. در بستر رودخانه، تعداد زیادی از کشتی‌های جنگی آلمانی که در سال 1944 هنگام عقب‌نشینی از ارتش سرخ، توسط خدمه آنها غرق شدند، قرار دارند.",
+      "summary_fa": "در نزدیکی پراهوو در صربستان، آثار جنگ جهانی دوم زمانی پدیدار می شود که سطح رودخانه ها پایین است. در بستر رودخانه، تعداد زیادی از کشتی‌های جنگی آلمانی که در سال 1944 هنگام عقب‌نشینی از ارتش سرخ، توسط خدمه آنها غرق شدند، قرار دارند.",
+      "summary_en": "Near Prahovo in Serbia, relics of the Second World War emerge when river levels are low. On the riverbed lie numerous wrecks of German warships scuttled by their crews in 1944 as they retreated from the Red Army.",
+      "link": "http://www.euronews.com/culture/2026/07/30/low-water-levels-eu-clears-old-nazi-warships-from-the-danube",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 16:07:23 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0128a898340acc9d70a3a98cfb0fb4e9",
+      "title": "خدمه آتش نشانی در حال مهار آتش سوزی در نزدیکی سایت های اصلی انرژی هسته ای در بریتانیا هستند",
+      "title_fa": "خدمه آتش نشانی در حال مهار آتش سوزی در نزدیکی سایت های اصلی انرژی هسته ای در بریتانیا هستند",
+      "title_en": "Fire crews tackle blaze close to major nuclear power sites in UK",
+      "summary": "سخنگوی شرکت انرژی EDF به یورونیوز گفت که آتش سوزی \"در حال حاضر بر عملیات نیروگاه Sizewell B تاثیر نمی گذارد\" اما این شرکت \"به نظارت بر وضعیت ادامه می دهد.\"",
+      "summary_fa": "سخنگوی شرکت انرژی EDF به یورونیوز گفت که آتش سوزی \"در حال حاضر بر عملیات نیروگاه Sizewell B تاثیر نمی گذارد\" اما این شرکت \"به نظارت بر وضعیت ادامه می دهد.\"",
+      "summary_en": "A spokesperson for energy company EDF told Euronews that the fire \"is not currently affecting operations at Sizewell B power station\" but that the company was \"continuing to monitor the situation.\"",
+      "link": "http://www.euronews.com/my-europe/2026/07/30/fire-crews-tackle-blaze-close-to-major-nuclear-power-sites-in-uk",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 16:05:44 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "8244156c1f895aba7f92410424493e79",
+      "title": "مدیر اجرایی سوکار می گوید خطوط لوله آذربایجان به عنوان شریان های حیاتی گاز خزر را به اروپا متصل می کند.",
+      "title_fa": "مدیر اجرایی سوکار می گوید خطوط لوله آذربایجان به عنوان شریان های حیاتی گاز خزر را به اروپا متصل می کند.",
+      "title_en": "Azerbaijani pipelines act as critical 'arteries' linking Caspian gas to Europe, says SOCAR Executive",
+      "summary": "در مصاحبه با یورونیوز، مدیران انرژی سوکار در مورد نقش رو به گسترش آذربایجان در امنیت انرژی اروپا، پس از افزایش 56 درصدی صادرات گاز طبیعی به اتحادیه اروپا از سال 2021، بحث کردند.",
+      "summary_fa": "در مصاحبه با یورونیوز، مدیران انرژی سوکار در مورد نقش رو به گسترش آذربایجان در امنیت انرژی اروپا، پس از افزایش 56 درصدی صادرات گاز طبیعی به اتحادیه اروپا از سال 2021، بحث کردند.",
+      "summary_en": "In an interview with Euronews, SOCAR energy executives discussed Azerbaijan’s expanding role in European energy security, following a 56 per cent increase in natural gas exports to the EU since 2021.",
+      "link": "http://www.euronews.com/business/2026/07/30/azerbaijani-pipelines-act-as-critical-arteries-linking-caspian-gas-to-europe-says-socar-ex",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 16:00:17 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "f888793f330259d517ea2d0af357cb6c",
+      "title": "چگونه قانون هوش مصنوعی اتحادیه اروپا قوانین شرکت را از واشنگتن تا توکیو تغییر می دهد",
+      "title_fa": "چگونه قانون هوش مصنوعی اتحادیه اروپا قوانین شرکت را از واشنگتن تا توکیو تغییر می دهد",
+      "title_en": "How the EU AI Act is reshaping company rules from Washington to Tokyo",
+      "summary": "تقریباً نیمی از شرکت‌هایی که از قانون هوش مصنوعی اتحادیه اروپا در افشاگری‌های حاکمیتی خود استناد می‌کنند، هیچ الزام قانونی برای پیروی از آن ندارند، زیرا تحقیقات جدید نشان می‌دهد که قوانین در حال شکل‌دهی به شیوه‌هایی فراتر از مرزهای اتحادیه هستند.",
+      "summary_fa": "تقریباً نیمی از شرکت‌هایی که از قانون هوش مصنوعی اتحادیه اروپا در افشاگری‌های حاکمیتی خود استناد می‌کنند، هیچ الزام قانونی برای پیروی از آن ندارند، زیرا تحقیقات جدید نشان می‌دهد که قوانین در حال شکل‌دهی به شیوه‌هایی فراتر از مرزهای اتحادیه هستند.",
+      "summary_en": "Nearly half the companies citing the EU's AI Act in their governance disclosures have no legal obligation to follow it, as new research shows the rules are shaping practices well beyond the bloc's borders.",
+      "link": "http://www.euronews.com/next/2026/07/30/how-the-eu-ai-act-is-reshaping-company-rules-from-washington-to-tokyo",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 15:56:56 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "8bbf202aa74d9ca035803f815c3bbb8a",
+      "title": "جایزه مرکوری 2026: پل مک کارتنی برای اولین بار در فهرست کوتاه هیجان انگیز نامزد شد",
+      "title_fa": "جایزه مرکوری 2026: پل مک کارتنی برای اولین بار در فهرست کوتاه هیجان انگیز نامزد شد",
+      "title_en": "Mercury Prize 2026: Paul McCartney becomes first-time nominee in thrilling shortlist",
+      "summary": "این جایزه معتبر که در سال 1992 تأسیس شد، به بهترین آلبوم منتشر شده توسط یک هنرمند بریتانیایی یا ایرلندی هر سال افتخار می کند. برای نامزدهای 2026، RAYE، Nia Archives و Florence + The Machine به مصاف هم می روند، در حالی که پل مک کارتنی اسطوره موسیقی اولین نامزدی خود را در سن 84 سالگی به دست آورده است.",
+      "summary_fa": "این جایزه معتبر که در سال 1992 تأسیس شد، به بهترین آلبوم منتشر شده توسط یک هنرمند بریتانیایی یا ایرلندی هر سال افتخار می کند. برای نامزدهای 2026، RAYE، Nia Archives و Florence + The Machine به مصاف هم می روند، در حالی که پل مک کارتنی اسطوره موسیقی اولین نامزدی خود را در سن 84 سالگی به دست آورده است.",
+      "summary_en": "Established in 1992, the prestigious award honours the best album released by a British or Irish artist each year. For the 2026 nominees, RAYE, Nia Archives and Florence + The Machine will face off, while music legend Paul McCartney bags his first ever nomination at the tender age of 84.",
+      "link": "http://www.euronews.com/culture/2026/07/30/mercury-prize-2026-paul-mccartney-becomes-first-time-nominee-in-thrilling-shortlist",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 15:37:40 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bb97756def1f3cd212e980776b684c5d",
+      "title": "تصاویر پهپاد آتش سوزی عظیم کاستلون در شرق اسپانیا را به تصویر می کشد",
+      "title_fa": "تصاویر پهپاد آتش سوزی عظیم کاستلون در شرق اسپانیا را به تصویر می کشد",
+      "title_en": "Drone footage captures massive Castellon wildfire in eastern Spain",
+      "summary": "آتش سوزی های جنگلی در سراسر اسپانیا همچنان ادامه دارد زیرا خدمه با آتش سوزی در کاستلون و زامورا مبارزه می کنند، هزاران نفر تخلیه شده اند و هواپیماها از تلاش های اطفای حریق پشتیبانی می کنند.",
+      "summary_fa": "آتش سوزی های جنگلی در سراسر اسپانیا همچنان ادامه دارد زیرا خدمه با آتش سوزی در کاستلون و زامورا مبارزه می کنند، هزاران نفر تخلیه شده اند و هواپیماها از تلاش های اطفای حریق پشتیبانی می کنند.",
+      "summary_en": "Wildfires continue to burn across Spain as crews battle blazes in Castellon and Zamora, with thousands evacuated and aircraft supporting firefighting efforts.",
+      "link": "http://www.euronews.com/video/2026/07/30/drone-footage-captures-massive-castellon-wildfire-in-eastern-spain",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 15:34:26 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "df0b6110832c0a54e5c4fed92ab53512",
+      "title": "زلنسکی می گوید حداقل پنج عضو یک خانواده در حمله موشکی روسیه کشته شدند",
+      "title_fa": "زلنسکی می گوید حداقل پنج عضو یک خانواده در حمله موشکی روسیه کشته شدند",
+      "title_en": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "summary": "یک دختر شش ساله و دو پسر 11 و 17 ساله در میان شش کشته در روستایی در نزدیکی شهر کریوی ریح در مرکز این کشور هستند.",
+      "summary_fa": "یک دختر شش ساله و دو پسر 11 و 17 ساله در میان شش کشته در روستایی در نزدیکی شهر کریوی ریح در مرکز این کشور هستند.",
+      "summary_en": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 15:20:19 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce2/live/9f464590-8c24-11f1-bdac-871e920411eb.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "5b0b346187f58d6beddb6fadc5b21b0e",
+      "title": "کشورهای اروپایی در اعتراض به برنامه های فیفا جام جهانی را تحریم می کنند",
+      "title_fa": "کشورهای اروپایی در اعتراض به برنامه های فیفا جام جهانی را تحریم می کنند",
+      "title_en": "European nations to boycott World Cup in protest at Fifa’s plans",
+      "summary": "حرکت توسط یوفا ضربه بزرگی به تلاش ها برای فروش سهام در سرمایه گذاری تجاری جدید 20 میلیارد دلاری وارد کرد.",
+      "summary_fa": "حرکت توسط یوفا ضربه بزرگی به تلاش ها برای فروش سهام در سرمایه گذاری تجاری جدید 20 میلیارد دلاری وارد کرد.",
+      "summary_en": "Move by Uefa deals major blow to efforts to sell stake in new $20bn commercial venture",
+      "link": "https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 15:17:51 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7e3a111-eead-45af-9523-ecbeec540f51.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9618347c30e0e7b46144f3c93131632a",
+      "title": "آتش سوزی جنگلی در سافولک، بریتانیا، در چند مایلی نیروگاه هسته ای رخ داد",
+      "title_fa": "آتش سوزی جنگلی در سافولک، بریتانیا، در چند مایلی نیروگاه هسته ای رخ داد",
+      "title_en": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
+      "summary": "یک آتش سوزی بزرگ تقریباً 250 هکتار زمین را در سافولک، منطقه ای دیدنی در ساحل، فرا گرفت. چند مایلی از یک نیروگاه هسته ای فاصله داشت.",
+      "summary_fa": "یک آتش سوزی بزرگ تقریباً 250 هکتار زمین را در سافولک، منطقه ای دیدنی در ساحل، فرا گرفت. چند مایلی از یک نیروگاه هسته ای فاصله داشت.",
+      "summary_en": "A large fire engulfed almost 250 acres of land in Suffolk, a scenic area on the coast. It was a few miles from a nuclear power station.",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 15:16:54 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30uk-wildfire-01-hjpv/30uk-wildfire-01-hjpv-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "1fb760bf441a247e16d04fdadf128a9c",
+      "title": "اعتراض مقامات سابق به طرح ایالات متحده برای کاهش بودجه سازمان بهداشت پان آمریکا",
+      "title_fa": "اعتراض مقامات سابق به طرح ایالات متحده برای کاهش بودجه سازمان بهداشت پان آمریکا",
+      "title_en": "Former Officials Protest U.S. Plan to Defund Pan American Health Organization",
+      "summary": "این گروه از مقامات سابق بهداشت و امنیت ملی هشدار دادند که آمریکایی ها در برابر تهدیدات بیماری های عفونی آسیب پذیرتر خواهند بود.",
+      "summary_fa": "این گروه از مقامات سابق بهداشت و امنیت ملی هشدار دادند که آمریکایی ها در برابر تهدیدات بیماری های عفونی آسیب پذیرتر خواهند بود.",
+      "summary_en": "The group of former health and national security officials warned that Americans will be more vulnerable to infectious disease threats.",
+      "link": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 15:14:51 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/us/30DC-PAHO/30DC-PAHO-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4ab885c3e160a81db72bc137fc28bd67",
+      "title": "اسپریچر، مدیرعامل NYSE، شوهر لوفلر، رئیس SBA، با باشگاه خصوصی تحت حمایت ترامپ جونیور ارتباط دارد.",
+      "title_fa": "اسپریچر، مدیرعامل NYSE، شوهر لوفلر، رئیس SBA، با باشگاه خصوصی تحت حمایت ترامپ جونیور ارتباط دارد.",
+      "title_en": "NYSE CEO Sprecher, SBA head Loeffler's husband, has ties to Trump Jr.-backed private club",
+      "summary": "باشگاه شعبه اجرایی، که اعضای آن شامل مقامات دولت ترامپ، سرمایه‌گذاران و رهبران تجاری می‌شود، مبلغ 500000 دلار هزینه ورودی دریافت می‌کند.",
+      "summary_fa": "باشگاه شعبه اجرایی، که اعضای آن شامل مقامات دولت ترامپ، سرمایه‌گذاران و رهبران تجاری می‌شود، مبلغ 500000 دلار هزینه ورودی دریافت می‌کند.",
+      "summary_en": "The Executive Branch club, where members include Trump administration officials, investors and business leaders, charges a $500,000 entry fee.",
+      "link": "https://www.cnbc.com/2026/07/30/kelly-loeffler-husband-jeffrey-sprecher-executive-branch-club-donald-trump-jr.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 15:14:46 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f6991ed272eb51d0fdb5774f8e560293",
+      "title": "به روز رسانی زنده جنگ ایران: حمله پهپاد در مصر تهدید به گسترش نبرد است",
+      "title_fa": "به روز رسانی زنده جنگ ایران: حمله پهپاد در مصر تهدید به گسترش نبرد است",
+      "title_en": "Iran War Live Updates: Drone Attack in Egypt Threatens to Expand Fighting",
+      "summary": "پس از اینکه عربستان سعودی برای اولین بار به دخالت مستقیم خود در جنگ اذعان کرد، ایالات متحده و ایران یک شبه حملاتی را انجام دادند.",
+      "summary_fa": "پس از اینکه عربستان سعودی برای اولین بار به دخالت مستقیم خود در جنگ اذعان کرد، ایالات متحده و ایران یک شبه حملاتی را انجام دادند.",
+      "summary_en": "The United States and Iran exchanged strikes overnight, after Saudi Arabia acknowledged direct involvement in the war for the first time.",
+      "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 15:14:33 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-promo-gcht/30mideast-live-promo-gcht-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "49808bc4daac5105a3c8429bc7fa2f0c",
+      "title": "طرح فیفا برای فروش جام جهانی به سرمایه گذاران خصوصی مورد استقبال قرار نگرفت - اما آیا آنها می توانند آن را به پایان برسانند؟",
+      "title_fa": "طرح فیفا برای فروش جام جهانی به سرمایه گذاران خصوصی مورد استقبال قرار نگرفت - اما آیا آنها می توانند آن را به پایان برسانند؟",
+      "title_en": "FIFA's plan to sell World Cup to private investors has not been well received - but can they pull it off?",
+      "summary": "طرح جیانی اینفانتینو برای فروش سهام در عملیات تجاری فیفا به سرمایه گذاران خصوصی با مخالفت شدید یوفا روبرو می شود که به طور بالقوه می تواند آرای کافی برای جلوگیری از این پیشنهاد را داشته باشد.",
+      "summary_fa": "طرح جیانی اینفانتینو برای فروش سهام در عملیات تجاری فیفا به سرمایه گذاران خصوصی با مخالفت شدید یوفا روبرو می شود که به طور بالقوه می تواند آرای کافی برای جلوگیری از این پیشنهاد را داشته باشد.",
+      "summary_en": "Gianni Infantino’s plan to sell stakes in FIFA’s commercial operations to private investors faces fierce opposition from UEFA, which could potentially have enough votes to block the proposal.",
+      "link": "http://www.euronews.com/2026/07/30/fifas-plan-to-sell-world-cup-to-private-investors-has-not-been-well-received-but-can-they-",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 15:12:29 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c22ab67665a27eb01dcf570e51bdfbe1",
+      "title": "اپل و آمازون گزارش پس از زنگ. در اینجا چیزی است که بازار آپشن می گوید",
+      "title_fa": "اپل و آمازون گزارش پس از زنگ. در اینجا چیزی است که بازار آپشن می گوید",
+      "title_en": "Apple and Amazon report after the bell. Here's what the options market is saying",
+      "summary": "درآمدهای امروز بعد از ظهر اپل و آمازون احتمالا تصمیم خواهند گرفت که آیا بازار سهام می تواند به هفته ای سخت پایان دهد یا خیر.",
+      "summary_fa": "درآمدهای امروز بعد از ظهر اپل و آمازون احتمالا تصمیم خواهند گرفت که آیا بازار سهام می تواند به هفته ای سخت پایان دهد یا خیر.",
+      "summary_en": "Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what’s so far been a rough week on solid footing.",
+      "link": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 15:11:30 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6404e47771caa9a8cee29a64f160d87b",
+      "title": "رئیس رقابت اتحادیه اروپا، ریبرا، انکارکنندگان آب و هوا را با خشم آتش سوزی ها مورد انتقاد قرار می دهد: \"دروغ می گویند\"",
+      "title_fa": "رئیس رقابت اتحادیه اروپا، ریبرا، انکارکنندگان آب و هوا را با خشم آتش سوزی ها مورد انتقاد قرار می دهد: \"دروغ می گویند\"",
+      "title_en": "EU's competition chief Ribera slams climate deniers as fires rage: 'They are lying'",
+      "summary": "ریبرا در مصاحبه خود با یورونیوز، سیاستمداران اروپایی «خطرناک و احمق» را هدف قرار داد که علم آب و هوا را مورد تردید قرار می‌دهند و سیاست‌های زیست‌محیطی را به‌عنوان ایدئولوژیک و نه مبتنی بر شواهد رد می‌کنند.",
+      "summary_fa": "ریبرا در مصاحبه خود با یورونیوز، سیاستمداران اروپایی «خطرناک و احمق» را هدف قرار داد که علم آب و هوا را مورد تردید قرار می‌دهند و سیاست‌های زیست‌محیطی را به‌عنوان ایدئولوژیک و نه مبتنی بر شواهد رد می‌کنند.",
+      "summary_en": "In her interview with Euronews, Ribera took aim at 'dangerous and stupid' European politicians who cast doubt on climate science and dismiss environmental policies as ideological rather than grounded in evidence.",
+      "link": "http://www.euronews.com/2026/07/30/they-are-lying-teresa-ribera-slams-climate-deniers-as-fires-rage-in-euronews-interview",
+      "source": "EuroNews",
+      "published_at": "Thu, 30 Jul 2026 15:09:27 +0200",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "6fc030d5678323c781bd211c09c4819a",
+      "title": "Gemini Robotics 2 هوش مصنوعی گوگل را به دنیای فیزیکی می آورد",
+      "title_fa": "Gemini Robotics 2 هوش مصنوعی گوگل را به دنیای فیزیکی می آورد",
+      "title_en": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "summary": "آخرین نسخه مدل هوش مصنوعی Google DeepMind شامل جهش قابل توجهی به \"فیزیکی AGI\" است. اما ورود هوش مصنوعی به دنیای واقعی با خطراتی همراه است.",
+      "summary_fa": "آخرین نسخه مدل هوش مصنوعی Google DeepMind شامل جهش قابل توجهی به \"فیزیکی AGI\" است. اما ورود هوش مصنوعی به دنیای واقعی با خطراتی همراه است.",
+      "summary_en": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 15:04:22 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49702088c8bfb3b02c494cb8272cb2e4",
+      "title": "ناتو می گوید موشک روسیه در جریان حمله اوکراین به لهستان اصابت کرد",
+      "title_fa": "ناتو می گوید موشک روسیه در جریان حمله اوکراین به لهستان اصابت کرد",
+      "title_en": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
+      "summary": "موشک های روسی در گذشته برای مدت کوتاهی وارد حریم هوایی لهستان شده اند. بازرسان هنوز به طور قطعی شیئی را که در طول شب برخورد کرده است شناسایی نکرده اند.",
+      "summary_fa": "موشک های روسی در گذشته برای مدت کوتاهی وارد حریم هوایی لهستان شده اند. بازرسان هنوز به طور قطعی شیئی را که در طول شب برخورد کرده است شناسایی نکرده اند.",
+      "summary_en": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight.",
+      "link": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 15:03:40 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-ukraine-poland-jkbf/30int-ukraine-poland-jkbf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b6fdba81314c917184629f32638d0730",
+      "title": "Stellantis، سازنده جیپ، با افزایش تقاضا در آمریکای شمالی سود می برد",
+      "title_fa": "Stellantis، سازنده جیپ، با افزایش تقاضا در آمریکای شمالی سود می برد",
+      "title_en": "Jeep maker Stellantis swings to profit on rising demand in North America",
+      "summary": "غول خودرو Stellantis روز پنجشنبه به سود در سه ماهه دوم رسید که با افزایش تقاضا در آمریکای شمالی تقویت شد.",
+      "summary_fa": "غول خودرو Stellantis روز پنجشنبه به سود در سه ماهه دوم رسید که با افزایش تقاضا در آمریکای شمالی تقویت شد.",
+      "summary_en": "Auto giant Stellantis on Thursday swung to profit in the second quarter, boosted by rising demand in North America.",
+      "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 15:02:17 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3811823ad3ade9ae3a46928771702461",
+      "title": "آتش نشانان برای خاموش کردن آتش در سراسر اتحادیه اروپا با شکستن رکورد آب و هوای آتش سوزی رقابت می کنند",
+      "title_fa": "آتش نشانان برای خاموش کردن آتش در سراسر اتحادیه اروپا با شکستن رکورد آب و هوای آتش سوزی رقابت می کنند",
+      "title_en": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
+      "summary": "ارقام سرویس اطلاعات آتش‌سوزی جنگل‌های اروپا نشان می‌دهد که شرایط در اتحادیه اروپا 43 درصد شدیدتر از مدت مشابه در 20 سال گذشته است. داده‌های جدید نشان می‌دهد که آب و هوای آتش‌سوزی در اتحادیه اروپا رکورد شدت در این زمان از سال را شکسته است، زیرا آتش‌نشان‌ها برای خاموش کردن آتش‌ها در سرتاسر دریای مدیترانه رقابت می‌کنند. ملتهب ناشی از آلودگی کربن، هوای اتحادیه اروپا از زمان شروع سال شدیدتر از سال 3 بوده است. داده های سرویس اطلاعات آتش سوزی اروپا (Effis) نشان می دهد که میانگین پایان ژوئیه طی دو دهه گذشته. به خواندن ادامه دهید...",
+      "summary_fa": "ارقام سرویس اطلاعات آتش‌سوزی جنگل‌های اروپا نشان می‌دهد که شرایط در اتحادیه اروپا 43 درصد شدیدتر از مدت مشابه در 20 سال گذشته است. داده‌های جدید نشان می‌دهد که آب و هوای آتش‌سوزی در اتحادیه اروپا رکورد شدت در این زمان از سال را شکسته است، زیرا آتش‌نشان‌ها برای خاموش کردن آتش‌ها در سرتاسر دریای مدیترانه رقابت می‌کنند. ملتهب ناشی از آلودگی کربن، هوای اتحادیه اروپا از زمان شروع سال شدیدتر از سال 3 بوده است. داده های سرویس اطلاعات آتش سوزی اروپا (Effis) نشان می دهد که میانگین پایان ژوئیه طی دو دهه گذشته. به خواندن ادامه دهید...",
+      "summary_en": "European Forest Fire Information Service figures show conditions in EU 43% more severe than for same period in last 20 years Fire weather in the EU has broken records for severity for this time of year, new data shows, as firefighters race to extinguish blazes across the Mediterranean.Inflamed by carbon pollution, the hot, dry and windy weather across the EU since the start of the year has been 43% more severe than the end-of-July average over the last two decades, data from the European Forest Fire Information Service (Effis) shows. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 15:02:12 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/79143bd91ff44c6091c827f9d9a244ee83325f58/1378_196_6581_5268/master/6581.jpg?width=140&quality=85&auto=format&fit=max&s=2663d34d4442d495b1babcc80474c5bb",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "6a1cac7d7ccae94cf68daa8eb4e5185d",
+      "title": "فرماندار کل نسبت به \"فاجعه فزاینده\" که تهدیدی برای تضعیف دموکراسی در استرالیا است، هشدار داد",
+      "title_fa": "فرماندار کل نسبت به \"فاجعه فزاینده\" که تهدیدی برای تضعیف دموکراسی در استرالیا است، هشدار داد",
+      "title_en": "Governor general warns of ‘growing catastrophe’ that threatens to undermine democracy in Australia",
+      "summary": "سام ماستین می‌گوید «شکست در درک و تعامل با و احساس غرور از زیربنای مدنی دموکراسی ما وجود دارد.» دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما استرالیا با «فاجعه فزاینده» ناشی از درک ضعیف بنیاد قانون اساسی کشور مواجه است، فرماندار کل، سام ماستین، به عنوان تهدید به مقامات تحت نظارت و هشدار داده است. مشارکت دموکراتیک. دو سال پس از انتصاب او به عنوان نماینده شاه چارلز در کانبرا، و در حالی که او نقشی مدرن را به نقش نایب سلطنت می بخشد، مستین گفت که دانش نحوه عملکرد سیستم حکومتی کشور به طور مداوم در حال افول است و آموزش مدنی بهتر مورد نیاز است. به خواندن ادامه دهید...",
+      "summary_fa": "سام ماستین می‌گوید «شکست در درک و تعامل با و احساس غرور از زیربنای مدنی دموکراسی ما وجود دارد.» دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما استرالیا با «فاجعه فزاینده» ناشی از درک ضعیف بنیاد قانون اساسی کشور مواجه است، فرماندار کل، سام ماستین، به عنوان تهدید به مقامات تحت نظارت و هشدار داده است. مشارکت دموکراتیک. دو سال پس از انتصاب او به عنوان نماینده شاه چارلز در کانبرا، و در حالی که او نقشی مدرن را به نقش نایب سلطنت می بخشد، مستین گفت که دانش نحوه عملکرد سیستم حکومتی کشور به طور مداوم در حال افول است و آموزش مدنی بهتر مورد نیاز است. به خواندن ادامه دهید...",
+      "summary_en": "Sam Mostyn says there is a widespread ‘failure to understand and engage with and feel proud of the very civic underpinnings of our democracy’Get our breaking news email, free app or daily news podcastAustralia faces a “growing catastrophe” from poor understanding of the country’s constitutional foundation, the governor general, Sam Mostyn, has warned as attacks on institutions and threats against elected officials undermine democratic participation.Two years after her appointment as King Charles’s representative in Canberra, and as she brings a modern touch to the role of vice regal, Mostyn said that knowledge of how the country’s system of government operates was in steady decline and better civics education was needed. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/31/governor-general-warns-of-growing-catastrophe-that-threatens-to-undermine-democracy-in-australia-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 15:00:19 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/6b5cec8ed4c21aa5b9f7d75e22ce9cfa7bcbe877/830_133_6660_5331/master/6660.jpg?width=140&quality=85&auto=format&fit=max&s=e0c2f798a3061071fa46ab42990a4d1f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a21b3d23089dd1cfdcde11e26787ac33",
       "title": "یک دهه رشد: از آمار و ارقام تا تغییرات روزمره",
       "title_fa": "یک دهه رشد: از آمار و ارقام تا تغییرات روزمره",
@@ -32621,6 +33209,111 @@
       }
     },
     {
+      "id": "62539d9bcf8a09c562ddefe1a2372911",
+      "title": "افشاگری های Icac همکاران آنگوس تیلور را مضطرب کرده است - و دشمنان جناحی او را عصبانی کرده است.",
+      "title_fa": "افشاگری های Icac همکاران آنگوس تیلور را مضطرب کرده است - و دشمنان جناحی او را عصبانی کرده است.",
+      "title_en": "Icac revelations have left Angus Taylor’s colleagues anxious – and his factional enemies angry",
+      "summary": "رهبر اپوزیسیون بالاترین شخصیتی است که تاکنون در کمیسیون مبارزه با فساد نیوساوت ولز ذکر شده است – و شخصیت سیاسی که بیشترین ضرر را داشته است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید پس از روزهای آغازین تحقیقی که زیر شکم تاریک لیبرال‌های نیو ساوت ولز را افشا می‌کند، روحیه غالب در میان رهبران اپوزیسیون آنگوس تیلور یکی از هدف‌های خاص همکاران برنامه اپرا است. Rosny، که در حال بررسی اتهامات فساد علیه افراد مرتبط با شعبه نیوساوت ولز است. او متهم به تخلف نیست. به خواندن ادامه دهید...",
+      "summary_fa": "رهبر اپوزیسیون بالاترین شخصیتی است که تاکنون در کمیسیون مبارزه با فساد نیوساوت ولز ذکر شده است – و شخصیت سیاسی که بیشترین ضرر را داشته است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید پس از روزهای آغازین تحقیقی که زیر شکم تاریک لیبرال‌های نیو ساوت ولز را افشا می‌کند، روحیه غالب در میان رهبران اپوزیسیون آنگوس تیلور یکی از هدف‌های خاص همکاران برنامه اپرا است. Rosny، که در حال بررسی اتهامات فساد علیه افراد مرتبط با شعبه نیوساوت ولز است. او متهم به تخلف نیست. به خواندن ادامه دهید...",
+      "summary_en": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to loseGet our breaking news email, free app or daily news podcastAfter the opening days of an inquiry exposing a dark underbelly of the New South Wales Liberals, the prevailing mood among Angus Taylor’s colleagues is one of apprehension.The federal opposition leader is not a specific target of Operation Rosny, which is investigating allegations of corruption against people associated with the NSW branch. He is not accused of wrongdoing. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/31/icac-revelations-have-left-angus-taylors-colleagues-anxious-and-his-factional-enemies-angry",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 15:00:17 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ff9fbf4f443c163677a7b472f25f29b9efd19554/399_0_4195_3356/master/4195.jpg?width=140&quality=85&auto=format&fit=max&s=7238d277bb21ed3b08db68ee4b12930d",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9fefaf2e3dcd2cc9676ca999b146724e",
+      "title": "نقد و بررسی Razer Huntsman V3 HE: Jumping on the Bandwagon",
+      "title_fa": "نقد و بررسی Razer Huntsman V3 HE: Jumping on the Bandwagon",
+      "title_en": "Razer Huntsman V3 HE Review: Jumping on the Bandwagon",
+      "summary": "Razer بالاخره شکست خورد و اولین صفحه کلید بازی Hall Effect خود را ساخت. سوئیچ‌ها، ویژگی‌ها و عملکرد بازی آن را بررسی کردم تا ببینم آیا ارزش صبر کردن را دارد یا خیر.",
+      "summary_fa": "Razer بالاخره شکست خورد و اولین صفحه کلید بازی Hall Effect خود را ساخت. سوئیچ‌ها، ویژگی‌ها و عملکرد بازی آن را بررسی کردم تا ببینم آیا ارزش صبر کردن را دارد یا خیر.",
+      "summary_en": "Razer has finally caved and made its first Hall Effect gaming keyboard. I dug into its switches, features, and gaming performance to see if it was worth the wait.",
+      "link": "https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "da02ffab61a80a70b0c1121be0029ebe",
+      "title": "پس از حملات مجدد آمریکا، دود بر فراز جنوب ایران بلند شده است",
+      "title_fa": "پس از حملات مجدد آمریکا، دود بر فراز جنوب ایران بلند شده است",
+      "title_en": "Smoke rises over southern Iran after renewed US attacks",
+      "summary": "دود بزرگی از شهر اهواز در جنوب غرب ایران در پی حملات مجدد آمریکا مشاهده شد.",
+      "summary_fa": "دود بزرگی از شهر اهواز در جنوب غرب ایران در پی حملات مجدد آمریکا مشاهده شد.",
+      "summary_en": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 14:58:41 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "59d76c294ebbcd02f5179fa1d7f92a93",
+      "title": "شرکت های بزرگ نفتی در آستانه گزارش سودهای پررونق هستند. این سهام کوچکتر ممکن است خریدهای بهتری باشد",
+      "title_fa": "شرکت های بزرگ نفتی در آستانه گزارش سودهای پررونق هستند. این سهام کوچکتر ممکن است خریدهای بهتری باشد",
+      "title_en": "The oil majors are about to report booming profits. These smaller stocks may be better buys",
+      "summary": "به گفته وال استریت، چندین سهام تجدیدپذیر و مرتبط با هوش مصنوعی که ممکن است در حال حاضر بهتر از سهامداران بزرگ خریداری شوند.",
+      "summary_fa": "به گفته وال استریت، چندین سهام تجدیدپذیر و مرتبط با هوش مصنوعی که ممکن است در حال حاضر بهتر از سهامداران بزرگ خریداری شوند.",
+      "summary_en": "Several renewable and AI-linked stocks that may be better buys than the majors right now, according to Wall Street.",
+      "link": "https://www.cnbc.com/2026/07/30/the-oil-majors-are-about-to-report-booming-profits-these-smaller-stocks-may-be-better-buys.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:58:40 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "97f635792e90e5923d3bc214fa09ad7c",
+      "title": "جنگ علیه ایران: مرحله دوم: روز نوزدهم",
+      "title_fa": "جنگ علیه ایران: مرحله دوم: روز نوزدهم",
+      "title_en": "War on Iran: Phase II: Day 19",
+      "summary": "آمریکا با کشته شدن یک خانواده سه نفره در جزیره قشم، بمباران ایران را از سر گرفت.",
+      "summary_fa": "آمریکا با کشته شدن یک خانواده سه نفره در جزیره قشم، بمباران ایران را از سر گرفت.",
+      "summary_en": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 14:56:59 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "78ef91a2197f5634b08f6c3428c03e00",
       "title": "این مطالعه نشان می‌دهد که عفونت‌های قارچی تهاجمی شایع‌تر از آنچه تصور می‌شود هستند",
       "title_fa": "این مطالعه نشان می‌دهد که عفونت‌های قارچی تهاجمی شایع‌تر از آنچه تصور می‌شود هستند",
@@ -32634,6 +33327,342 @@
       "date_iso": "2026-07-30",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d4e1b066e30f2d38411c2fb0e9e503a",
+      "title": "به گفته منابع، لئوپولد اشنبرنر، سرمایه‌گذار هوش مصنوعی، پس از زیان‌های شدید، مجبور شد همه موقعیت‌های سهام عمومی را کاهش دهد.",
+      "title_fa": "به گفته منابع، لئوپولد اشنبرنر، سرمایه‌گذار هوش مصنوعی، پس از زیان‌های شدید، مجبور شد همه موقعیت‌های سهام عمومی را کاهش دهد.",
+      "title_en": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "summary": "به گفته افراد آشنا، صندوق تامینی لئوپولد اشنبرنر تمام دارایی های سهام عمومی خود را فروخته است.",
+      "summary_fa": "به گفته افراد آشنا، صندوق تامینی لئوپولد اشنبرنر تمام دارایی های سهام عمومی خود را فروخته است.",
+      "summary_en": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
+      "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:55:31 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4f82d86b2f2ec8ee1552ac4477f0bf3",
+      "title": "معامله NBCUniversal با YouTube چگونه می تواند فصل بعدی جنگ های پخش جریانی را آغاز کند",
+      "title_fa": "معامله NBCUniversal با YouTube چگونه می تواند فصل بعدی جنگ های پخش جریانی را آغاز کند",
+      "title_en": "How NBCUniversal's deal with YouTube could jumpstart the next chapter of the streaming wars",
+      "summary": "تکرار بعدی جنگ‌های استریم احتمالاً در مورد جمع‌آوری محتوا در بزرگترین پلتفرم‌های موجود است.",
+      "summary_fa": "تکرار بعدی جنگ‌های استریم احتمالاً در مورد جمع‌آوری محتوا در بزرگترین پلتفرم‌های موجود است.",
+      "summary_en": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
+      "link": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:55:17 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b2a3edff9034bda91ca95e889800c812",
+      "title": "مشخصات جدید MCP به مانع اصلی پذیرش سازمانی می‌پردازد",
+      "title_fa": "مشخصات جدید MCP به مانع اصلی پذیرش سازمانی می‌پردازد",
+      "title_en": "New MCP specification addresses the main barrier to enterprise adoption",
+      "summary": "به علاوه، یک خط‌مشی منسوخ جدید تضمین می‌کند که ویژگی‌ها به‌طور ناگهانی حذف نمی‌شوند.",
+      "summary_fa": "به علاوه، یک خط‌مشی منسوخ جدید تضمین می‌کند که ویژگی‌ها به‌طور ناگهانی حذف نمی‌شوند.",
+      "summary_en": "Plus, a new deprecation policy ensures features aren't removed suddenly.",
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 30 Jul 2026 14:53:07 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0935108d2838b0d7b8d03a747379ea10",
+      "title": "تانک های متا 9 درصد افزایش یافت و به رکورد باخت ادامه داد، در حالی که مایکروسافت با تقسیم تجارت هوش مصنوعی 15 درصد جهش کرد.",
+      "title_fa": "تانک های متا 9 درصد افزایش یافت و به رکورد باخت ادامه داد، در حالی که مایکروسافت با تقسیم تجارت هوش مصنوعی 15 درصد جهش کرد.",
+      "title_en": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "summary": "مایکروسافت رشد قوی Azure و Copilot را ثبت کرد، در حالی که متا پیش‌بینی‌های راهنمای درآمد را از دست داد زیرا جریان نقدی آزاد کاهش یافت و منجر به تغییرات سهام شد.",
+      "summary_fa": "مایکروسافت رشد قوی Azure و Copilot را ثبت کرد، در حالی که متا پیش‌بینی‌های راهنمای درآمد را از دست داد زیرا جریان نقدی آزاد کاهش یافت و منجر به تغییرات سهام شد.",
+      "summary_en": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:45:24 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "602864ff75d84f9076f30a9d6a0a8392",
+      "title": "آمریکایی‌ها مقدار زیادی خرج می‌کنند - اما خیلی کمتر پس‌انداز می‌کنند",
+      "title_fa": "آمریکایی‌ها مقدار زیادی خرج می‌کنند - اما خیلی کمتر پس‌انداز می‌کنند",
+      "title_en": "Americans are spending plenty — but they’re saving much less",
+      "summary": "هزینه‌های مصرف‌کننده در ماه ژوئن دوباره افزایش یافت تا پس‌انداز سه‌ماهه دوم قوی را محدود کند، اما خانوارها مجبور شدند پس‌اندازهای خود را عمیقاً پس‌انداز کنند تا پس از افزایش اخیر تورم، هزینه خرید خود را بپردازند.",
+      "summary_fa": "هزینه‌های مصرف‌کننده در ماه ژوئن دوباره افزایش یافت تا پس‌انداز سه‌ماهه دوم قوی را محدود کند، اما خانوارها مجبور شدند پس‌اندازهای خود را عمیقاً پس‌انداز کنند تا پس از افزایش اخیر تورم، هزینه خرید خود را بپردازند.",
+      "summary_en": "Consumer spending rose again in June to cap off a strong second quarter, but households had to dig deep into their savings to pay for their purchases after a recent surge in inflation.",
+      "link": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 14:40:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-83073218",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e25670f16d2f9099f24bc0863a89b672",
+      "title": "حمله به بندر مصر آسیب پذیری کانال سوئز را نشان می دهد",
+      "title_fa": "حمله به بندر مصر آسیب پذیری کانال سوئز را نشان می دهد",
+      "title_en": "Attack on Egyptian Port Shows Suez Canal’s Vulnerability",
+      "summary": "بندری که اعتصاب چهارشنبه در آن رخ داد نزدیک کانال سوئز است که حجم قابل توجهی از کشتیرانی جهان از طریق آن جابجا می شود.",
+      "summary_fa": "بندری که اعتصاب چهارشنبه در آن رخ داد نزدیک کانال سوئز است که حجم قابل توجهی از کشتیرانی جهان از طریق آن جابجا می شود.",
+      "summary_en": "The port where the Wednesday strike occurred is near the Suez Canal, through which a significant amount of the world’s shipping moves.",
+      "link": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 14:39:14 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-suez-hjgp/30mideast-live-suez-hjgp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed4252e1a6c75544ce95e8d195740bf0",
+      "title": "Zoox آمازون پس از رفع موانع NHTSA شروع به شارژ برای سواری در لاس وگاس می کند.",
+      "title_fa": "Zoox آمازون پس از رفع موانع NHTSA شروع به شارژ برای سواری در لاس وگاس می کند.",
+      "title_en": "Amazon's Zoox to begin charging for rides in Las Vegas after clearing NHTSA hurdle",
+      "summary": "این معافیت به Zoox اجازه می دهد تا سالانه 2500 وسیله نقلیه را به مدت دو سال، مشروط به شرایط نظارتی \"افزایش یافته و سازگار\" کار کند.",
+      "summary_fa": "این معافیت به Zoox اجازه می دهد تا سالانه 2500 وسیله نقلیه را به مدت دو سال، مشروط به شرایط نظارتی \"افزایش یافته و سازگار\" کار کند.",
+      "summary_en": "The exemption allows Zoox to operate up to 2,500 vehicles annually for two years, subject to \"enhanced, adaptable\" oversight conditions.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-zoox-robotaxi-rides-las-vegas.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:36:59 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4d3bfc076dc6e7a6c7db7d9a30759c78",
+      "title": "آگاهی موقعیت بخش بزرگی از دارایی های سهام عمومی را تخلیه می کند",
+      "title_fa": "آگاهی موقعیت بخش بزرگی از دارایی های سهام عمومی را تخلیه می کند",
+      "title_en": "Situational Awareness offloads large portion of public equity holdings",
+      "summary": "صندوق تامینی 20 میلیارد دلاری که توسط لئوپولد اشنبرنر اداره می شود در روزهای اخیر به دلیل فروش فناوری متحمل ضررهای زیادی شده است.",
+      "summary_fa": "صندوق تامینی 20 میلیارد دلاری که توسط لئوپولد اشنبرنر اداره می شود در روزهای اخیر به دلیل فروش فناوری متحمل ضررهای زیادی شده است.",
+      "summary_en": "The $20bn hedge fund run by Leopold Aschenbrenner suffered steep losses in recent days from tech sell-off",
+      "link": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 14:31:50 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F759a554f-654c-4fba-850a-12e98ff016b6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1987ad8ff2ce81b0c96476eaf7fe7560",
+      "title": "مدیرعامل فراری می‌گوید که هیچ چیز را در مورد اولین لوس EV تغییر نخواهد کرد",
+      "title_fa": "مدیرعامل فراری می‌گوید که هیچ چیز را در مورد اولین لوس EV تغییر نخواهد کرد",
+      "title_en": "Ferrari CEO says he 'would not change anything' about polarizing Luce EV debut",
+      "summary": "به گفته مدیر اجرایی Benedetto Vigna، فراری از عرضه خودروی تمام الکتریکی Luce با وجود انتقادات قابل توجهی که در اولین عرضه بهار این خودرو وجود دارد، خوشحال است.",
+      "summary_fa": "به گفته مدیر اجرایی Benedetto Vigna، فراری از عرضه خودروی تمام الکتریکی Luce با وجود انتقادات قابل توجهی که در اولین عرضه بهار این خودرو وجود دارد، خوشحال است.",
+      "summary_en": "Ferrari is pleased with the launch of the Luce all-electric vehicle despite significant criticism upon the car's spring debut, according to CEO Benedetto Vigna.",
+      "link": "https://www.cnbc.com/2026/07/30/ferrari-ceo-luce-ev-debut.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:22:24 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a9620c84c37caa9f93e8ac6b9c1fe9e1",
+      "title": "پلیس ده ها نفر را در راهپیمایی لندن در حمایت از اقدام فلسطین دستگیر کرد",
+      "title_fa": "پلیس ده ها نفر را در راهپیمایی لندن در حمایت از اقدام فلسطین دستگیر کرد",
+      "title_en": "Police arrest dozens at London rally supporting Palestine Action",
+      "summary": "این اعتراض اولین اعتراض در حمایت از گروه ممنوعه از زمان نخست وزیری اندی برنهام است.",
+      "summary_fa": "این اعتراض اولین اعتراض در حمایت از گروه ممنوعه از زمان نخست وزیری اندی برنهام است.",
+      "summary_en": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 14:22:02 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "16ef7bcaf5d8689063a103047f8ae349",
+      "title": "مردم این کشور در حال حاضر بیشترین خانه‌ها را در آمریکا خریداری می‌کنند، حتی با پایان یافتن فروش بین‌المللی",
+      "title_fa": "مردم این کشور در حال حاضر بیشترین خانه‌ها را در آمریکا خریداری می‌کنند، حتی با پایان یافتن فروش بین‌المللی",
+      "title_en": "People from this country are buying up the most homes in America right now, even as international sales dry up",
+      "summary": "طبق گزارش انجمن ملی مشاوران املاک، خریداران بین‌المللی تنها در 12 ماه گذشته منتهی به ماه مارس، حدود 67000 خانه در ایالات متحده خریداری کرده‌اند که نزدیک به رکورد پایین است.",
+      "summary_fa": "طبق گزارش انجمن ملی مشاوران املاک، خریداران بین‌المللی تنها در 12 ماه گذشته منتهی به ماه مارس، حدود 67000 خانه در ایالات متحده خریداری کرده‌اند که نزدیک به رکورد پایین است.",
+      "summary_en": "International buyers only bought about 67,000 homes in the U.S. over the last 12 months ending in March, a near-record low, according to the National Association of Realtors.",
+      "link": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 14:16:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-76108282",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "77b01973de9523a53f057a295a4c3018",
+      "title": "به دنبال خانه دوم هستید؟ فروشندگان در این مناطق تعطیلات می توانند آماده معامله باشند.",
+      "title_fa": "به دنبال خانه دوم هستید؟ فروشندگان در این مناطق تعطیلات می توانند آماده معامله باشند.",
+      "title_en": "Looking for a second home? Sellers in these vacation areas could be ready to make a deal.",
+      "summary": "شکارچیان خانه می توانند قیمت های خوبی را در بازارهای خانه دوم در سراسر جنوب و غرب میانه پیدا کنند.",
+      "summary_fa": "شکارچیان خانه می توانند قیمت های خوبی را در بازارهای خانه دوم در سراسر جنوب و غرب میانه پیدا کنند.",
+      "summary_en": "House hunters could find good prices in second-home markets across the South and Midwest.",
+      "link": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 14:10:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-03030396",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e0168f11b6ebe9982f428ea1ce21c9b0",
+      "title": "جزئیات جدید در هک OpenAI Hugging Face نشان می دهد که ماموران تا کجا پیش خواهند رفت: \"اکنون به طرز قابل توجهی آسان است\"",
+      "title_fa": "جزئیات جدید در هک OpenAI Hugging Face نشان می دهد که ماموران تا کجا پیش خواهند رفت: \"اکنون به طرز قابل توجهی آسان است\"",
+      "title_en": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+      "summary": "مدل‌های سرکش OpenAI از اعتبارنامه‌های افشا شده عمومی در «چهار حساب در چهار سرویس» برای کمک به تسهیل نفوذ Hugging Face استفاده کردند.",
+      "summary_fa": "مدل‌های سرکش OpenAI از اعتبارنامه‌های افشا شده عمومی در «چهار حساب در چهار سرویس» برای کمک به تسهیل نفوذ Hugging Face استفاده کردند.",
+      "summary_en": "OpenAI's rogue models used publicly exposed credentials across \"four accounts on four services\" to help facilitate the Hugging Face breach.",
+      "link": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 14:09:36 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d79e17b371cd149334e20ff08f26cd9c",
+      "title": "سهام متا به شدت در حال سقوط است. در اینجا دلیل حضور این شرکت در خانه سگ وال استریت است.",
+      "title_fa": "سهام متا به شدت در حال سقوط است. در اینجا دلیل حضور این شرکت در خانه سگ وال استریت است.",
+      "title_en": "Meta’s stock is falling hard. Here’s why the company is in Wall Street’s doghouse.",
+      "summary": "هزینه‌های متا برای هوش مصنوعی در حال افزایش است و سرمایه‌گذاران مدرکی می‌خواهند که نشان دهد این شرکت می‌تواند در زمینه‌هایی غیر از تبلیغات درآمد جدی داشته باشد.",
+      "summary_fa": "هزینه‌های متا برای هوش مصنوعی در حال افزایش است و سرمایه‌گذاران مدرکی می‌خواهند که نشان دهد این شرکت می‌تواند در زمینه‌هایی غیر از تبلیغات درآمد جدی داشته باشد.",
+      "summary_en": "Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 14:09:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-48912216",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b1b479cf018737e3cd846018d4c88291",
+      "title": "گیج تورم PCE برای اولین بار از زمان همه‌گیری کاهش می‌یابد. خطر دور از ذهن است.",
+      "title_fa": "گیج تورم PCE برای اولین بار از زمان همه‌گیری کاهش می‌یابد. خطر دور از ذهن است.",
+      "title_en": "PCE inflation gauge falls for the first time since the pandemic. The danger is far from over.",
+      "summary": "فشارسنج اصلی تورم که توسط فدرال رزرو برای تعیین نرخ های بهره ایالات متحده استفاده می شود، در ماه ژوئن برای اولین بار پس از همه گیری همه گیر کاهش یافت و نشان می دهد که چرا فدرال رزرو این هفته هیچ اقدامی برای افزایش هزینه های استقراض انجام نداد.",
+      "summary_fa": "فشارسنج اصلی تورم که توسط فدرال رزرو برای تعیین نرخ های بهره ایالات متحده استفاده می شود، در ماه ژوئن برای اولین بار پس از همه گیری همه گیر کاهش یافت و نشان می دهد که چرا فدرال رزرو این هفته هیچ اقدامی برای افزایش هزینه های استقراض انجام نداد.",
+      "summary_en": "The main inflation barometer used by the Federal Reserve to set U.S. interest rates fell in June for the first time since the pandemic, underscoring why the Fed took no action this week to raise borrowing costs.",
+      "link": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 14:08:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-67224226",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0aca0655552bb4ea04edb06dc72fedde",
+      "title": "السالوادور اعضای باند را به 1000 سال زندان محکوم کرد",
+      "title_fa": "السالوادور اعضای باند را به 1000 سال زندان محکوم کرد",
+      "title_en": "El Salvador sentences gang members to 1,000 years in prison",
+      "summary": "السالوادور اعضای باند را به 1000 سال زندان محکوم کرد",
+      "summary_fa": "السالوادور اعضای باند را به 1000 سال زندان محکوم کرد",
+      "summary_en": "El Salvador sentences gang members to 1,000 years in prison",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 14:07:49 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -32663,6 +33692,48 @@
       }
     },
     {
+      "id": "4c0581b4d81ac0c58736cde72afb1f0e",
+      "title": "نقشه دولت ایالات متحده از آفریقا به هر کشوری در کنفرانس جهانی برچسب اشتباه می‌زند",
+      "title_fa": "نقشه دولت ایالات متحده از آفریقا به هر کشوری در کنفرانس جهانی برچسب اشتباه می‌زند",
+      "title_en": "US government map of Africa mislabels every country at global conference",
+      "summary": "وزارت امور خارجه \"مسئولیت کامل\" نمودار اشتباه و به اشتراک گذاشته شده در کنفرانس ایدز در برزیل را به عهده می گیرد. نقشه دولت ایالات متحده از آفریقا در طول یک سخنرانی وزارت امور خارجه در یک کنفرانس جهانی در برزیل این هفته برچسب اشتباهی به هر کشوری زد و باعث سر و صدا در میان شرکت کنندگان شد که اسکرین شات گرفتند و آنها را به صورت آنلاین پست کردند. ژانیرو، که نشان می دهد نقشه اشتباه در نیمه راه در طول ارائه در مورد توافق نامه های بهداشتی جدید وزارت امور خارجه نمایش داده شده است. به خواندن ادامه دهید...",
+      "summary_fa": "وزارت امور خارجه \"مسئولیت کامل\" نمودار اشتباه و به اشتراک گذاشته شده در کنفرانس ایدز در برزیل را به عهده می گیرد. نقشه دولت ایالات متحده از آفریقا در طول یک سخنرانی وزارت امور خارجه در یک کنفرانس جهانی در برزیل این هفته برچسب اشتباهی به هر کشوری زد و باعث سر و صدا در میان شرکت کنندگان شد که اسکرین شات گرفتند و آنها را به صورت آنلاین پست کردند. ژانیرو، که نشان می دهد نقشه اشتباه در نیمه راه در طول ارائه در مورد توافق نامه های بهداشتی جدید وزارت امور خارجه نمایش داده شده است. به خواندن ادامه دهید...",
+      "summary_en": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online.Reuters viewed a video of the presentation given at the Aids 2026 conference in ⁠Rio de Janeiro, which shows the errant map displayed halfway during a presentation about the state department’s new health agreements. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 13:59:32 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/eb34949bd80526f85bab8ff52df3d676df421fd1/112_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=5fc1a2b63fe1cbe6d755f468c991d9f0",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "754b94d93ca63adf4004ee202d869e28",
+      "title": "سهام Chipotle با افزایش زنجیره‌ای پیش‌بینی فروش در همان فروشگاه جهش کرد، می‌گوید ترس‌های cyclospora به فروش در اواخر جولای رسید.",
+      "title_fa": "سهام Chipotle با افزایش زنجیره‌ای پیش‌بینی فروش در همان فروشگاه جهش کرد، می‌گوید ترس‌های cyclospora به فروش در اواخر جولای رسید.",
+      "title_en": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+      "summary": "سهام Chipotle Mexico Grill امسال بیش از 7 درصد کاهش یافته است و ارزش بازار آن را به حدود 44 میلیارد دلار کاهش داده است.",
+      "summary_fa": "سهام Chipotle Mexico Grill امسال بیش از 7 درصد کاهش یافته است و ارزش بازار آن را به حدود 44 میلیارد دلار کاهش داده است.",
+      "summary_en": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 13:56:03 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "0d387c0ecd3e72cfefd1fc2b41a9a82a",
       "title": "جورج و امل کلونی مجبور به تخلیه خانه فرانسوی در Brignoles به دلیل آتش سوزی جنگلی شدند",
       "title_fa": "جورج و امل کلونی مجبور به تخلیه خانه فرانسوی در Brignoles به دلیل آتش سوزی جنگلی شدند",
@@ -32681,6 +33752,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "bf2f424de53acf7a8f3a93c36e1af580",
+      "title": "\"به کشور خودت برگرد\": وزیر امور خارجه NZ با واکنش شدید روبرو می شود",
+      "title_fa": "\"به کشور خودت برگرد\": وزیر امور خارجه NZ با واکنش شدید روبرو می شود",
+      "title_en": "‘Go back to your own country’: NZ foreign minister faces backlash",
+      "summary": "وینستون پیترز، وزیر امور خارجه نیوزیلند به نماینده چینی الاصل گفت: «به کشور خود برگردید».",
+      "summary_fa": "وینستون پیترز، وزیر امور خارجه نیوزیلند به نماینده چینی الاصل گفت: «به کشور خود برگردید».",
+      "summary_en": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 13:51:52 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9e27e5037966f99e1535c4c948e76de0",
+      "title": "چرا سهام مایکروسافت پس از درآمد به سمت یک رشد تاریخی بالا می رود؟",
+      "title_fa": "چرا سهام مایکروسافت پس از درآمد به سمت یک رشد تاریخی بالا می رود؟",
+      "title_en": "Why Microsoft’s stock is soaring toward a historic gain after earnings",
+      "summary": "کسب و کار ابری این شرکت رشد چشمگیری دارد و مایکروسافت انتظار دارد از رفتن به حالت سوزاندن نقدینگی با صرف هزینه های هوش مصنوعی خودداری کند.",
+      "summary_fa": "کسب و کار ابری این شرکت رشد چشمگیری دارد و مایکروسافت انتظار دارد از رفتن به حالت سوزاندن نقدینگی با صرف هزینه های هوش مصنوعی خودداری کند.",
+      "summary_en": "The company’s cloud business is sporting impressive growth, and Microsoft expects to avoid heading into cash-burn mode as it spends up on AI.",
+      "link": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 13:51:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-06137309",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32705,6 +33818,27 @@
       }
     },
     {
+      "id": "7128d952531c25b4d5a3c5f619d4cb0a",
+      "title": "برندگان \"Love Island USA\" از پول جایزه 100000 دلاری خود برای پرداخت قبوض و وام های دانشجویی استفاده می کنند. بسیاری از آمریکایی ها می توانند ارتباط برقرار کنند.",
+      "title_fa": "برندگان \"Love Island USA\" از پول جایزه 100000 دلاری خود برای پرداخت قبوض و وام های دانشجویی استفاده می کنند. بسیاری از آمریکایی ها می توانند ارتباط برقرار کنند.",
+      "title_en": "‘Love Island USA’ winners are using their $100,000 prize money to pay bills and student loans. Many Americans can relate.",
+      "summary": "ترینیتی تیتوم و برایس آلاکای هنوز برنده‌های تلویزیونی واقعی خود را صرف خرید و فروش نمی‌کنند.",
+      "summary_fa": "ترینیتی تیتوم و برایس آلاکای هنوز برنده‌های تلویزیونی واقعی خود را صرف خرید و فروش نمی‌کنند.",
+      "summary_en": "Trinity Tatum and Bryce Alakai aren’t spending their reality-TV winnings on shopping sprees just yet.",
+      "link": "https://www.marketwatch.com/story/love-island-usa-winners-are-spending-their-100-000-prize-money-in-a-very-relatable-way-5f4f1794?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 30 Jul 2026 13:46:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-34008483",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "e764db9f7474d48ae30d6ca4043304b8",
       "title": "بانک مرکزی انگلیس با وجود ریسک های تورمی، نرخ بهره را 3.75 درصد نگه می دارد",
       "title_fa": "بانک مرکزی انگلیس با وجود ریسک های تورمی، نرخ بهره را 3.75 درصد نگه می دارد",
@@ -32726,6 +33860,48 @@
       }
     },
     {
+      "id": "c48d8567ce5f95df9075fd86fc49f04b",
+      "title": "مردم اسلام آباد در همبستگی با اعتراضات کشمیر تظاهرات کردند",
+      "title_fa": "مردم اسلام آباد در همبستگی با اعتراضات کشمیر تظاهرات کردند",
+      "title_en": "Islamabad residents rally in solidarity with Kashmir protests",
+      "summary": "تظاهراتی در اسلام آباد در حمایت از معترضان در کشمیر تحت کنترل پاکستان برگزار شد.",
+      "summary_fa": "تظاهراتی در اسلام آباد در حمایت از معترضان در کشمیر تحت کنترل پاکستان برگزار شد.",
+      "summary_en": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 13:35:29 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c3ea8c46b4af03522ce1d3c0ef6425b6",
+      "title": "استارباکس چشم انداز تمام سال را افزایش می دهد زیرا مدیرعامل به CNBC می گوید زنجیره در حال بازگرداندن وفاداری مشتریان است.",
+      "title_fa": "استارباکس چشم انداز تمام سال را افزایش می دهد زیرا مدیرعامل به CNBC می گوید زنجیره در حال بازگرداندن وفاداری مشتریان است.",
+      "title_en": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
+      "summary": "استارباکس چهارمین سه ماهه متوالی رشد فروش خود را در همان فروشگاه ثبت کرد، زیرا به چرخش خود تحت مدیریت برایان نیکول، مدیر عامل شرکت، ادامه می دهد.",
+      "summary_fa": "استارباکس چهارمین سه ماهه متوالی رشد فروش خود را در همان فروشگاه ثبت کرد، زیرا به چرخش خود تحت مدیریت برایان نیکول، مدیر عامل شرکت، ادامه می دهد.",
+      "summary_en": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 13:29:38 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "142e420f8a45148ec95b82de8c04a5b5",
       "title": "آتش سوزی جنگلی در کرت با گسترش شعله های آتش در یونان جان دو آتش نشان را گرفت",
       "title_fa": "آتش سوزی جنگلی در کرت با گسترش شعله های آتش در یونان جان دو آتش نشان را گرفت",
@@ -32744,6 +33920,111 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc0bb26dcf3874d802c35aea9d393e9c",
+      "title": "RSF سودان قول داد به خارطوم بازگردد",
+      "title_fa": "RSF سودان قول داد به خارطوم بازگردد",
+      "title_en": "Sudan’s RSF vows to return to Khartoum",
+      "summary": "RSF سودان ویدئویی از رهبر محمد حمدان داگالو معروف به همدی منتشر کرد که به نیروهایش می‌گوید خارطوم را تصرف کنند.",
+      "summary_fa": "RSF سودان ویدئویی از رهبر محمد حمدان داگالو معروف به همدی منتشر کرد که به نیروهایش می‌گوید خارطوم را تصرف کنند.",
+      "summary_en": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 13:26:26 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "246bb940fa2ae3ee865af286978d961e",
+      "title": "کهنه سربازان DOGE مشاغل بزرگی در بازارهای پیش بینی پیدا می کنند",
+      "title_fa": "کهنه سربازان DOGE مشاغل بزرگی در بازارهای پیش بینی پیدا می کنند",
+      "title_en": "DOGE Veterans Are Landing Big Jobs at Prediction Markets",
+      "summary": "Polymarket و Novig هر دو اخیراً با تشدید نظارت بر صنعت، شرکت‌های وابسته سابق DOGE را وارد کشتی کرده‌اند.",
+      "summary_fa": "Polymarket و Novig هر دو اخیراً با تشدید نظارت بر صنعت، شرکت‌های وابسته سابق DOGE را وارد کشتی کرده‌اند.",
+      "summary_en": "Polymarket and Novig have both recently brought ex-DOGE affiliates onboard as scrutiny of the industry intensifies.",
+      "link": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 13:20:16 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b8089978954a4f57df1608be5927c3e",
+      "title": "جام جهانی: فیفا آرژانتین را به چه اتهامی متهم کرده است، مجازات چه می تواند باشد؟",
+      "title_fa": "جام جهانی: فیفا آرژانتین را به چه اتهامی متهم کرده است، مجازات چه می تواند باشد؟",
+      "title_en": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
+      "summary": "اتهامات وارده به اتحادیه فوتبال آرژانتین، بازیکنان و هوادارانش به چه معناست و فیفا چه اقدامی می تواند انجام دهد؟",
+      "summary_fa": "اتهامات وارده به اتحادیه فوتبال آرژانتین، بازیکنان و هوادارانش به چه معناست و فیفا چه اقدامی می تواند انجام دهد؟",
+      "summary_en": "What do the charges brought against Argentina's FA, their players and their fans mean, and what action could FIFA take?",
+      "link": "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 13:15:23 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fcaa582f53d2a9c36a6de053a9170d77",
+      "title": "گلکسی زد فولد 8 آنقدر خوب است که دیگر هدفی از گوشی های تاشو نمی بینم",
+      "title_fa": "گلکسی زد فولد 8 آنقدر خوب است که دیگر هدفی از گوشی های تاشو نمی بینم",
+      "title_en": "The Galaxy Z Fold 8 is so good, I don't see the point of flip phones any more",
+      "summary": "سامسونگ روی یک عامل شکل غیرمعمول شرط می‌بندد تا دستگاه‌های تاشو خود را جلو ببرد - و Z Flip خودش می‌تواند اولین قربانی باشد.",
+      "summary_fa": "سامسونگ روی یک عامل شکل غیرمعمول شرط می‌بندد تا دستگاه‌های تاشو خود را جلو ببرد - و Z Flip خودش می‌تواند اولین قربانی باشد.",
+      "summary_en": "Samsung is betting on an unorthodox form factor to take its foldables forward - and its own Z Flip could be the first casualty.",
+      "link": "https://www.zdnet.com/article/the-galaxy-z-fold-8-is-so-good-i-dont-see-the-point-of-flip-phones-any-more/",
+      "source": "ZDNet",
+      "published_at": "Thu, 30 Jul 2026 13:12:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "23586abfb613983874dd23b4e5386f81",
+      "title": "\"شوک بزرگی بود\": قوانین جدید مرزی باعث شد این زوج پس از 80 سال زندگی در بریتانیا در کراکوف گیر بیفتند.",
+      "title_fa": "\"شوک بزرگی بود\": قوانین جدید مرزی باعث شد این زوج پس از 80 سال زندگی در بریتانیا در کراکوف گیر بیفتند.",
+      "title_en": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+      "summary": "به ماریا و چسلاو کروپا که در سال‌های 1947 و 1948 به عنوان وابستگان نیروهای آواره لهستانی وارد شدند، به آنها گفته شد که پس از برگزیت از حقوق بازگشت به بریتانیا برخوردار نیستند. هنگام بازدید از لهستان، آنها متوجه شدند که اگرچه پس از جنگ از آنها به عنوان پناهنده استقبال شده بود، اما اکنون برای بازگشت به خانه خود در بوری به مدارک ویژه پس از برگزیت نیاز دارند. به خواندن ادامه دهید...",
+      "summary_fa": "به ماریا و چسلاو کروپا که در سال‌های 1947 و 1948 به عنوان وابستگان نیروهای آواره لهستانی وارد شدند، به آنها گفته شد که پس از برگزیت از حقوق بازگشت به بریتانیا برخوردار نیستند. هنگام بازدید از لهستان، آنها متوجه شدند که اگرچه پس از جنگ از آنها به عنوان پناهنده استقبال شده بود، اما اکنون برای بازگشت به خانه خود در بوری به مدارک ویژه پس از برگزیت نیاز دارند. به خواندن ادامه دهید...",
+      "summary_en": "Maria and Czeslaw Krupa, who arrived in 1947 and 1948 as dependants of displaced Polish service members, were told they did not have post-Brexit rights to return to UKTwo Polish citizens who have lived in the UK for nearly 80 years after their parents fled the second world war have spoken of their terrifying experience after being told they did not have post-Brexit rights to return to the UK.In May, while visiting Poland, they learned that although they had been welcomed as refugees after the war, they now needed special post-Brexit paperwork to return to their home in Bury. Continue reading...",
+      "link": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 13:10:55 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e9cf51121807e0a752b85ae610999c68d28f65ef/0_362_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=77e090dc9a716290a39591af75b465cb",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -33020,6 +34301,27 @@
       }
     },
     {
+      "id": "148bccc52dbc07f74661d22562d651ed",
+      "title": "هزاران نفر در کرت در حالی که اروپا در حال نبرد با آتش سوزی است تخلیه شدند",
+      "title_fa": "هزاران نفر در کرت در حالی که اروپا در حال نبرد با آتش سوزی است تخلیه شدند",
+      "title_en": "Thousands evacuated in Crete as Europe battles wildfires",
+      "summary": "در حالی که آتش سوزی های جنگلی در جزیره یونان همچنان ادامه دارد، بادهای شدید شعله های آتش را در منطقه Rethymno شعله ور کرده است.",
+      "summary_fa": "در حالی که آتش سوزی های جنگلی در جزیره یونان همچنان ادامه دارد، بادهای شدید شعله های آتش را در منطقه Rethymno شعله ور کرده است.",
+      "summary_en": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 12:46:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae4/live/ffd46200-8be0-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "f4ae5a864f38865709f1fb4c607a60e6",
       "title": "مصر می گوید با گسترش حملات به زیرساخت های انرژی، پهپاد به دو کشتی در بندر مدیترانه برخورد کرد",
       "title_fa": "مصر می گوید با گسترش حملات به زیرساخت های انرژی، پهپاد به دو کشتی در بندر مدیترانه برخورد کرد",
@@ -33153,6 +34455,27 @@
       "summary": "رئیس‌جمهور کامرون از زمان عزیمت برای «اقامت مختصر خصوصی» در هتل سوئیس در 7 ژوئن، هیچ اظهارنظری نکرده و دیده نشده است. غیبت رکورد 53 روزه مسن‌ترین رئیس دولت جهان، گمانه‌زنی‌ها را در زادگاهش کامرون در مورد زنده یا مرده بودن او تجدید کرده است، حتی اگر بحث درباره سلامتی وی در این کشور غیرقانونی باشد. \"اقامت خصوصی مختصر\" در کنار همسرش شانتال. تقریباً دو ماه بعد، نه رئیس‌جمهور و نه بانوی اول در این کشور سخنرانی نکرده‌اند و یا در انظار عمومی دیده نشده‌اند. ادامه مطلب...",
       "summary_fa": "رئیس‌جمهور کامرون از زمان عزیمت برای «اقامت مختصر خصوصی» در هتل سوئیس در 7 ژوئن، هیچ اظهارنظری نکرده و دیده نشده است. غیبت رکورد 53 روزه مسن‌ترین رئیس دولت جهان، گمانه‌زنی‌ها را در زادگاهش کامرون در مورد زنده یا مرده بودن او تجدید کرده است، حتی اگر بحث درباره سلامتی وی در این کشور غیرقانونی باشد. \"اقامت خصوصی مختصر\" در کنار همسرش شانتال. تقریباً دو ماه بعد، نه رئیس‌جمهور و نه بانوی اول در این کشور سخنرانی نکرده‌اند و یا در انظار عمومی دیده نشده‌اند. ادامه مطلب...",
       "summary_en": "Cameroon’s president has not made statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 JuneA record 53-day absence of the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country.On 7 June, 93-year-old Paul Biya departed for Switzerland for what officials described as a “brief private stay” alongside his wife, Chantal. Almost two months later, neither the president nor the first lady have addressed the country or been seen publicly. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 12:36:02 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0573f48fbd220420f616585597f66132310ff88d/1375_436_2592_2075/master/2592.jpg?width=140&quality=85&auto=format&fit=max&s=6a001cebde492468cf5273689f046406",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b990ca0f13cd8a61aa4017b10d94a733",
+      "title": "پنجاه و سه روز و شمارش: سابقه غیبت رهبر 93 ساله به گمانه زنی های سلامت دامن می زند.",
+      "title_fa": "پنجاه و سه روز و شمارش: سابقه غیبت رهبر 93 ساله به گمانه زنی های سلامت دامن می زند.",
+      "title_en": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+      "summary": "پل بیا از کامرون از زمان عزیمت برای \"اقامت مختصر خصوصی\" در هتل سوئیس در 7 ژوئن، هیچ اظهارنظری نکرده و دیده نشده است. غیبت رکورد 53 روزه توسط مسن ترین رئیس دولت جهان، گمانه زنی ها در مورد زنده یا مرده بودن وی را در زادگاهش کامرون تجدید کرد، حتی اگر بحث در مورد سلامتی وی در این کشور غیرقانونی است. \"اقامت مختصر خصوصی\" در کنار همسرش شانتال. تقریباً دو ماه بعد، نه رئیس‌جمهور و نه بانوی اول در این کشور سخنرانی نکرده‌اند و در انظار عمومی دیده نشده‌اند. به خواندن ادامه دهید...",
+      "summary_fa": "پل بیا از کامرون از زمان عزیمت برای \"اقامت مختصر خصوصی\" در هتل سوئیس در 7 ژوئن، هیچ اظهارنظری نکرده و دیده نشده است. غیبت رکورد 53 روزه توسط مسن ترین رئیس دولت جهان، گمانه زنی ها در مورد زنده یا مرده بودن وی را در زادگاهش کامرون تجدید کرد، حتی اگر بحث در مورد سلامتی وی در این کشور غیرقانونی است. \"اقامت مختصر خصوصی\" در کنار همسرش شانتال. تقریباً دو ماه بعد، نه رئیس‌جمهور و نه بانوی اول در این کشور سخنرانی نکرده‌اند و در انظار عمومی دیده نشده‌اند. به خواندن ادامه دهید...",
+      "summary_en": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 JuneA record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country.On 7 June, 93-year-old Paul Biya left for Switzerland for what officials described as a “brief private stay” alongside his wife, Chantal. Almost two months later, neither the president nor the first lady have addressed the country or been seen publicly. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
       "source": "The Guardian",
       "published_at": "Thu, 30 Jul 2026 12:36:02 GMT",
@@ -33328,6 +34651,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-06559602",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "611c24c595c67e566b627f556795b822",
+      "title": "مقامات کنیایی معتقدند سیانید موجود در آفت کش گوجه فرنگی باعث مرگ 15 فیل شد",
+      "title_fa": "مقامات کنیایی معتقدند سیانید موجود در آفت کش گوجه فرنگی باعث مرگ 15 فیل شد",
+      "title_en": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "summary": "بازی ناپسند در این منطقه از جنوب کنیا در رکورد تعداد مرگ و میر فیل ها برای چندین دهه منتفی است.",
+      "summary_fa": "بازی ناپسند در این منطقه از جنوب کنیا در رکورد تعداد مرگ و میر فیل ها برای چندین دهه منتفی است.",
+      "summary_en": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 12:14:00 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a9/live/40129860-8c0d-11f1-b2ab-0dd01740f9f6.png",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -34259,6 +35603,27 @@
       }
     },
     {
+      "id": "e99b9a2ab229a50ad69b007166160437",
+      "title": "خرابی هک OpenAI به خطای انسانی منتهی می شود",
+      "title_fa": "خرابی هک OpenAI به خطای انسانی منتهی می شود",
+      "title_en": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+      "summary": "اگر این غول مولد هوش مصنوعی بهترین شیوه های امنیتی شناخته شده را دنبال می کرد، به احتمال زیاد عامل هوش مصنوعی آن هرگز به اینترنت آزاد نمی رفت و چندین شرکت را هک می کرد.",
+      "summary_fa": "اگر این غول مولد هوش مصنوعی بهترین شیوه های امنیتی شناخته شده را دنبال می کرد، به احتمال زیاد عامل هوش مصنوعی آن هرگز به اینترنت آزاد نمی رفت و چندین شرکت را هک می کرد.",
+      "summary_en": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "source": "Wired",
+      "published_at": "Thu, 30 Jul 2026 10:30:00 +0000",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1dae6eb5897a28534b3dd72d3b136a0f",
       "title": "تانک های متا نزدیک به 9٪، مایکروسافت 9٪ جهش کرد زیرا تجارت هوش مصنوعی Big Tech را تقسیم کرد.",
       "title_fa": "تانک های متا نزدیک به 9٪، مایکروسافت 9٪ جهش کرد زیرا تجارت هوش مصنوعی Big Tech را تقسیم کرد.",
@@ -34784,6 +36149,27 @@
       }
     },
     {
+      "id": "3cc2cb0d1a5c773552b1ded21211d4e2",
+      "title": "اگر مغز آگاهی ایجاد نکند چه؟",
+      "title_fa": "اگر مغز آگاهی ایجاد نکند چه؟",
+      "title_en": "What if the brain does not create consciousness?",
+      "summary": "کریستف کخ یکی از عمیق‌ترین رازهای علم را بر عهده می‌گیرد: مغز چگونه تجربه آگاهانه ایجاد می‌کند یا اصلاً آن را ایجاد می‌کند. او استدلال می کند که ماتریالیسم هنوز این \"مشکل سخت\" را حل نکرده است و پدیده های گیج کننده ای مانند تجربیات نزدیک به مرگ و شفافیت نهایی را بررسی خواهد کرد. کار او به این امکان اشاره دارد که آگاهی ممکن است در خود واقعیت تنیده شود.",
+      "summary_fa": "کریستف کخ یکی از عمیق‌ترین رازهای علم را بر عهده می‌گیرد: مغز چگونه تجربه آگاهانه ایجاد می‌کند یا اصلاً آن را ایجاد می‌کند. او استدلال می کند که ماتریالیسم هنوز این \"مشکل سخت\" را حل نکرده است و پدیده های گیج کننده ای مانند تجربیات نزدیک به مرگ و شفافیت نهایی را بررسی خواهد کرد. کار او به این امکان اشاره دارد که آگاهی ممکن است در خود واقعیت تنیده شود.",
+      "summary_en": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore puzzling phenomena such as near-death experiences and terminal lucidity. His work points toward the possibility that consciousness may be woven into reality itself.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 09:23:33 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1de46b2cd75e4c48cf5fb63a87dc7377",
       "title": "موشکی که دهانه آتشفشانی را در اعماق لهستان رها کرد احتمالا روسی بود - نخست وزیر لهستان",
       "title_fa": "موشکی که دهانه آتشفشانی را در اعماق لهستان رها کرد احتمالا روسی بود - نخست وزیر لهستان",
@@ -35078,6 +36464,27 @@
       }
     },
     {
+      "id": "bfe5fae5cadf8d3e6ec732df9687864f",
+      "title": "بانک مرکزی انگلیس در بحبوحه عدم اطمینان در مورد شوک انرژی، نرخ بهره را حفظ می کند",
+      "title_fa": "بانک مرکزی انگلیس در بحبوحه عدم اطمینان در مورد شوک انرژی، نرخ بهره را حفظ می کند",
+      "title_en": "Bank of England holds rates amid uncertainty over energy shock",
+      "summary": "MPC نشان می دهد که اگر خصومت های جنگ در خاورمیانه منجر به تورم مداوم شود، همچنان می تواند هزینه های وام را افزایش دهد.",
+      "summary_fa": "MPC نشان می دهد که اگر خصومت های جنگ در خاورمیانه منجر به تورم مداوم شود، همچنان می تواند هزینه های وام را افزایش دهد.",
+      "summary_en": "MPC signals it could still lift borrowing costs if Middle East war hostilities lead to more persistent inflation",
+      "link": "https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 09:06:01 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa617c7dd-6a1c-4d0c-b9ba-a223512eb1df.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
       "id": "527e551942510f96daaae5619f4165fc",
       "title": "وزیر دفاع می گوید به احتمال زیاد موشک کروز روسیه در لهستان سقوط کرده است - اروپا زنده",
       "title_fa": "وزیر دفاع می گوید به احتمال زیاد موشک کروز روسیه در لهستان سقوط کرده است - اروپا زنده",
@@ -35134,6 +36541,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "77383df1bfcf19e6b4a816620e524b68",
+      "title": "این شهر 4000 ساله از قوانین تاریخ سرپیچی کرد",
+      "title_fa": "این شهر 4000 ساله از قوانین تاریخ سرپیچی کرد",
+      "title_en": "This 4,000-year-old city defied the rules of history",
+      "summary": "با رونق موهنجودارو، شکاف بین ثروتمندترین و فقیرترین خانوارهای آن در واقع کاهش یافت. زیرساخت های مشترک، سیستم های تجارت منصفانه و فقدان نخبگان سلطنتی قدرتمند نشان می دهد که برابری ممکن است به موفقیت این شهر باستانی کمک کرده باشد.",
+      "summary_fa": "با رونق موهنجودارو، شکاف بین ثروتمندترین و فقیرترین خانوارهای آن در واقع کاهش یافت. زیرساخت های مشترک، سیستم های تجارت منصفانه و فقدان نخبگان سلطنتی قدرتمند نشان می دهد که برابری ممکن است به موفقیت این شهر باستانی کمک کرده باشد.",
+      "summary_en": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 09:02:20 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -35456,6 +36884,27 @@
       }
     },
     {
+      "id": "b5ecc3cefcf1aa71e678d97a9a0c83a4",
+      "title": "ترکیب سبوس برنج ممکن است به کاهش علائم روده تحریک پذیر کمک کند",
+      "title_fa": "ترکیب سبوس برنج ممکن است به کاهش علائم روده تحریک پذیر کمک کند",
+      "title_en": "Rice bran compound may help ease irritable bowel symptoms",
+      "summary": "ترکیبی در سبوس برنج ممکن است با کاهش سیگنال‌های کلسیمی که باعث انقباض عضلات روده می‌شوند، به آرام کردن روده بیش فعال کمک کند. اسید فرولیک انقباضات ناشی از چندین پیام رسان شیمیایی را در آزمایشات آزمایشگاهی سرکوب کرد. این کشف در نهایت می تواند از رویکردهای غذایی جدید برای اختلالات گوارشی مرتبط با اسهال حمایت کند، اگرچه ممکن است یبوست را بدتر کند.",
+      "summary_fa": "ترکیبی در سبوس برنج ممکن است با کاهش سیگنال‌های کلسیمی که باعث انقباض عضلات روده می‌شوند، به آرام کردن روده بیش فعال کمک کند. اسید فرولیک انقباضات ناشی از چندین پیام رسان شیمیایی را در آزمایشات آزمایشگاهی سرکوب کرد. این کشف در نهایت می تواند از رویکردهای غذایی جدید برای اختلالات گوارشی مرتبط با اسهال حمایت کند، اگرچه ممکن است یبوست را بدتر کند.",
+      "summary_en": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 08:44:29 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "73f659be946ed562a4024b8785b33428",
       "title": "تعداد قربانیان زلزله ژاپن به 34 نفر رسید",
       "title_fa": "تعداد قربانیان زلزله ژاپن به 34 نفر رسید",
@@ -35594,6 +37043,27 @@
       "published_at": "Thu, 30 Jul 2026 08:18:37 GMT",
       "date_iso": "2026-07-30",
       "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ad8fc55927b30fd9040571eac583417",
+      "title": "دانشمندان دریافتند که تکامل در جزایر گالاپاگوس تکرار می شود",
+      "title_fa": "دانشمندان دریافتند که تکامل در جزایر گالاپاگوس تکرار می شود",
+      "title_en": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "summary": "بیش از 150 سال پس از کمک فنچ های داروین به تغییر شکل زیست شناسی، گیاهان گالاپاگوس شگفتی تکاملی دیگری را به نمایش گذاشتند. گل های مروارید غول پیکر بارها و بارها شکل های مشابه برگ های مقاوم به گرما را ایجاد کردند، اما هر دودمان از ترکیب متفاوتی از ژن ها استفاده می کردند. محققان همچنین تفاوت‌های ژنتیکی عمده‌ای را در میان جمعیت‌های جدا شده یافتند که نشان می‌دهد گونه‌های جدیدی ممکن است در حال حاضر در حال شکل‌گیری باشند.",
+      "summary_fa": "بیش از 150 سال پس از کمک فنچ های داروین به تغییر شکل زیست شناسی، گیاهان گالاپاگوس شگفتی تکاملی دیگری را به نمایش گذاشتند. گل های مروارید غول پیکر بارها و بارها شکل های مشابه برگ های مقاوم به گرما را ایجاد کردند، اما هر دودمان از ترکیب متفاوتی از ژن ها استفاده می کردند. محققان همچنین تفاوت‌های ژنتیکی عمده‌ای را در میان جمعیت‌های جدا شده یافتند که نشان می‌دهد گونه‌های جدیدی ممکن است در حال حاضر در حال شکل‌گیری باشند.",
+      "summary_en": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used a different combination of genes. Researchers also found major genetic differences among isolated populations, suggesting new species may be forming right now.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 08:13:37 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
@@ -37175,6 +38645,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "02c44b54f3498aee811e91abe785868e",
+      "title": "یک فسیل فراموش شده به تازگی یک شکارچی جدید تریاس را از 210 میلیون سال پیش نشان داد",
+      "title_fa": "یک فسیل فراموش شده به تازگی یک شکارچی جدید تریاس را از 210 میلیون سال پیش نشان داد",
+      "title_en": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "summary": "فسیلی که برای نزدیک به 80 سال نادیده گرفته شده بود، یک کروکودیل قبلاً ناشناخته را نشان می دهد که 210 میلیون سال پیش در نیومکزیکوی فعلی زندگی می کرد. این شکارچی به اندازه شغال که Eosphorosuchus lacrimosa نام داشت، دارای جمجمه تقویت شده، عضلات فک قوی و پوزه کوتاهی بود که برای مقابله با طعمه های بزرگتر ساخته شده بود.",
+      "summary_fa": "فسیلی که برای نزدیک به 80 سال نادیده گرفته شده بود، یک کروکودیل قبلاً ناشناخته را نشان می دهد که 210 میلیون سال پیش در نیومکزیکوی فعلی زندگی می کرد. این شکارچی به اندازه شغال که Eosphorosuchus lacrimosa نام داشت، دارای جمجمه تقویت شده، عضلات فک قوی و پوزه کوتاهی بود که برای مقابله با طعمه های بزرگتر ساخته شده بود.",
+      "summary_en": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 02:34:21 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -76628,6 +78119,90 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6d3f7eadcab5f583226ad08d9737ec86",
+      "title": "SkyNomad N90 Max شیائومی یک EV با برد وسیع با فضای داخلی متحول کننده است",
+      "title_fa": "SkyNomad N90 Max شیائومی یک EV با برد وسیع با فضای داخلی متحول کننده است",
+      "title_en": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+      "summary": "SkyNomad N90 Max جدیدترین SUV الکتریکی شیائومی و اولین خودروی برقی با برد وسیع آن است که برد ادعایی آن بیش از 1705 کیلومتر (حدود 1059 مایل) است. این خودرو در دو پیکربندی پنج و هفت نفره و همچنین N90 Max Camping Edition عرضه خواهد شد. یکی از ویژگی های بزرگ N90 این است که بسیار […]",
+      "summary_fa": "SkyNomad N90 Max جدیدترین SUV الکتریکی شیائومی و اولین خودروی برقی با برد وسیع آن است که برد ادعایی آن بیش از 1705 کیلومتر (حدود 1059 مایل) است. این خودرو در دو پیکربندی پنج و هفت نفره و همچنین N90 Max Camping Edition عرضه خواهد شد. یکی از ویژگی های بزرگ N90 این است که بسیار […]",
+      "summary_en": "The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of the big features of the N90 is its highly […]",
+      "link": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+      "source": "The Verge",
+      "published_at": "2026-07-30T11:05:09-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3f3b96b892f9861881fd8032e7ab6879",
+      "title": "کیبوردهای جدید Razer به دلیل ویژگی های بازی قدرتمند قیمت را کاهش می دهند",
+      "title_fa": "کیبوردهای جدید Razer به دلیل ویژگی های بازی قدرتمند قیمت را کاهش می دهند",
+      "title_en": "Razer’s new keyboards drop the price on powerful gaming features",
+      "summary": "Razer اصرار دارد که سوئیچ‌های صفحه کلید نوری بهترین انتخاب برای ستاره‌های رقابتی ورزش‌های الکترونیکی و عرق‌آورترین تلاش‌ها هستند، اما اکنون با ارائه صفحه‌کلیدهای ارزان‌تر با سوئیچ‌های مغناطیسی و مجموعه‌ای از ویژگی‌های بازی مشابه، کمی تسلیم شده است. Razer Huntsman V3 HE Magnetic Mini 120 دلاری و Huntsman V3 HE Magnetic Tenkeyless با قیمت 140 دلار، هر دو […]",
+      "summary_fa": "Razer اصرار دارد که سوئیچ‌های صفحه کلید نوری بهترین انتخاب برای ستاره‌های رقابتی ورزش‌های الکترونیکی و عرق‌آورترین تلاش‌ها هستند، اما اکنون با ارائه صفحه‌کلیدهای ارزان‌تر با سوئیچ‌های مغناطیسی و مجموعه‌ای از ویژگی‌های بازی مشابه، کمی تسلیم شده است. Razer Huntsman V3 HE Magnetic Mini 120 دلاری و Huntsman V3 HE Magnetic Tenkeyless با قیمت 140 دلار، هر دو […]",
+      "summary_en": "Razer has insisted that optical keyboard switches are the best choice for competitive esports stars and the sweatiest of try-hards, but it's now relenting slightly by offering cheaper keyboards with magnetic switches and a similar array of gaming features. The $120 Razer Huntsman V3 HE Magnetic Mini and $140 Huntsman V3 HE Magnetic Tenkeyless, both […]",
+      "link": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
+      "source": "The Verge",
+      "published_at": "2026-07-30T11:00:00-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e79368adfd83da9825ab97a999635683",
+      "title": "Zoox اکنون می تواند برای سواری در رباتاکسی بدون فرمان خود شارژ کند",
+      "title_fa": "Zoox اکنون می تواند برای سواری در رباتاکسی بدون فرمان خود شارژ کند",
+      "title_en": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+      "summary": "Zoox به تازگی مجوز دریافت هزینه سواری روباتاکسی در وسایل نقلیه جعبه‌ای و بدون فرمان خود را دریافت کرده است. روز پنجشنبه، اداره ملی ایمنی ترافیک بزرگراه ها اعلام کرد که به Zoox متعلق به آمازون معافیت موقتی اعطا کرده است که به آن اجازه می دهد سالانه تا 2500 وسیله نقلیه را طی دو سال آینده مستقر کند، همانطور که قبلا توسط رویترز گزارش شده بود. تصمیم NHTSA معافیت […]",
+      "summary_fa": "Zoox به تازگی مجوز دریافت هزینه سواری روباتاکسی در وسایل نقلیه جعبه‌ای و بدون فرمان خود را دریافت کرده است. روز پنجشنبه، اداره ملی ایمنی ترافیک بزرگراه ها اعلام کرد که به Zoox متعلق به آمازون معافیت موقتی اعطا کرده است که به آن اجازه می دهد سالانه تا 2500 وسیله نقلیه را طی دو سال آینده مستقر کند، همانطور که قبلا توسط رویترز گزارش شده بود. تصمیم NHTSA معافیت […]",
+      "summary_en": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA's decision exempts […]",
+      "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "source": "The Verge",
+      "published_at": "2026-07-30T10:35:43-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d52b0b71d995a7e9f182865cd8d90082",
+      "title": "آخرین لپ‌تاپ سرفیس مایکروسافت صدها تخفیف در Best Buy دارد",
+      "title_fa": "آخرین لپ‌تاپ سرفیس مایکروسافت صدها تخفیف در Best Buy دارد",
+      "title_en": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
+      "summary": "اگر مایل به خرید لپ‌تاپ‌هایی هستید که ظاهری خارق‌العاده داشته باشد، استفاده از آن حس فوق‌العاده‌ای داشته باشد و هزینه زیادی هم نداشته باشد، خوب، به دلیل RAMagedon، انتخاب‌ها بسیار کم هستند. با این حال، معامله خوبی در Best Buy تا پنجشنبه 30 جولای در لپ تاپ Surface 13.8 اینچی مبتنی بر Arm مایکروسافت با چیپست 10 هسته ای Snapdragon X2 Plus اتفاق می افتد. در اصل […]",
+      "summary_fa": "اگر مایل به خرید لپ‌تاپ‌هایی هستید که ظاهری خارق‌العاده داشته باشد، استفاده از آن حس فوق‌العاده‌ای داشته باشد و هزینه زیادی هم نداشته باشد، خوب، به دلیل RAMagedon، انتخاب‌ها بسیار کم هستند. با این حال، معامله خوبی در Best Buy تا پنجشنبه 30 جولای در لپ تاپ Surface 13.8 اینچی مبتنی بر Arm مایکروسافت با چیپست 10 هسته ای Snapdragon X2 Plus اتفاق می افتد. در اصل […]",
+      "summary_en": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft’s Arm-based, 13.8-inch Surface Laptop that has the 10-core Snapdragon X2 Plus chipset. Originally […]",
+      "link": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-30T10:22:20-04:00",
+      "date_iso": "2026-07-30",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
