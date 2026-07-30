@@ -1,7 +1,28 @@
 {
-  "last_update": "2026-07-29 23:41:39",
-  "total_count": 3679,
+  "last_update": "2026-07-30 01:03:47",
+  "total_count": 3699,
   "articles": [
+    {
+      "id": "b86f094883c78d3f0f305ee4dd77ce14",
+      "title": "سهام متا با راهنمایی ناامیدکننده کاهش می یابد و جریان نقدی آزاد کاهش می یابد",
+      "title_fa": "سهام متا با راهنمایی ناامیدکننده کاهش می یابد و جریان نقدی آزاد کاهش می یابد",
+      "title_en": "Meta's stock drops on disappointing guidance, dwindling free cash flow",
+      "summary": "متا پیش بینی درآمد ضعیف تر از حد انتظار را منتشر کرد و محدوده سرمایه خود را برای سال محدود کرد.",
+      "summary_fa": "متا پیش بینی درآمد ضعیف تر از حد انتظار را منتشر کرد و محدوده سرمایه خود را برای سال محدود کرد.",
+      "summary_en": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
+      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 23:42:17 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
     {
       "id": "b2c86192ea1ec6527198a7c0084d73e4",
       "title": "معنای تقسیم فدرال رزرو برای سرمایه گذاران چیست",
@@ -24,6 +45,69 @@
       }
     },
     {
+      "id": "cd52df210e15f91a4d4f6150d06f9b7a",
+      "title": "عربستان سعودی به دنبال ائتلاف بین المللی علیه حوثی ها در دریای سرخ است",
+      "title_fa": "عربستان سعودی به دنبال ائتلاف بین المللی علیه حوثی ها در دریای سرخ است",
+      "title_en": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "summary": "ریاض به دنبال شرکای برای محافظت از کشتیرانی در دریای سرخ است، زیرا حملات به نفتکش‌های انرژی گسترش می‌یابد و قیمت نفت را بالا می‌برد.",
+      "summary_fa": "ریاض به دنبال شرکای برای محافظت از کشتیرانی در دریای سرخ است، زیرا حملات به نفتکش‌های انرژی گسترش می‌یابد و قیمت نفت را بالا می‌برد.",
+      "summary_en": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:34:26 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eac9a7431f5e77be257fa2278a03fa33",
+      "title": "هدف دانیل اورتگا از نیکاراگوئه جلوگیری از حضور خائنان در انتخابات آینده است",
+      "title_fa": "هدف دانیل اورتگا از نیکاراگوئه جلوگیری از حضور خائنان در انتخابات آینده است",
+      "title_en": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+      "summary": "اورتگا بر سرکوب گسترده جامعه مدنی در نیکاراگوئه نظارت داشته و قدرت را در دستان خود متمرکز کرده است.",
+      "summary_fa": "اورتگا بر سرکوب گسترده جامعه مدنی در نیکاراگوئه نظارت داشته و قدرت را در دستان خود متمرکز کرده است.",
+      "summary_en": "Ortega has overseen a sweeping crackdown on civil society in Nicaragua and concentrated power in his own hands.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:30:22 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad420e0e5fa66410f51e0815d4c93847",
+      "title": "اسرائیل از کانادا به دلیل بیانیه مخالفت خود با گسترش شهرک سازی در کرانه باختری انتقاد کرد",
+      "title_fa": "اسرائیل از کانادا به دلیل بیانیه مخالفت خود با گسترش شهرک سازی در کرانه باختری انتقاد کرد",
+      "title_en": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "summary": "کانادا می گوید شهرک سازی های غیرقانونی در اراضی اشغالی فلسطین «صلح، امنیت و ثبات» را تضعیف می کند.",
+      "summary_fa": "کانادا می گوید شهرک سازی های غیرقانونی در اراضی اشغالی فلسطین «صلح، امنیت و ثبات» را تضعیف می کند.",
+      "summary_en": "Canada says that illegal settlements in occupied Palestinian territory undermine 'peace, security and stability'.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:29:24 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "a4b59c6784818797bdb40bc2c19d2d89",
       "title": "ترامپ از حکم مدنی 83.3 میلیون دلاری ژان کارول به دیوان عالی ایالات متحده درخواست تجدید نظر داد",
       "title_fa": "ترامپ از حکم مدنی 83.3 میلیون دلاری ژان کارول به دیوان عالی ایالات متحده درخواست تجدید نظر داد",
@@ -38,6 +122,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d8216b0b6726a7947edfcb58ec71c39",
+      "title": "جینا راینهارت برای طرح بحث برانگیز برای انتقال قایقرانی المپیک 2032 به رودخانه کروکودیل‌ها لابی کرد.",
+      "title_fa": "جینا راینهارت برای طرح بحث برانگیز برای انتقال قایقرانی المپیک 2032 به رودخانه کروکودیل‌ها لابی کرد.",
+      "title_en": "Gina Rinehart lobbied for controversial plan to move 2032 Olympic rowing to crocodile-inhabited river",
+      "summary": "تصمیم برای میزبانی رویداد در رودخانه فیتزروی در راکهمپتون، 600 کیلومتری شمال شهر میزبان بریزبن، واکنش‌های شدیدی را برانگیخت. اسناد منتشر شده توسط دولت کوئینزلند نشان می‌دهد رودخانه در راکهمپتون. دولت کوئینزلند در مارس سال گذشته اعلام کرد که برنامه‌هایی برای فرستادن پاروزنان به 600 کیلومتری شمال شهر میزبان بریزبن - به رودخانه‌ای که زیستگاه طبیعی تمساح‌های آب شور است و واکنش شدیدی را در میان قایقرانی‌ها و جوامع گسترده‌تر المپیک برانگیخته است. ادامه مطلب...",
+      "summary_fa": "تصمیم برای میزبانی رویداد در رودخانه فیتزروی در راکهمپتون، 600 کیلومتری شمال شهر میزبان بریزبن، واکنش‌های شدیدی را برانگیخت. اسناد منتشر شده توسط دولت کوئینزلند نشان می‌دهد رودخانه در راکهمپتون. دولت کوئینزلند در مارس سال گذشته اعلام کرد که برنامه‌هایی برای فرستادن پاروزنان به 600 کیلومتری شمال شهر میزبان بریزبن - به رودخانه‌ای که زیستگاه طبیعی تمساح‌های آب شور است و واکنش شدیدی را در میان قایقرانی‌ها و جوامع گسترده‌تر المپیک برانگیخته است. ادامه مطلب...",
+      "summary_en": "Decision to host event on Fitzroy River at Rockhampton, 600km north of host city Brisbane, prompted significant backlashFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s richest person, Gina Rinehart, lobbied for controversial plans to host 2032 Olympic rowing events on the Fitzroy River at Rockhampton, documents released by the Queensland government show.The plans to send rowers 600km north of host city Brisbane – to a river that is natural habitat for saltwater crocodiles, and which prompted significant backlash among the rowing and broader Olympic communities – were announced by the Queensland government in March last year. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/30/gina-rinehart-fitzroy-river-rowing-crocodiles-brisbane-olympics-2032",
+      "source": "The Guardian",
+      "published_at": "Wed, 29 Jul 2026 23:23:23 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/706256caa4e1edbadd27e753e8d5dbe2a6a24f9a/1839_619_4630_3705/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=f64a451d1459f2ea1f0dafd7a68e703e",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -77,6 +182,27 @@
       "source": "Al Jazeera",
       "published_at": "Wed, 29 Jul 2026 23:10:15 +0000",
       "date_iso": "2026-07-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d3598ed52cb00372b03cd487c989179a",
+      "title": "عراق حملات عربستان و آمریکا را «نقض آشکار حاکمیت» خواند",
+      "title_fa": "عراق حملات عربستان و آمریکا را «نقض آشکار حاکمیت» خواند",
+      "title_en": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "summary": "علی الزیدی نخست وزیر این کشور در اعتراض به اولین سفر رسمی خود به عربستان سعودی را لغو کرد.",
+      "summary_fa": "علی الزیدی نخست وزیر این کشور در اعتراض به اولین سفر رسمی خود به عربستان سعودی را لغو کرد.",
+      "summary_en": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 29 Jul 2026 23:10:15 +0000",
+      "date_iso": "2026-07-30",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -1596,6 +1722,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "ca588d61dc62b3b5333243e5f3e107b2",
+      "title": "مولتی ویتامین روزانه ممکن است به افراد مسن کمک کند مستقل بمانند",
+      "title_fa": "مولتی ویتامین روزانه ممکن است به افراد مسن کمک کند مستقل بمانند",
+      "title_en": "Daily multivitamin may help older adults stay independent",
+      "summary": "مصرف روزانه مولتی ویتامین ممکن است به افراد مسن کمک کند تا قدرت و استقامت مورد نیاز برای فعالیت های روزمره را حفظ کنند. پس از سه سال، کاربران سلامت عملکردی بهتری را نسبت به کسانی که دارونما مصرف می‌کردند گزارش کردند، اگرچه یافته‌های اولیه هنوز به بررسی همتایان نیاز دارد.",
+      "summary_fa": "مصرف روزانه مولتی ویتامین ممکن است به افراد مسن کمک کند تا قدرت و استقامت مورد نیاز برای فعالیت های روزمره را حفظ کنند. پس از سه سال، کاربران سلامت عملکردی بهتری را نسبت به کسانی که دارونما مصرف می‌کردند گزارش کردند، اگرچه یافته‌های اولیه هنوز به بررسی همتایان نیاز دارد.",
+      "summary_en": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the preliminary findings still require peer review.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
+      "source": "Science Daily",
+      "published_at": "Wed, 29 Jul 2026 19:44:16 EDT",
+      "date_iso": "2026-07-30",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -32366,6 +32513,279 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dcc50ca5377a4018004665ee86981d0b",
+      "title": "رای گیری نامزدی تاد بلانچ AG توسط قوه قضاییه سنا در بحبوحه نگرانی های توافق ترامپ و IRS به تعویق افتاد.",
+      "title_fa": "رای گیری نامزدی تاد بلانچ AG توسط قوه قضاییه سنا در بحبوحه نگرانی های توافق ترامپ و IRS به تعویق افتاد.",
+      "title_en": "Todd Blanche AG nomination vote by Senate Judiciary postponed amid Trump-IRS settlement concerns",
+      "summary": "سناتور جان کورنین، از ایالت تگزاس، می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ، رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_fa": "سناتور جان کورنین، از ایالت تگزاس، می گوید که وزارت دادگستری نتوانسته نگرانی های او را در مورد توافقی برای محافظت از دونالد ترامپ، رئیس جمهور آمریکا و دیگران در برابر ممیزی های مالیاتی IRS برآورده کند.",
+      "summary_en": "Sen. John Cornyn, R-Texas, says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+      "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 01:02:16 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6bb8f6d48bc8cf081653ca5108c2c5a0",
+      "title": "به‌روزرسانی‌های زنده جنگ ایران: ارتش آمریکا می‌گوید موج جدیدی از حملات به ایران را آغاز کرده است.",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: ارتش آمریکا می‌گوید موج جدیدی از حملات به ایران را آغاز کرده است.",
+      "title_en": "Iran War Live Updates: U.S. Begins New Wave of Attacks on Iran, Military Says",
+      "summary": "فرماندهی مرکزی ایالات متحده این حملات را ساعاتی پس از آن اعلام کرد که پرزیدنت ترامپ قول داد که در پاسخ به حمله ایران به نیروهای آمریکایی در اردن «بسیار سخت» به ایران ضربه بزند.",
+      "summary_fa": "فرماندهی مرکزی ایالات متحده این حملات را ساعاتی پس از آن اعلام کرد که پرزیدنت ترامپ قول داد که در پاسخ به حمله ایران به نیروهای آمریکایی در اردن «بسیار سخت» به ایران ضربه بزند.",
+      "summary_en": "U.S. Central Command announced the strikes hours after President Trump vowed to hit Iran “very hard” in response to an attempted Iranian attack on U.S. forces in Jordan.",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+      "source": "NY Times",
+      "published_at": "Thu, 30 Jul 2026 00:59:16 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo830p-zhwm/29mideast-live-promo830p-zhwm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "9c413f7113907ee303f2c69ba0e4b9f1",
+      "title": "ایالات متحده حملات خود را علیه ایران از سر می گیرد تا به تلافی حمله موشکی غافلگیرانه اقدام کند",
+      "title_fa": "ایالات متحده حملات خود را علیه ایران از سر می گیرد تا به تلافی حمله موشکی غافلگیرانه اقدام کند",
+      "title_en": "U.S. resumes strikes against Iran, retaliating against surprise missile attack",
+      "summary": "نیروهای آمریکایی از چهارشنبه حملات خود را علیه ایالت ایران آغاز کردند و دو طرف را پس از یک توقف چند روزه به درگیری آشکار بازگرداندند.",
+      "summary_fa": "نیروهای آمریکایی از چهارشنبه حملات خود را علیه ایالت ایران آغاز کردند و دو طرف را پس از یک توقف چند روزه به درگیری آشکار بازگرداندند.",
+      "summary_en": "The U.S. forces began launching strikes against Iran Wednesday stateside, plunging the two sides back into open conflict after a days-long pause.",
+      "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:52:30 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e77fc74d775853fe5285bfde343305c4",
+      "title": "ایالات متحده پس از آن که ترامپ قول داد به ایران \"کتک بزند\" حملاتی را آغاز کرد",
+      "title_fa": "ایالات متحده پس از آن که ترامپ قول داد به ایران \"کتک بزند\" حملاتی را آغاز کرد",
+      "title_en": "US launches strikes after Trump vows to deliver ‘beating’ to Iran",
+      "summary": "این حمله یک روز پس از پرتاب موشک های بالستیک تهران به سوی نیروهای آمریکایی صورت گرفت",
+      "summary_fa": "این حمله یک روز پس از پرتاب موشک های بالستیک تهران به سوی نیروهای آمریکایی صورت گرفت",
+      "summary_en": "Attack comes day after Tehran launched ballistic missiles at American forces",
+      "link": "https://www.ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 00:51:51 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff37696ca-17b0-467c-ab3b-c723806051b6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "64833053cc7c54d40cbb1a4d633a4709",
+      "title": "سود عملیاتی سه ماهه دوم سامسونگ الکترونیکس از تخمین ها در مورد افزایش تقاضای تراشه های هوش مصنوعی بیشتر است",
+      "title_fa": "سود عملیاتی سه ماهه دوم سامسونگ الکترونیکس از تخمین ها در مورد افزایش تقاضای تراشه های هوش مصنوعی بیشتر است",
+      "title_en": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "summary": "Samsung Electronics رکورد خود را با سود عملیاتی سه ماهه دوم که بالاتر از برآوردهای تحلیلگران بود، افزایش داد.",
+      "summary_fa": "Samsung Electronics رکورد خود را با سود عملیاتی سه ماهه دوم که بالاتر از برآوردهای تحلیلگران بود، افزایش داد.",
+      "summary_en": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
+      "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:50:50 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a63d6548441a23ab8b7bc103c46b78ac",
+      "title": "اخبار استرالیا به صورت زنده: Acma Optus را به دلیل قطع سه گانه صفر به دادگاه می کشاند. آنفولانزای پرندگان به ویکتوریا می رسد",
+      "title_fa": "اخبار استرالیا به صورت زنده: Acma Optus را به دلیل قطع سه گانه صفر به دادگاه می کشاند. آنفولانزای پرندگان به ویکتوریا می رسد",
+      "title_en": "Australia news live: Acma takes Optus to court over triple-zero outage; bird flu reaches Victoria",
+      "summary": "به‌روزرسانی‌ها را به‌طور زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. بخش بومی و تحت کنترل جامعه و کسانی که در بخش پیش دبستانی دخیل هستند. ... واضح است که چالش‌ها با همه اهداف دیگر همچنان پابرجا هستند، اما من از این واقعیت که به این هدف دست یافته است، دل می‌بندم. مقابله با این موقعیت‌ها که در آن شما قوانین خاصی دارید که نرخ بالای زندانی شدن افراد ملل اول را مشاهده می‌کند، بسیار دشوار است. معنای آن این است که ما باید سخت‌تر پیش برویم، ما باید به فشار آوردن بر ایالت‌ها و مناطق اطراف عوامل عدالت ادامه دهیم. واضح است که این یک نگرانی واقعی است. ادامه مطلب...",
+      "summary_fa": "به‌روزرسانی‌ها را به‌طور زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. بخش بومی و تحت کنترل جامعه و کسانی که در بخش پیش دبستانی دخیل هستند. ... واضح است که چالش‌ها با همه اهداف دیگر همچنان پابرجا هستند، اما من از این واقعیت که به این هدف دست یافته است، دل می‌بندم. مقابله با این موقعیت‌ها که در آن شما قوانین خاصی دارید که نرخ بالای زندانی شدن افراد ملل اول را مشاهده می‌کند، بسیار دشوار است. معنای آن این است که ما باید سخت‌تر پیش برویم، ما باید به فشار آوردن بر ایالت‌ها و مناطق اطراف عوامل عدالت ادامه دهیم. واضح است که این یک نگرانی واقعی است. ادامه مطلب...",
+      "summary_en": "Follow updates liveGet our breaking news email, free app or daily news podcastMinister says meeting Closing the Gap target a major step, but more work needed on othersMalarndirri McCarthy, the minister for Indigenous Australians, said early childhood education enrolment for First Nations children was a milestone in the effort to reach the Closing the Gap targets.It is important to see this milestone achieved, and that is because of the work of the Aboriginal and community controlled sector and those involved in the preschool sector. … Clearly, the challenges with all the other targets remain, but I do take heart at the fact that this has been achieved.It’s very, very difficult to deal with these situations where you have particular pieces of legislation that see the high incarceration rates of First Nations people. What that means is that we have to go harder, we have to keep pushing the states and territories around the justice factors. Clearly, that is a real concern. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 00:44:42 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/271f1f2879be47442bb8c5b2624d6b0e8f4cd0a6/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=39bc682fc7cbb23b61bbbdcd0b9f6860",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cbb7826f0ebb5a172097bd06a23e441c",
+      "title": "ترامپ در حال بررسی کنترل های هوش مصنوعی پس از حوادث هک OpenAI است",
+      "title_fa": "ترامپ در حال بررسی کنترل های هوش مصنوعی پس از حوادث هک OpenAI است",
+      "title_en": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "این نشان‌دهنده تغییر لحن دولت وی است، که رویکردی دست‌نخورده‌تر به این فناوری در پیش گرفته است.",
+      "summary_fa": "این نشان‌دهنده تغییر لحن دولت وی است، که رویکردی دست‌نخورده‌تر به این فناوری در پیش گرفته است.",
+      "summary_en": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 30 Jul 2026 00:41:28 GMT",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2f62f77000028619ebd5beaaa23fa919",
+      "title": "ترامپ بودجه اتحادیه واکسن Gavi را به سازمان جهانی بهداشت قطع کرد",
+      "title_fa": "ترامپ بودجه اتحادیه واکسن Gavi را به سازمان جهانی بهداشت قطع کرد",
+      "title_en": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "summary": "این تصمیم به دنبال اختلافات طولانی مدت بین ترامپ و گروه سازمان ملل است.",
+      "summary_fa": "این تصمیم به دنبال اختلافات طولانی مدت بین ترامپ و گروه سازمان ملل است.",
+      "summary_en": "Decision follows long-running feud between Trump and UN group.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 00:26:49 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4afdd48738db3a82fa903d9f0d8daf72",
+      "title": "حملات موشکی بالستیک روسیه به کیف پس از هشدار زلنسکی انجام شد",
+      "title_fa": "حملات موشکی بالستیک روسیه به کیف پس از هشدار زلنسکی انجام شد",
+      "title_en": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+      "summary": "زلنسکی در بازگشت از ایالات متحده می گوید که امنیت اوکراین به تمایل متحدان برای ارائه دفاع ضد موشکی بستگی دارد.",
+      "summary_fa": "زلنسکی در بازگشت از ایالات متحده می گوید که امنیت اوکراین به تمایل متحدان برای ارائه دفاع ضد موشکی بستگی دارد.",
+      "summary_en": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 00:23:13 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "7727912b38331bf23a0fe6b27e8f2577",
+      "title": "اسپیس ایکس با درخواست کمیته انرژی مجلس نمایندگان برای بازدید از مراکز داده هوش مصنوعی خود در ممفیس مواجه است",
+      "title_fa": "اسپیس ایکس با درخواست کمیته انرژی مجلس نمایندگان برای بازدید از مراکز داده هوش مصنوعی خود در ممفیس مواجه است",
+      "title_en": "SpaceX faces House Energy Committee demand to tour its AI data centers in Memphis",
+      "summary": "عضو رده بندی کمیته انرژی مجلس نمایندگان خواستار رکوردهای SpaceX و بازدید از مراکز داده و نیروگاه های آن در ممفیس و اطراف آن است.",
+      "summary_fa": "عضو رده بندی کمیته انرژی مجلس نمایندگان خواستار رکوردهای SpaceX و بازدید از مراکز داده و نیروگاه های آن در ممفیس و اطراف آن است.",
+      "summary_en": "The ranking member of the House Committee on Energy is demanding SpaceX records and a tour of its data centers and power plants in and around Memphis.",
+      "link": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:11:50 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8234b8543db526dec6bb59ece180671c",
+      "title": "خبرنامه داخل هند: نفوذ متا در بزرگترین دموکراسی جهان در حال افزایش است - بررسی دقیق",
+      "title_fa": "خبرنامه داخل هند: نفوذ متا در بزرگترین دموکراسی جهان در حال افزایش است - بررسی دقیق",
+      "title_en": "Inside India newsletter: Meta's clout in the world's largest democracy is surging — inviting scrutiny",
+      "summary": "متا پلتفرم ها نفوذ خود را بر هند تقویت کرده است، زیرا معترضان ژنرال Z به طور گسترده به اینستاگرام برای ابراز نگرانی های خود علیه دولت مودی متکی بودند.",
+      "summary_fa": "متا پلتفرم ها نفوذ خود را بر هند تقویت کرده است، زیرا معترضان ژنرال Z به طور گسترده به اینستاگرام برای ابراز نگرانی های خود علیه دولت مودی متکی بودند.",
+      "summary_en": "Meta Platforms has strengthened its influence on India as Gen Z protesters widely relied on Instagram to raise their concerns against the Modi government.",
+      "link": "https://www.cnbc.com/2026/07/30/india-meta-democracy-protest-boost-instagram-meta.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 00:11:18 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a733f75dd1816613c2cf0b700852594b",
+      "title": "مایکروسافت در حالی که برای پاسخگویی به تقاضای هوش مصنوعی تلاش می کند، قرارداد اجاره مرکز داده 130 میلیارد دلاری را امضا می کند",
+      "title_fa": "مایکروسافت در حالی که برای پاسخگویی به تقاضای هوش مصنوعی تلاش می کند، قرارداد اجاره مرکز داده 130 میلیارد دلاری را امضا می کند",
+      "title_en": "Microsoft signs $130bn in data centre leases as it races to meet AI demand",
+      "summary": "درآمد بخش ابر هوشمند گروه فناوری با 32 درصد افزایش به 39.3 میلیارد دلار رسید.",
+      "summary_fa": "درآمد بخش ابر هوشمند گروه فناوری با 32 درصد افزایش به 39.3 میلیارد دلار رسید.",
+      "summary_en": "Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn",
+      "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 30 Jul 2026 00:05:09 GMT",
+      "date_iso": "2026-07-30",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d00991e-ae47-4af8-96f7-c5e752f0cb5e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e9098bfeb992235fd4d9a8d2c7c9bfe",
+      "title": "جنگ ایران زنده: ترامپ تهدید کرد که به خاطر حملات به اردن ضربه \"بسیار سخت\" خواهد زد",
+      "title_fa": "جنگ ایران زنده: ترامپ تهدید کرد که به خاطر حملات به اردن ضربه \"بسیار سخت\" خواهد زد",
+      "title_en": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+      "summary": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
+      "summary_fa": "این تهدید در حالی مطرح می شود که رسانه های ایرانی گزارش می دهند که چهار ایرانی در حملات مشترک آمریکا و عربستان در عراق کشته شده اند.",
+      "summary_en": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 00:00:00 +0000",
+      "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
