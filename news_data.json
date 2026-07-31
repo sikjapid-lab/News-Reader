@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-30 23:39:24",
-  "total_count": 4195,
+  "last_update": "2026-07-31 01:14:58",
+  "total_count": 4214,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32663,6 +32663,27 @@
       }
     },
     {
+      "id": "89c917ec5667e70dd7ded4e03caba2d3",
+      "title": "ترامپ از خلع سلاح حماس برای خروج اسرائیل از غزه خبر داد",
+      "title_fa": "ترامپ از خلع سلاح حماس برای خروج اسرائیل از غزه خبر داد",
+      "title_en": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا در گفتگو با TruthSocial گفت که توافقی برای خلع سلاح کامل حماس حاصل شده است.",
+      "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا در گفتگو با TruthSocial گفت که توافقی برای خلع سلاح کامل حماس حاصل شده است.",
+      "summary_en": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 23:51:40 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "a0db30a58a0ab5b6a581c545f5e76ed2",
       "title": "چرا A.I چین مدل ها می توانند حزب کمونیست را تهدید کنند",
       "title_fa": "چرا A.I چین مدل ها می توانند حزب کمونیست را تهدید کنند",
@@ -32726,6 +32747,27 @@
       }
     },
     {
+      "id": "6f8e1b83b49c1283b425d6fd04f2dc36",
+      "title": "دایان ابوت، نماینده چپ‌گرای بریتانیا، پس از تعلیق، توسط حزب کارگر بازگردانده شد",
+      "title_fa": "دایان ابوت، نماینده چپ‌گرای بریتانیا، پس از تعلیق، توسط حزب کارگر بازگردانده شد",
+      "title_en": "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
+      "summary": "دایان ابوت یک سال پس از تعلیق خود به دلیل اظهار نظر در مورد نژادپرستی، به حزب کارگر بازگشت.",
+      "summary_fa": "دایان ابوت یک سال پس از تعلیق خود به دلیل اظهار نظر در مورد نژادپرستی، به حزب کارگر بازگشت.",
+      "summary_en": "Diane Abbott returns to Labour, a year after her suspension over comments about racism.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 23:29:09 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "41856e8b1b143f8f9b0cdc27d3bf1363",
       "title": "Anthropic می‌گوید مدل‌های Claude آن به سیستم‌های سازمان‌های دیگر دسترسی غیرمجاز به دست آورده‌اند",
       "title_fa": "Anthropic می‌گوید مدل‌های Claude آن به سیستم‌های سازمان‌های دیگر دسترسی غیرمجاز به دست آورده‌اند",
@@ -32760,6 +32802,48 @@
       "date_iso": "2026-07-30",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afbbd355602d98da8132505236232a3a",
+      "title": "Pathirage رقابت نیزه Chopra-Nadeem در فینال Commonwealth را به چالش می کشد",
+      "title_fa": "Pathirage رقابت نیزه Chopra-Nadeem در فینال Commonwealth را به چالش می کشد",
+      "title_en": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
+      "summary": "Rumesh Pathirage سریلانکا پیش از رقابت بین Neeraj Chopra از هند و Arshad Nadeem از پاکستان مورد علاقه است.",
+      "summary_fa": "Rumesh Pathirage سریلانکا پیش از رقابت بین Neeraj Chopra از هند و Arshad Nadeem از پاکستان مورد علاقه است.",
+      "summary_en": "Sri Lanka's Rumesh Pathirage is favourite ahead of rivalry between India's Neeraj Chopra and Pakistan's Arshad Nadeem.",
+      "link": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 23:25:48 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8aafe1a453389bc0050366b6c091ca45",
+      "title": "دادگاه استیناف ایالات متحده گسترش بازداشت اجباری مهاجران توسط ترامپ را رد کرد",
+      "title_fa": "دادگاه استیناف ایالات متحده گسترش بازداشت اجباری مهاجران توسط ترامپ را رد کرد",
+      "title_en": "US appeals court rejects Trump expansion of mandatory migrant detention",
+      "summary": "دادگاه استیناف حکم می‌دهد که دولت ترامپ نمی‌تواند فرصت آزادی با قید وثیقه را به مهاجران بازداشت‌شده منع کند.",
+      "summary_fa": "دادگاه استیناف حکم می‌دهد که دولت ترامپ نمی‌تواند فرصت آزادی با قید وثیقه را به مهاجران بازداشت‌شده منع کند.",
+      "summary_en": "Appeals court rules that the Trump administration cannot deny detained migrants the chance for release on bond.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 23:24:10 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -32810,6 +32894,27 @@
       }
     },
     {
+      "id": "7291bb66caf24e3dc66fec11c2b8efe5",
+      "title": "دولت ترامپ برای اخراج به دادگاهی که قبلاً استفاده نشده است، مراجعه می کند",
+      "title_fa": "دولت ترامپ برای اخراج به دادگاهی که قبلاً استفاده نشده است، مراجعه می کند",
+      "title_en": "Trump administration appeals to never-before-used court for deportation",
+      "summary": "دادستان های دولت ایالات متحده به دنبال برکناری نذیره حاجی زاده هستند، اگرچه او با هیچ اتهام جنایی روبرو نیست.",
+      "summary_fa": "دادستان های دولت ایالات متحده به دنبال برکناری نذیره حاجی زاده هستند، اگرچه او با هیچ اتهام جنایی روبرو نیست.",
+      "summary_en": "US government prosecutors are seeking the removal of Nazira Haji Zada, though she faces no criminal charges.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-administration-appeals-to-never-before-used-court-for-deportation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 23:14:28 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b3e7d8954ee8e55508e63cd94a1c5d23",
       "title": "صندلی های خالی؟ غول کنسرت Live Nation می گوید فروش بلیت در واقع در سطح بی سابقه ای است.",
       "title_fa": "صندلی های خالی؟ غول کنسرت Live Nation می گوید فروش بلیت در واقع در سطح بی سابقه ای است.",
@@ -32824,6 +32929,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-94658938",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8b69ea4328c2ae37966751bc1e32704c",
+      "title": "مخابرات دولتی اندونزی گفته است که فروش بازوی مخاطره‌آمیز را با مدیریت 830 میلیون دلار ارزیابی می‌کند",
+      "title_fa": "مخابرات دولتی اندونزی گفته است که فروش بازوی مخاطره‌آمیز را با مدیریت 830 میلیون دلار ارزیابی می‌کند",
+      "title_en": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
+      "summary": "به گفته افراد آشنا، غول مخابراتی دولتی اندونزی در حال بررسی فروش MDI Ventures است.",
+      "summary_fa": "به گفته افراد آشنا، غول مخابراتی دولتی اندونزی در حال بررسی فروش MDI Ventures است.",
+      "summary_en": "Indonesia's state-owned telecom giant is exploring a sale of MDI Ventures, according to people familiar with the matter.",
+      "link": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:50:12 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -33017,6 +33143,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "198b02c1f885bb4c8ac20c7a19c1122a",
+      "title": "بررسی ها نشان می دهد که محموله های چین به مقصد ایالات متحده در ماه ژوئیه پس از بهبودی کوتاه مدت کاهش می یابد",
+      "title_fa": "بررسی ها نشان می دهد که محموله های چین به مقصد ایالات متحده در ماه ژوئیه پس از بهبودی کوتاه مدت کاهش می یابد",
+      "title_en": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+      "summary": "آخرین مطالعه China Beige Book نشان داد که فعالیت کارخانه در ماه جولای کاهش یافته است.",
+      "summary_fa": "آخرین مطالعه China Beige Book نشان داد که فعالیت کارخانه در ماه جولای کاهش یافته است.",
+      "summary_en": "The latest China Beige Book study found factory activity decelerated in July.",
+      "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:01:01 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
@@ -33892,6 +34039,27 @@
       "source": "Al Jazeera",
       "published_at": "Thu, 30 Jul 2026 20:07:56 +0000",
       "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d9809954d213792368febf064cdd0d91",
+      "title": "انفجار معدن زغال سنگ پاکستان دست کم 32 معدنچی را کشت",
+      "title_fa": "انفجار معدن زغال سنگ پاکستان دست کم 32 معدنچی را کشت",
+      "title_en": "Pakistan coal mine explosion kills at least 32 miners",
+      "summary": "حوادث رایج در صنعت معدن زغال سنگ پاکستان، به ویژه در بلوچستان، جایی که بسیاری از معادن فاقد ایمنی اولیه هستند.",
+      "summary_fa": "حوادث رایج در صنعت معدن زغال سنگ پاکستان، به ویژه در بلوچستان، جایی که بسیاری از معادن فاقد ایمنی اولیه هستند.",
+      "summary_en": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 30 Jul 2026 20:07:56 +0000",
+      "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -71592,6 +71760,237 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e023a6f37be557a3ab07235ddf2c692",
+      "title": "آنتروپیک می گوید مدل های هوش مصنوعی سه شرکت را در طول آزمایش های سایبری هک کردند",
+      "title_fa": "آنتروپیک می گوید مدل های هوش مصنوعی سه شرکت را در طول آزمایش های سایبری هک کردند",
+      "title_en": "Anthropic says AI models hacked three firms during cyber tests",
+      "summary": "این تنها چند روز پس از آن صورت می‌گیرد که رقیب OpenAI گفت که عوامل سرکش هوش مصنوعی به شبکه‌های شرکت‌های دیگر نفوذ کرده‌اند.",
+      "summary_fa": "این تنها چند روز پس از آن صورت می‌گیرد که رقیب OpenAI گفت که عوامل سرکش هوش مصنوعی به شبکه‌های شرکت‌های دیگر نفوذ کرده‌اند.",
+      "summary_en": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 01:11:36 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c05cedc5bce7774351b50aadb999fd79",
+      "title": "معترضان لندن در همبستگی با کشمیر آزاد در خیابان ها راهپیمایی کردند",
+      "title_fa": "معترضان لندن در همبستگی با کشمیر آزاد در خیابان ها راهپیمایی کردند",
+      "title_en": "London protesters march through streets in solidarity with Azad Kashmir",
+      "summary": "معترضان در لندن روز پنجشنبه از هاید پارک به سمت کمیسیون عالی پاکستان راهپیمایی کردند.",
+      "summary_fa": "معترضان در لندن روز پنجشنبه از هاید پارک به سمت کمیسیون عالی پاکستان راهپیمایی کردند.",
+      "summary_en": "Protesters in London marched from Hyde Park towards the Pakistan High Commission on Thursday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 01:05:18 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "e6d47b48d1d9a314462067d453275ead",
+      "title": "رئیس جمهور مکزیک از طرحی برای مبارزه با جلبک دریایی که سواحل را خفه می کند، رونمایی کرد",
+      "title_fa": "رئیس جمهور مکزیک از طرحی برای مبارزه با جلبک دریایی که سواحل را خفه می کند، رونمایی کرد",
+      "title_en": "Mexico’s President Unveils Plan to Fight Seaweed That Is Choking Beaches",
+      "summary": "جلبک دریایی - جلبک قهوه‌ای بدبو که به نام سارگاسوم شناخته می‌شود - بیش از یک دهه است که مکزیک و منطقه وسیع‌تر را گرفتار کرده است، اما پیش‌بینی امسال در حال ثبت رکورد است.",
+      "summary_fa": "جلبک دریایی - جلبک قهوه‌ای بدبو که به نام سارگاسوم شناخته می‌شود - بیش از یک دهه است که مکزیک و منطقه وسیع‌تر را گرفتار کرده است، اما پیش‌بینی امسال در حال ثبت رکورد است.",
+      "summary_en": "The seaweed — a stinky, brown algae known as sargassum — has plagued Mexico and the broader region for more than a decade, but this year’s forecast is setting records.",
+      "link": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 00:54:42 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-mexico-cleanup-bjvg/30int-mexico-cleanup-bjvg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c2c5c4ba580f13f1f74734fd4e1f9c9",
+      "title": "نیرمال پورجا در بین 10 کوهنوردی که می ترسیدند پس از بهمن گم شوند",
+      "title_fa": "نیرمال پورجا در بین 10 کوهنوردی که می ترسیدند پس از بهمن گم شوند",
+      "title_en": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "summary": "گفته می شود که یک آمریکایی، یک تبعه چینی، یک عمانی و پنج نپالی بخشی از گروهی هستند که احتمال ناپدید شدن آنها در پاکستان وجود دارد.",
+      "summary_fa": "گفته می شود که یک آمریکایی، یک تبعه چینی، یک عمانی و پنج نپالی بخشی از گروهی هستند که احتمال ناپدید شدن آنها در پاکستان وجود دارد.",
+      "summary_en": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 00:52:54 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d8566f3b8d1924e98c31beccbabd7b9",
+      "title": "افزایش 25 درصدی سهام SK Hynix در حالی که سامسونگ با افزایش غرش هوش مصنوعی بیش از 20 درصد افزایش یافت.",
+      "title_fa": "افزایش 25 درصدی سهام SK Hynix در حالی که سامسونگ با افزایش غرش هوش مصنوعی بیش از 20 درصد افزایش یافت.",
+      "title_en": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+      "summary": "شرکت‌های سنگین‌وزن تراشه‌های کره‌جنوبی SK Hynix و Samsung Electronics روز جمعه بیش از 20 درصد افزایش یافتند و رشد شدید سهام فناوری ایالات متحده را دنبال کردند.",
+      "summary_fa": "شرکت‌های سنگین‌وزن تراشه‌های کره‌جنوبی SK Hynix و Samsung Electronics روز جمعه بیش از 20 درصد افزایش یافتند و رشد شدید سهام فناوری ایالات متحده را دنبال کردند.",
+      "summary_en": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 00:52:26 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c8a791cda189cb7fe1b1d14315d3101",
+      "title": "سعودی ها برای حفاظت از کشتیرانی دریای سرخ اتحاد نظامی تشکیل دادند",
+      "title_fa": "سعودی ها برای حفاظت از کشتیرانی دریای سرخ اتحاد نظامی تشکیل دادند",
+      "title_en": "Saudis Form Military Alliance to Protect Red Sea Shipping",
+      "summary": "با گسترش جنگ بین ایالات متحده و ایران، عربستان سعودی با بیش از دوازده کشور دیگر، از جمله مصر و ترکیه، برای تشکیل یک ائتلاف دفاعی جدید برای توقف حملات به کشتی ها در دریای سرخ، پیوست.",
+      "summary_fa": "با گسترش جنگ بین ایالات متحده و ایران، عربستان سعودی با بیش از دوازده کشور دیگر، از جمله مصر و ترکیه، برای تشکیل یک ائتلاف دفاعی جدید برای توقف حملات به کشتی ها در دریای سرخ، پیوست.",
+      "summary_en": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
+      "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 00:46:08 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-header-jhcg/30mideast-live-header-jhcg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "16a110f8fe1b6360da8cfa234d3c3c35",
+      "title": "خودی های شرکتی در حال ارسال سیگنال های هشدار دهنده در مورد بازار سهام هستند",
+      "title_fa": "خودی های شرکتی در حال ارسال سیگنال های هشدار دهنده در مورد بازار سهام هستند",
+      "title_en": "Corporate insiders are sending warning signals about the stock market",
+      "summary": "خودی‌های شرکتی بیش از 20 سال است که این نزول را تجربه نکرده‌اند.",
+      "summary_fa": "خودی‌های شرکتی بیش از 20 سال است که این نزول را تجربه نکرده‌اند.",
+      "summary_en": "Corporate insiders haven’t been this bearish in more than 20 years.",
+      "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 00:31:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-755136",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fae52c3443a92236379414327ddf9dbf",
+      "title": "تیم کوک استراتژی هوش مصنوعی ترکیبی اپل را یک \"سلاح رقابتی\" می داند",
+      "title_fa": "تیم کوک استراتژی هوش مصنوعی ترکیبی اپل را یک \"سلاح رقابتی\" می داند",
+      "title_en": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+      "summary": "تیم کوک، مدیر اجرایی اپل، پیش از معرفی Siri AI گفت که این شرکت هزینه هوش مصنوعی را از طریق iCloud دریافت خواهد کرد.",
+      "summary_fa": "تیم کوک، مدیر اجرایی اپل، پیش از معرفی Siri AI گفت که این شرکت هزینه هوش مصنوعی را از طریق iCloud دریافت خواهد کرد.",
+      "summary_en": "Ahead of the launch of Siri AI, Apple's outgoing CEO Tim Cook said the company will charge for artificial intelligence through iCloud.",
+      "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 00:23:53 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "35d49cb4e4f9f3ebab81868a8c3d0017",
+      "title": "دیپلمات سابق آمریکایی هشدار داد که تنش آمریکا با ایران \"بی معنی\" است",
+      "title_fa": "دیپلمات سابق آمریکایی هشدار داد که تنش آمریکا با ایران \"بی معنی\" است",
+      "title_en": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
+      "summary": "با تشدید درگیری‌های ایران و آمریکا، باربارا لیف سفیر سابق ایالات متحده در امارات هشدار داد که تشدید تنش «نسبتاً بی‌معنی» است.",
+      "summary_fa": "با تشدید درگیری‌های ایران و آمریکا، باربارا لیف سفیر سابق ایالات متحده در امارات هشدار داد که تشدید تنش «نسبتاً بی‌معنی» است.",
+      "summary_en": "As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 00:08:12 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "10648bdf24b95af407b6203cdb6a383b",
+      "title": "حماس می گوید پس از اعلام طرح شورای صلح ترامپ با خلع سلاح موافقت کرده است",
+      "title_fa": "حماس می گوید پس از اعلام طرح شورای صلح ترامپ با خلع سلاح موافقت کرده است",
+      "title_en": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "summary": "یک مقام ارشد حماس به بی بی سی گفته است که آنها با طرح شورای صلح موافقت کرده اند. اسرائیل اظهار نظری نکرده است.",
+      "summary_fa": "یک مقام ارشد حماس به بی بی سی گفته است که آنها با طرح شورای صلح موافقت کرده اند. اسرائیل اظهار نظری نکرده است.",
+      "summary_en": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 00:07:17 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4db4c9d76592150f226f940261eec86a",
+      "title": "جنگ ایران زنده: ترامپ می گوید حماس خلع سلاح شود، اسرائیل به تدریج غزه را ترک کند",
+      "title_fa": "جنگ ایران زنده: ترامپ می گوید حماس خلع سلاح شود، اسرائیل به تدریج غزه را ترک کند",
+      "title_en": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+      "summary": "یکی از اعضای حماس به الجزیره گفت که تمامی اجرای این توافق مشروط به اجرای بخشی از توافق اسرائیل است.",
+      "summary_fa": "یکی از اعضای حماس به الجزیره گفت که تمامی اجرای این توافق مشروط به اجرای بخشی از توافق اسرائیل است.",
+      "summary_en": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 00:03:58 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
