@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 14:59:44",
-  "total_count": 4504,
+  "last_update": "2026-07-31 16:51:56",
+  "total_count": 4556,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -71952,6 +71952,111 @@
       }
     },
     {
+      "id": "984fb0bb7199b45d181129ba673d4d57",
+      "title": "بر اثر ریزش ساختمانی در ایتالیا یک کشته و پنج ناپدید شدند",
+      "title_fa": "بر اثر ریزش ساختمانی در ایتالیا یک کشته و پنج ناپدید شدند",
+      "title_en": "One dead, five missing after a building collapses in Italy",
+      "summary": "گمان می رود جسدی که پس از فروریختن یک ساختمان دو طبقه در نزدیکی مسینا پیدا شد، متعلق به یک تاجر محلی باشد. پنج نفر مفقود هستند.",
+      "summary_fa": "گمان می رود جسدی که پس از فروریختن یک ساختمان دو طبقه در نزدیکی مسینا پیدا شد، متعلق به یک تاجر محلی باشد. پنج نفر مفقود هستند.",
+      "summary_en": "The body found after the collapse of a two-storey building near Messina is believed to be that of a local businessman. Five people remain missing.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/one-dead-five-missing-after-a-building-collapses-in-italy",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 18:32:50 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "09c1aa5cd4861fe880e47c2d0a080a9b",
+      "title": "ایتالیا شنگن با اسپانیا را به دلیل بحران مهاجران سئوتا به حالت تعلیق درآورد، مرزهای هوایی و دریایی را بست",
+      "title_fa": "ایتالیا شنگن با اسپانیا را به دلیل بحران مهاجران سئوتا به حالت تعلیق درآورد، مرزهای هوایی و دریایی را بست",
+      "title_en": "Italy suspends Schengen with Spain over Ceuta migrant crisis, closes air and sea borders",
+      "summary": "تعلیق موقت معاهده شنگن به دلیل نگرانی ها در مورد بحران مهاجران در سئوتا ایجاد شده است.",
+      "summary_fa": "تعلیق موقت معاهده شنگن به دلیل نگرانی ها در مورد بحران مهاجران در سئوتا ایجاد شده است.",
+      "summary_en": "The temporary suspension of the Schengen agreement was prompted by concerns over the migrant crisis in Ceuta.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/italy-suspends-schengen-with-spain-over-ceuta-migrant-crisis-shuts-air-and-sea-borders",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 18:24:17 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93d5a9640f401c4d89abc540cd6a8e51",
+      "title": "پنج آتش سوزی جنگلی در ترکیه همچنان می سوزد زیرا خطر تا هفته آینده ادامه دارد",
+      "title_fa": "پنج آتش سوزی جنگلی در ترکیه همچنان می سوزد زیرا خطر تا هفته آینده ادامه دارد",
+      "title_en": "Five wildfires still burn in Turkey as risk extends into next week",
+      "summary": "از 206 آتش سوزی ثبت شده از روز چهارشنبه، 202 آتش سوزی تا روز جمعه کنترل شد، اما برخی از آنها در سواحل غربی و جنوبی فعال باقی ماندند و پیش بینی می شود دماهای بالا و باد شدید در 10 استان ادامه داشته باشد.",
+      "summary_fa": "از 206 آتش سوزی ثبت شده از روز چهارشنبه، 202 آتش سوزی تا روز جمعه کنترل شد، اما برخی از آنها در سواحل غربی و جنوبی فعال باقی ماندند و پیش بینی می شود دماهای بالا و باد شدید در 10 استان ادامه داشته باشد.",
+      "summary_en": "Of 206 fires recorded since Wednesday, 202 had been brought under control by Friday, but some remained active across western and southern coasts, with high temperatures and strong winds forecast to persist across 10 provinces.",
+      "link": "http://www.euronews.com/2026/07/31/five-wildfires-still-burn-in-turkey-as-risk-extends-into-next-week",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 18:04:56 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "86a5c29519f34290c630592dad9cff47",
+      "title": "ترامپ افزایش مهاجران کوتا را \"وحشتناک\" می خواند، زیرا کاخ سفید چپ افراطی را مقصر می داند",
+      "title_fa": "ترامپ افزایش مهاجران کوتا را \"وحشتناک\" می خواند، زیرا کاخ سفید چپ افراطی را مقصر می داند",
+      "title_en": "Trump calls Ceuta migrant surge 'terrible' as White House blames far left",
+      "summary": "ترامپ از گذرگاه‌های دسته‌جمعی به مناطق تحت پوشش آفریقای شمالی اسپانیا استفاده کرد تا به آمریکایی‌ها در مورد مهاجرت هشدار دهد، زیرا اتحادیه اروپا تاکید کرد که بحران به سرزمین اصلی اروپا سرایت نکرده است.",
+      "summary_fa": "ترامپ از گذرگاه‌های دسته‌جمعی به مناطق تحت پوشش آفریقای شمالی اسپانیا استفاده کرد تا به آمریکایی‌ها در مورد مهاجرت هشدار دهد، زیرا اتحادیه اروپا تاکید کرد که بحران به سرزمین اصلی اروپا سرایت نکرده است.",
+      "summary_en": "Trump invoked the mass crossings into Spain's North African enclave to warn Americans about immigration, as the EU stressed the crisis had not spread to mainland Europe.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/trump-calls-ceuta-migrant-surge-terrible-as-white-house-blames-far-left",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 18:03:17 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d34b253d1481e5ac070cb4a4388e82ce",
+      "title": "آخرین بولتن اخبار | 31 ژوئیه 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 31 ژوئیه 2026 - عصر",
+      "title_en": "Latest news bulletin | July 31st, 2026 – Evening",
+      "summary": "در این 31 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در این 31 ژوئیه 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this July 31st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 18:00:29 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "ccdac5916310a0344710aab892a69bcb",
       "title": "مناظر تالاب و تجدید طراحی: هتل چهار فصل دنیلی ونیز اکنون باز است",
       "title_fa": "مناظر تالاب و تجدید طراحی: هتل چهار فصل دنیلی ونیز اکنون باز است",
@@ -71966,6 +72071,174 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8eba07fee51d7cb68871e3a7094c2318",
+      "title": "چگونه مکالمات هوش مصنوعی خود را تا حد امکان خصوصی نگه دارید",
+      "title_fa": "چگونه مکالمات هوش مصنوعی خود را تا حد امکان خصوصی نگه دارید",
+      "title_en": "How to keep your AI conversations as private as possible",
+      "summary": "آیا نگران لو رفتن چت های هوش مصنوعی شخصی خود هستید؟ در اینجا نحوه تقویت حریم خصوصی خود در چندین چت ربات اصلی آورده شده است.",
+      "summary_fa": "آیا نگران لو رفتن چت های هوش مصنوعی شخصی خود هستید؟ در اینجا نحوه تقویت حریم خصوصی خود در چندین چت ربات اصلی آورده شده است.",
+      "summary_en": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several of the major chatbots.",
+      "link": "https://www.zdnet.com/article/ai-conversations-private/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 16:48:26 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "060f453292e8358f86877b3155af9ad1",
+      "title": "نه فقط OpenAI - Anthropic می‌گوید هک کردن کلود از رفتار ایده‌آل فاصله دارد.",
+      "title_fa": "نه فقط OpenAI - Anthropic می‌گوید هک کردن کلود از رفتار ایده‌آل فاصله دارد.",
+      "title_en": "Not just OpenAI - Anthropic says Claude's hacking spree 'falls short of ideal behavior'",
+      "summary": "سه مدل کلود در طول چالش‌های امنیتی Capture the Flag سرکش می‌شوند. در اینجا دنباله آسیب هایی است که هر کدام پشت سر گذاشته اند.",
+      "summary_fa": "سه مدل کلود در طول چالش‌های امنیتی Capture the Flag سرکش می‌شوند. در اینجا دنباله آسیب هایی است که هر کدام پشت سر گذاشته اند.",
+      "summary_en": "Three Claude models go rogue during Capture the Flag security challenges. Here's the trail of damage each left behind.",
+      "link": "https://www.zdnet.com/article/anthropic-claude-ai-hacked-organizations-during-security-tests/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 16:45:36 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1281ea2ce2cc2b7b1d272b54188b7dd2",
+      "title": "ایتالیا می گوید توافق شنگن اتحادیه اروپا با اسپانیا را پس از رسیدن 60000 مهاجر به سئوتا به حالت تعلیق در می آورد - اروپا زنده",
+      "title_fa": "ایتالیا می گوید توافق شنگن اتحادیه اروپا با اسپانیا را پس از رسیدن 60000 مهاجر به سئوتا به حالت تعلیق در می آورد - اروپا زنده",
+      "title_en": "Italy says it’s suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – Europe live",
+      "summary": "این اقدام بر افرادی که با هواپیما یا قایق بین دو کشور سفر می کنند تأثیر خواهد گذاشت. به خواندن ادامه دهید...",
+      "summary_fa": "این اقدام بر افرادی که با هواپیما یا قایق بین دو کشور سفر می کنند تأثیر خواهد گذاشت. به خواندن ادامه دهید...",
+      "summary_en": "The measure will impact people travelling by plane or boat between the two countriesSpanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernando Grande-Marlaska.He first visited the Tarajal border crossing, and is now talking to officials from local authorities, border and police services. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 16:45:01 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2bd97f6e39f233e2a6f923a43400854facc6cb5a/779_0_5910_4729/master/5910.jpg?width=140&quality=85&auto=format&fit=max&s=ba459e2044f65915efa7a9edb39a91d8",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "2e7ea46890c827c0bf3d124a2a991d44",
+      "title": "چگونه عامل OpenAI فرار کرد: توسط انسان ها در یک سری از رویدادهای قابل پیشگیری به وجود آمد",
+      "title_fa": "چگونه عامل OpenAI فرار کرد: توسط انسان ها در یک سری از رویدادهای قابل پیشگیری به وجود آمد",
+      "title_en": "How OpenAI's agent escaped: Sprung by humans in a series of preventable events",
+      "summary": "پشت حمله مامور سرکش به Hugging Face، توالی خاصی از تصمیمات انسانی وجود داشت. همه ما باید توجه بهتری داشته باشیم - زیرا عوامل تهدید نیز در حال یادگیری هستند.",
+      "summary_fa": "پشت حمله مامور سرکش به Hugging Face، توالی خاصی از تصمیمات انسانی وجود داشت. همه ما باید توجه بهتری داشته باشیم - زیرا عوامل تهدید نیز در حال یادگیری هستند.",
+      "summary_en": "Behind the rogue agent's attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat actors are learning, too.",
+      "link": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 16:45:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea803d981c8a02215e91463a79d17d94",
+      "title": "ترامپ می گوید که ایالات متحده با اعطای مجوزهای موشکی پاتریوت به اوکراین موافقت نکرده است",
+      "title_fa": "ترامپ می گوید که ایالات متحده با اعطای مجوزهای موشکی پاتریوت به اوکراین موافقت نکرده است",
+      "title_en": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
+      "summary": "دونالد ترامپ، رئیس جمهور آمریکا گفت که ایالات متحده با اعطای مجوز به اوکراین برای تولید سامانه های موشکی پاتریوت موافقت نکرده است.",
+      "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا گفت که ایالات متحده با اعطای مجوز به اوکراین برای تولید سامانه های موشکی پاتریوت موافقت نکرده است.",
+      "summary_en": "President Donald Trump said the U.S. hasn't agreed to grant Ukraine licenses to produce Patriot missile systems.",
+      "link": "https://www.cnbc.com/2026/07/31/trump-ukraine-patriot-missile-license-russia.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 16:44:31 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "26bbb8348b27780155e58ff74d04173e",
+      "title": "دکمه جدید LinkedIn 'Seems like AI Slop' به شما امکان می دهد تمام آن پست های ترسناک را گزارش دهید",
+      "title_fa": "دکمه جدید LinkedIn 'Seems like AI Slop' به شما امکان می دهد تمام آن پست های ترسناک را گزارش دهید",
+      "title_en": "LinkedIn's new 'Seems like AI slop' button lets you report all those cringey posts",
+      "summary": "دکمه \"به نظر می رسد مانند AI slop\" لینکدین در حال آمدن به کاربران است و وجود آن نشان دهنده تغییر دیدگاه در نفوذ هوش مصنوعی به جوامع دیجیتال است.",
+      "summary_fa": "دکمه \"به نظر می رسد مانند AI slop\" لینکدین در حال آمدن به کاربران است و وجود آن نشان دهنده تغییر دیدگاه در نفوذ هوش مصنوعی به جوامع دیجیتال است.",
+      "summary_en": "LinkedIn's 'Seems like AI slop' button is coming to users, and its existence signals a changing perspective on AI infiltrating digital communities.",
+      "link": "https://www.zdnet.com/article/thought-leadership-cultivate-and-align-ai-slop-is-all-over-linkedin-but-its-fighting-back/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 16:42:21 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8efb67be2f9792e824842a55facbfccc",
+      "title": "پس از اصابت بهمن به تیم نیرمال پورجا، دو جسد پیدا شده و جستجو ادامه دارد",
+      "title_fa": "پس از اصابت بهمن به تیم نیرمال پورجا، دو جسد پیدا شده و جستجو ادامه دارد",
+      "title_en": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+      "summary": "دو جسد از برود پیک پاکستان پیدا شده و هفت جسد توسط هواپیماهای بدون سرنشین شناسایی شده است - اگرچه وضعیت آنها نامشخص است.",
+      "summary_fa": "دو جسد از برود پیک پاکستان پیدا شده و هفت جسد توسط هواپیماهای بدون سرنشین شناسایی شده است - اگرچه وضعیت آنها نامشخص است.",
+      "summary_en": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 16:41:59 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec9e9fee71d298edb179186e32f0e265",
+      "title": "به روز رسانی زنده: مقامات می گویند اکثر مهاجرانی که وارد قلمرو اسپانیا شده اند بازگشته اند",
+      "title_fa": "به روز رسانی زنده: مقامات می گویند اکثر مهاجرانی که وارد قلمرو اسپانیا شده اند بازگشته اند",
+      "title_en": "Live Updates: Most of the Migrants Who Crossed Into Spanish Territory Have Returned, Officials Say",
+      "summary": "حدود 37000 نفر از 60000 نفری که از مراکش به سئوتا آمده بودند ظرف یک روز بازگشتند. با این حال، هجوم ناگهانی یک بحران برای دولت حامی مهاجرت اسپانیا ایجاد کرد. حداقل 34 نفر جان باختند.",
+      "summary_fa": "حدود 37000 نفر از 60000 نفری که از مراکش به سئوتا آمده بودند ظرف یک روز بازگشتند. با این حال، هجوم ناگهانی یک بحران برای دولت حامی مهاجرت اسپانیا ایجاد کرد. حداقل 34 نفر جان باختند.",
+      "summary_en": "About 37,000 of the up to 60,000 people who came into Ceuta from Morocco returned within a day. Still, the sudden influx created a crisis for Spain’s pro-immigration government. At least 34 people died.",
+      "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 16:41:29 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-1130am-ET-flbv/31europe-migrants-1130am-ET-flbv-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -71994,6 +72267,300 @@
       }
     },
     {
+      "id": "9b42cf18051b0486f9ced2074031d3a5",
+      "title": "S&P 500 برای اولین ریزش جولای از سال 2014 پیش می رود.",
+      "title_fa": "S&P 500 برای اولین ریزش جولای از سال 2014 پیش می رود.",
+      "title_en": "S&P 500 heads for the first July decline since 2014. Here are the stocks that led the selloff.",
+      "summary": "پس از پایان ماه، افت بازار سهام با بدترین ماه برای سهام تراشه در 24 سال گذشته برجسته شد.",
+      "summary_fa": "پس از پایان ماه، افت بازار سهام با بدترین ماه برای سهام تراشه در 24 سال گذشته برجسته شد.",
+      "summary_en": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
+      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 16:38:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-62125189",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e4153d5e48b67d482d7c9e5bbc0d82f",
+      "title": "بیایید نامزدهایی را انتخاب کنیم که ثروتمندان را وادار به پرداخت مالیات کنند",
+      "title_fa": "بیایید نامزدهایی را انتخاب کنیم که ثروتمندان را وادار به پرداخت مالیات کنند",
+      "title_en": "Let’s elect candidates who will make the wealthy pay taxes",
+      "summary": "ما می‌توانیم از برخی از این درآمدها برای عادلانه‌تر کردن مشارکت‌های تامین اجتماعی استفاده کنیم.",
+      "summary_fa": "ما می‌توانیم از برخی از این درآمدها برای عادلانه‌تر کردن مشارکت‌های تامین اجتماعی استفاده کنیم.",
+      "summary_en": "We can use some of those revenues to make Social Security contributions more equitable.",
+      "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 16:37:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-38740801",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a42364126fc2261b7e7ff9a9afd5f142",
+      "title": "پیشنهاد نقشه راه سه ساله برای خلع سلاح حماس در غزه",
+      "title_fa": "پیشنهاد نقشه راه سه ساله برای خلع سلاح حماس در غزه",
+      "title_en": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+      "summary": "بر اساس یک پیشنهاد مورد حمایت آمریکا، حماس و اسرائیل 14 روز فرصت دارند تا انتقال سیاسی غزه را نهایی کنند.",
+      "summary_fa": "بر اساس یک پیشنهاد مورد حمایت آمریکا، حماس و اسرائیل 14 روز فرصت دارند تا انتقال سیاسی غزه را نهایی کنند.",
+      "summary_en": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:35:17 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "4bf0eca67c5d01311284fb4f4c441885",
+      "title": "دست‌کم 57 نفر در جریان عبور ده‌ها هزار نفر از مراکش به قلمرو اسپانیایی سئوتا جان خود را از دست دادند.",
+      "title_fa": "دست‌کم 57 نفر در جریان عبور ده‌ها هزار نفر از مراکش به قلمرو اسپانیایی سئوتا جان خود را از دست دادند.",
+      "title_en": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "پدرو سانچز «نقض تمامیت ارضی» را محکوم می‌کند در حالی که سایر کشورهای اتحادیه اروپا از مادرید به خاطر حادثه انتقاد می‌کنند. یکپارچگی». هجوم عظیمی که تنها در طی 24 ساعت اتفاق افتاد، شهر 85000 نفری را تحت الشعاع قرار داد، بحران سیاسی را برای مادرید به راه انداخت و منجر به موجی از انتقادات از سوی دیگر کشورهای اتحادیه اروپا، از جمله درخواست برای تعلیق اسپانیا از منطقه حرکت آزاد شنگن شد. به خواندن ادامه دهید...",
+      "summary_fa": "پدرو سانچز «نقض تمامیت ارضی» را محکوم می‌کند در حالی که سایر کشورهای اتحادیه اروپا از مادرید به خاطر حادثه انتقاد می‌کنند. یکپارچگی». هجوم عظیمی که تنها در طی 24 ساعت اتفاق افتاد، شهر 85000 نفری را تحت الشعاع قرار داد، بحران سیاسی را برای مادرید به راه انداخت و منجر به موجی از انتقادات از سوی دیگر کشورهای اتحادیه اروپا، از جمله درخواست برای تعلیق اسپانیا از منطقه حرکت آزاد شنگن شد. به خواندن ادامه دهید...",
+      "summary_en": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentEurope live – latest updatesAt least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’s prime minister, Pedro Sánchez, called a “a violation of Spain’s territorial integrity”.The huge influx, which took place over the course of just 24 hours, overwhelmed the city of 85,000 people, triggered a political crisis for Madrid and led to a barrage of criticism from other EU countries, including calls for Spain to be suspended from the Schengen free-movement zone. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 16:34:43 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/bfe4080ee8b385249f1a00b5fc4c3c8555c8cd24/574_0_3446_2756/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=d1404a6c68c10b5a276e2194835c1bdf",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "1eb6d79b11f5a545a6c0c89913f4631e",
+      "title": "هفته ای که فوتبال را تکان داد",
+      "title_fa": "هفته ای که فوتبال را تکان داد",
+      "title_en": "The week that shook football",
+      "summary": "چگونه پیشنهاد فیفا برای باز کردن بازی جهانی به روی سرمایه‌گذاران آشکار شد - و واکنش‌هایی را به دنبال داشت که می‌توانست رئیس‌جمهور جنجالی آن را سرنگون کند.",
+      "summary_fa": "چگونه پیشنهاد فیفا برای باز کردن بازی جهانی به روی سرمایه‌گذاران آشکار شد - و واکنش‌هایی را به دنبال داشت که می‌توانست رئیس‌جمهور جنجالی آن را سرنگون کند.",
+      "summary_en": "How Fifa’s proposal to open up the global game to investors unfolded — and invited a backlash that could yet topple its controversial president",
+      "link": "https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 16:30:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb04bb3a2-f41a-4bbb-8dff-3a4a4c0c99e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e78cfb5be4ed4cbabac8cb3941a7be84",
+      "title": "هیلی بودجه را در 28 اکتبر تحویل می دهد",
+      "title_fa": "هیلی بودجه را در 28 اکتبر تحویل می دهد",
+      "title_en": "Healey to deliver Budget on October 28",
+      "summary": "صدراعظم می گوید در حالی که \"قدرت و پول را از وست مینستر\" خارج می کند، به قوانین مالی حزب کارگر پایبند خواهد بود.",
+      "summary_fa": "صدراعظم می گوید در حالی که \"قدرت و پول را از وست مینستر\" خارج می کند، به قوانین مالی حزب کارگر پایبند خواهد بود.",
+      "summary_en": "Chancellor says he will stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’",
+      "link": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 16:29:11 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9a22d084-e091-4038-a16d-9486288b895a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c2d24d093ee3d7ccb59f990ca735137",
+      "title": "به دنبال یک گوشی ارزان قیمت جدید هستید؟ این مدل موتورولا فقط 100 دلار است، اما فقط برای مدت زمان محدود",
+      "title_fa": "به دنبال یک گوشی ارزان قیمت جدید هستید؟ این مدل موتورولا فقط 100 دلار است، اما فقط برای مدت زمان محدود",
+      "title_en": "Looking for a new budget phone? This Motorola model is just $100, but only for a limited time",
+      "summary": "در Best Buy، Moto G Play 2024 به 100 دلار کاهش یافت و این اندروید را به یکی از خریدهای ارزان قیمت تبدیل کرد.",
+      "summary_fa": "در Best Buy، Moto G Play 2024 به 100 دلار کاهش یافت و این اندروید را به یکی از خریدهای ارزان قیمت تبدیل کرد.",
+      "summary_en": "Over at Best Buy, the 2024 Moto G Play dropped down to $100, making this Android one of the budget buys around.",
+      "link": "https://www.zdnet.com/article/motorola-moto-g-play-2024-deal/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 16:28:09 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "90b545cfebd10a1fbc845fa539aa9f34",
+      "title": "جنرال موتورز سیستم هوش مصنوعی اختصاصی خود را در اواخر امسال راه اندازی می کند",
+      "title_fa": "جنرال موتورز سیستم هوش مصنوعی اختصاصی خود را در اواخر امسال راه اندازی می کند",
+      "title_en": "GM to launch proprietary in-vehicle AI system later this year",
+      "summary": "جنرال موتورز قصد دارد تا اواخر امسال یک سیستم هوش مصنوعی اختصاصی در خودرو راه اندازی کند که برای مشتریانش مناسب تر است.",
+      "summary_fa": "جنرال موتورز قصد دارد تا اواخر امسال یک سیستم هوش مصنوعی اختصاصی در خودرو راه اندازی کند که برای مشتریانش مناسب تر است.",
+      "summary_en": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+      "link": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 16:25:29 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c597256b22da6a46b03b64c90f82a42d",
+      "title": "فیفا محدودیت‌های سرمایه خصوصی در ورزش را با فروش زیر مجموعه‌های جام جهانی آزمایش می‌کند",
+      "title_fa": "فیفا محدودیت‌های سرمایه خصوصی در ورزش را با فروش زیر مجموعه‌های جام جهانی آزمایش می‌کند",
+      "title_en": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+      "summary": "رد طرح فیفا از سوی یوفا و کونکاکاف برای فروش 20 درصد از سهام عملیات تجاری جام جهانی، نارضایتی از سهام خصوصی در ورزش را برجسته می کند.",
+      "summary_fa": "رد طرح فیفا از سوی یوفا و کونکاکاف برای فروش 20 درصد از سهام عملیات تجاری جام جهانی، نارضایتی از سهام خصوصی در ورزش را برجسته می کند.",
+      "summary_en": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
+      "link": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 16:19:16 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f7edcdc8c913b6049a17c4f7c94bcaaa",
+      "title": "LIVE: چوپرا، ندیم و پاتیراج در فینال مسابقات نیزه بازی های مشترک المنافع با هم ملاقات می کنند",
+      "title_fa": "LIVE: چوپرا، ندیم و پاتیراج در فینال مسابقات نیزه بازی های مشترک المنافع با هم ملاقات می کنند",
+      "title_en": "LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final",
+      "summary": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
+      "summary_fa": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
+      "summary_en": "Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/31/live-chopra-nadeem-and-patharige-in-commonwealth-games-javelin-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:18:42 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "00f621ef3464c683d84b124f7ca05a58",
+      "title": "نخست‌وزیر اسپانیا: افزایش مهاجران سئوتا «نقض تمامیت ارضی» است",
+      "title_fa": "نخست‌وزیر اسپانیا: افزایش مهاجران سئوتا «نقض تمامیت ارضی» است",
+      "title_en": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
+      "summary": "پدرو سانچز، نخست وزیر اسپانیا، هجوم گسترده مهاجران از مراکش را \"نقض\" خوانده است.",
+      "summary_fa": "پدرو سانچز، نخست وزیر اسپانیا، هجوم گسترده مهاجران از مراکش را \"نقض\" خوانده است.",
+      "summary_en": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.\"",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:17:59 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4449c8fe55cef0a17acfc2c91abff121",
+      "title": "مرد 45 میلیون دلار در فیلم نیکلاس کیج سرمایه گذاری کرد. از روی میز نتفلیکس دزدیده شد.",
+      "title_fa": "مرد 45 میلیون دلار در فیلم نیکلاس کیج سرمایه گذاری کرد. از روی میز نتفلیکس دزدیده شد.",
+      "title_en": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+      "summary": "یک فیلمساز از نتفلیکس به خاطر نمایشگر دزدیده شده فیلم اکران نشده نیکلاس کیج شکایت کرد.",
+      "summary_fa": "یک فیلمساز از نتفلیکس به خاطر نمایشگر دزدیده شده فیلم اکران نشده نیکلاس کیج شکایت کرد.",
+      "summary_en": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 16:17:55 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2275512221-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f46538bef6a59066207bed0aa3e4bf71",
+      "title": "توافق ترامپ درباره غزه سوالاتی را در مورد اینکه آیا اسرائیل و حماس به آن عمل خواهند کرد یا خیر ایجاد می کند",
+      "title_fa": "توافق ترامپ درباره غزه سوالاتی را در مورد اینکه آیا اسرائیل و حماس به آن عمل خواهند کرد یا خیر ایجاد می کند",
+      "title_en": "Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
+      "summary": "طرح 15 ماده‌ای جدید که توسط شورای صلح منتشر شد و توسط ترامپ اعلام شد، تا حدی از اسرائیل می‌خواهد به حملات خود پایان دهد و حماس سلاح‌های خود را کنار بگذارد.",
+      "summary_fa": "طرح 15 ماده‌ای جدید که توسط شورای صلح منتشر شد و توسط ترامپ اعلام شد، تا حدی از اسرائیل می‌خواهد به حملات خود پایان دهد و حماس سلاح‌های خود را کنار بگذارد.",
+      "summary_en": "The new 15-point plan, released by the Board of Peace and announced by Trump, calls in part for Israel to end its attacks and Hamas to give up its weapons.",
+      "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 16:16:39 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-gaza-trump-czfl/31int-gaza-trump-czfl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "8d5e5a18e390dd6dcab96c1bf04ae3c8",
+      "title": "آیا جمهوری خواهان واقعا می توانند آنتونی فائوچی را به زندان بفرستند؟",
+      "title_fa": "آیا جمهوری خواهان واقعا می توانند آنتونی فائوچی را به زندان بفرستند؟",
+      "title_en": "Can Republicans Actually Send Anthony Fauci to Jail?",
+      "summary": "MAGA با صدای بلند از مشاور ارشد سابق پزشکی کاخ سفید می خواهد که به زندان بیفتد. WIRED از کارشناسان حقوقی درخواست کرد که در مورد امکان پذیر بودن آن بررسی کنند.",
+      "summary_fa": "MAGA با صدای بلند از مشاور ارشد سابق پزشکی کاخ سفید می خواهد که به زندان بیفتد. WIRED از کارشناسان حقوقی درخواست کرد که در مورد امکان پذیر بودن آن بررسی کنند.",
+      "summary_en": "MAGA is loudly calling for the former White House chief medical adviser to end up in prison. WIRED asked legal experts to weigh in on whether that’s even possible.",
+      "link": "https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 16:09:37 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "701004b8c5e683eea478d39cf83dfc79",
       "title": "DNA مومیایی باستانی در شیلی نشان می دهد که استعمار آبله را به قاره آمریکا آورد",
       "title_fa": "DNA مومیایی باستانی در شیلی نشان می دهد که استعمار آبله را به قاره آمریکا آورد",
@@ -72007,6 +72574,48 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d48793dde62892c9330daec4eb9c19f7",
+      "title": "شیوع ابولا اکنون دومین شیوع بزرگ و در زمان رکورد است",
+      "title_fa": "شیوع ابولا اکنون دومین شیوع بزرگ و در زمان رکورد است",
+      "title_en": "Ebola Outbreak Is Now the Second-Largest Ever, and in Record Time",
+      "summary": "این بیماری بیش از 1500 نفر را در جمهوری دموکراتیک کنگو در مدت کمی بیش از دو ماه کشته است که از واکنش پیشی گرفته است.",
+      "summary_fa": "این بیماری بیش از 1500 نفر را در جمهوری دموکراتیک کنگو در مدت کمی بیش از دو ماه کشته است که از واکنش پیشی گرفته است.",
+      "summary_en": "The disease has killed more than 1,500 people in the Democratic Republic of Congo in just over two months, outpacing the response.",
+      "link": "https://www.nytimes.com/2026/07/30/world/africa/ebola-deaths-record.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 16:07:49 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30int-ebola-milestone-vbqf/30int-ebola-milestone-vbqf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd735d8b260eb4898ece559b3c8cd781",
+      "title": "آتش‌سوزی‌های تونس زیرساخت‌های ناکارآمد و آسیب‌پذیری‌های جامعه را آشکار می‌کند",
+      "title_fa": "آتش‌سوزی‌های تونس زیرساخت‌های ناکارآمد و آسیب‌پذیری‌های جامعه را آشکار می‌کند",
+      "title_en": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
+      "summary": "برای خانواده‌های شمال تونس، آتش‌سوزی‌ها به معنای از دست دادن خانه‌ها، دام‌ها و محصولات کشاورزی بوده است.",
+      "summary_fa": "برای خانواده‌های شمال تونس، آتش‌سوزی‌ها به معنای از دست دادن خانه‌ها، دام‌ها و محصولات کشاورزی بوده است.",
+      "summary_en": "For families in Tunisia's north, the wildfires have meant lost homes, livestock and harvests.",
+      "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:06:05 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72036,6 +72645,27 @@
       }
     },
     {
+      "id": "24fd17d520ee27733e926c26488fe4da",
+      "title": "پس از ابراز تمایل تیم کوک اپل برای تامین کنندگان حافظه بیشتر، سهام میکرون سقوط کرد",
+      "title_fa": "پس از ابراز تمایل تیم کوک اپل برای تامین کنندگان حافظه بیشتر، سهام میکرون سقوط کرد",
+      "title_en": "Micron’s stock falls after Apple’s Tim Cook expresses a desire for more memory suppliers",
+      "summary": "اپل و آمازون هر دو از افزایش قیمت حافظه آسیب دیده اند.",
+      "summary_fa": "اپل و آمازون هر دو از افزایش قیمت حافظه آسیب دیده اند.",
+      "summary_en": "Apple and Amazon are both being hurt by higher memory prices.",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-after-apples-tim-cook-expresses-a-desire-for-more-memory-suppliers-a7bc0502?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 15:59:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-50484162",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "992c15f0c0ef374aad8ef4e16bf2d660",
       "title": "Cosplayers در جشنواره بازی ChinaJoy اجرا و ژست می گیرند",
       "title_fa": "Cosplayers در جشنواره بازی ChinaJoy اجرا و ژست می گیرند",
@@ -72054,6 +72684,48 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "8d7930ec3fa168c239b269a3e299426d",
+      "title": "من و رئیسم در شهرهای مختلف کار می کنیم و او هرگز به پیام های من پاسخ نمی دهد. چه کار کنم؟",
+      "title_fa": "من و رئیسم در شهرهای مختلف کار می کنیم و او هرگز به پیام های من پاسخ نمی دهد. چه کار کنم؟",
+      "title_en": "My boss and I work in different cities and she never responds to my messages. What do I do?",
+      "summary": "\"بیشتر اوقات احساس می‌شود که من فقط دارم در مورد اتر صحبت می‌کنم.\"",
+      "summary_fa": "\"بیشتر اوقات احساس می‌شود که من فقط دارم در مورد اتر صحبت می‌کنم.\"",
+      "summary_en": "“Most of the time it feels like I’m just talking into the ether.”",
+      "link": "https://www.marketwatch.com/story/my-boss-and-i-work-in-different-cities-and-she-never-responds-to-my-messages-what-do-i-do-45713e98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 15:56:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-01476517",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a6f0be4d41843a95b40e4e73e99b192c",
+      "title": "بهترین جارو برقی 2026: کوسه، یوفی",
+      "title_fa": "بهترین جارو برقی 2026: کوسه، یوفی",
+      "title_en": "Best Robot Vacuum of 2026: Shark, Eufy",
+      "summary": "از جاروبرقی خسته شده اید؟ افسار را به ربات جاروبرقی بسپارید.",
+      "summary_fa": "از جاروبرقی خسته شده اید؟ افسار را به ربات جاروبرقی بسپارید.",
+      "summary_en": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 15:53:21 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72078,6 +72750,48 @@
       }
     },
     {
+      "id": "bdafbc5721c91e62a8fdba615f86c313",
+      "title": "450000 وام گیرنده وام دانشجویی فریب خورده واجد شرایط بخشودگی بدهی هستند - در اینجا چه کسی واجد شرایط است",
+      "title_fa": "450000 وام گیرنده وام دانشجویی فریب خورده واجد شرایط بخشودگی بدهی هستند - در اینجا چه کسی واجد شرایط است",
+      "title_en": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+      "summary": "صدها هزار وام گیرنده وام دانشجویی واجد شرایط ابطال بدهی تحت یک توافق 23 میلیارد دلاری علیه دولت فدرال هستند.",
+      "summary_fa": "صدها هزار وام گیرنده وام دانشجویی واجد شرایط ابطال بدهی تحت یک توافق 23 میلیارد دلاری علیه دولت فدرال هستند.",
+      "summary_en": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
+      "link": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 15:45:15 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d5cb005cd25d244a80bf692443d7e408",
+      "title": "آیا 75000 دانش آموز در امتحان ورودی کالج در مکزیک تقلب کردند؟",
+      "title_fa": "آیا 75000 دانش آموز در امتحان ورودی کالج در مکزیک تقلب کردند؟",
+      "title_en": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
+      "summary": "دانشگاه ملی خودمختار مکزیک، یا UNAM، پس از اینکه کارشناسان دریافتند که بیش از نیمی از امتحانات ورودی ممکن است شامل تقلب باشد، در حال تحقیق است، از جمله با A.I.",
+      "summary_fa": "دانشگاه ملی خودمختار مکزیک، یا UNAM، پس از اینکه کارشناسان دریافتند که بیش از نیمی از امتحانات ورودی ممکن است شامل تقلب باشد، در حال تحقیق است، از جمله با A.I.",
+      "summary_en": "The National Autonomous University of Mexico, or UNAM, is investigating after experts found that as many as half of all entrance exams could have involved cheating, including with A.I.",
+      "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 15:38:15 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-mexico-unam-jvbp/31int-mexico-unam-jvbp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "5546f2c2a2e568ff00e71b7cce6fcae5",
       "title": "بیش از 37500 مهاجر پس از عبور از مرزهای دسته جمعی به سئوتا به مراکش بازگشتند",
       "title_fa": "بیش از 37500 مهاجر پس از عبور از مرزهای دسته جمعی به سئوتا به مراکش بازگشتند",
@@ -72091,6 +72805,195 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "38c331039542a67bb64c130894dac9e4",
+      "title": "بیش از 48000 مهاجر پس از عبور دسته جمعی از سئوتا به مراکش بازگشتند",
+      "title_fa": "بیش از 48000 مهاجر پس از عبور دسته جمعی از سئوتا به مراکش بازگشتند",
+      "title_en": "More than 48,000 migrants return to Morocco after mass crossing into Ceuta",
+      "summary": "حدود 48000 نفر از حدود 50000 نفری که از اوایل روز جمعه به طور غیرقانونی وارد سئوتا شدند، قبلاً به مراکش بازگردانده شده اند، زیرا مادرید این گذرگاه جمعی را به عنوان \"حمله\" به حاکمیت خود محکوم کرد.",
+      "summary_fa": "حدود 48000 نفر از حدود 50000 نفری که از اوایل روز جمعه به طور غیرقانونی وارد سئوتا شدند، قبلاً به مراکش بازگردانده شده اند، زیرا مادرید این گذرگاه جمعی را به عنوان \"حمله\" به حاکمیت خود محکوم کرد.",
+      "summary_en": "Some 48,000 of the roughly 50,000 people who crossed illegally into Ceuta since early Friday have already been returned to Morocco, as Madrid condemned the mass crossing as an \"attack\" on its sovereignty.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/around-25000-migrants-returned-to-morocco-after-mass-border-crossing-into-ceuta",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 15:33:19 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ac830609f983bea2d87ab029ad2d288",
+      "title": "قولی که به اسماعیل الغول دادم",
+      "title_fa": "قولی که به اسماعیل الغول دادم",
+      "title_en": "The promise I made to Ismail al-Ghoul",
+      "summary": "او از من خواست که داستان غزه را ادامه دهم. دو سال پس از کشتن او توسط اسراییل، من متوقف نشده ام.",
+      "summary_fa": "او از من خواست که داستان غزه را ادامه دهم. دو سال پس از کشتن او توسط اسراییل، من متوقف نشده ام.",
+      "summary_en": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 15:30:15 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "72965ae5f376c30d0e266d34445547bb",
+      "title": "سهام مایکروسافت در حال افزایش است. مایک خوو می‌گوید در اینجا نحوه کسب درآمد وجود دارد",
+      "title_fa": "سهام مایکروسافت در حال افزایش است. مایک خوو می‌گوید در اینجا نحوه کسب درآمد وجود دارد",
+      "title_en": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+      "summary": "به دنبال درآمدهای سه ماهه چهارم مایکروسافت (MSFT) و قدردانی از ثبت رکورد، ریسک رویداد باینری فوری رسماً پشت سر گذاشته شده است.",
+      "summary_fa": "به دنبال درآمدهای سه ماهه چهارم مایکروسافت (MSFT) و قدردانی از ثبت رکورد، ریسک رویداد باینری فوری رسماً پشت سر گذاشته شده است.",
+      "summary_en": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+      "link": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 15:26:31 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1de9ac112fa04d610f44a6206e4a4651",
+      "title": "بهترین پدهای خنک کننده لپ تاپ 2026: آزمایش شده توسط متخصص",
+      "title_fa": "بهترین پدهای خنک کننده لپ تاپ 2026: آزمایش شده توسط متخصص",
+      "title_en": "The best laptop cooling pads of 2026: Expert tested",
+      "summary": "ما بهترین پدهای خنک کننده لپ تاپ را آزمایش کردیم تا دستگاه شما را با خنک کننده قدرتمند، چراغ های RGB، RPM بالا و موارد دیگر روان نگه داریم.",
+      "summary_fa": "ما بهترین پدهای خنک کننده لپ تاپ را آزمایش کردیم تا دستگاه شما را با خنک کننده قدرتمند، چراغ های RGB، RPM بالا و موارد دیگر روان نگه داریم.",
+      "summary_en": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+      "link": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 15:19:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ecf109b422e294396922e843b35df1d4",
+      "title": "بوون: طرح خلع سلاح حماس با موانع بزرگی روبروست، اما امید نادری برای غزه ایجاد می کند.",
+      "title_fa": "بوون: طرح خلع سلاح حماس با موانع بزرگی روبروست، اما امید نادری برای غزه ایجاد می کند.",
+      "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "summary": "واقعیت های سیاسی، جنگ، اعتماد صفر، کشته شدن هزاران نفر و ویرانی غزه، هر توافقی را بسیار پیچیده خواهد کرد.",
+      "summary_fa": "واقعیت های سیاسی، جنگ، اعتماد صفر، کشته شدن هزاران نفر و ویرانی غزه، هر توافقی را بسیار پیچیده خواهد کرد.",
+      "summary_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 15:18:31 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d0/live/ceb09d00-8ce0-11f1-a65d-4f54e31f4a67.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "e101f206b66a679c4434581f74118073",
+      "title": "HSA ها می توانند یک ابزار بازنشستگی عالی باشند - اگر سالم یا ثروتمند هستید",
+      "title_fa": "HSA ها می توانند یک ابزار بازنشستگی عالی باشند - اگر سالم یا ثروتمند هستید",
+      "title_en": "HSAs can be a great retirement tool – if you’re healthy or wealthy",
+      "summary": "حساب های پس انداز بهداشتی می تواند هزینه های مراقبت های بهداشتی را در دوران پیری جبران کند. اما اکثر مردم نمی توانند صبر کنند.",
+      "summary_fa": "حساب های پس انداز بهداشتی می تواند هزینه های مراقبت های بهداشتی را در دوران پیری جبران کند. اما اکثر مردم نمی توانند صبر کنند.",
+      "summary_en": "Health savings accounts can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 15:16:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-35013032",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9e4ab2997c917339be2e8c479d75f1cd",
+      "title": "بایت داده: قدرت سیگنال این روتر در تست آزمایشگاهی ما بیشتر رقبا را شکست داد",
+      "title_fa": "بایت داده: قدرت سیگنال این روتر در تست آزمایشگاهی ما بیشتر رقبا را شکست داد",
+      "title_en": "Data Byte: This router's signal strength beat most competitors in our lab test",
+      "summary": "آخرین بایت داده ZDNET عملکرد Netgear Orbi 370 را در آزمایشات آزمایشگاهی ما برجسته می کند. این چیزی است که اعداد می گویند.",
+      "summary_fa": "آخرین بایت داده ZDNET عملکرد Netgear Orbi 370 را در آزمایشات آزمایشگاهی ما برجسته می کند. این چیزی است که اعداد می گویند.",
+      "summary_en": "ZDNET's latest Data Byte highlights the Netgear Orbi 370's performance in our lab testing. Here's what the numbers say.",
+      "link": "https://www.zdnet.com/article/netgear-orbi-370-router-lab-test-data-byte/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 15:09:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1b8bee972b537c28bd38d8e96afb8c01",
+      "title": "آمازون می گوید که بازپرداخت 600 میلیون دلاری تعرفه ترامپ را دریافت کرده و به برخی از مشتریان بازپرداخت خواهد کرد",
+      "title_fa": "آمازون می گوید که بازپرداخت 600 میلیون دلاری تعرفه ترامپ را دریافت کرده و به برخی از مشتریان بازپرداخت خواهد کرد",
+      "title_en": "Amazon says it got $600 million in Trump tariff refunds and will pass return along to some customers",
+      "summary": "این شرکت قبلاً فاش نکرده بود که آیا پس از اینکه دادگاه عالی اعلام کرد بسیاری از عوارض دونالد ترامپ رئیس جمهور آمریکا غیرقانونی است، هزینه های تعرفه را جبران خواهد کرد یا خیر.",
+      "summary_fa": "این شرکت قبلاً فاش نکرده بود که آیا پس از اینکه دادگاه عالی اعلام کرد بسیاری از عوارض دونالد ترامپ رئیس جمهور آمریکا غیرقانونی است، هزینه های تعرفه را جبران خواهد کرد یا خیر.",
+      "summary_en": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 15:07:28 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b6e6685ff425a45a407581699d9bc818",
+      "title": "جام جهانی: فیفا در حال بررسی تأثیر گسترش به 64 تیم برای نسخه 2030 است",
+      "title_fa": "جام جهانی: فیفا در حال بررسی تأثیر گسترش به 64 تیم برای نسخه 2030 است",
+      "title_en": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
+      "summary": "گسترش جام جهانی 2026 فیفا برای اولین بار از سال 1998 بود، اما نسخه 2030 می تواند به 64 تیم افزایش یابد.",
+      "summary_fa": "گسترش جام جهانی 2026 فیفا برای اولین بار از سال 1998 بود، اما نسخه 2030 می تواند به 64 تیم افزایش یابد.",
+      "summary_en": "FIFA's World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 15:05:55 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72120,6 +73023,27 @@
       }
     },
     {
+      "id": "8fc5b4a39cda0b86874d9d70c766c47f",
+      "title": "بازرس می گوید نیوساوت ولز باید به زن مسنی که مسکن عمومی اش غرق در فاضلاب شده است غرامت بدهد.",
+      "title_fa": "بازرس می گوید نیوساوت ولز باید به زن مسنی که مسکن عمومی اش غرق در فاضلاب شده است غرامت بدهد.",
+      "title_en": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
+      "summary": "Ombudsman دریافت که Homes NSW غیرمنطقی عمل کرده و پرداخت اضافی را برای پریشانی و رنج توصیه کرده است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مستأجر مسکن عمومی سالخورده که خانه اش در اثر سرریز فاضلاب آسیب دیده است، پس از اینکه دولت نیو ساوت ولز وسایل شخصی خود را بدون رضایت او از بین برد و بیمه NSW در مورد ادعای خود در روز جمعه منتشر شد، به طور کامل غرامت دریافت خواهد کرد. پس از تحقیقاتی که در آن متوجه شد Homes NSW در نحوه رسیدگی به وسایل آلوده مستاجر غیرمنطقی عمل کرده و \"در ارائه اطلاعات کامل و دقیق به بیمه‌گر کوتاهی کرده است\". به خواندن ادامه دهید...",
+      "summary_fa": "Ombudsman دریافت که Homes NSW غیرمنطقی عمل کرده و پرداخت اضافی را برای پریشانی و رنج توصیه کرده است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مستأجر مسکن عمومی سالخورده که خانه اش در اثر سرریز فاضلاب آسیب دیده است، پس از اینکه دولت نیو ساوت ولز وسایل شخصی خود را بدون رضایت او از بین برد و بیمه NSW در مورد ادعای خود در روز جمعه منتشر شد، به طور کامل غرامت دریافت خواهد کرد. پس از تحقیقاتی که در آن متوجه شد Homes NSW در نحوه رسیدگی به وسایل آلوده مستاجر غیرمنطقی عمل کرده و \"در ارائه اطلاعات کامل و دقیق به بیمه‌گر کوتاهی کرده است\". به خواندن ادامه دهید...",
+      "summary_en": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and sufferingGet our breaking news email, free app or daily news podcastAn elderly public housing tenant whose home was damaged by sewage overflows will be fully compensated by the New South Wales government after it disposed of her personal belongings without her consent and failed to properly support her insurance claim.The NSW Ombudsman on Friday published its report after an investigation in which it found Homes NSW acted unreasonably in how it handled the tenant’s contaminated belongings and “failed to provide full and accurate information to the insurer”. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 15:00:18 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a14afcc15ddefb20d1de3ace6df8fdcf07d4bc49/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c99dad05782d364dc436fc7416287c6c",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1d9078bcebf96293ebe484337f57f512",
       "title": "سرزمین آتشفشانی با تردیدهای سرد: ایسلند در میان امیدها و ترس ها درباره مذاکرات اتحادیه اروپا تصمیم می گیرد",
       "title_fa": "سرزمین آتشفشانی با تردیدهای سرد: ایسلند در میان امیدها و ترس ها درباره مذاکرات اتحادیه اروپا تصمیم می گیرد",
@@ -72134,6 +73058,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3294b37cde169b45928ba0deb9523005",
+      "title": "ملودرام‌های AI Slop در حال تسخیر X هستند و سازندگان آنها پول نقد می‌گیرند",
+      "title_fa": "ملودرام‌های AI Slop در حال تسخیر X هستند و سازندگان آنها پول نقد می‌گیرند",
+      "title_en": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "summary": "داستان های ویروسی در مورد پیروزی خیر بر شر میلیون ها بازدید را به خود اختصاص داده است. آنها تقریباً به طور کامل طعمه کلیک تولید شده توسط هوش مصنوعی هستند.",
+      "summary_fa": "داستان های ویروسی در مورد پیروزی خیر بر شر میلیون ها بازدید را به خود اختصاص داده است. آنها تقریباً به طور کامل طعمه کلیک تولید شده توسط هوش مصنوعی هستند.",
+      "summary_en": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 15:00:09 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -72323,6 +73268,48 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ce18dac75ac3d958f1a03c792d82f788",
+      "title": "این دستیار هوش مصنوعی می خواهد بی کفایتی دوست پسر شما را جبران کند",
+      "title_fa": "این دستیار هوش مصنوعی می خواهد بی کفایتی دوست پسر شما را جبران کند",
+      "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "summary": "تبلیغی برای Orchid نشان می دهد که عامل هوش مصنوعی می تواند مشکلات رابطه را با انجام همه کارها برای شرکای بی ملاحظه حل کند.",
+      "summary_fa": "تبلیغی برای Orchid نشان می دهد که عامل هوش مصنوعی می تواند مشکلات رابطه را با انجام همه کارها برای شرکای بی ملاحظه حل کند.",
+      "summary_en": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 14:47:26 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "87670c4b28e9d42d83a0d684889bdbe9",
+      "title": "رئیس پلیس چند روز پس از تیراندازی مرگبار در شهر سیاتل آمریکا از سمت خود استعفا داد",
+      "title_fa": "رئیس پلیس چند روز پس از تیراندازی مرگبار در شهر سیاتل آمریکا از سمت خود استعفا داد",
+      "title_en": "Police chief resigns days after deadly shooting in US city of Seattle",
+      "summary": "شون بارنز در بحبوحه سوالاتی در مورد نحوه رسیدگی مقامات به تیراندازی در یک جشنواره محبوب غذا کنار می‌رود.",
+      "summary_fa": "شون بارنز در بحبوحه سوالاتی در مورد نحوه رسیدگی مقامات به تیراندازی در یک جشنواره محبوب غذا کنار می‌رود.",
+      "summary_en": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 14:46:09 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -72533,6 +73520,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe7f338276a9cf06cb15875e89bb714d",
+      "title": "فروش سهام فیفا می تواند کارساز باشد - اما نه با این قیمت",
+      "title_fa": "فروش سهام فیفا می تواند کارساز باشد - اما نه با این قیمت",
+      "title_en": "Fifa stake sale could work — but not at this price",
+      "summary": "تجاری سازی همیشه به معنای فساد نیست",
+      "summary_fa": "تجاری سازی همیشه به معنای فساد نیست",
+      "summary_en": "Commercialisation does not always mean corruption",
+      "link": "https://www.ft.com/content/c03baa4b-e279-4201-acda-80361632334a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 14:16:35 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F699d82eb-a7c5-4b6b-a350-796ef9c6ef46.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -73373,6 +74381,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d455e7ff9cdb7494fc71b62d06fa1c97",
+      "title": "لئوپولد اشنبرنر پس از سقوط 67 درصدی صندوق در ژوئیه قول داد «یک روز دیگر بجنگد».",
+      "title_fa": "لئوپولد اشنبرنر پس از سقوط 67 درصدی صندوق در ژوئیه قول داد «یک روز دیگر بجنگد».",
+      "title_en": "Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July",
+      "summary": "مدیر صندوق پوشش ریسک هوش مصنوعی Situational Awareness به سرمایه گذاران می گوید که از \"اسکارهای بسیار گران قیمت\" یاد خواهد گرفت.",
+      "summary_fa": "مدیر صندوق پوشش ریسک هوش مصنوعی Situational Awareness به سرمایه گذاران می گوید که از \"اسکارهای بسیار گران قیمت\" یاد خواهد گرفت.",
+      "summary_en": "Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’",
+      "link": "https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 12:21:08 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febd4d06e-8624-48ab-9ec6-7eb8d49fd3ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -74392,6 +75421,27 @@
       "title": "بازدید نخست وزیر اسپانیا از سئوتا پس از کشته شدن 34 مهاجر در شکستن مرز مراکش",
       "title_fa": "بازدید نخست وزیر اسپانیا از سئوتا پس از کشته شدن 34 مهاجر در شکستن مرز مراکش",
       "title_en": "Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco",
+      "summary": "رهبر منطقه می گوید 60,000 نفر از طریق زمین و دریا وارد سئوتا شدند زیرا رئیس اتحادیه اروپا وضعیت را \"غیرقابل قبول\" خواند.",
+      "summary_fa": "رهبر منطقه می گوید 60,000 نفر از طریق زمین و دریا وارد سئوتا شدند زیرا رئیس اتحادیه اروپا وضعیت را \"غیرقابل قبول\" خواند.",
+      "summary_en": "Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation 'unacceptable'.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 10:40:11 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "174a26dcfce27de064b36058a4288679",
+      "title": "بازدید نخست وزیر اسپانیا از سئوتا پس از کشته شدن 57 مهاجر در شکستن مرز مراکش",
+      "title_fa": "بازدید نخست وزیر اسپانیا از سئوتا پس از کشته شدن 57 مهاجر در شکستن مرز مراکش",
+      "title_en": "Spain’s PM visits Ceuta after 57 migrants die breaching border from Morocco",
       "summary": "رهبر منطقه می گوید 60,000 نفر از طریق زمین و دریا وارد سئوتا شدند زیرا رئیس اتحادیه اروپا وضعیت را \"غیرقابل قبول\" خواند.",
       "summary_fa": "رهبر منطقه می گوید 60,000 نفر از طریق زمین و دریا وارد سئوتا شدند زیرا رئیس اتحادیه اروپا وضعیت را \"غیرقابل قبول\" خواند.",
       "summary_en": "Regional leader says 60,000 crossed into Ceuta by land and sea as EU chief calls situation 'unacceptable'.",
@@ -87611,6 +88661,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "517dcef2be15eadf66218a4d32597699",
+      "title": "برچسب‌های اصلی قوانینی را پیشنهاد می‌کنند که هوش مصنوعی را از نمودارها دور نگه دارند",
+      "title_fa": "برچسب‌های اصلی قوانینی را پیشنهاد می‌کنند که هوش مصنوعی را از نمودارها دور نگه دارند",
+      "title_en": "The major labels propose rules to keep AI slop off the charts",
+      "summary": "چندین شرکت ضبط موسیقی، از جمله سه شرکت بزرگ - Universal Music Group، Sony Music و Warner Music Group - قوانینی را در مورد واجد شرایط بودن نمودار برای آهنگ‌های هوش مصنوعی پیشنهاد کرده‌اند. به طور خلاصه، آنها نخواهند بود. این پیشنهاد کمی فراتر از پیشنهاد برچسب‌گذاری ارائه شده توسط RIAA، فدراسیون بین‌المللی صنعت فونوگرافی است.",
+      "summary_fa": "چندین شرکت ضبط موسیقی، از جمله سه شرکت بزرگ - Universal Music Group، Sony Music و Warner Music Group - قوانینی را در مورد واجد شرایط بودن نمودار برای آهنگ‌های هوش مصنوعی پیشنهاد کرده‌اند. به طور خلاصه، آنها نخواهند بود. این پیشنهاد کمی فراتر از پیشنهاد برچسب‌گذاری ارائه شده توسط RIAA، فدراسیون بین‌المللی صنعت فونوگرافی است.",
+      "summary_en": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "source": "The Verge",
+      "published_at": "2026-07-31T12:36:48-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93fd8e23cecb4bf16a68318fcf85b05e",
+      "title": "نیویورک از کالشی به اتهام اجرای «عملیات قمار غیرقانونی» شکایت کرد.",
+      "title_fa": "نیویورک از کالشی به اتهام اجرای «عملیات قمار غیرقانونی» شکایت کرد.",
+      "title_en": "New York sues Kalshi for allegedly running an ‘illegal gambling operation’",
+      "summary": "نیویورک از کالشی به دلیل این ادعا که بازار پیش بینی در حال اجرای \"عملیات قمار غیرقانونی\" است، شکایت کرده است. در این دادخواست، لتیتیا جیمز، دادستان کل نیویورک، کالشی را به نقض قوانین ایالتی با پذیرش شرط بندی بدون مجوز از کمیسیون بازی ایالت متهم می کند، همانطور که قبلاً توسط CNBC گزارش شده بود. تحقیقات از سوی دادستانی […]",
+      "summary_fa": "نیویورک از کالشی به دلیل این ادعا که بازار پیش بینی در حال اجرای \"عملیات قمار غیرقانونی\" است، شکایت کرده است. در این دادخواست، لتیتیا جیمز، دادستان کل نیویورک، کالشی را به نقض قوانین ایالتی با پذیرش شرط بندی بدون مجوز از کمیسیون بازی ایالت متهم می کند، همانطور که قبلاً توسط CNBC گزارش شده بود. تحقیقات از سوی دادستانی […]",
+      "summary_en": "New York is suing Kalshi over claims the prediction market is running \"an illegal gambling operation.\" In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws by accepting wagers without a license from the state's gaming commission, as reported earlier by CNBC. An investigation from the Office of the Attorney […]",
+      "link": "https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation",
+      "source": "The Verge",
+      "published_at": "2026-07-31T11:30:13-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
