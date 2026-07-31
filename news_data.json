@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 22:27:39",
-  "total_count": 4654,
+  "last_update": "2026-07-31 23:33:35",
+  "total_count": 4659,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -71952,6 +71952,27 @@
       }
     },
     {
+      "id": "8cc4e32f0b1c71f662e46d031582cc43",
+      "title": "حزب کارگر دارای شهرداری منچستر بزرگ است که توسط اندی برنهام تخلیه شد",
+      "title_fa": "حزب کارگر دارای شهرداری منچستر بزرگ است که توسط اندی برنهام تخلیه شد",
+      "title_en": "Labour holds Greater Manchester mayoralty vacated by Andy Burnham",
+      "summary": "بو کریگ، رهبر شورا، در دور دوم، نامزد اصلاح طلب بریتانیا را شکست داد",
+      "summary_fa": "بو کریگ، رهبر شورا، در دور دوم، نامزد اصلاح طلب بریتانیا را شکست داد",
+      "summary_en": "Council leader Bev Craig beats the Reform UK candidate in a second-round run-off",
+      "link": "https://www.ft.com/content/7f552580-4bd7-4124-982e-cb7745921234?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 22:53:09 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6762ff27-ff7c-4893-9a91-5bd9b46e3347.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "0200e71bdec10b1b7888b67168779fa8",
       "title": "پیررو برای انصراف از پرونده المپیک، می گوید آسیب استخر ناشی از \"نصب ناقص\" ایجاد شده است.",
       "title_fa": "پیررو برای انصراف از پرونده المپیک، می گوید آسیب استخر ناشی از \"نصب ناقص\" ایجاد شده است.",
@@ -72036,6 +72057,27 @@
       }
     },
     {
+      "id": "e13eabeced2211638b946177d02ef105",
+      "title": "شهرک نشینان اسرائیلی قبرستان فلسطینی ها را در کرانه باختری تخریب کردند",
+      "title_fa": "شهرک نشینان اسرائیلی قبرستان فلسطینی ها را در کرانه باختری تخریب کردند",
+      "title_en": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+      "summary": "شهرک نشینان اسرائیلی قبرستان فلسطینی ها را در کرانه باختری تخریب کردند",
+      "summary_fa": "شهرک نشینان اسرائیلی قبرستان فلسطینی ها را در کرانه باختری تخریب کردند",
+      "summary_en": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 22:12:48 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "129fcd2e703ce578a7ab13f4f89265f9",
       "title": "پس از ورود ده ها هزار مهاجر به قلمرو اسپانیا، بیشتر آنها به مراکش باز می گردند",
       "title_fa": "پس از ورود ده ها هزار مهاجر به قلمرو اسپانیا، بیشتر آنها به مراکش باز می گردند",
@@ -72054,6 +72096,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "642f48da1e683e5f2deb6258f3e81d91",
+      "title": "جلسه استماع فائوچی در سنای ایالات متحده بحث منشأ کووید را تجدید می کند اما چیز کمی را فاش می کند",
+      "title_fa": "جلسه استماع فائوچی در سنای ایالات متحده بحث منشأ کووید را تجدید می کند اما چیز کمی را فاش می کند",
+      "title_en": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
+      "summary": "این شنیده ها بر شکاف حزبی سال ها در مورد موضوع صاعقه گیر که با ادعاهای گمراه کننده کاخ سفید دامن زده است، تأکید می کند.",
+      "summary_fa": "این شنیده ها بر شکاف حزبی سال ها در مورد موضوع صاعقه گیر که با ادعاهای گمراه کننده کاخ سفید دامن زده است، تأکید می کند.",
+      "summary_en": "Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 22:10:10 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72225,6 +72288,27 @@
       }
     },
     {
+      "id": "227307d3ab434937ddf49d97aacfdf69",
+      "title": "تلاش سیتادل در زمینه آگاهی از وضعیت به توقف 3 تریلیون دلاری AI کمک کرد.",
+      "title_fa": "تلاش سیتادل در زمینه آگاهی از وضعیت به توقف 3 تریلیون دلاری AI کمک کرد.",
+      "title_en": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+      "summary": "سرمایه گذاران می گویند معامله صندوق های تامینی به معامله گران آشفته در سهام فناوری اطمینان داد",
+      "summary_fa": "سرمایه گذاران می گویند معامله صندوق های تامینی به معامله گران آشفته در سهام فناوری اطمینان داد",
+      "summary_en": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
+      "link": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 21:46:17 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ca6f8ff-58c3-411d-95d0-9265b0893b31.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3e170ad8b80ca19a8be9b94e0388496b",
       "title": "گوگل قصد دارد کشورهای تحریم شده را از تایید برنامه‌نویس اندروید معاف کند",
       "title_fa": "گوگل قصد دارد کشورهای تحریم شده را از تایید برنامه‌نویس اندروید معاف کند",
@@ -72243,6 +72327,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "8819b70da5847bc503a6188992a8b5a1",
+      "title": "آمازون سرمایه گذاری 50 میلیارد دلاری در OpenAI را تکمیل کرد",
+      "title_fa": "آمازون سرمایه گذاری 50 میلیارد دلاری در OpenAI را تکمیل کرد",
+      "title_en": "Amazon completes $50bn investment in OpenAI",
+      "summary": "غول تجارت الکترونیک پس از معامله سهام، تقریباً 5 درصد از سهام آزمایشگاه هوش مصنوعی را در اختیار دارد",
+      "summary_fa": "غول تجارت الکترونیک پس از معامله سهام، تقریباً 5 درصد از سهام آزمایشگاه هوش مصنوعی را در اختیار دارد",
+      "summary_en": "Ecommerce giant has roughly 5% stake in AI lab after equity deal",
+      "link": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 21:29:58 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7a11d4a-8260-4235-bd03-691020687f44.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
