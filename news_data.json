@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 18:16:52",
-  "total_count": 4587,
+  "last_update": "2026-07-31 19:58:20",
+  "total_count": 4616,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -71952,6 +71952,48 @@
       }
     },
     {
+      "id": "4b1805f20dc19f8e4adbdd90a297fae8",
+      "title": "معضل حقوقی اسپانیا پشت رکورد ورود مهاجران سئوتا",
+      "title_fa": "معضل حقوقی اسپانیا پشت رکورد ورود مهاجران سئوتا",
+      "title_en": "Spain's legal dilemma behind Ceuta's record migrant arrivals",
+      "summary": "سئوتا با بدترین بحران مهاجرتی خود از سال 2021 مواجه است، زیرا مرکز پذیرش آن مملو از ظرفیت است و امکانات برای خردسالان بدون همراه با 1600 درصد ظرفیت کار می کند.",
+      "summary_fa": "سئوتا با بدترین بحران مهاجرتی خود از سال 2021 مواجه است، زیرا مرکز پذیرش آن مملو از ظرفیت است و امکانات برای خردسالان بدون همراه با 1600 درصد ظرفیت کار می کند.",
+      "summary_en": "Ceuta is facing its worst migration crisis since 2021, with its reception centre overflowing and facilities for unaccompanied minors operating at 1,600% of capacity.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/spains-legal-dilemma-behind-ceutas-record-migrant-arrivals",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 21:49:10 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8401e2e0e422624cf7753dd9db773ce4",
+      "title": "در داخل سئوتا: با افزایش تعداد مهاجران، ساکنان با ترس و عدم اطمینان روبرو هستند. نان کمیاب است، مغازه ها بسته اند",
+      "title_fa": "در داخل سئوتا: با افزایش تعداد مهاجران، ساکنان با ترس و عدم اطمینان روبرو هستند. نان کمیاب است، مغازه ها بسته اند",
+      "title_en": "Inside Ceuta: Residents face fear and uncertainty as migrant numbers soar; bread is scarce, shops are closed",
+      "summary": "اکثر مغازه ها بسته هستند، نان کمیاب است، و جشن های محلی پس از ورود ده ها هزار مهاجر از مراکش لغو شده است. ساکنان و مقامات محلی ترس و عدم اطمینان رو به رشد را با ادامه بازگشت توصیف می کنند.",
+      "summary_fa": "اکثر مغازه ها بسته هستند، نان کمیاب است، و جشن های محلی پس از ورود ده ها هزار مهاجر از مراکش لغو شده است. ساکنان و مقامات محلی ترس و عدم اطمینان رو به رشد را با ادامه بازگشت توصیف می کنند.",
+      "summary_en": "Most shops are shut, bread is scarce, and local festivities have been cancelled after tens of thousands of migrants arrived from Morocco. Residents and local authorities describe growing fear and uncertainty as returns continue.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/inside-ceuta-residents-face-fear-and-uncertainty-as-migrant-numbers-soar-bread-is-scarce-s",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 21:01:43 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "bdb33c9046e3db6f2f1ba3b19285402e",
       "title": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
       "title_fa": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
@@ -71966,6 +72008,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cb5774a85c4e5bdedde0acabc66ab7d5",
+      "title": "به روز رسانی زنده: پس از ورود ده ها هزار مهاجر به قلمرو اسپانیا، اکثر آنها به مراکش باز می گردند",
+      "title_fa": "به روز رسانی زنده: پس از ورود ده ها هزار مهاجر به قلمرو اسپانیا، اکثر آنها به مراکش باز می گردند",
+      "title_en": "Live Updates: After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
+      "summary": "حدود 48000 نفر از 60000 نفری که از مراکش به سئوتا آمده بودند ظرف یک روز بازگشتند. با این حال، هجوم ناگهانی یک بحران برای دولت حامی مهاجرت اسپانیا ایجاد کرد. نزدیک به سه دوجین مردند.",
+      "summary_fa": "حدود 48000 نفر از 60000 نفری که از مراکش به سئوتا آمده بودند ظرف یک روز بازگشتند. با این حال، هجوم ناگهانی یک بحران برای دولت حامی مهاجرت اسپانیا ایجاد کرد. نزدیک به سه دوجین مردند.",
+      "summary_en": "About 48,000 of the up to 60,000 people who came into Ceuta from Morocco returned within a day. Still, the sudden influx created a crisis for Spain’s pro-immigration government. Nearly three dozen died.",
+      "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 19:49:00 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31eurpope-migrants-promo-330-hgkj/31eurpope-migrants-promo-330-hgkj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "0a28e38b80dd419997f07ad4c22704a0",
+      "title": "اعتراض لهستان به سفیر روسیه به دلیل حمله موشکی",
+      "title_fa": "اعتراض لهستان به سفیر روسیه به دلیل حمله موشکی",
+      "title_en": "Poland protests to Russian ambassador over missile incursion",
+      "summary": "ورشو مدعی است موشکی که اخیراً ساخته شده و نشان می دهد رگبار شبانه روسیه علیه اوکراین در حال تخلیه زرادخانه است.",
+      "summary_fa": "ورشو مدعی است موشکی که اخیراً ساخته شده و نشان می دهد رگبار شبانه روسیه علیه اوکراین در حال تخلیه زرادخانه است.",
+      "summary_en": "Warsaw asserts missile recently made, illustrating Russia's nightly barrage against Ukraine is draining arsenal.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 19:48:17 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "870f41ce94813ef4bdaa8f9a13a58142",
+      "title": "چه چیزی باعث هجوم مهاجران از مراکش به سئوتا شد؟",
+      "title_fa": "چه چیزی باعث هجوم مهاجران از مراکش به سئوتا شد؟",
+      "title_en": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
+      "summary": "حدس و گمان ها بر پلیس ضعیف مراکش، سیاست های مهاجرتی جذاب اسپانیا و اطلاعات نادرست قاچاقچیان انسان متمرکز شده است. در حقیقت، کارشناسان گفتند، هنوز زود است که بدانیم.",
+      "summary_fa": "حدس و گمان ها بر پلیس ضعیف مراکش، سیاست های مهاجرتی جذاب اسپانیا و اطلاعات نادرست قاچاقچیان انسان متمرکز شده است. در حقیقت، کارشناسان گفتند، هنوز زود است که بدانیم.",
+      "summary_en": "Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 19:43:04 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-spain-morocco-1-b-bczv/31europe-migrants-spain-morocco-1-b-bczv-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -71994,6 +72099,69 @@
       }
     },
     {
+      "id": "d22524dedb1cb35ed49e5e55d905cbd6",
+      "title": "ترامپ می‌گوید آمریکا درباره توافق خلع سلاح حماس با اسرائیل «تفاهم» دارد",
+      "title_fa": "ترامپ می‌گوید آمریکا درباره توافق خلع سلاح حماس با اسرائیل «تفاهم» دارد",
+      "title_en": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+      "summary": "اسرائیل هنوز با برنامه ریزی برای تسلیم تسلیحات حماس در ازای خروج کامل اسرائیل از غزه موافقت نکرده است.",
+      "summary_fa": "اسرائیل هنوز با برنامه ریزی برای تسلیم تسلیحات حماس در ازای خروج کامل اسرائیل از غزه موافقت نکرده است.",
+      "summary_en": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 19:18:54 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "05057500551d5bad2c0d59128e0c262f",
+      "title": "مردان جوان به دنبال کار به سئوتا سرازیر شدند",
+      "title_fa": "مردان جوان به دنبال کار به سئوتا سرازیر شدند",
+      "title_en": "Young Men Poured Into Ceuta Seeking Work",
+      "summary": "تعدادی از مهاجران گفتند که انگیزه آنها پیام های رسانه های اجتماعی مبنی بر باز بودن مرز اسپانیا بوده است، اگرچه منشأ این پیام ها نامشخص است.",
+      "summary_fa": "تعدادی از مهاجران گفتند که انگیزه آنها پیام های رسانه های اجتماعی مبنی بر باز بودن مرز اسپانیا بوده است، اگرچه منشأ این پیام ها نامشخص است.",
+      "summary_en": "Several migrants said they had been motivated by social media messages claiming that the Spanish border was open, though the origin of those messages remained unclear.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 19:18:46 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-voices-01-blhf/31europe-migrants-voices-01-blhf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc44c65cbbbdbe36839f882f767de7df",
+      "title": "ما در دهه 60 زندگی خود با 1.5 میلیون دلار هستیم. آیا امانت مؤثرتر از وصیت برای جلوگیری از تضاد بین ورثه ما خواهد بود؟",
+      "title_fa": "ما در دهه 60 زندگی خود با 1.5 میلیون دلار هستیم. آیا امانت مؤثرتر از وصیت برای جلوگیری از تضاد بین ورثه ما خواهد بود؟",
+      "title_en": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
+      "summary": "من متوجه هستم که صدور حکم می تواند طولانی، عمومی و پرهزینه باشد.",
+      "summary_fa": "من متوجه هستم که صدور حکم می تواند طولانی، عمومی و پرهزینه باشد.",
+      "summary_en": "“I realize that probate can be lengthy, public and expensive.”",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 19:16:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04056298",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8ddf02e8768067a89b2237174a242bf7",
       "title": "لیبریا پس از توقیف بی سابقه کوکائین به ارزش 336 میلیون دلار، مقامات را برکنار کرد",
       "title_fa": "لیبریا پس از توقیف بی سابقه کوکائین به ارزش 336 میلیون دلار، مقامات را برکنار کرد",
@@ -72007,6 +72175,174 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c1d84304c831c5abc9ee692a74965ff8",
+      "title": "توافق ترامپ درباره غزه پرسش هایی را در مورد اینکه آیا اسرائیل و حماس به آن عمل خواهند کرد یا خیر ایجاد می کند",
+      "title_fa": "توافق ترامپ درباره غزه پرسش هایی را در مورد اینکه آیا اسرائیل و حماس به آن عمل خواهند کرد یا خیر ایجاد می کند",
+      "title_en": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
+      "summary": "طرح 15 ماده‌ای جدید که توسط شورای صلح منتشر شد و توسط ترامپ اعلام شد، تا حدی از اسرائیل می‌خواهد به حملات خود پایان دهد و حماس سلاح‌های خود را کنار بگذارد.",
+      "summary_fa": "طرح 15 ماده‌ای جدید که توسط شورای صلح منتشر شد و توسط ترامپ اعلام شد، تا حدی از اسرائیل می‌خواهد به حملات خود پایان دهد و حماس سلاح‌های خود را کنار بگذارد.",
+      "summary_en": "The new 15-point plan, released by the Board of Peace and announced by Trump, calls in part for Israel to end its attacks and Hamas to give up its weapons.",
+      "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 19:10:16 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-gaza-trump-czfl/31int-gaza-trump-czfl-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "5a43c3b970e0a1151a0c791768150b75",
+      "title": "چگونه 60000 نفر به قلمرو اسپانیا شنا کردند",
+      "title_fa": "چگونه 60000 نفر به قلمرو اسپانیا شنا کردند",
+      "title_en": "How 60,000 people swam to Spanish territory",
+      "summary": "مهاجران از روزها قبل برای رسیدن به ساحل سئوتا آماده می شدند",
+      "summary_fa": "مهاجران از روزها قبل برای رسیدن به ساحل سئوتا آماده می شدند",
+      "summary_en": "Migrants prepared days in advance to reach Ceuta’s beach",
+      "link": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 19:09:50 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F737cbc46-05b8-4896-80a3-5c674c28310e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "250f5160fe4e23d74b8d4da5bebc2922",
+      "title": "آیا فقط برای مصاحبه با یک استارت آپ هوش مصنوعی هفت روزه در هفته خالکوبی می کنید؟",
+      "title_fa": "آیا فقط برای مصاحبه با یک استارت آپ هوش مصنوعی هفت روزه در هفته خالکوبی می کنید؟",
+      "title_en": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "summary": "مدیر عامل LemonLime با ترفندهای خالکوبی \"دور شد\".",
+      "summary_fa": "مدیر عامل LemonLime با ترفندهای خالکوبی \"دور شد\".",
+      "summary_en": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 19:04:56 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "103397333bc7e669678512b59236cc14",
+      "title": "تیم کوک، اسطوره زنجیره تامین، سرانجام با مشکل حافظه اپل دیدار کرد",
+      "title_fa": "تیم کوک، اسطوره زنجیره تامین، سرانجام با مشکل حافظه اپل دیدار کرد",
+      "title_en": "Supply-chain legend Tim Cook finally meets his match with Apple’s memory crunch",
+      "summary": "اپل متوجه شده است که با کمبود قطعات ناشی از رونق هوش مصنوعی دست و پنجه نرم می کند و این شرکت در تلاش برای یافتن راه حل است.",
+      "summary_fa": "اپل متوجه شده است که با کمبود قطعات ناشی از رونق هوش مصنوعی دست و پنجه نرم می کند و این شرکت در تلاش برای یافتن راه حل است.",
+      "summary_en": "Apple has found itself dealing with component shortages exacerbated by the AI boom, and the company is scrambling for solutions.",
+      "link": "https://www.marketwatch.com/story/supply-chain-legend-tim-cook-finally-meets-his-match-with-apples-memory-crunch-9bce0b11?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 19:04:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-81941445",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6569d4f8a0c56d605f3d65b851ddc933",
+      "title": "جهان با خوش بینی محتاطانه به توافق خلع سلاح حماس واکنش نشان می دهد",
+      "title_fa": "جهان با خوش بینی محتاطانه به توافق خلع سلاح حماس واکنش نشان می دهد",
+      "title_en": "World reacts with cautious optimism to Hamas disarmament agreement",
+      "summary": "توافق حماس برای خلع سلاح مرحله‌ای در ازای عقب‌نشینی اسرائیل اعلام شده است، اما اجرای آن کلید خواهد بود.",
+      "summary_fa": "توافق حماس برای خلع سلاح مرحله‌ای در ازای عقب‌نشینی اسرائیل اعلام شده است، اما اجرای آن کلید خواهد بود.",
+      "summary_en": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 18:51:50 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f3778ea114c67abb5b195b1468cd8af4",
+      "title": "سرمایه گذاران ممکن است بخواهند بر روی منحنی بازدهی انتهایی تمرکز کنند - همانطور که استریت جلسات بعدی فدرال رزرو را پیش بینی می کند",
+      "title_fa": "سرمایه گذاران ممکن است بخواهند بر روی منحنی بازدهی انتهایی تمرکز کنند - همانطور که استریت جلسات بعدی فدرال رزرو را پیش بینی می کند",
+      "title_en": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "summary": "به گفته Noah Wise از Allspring Global Investments، سرمایه گذاران بازار اوراق قرضه ممکن است بخواهند روی جلوی منحنی بازده تمرکز کنند.",
+      "summary_fa": "به گفته Noah Wise از Allspring Global Investments، سرمایه گذاران بازار اوراق قرضه ممکن است بخواهند روی جلوی منحنی بازده تمرکز کنند.",
+      "summary_en": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
+      "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 18:46:45 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "943d9872e93332af7c10e5e389674093",
+      "title": "ترامپ می گوید توافق خلع سلاح حماس برای تحقق آن پیچیده خواهد بود",
+      "title_fa": "ترامپ می گوید توافق خلع سلاح حماس برای تحقق آن پیچیده خواهد بود",
+      "title_en": "Trump says Hamas disarmament deal will be complex to deliver",
+      "summary": "ترامپ گفت اسرائیل قویا از توافق برای خلع سلاح کامل حماس حمایت می کند",
+      "summary_fa": "ترامپ گفت اسرائیل قویا از توافق برای خلع سلاح کامل حماس حمایت می کند",
+      "summary_en": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 18:44:33 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "d28523ce8ae489ee081e9b613f1592a8",
+      "title": "اندی جاسی نگرانی ها در مورد هزینه های هنگفت هوش مصنوعی آمازون را کاهش داد. او چگونه این کار را کرد",
+      "title_fa": "اندی جاسی نگرانی ها در مورد هزینه های هنگفت هوش مصنوعی آمازون را کاهش داد. او چگونه این کار را کرد",
+      "title_en": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
+      "summary": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_fa": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "link": "https://www.cnbc.com/2026/07/31/andy-jassy-soothed-concerns-over-amazons-massive-ai-spending-heres-how-he-did-it-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 18:34:20 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72036,6 +72372,48 @@
       }
     },
     {
+      "id": "9d6cca6c6606852bf67cec3439fa734c",
+      "title": "هیلی در بودجه اکتبر بریتانیا به دنبال بافر مالی است",
+      "title_fa": "هیلی در بودجه اکتبر بریتانیا به دنبال بافر مالی است",
+      "title_en": "Healey looks for fiscal buffer in October’s UK Budget",
+      "summary": "صدراعظم باید به قوانین مالی حزب کارگر پایبند باشد در حالی که \"قدرت و پول را از وست مینستر خارج می کند\"",
+      "summary_fa": "صدراعظم باید به قوانین مالی حزب کارگر پایبند باشد در حالی که \"قدرت و پول را از وست مینستر خارج می کند\"",
+      "summary_en": "Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’",
+      "link": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 18:30:59 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9a22d084-e091-4038-a16d-9486288b895a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "495b95a28408d6002e4a054378944c5d",
+      "title": "سهام هوش مصنوعی ممکن است به کف رسیده باشد. آنچه سرمایه گذاران باید در مرحله بعدی مراقب آن باشند.",
+      "title_fa": "سهام هوش مصنوعی ممکن است به کف رسیده باشد. آنچه سرمایه گذاران باید در مرحله بعدی مراقب آن باشند.",
+      "title_en": "AI stocks may have bottomed out. What investors should watch for next.",
+      "summary": "درآمد مایکروسافت باعث خوش بینی برای تجارت هوش مصنوعی شد، همانطور که فعالیت معاملاتی مربوط به فروش آتش یک صندوق تامینی.",
+      "summary_fa": "درآمد مایکروسافت باعث خوش بینی برای تجارت هوش مصنوعی شد، همانطور که فعالیت معاملاتی مربوط به فروش آتش یک صندوق تامینی.",
+      "summary_en": "Microsoft earnings provided optimism for the AI trade, as did the trading activity surrounding a hedge fund’s fire sale.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-may-have-bottomed-out-what-investors-should-watch-for-next-bda034c5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 18:29:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-49575236",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "09c1aa5cd4861fe880e47c2d0a080a9b",
       "title": "ایتالیا شنگن با اسپانیا را به دلیل بحران مهاجران سئوتا به حالت تعلیق درآورد، مرزهای هوایی و دریایی را بست",
       "title_fa": "ایتالیا شنگن با اسپانیا را به دلیل بحران مهاجران سئوتا به حالت تعلیق درآورد، مرزهای هوایی و دریایی را بست",
@@ -72049,6 +72427,111 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a056ff79f87ca306783fa4202e5055b6",
+      "title": "کارگزار فین‌تک Clear Street به سرمایه‌گذاران قبل از IPO دسترسی به Databricks غول‌پیکر 188 میلیارد دلاری را ارائه می‌کند.",
+      "title_fa": "کارگزار فین‌تک Clear Street به سرمایه‌گذاران قبل از IPO دسترسی به Databricks غول‌پیکر 188 میلیارد دلاری را ارائه می‌کند.",
+      "title_en": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "summary": "کارگزاری فین‌تک Clear Street در حال راه‌اندازی یک پلتفرم بازارهای خصوصی است که با سهام Databricks شروع می‌شود تا به سرمایه‌گذاران دسترسی بیشتری به استارت‌آپ‌های مرحله آخر بدهد.",
+      "summary_fa": "کارگزاری فین‌تک Clear Street در حال راه‌اندازی یک پلتفرم بازارهای خصوصی است که با سهام Databricks شروع می‌شود تا به سرمایه‌گذاران دسترسی بیشتری به استارت‌آپ‌های مرحله آخر بدهد.",
+      "summary_en": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
+      "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 18:20:01 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d738c3f51d79ddd8042603b6653925d",
+      "title": "تجزیه و تحلیل: بازارها صدای کوین وارش را شنیدند. سخنان خود رئیس فدرال رزرو حاکی از افزایش نرخ بهره است",
+      "title_fa": "تجزیه و تحلیل: بازارها صدای کوین وارش را شنیدند. سخنان خود رئیس فدرال رزرو حاکی از افزایش نرخ بهره است",
+      "title_en": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
+      "summary": "سرمایه‌گذاران کنفرانس مطبوعاتی وارش را غیرعادی می‌دانستند، اما مطالعه دقیق‌تر اظهارات آماده‌شده رئیس فدرال رزرو نشان می‌دهد که او ممکن است به افزایش نرخ‌های بهره نزدیک باشد.",
+      "summary_fa": "سرمایه‌گذاران کنفرانس مطبوعاتی وارش را غیرعادی می‌دانستند، اما مطالعه دقیق‌تر اظهارات آماده‌شده رئیس فدرال رزرو نشان می‌دهد که او ممکن است به افزایش نرخ‌های بهره نزدیک باشد.",
+      "summary_en": "Investors saw Warsh’s press conference as dovish, but a closer reading of the Fed chair's prepared remarks suggests he may be close to raising interest rates.",
+      "link": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 18:16:18 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6689addde041d23f0482249e17068a6",
+      "title": "محققان چینی هوش مصنوعی در حال یافتن صدای خود در X هستند",
+      "title_fa": "محققان چینی هوش مصنوعی در حال یافتن صدای خود در X هستند",
+      "title_en": "Chinese AI Researchers Are Finding Their Voice on X",
+      "summary": "همانطور که کارکنان OpenAI و Anthropic در فضای آنلاین ساکت‌تر می‌شوند، محققان در آزمایشگاه‌های هوش مصنوعی چینی به سمت X می‌روند تا کار خود را توضیح دهند، استعدادها را جذب کنند و مکالمه جهانی در مورد هوش مصنوعی را شکل دهند.",
+      "summary_fa": "همانطور که کارکنان OpenAI و Anthropic در فضای آنلاین ساکت‌تر می‌شوند، محققان در آزمایشگاه‌های هوش مصنوعی چینی به سمت X می‌روند تا کار خود را توضیح دهند، استعدادها را جذب کنند و مکالمه جهانی در مورد هوش مصنوعی را شکل دهند.",
+      "summary_en": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 18:14:43 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "70a54eae6d7ed6c5dd38bb8065737ac1",
+      "title": "دبیرستان از سکوت دفاع می کند در حالی که پسران 59 همکلاسی خود را با هوش مصنوعی برهنه می کنند",
+      "title_fa": "دبیرستان از سکوت دفاع می کند در حالی که پسران 59 همکلاسی خود را با هوش مصنوعی برهنه می کنند",
+      "title_en": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "summary": "شکاف در قوانین ممکن است به دبیرستان پنسیلوانیا کمک کند تا از رسوایی برهنگی هوش مصنوعی فرار کند.",
+      "summary_fa": "شکاف در قوانین ممکن است به دبیرستان پنسیلوانیا کمک کند تا از رسوایی برهنگی هوش مصنوعی فرار کند.",
+      "summary_en": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 18:11:55 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2150797132-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e17fbe33a88380f232c25a12bc4f3346",
+      "title": "وکیل سوری در یک محاکمه تاریخی با مقام سابق اسد روبرو می شود",
+      "title_fa": "وکیل سوری در یک محاکمه تاریخی با مقام سابق اسد روبرو می شود",
+      "title_en": "Syrian lawyer takes on ex-Assad official in landmark trial",
+      "summary": "وکیل سوری در یک محاکمه تاریخی با مقام سابق اسد روبرو می شود",
+      "summary_fa": "وکیل سوری در یک محاکمه تاریخی با مقام سابق اسد روبرو می شود",
+      "summary_en": "Syrian lawyer takes on ex-Assad official in landmark trial",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 18:11:15 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -78627,6 +79110,27 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "419044033f7772b0cbb0200813c7e710",
+      "title": "آیا Wetherspoons برای رشد در انگلستان با هزینه بالا بسیار ارزان است؟",
+      "title_fa": "آیا Wetherspoons برای رشد در انگلستان با هزینه بالا بسیار ارزان است؟",
+      "title_en": "Is Wetherspoons too cheap to thrive in high-cost UK?",
+      "summary": "مدل قیمت‌گذاری تخفیف‌دهنده‌ای که امپراتوری میخانه‌های تیم مارتین را پایه‌گذاری کرده است، تحت فشار فزاینده‌ای قرار دارد.",
+      "summary_fa": "مدل قیمت‌گذاری تخفیف‌دهنده‌ای که امپراتوری میخانه‌های تیم مارتین را پایه‌گذاری کرده است، تحت فشار فزاینده‌ای قرار دارد.",
+      "summary_en": "Discounting pricing model that has underpinned Tim Martin’s pub empire is under increasing strain",
+      "link": "https://www.ft.com/content/18a12375-2370-4ccd-8e81-528fcb9ac33b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 04:00:07 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d2ddc9f-eca2-43ac-ba8a-9d8657161192.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -89235,6 +89739,90 @@
       }
     },
     {
+      "id": "6f4ac7e31164abc03ce13cebde9bd751",
+      "title": "AirTag های جدید اپل به بهترین قیمت خود بازگشته اند",
+      "title_fa": "AirTag های جدید اپل به بهترین قیمت خود بازگشته اند",
+      "title_en": "Apple’s new AirTags are back down to their best price",
+      "summary": "ما در اوایل این هفته تعداد زیادی در ردیاب‌های Tile مشاهده کردیم که هنوز فعال هستند، اما اگر صاحب آیفون هستید، ما در نهایت آخرین AirTag اپل را توصیه می‌کنیم. در حال حاضر، می‌توانید یک بسته چهارتایی را با قیمت ۸۹ دلار (۱۰ دلار تخفیف) در آمازون و تارگت خریداری کنید، که با قیمت پایین بسته همخوانی دارد. اگر عضو هستید، Costco همچنین […]",
+      "summary_fa": "ما در اوایل این هفته تعداد زیادی در ردیاب‌های Tile مشاهده کردیم که هنوز فعال هستند، اما اگر صاحب آیفون هستید، ما در نهایت آخرین AirTag اپل را توصیه می‌کنیم. در حال حاضر، می‌توانید یک بسته چهارتایی را با قیمت ۸۹ دلار (۱۰ دلار تخفیف) در آمازون و تارگت خریداری کنید، که با قیمت پایین بسته همخوانی دارد. اگر عضو هستید، Costco همچنین […]",
+      "summary_en": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has […]",
+      "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-31T15:35:45-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad2b3a6bed904f81ebfc14590f644575",
+      "title": "ابزار دیپ فیک هوش مصنوعی گوگل ارث تنها یک روز دوام آورد",
+      "title_fa": "ابزار دیپ فیک هوش مصنوعی گوگل ارث تنها یک روز دوام آورد",
+      "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "summary": "گوگل قابلیت Google Earth را که روز پنجشنبه راه اندازی کرده بود را تعطیل کرد و به کاربران اجازه می داد تصاویر ماهواره ای را با پیام های متنی با استفاده از هوش مصنوعی ویرایش کنند. این ابزار اساساً به کاربران اجازه می‌دهد تا با استفاده از پیام‌های متنی، دیپ‌فیک‌های AI از دنیای واقعی ایجاد کنند. به عنوان مثال، هنک ون اس از Digital Digging، عمداً تصاویری ایجاد کرد و مواردی مانند پناهندگان در نزدیکی مرز مکزیک را اضافه کرد.",
+      "summary_fa": "گوگل قابلیت Google Earth را که روز پنجشنبه راه اندازی کرده بود را تعطیل کرد و به کاربران اجازه می داد تصاویر ماهواره ای را با پیام های متنی با استفاده از هوش مصنوعی ویرایش کنند. این ابزار اساساً به کاربران اجازه می‌دهد تا با استفاده از پیام‌های متنی، دیپ‌فیک‌های AI از دنیای واقعی ایجاد کنند. به عنوان مثال، هنک ون اس از Digital Digging، عمداً تصاویری ایجاد کرد و مواردی مانند پناهندگان در نزدیکی مرز مکزیک را اضافه کرد.",
+      "summary_en": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
+      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge",
+      "published_at": "2026-07-31T15:13:29-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c823480fd0f217d0b5dcd49c740e114",
+      "title": "NHTSA در حال بررسی 1.2 میلیون خودروی تسلا در مورد گزارشات خرابی سیستم تعلیق است",
+      "title_fa": "NHTSA در حال بررسی 1.2 میلیون خودروی تسلا در مورد گزارشات خرابی سیستم تعلیق است",
+      "title_en": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+      "summary": "اداره ملی ایمنی ترافیک بزرگراه (NHTSA) پس از دریافت شکایاتی در مورد نقص سیستم تعلیق که می تواند باعث \"از دست دادن کنترل جهت خودرو\" شود، تقریباً 1.2 میلیون خودروی تسلا را بررسی می کند. طبق یک پرونده از دفتر NHTSA، تحقیقات اولیه شامل مدل 3 2018-2020 و مدل Y 2021-2023 است.",
+      "summary_fa": "اداره ملی ایمنی ترافیک بزرگراه (NHTSA) پس از دریافت شکایاتی در مورد نقص سیستم تعلیق که می تواند باعث \"از دست دادن کنترل جهت خودرو\" شود، تقریباً 1.2 میلیون خودروی تسلا را بررسی می کند. طبق یک پرونده از دفتر NHTSA، تحقیقات اولیه شامل مدل 3 2018-2020 و مدل Y 2021-2023 است.",
+      "summary_en": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation includes the 2018-2020 Model 3 and 2021-2023 Model Y, according to a filing from the NHTSA's Office […]",
+      "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "source": "The Verge",
+      "published_at": "2026-07-31T14:33:39-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17b7cf1060cf160c84e14f016b6dad93",
+      "title": "گوگل ممکن است یک \"Pixel Tag\" راه اندازی کند",
+      "title_fa": "گوگل ممکن است یک \"Pixel Tag\" راه اندازی کند",
+      "title_en": "Google might launch a ‘Pixel Tag’",
+      "summary": "ظاهرا گوگل در حال کار بر روی ردیاب آیتمی است که ممکن است با AirTag اپل رقابت کند. 9to5Google تصویری از چیزی به نام \"Google Pixel Tag\" به دست آورد که شکل بیضی کوچکی دارد. این نشریه همچنین به فهرست فروشگاه اسلوونیایی درباره Pixel Tag پیوند داد که این ابزار را به عنوان یک ردیاب آیتم با بلندگو توصیف می‌کند.",
+      "summary_fa": "ظاهرا گوگل در حال کار بر روی ردیاب آیتمی است که ممکن است با AirTag اپل رقابت کند. 9to5Google تصویری از چیزی به نام \"Google Pixel Tag\" به دست آورد که شکل بیضی کوچکی دارد. این نشریه همچنین به فهرست فروشگاه اسلوونیایی درباره Pixel Tag پیوند داد که این ابزار را به عنوان یک ردیاب آیتم با بلندگو توصیف می‌کند.",
+      "summary_en": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes the gadget as an item tracker with a speaker […]",
+      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "source": "The Verge",
+      "published_at": "2026-07-31T14:27:24-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e78138ee52d59c8b5369e55e1f4cceb4",
       "title": "ممنوعیت جاروبرقی ربات ها آنها را ایمن تر نمی کند، بلکه بدتر می کند",
       "title_fa": "ممنوعیت جاروبرقی ربات ها آنها را ایمن تر نمی کند، بلکه بدتر می کند",
@@ -89457,6 +90045,27 @@
       "published_at": "2026-07-31T06:40:54-04:00",
       "date_iso": "2026-07-31",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d9cd4614a55619970f7e8a111688efc1",
+      "title": "مطالعات مدل سازی پیش بینی می کند که دانشمندانی که از LLM استفاده می کنند \"بیشتر، کمتر خوب عمل خواهند کرد\".",
+      "title_fa": "مطالعات مدل سازی پیش بینی می کند که دانشمندانی که از LLM استفاده می کنند \"بیشتر، کمتر خوب عمل خواهند کرد\".",
+      "title_en": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+      "summary": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02397-5تحقیق نشان می‌دهد که ترکیب انگیزه‌ها برای انتشار و استفاده از مدل‌های زبانی بزرگ منجر به مقالات بیشتر می‌شود، اما آنها کمتر پالایش می‌شوند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02397-5تحقیق نشان می‌دهد که ترکیب انگیزه‌ها برای انتشار و استفاده از مدل‌های زبانی بزرگ منجر به مقالات بیشتر می‌شود، اما آنها کمتر پالایش می‌شوند.",
+      "summary_en": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.",
+      "link": "https://www.nature.com/articles/d41586-026-02397-5",
+      "source": "Nature",
+      "published_at": "2026-07-31 19:58",
+      "date_iso": "2026-07-31",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
