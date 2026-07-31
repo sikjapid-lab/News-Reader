@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 07:41:47",
-  "total_count": 4310,
+  "last_update": "2026-07-31 10:19:51",
+  "total_count": 4375,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32957,6 +32957,27 @@
       }
     },
     {
+      "id": "4b6639b70611dbc996ce839b4cb1ce44",
+      "title": "مدیر عامل Reddit می گوید مرورهای هوش مصنوعی گوگل نمی تواند جایگزین «10 پیوند آبی» برای ترافیک ارجاع شود.",
+      "title_fa": "مدیر عامل Reddit می گوید مرورهای هوش مصنوعی گوگل نمی تواند جایگزین «10 پیوند آبی» برای ترافیک ارجاع شود.",
+      "title_en": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+      "summary": "استیو هافمن، مدیر عامل ردیت، گفت که شرکت او باید راه‌هایی برای دور زدن تغییرات در گوگل بیابد که ترافیک کمتری نسبت به گذشته ارائه می‌دهد.",
+      "summary_fa": "استیو هافمن، مدیر عامل ردیت، گفت که شرکت او باید راه‌هایی برای دور زدن تغییرات در گوگل بیابد که ترافیک کمتری نسبت به گذشته ارائه می‌دهد.",
+      "summary_en": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+      "link": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:53:05 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8b69ea4328c2ae37966751bc1e32704c",
       "title": "مخابرات دولتی اندونزی گفته است که فروش بازوی مخاطره‌آمیز را با مدیریت 830 میلیون دلار ارزیابی می‌کند",
       "title_fa": "مخابرات دولتی اندونزی گفته است که فروش بازوی مخاطره‌آمیز را با مدیریت 830 میلیون دلار ارزیابی می‌کند",
@@ -32996,6 +33017,48 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "027d6f09c60cf1abaafd34e1d6e02cf3",
+      "title": "آمازون بازپرداخت 600 میلیون دلاری تعرفه ترامپ را دریافت کرد و به برخی از مشتریان بازپرداخت خواهد کرد",
+      "title_fa": "آمازون بازپرداخت 600 میلیون دلاری تعرفه ترامپ را دریافت کرد و به برخی از مشتریان بازپرداخت خواهد کرد",
+      "title_en": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
+      "summary": "این شرکت قبلاً فاش نکرده بود که آیا پس از اینکه دادگاه عالی اعلام کرد بسیاری از عوارض دونالد ترامپ رئیس جمهور آمریکا غیرقانونی است، هزینه های تعرفه را جبران خواهد کرد یا خیر.",
+      "summary_fa": "این شرکت قبلاً فاش نکرده بود که آیا پس از اینکه دادگاه عالی اعلام کرد بسیاری از عوارض دونالد ترامپ رئیس جمهور آمریکا غیرقانونی است، هزینه های تعرفه را جبران خواهد کرد یا خیر.",
+      "summary_en": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+      "link": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:46:47 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f710679795add1bb1b316caa5e65ea28",
+      "title": "مدیرعامل آی‌بی‌ام می‌گوید محاسبات کوانتومی تا سال 2028 یا 2029 تأثیر قابل‌اندازه‌گیری بر درآمد خواهد داشت.",
+      "title_fa": "مدیرعامل آی‌بی‌ام می‌گوید محاسبات کوانتومی تا سال 2028 یا 2029 تأثیر قابل‌اندازه‌گیری بر درآمد خواهد داشت.",
+      "title_en": "IBM CEO says quantum computing will have a 'measurable impact' on earnings by 2028 or 2029",
+      "summary": "آرویند کریشنا، مدیرعامل آی‌بی‌ام گفت: سرمایه‌گذاری‌های این شرکت در محاسبات کوانتومی باید تا سال 2028 یا 2029 \"تاثیری قابل اندازه‌گیری\" بر درآمد و درآمد داشته باشد.",
+      "summary_fa": "آرویند کریشنا، مدیرعامل آی‌بی‌ام گفت: سرمایه‌گذاری‌های این شرکت در محاسبات کوانتومی باید تا سال 2028 یا 2029 \"تاثیری قابل اندازه‌گیری\" بر درآمد و درآمد داشته باشد.",
+      "summary_en": "IBM CEO Arvind Krishna said the company's investments in quantum computing should begin to have \"a measurable impact\" on revenue and earnings by 2028 or 2029.",
+      "link": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
+      "source": "CNBC",
+      "published_at": "Thu, 30 Jul 2026 22:46:32 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -37819,6 +37882,27 @@
       "source": "The Guardian",
       "published_at": "Thu, 30 Jul 2026 12:46:50 GMT",
       "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8a229e914e527ca2c03aa7e248aa1ddf24ea0d3e/278_50_4532_3627/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=f7b778364626fbe621844285510d4071",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a5ccfdb5169a35bd0f763bc3157c9f4",
+      "title": "مرگ 15 فیل در کنیا ممکن است به دلیل مسمومیت با سیانید باشد",
+      "title_fa": "مرگ 15 فیل در کنیا ممکن است به دلیل مسمومیت با سیانید باشد",
+      "title_en": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+      "summary": "سرویس حیات وحش کنیا می گوید: تجزیه و تحلیل نمونه های جمع آوری شده از لاشه ها ردپای ترکیب شیمیایی سمی پیدا کرده است. سرویس حیات وحش کنیا (KWS) گفت: مرگ اخیر 15 فیل در نزدیکی پارکی در جنوب کنیا احتمالاً ناشی از خوردن آفت کش های مورد استفاده در مزارع گوجه فرنگی بوده است. لاشه‌ها آثاری از سیانور پیدا کرده بودند، یک ترکیب شیمیایی که در کشاورزی به عنوان سم کنترل شکارچیان و یک ماده بخور آفات مورد استفاده قرار می‌گیرد، که توسط شکارچیان نیز استفاده می‌شود. ادامه مطلب...",
+      "summary_fa": "سرویس حیات وحش کنیا می گوید: تجزیه و تحلیل نمونه های جمع آوری شده از لاشه ها ردپای ترکیب شیمیایی سمی پیدا کرده است. سرویس حیات وحش کنیا (KWS) گفت: مرگ اخیر 15 فیل در نزدیکی پارکی در جنوب کنیا احتمالاً ناشی از خوردن آفت کش های مورد استفاده در مزارع گوجه فرنگی بوده است. لاشه‌ها آثاری از سیانور پیدا کرده بودند، یک ترکیب شیمیایی که در کشاورزی به عنوان سم کنترل شکارچیان و یک ماده بخور آفات مورد استفاده قرار می‌گیرد، که توسط شکارچیان نیز استفاده می‌شود. ادامه مطلب...",
+      "summary_en": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used on tomato farms, the Kenya Wildlife Service (KWS) has said.Erustus Kanga, the agency’s director general, told Citizen TV that analysis of samples collected from the carcasses had found traces of cyanide, a chemical compound used in farming as a predator control poison and a pest fumigant, which has also been used by poachers. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+      "source": "The Guardian",
+      "published_at": "Thu, 30 Jul 2026 12:46:50 GMT",
+      "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/8a229e914e527ca2c03aa7e248aa1ddf24ea0d3e/278_50_4532_3627/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=f7b778364626fbe621844285510d4071",
@@ -71868,6 +71952,741 @@
       }
     },
     {
+      "id": "c07d4e682c21314c20c652dd944165eb",
+      "title": "ادعاهای نادرست در مورد کاهش بودجه و مزارع خورشیدی در اسپانیا در طول آتش سوزی گسترده شد",
+      "title_fa": "ادعاهای نادرست در مورد کاهش بودجه و مزارع خورشیدی در اسپانیا در طول آتش سوزی گسترده شد",
+      "title_en": "False claims about funding cuts and solar farms spread in Spain during wildfires",
+      "summary": "صفحه اول روزنامه ساختگی و پست های گمراه کننده درباره مزارع خورشیدی از جمله ادعاهایی است که در طول فصل آتش سوزی ویرانگر اسپانیا منتشر می شود.",
+      "summary_fa": "صفحه اول روزنامه ساختگی و پست های گمراه کننده درباره مزارع خورشیدی از جمله ادعاهایی است که در طول فصل آتش سوزی ویرانگر اسپانیا منتشر می شود.",
+      "summary_en": "A fabricated newspaper front page and misleading posts about solar farms are among the claims circulating during Spain’s devastating wildfire season.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/false-claims-about-funding-cuts-and-solar-farms-spread-in-spain-during-wildfires",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 12:05:45 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5d0ad19f1c54217a9fa42d7510ed710f",
+      "title": "آماده باشید، فقط واکنش نشان ندهید: مشاوران اتحادیه اروپا پس از 16000 مرگ بیش از حد به دلیل موج گرما هشدار دادند",
+      "title_fa": "آماده باشید، فقط واکنش نشان ندهید: مشاوران اتحادیه اروپا پس از 16000 مرگ بیش از حد به دلیل موج گرما هشدار دادند",
+      "title_en": "Prepare, don't just react: EU advisers warn after 16,000 excess deaths due to heatwaves",
+      "summary": "از آنجایی که اروپا بیش از 16000 مرگ و میر بیش از حد به دلیل افزایش دما در تابستان امسال دارد، کمیته امنیت بهداشت اتحادیه اروپا خواستار تغییری اساسی در نحوه آماده‌سازی دولت‌ها برای موج گرما است - دور شدن از واکنش به شرایط اضطراری به سمت برنامه‌ریزی منظم و بلندمدت.",
+      "summary_fa": "از آنجایی که اروپا بیش از 16000 مرگ و میر بیش از حد به دلیل افزایش دما در تابستان امسال دارد، کمیته امنیت بهداشت اتحادیه اروپا خواستار تغییری اساسی در نحوه آماده‌سازی دولت‌ها برای موج گرما است - دور شدن از واکنش به شرایط اضطراری به سمت برنامه‌ریزی منظم و بلندمدت.",
+      "summary_en": "As Europe counts over 16,000 excess deaths due to this summer’s soaring temperatures, the European Union’s health security committee is calling for a fundamental shift in how governments prepare for heatwaves — moving away from reacting to emergencies towards systematic, long-term planning.",
+      "link": "http://www.euronews.com/health/2026/07/31/prepare-dont-just-react-eu-advisers-warn-after-16000-excess-deaths-due-to-heatwaves",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:58:41 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "2c4a8eff974fa0a87de4a8f700f91678",
+      "title": "کوهنورد مشهور نپالی، نیرمال پورجا، در میان کوهنوردان مفقود شده پس از سقوط بهمن در برود پیک",
+      "title_fa": "کوهنورد مشهور نپالی، نیرمال پورجا، در میان کوهنوردان مفقود شده پس از سقوط بهمن در برود پیک",
+      "title_en": "Renowned Nepali mountaineer Nirmal Purja among missing climbers after avalanche on Broad Peak",
+      "summary": "نیرمال پورجا از نپال، که اکسپدیدیتی متشکل از 10 کوهنورد را رهبری می کرد، در سال 2019 رکورد جهانی را به نام خود ثبت کرد و اولین کسی شد که توانسته است تمام 14 قله مرتفع جهان را که از مرز 8000 متر فراتر رفته است، تنها در 189 روز صعود کند.",
+      "summary_fa": "نیرمال پورجا از نپال، که اکسپدیدیتی متشکل از 10 کوهنورد را رهبری می کرد، در سال 2019 رکورد جهانی را به نام خود ثبت کرد و اولین کسی شد که توانسته است تمام 14 قله مرتفع جهان را که از مرز 8000 متر فراتر رفته است، تنها در 189 روز صعود کند.",
+      "summary_en": "Nepal’s Nirmal Purja, who led the expedition of 10 climbers, set a world record in 2019, becoming the first person ever to climb all 14 of the world’s highest peaks surpassing the 8,000 metre mark, in just 189 days.",
+      "link": "http://www.euronews.com/2026/07/31/renowned-nepali-mountaineer-nirmal-purja-among-missing-climbers-after-avalanche-on-broad-p",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:56:49 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "27a9b618e2d02a41443fd4c59440b6f1",
+      "title": "چگونه «ویزای درب» یونان به بازدیدکنندگان ترک ورود آسان‌تری به جزایر اتحادیه اروپا می‌دهد",
+      "title_fa": "چگونه «ویزای درب» یونان به بازدیدکنندگان ترک ورود آسان‌تری به جزایر اتحادیه اروپا می‌دهد",
+      "title_en": "How Greece’s ‘door visa’ gives Turkish visitors easier entry to islands in the EU",
+      "summary": "طرح ویزای هنگام ورود که در سال 2024 راه اندازی شد، 12 جزیره یونانی در دریای اژه را پوشش می دهد. نزدیک به 1.5 میلیون ترک در سال 2025 از یونان بازدید کردند که این رقم در سال قبل از آن 1.2 میلیون نفر بود.",
+      "summary_fa": "طرح ویزای هنگام ورود که در سال 2024 راه اندازی شد، 12 جزیره یونانی در دریای اژه را پوشش می دهد. نزدیک به 1.5 میلیون ترک در سال 2025 از یونان بازدید کردند که این رقم در سال قبل از آن 1.2 میلیون نفر بود.",
+      "summary_en": "Launched in 2024, the visa-on-arrival scheme covers 12 Greek islands in the Aegean Sea. Nearly 1.5 million Turks visited Greece in 2025, up from 1.2 million the previous year.",
+      "link": "http://www.euronews.com/travel/2026/07/31/how-greeces-door-visa-gives-turkish-visitors-easier-entry-to-islands-in-the-eu",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:46:33 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0bb58624f4d76f64166f46ffea8f5507",
+      "title": "مجسمه‌های غول‌پیکر واقعی، هنر را به جمعیت شیکاگو نزدیک‌تر می‌کنند",
+      "title_fa": "مجسمه‌های غول‌پیکر واقعی، هنر را به جمعیت شیکاگو نزدیک‌تر می‌کنند",
+      "title_en": "Giant lifelike sculptures bring art closer to Chicago crowds",
+      "summary": "مجسمه‌های فراواقع‌گرایانه کارول فوئرمن، مایل باشکوه شیکاگو را به یک گالری در فضای باز تبدیل می‌کند و بازدیدکنندگان را به تعامل با هنر عمومی دعوت می‌کند.",
+      "summary_fa": "مجسمه‌های فراواقع‌گرایانه کارول فوئرمن، مایل باشکوه شیکاگو را به یک گالری در فضای باز تبدیل می‌کند و بازدیدکنندگان را به تعامل با هنر عمومی دعوت می‌کند.",
+      "summary_en": "Carole Feuerman's hyperrealistic sculptures transform Chicago's Magnificent Mile into an open-air gallery, inviting visitors to interact with public art.",
+      "link": "http://www.euronews.com/video/2026/07/31/giant-lifelike-sculptures-bring-art-closer-to-chicago-crowds",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:45:25 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a15d8ade7270cd516fb30b577fe30376",
+      "title": "تورم منطقه یورو به 2.9 درصد رسید: کدام کشورها بیشترین افزایش را داشته اند؟",
+      "title_fa": "تورم منطقه یورو به 2.9 درصد رسید: کدام کشورها بیشترین افزایش را داشته اند؟",
+      "title_en": "Eurozone inflation hits 2.9%: Which countries saw the biggest increases?",
+      "summary": "تورم منطقه یورو در ماه ژوئیه به 2.9 درصد افزایش یافت، اما فشار قیمت ها به طور گسترده در کشورهای عضو متفاوت بود. در اینجا تورم شتاب گرفت، کاهش یافت و بازارها چگونه واکنش نشان دادند.",
+      "summary_fa": "تورم منطقه یورو در ماه ژوئیه به 2.9 درصد افزایش یافت، اما فشار قیمت ها به طور گسترده در کشورهای عضو متفاوت بود. در اینجا تورم شتاب گرفت، کاهش یافت و بازارها چگونه واکنش نشان دادند.",
+      "summary_en": "Eurozone inflation rose to 2.9% in July, but price pressures varied widely across member states. Here's where inflation accelerated, eased and how markets reacted.",
+      "link": "http://www.euronews.com/business/2026/07/31/eurozone-inflation-hits-29-which-countries-saw-the-biggest-increases",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:41:59 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c2a3ccb98e6068389217bcae62d424b",
+      "title": "رافائله فیتو در نیکوزیا: اتحادیه اروپا به دنبال نقش کلیدی در مذاکرات قبرس است",
+      "title_fa": "رافائله فیتو در نیکوزیا: اتحادیه اروپا به دنبال نقش کلیدی در مذاکرات قبرس است",
+      "title_en": "Raffaele Fitto in Nicosia: EU seeks key role in Cyprus talks",
+      "summary": "چند روز پس از سفر آنتونیو گوترش، دبیر کل سازمان ملل متحد، فرستاده ویژه کمیسیون اروپا در قبرس برای گفت و گو با رئیس جمهور قبرس و رهبر ترک قبرس در قبرس به سر می برد.",
+      "summary_fa": "چند روز پس از سفر آنتونیو گوترش، دبیر کل سازمان ملل متحد، فرستاده ویژه کمیسیون اروپا در قبرس برای گفت و گو با رئیس جمهور قبرس و رهبر ترک قبرس در قبرس به سر می برد.",
+      "summary_en": "The European Commission's Special Envoy on the Cyprus issue is in Cyprus for talks with the Cypriot president and the Turkish Cypriot leader, days after UN Secretary-General Antonio Guterres's visit.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/raffaele-fitto-in-nicosia-eu-seeks-key-role-in-cyprus-talks",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:34:21 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "377b708556857ec3e1e459f895323890",
+      "title": "خشکسالی دانوب همه چیز را از غرق شدن کشتی گرفته تا پرتابه های چند صد ساله را در معرض دید قرار می دهد",
+      "title_fa": "خشکسالی دانوب همه چیز را از غرق شدن کشتی گرفته تا پرتابه های چند صد ساله را در معرض دید قرار می دهد",
+      "title_en": "Danube drought exposes everything from shipwrecks to centuries-old projectiles",
+      "summary": "کارشناسان موزه ماتیاس کوروینوس در ویسگراد هنوز باید این توپ سنگی را بررسی کنند تا تأیید کنند که آیا این یک پرتابه منجنیق است یا خیر، اما می تواند یک کشف تاریخی باشد.",
+      "summary_fa": "کارشناسان موزه ماتیاس کوروینوس در ویسگراد هنوز باید این توپ سنگی را بررسی کنند تا تأیید کنند که آیا این یک پرتابه منجنیق است یا خیر، اما می تواند یک کشف تاریخی باشد.",
+      "summary_en": "Experts at the Matthias Corvinus Museum in Visegrád must still examine the stone ball to confirm if it is a catapult projectile, but it could well be a historic find.",
+      "link": "http://www.euronews.com/2026/07/31/danube-drought-exposes-everything-from-shipwrecks-to-centuries-old-projectiles",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:31:31 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cafdacf6a4ea781780080309c793d537",
+      "title": "پشت آتش سوزی های بزرگ اروپا: اگر تغییرات آب و هوایی نبود، آیا فرانسه و اسپانیا همچنان در آتش می سوختند؟",
+      "title_fa": "پشت آتش سوزی های بزرگ اروپا: اگر تغییرات آب و هوایی نبود، آیا فرانسه و اسپانیا همچنان در آتش می سوختند؟",
+      "title_en": "Behind Europe’s mega fires: Would France and Spain still be ablaze if it weren’t for climate change?",
+      "summary": "تحلیل‌های جدید نشان می‌دهد که تغییرات آب‌وهوایی شرایط آتش‌سوزی اخیر را حداقل دو برابر بیشتر در جنوب غربی فرانسه و حداقل ۲۰ برابر در مرکز اسپانیا ایجاد کرده است.",
+      "summary_fa": "تحلیل‌های جدید نشان می‌دهد که تغییرات آب‌وهوایی شرایط آتش‌سوزی اخیر را حداقل دو برابر بیشتر در جنوب غربی فرانسه و حداقل ۲۰ برابر در مرکز اسپانیا ایجاد کرده است.",
+      "summary_en": "Climate change made recent fire-prone conditions at least twice as likely in southwestern France and at least 20 times as likely in central Spain, new analysis shows.",
+      "link": "http://www.euronews.com/2026/07/31/behind-europes-mega-fires-would-france-and-spain-still-be-ablaze-if-it-werent-for-climate-",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:11:07 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "833e16e44fd0063b0cb150d9602c902d",
+      "title": "خداحافظ فرانکو بارسی: میلان برای یک نماد سوگوار است، فوتبال جهان یک اسطوره را از دست می دهد",
+      "title_fa": "خداحافظ فرانکو بارسی: میلان برای یک نماد سوگوار است، فوتبال جهان یک اسطوره را از دست می دهد",
+      "title_en": "Farewell Franco Baresi: Milan mourns an icon, world football loses a legend",
+      "summary": "فرانکو بارسی، کاپیتان افسانه ای میلان و ایتالیا، که در سن 66 سالگی درگذشت، میراث منحصر به فردی از جام ها، عناوین و سابقه دفاع از رنگ های قرمز و سیاه نمادین باشگاه را برای بیش از دو دهه از خود به جای گذاشت.",
+      "summary_fa": "فرانکو بارسی، کاپیتان افسانه ای میلان و ایتالیا، که در سن 66 سالگی درگذشت، میراث منحصر به فردی از جام ها، عناوین و سابقه دفاع از رنگ های قرمز و سیاه نمادین باشگاه را برای بیش از دو دهه از خود به جای گذاشت.",
+      "summary_en": "Franco Baresi, the legendary Milan and Italy captain, who's died aged 66, leaves behind a unique legacy of trophies, titles and a record of defending the club's iconic red and black colours for more than two decades.",
+      "link": "http://www.euronews.com/2026/07/31/farewell-franco-baresi-milan-mourns-an-icon-world-football-loses-a-legend",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 11:01:35 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c0d1d3e52a5151b0e95c32f5f0ec5b04",
+      "title": "غول نفتی بریتانیا BP برای فروش تجارت دریای شمال آماده می شود",
+      "title_fa": "غول نفتی بریتانیا BP برای فروش تجارت دریای شمال آماده می شود",
+      "title_en": "British oil giant BP prepares to sell North Sea business",
+      "summary": "در میان مالیات های بادآورده بالاتر و بازارهای بی ثبات جهانی انرژی، فروش پیشنهادی BP می تواند به حدود 60 سال تولید دریای شمال تحت مالکیت غول انرژی بریتانیا پایان دهد.",
+      "summary_fa": "در میان مالیات های بادآورده بالاتر و بازارهای بی ثبات جهانی انرژی، فروش پیشنهادی BP می تواند به حدود 60 سال تولید دریای شمال تحت مالکیت غول انرژی بریتانیا پایان دهد.",
+      "summary_en": "Amid higher windfall taxes and volatile global energy markets, BP's proposed sale could bring an end to around 60 years of North Sea production under the British energy giant’s ownership.",
+      "link": "http://www.euronews.com/business/2026/07/31/british-oil-giant-bp-launches-sale-of-north-sea-business",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 10:48:47 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "77b831fa75a7ea6489931923776cfdbe",
+      "title": "اسپانیا می گوید بیش از 40000 مهاجر طی 24 ساعت گذشته وارد سئوتا شده اند.",
+      "title_fa": "اسپانیا می گوید بیش از 40000 مهاجر طی 24 ساعت گذشته وارد سئوتا شده اند.",
+      "title_en": "More than 40,000 migrants crossed into Ceuta over past 24 hours, Spain says",
+      "summary": "وزارت کشور اسپانیا روز جمعه اعلام کرد که بر اساس برآوردهای این کشور، بیش از 40000 مهاجر طی 24 ساعت گذشته در حالی که از طریق دریا و مورکو از طریق دریا هجوم آورده بودند، وارد منطقه محصور سئوتا در شمال آفریقا شده اند.",
+      "summary_fa": "وزارت کشور اسپانیا روز جمعه اعلام کرد که بر اساس برآوردهای این کشور، بیش از 40000 مهاجر طی 24 ساعت گذشته در حالی که از طریق دریا و مورکو از طریق دریا هجوم آورده بودند، وارد منطقه محصور سئوتا در شمال آفریقا شده اند.",
+      "summary_en": "Spain's ​Interior Ministry ‌said on Friday ​that according to its ⁠estimates ​more than 40,000 migrants had crossed ​into ​the enclave of Ceuta ⁠in North Africa over ​the past 24 hours, as ​they ​rushed ⁠by sea and ⁠land from Morocco.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/more-than-40000-migrants-crossed-into-ceuta-over-past-24-hours-spain-says",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 10:48:02 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36b06960ff3ac32007a306aecaecd0dd",
+      "title": "پروژه هنری سرزمین غول پیکر از اندی برنهام نخست وزیر بریتانیا می خواهد کمک ها را بازگرداند",
+      "title_fa": "پروژه هنری سرزمین غول پیکر از اندی برنهام نخست وزیر بریتانیا می خواهد کمک ها را بازگرداند",
+      "title_en": "Giant land art project urges UK PM Andy Burnham to restore aid",
+      "summary": "کمپینی که از بریتانیا می‌خواهد کمک‌های بشردوستانه را بازگرداند، با یک پرتره هنری برجسته از اندی برنهام، نخست‌وزیر بریتانیا در شمال انگلستان راه‌اندازی شده است.",
+      "summary_fa": "کمپینی که از بریتانیا می‌خواهد کمک‌های بشردوستانه را بازگرداند، با یک پرتره هنری برجسته از اندی برنهام، نخست‌وزیر بریتانیا در شمال انگلستان راه‌اندازی شده است.",
+      "summary_en": "A campaign calling on the UK to restore humanitarian aid has been launched with a striking land art portrait of UK Prime Minister Andy Burnham in northern England.",
+      "link": "http://www.euronews.com/video/2026/07/31/giant-land-art-project-urges-uk-pm-andy-burnham-to-restore-aid",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 10:23:09 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "cfbf5266abc855d33ce7e47e60402928",
+      "title": "کلود هوش مصنوعی Anthropic فرار می کند تا به سه سازمان هک کند",
+      "title_fa": "کلود هوش مصنوعی Anthropic فرار می کند تا به سه سازمان هک کند",
+      "title_en": "Anthropic's Claude AI escapes to hack into three organisations",
+      "summary": "این تنها چند روز پس از آن صورت می‌گیرد که رقیب OpenAI گفت که عوامل سرکش هوش مصنوعی به شبکه‌های شرکت‌های دیگر نفوذ کرده‌اند.",
+      "summary_fa": "این تنها چند روز پس از آن صورت می‌گیرد که رقیب OpenAI گفت که عوامل سرکش هوش مصنوعی به شبکه‌های شرکت‌های دیگر نفوذ کرده‌اند.",
+      "summary_en": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 10:18:54 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d98f226d99588495498e7ad3c3588eb",
+      "title": "به‌روزرسانی‌های زنده: رهبر اسپانیا پس از هجوم هزاران مهاجر به قلمرو به سئوتا می‌رود",
+      "title_fa": "به‌روزرسانی‌های زنده: رهبر اسپانیا پس از هجوم هزاران مهاجر به قلمرو به سئوتا می‌رود",
+      "title_en": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
+      "summary": "نخست وزیر پدرو سانچز قرار بود در بحبوحه تشدید بحران برای دولت حامی مهاجرت خود، وارد سئوتا، یکی از مناطق اسپانیایی در شمال آفریقا شود.",
+      "summary_fa": "نخست وزیر پدرو سانچز قرار بود در بحبوحه تشدید بحران برای دولت حامی مهاجرت خود، وارد سئوتا، یکی از مناطق اسپانیایی در شمال آفریقا شود.",
+      "summary_en": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish exclave in North Africa, amid an escalating crisis for his pro-immigration government.",
+      "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 10:14:45 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-promo-6am-et-wzhm/31europe-migrants-promo-6am-et-wzhm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "1f95097103e0768d2234649c9dacb24c",
+      "title": "قیمت نفت متلاطم است زیرا تردد در تنگه هرمز به حالت عادی باز می گردد",
+      "title_fa": "قیمت نفت متلاطم است زیرا تردد در تنگه هرمز به حالت عادی باز می گردد",
+      "title_en": "Oi prices choppy as recovering Hormuz Strait traffic tempers war premium",
+      "summary": "بانک مشترک المنافع استرالیا روز جمعه در یادداشتی اعلام کرد که جریان قوی تر نفت از طریق تنگه هرمز نگرانی های بازار را پس از حملات آمریکا و ایران در اوایل این هفته کاهش داده است.",
+      "summary_fa": "بانک مشترک المنافع استرالیا روز جمعه در یادداشتی اعلام کرد که جریان قوی تر نفت از طریق تنگه هرمز نگرانی های بازار را پس از حملات آمریکا و ایران در اوایل این هفته کاهش داده است.",
+      "summary_en": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
+      "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 10:14:36 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "434910d9cf22570d35fc6fb5e94e68ed",
+      "title": "فرانسه کنترل های مرزی با اسپانیا را تشدید می کند زیرا تخمین زده می شود 49000 مهاجر وارد سئوتا شوند - اروپا زنده",
+      "title_fa": "فرانسه کنترل های مرزی با اسپانیا را تشدید می کند زیرا تخمین زده می شود 49000 مهاجر وارد سئوتا شوند - اروپا زنده",
+      "title_en": "France to step up border controls with Spain as estimated 49,000 migrants cross into Ceuta – Europe live",
+      "summary": "نخست وزیر سوئد انتظار می رود پدرو سانچز امروز از این منطقه بازدید کند زیرا ایتالیا خواستار تعلیق اسپانیا از منطقه شنگن در میان نگرانی ها در مورد بحران مهاجرتی جدید است. ادامه مطلب...",
+      "summary_fa": "نخست وزیر سوئد انتظار می رود پدرو سانچز امروز از این منطقه بازدید کند زیرا ایتالیا خواستار تعلیق اسپانیا از منطقه شنگن در میان نگرانی ها در مورد بحران مهاجرتی جدید است. ادامه مطلب...",
+      "summary_en": "PM Pedro Sánchez expected to visit territory today as Italy demands Spain be suspended from the Schengen area amid concerns over fresh migration crisisSwedish prime minister Ulf Kristersson is the latest European leader to respond to the events unfolding in Ceuta.In a post on X, he urged Spain to “act swiftly to regain control of the situation and fulfil its commitments within Schengen cooperation.” Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 10:10:42 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/604942f2050bab64888d0c61223543a3d8682d80/443_0_2520_2016/master/2520.jpg?width=140&quality=85&auto=format&fit=max&s=f316cf264c9cd908a2516c256f008f5a",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d772213ce8e1ac37acb0c17a1ec35367",
+      "title": "هجوم رهبر اسپانیا به سئوتا پس از هجوم هزاران مهاجر به آن سوی مرز",
+      "title_fa": "هجوم رهبر اسپانیا به سئوتا پس از هجوم هزاران مهاجر به آن سوی مرز",
+      "title_en": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+      "summary": "نخست وزیر پدرو سانچز قرار بود در بحبوحه تشدید بحران برای دولت حامی مهاجرت خود، وارد سئوتا، قلمرو اسپانیایی در آفریقا شود.",
+      "summary_fa": "نخست وزیر پدرو سانچز قرار بود در بحبوحه تشدید بحران برای دولت حامی مهاجرت خود، وارد سئوتا، قلمرو اسپانیایی در آفریقا شود.",
+      "summary_en": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government.",
+      "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 10:04:53 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "4cf3d98ca677416f181c29bc26275eb0",
+      "title": "خطر گسترش اتحادیه اروپا قربانی موفقیت خود است",
+      "title_fa": "خطر گسترش اتحادیه اروپا قربانی موفقیت خود است",
+      "title_en": "EU's enlargement risks becoming a victim of its own success",
+      "summary": "گسترش اتحادیه اروپا در حال تسریع است، اما بخش مسئول کمیسیون در حال کمبود ظرفیت برای مدیریت مذاکرات با چندین کشور نامزد به طور همزمان است.",
+      "summary_fa": "گسترش اتحادیه اروپا در حال تسریع است، اما بخش مسئول کمیسیون در حال کمبود ظرفیت برای مدیریت مذاکرات با چندین کشور نامزد به طور همزمان است.",
+      "summary_en": "EU enlargement is accelerating, but the Commission's responsible department is running out of capacity to manage negotiations with several candidate countries at once.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/eus-enlargement-risks-becoming-a-victim-of-its-own-success",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 10:03:19 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "66d61b0bc0535114c97528a7d5def83f",
+      "title": "چگونه جنگ ایالات متحده با ایران نابرابری را در آفریقا افزایش می دهد",
+      "title_fa": "چگونه جنگ ایالات متحده با ایران نابرابری را در آفریقا افزایش می دهد",
+      "title_en": "How the U.S. war with Iran is widening inequality in Africa",
+      "summary": "در آنگولا، درگیری باعث افزایش قیمت مواد غذایی، سوخت و کود شده است که این افزایش به شدت توسط فقرا احساس می شود. اما برای افراد ثروتمند و دارای ارتباط خوب، این یک موهبت بوده است.",
+      "summary_fa": "در آنگولا، درگیری باعث افزایش قیمت مواد غذایی، سوخت و کود شده است که این افزایش به شدت توسط فقرا احساس می شود. اما برای افراد ثروتمند و دارای ارتباط خوب، این یک موهبت بوده است.",
+      "summary_en": "In Angola, the conflict has driven up prices for food, fuel and fertilizer, increases felt most acutely by the poor. But for the wealthy and well-connected, it's been a boon.",
+      "link": "https://www.washingtonpost.com/world/interactive/2026/07/31/how-us-war-with-iran-is-widening-inequality-africa/",
+      "source": "Washington Post",
+      "published_at": "Fri, 31 Jul 2026 10:00:01 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c94c0f23dfb9172cd6406b17dc473241",
+      "title": "من 75 ساله هستم و می ترسم اجازه بدهم وجوه بازنشستگی ام به زیر 1 میلیون دلار کاهش یابد. آیا من بیش از حد تهاجمی هستم؟",
+      "title_fa": "من 75 ساله هستم و می ترسم اجازه بدهم وجوه بازنشستگی ام به زیر 1 میلیون دلار کاهش یابد. آیا من بیش از حد تهاجمی هستم؟",
+      "title_en": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too aggressive?",
+      "summary": "خرج کردن دارایی ها پس از یک عمر پس انداز می تواند ناراحت کننده باشد.",
+      "summary_fa": "خرج کردن دارایی ها پس از یک عمر پس انداز می تواند ناراحت کننده باشد.",
+      "summary_en": "Spending down assets can be unsettling after a lifetime of saving.",
+      "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 10:00:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-81342294",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a2702b763babcb14362b29c2383142da",
+      "title": "نشان‌های Defcon جدید یک تراشه منبع باز منحصربفرد را بسته‌بندی می‌کنند که به عنوان یک کلید امنیتی دو برابر می‌شود",
+      "title_fa": "نشان‌های Defcon جدید یک تراشه منبع باز منحصربفرد را بسته‌بندی می‌کنند که به عنوان یک کلید امنیتی دو برابر می‌شود",
+      "title_en": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+      "summary": "این نشان‌ها توسط هکر سخت‌افزاری افسانه‌ای Andrew “bunnie” Huang ایجاد شده‌اند، نشان‌ها برای کنفرانس امنیتی مشهور امسال با هدف پیش‌بردن مرزهای امنیت و شفافیت است.",
+      "summary_fa": "این نشان‌ها توسط هکر سخت‌افزاری افسانه‌ای Andrew “bunnie” Huang ایجاد شده‌اند، نشان‌ها برای کنفرانس امنیتی مشهور امسال با هدف پیش‌بردن مرزهای امنیت و شفافیت است.",
+      "summary_en": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency.",
+      "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 10:00:00 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfd490fc5eecafa2d46eb7ef518be5cc",
+      "title": "اسپانیا می گوید 49000 مهاجر در یک روز وارد منطقه سئوتا شدند",
+      "title_fa": "اسپانیا می گوید 49000 مهاجر در یک روز وارد منطقه سئوتا شدند",
+      "title_en": "Spain says 49,000 migrants entered Ceuta enclave in one day",
+      "summary": "هجوم بی سابقه به قلمرو شمال آفریقا تقریباً پنج برابر بیشتر از زمان اوج بحران مهاجرت اروپا در سال 2015 است.",
+      "summary_fa": "هجوم بی سابقه به قلمرو شمال آفریقا تقریباً پنج برابر بیشتر از زمان اوج بحران مهاجرت اروپا در سال 2015 است.",
+      "summary_en": "Record influx into North African territory is nearly five times higher than at peak of Europe’s 2015 migration crisis",
+      "link": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 09:59:38 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd15011-c117-4d94-8626-0a80c7ccb747.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "49dcaa0937e580a428db93fd4933968a",
+      "title": "انتظار می‌رود با حمله آمریکا به ایران، قیمت بنزین بریتانیا در سال جاری به بالاترین حد خود برسد",
+      "title_fa": "انتظار می‌رود با حمله آمریکا به ایران، قیمت بنزین بریتانیا در سال جاری به بالاترین حد خود برسد",
+      "title_en": "UK petrol prices expected to rise to highest this year as US attacks Iran – business live",
+      "summary": "پوشش زنده و در حال چرخش همانطور که AA می گوید میانگین قیمت بنزین ممکن است به بالای 159.7p در هر لیتر برسد که در ماه می تعیین شده است. داستانی که امروز صبح توجه مطبوعات مالی را برانگیخت، داستان لئوپولد اشنبرنر، واندرکایند هوش مصنوعی (او آلمانی الاصل است) است که پس از رونق هوش مصنوعی در هر 4 سال پس از پایان یافتن رونق هوش مصنوعی مجبور به فروش سرمایه خود شده است. بسیاری از مردم پس از اینکه قبلاً برای OpenAI و FTX Future Fund کار می کرد، بازوی خیریه امپراتوری رمزنگاری متقلبان Sam Bankman-Fried، که اکنون در زندان است، پول زیادی به او بدهند تا یک صندوق تامینی به او بدهند. Aschenbrenner آن پول را در شرط‌بندی‌های مبتنی بر بدهی در شرکت‌های هوش مصنوعی به دست آورد، تا زمانی که متوجه شد که سهام نیز می‌تواند سقوط کند. معامله‌گری که \"نوستراداموس هوش مصنوعی\" نامیده می‌شود، به سختی می‌توانست پیش‌بینی کند که صندوق سرمایه‌گذاری پرهزینه‌اش چقدر سریع دچار مشکل می‌شود. یک سرمایه گذار خوش فکر اما آزمایش نشده که قول داده بود این بار متفاوت باشد. یکی از مدیران قدیمی صندوق تامینی گفت: \"همه همیشه می خواهند فرزند طلایی بعدی را پیدا کنند.\" به گفته فردی آشنا با موضوع که خواست نامش فاش نشود و با استناد به اطلاعات خصوصی، در کمتر از 24 ساعت - که شامل مکالمه ای بین گریفین و اشنبرنر بود - صندوق تامینی Citadel Griffin با Situational Awareness تماس گرفت و سرمایه گذاری ها را با تخفیف خریداری کرد. صندوق سرمایه گذاری تقریباً دو سال پیش - هیچ تجربه سرمایه گذاری قبلی نداشت. شرکت نوپای او شاهد کاهش دارایی های خود از 45 میلیارد دلار در ابتدای جولای به حدود 10 میلیارد دلار بوده است. ادامه مطلب...",
+      "summary_fa": "پوشش زنده و در حال چرخش همانطور که AA می گوید میانگین قیمت بنزین ممکن است به بالای 159.7p در هر لیتر برسد که در ماه می تعیین شده است. داستانی که امروز صبح توجه مطبوعات مالی را برانگیخت، داستان لئوپولد اشنبرنر، واندرکایند هوش مصنوعی (او آلمانی الاصل است) است که پس از رونق هوش مصنوعی در هر 4 سال پس از پایان یافتن رونق هوش مصنوعی مجبور به فروش سرمایه خود شده است. بسیاری از مردم پس از اینکه قبلاً برای OpenAI و FTX Future Fund کار می کرد، بازوی خیریه امپراتوری رمزنگاری متقلبان Sam Bankman-Fried، که اکنون در زندان است، پول زیادی به او بدهند تا یک صندوق تامینی به او بدهند. Aschenbrenner آن پول را در شرط‌بندی‌های مبتنی بر بدهی در شرکت‌های هوش مصنوعی به دست آورد، تا زمانی که متوجه شد که سهام نیز می‌تواند سقوط کند. معامله‌گری که \"نوستراداموس هوش مصنوعی\" نامیده می‌شود، به سختی می‌توانست پیش‌بینی کند که صندوق سرمایه‌گذاری پرهزینه‌اش چقدر سریع دچار مشکل می‌شود. یک سرمایه گذار خوش فکر اما آزمایش نشده که قول داده بود این بار متفاوت باشد. یکی از مدیران قدیمی صندوق تامینی گفت: \"همه همیشه می خواهند فرزند طلایی بعدی را پیدا کنند.\" به گفته فردی آشنا با موضوع که خواست نامش فاش نشود و با استناد به اطلاعات خصوصی، در کمتر از 24 ساعت - که شامل مکالمه ای بین گریفین و اشنبرنر بود - صندوق تامینی Citadel Griffin با Situational Awareness تماس گرفت و سرمایه گذاری ها را با تخفیف خریداری کرد. صندوق سرمایه گذاری تقریباً دو سال پیش - هیچ تجربه سرمایه گذاری قبلی نداشت. شرکت نوپای او شاهد کاهش دارایی های خود از 45 میلیارد دلار در ابتدای جولای به حدود 10 میلیارد دلار بوده است. ادامه مطلب...",
+      "summary_en": "Live, rolling coverage as the AA says average petrol prices could rise above 159.7p per litre mark set in MayThe story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam.The 24-year-old had persuaded a lot of people to give him a lot of money for a hedge fund, after previously working for OpenAI and the FTX Future Fund, a charitable arm of the fraudulent crypto empire of Sam Bankman-Fried, who is now in prison. Aschenbrenner ploughed that money into debt-fuelled bets on artificial intelligence companies, earning huge returns until he found out that stocks can also fall.The trader dubbed the “Nostradamus of AI” would have been hard-pressed to foresee how quickly his high-flying hedge fund would run into trouble.The firm’s rapid downward spiral is a familiar tale, as Silicon Valley and Wall Street once again threw their weight behind a bright-eyed but untested investor who promised this time would be different. “Everybody always wants to find the next golden child,” said one longtime hedge fund executive. “It just keeps happening.”In less than 24 hours — which included a conversation between Griffin and Aschenbrenner — Griffin’s Citadel hedge fund reached out to Situational Awareness and snapped up the investments at a discount, according to a person familiar with the matter who asked not to be identified citing private information.It was a startling reversal for Aschenbrenner, a former researcher at OpenAI who – before starting his hedge fund roughly two years ago — had no previous investment experience. His fledging firm has watched its assets plunge from $45bn at the start of July to about $10bn. Continue reading...",
+      "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 09:57:12 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a45a9ffc4005b1c14c0577d6da65f707c4494773/1367_151_4873_3898/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=dc8447631fb2df125140097c67d0f17c",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "86def5b3583a6aade45e20c419f9f424",
+      "title": "کنفدراسیون فوتبال آسیا از یوفا و کونکاکاف که قصد تحریم پیشنهادات جام جهانی فوتبال را دارند، حمایت می کند",
+      "title_fa": "کنفدراسیون فوتبال آسیا از یوفا و کونکاکاف که قصد تحریم پیشنهادات جام جهانی فوتبال را دارند، حمایت می کند",
+      "title_en": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+      "summary": "فیفا با شورش جهانی روبرو می شود زیرا کنفدراسیون فوتبال آسیا در کنار اروپا و آمریکای شمالی پس از تهدیدهای تحریم آنها ایستاده است.",
+      "summary_fa": "فیفا با شورش جهانی روبرو می شود زیرا کنفدراسیون فوتبال آسیا در کنار اروپا و آمریکای شمالی پس از تهدیدهای تحریم آنها ایستاده است.",
+      "summary_en": "FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 09:52:57 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "6f1402a1e44e6d55ae36c827b270d5da",
+      "title": "4 جسد پیدا شد، 6 کوهنورد پس از سقوط بهمن در برود پیک در پاکستان مفقود شدند",
+      "title_fa": "4 جسد پیدا شد، 6 کوهنورد پس از سقوط بهمن در برود پیک در پاکستان مفقود شدند",
+      "title_en": "4 Bodies Found, 6 Climbers Missing After Avalanche on Broad Peak in Pakistan",
+      "summary": "یک سازمان آلپاین گفت، گروهی که در یکی از بلندترین قله های جهان گرفتار شده بودند، شامل کوهنورد بانفوذ بریتانیایی-نپالی، نیرمال پورجا و یک کوهنورد آمریکایی بود.",
+      "summary_fa": "یک سازمان آلپاین گفت، گروهی که در یکی از بلندترین قله های جهان گرفتار شده بودند، شامل کوهنورد بانفوذ بریتانیایی-نپالی، نیرمال پورجا و یک کوهنورد آمریکایی بود.",
+      "summary_en": "The group caught on one of the world’s highest peaks included the influential British-Nepali mountaineer Nirmal Purja and an American climber, an alpine organization said.",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:51:39 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31xp-avalanche-twkp/31xp-avalanche-twkp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3d4133dd7014a43c811e168804b095bb",
+      "title": "مقامات می گویند حدود 49000 مهاجر وارد خاک اسپانیایی سئوتا شده اند",
+      "title_fa": "مقامات می گویند حدود 49000 مهاجر وارد خاک اسپانیایی سئوتا شده اند",
+      "title_en": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
+      "summary": "تعداد تخمین زده شده بیش از نیمی از جمعیت شهر است که حدود 83600 نفر است.",
+      "summary_fa": "تعداد تخمین زده شده بیش از نیمی از جمعیت شهر است که حدود 83600 نفر است.",
+      "summary_en": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 09:51:38 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1205/live/c66b3870-8cb9-11f1-b49b-bb9fc846a015.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b81f8a7f0c87070e03a6fd57843f5ca0",
+      "title": "کوردیرو، مشاور ارشد اینفانتینو به دلیل برنامه جام جهانی فوتبال استعفا داد.",
+      "title_fa": "کوردیرو، مشاور ارشد اینفانتینو به دلیل برنامه جام جهانی فوتبال استعفا داد.",
+      "title_en": "Infantino’s senior adviser, Cordeiro, resigns over FIFA World Cup plan",
+      "summary": "به دنبال پیشنهاد سرمایه گذاری خصوصی در جام های جهانی، فشار بر فیفا و رئیس آن جیانی اینفانتینو در حال افزایش است.",
+      "summary_fa": "به دنبال پیشنهاد سرمایه گذاری خصوصی در جام های جهانی، فشار بر فیفا و رئیس آن جیانی اینفانتینو در حال افزایش است.",
+      "summary_en": "Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 09:50:41 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c2b0715664bf0b75cd21fe3130134ce0",
+      "title": "غول های تراشه کره جنوبی به تازگی بزرگترین رالی خود را ثبت کرده اند. چه معنایی برای تجارت جهانی هوش مصنوعی دارد.",
+      "title_fa": "غول های تراشه کره جنوبی به تازگی بزرگترین رالی خود را ثبت کرده اند. چه معنایی برای تجارت جهانی هوش مصنوعی دارد.",
+      "title_en": "South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
+      "summary": "کوسپی بهترین روز خود را در روز جمعه دید، زیرا این شاخص به لطف جهش های تاریخی در نام های بزرگ فناوری خود دوباره رشد کرد.",
+      "summary_fa": "کوسپی بهترین روز خود را در روز جمعه دید، زیرا این شاخص به لطف جهش های تاریخی در نام های بزرگ فناوری خود دوباره رشد کرد.",
+      "summary_en": "The Kospi saw its best-ever day on Friday, as the index came roaring back thanks to historical jumps in its big tech names.",
+      "link": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 09:48:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-91578820",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ac9645498346a8ef79860f025391d848",
+      "title": "برچسب های هوش مصنوعی بر اساس قوانین اتحادیه اروپا برای محتوای معتبر اجباری است",
+      "title_fa": "برچسب های هوش مصنوعی بر اساس قوانین اتحادیه اروپا برای محتوای معتبر اجباری است",
+      "title_en": "AI labels to be compulsory on authentic-looking content under EU rules",
+      "summary": "شرکت‌ها باید اطمینان حاصل کنند که مردم هنگام تعامل با تصاویر، صدا و متنی که به‌طور مصنوعی تولید شده‌اند، می‌دانند که واقعی به نظر می‌رسند، از توطئه ظاهراً برای سرقت انتخابات گرفته تا سوء استفاده از کارکنان یا انجام حرکات رقص شرم‌آور، در چند سال گذشته شاهد محتوای جعلی زیادی بوده‌اند که درباره سیاستمداران ساخته شده است که قصد دارند اهداف خود را بد جلوه دهند و افکار عمومی را از یکشنبه شروع کنند. تصاویر، صدا و متنی که به‌طور مصنوعی تولید شده‌اند، باید دارای برچسب باشند. ادامه مطلب...",
+      "summary_fa": "شرکت‌ها باید اطمینان حاصل کنند که مردم هنگام تعامل با تصاویر، صدا و متنی که به‌طور مصنوعی تولید شده‌اند، می‌دانند که واقعی به نظر می‌رسند، از توطئه ظاهراً برای سرقت انتخابات گرفته تا سوء استفاده از کارکنان یا انجام حرکات رقص شرم‌آور، در چند سال گذشته شاهد محتوای جعلی زیادی بوده‌اند که درباره سیاستمداران ساخته شده است که قصد دارند اهداف خود را بد جلوه دهند و افکار عمومی را از یکشنبه شروع کنند. تصاویر، صدا و متنی که به‌طور مصنوعی تولید شده‌اند، باید دارای برچسب باشند. ادامه مطلب...",
+      "summary_en": "Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look realFrom apparently conspiring to steal elections to abusing staff or performing embarrassing dance moves, the last few years have seen plenty of fake content made about politicians intended to malign its targets and mislead the public.Now EU rules aim to stem the flood of this deceptive content: starting from Sunday, artificially generated images, audio and text designed to look authentic must be labelled. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 09:46:28 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b8cbe530f7257c7745e8605a667b3601",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cb947e26e6e3d5b7166bbc2863a3d17f",
+      "title": "دست کم 18 نفر در اثر عبور 49000 نفر از مراکش به قلمرو اسپانیایی سئوتا جان خود را از دست دادند.",
+      "title_fa": "دست کم 18 نفر در اثر عبور 49000 نفر از مراکش به قلمرو اسپانیایی سئوتا جان خود را از دست دادند.",
+      "title_en": "At least 18 die as 49,000 people cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "برخی از آنها غرق شدند و برخی دیگر گرفتار شدند، زیرا این حادثه باعث انتقاد فرانسه و ایتالیا از اسپانیا می شود، پس از ورود تقریباً 49000 مهاجر از مراکش در عرض چند ساعت به قلمرو کوچکی از مراکش، حداقل 18 نفر در تلاش برای رسیدن به قلمرو اسپانیایی سئوتا جان خود را از دست دادند. در سئوتا با شنا کردن در مقابل مراکش همسایه یا بالا رفتن از حصار مرتفع مرزی، شهر 85000 نفری را غافلگیر کرده و منجر به آنچه یک انجمن پلیس محلی آن را \"بحران انسانی جدی\" می نامد، شده است. ادامه مطلب...",
+      "summary_fa": "برخی از آنها غرق شدند و برخی دیگر گرفتار شدند، زیرا این حادثه باعث انتقاد فرانسه و ایتالیا از اسپانیا می شود، پس از ورود تقریباً 49000 مهاجر از مراکش در عرض چند ساعت به قلمرو کوچکی از مراکش، حداقل 18 نفر در تلاش برای رسیدن به قلمرو اسپانیایی سئوتا جان خود را از دست دادند. در سئوتا با شنا کردن در مقابل مراکش همسایه یا بالا رفتن از حصار مرتفع مرزی، شهر 85000 نفری را غافلگیر کرده و منجر به آنچه یک انجمن پلیس محلی آن را \"بحران انسانی جدی\" می نامد، شده است. ادامه مطلب...",
+      "summary_en": "Some drowned and others caught up in crush, official says, as incident prompts criticism of Spain from France and ItalyAt least 18 people have died trying to reach the Spanish enclave of Ceuta after approximately 49,000 migrants entered the tiny territory from Morocco in a matter of hours, triggering a political crisis for the Madrid government and unleashing a barrage of criticism from other EU countries.The large influx of people arriving in Ceuta by swimming across from neighbouring Morocco or scaling the high border fence has caught the city of 85,000 off guard and resulted in what one local police association has called a “serious humanitarian crisis”. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 09:43:36 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/bfe4080ee8b385249f1a00b5fc4c3c8555c8cd24/574_0_3446_2756/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=d1404a6c68c10b5a276e2194835c1bdf",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "67853d6cf962d74e808c17d318e511e2",
+      "title": "ایران می گوید با هواپیماهای بدون سرنشین نظامیان آمریکایی در کویت را هدف قرار داده است",
+      "title_fa": "ایران می گوید با هواپیماهای بدون سرنشین نظامیان آمریکایی در کویت را هدف قرار داده است",
+      "title_en": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
+      "summary": "ارتش ایران گفته است که دارایی های آمریکا را در پایگاه هوایی کویت هدف قرار داده است. هیچ گزارش فوری مبنی بر حمله از سوی کویت یا ارتش ایالات متحده وجود ندارد.",
+      "summary_fa": "ارتش ایران گفته است که دارایی های آمریکا را در پایگاه هوایی کویت هدف قرار داده است. هیچ گزارش فوری مبنی بر حمله از سوی کویت یا ارتش ایالات متحده وجود ندارد.",
+      "summary_en": "The Iranian army said it had targeted U.S. assets at a Kuwaiti air base. There were no immediate reports of any attacks from Kuwait or from the U.S. military.",
+      "link": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-says-it-targeted-us-military-in-kuwait-with-drones.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:38:51 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-iran-fzcb/31int-iran-fzcb-mediumSquareAt3X-v3.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "06577cd1ecdab66ec7050491b4ca2786",
+      "title": "یک مدیر پورتفولیو می گوید که سرمایه گذاران به دنبال افزایش نگرانی های مجنیفیست سون هستند. در اینجا سهام و بخش های مورد علاقه او هستند",
+      "title_fa": "یک مدیر پورتفولیو می گوید که سرمایه گذاران به دنبال افزایش نگرانی های مجنیفیست سون هستند. در اینجا سهام و بخش های مورد علاقه او هستند",
+      "title_en": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
+      "summary": "جولیان مک‌مانوس از یانوس هندرسون می‌گوید که سرمایه‌گذاران به خارج از کشور نگاه می‌کنند، زیرا نگرانی‌های تمرکز هفت شگفت انگیز تنوع را احیا می‌کند.",
+      "summary_fa": "جولیان مک‌مانوس از یانوس هندرسون می‌گوید که سرمایه‌گذاران به خارج از کشور نگاه می‌کنند، زیرا نگرانی‌های تمرکز هفت شگفت انگیز تنوع را احیا می‌کند.",
+      "summary_en": "Janus Henderson’s Julian McManus says investors are looking overseas as Magnificent Seven concentration worries revive diversification.",
+      "link": "https://www.cnbc.com/2026/07/31/janus-henderson-overseas-stocks.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 09:37:53 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b243da9c5a3b63eae178ee13897e972",
+      "title": "اگر بحران مالی تامین اجتماعی همان فیل در اتاق است، این موشی است که همه نادیده گرفته اند. به شما اخطار داده شده است.",
+      "title_fa": "اگر بحران مالی تامین اجتماعی همان فیل در اتاق است، این موشی است که همه نادیده گرفته اند. به شما اخطار داده شده است.",
+      "title_en": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "summary": "\"تاخیر تامین اجتماعی تا سال 70 منجر به افزایش پرداخت ماهانه می شود - و این با تعدیل هزینه های زندگی نسبتاً بالاتری همراه است.\"",
+      "summary_fa": "\"تاخیر تامین اجتماعی تا سال 70 منجر به افزایش پرداخت ماهانه می شود - و این با تعدیل هزینه های زندگی نسبتاً بالاتری همراه است.\"",
+      "summary_en": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 09:35:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-91835700",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4fee5c8b00842d5b67f20c8cfec9d255",
+      "title": "دست کم 11 نفر از جمله کودکان در حملات اسرائیل در نزدیکی نابلس زخمی شدند",
+      "title_fa": "دست کم 11 نفر از جمله کودکان در حملات اسرائیل در نزدیکی نابلس زخمی شدند",
+      "title_en": "At least 11, including children, injured in Israeli raids near Nablus",
+      "summary": "شهرک نشینان و سربازان اسرائیلی به شهرهای اشغالی کرانه باختری یورش بردند و پس از تشدید خشونت ها در شهر تال دستگیر شدند.",
+      "summary_fa": "شهرک نشینان و سربازان اسرائیلی به شهرهای اشغالی کرانه باختری یورش بردند و پس از تشدید خشونت ها در شهر تال دستگیر شدند.",
+      "summary_en": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 09:33:37 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "177f91f91487d06445a72c614f05ca62",
       "title": "جنگجوی سبک وحشی: در ماموریتی برای حذف گرافیتی رم با هنرمندی آشنا شوید",
       "title_fa": "جنگجوی سبک وحشی: در ماموریتی برای حذف گرافیتی رم با هنرمندی آشنا شوید",
@@ -71886,6 +72705,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1b5d9aea89f8f76dfa9717a81a09160b",
+      "title": "من این پنجره های هوشمند را در 10 دقیقه نصب کردم - اکنون آنها را در سراسر خانه خود می خواهم",
+      "title_fa": "من این پنجره های هوشمند را در 10 دقیقه نصب کردم - اکنون آنها را در سراسر خانه خود می خواهم",
+      "title_en": "I installed these smart window shades in 10 minutes - now I want them all over my house",
+      "summary": "سایه های پنجره Smartwings راحت و کاملاً قابل تنظیم هستند و آنها را به گزینه خوبی برای پنجره های غیر استاندارد تبدیل می کند.",
+      "summary_fa": "سایه های پنجره Smartwings راحت و کاملاً قابل تنظیم هستند و آنها را به گزینه خوبی برای پنجره های غیر استاندارد تبدیل می کند.",
+      "summary_en": "The Smartwings window shades are convenient and fully customizable, making them a good option for non-standard windows.",
+      "link": "https://www.zdnet.com/article/smartwings-smart-window-shades-review/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 09:30:51 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b3381fb27a90f6acb899c276b2b8f9f7",
+      "title": "وزیر برکنار شده می گوید که آشفتگی سیاسی برنامه ربات قاتل را از مسیر خارج نمی کند",
+      "title_fa": "وزیر برکنار شده می گوید که آشفتگی سیاسی برنامه ربات قاتل را از مسیر خارج نمی کند",
+      "title_en": "Political Turmoil Will Not Derail Killer Robot Program, Ousted Minister Says",
+      "summary": "میخائیلو فدوروف، وزیر دفاع اسبق اوکراین، مدافع جنگ با هواپیماهای بدون سرنشین و ربات‌ها، می‌گوید که استراتژی فنی این کشور ادامه خواهد داشت.",
+      "summary_fa": "میخائیلو فدوروف، وزیر دفاع اسبق اوکراین، مدافع جنگ با هواپیماهای بدون سرنشین و ربات‌ها، می‌گوید که استراتژی فنی این کشور ادامه خواهد داشت.",
+      "summary_en": "The Ukrainian former defense minister Mykhailo Fedorov, an advocate for drone and robot warfare, says the country’s tech-heavy strategy will persist.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:25:39 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-ukraine-fedorov-tgfl/31int-ukraine-fedorov-tgfl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "dae2b816870a3dd2ed423ff574312ee2",
+      "title": "مادرش به یک تلفن نه گفت. سپس نسل کشی غزه آمد",
+      "title_fa": "مادرش به یک تلفن نه گفت. سپس نسل کشی غزه آمد",
+      "title_en": "Her mother said no to a phone. Then came the Gaza genocide",
+      "summary": "همانطور که جهان در مورد استفاده از رسانه های اجتماعی بحث می کرد، تلفن امان لولو به یک طناب نجات و پنجره ای به غزه برای میلیون ها نفر تبدیل شد.",
+      "summary_fa": "همانطور که جهان در مورد استفاده از رسانه های اجتماعی بحث می کرد، تلفن امان لولو به یک طناب نجات و پنجره ای به غزه برای میلیون ها نفر تبدیل شد.",
+      "summary_en": "As the world debated social media use, Eman Lulu's phone became a lifeline and a window into Gaza for millions.",
+      "link": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 09:23:54 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -71910,6 +72792,174 @@
       }
     },
     {
+      "id": "f38c2dea3c6492c4743fca8aae9879ec",
+      "title": "یک روز پس از حمله آمریکا به ایران: آخرین رویدادها، سپاه پاسداران به اهداف آمریکا در کویت حمله کرد",
+      "title_fa": "یک روز پس از حمله آمریکا به ایران: آخرین رویدادها، سپاه پاسداران به اهداف آمریکا در کویت حمله کرد",
+      "title_en": "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
+      "summary": "ایران می گوید در تلافی حملات آمریکا به چندین مکان در ایران از جمله جزیره قشم به کویت حمله کرده است.",
+      "summary_fa": "ایران می گوید در تلافی حملات آمریکا به چندین مکان در ایران از جمله جزیره قشم به کویت حمله کرده است.",
+      "summary_en": "Iran says it struck Kuwait in retaliation for US strikes on multiple locations in Iran, including Qeshm island.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 09:09:54 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "92b4b781ac0be0bdd0c24680472df7aa",
+      "title": "مقامات آلمانی از افراط گرایی مهاجم غرور اطلاع داشتند",
+      "title_fa": "مقامات آلمانی از افراط گرایی مهاجم غرور اطلاع داشتند",
+      "title_en": "German Authorities Knew of Pride Attacker’s Extremism",
+      "summary": "ضارب که یک شهروند آلمانی است، پس از تلاش برای پیوستن به دولت اسلامی زندانی شد اما هفته‌ها قبل از حمله به مراسم پراید همجنس‌گرایان در برلین آزاد شد.",
+      "summary_fa": "ضارب که یک شهروند آلمانی است، پس از تلاش برای پیوستن به دولت اسلامی زندانی شد اما هفته‌ها قبل از حمله به مراسم پراید همجنس‌گرایان در برلین آزاد شد.",
+      "summary_en": "The assailant, a German citizen, was imprisoned after trying to join the Islamic State but freed weeks before attacking a gay Pride event in Berlin.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/germany-pride-attack-extremism.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:03:16 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-germany-attack-01-lbjw/31int-germany-attack-01-lbjw-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3372500566650c094997635f7738c3b7",
+      "title": "فروش Burritos بازگشت به مکزیک: Chipotle’s Bold Expansion",
+      "title_fa": "فروش Burritos بازگشت به مکزیک: Chipotle’s Bold Expansion",
+      "title_en": "Selling Burritos Back to Mexico: Chipotle’s Bold Expansion",
+      "summary": "در حالی که زنجیره آمریکایی الهام گرفته از مکزیک در مکزیک شروع به کار می کند، با یک مانع بزرگ روبرو می شود: متقاعد کردن مکزیکی ها برای خرید غذاهای آمریکایی از غذاهای ملی خود.",
+      "summary_fa": "در حالی که زنجیره آمریکایی الهام گرفته از مکزیک در مکزیک شروع به کار می کند، با یک مانع بزرگ روبرو می شود: متقاعد کردن مکزیکی ها برای خرید غذاهای آمریکایی از غذاهای ملی خود.",
+      "summary_en": "As the Mexican-inspired American chain makes its debut in Mexico, it faces a major hurdle: convincing Mexicans to buy an Americanized take on their own national cuisine.",
+      "link": "https://www.nytimes.com/2026/07/31/world/americas/chipotle-restaurant-mexico.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:01:43 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/world/XXint-chipotle-mexico-promo/XXint-chipotle-mexico-02-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34a146e0086dd2da78155de64545d99e",
+      "title": "من با داگلاس دی سی-3، یک اسب کار هوانوردی جنگ جهانی دوم، بر فراز آمازون پرواز کردم",
+      "title_fa": "من با داگلاس دی سی-3، یک اسب کار هوانوردی جنگ جهانی دوم، بر فراز آمازون پرواز کردم",
+      "title_en": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
+      "summary": "داگلاس دی سی-3 در طول جنگ جهانی دوم تولید انبوه شد. امروزه یکی از معدود مسافرانی که هنوز در جنگل کلمبیا باقی مانده است، مسافران را جابجا می کند.",
+      "summary_fa": "داگلاس دی سی-3 در طول جنگ جهانی دوم تولید انبوه شد. امروزه یکی از معدود مسافرانی که هنوز در جنگل کلمبیا باقی مانده است، مسافران را جابجا می کند.",
+      "summary_en": "The Douglas DC-3 was mass produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle.",
+      "link": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:00:21 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfd96baae0498f1a62451d66146ae737",
+      "title": "دستکم 34 نفر بر اثر انفجار معدن زغال سنگ در پاکستان کشته شدند",
+      "title_fa": "دستکم 34 نفر بر اثر انفجار معدن زغال سنگ در پاکستان کشته شدند",
+      "title_en": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "summary": "امدادگران در حال جستجوی اجساد مفقود شده ناشی از این حادثه در یکی از قطب‌های معدنی کشور بودند، جایی که انفجار گاز متان و ریزش معدن مکرر است.",
+      "summary_fa": "امدادگران در حال جستجوی اجساد مفقود شده ناشی از این حادثه در یکی از قطب‌های معدنی کشور بودند، جایی که انفجار گاز متان و ریزش معدن مکرر است.",
+      "summary_en": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 09:00:09 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-pakistan-mine-mjvc/31int-pakistan-mine-mjvc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d1c75196e2338bb9dbf49c7b2843460d",
+      "title": "جهان خیلی داغ است. ال نینو تا حدی مقصر است",
+      "title_fa": "جهان خیلی داغ است. ال نینو تا حدی مقصر است",
+      "title_en": "The World Is Too Hot. El Niño Is Partly to Blame",
+      "summary": "امواج گرما به طور همزمان به اروپا، آمریکای شمالی و آسیا می‌رسند که بخشی از آن توسط آب‌های گرم اقیانوس آرام و تغییرات اقلیمی ناشی می‌شود.",
+      "summary_fa": "امواج گرما به طور همزمان به اروپا، آمریکای شمالی و آسیا می‌رسند که بخشی از آن توسط آب‌های گرم اقیانوس آرام و تغییرات اقلیمی ناشی می‌شود.",
+      "summary_en": "Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.",
+      "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "c57afbeb2f6ef470d39b343264ce2c29",
+      "title": "خانه رویایی خیره کننده 23 میلیون دلاری دایان کیتون در لس آنجلس بالاخره خریدار پیدا کرد",
+      "title_fa": "خانه رویایی خیره کننده 23 میلیون دلاری دایان کیتون در لس آنجلس بالاخره خریدار پیدا کرد",
+      "title_en": "Diane Keaton’s stunning $23 million dream home in L.A. finally finds a buyer",
+      "summary": "خانه‌ای در لس‌آنجلس که دایان کیتون سال‌ها صرف تغییر آن کرد، نه ماه پس از مرگ ستاره محبوب «آنی هال» پیشنهاد شده است.",
+      "summary_fa": "خانه‌ای در لس‌آنجلس که دایان کیتون سال‌ها صرف تغییر آن کرد، نه ماه پس از مرگ ستاره محبوب «آنی هال» پیشنهاد شده است.",
+      "summary_en": "The Los Angeles home that Diane Keaton spent years carefully transforming has come under offer—nine months after the beloved “Annie Hall” star died.",
+      "link": "https://www.marketwatch.com/story/diane-keatons-stunning-23-million-dream-home-in-l-a-finally-finds-a-buyer-52f1373e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 08:59:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-14118113",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ddf0ac8868d5b5917d89e483c1458d41",
+      "title": "یک مرد انگلیسی-آذربایجانی در قبرس به اتهام جاسوسی از پایگاه هوایی بریتانیا برای ایران دستگیر شد",
+      "title_fa": "یک مرد انگلیسی-آذربایجانی در قبرس به اتهام جاسوسی از پایگاه هوایی بریتانیا برای ایران دستگیر شد",
+      "title_en": "British-Azerbaijani man arrested in Cyprus over alleged spying on UK airbase for Iran",
+      "summary": "رشاد سلطانوف، اهل لندن، مظنون به انجام تجسس خصمانه و انتقال اطلاعات به سپاه پاسداران یک تبعه بریتانیایی آذربایجانی در قبرس به ظن جاسوسی از یک پایگاه هوایی بریتانیا در جزیره مدیترانه و انتقال اطلاعات به پلیس سپاه پاسداران انقلاب اسلامی ایران دستگیر شد. پلیس روز جمعه در بیانیه ای گفت، سلطانوف، 44 ساله، اهل ایزلینگتون، شمال لندن، در 17 ژوئیه توسط مقامات قبرس دستگیر شد و با ادامه روند استرداد در بازداشت به سر می برد. ادامه مطلب...",
+      "summary_fa": "رشاد سلطانوف، اهل لندن، مظنون به انجام تجسس خصمانه و انتقال اطلاعات به سپاه پاسداران یک تبعه بریتانیایی آذربایجانی در قبرس به ظن جاسوسی از یک پایگاه هوایی بریتانیا در جزیره مدیترانه و انتقال اطلاعات به پلیس سپاه پاسداران انقلاب اسلامی ایران دستگیر شد. پلیس روز جمعه در بیانیه ای گفت، سلطانوف، 44 ساله، اهل ایزلینگتون، شمال لندن، در 17 ژوئیه توسط مقامات قبرس دستگیر شد و با ادامه روند استرداد در بازداشت به سر می برد. ادامه مطلب...",
+      "summary_en": "Rashad Sultanov, from London, suspected of conducting hostile surveillance and passing information to Revolutionary GuardsA British-Azerbaijani national has been arrested ⁠in Cyprus on suspicion of spying on a British airbase on the Mediterranean island and passing information to Iran’s ⁠Islamic Revolutionary Guard ⁠Corps, the Metropolitan police ​said.Rashad Sultanov, 44, from Islington, north London, was arrested on 17 July by Cypriot authorities ⁠and is being held in custody as extradition proceedings continue, the police said in a statement on Friday. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/jul/31/british-azerbaijani-man-arrested-cyprus-alleged-spying-uk-airbase-iran",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 08:58:41 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/3e4aef4a8b1ad5d27af2cf96f91b7c53c24235cb/404_0_3765_3012/master/3765.jpg?width=140&quality=85&auto=format&fit=max&s=9c2900dbae410377f29227471321136f",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "9e2bed79430cd9f340465ed0a658c75d",
       "title": "سن بازنشستگی امروز در مقابل آینده: اروپایی ها تا کی کار خواهند کرد؟",
       "title_fa": "سن بازنشستگی امروز در مقابل آینده: اروپایی ها تا کی کار خواهند کرد؟",
@@ -71931,6 +72981,48 @@
       }
     },
     {
+      "id": "e4f929ef814f78fb7c1ebf6632f316a4",
+      "title": "حماس با خلع سلاح مرحله‌ای در غزه موافقت کرد",
+      "title_fa": "حماس با خلع سلاح مرحله‌ای در غزه موافقت کرد",
+      "title_en": "Hamas agrees to phased disarmament in Gaza",
+      "summary": "حماس با خلع سلاح تدریجی غزه به عنوان بخشی از طرح صلح 20 ماده ای دونالد ترامپ موافقت کرده است.",
+      "summary_fa": "حماس با خلع سلاح تدریجی غزه به عنوان بخشی از طرح صلح 20 ماده ای دونالد ترامپ موافقت کرده است.",
+      "summary_en": "Hamas has agreed to gradually disarm in Gaza as part of Donald Trump’s 20-point peace plan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 08:53:17 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "181d05f596311c4c73a14c6e7110effc",
+      "title": "اپل 7 درصد کاهش یافت، آمازون 12 درصد افزایش یافت زیرا سرمایه گذاران برندگان هوش مصنوعی را پس از درآمد انتخاب می کنند",
+      "title_fa": "اپل 7 درصد کاهش یافت، آمازون 12 درصد افزایش یافت زیرا سرمایه گذاران برندگان هوش مصنوعی را پس از درآمد انتخاب می کنند",
+      "title_en": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
+      "summary": "سهام آمازون در معاملات پیش از بازار روز جمعه به شدت جهش کرد در حالی که اپل با هضم درآمد سرمایه گذاران سقوط کرد.",
+      "summary_fa": "سهام آمازون در معاملات پیش از بازار روز جمعه به شدت جهش کرد در حالی که اپل با هضم درآمد سرمایه گذاران سقوط کرد.",
+      "summary_en": "Shares of Amazon jumped sharply in premarket trading on Friday while Apple dropped as investors digest earnings.",
+      "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 08:50:14 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "6fa0b46b7c5ac82ad1012f609ba3fd5e",
       "title": "فیفا اصرار دارد که با وجود تهدید یوفا بایکوت، به طرح پیشنهادی سرمایه گذار خصوصی ادامه خواهد داد",
       "title_fa": "فیفا اصرار دارد که با وجود تهدید یوفا بایکوت، به طرح پیشنهادی سرمایه گذار خصوصی ادامه خواهد داد",
@@ -71945,6 +73037,48 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7090c3c315bb5898c0812298e21705a6",
+      "title": "چه مدت باید گوشی خود را نگه دارید؟ من ریاضی را انجام دادم - احتمالاً آن چیزی نیست که شما فکر می کنید",
+      "title_fa": "چه مدت باید گوشی خود را نگه دارید؟ من ریاضی را انجام دادم - احتمالاً آن چیزی نیست که شما فکر می کنید",
+      "title_en": "How long should you keep your phone for? I did the math - it's likely not what you think",
+      "summary": "ارتقاء سالانه این روزها اهمیت کمتری دارد و پشتیبانی نرم افزاری بهتر به شما امکان می دهد برای مدت طولانی تری گوشی خود را نگه دارید.",
+      "summary_fa": "ارتقاء سالانه این روزها اهمیت کمتری دارد و پشتیبانی نرم افزاری بهتر به شما امکان می دهد برای مدت طولانی تری گوشی خود را نگه دارید.",
+      "summary_en": "Annual upgrades matter less these days, and better software support lets you hold onto your phone for longer.",
+      "link": "https://www.zdnet.com/article/how-long-should-you-keep-your-phone-for/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 08:30:41 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55075f405978b68b88110325c73d2c11",
+      "title": "فعالان دموکراسی طرفدار میانمار هر کدام به 37 سال زندان محکوم شدند",
+      "title_fa": "فعالان دموکراسی طرفدار میانمار هر کدام به 37 سال زندان محکوم شدند",
+      "title_en": "Myanmar Pro-Democracy Activists Each Sentenced to 37 Years in Prison",
+      "summary": "گروهی از مخالفان در این هفته هر کدام به دلیل اعتراض مسالمت آمیز به انتخاباتی که به طور گسترده به عنوان ساختگی مورد تمسخر قرار گرفته بود، به 37 سال زندان محکوم شدند.",
+      "summary_fa": "گروهی از مخالفان در این هفته هر کدام به دلیل اعتراض مسالمت آمیز به انتخاباتی که به طور گسترده به عنوان ساختگی مورد تمسخر قرار گرفته بود، به 37 سال زندان محکوم شدند.",
+      "summary_en": "A group of dissidents this week were each sentenced to 37 years in prison for a peaceful protest against an election widely derided as a sham.",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/myanmar-sentence-activists-protest.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 08:14:03 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-myanmar-protesters-zlwh/31int-myanmar-protesters-zlwh-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -71970,6 +73104,90 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "139f881a3b0466a0a509a6cb92680cf2",
+      "title": "نیروهای اسرائیلی سازه هایی را در نزدیکی قلعه بوفورت لبنان منفجر کردند",
+      "title_fa": "نیروهای اسرائیلی سازه هایی را در نزدیکی قلعه بوفورت لبنان منفجر کردند",
+      "title_en": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
+      "summary": "اسرائیل مدعی است که ارتش تونل های حزب الله را در جنوب لبنان منفجر کرده است، در حالی که گزارش ها از انفجارها در نزدیکی قلعه های ثبت شده در فهرست یونسکو منتشر شده است.",
+      "summary_fa": "اسرائیل مدعی است که ارتش تونل های حزب الله را در جنوب لبنان منفجر کرده است، در حالی که گزارش ها از انفجارها در نزدیکی قلعه های ثبت شده در فهرست یونسکو منتشر شده است.",
+      "summary_en": "Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 08:03:29 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f42a5501e9c357e779da85fdd2895286",
+      "title": "شیوع ابولا در DRC سریعترین رشد در تاریخ این ویروس است",
+      "title_fa": "شیوع ابولا در DRC سریعترین رشد در تاریخ این ویروس است",
+      "title_en": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "summary": "از آنجایی که تعداد قربانیان تقریباً به 1500 نفر می رسد و با وجود واکسن علیه سویه بوندیبوگیو که احتمالاً هنوز چند ماه دیگر باقی مانده است، کارکنان بهداشتی با نبردی برای کاهش سرعت شیوع روبرو هستند. آخرین تعداد موارد تأیید شده ابولا در جمهوری دموکراتیک کنگو، این شیوع جدید را به سریع ترین رشد در تاریخ شناخته شده ویروس تبدیل کرده است. در حال حاضر 3 مورد ابتلا به این بیماری در استان 60 مورد تایید شده است. به گفته مقامات بهداشتی کنگو، در شرق جمهوری دموکراتیک کنگو، با 1487 مرگ ثبت شده، که نشان دهنده نرخ کلی مرگ و میر حدود 45 درصد است. پاسخ های بهداشتی به شیوع این بیماری به دلیل درگیری در بسیاری از مناطق آسیب دیده به شدت مختل شده است. ادامه مطلب...",
+      "summary_fa": "از آنجایی که تعداد قربانیان تقریباً به 1500 نفر می رسد و با وجود واکسن علیه سویه بوندیبوگیو که احتمالاً هنوز چند ماه دیگر باقی مانده است، کارکنان بهداشتی با نبردی برای کاهش سرعت شیوع روبرو هستند. آخرین تعداد موارد تأیید شده ابولا در جمهوری دموکراتیک کنگو، این شیوع جدید را به سریع ترین رشد در تاریخ شناخته شده ویروس تبدیل کرده است. در حال حاضر 3 مورد ابتلا به این بیماری در استان 60 مورد تایید شده است. به گفته مقامات بهداشتی کنگو، در شرق جمهوری دموکراتیک کنگو، با 1487 مرگ ثبت شده، که نشان دهنده نرخ کلی مرگ و میر حدود 45 درصد است. پاسخ های بهداشتی به شیوع این بیماری به دلیل درگیری در بسیاری از مناطق آسیب دیده به شدت مختل شده است. ادامه مطلب...",
+      "summary_en": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreakThe latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus.At 3,360 confirmed cases, the disease is now affecting people in five provinces in the east of the DRC, with 1,487 deaths recorded, representing an overall case fatality rate estimated at about 45%, according to Congolese health officials. Health responses to the outbreak have been badly hampered by conflict in many of the affected areas. Continue reading...",
+      "link": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 08:00:08 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/478165b289e55c3652218208eea3674625ebce76/983_0_4914_3931/master/4914.jpg?width=140&quality=85&auto=format&fit=max&s=fa6716df08a32b40e2b9582678beab2b",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "820bb196ea5972c179696ae38f36bac2",
+      "title": "ایکاک می شنود که دوستی بین اعضای اصلاح طلبان شکسته شده است - همانطور که اتفاق افتاد",
+      "title_fa": "ایکاک می شنود که دوستی بین اعضای اصلاح طلبان شکسته شده است - همانطور که اتفاق افتاد",
+      "title_en": "Icac hears of friendship breakdown between Reformers members – as it happened",
+      "summary": "این وبلاگ اکنون بسته است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. کمیسیونر ایمنی می گوید که اقدام دادگاه علیه تلگرام «بسیار مهم» است، جولی اینمن گرانت، کمیسر امنیت الکترونیک، امروز صبح پس از اقدام دادگاه دیروز علیه تلگرام به دلیل عدم شناسایی و حذف مطالب حامی ترور از پلتفرم آن، با ABC صحبت کرد. … اینها پلتفرم هایی هستند – و ممکن است نظارت بیشتری بر محتوا انجام دهند و ما آن را تشویق می کنیم – اما نه به میزانی که قانون استرالیا از آن ها خواسته است. و اگر زمانی که دادگاه تشخیص داد از آنها تبعیت نکنند، یا اگر دادگاه علیه آنها تشخیص دهد، در این صورت تحقیر خواهند شد. ادامه مطلب...",
+      "summary_fa": "این وبلاگ اکنون بسته است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. کمیسیونر ایمنی می گوید که اقدام دادگاه علیه تلگرام «بسیار مهم» است، جولی اینمن گرانت، کمیسر امنیت الکترونیک، امروز صبح پس از اقدام دادگاه دیروز علیه تلگرام به دلیل عدم شناسایی و حذف مطالب حامی ترور از پلتفرم آن، با ABC صحبت کرد. … اینها پلتفرم هایی هستند – و ممکن است نظارت بیشتری بر محتوا انجام دهند و ما آن را تشویق می کنیم – اما نه به میزانی که قانون استرالیا از آن ها خواسته است. و اگر زمانی که دادگاه تشخیص داد از آنها تبعیت نکنند، یا اگر دادگاه علیه آنها تشخیص دهد، در این صورت تحقیر خواهند شد. ادامه مطلب...",
+      "summary_en": "This blog is now closedGet our breaking news email, free app or daily news podcasteSafety commissioner says court action against Telegram ‘very significant’Julie Inman Grant, the eSafety commissioner, spoke to the ABC this morning after yesterday’s court action against Telegram over its alleged failure to detect and remove pro-terror material from its platform.The scars are still very raw around Bondi. … These are platforms – and they may be doing more content moderation and we would encourage that – but not to the degree that Australian law requires them to.This is just upping the ante and it’s much more serious. And if they don’t comply when the court finds, or if the court finds against them, then they’ll be in contempt. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 07:53:29 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0b062c03b9e99ecf9c919750b54a387ce702e521/0_0_2623_2097/master/2623.jpg?width=140&quality=85&auto=format&fit=max&s=5ce9a965ca4c5169f5ee0880d540b3a9",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b4fe78d73f3f7fb20396532d97386747",
+      "title": "SK Hynix، سامسونگ به‌طور سرسام‌آوری در بهترین روزها با غرش رالی هوش مصنوعی به اشتراک می‌گذارد",
+      "title_fa": "SK Hynix، سامسونگ به‌طور سرسام‌آوری در بهترین روزها با غرش رالی هوش مصنوعی به اشتراک می‌گذارد",
+      "title_en": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+      "summary": "شرکت‌های سنگین‌وزن تراشه‌های کره‌جنوبی SK Hynix و Samsung Electronics روز جمعه بیش از 20 درصد افزایش یافتند و رشد شدید سهام فناوری ایالات متحده را دنبال کردند.",
+      "summary_fa": "شرکت‌های سنگین‌وزن تراشه‌های کره‌جنوبی SK Hynix و Samsung Electronics روز جمعه بیش از 20 درصد افزایش یافتند و رشد شدید سهام فناوری ایالات متحده را دنبال کردند.",
+      "summary_en": "South Korea's chip heavyweights SK Hynix and Samsung Electronics soared more than 20% on Friday, tracking a sharp rally in U.S. technology stocks.",
+      "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 07:41:35 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72054,6 +73272,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "37e0b3a52a17532c6be3a8dc171876d6",
+      "title": "فیفا درها را برای اصلاح طرح بحث برانگیز فروش سهام باز می کند",
+      "title_fa": "فیفا درها را برای اصلاح طرح بحث برانگیز فروش سهام باز می کند",
+      "title_en": "Fifa opens door to amending controversial stake-sale plan",
+      "summary": "بدنه فوتبال بر تعهد خود برای جذب سرمایه گذاران خارجی علیرغم مخالفت های گسترده تاکید می کند",
+      "summary_fa": "بدنه فوتبال بر تعهد خود برای جذب سرمایه گذاران خارجی علیرغم مخالفت های گسترده تاکید می کند",
+      "summary_en": "Football body reaffirms commitment to bringing in external investors despite widespread opposition",
+      "link": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 07:21:48 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03134b89-604c-4cb7-872f-dc6f2c5ca1cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72729,6 +73968,27 @@
       }
     },
     {
+      "id": "a780cf0f1095ecb4c7ae39f99ef0f11c",
+      "title": "چهار جسد پس از مفقود شدن 10 کوهنورد در قله پاکستان کشف شد",
+      "title_fa": "چهار جسد پس از مفقود شدن 10 کوهنورد در قله پاکستان کشف شد",
+      "title_en": "Four bodies located after 10 climbers go missing on Pakistani peak",
+      "summary": "باشگاه آلپاین پاکستان می گوید، کوهنورد نیرمال پورجا در میان افراد ناپدید شده پس از اصابت بهمن به برود پیک است.",
+      "summary_fa": "باشگاه آلپاین پاکستان می گوید، کوهنورد نیرمال پورجا در میان افراد ناپدید شده پس از اصابت بهمن به برود پیک است.",
+      "summary_en": "Mountaineer Nirmal Purja among those reported missing after avalanche hit Broad Peak, Pakistan alpine club says.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 05:21:18 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3fa23a8ff05bdee4736c7dbacb0a88a1",
       "title": "کوپن شرکت تشک: تا 700 دلار پس انداز |",
       "title_fa": "کوپن شرکت تشک: تا 700 دلار پس انداز |",
@@ -73170,6 +74430,27 @@
       }
     },
     {
+      "id": "6bf73e3d38d06ee6c30d255a227913d2",
+      "title": "هر هفته یک تن زباله فضایی به طور غیرقابل پیش بینی به زمین می رسد",
+      "title_fa": "هر هفته یک تن زباله فضایی به طور غیرقابل پیش بینی به زمین می رسد",
+      "title_en": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+      "summary": "تکه های شعله ور فلز به خانه ها، مزارع و پارکینگ ها برخورد می کند. مقصر کیست؟ و چه کسی جبران خسارت می کند؟",
+      "summary_fa": "تکه های شعله ور فلز به خانه ها، مزارع و پارکینگ ها برخورد می کند. مقصر کیست؟ و چه کسی جبران خسارت می کند؟",
+      "summary_en": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 04:01:09 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1545b94f75c051b49e74dda124588a58",
       "title": "وزیر سابق می گوید که آشفتگی سیاسی برنامه روبات قاتل را از مسیر خارج نخواهد کرد",
       "title_fa": "وزیر سابق می گوید که آشفتگی سیاسی برنامه روبات قاتل را از مسیر خارج نخواهد کرد",
@@ -73251,6 +74532,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "d646f9c6e0f8beb9c0c9f786f0613962",
+      "title": "چین در مورد یارانه ها از همه باهوش تر است",
+      "title_fa": "چین در مورد یارانه ها از همه باهوش تر است",
+      "title_en": "China is smarter about subsidies than everybody else",
+      "summary": "پکن با هدف قرار دادن بخش های استراتژیک، رقبای خود را ربوده است",
+      "summary_fa": "پکن با هدف قرار دادن بخش های استراتژیک، رقبای خود را ربوده است",
+      "summary_en": "Beijing is stealing a march on its competitors by targeting strategic sectors",
+      "link": "https://www.ft.com/content/871976c7-8c4f-405e-803e-d86cf22bcf0f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 04:00:07 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa8b5bcd-72d7-4462-937b-1e6890b5d0d5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
@@ -73755,6 +75057,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "لندن"
+      }
+    },
+    {
+      "id": "5b8b3dc68e0646a7bf6b0eaf5d955e3b",
+      "title": "ما در حال افزایش هدف قیمت اپل خود هستیم و علیرغم کمبود حافظه، چیزهای خوبی را می بینیم",
+      "title_fa": "ما در حال افزایش هدف قیمت اپل خود هستیم و علیرغم کمبود حافظه، چیزهای خوبی را می بینیم",
+      "title_en": "We're raising our Apple price target, seeing plenty of good despite the memory crunch knocks",
+      "summary": "این یک سه ماهه خوب اما نه عالی بود زیرا اپل برای کاهش کمبود حافظه کار می کرد که بر سه ماهه گزارش شده و راهنمایی ها تأثیر گذاشت.",
+      "summary_fa": "این یک سه ماهه خوب اما نه عالی بود زیرا اپل برای کاهش کمبود حافظه کار می کرد که بر سه ماهه گزارش شده و راهنمایی ها تأثیر گذاشت.",
+      "summary_en": "It was a good but not great quarter as Apple worked to mitigate the memory shortage, which impacted the reported quarter and guidance.",
+      "link": "https://www.cnbc.com/2026/07/30/were-raising-our-apple-price-target-seeing-plenty-of-good-despite-memory-crunch.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 00:59:35 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -83814,6 +85137,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cb4448a2e0a3c7801e190035a60c886d",
+      "title": "قدرت جهل و نگاه به کهکشان راه شیری: کتابها به طور خلاصه",
+      "title_fa": "قدرت جهل و نگاه به کهکشان راه شیری: کتابها به طور خلاصه",
+      "title_en": "The power of ignorance and peering into the Milky Way: Books in brief",
+      "summary": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02371-1اندرو رابینسون پنج مورد از بهترین انتخاب های علمی را بررسی می کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02371-1اندرو رابینسون پنج مورد از بهترین انتخاب های علمی را بررسی می کند.",
+      "summary_en": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02371-1Andrew Robinson reviews five of the best science picks.",
+      "link": "https://www.nature.com/articles/d41586-026-02371-1",
+      "source": "Nature",
+      "published_at": "2026-07-31 10:19",
+      "date_iso": "2026-07-31",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8972fde8814715db6417c512a059ddbb",
+      "title": "چگونه آبله به قاره آمریکا رسید: اولین شواهد ژنومی به اروپایی ها اشاره می کند",
+      "title_fa": "چگونه آبله به قاره آمریکا رسید: اولین شواهد ژنومی به اروپایی ها اشاره می کند",
+      "title_en": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "summary": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02366-y توالی های ویروسی از مومیایی های شیلی تایید می کنند که این بیماری از اروپا معرفی شده است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02366-y توالی های ویروسی از مومیایی های شیلی تایید می کنند که این بیماری از اروپا معرفی شده است.",
+      "summary_en": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02366-yViral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+      "link": "https://www.nature.com/articles/d41586-026-02366-y",
+      "source": "Nature",
+      "published_at": "2026-07-31 10:19",
+      "date_iso": "2026-07-31",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
