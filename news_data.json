@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 16:51:56",
-  "total_count": 4556,
+  "last_update": "2026-07-31 18:16:52",
+  "total_count": 4587,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -71952,6 +71952,69 @@
       }
     },
     {
+      "id": "bdb33c9046e3db6f2f1ba3b19285402e",
+      "title": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
+      "title_fa": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
+      "title_en": "Wildfire breaks out near Athens, prompting evacuation alerts",
+      "summary": "این آتش سوزی حوالی ساعت 15:30 رخ داد. روز جمعه در دامنه کوه پویکیلو، در منطقه آسپروپیرگوس، در غرب آتن.",
+      "summary_fa": "این آتش سوزی حوالی ساعت 15:30 رخ داد. روز جمعه در دامنه کوه پویکیلو، در منطقه آسپروپیرگوس، در غرب آتن.",
+      "summary_en": "The fire broke out at around 3:30 p.m. on Friday on the slopes of Mount Poikilo, in the Aspropyrgos area, west of Athens.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/wildfire-breaks-out-near-athens-prompting-evacuation-alerts",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 20:07:26 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f9dc37113bd1d42b1b5cb962e6d1a605",
+      "title": "اتحادیه اروپا می گوید مهاجران در سئوتا نمی توانند به کشورهای دیگر نقل مکان کنند",
+      "title_fa": "اتحادیه اروپا می گوید مهاجران در سئوتا نمی توانند به کشورهای دیگر نقل مکان کنند",
+      "title_en": "Migrants in Ceuta cannot move to other countries, EU says",
+      "summary": "کمیسیون اروپا می گوید مهاجرانی که به طور نامنظم وارد خاک اسپانیا شده اند به سرزمین اصلی اروپا نخواهند رسید، زیرا کشورهای اتحادیه اروپا خواستار تعلیق اسپانیا از شنگن به دلیل نارسایی در کنترل مرزها هستند.",
+      "summary_fa": "کمیسیون اروپا می گوید مهاجرانی که به طور نامنظم وارد خاک اسپانیا شده اند به سرزمین اصلی اروپا نخواهند رسید، زیرا کشورهای اتحادیه اروپا خواستار تعلیق اسپانیا از شنگن به دلیل نارسایی در کنترل مرزها هستند.",
+      "summary_en": "The European Commission says migrants who entered the Spanish enclave irregularly will not reach mainland Europe, as EU countries call for Spain’s suspension from Schengen over border-control failures.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/migrants-in-ceuta-cannot-move-to-other-countries-eu-says",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 19:34:11 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "8ddf02e8768067a89b2237174a242bf7",
+      "title": "لیبریا پس از توقیف بی سابقه کوکائین به ارزش 336 میلیون دلار، مقامات را برکنار کرد",
+      "title_fa": "لیبریا پس از توقیف بی سابقه کوکائین به ارزش 336 میلیون دلار، مقامات را برکنار کرد",
+      "title_en": "Liberia sacks officials after record cocaine seizures worth $336 million",
+      "summary": "کشف مواد مخدر بررسی مشکل مواد مخدر لیبریا را تشدید کرده است و کاربران رسانه های اجتماعی، مفسران سیاسی و رسانه های محلی خواستار پاسخگویی بیشتر مقامات دولتی و پیشرفت سریع در تحقیقات هستند.",
+      "summary_fa": "کشف مواد مخدر بررسی مشکل مواد مخدر لیبریا را تشدید کرده است و کاربران رسانه های اجتماعی، مفسران سیاسی و رسانه های محلی خواستار پاسخگویی بیشتر مقامات دولتی و پیشرفت سریع در تحقیقات هستند.",
+      "summary_en": "The drug busts have intensified scrutiny of Liberia's narcotics problem, with social media users, political commentators and local media calling for greater accountability from public officials and swift progress in the investigation.",
+      "link": "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 19:11:31 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "984fb0bb7199b45d181129ba673d4d57",
       "title": "بر اثر ریزش ساختمانی در ایتالیا یک کشته و پنج ناپدید شدند",
       "title_fa": "بر اثر ریزش ساختمانی در ایتالیا یک کشته و پنج ناپدید شدند",
@@ -71986,6 +72049,48 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "242046d9bf1e836b86613e89a01aa0a7",
+      "title": "S&P 500 در سطح کلیدی میدان نبرد گیر کرده است. این شاخص مبهم می تواند حرکت بعدی بازار را تعیین کند",
+      "title_fa": "S&P 500 در سطح کلیدی میدان نبرد گیر کرده است. این شاخص مبهم می تواند حرکت بعدی بازار را تعیین کند",
+      "title_en": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
+      "summary": "معامله‌گران گزینه‌ها و بازارسازان در شیکاگو به سرعت در روز جمعه به پایین‌تر از 7500 در شاخص بنچمارک خریدند، اما تقریباً به همان سرعت بالاتر از این سطح رالی فروختند.",
+      "summary_fa": "معامله‌گران گزینه‌ها و بازارسازان در شیکاگو به سرعت در روز جمعه به پایین‌تر از 7500 در شاخص بنچمارک خریدند، اما تقریباً به همان سرعت بالاتر از این سطح رالی فروختند.",
+      "summary_en": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level.",
+      "link": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 18:07:36 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6983471e26bee7ac66e71d5845af61ab",
+      "title": "آیا یک برنامه OneDrive Photos به تازگی در رایانه شخصی شما ظاهر شده است؟ در اینجا این است که چه کاری انجام می دهد (و چگونه از شر آن خلاص شوید)",
+      "title_fa": "آیا یک برنامه OneDrive Photos به تازگی در رایانه شخصی شما ظاهر شده است؟ در اینجا این است که چه کاری انجام می دهد (و چگونه از شر آن خلاص شوید)",
+      "title_en": "Did a OneDrive Photos app just appear on your PC? Here's what it does (and how to get rid of it)",
+      "summary": "مایکروسافت بی سر و صدا برنامه جدید OneDrive Photos را برای کاربران ویندوز 11 عرضه کرده است. این همه در مورد چیست؟",
+      "summary_fa": "مایکروسافت بی سر و صدا برنامه جدید OneDrive Photos را برای کاربران ویندوز 11 عرضه کرده است. این همه در مورد چیست؟",
+      "summary_en": "Microsoft has quietly pushed out a new OneDrive Photos app to Windows 11 users. What's it all about?",
+      "link": "https://www.zdnet.com/article/onedrive-photos-windows-11/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 18:05:03 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72036,6 +72141,27 @@
       }
     },
     {
+      "id": "a9b92d31c8d5edd8c26991a41345c39f",
+      "title": "چرا اسرائیل به شهرک نشینان غیرقانونی مسلح می شود؟",
+      "title_fa": "چرا اسرائیل به شهرک نشینان غیرقانونی مسلح می شود؟",
+      "title_en": "Why is Israel arming illegal settlers?",
+      "summary": "با رسیدن حملات شهرک نشینان به سطوح بی سابقه، دولت بیش از 100000 تفنگ تهاجمی بین اسرائیلی ها توزیع کرده است.",
+      "summary_fa": "با رسیدن حملات شهرک نشینان به سطوح بی سابقه، دولت بیش از 100000 تفنگ تهاجمی بین اسرائیلی ها توزیع کرده است.",
+      "summary_en": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 18:02:14 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "d34b253d1481e5ac070cb4a4388e82ce",
       "title": "آخرین بولتن اخبار | 31 ژوئیه 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 31 ژوئیه 2026 - عصر",
@@ -72057,6 +72183,363 @@
       }
     },
     {
+      "id": "9fb5dcd39c675ec1cf73081c11f87332",
+      "title": "«مرد عنکبوتی: روز کاملاً جدید» با ۷۲ میلیون دلار رکورد پیش نمایش باکس آفیس داخلی را به نام خود ثبت کرد",
+      "title_fa": "«مرد عنکبوتی: روز کاملاً جدید» با ۷۲ میلیون دلار رکورد پیش نمایش باکس آفیس داخلی را به نام خود ثبت کرد",
+      "title_en": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
+      "summary": "انتظار می رود «مرد عنکبوتی: روز شجاع جدید» محصول سونی و مارول در اولین آخر هفته خود حدود 270 میلیون دلار فروش داخلی داشته باشد.",
+      "summary_fa": "انتظار می رود «مرد عنکبوتی: روز شجاع جدید» محصول سونی و مارول در اولین آخر هفته خود حدود 270 میلیون دلار فروش داخلی داشته باشد.",
+      "summary_en": "Sony and Marvel's \"Spider-Man: Brave New Day\" is expected to haul in around $270 million domestically over its debut weekend.",
+      "link": "https://www.cnbc.com/2026/07/31/spider-man-brand-new-day-box-office-preview-sales.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 17:59:57 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3a28144795470ede188bf986cf3f41d7",
+      "title": "محققان یک عینک دید در شب تمام رنگی ابداع کردند",
+      "title_fa": "محققان یک عینک دید در شب تمام رنگی ابداع کردند",
+      "title_en": "Researchers devise a full-color night vision goggle",
+      "summary": "طول موج و شدت در مادون قرمز به رنگ در مرئی تبدیل می شود.",
+      "summary_fa": "طول موج و شدت در مادون قرمز به رنگ در مرئی تبدیل می شود.",
+      "summary_en": "Wavelength and intensity in the infrared are translated into colors in the visible.",
+      "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 17:58:38 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2235260160-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d7dda7d875a0bb92e253adbde689002",
+      "title": "نیویورک از کالشی شکایت کرد و می‌گوید بازارهای پیش‌بینی آن «قمار غیرقانونی» هستند",
+      "title_fa": "نیویورک از کالشی شکایت کرد و می‌گوید بازارهای پیش‌بینی آن «قمار غیرقانونی» هستند",
+      "title_en": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+      "summary": "نیویورک یکی از بسیاری از ایالت‌هایی است که پرونده‌هایی علیه کالشی و سایرین دارد که با دولت ترامپ در مورد اینکه چه کسی باید قانون‌گذاری کند اختلاف دارد.",
+      "summary_fa": "نیویورک یکی از بسیاری از ایالت‌هایی است که پرونده‌هایی علیه کالشی و سایرین دارد که با دولت ترامپ در مورد اینکه چه کسی باید قانون‌گذاری کند اختلاف دارد.",
+      "summary_en": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.",
+      "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 17:52:23 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "56b48962a4014322371722a219a8655b",
+      "title": "ایتالیا می گوید به طور موقت توافق شنگن اتحادیه اروپا با اسپانیا را پس از رسیدن 60000 مهاجر به سئوتا به حالت تعلیق در می آورد - همانطور که اتفاق افتاد.",
+      "title_fa": "ایتالیا می گوید به طور موقت توافق شنگن اتحادیه اروپا با اسپانیا را پس از رسیدن 60000 مهاجر به سئوتا به حالت تعلیق در می آورد - همانطور که اتفاق افتاد.",
+      "title_en": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
+      "summary": "این اقدام بر افرادی که با هواپیما یا قایق بین دو کشور سفر می کنند تأثیر خواهد گذاشت. ادامه مطلب...",
+      "summary_fa": "این اقدام بر افرادی که با هواپیما یا قایق بین دو کشور سفر می کنند تأثیر خواهد گذاشت. ادامه مطلب...",
+      "summary_en": "The measure will impact people travelling by plane or boat between the two countriesSpanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernando Grande-Marlaska.He first visited the Tarajal border crossing, and is now talking to officials from local authorities, border and police services. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 17:43:45 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2bd97f6e39f233e2a6f923a43400854facc6cb5a/779_0_5910_4729/master/5910.jpg?width=140&quality=85&auto=format&fit=max&s=ba459e2044f65915efa7a9edb39a91d8",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e4eceb16590f2272e9dfe0953e023e78",
+      "title": "اعضای فیفا اینفانتینو را به دلیل طرح سرمایه گذاری بحث برانگیز 20 میلیارد دلاری مورد انتقاد قرار دادند",
+      "title_fa": "اعضای فیفا اینفانتینو را به دلیل طرح سرمایه گذاری بحث برانگیز 20 میلیارد دلاری مورد انتقاد قرار دادند",
+      "title_en": "Fifa insiders turn on Infantino over controversial $20bn investment plan",
+      "summary": "مداخلات دو مقام ارشد بحران بر سر طرح رئیس جمهور برای ایجاد سرمایه گذاری تجاری جدید و فروش 20 درصد سهام را عمیق تر می کند.",
+      "summary_fa": "مداخلات دو مقام ارشد بحران بر سر طرح رئیس جمهور برای ایجاد سرمایه گذاری تجاری جدید و فروش 20 درصد سهام را عمیق تر می کند.",
+      "summary_en": "Interventions by two senior officials deepen crisis over president’s plan to create new commercial venture and sell 20% stake",
+      "link": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 17:40:46 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4afe4f8-a736-4301-9ebe-c3d78cef059b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b2ab674ded11eeb8f949914185929815",
+      "title": "لامور، مدیر اجرایی فیفا می گوید کارکنان در مورد برنامه جام جهانی اینفانتینو فریب خورده اند",
+      "title_fa": "لامور، مدیر اجرایی فیفا می گوید کارکنان در مورد برنامه جام جهانی اینفانتینو فریب خورده اند",
+      "title_en": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
+      "summary": "کوین لامور، مدیر ارشد فیفا، می‌گوید کارکنان بر سر برنامه فروش جام جهانی جیانی اینفانتینو، رئیس جمهور، فریب خوردند.",
+      "summary_fa": "کوین لامور، مدیر ارشد فیفا، می‌گوید کارکنان بر سر برنامه فروش جام جهانی جیانی اینفانتینو، رئیس جمهور، فریب خوردند.",
+      "summary_en": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.",
+      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 17:38:04 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9fa083f4e5c035013b237c1535aae602",
+      "title": "فدرال رزرو وارش از پایبندی به اصول خود برای سیاست پولی خوب شکست خورده است",
+      "title_fa": "فدرال رزرو وارش از پایبندی به اصول خود برای سیاست پولی خوب شکست خورده است",
+      "title_en": "Warsh’s Fed is failing to stick to its own principles for good monetary policy",
+      "summary": "سرمایه‌گذاران اوراق قرضه نمی‌دانند چگونه قول کوین وارش، رئیس فدرال رزرو برای بازگرداندن قیمت‌های باثبات، با انفعال در نرخ‌های بهره برابری می‌کند.",
+      "summary_fa": "سرمایه‌گذاران اوراق قرضه نمی‌دانند چگونه قول کوین وارش، رئیس فدرال رزرو برای بازگرداندن قیمت‌های باثبات، با انفعال در نرخ‌های بهره برابری می‌کند.",
+      "summary_en": "Bond investors don’t understand how Fed Chair Kevin Warsh’s pledge to restore stable prices squares with inaction on interest rates.",
+      "link": "https://www.marketwatch.com/story/warshs-fed-is-failing-to-stick-to-its-own-principles-for-good-monetary-policy-0d4e45ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 17:38:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-28420523",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b58cf10b3f28af382bc8af03cf5399ed",
+      "title": "آمازون بازپرداخت 600 میلیون دلاری تعرفه خود را به مشتریان تقسیم می کند - در اینجا چه کسانی واجد شرایط هستند",
+      "title_fa": "آمازون بازپرداخت 600 میلیون دلاری تعرفه خود را به مشتریان تقسیم می کند - در اینجا چه کسانی واجد شرایط هستند",
+      "title_en": "Amazon is splitting its $600 million tariff refund with customers - here's who's eligible",
+      "summary": "چیزی که پس می گیرید بستگی به میزان هزینه ای دارد - اما انتظار زیادی نداشته باشید.",
+      "summary_fa": "چیزی که پس می گیرید بستگی به میزان هزینه ای دارد - اما انتظار زیادی نداشته باشید.",
+      "summary_en": "What you'll get back depends on how much you spent - but don't expect much.",
+      "link": "https://www.zdnet.com/article/amazon-600-million-tariff-refund-with-customers/",
+      "source": "ZDNet",
+      "published_at": "Fri, 31 Jul 2026 17:36:09 GMT",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec09b392ed4edfc36ecd94250e799ff5",
+      "title": "چین می تواند رونق تولید خودروهای الکتریکی را با خودروهای الکتریکی بازیافتی تامین کند",
+      "title_fa": "چین می تواند رونق تولید خودروهای الکتریکی را با خودروهای الکتریکی بازیافتی تامین کند",
+      "title_en": "China could supply EV manufacturing boom with recycled EVs",
+      "summary": "نگاهی به شیمی باتری ها و موتورها، فرصت بزرگی را برای بازیافت نشان می دهد.",
+      "summary_fa": "نگاهی به شیمی باتری ها و موتورها، فرصت بزرگی را برای بازیافت نشان می دهد.",
+      "summary_en": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
+      "link": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 17:29:21 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1756050492-1152x648.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "b673e4bc4953f88c2bdb08b798b03179",
+      "title": "سئوتا بحران مهاجرت اروپا در سال 2015 را تداعی می کند. اما خیلی چیزها از آن زمان تغییر کرده است.",
+      "title_fa": "سئوتا بحران مهاجرت اروپا در سال 2015 را تداعی می کند. اما خیلی چیزها از آن زمان تغییر کرده است.",
+      "title_en": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
+      "summary": "عبور 50000 نفر در این هفته به خاک اسپانیا، مانند بحران مهاجرت در سال 2015 برای رهبران اروپا، بحرانی را برای دولت اسپانیا ایجاد کرده است. زمینه متفاوت است.",
+      "summary_fa": "عبور 50000 نفر در این هفته به خاک اسپانیا، مانند بحران مهاجرت در سال 2015 برای رهبران اروپا، بحرانی را برای دولت اسپانیا ایجاد کرده است. زمینه متفاوت است.",
+      "summary_en": "The crossing of 50,000 people to Spanish territory this week has created a crisis for the Spanish government, much as the 2015 migration crisis did for Europe’s leaders. The context is different.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 17:16:31 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-state-of-migration-01-mhqz/31europe-migrants-state-of-migration-01-mhqz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "cac4c824d4f358f7c412148ba3d5c909",
+      "title": "نخست وزیر اسپانیا هجوم 60000 مهاجر را محکوم کرد",
+      "title_fa": "نخست وزیر اسپانیا هجوم 60000 مهاجر را محکوم کرد",
+      "title_en": "Spain’s prime minister condemns influx of 60,000 migrants",
+      "summary": "ورود دسته جمعی به منطقه سئوتا \"نقض\" است. . . پدرو سانچز می گوید تمامیت ارضی",
+      "summary_fa": "ورود دسته جمعی به منطقه سئوتا \"نقض\" است. . . پدرو سانچز می گوید تمامیت ارضی",
+      "summary_en": "Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez",
+      "link": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 17:14:42 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5cd15011-c117-4d94-8626-0a80c7ccb747.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2e100da558f7d9f0410bfb7afb66dd7d",
+      "title": "سونی به واکنش متقابل اذعان کرد، \"با احتیاط\" با پایان دیسک های پلی استیشن جلو می رود",
+      "title_fa": "سونی به واکنش متقابل اذعان کرد، \"با احتیاط\" با پایان دیسک های پلی استیشن جلو می رود",
+      "title_en": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
+      "summary": "سونی فکر نمی‌کند این حرکت به آن آسیب مالی وارد کند.",
+      "summary_fa": "سونی فکر نمی‌کند این حرکت به آن آسیب مالی وارد کند.",
+      "summary_en": "Sony doesn't think the move will hurt it financially.",
+      "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 17:07:42 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283657893-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06729acdee26fd60633535611561d3b5",
+      "title": "متحدان غربی به کارکنان فناوری اطلاعات کره شمالی در مورد تامین مالی زرادخانه هسته ای هشدار می دهند",
+      "title_fa": "متحدان غربی به کارکنان فناوری اطلاعات کره شمالی در مورد تامین مالی زرادخانه هسته ای هشدار می دهند",
+      "title_en": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "summary": "پیونگ یانگ متهم به استفاده از ارز سختی است که توسط کارگرانی که به کمک هوش مصنوعی به دست آورده اند برای تقویت برنامه تسلیحاتی استفاده می کند.",
+      "summary_fa": "پیونگ یانگ متهم به استفاده از ارز سختی است که توسط کارگرانی که به کمک هوش مصنوعی به دست آورده اند برای تقویت برنامه تسلیحاتی استفاده می کند.",
+      "summary_en": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 17:06:52 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bbbb2f53174d5ac96659863b68cb8d70",
+      "title": "نخست‌وزیر اسپانیا پس از رسیدن 60 هزار مهاجر از مراکش به سئوتا، قاچاقچیان را مقصر دانست.",
+      "title_fa": "نخست‌وزیر اسپانیا پس از رسیدن 60 هزار مهاجر از مراکش به سئوتا، قاچاقچیان را مقصر دانست.",
+      "title_en": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "summary": "اسپانیا اعلام کرد که اکثر مهاجران تا عصر جمعه به مراکش بازگشته اند، زیرا ایتالیا توافقنامه شینگن خود را در مورد رفت و آمد آزاد با اسپانیا به حالت تعلیق درآورده است.",
+      "summary_fa": "اسپانیا اعلام کرد که اکثر مهاجران تا عصر جمعه به مراکش بازگشته اند، زیرا ایتالیا توافقنامه شینگن خود را در مورد رفت و آمد آزاد با اسپانیا به حالت تعلیق درآورده است.",
+      "summary_en": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 17:03:47 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b29/live/f8112010-8d09-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "08eb46567c49599b5974b4c959bd3845",
+      "title": "در اینجا آمده است که بیگ اویل چگونه از بحران تاریخی عرضه سود کرد",
+      "title_fa": "در اینجا آمده است که بیگ اویل چگونه از بحران تاریخی عرضه سود کرد",
+      "title_en": "Here’s how Big Oil cashed in on the historic supply crunch",
+      "summary": "سود ExxonMobil در سه ماهه اخیر بیش از دو برابر شد، اما این کافی نبود. چاپ بهتر شورون باعث افزایش سهام این شرکت شد.",
+      "summary_fa": "سود ExxonMobil در سه ماهه اخیر بیش از دو برابر شد، اما این کافی نبود. چاپ بهتر شورون باعث افزایش سهام این شرکت شد.",
+      "summary_en": "ExxonMobil’s profit more than doubled in the latest quarter, but that was not enough. Chevron’s better print boosted the company’s stock.",
+      "link": "https://www.marketwatch.com/story/exxonmobil-chevrons-combined-profits-quadrupled-in-three-months-as-the-iran-war-raged-a6e8da62?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 17:03:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-96409142",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eea24981254aa719770fe104b3a58d81",
+      "title": "حمله اوکراین به کشتی ایرانی نشان می دهد که چگونه دو جنگ می تواند مارپیچ شود",
+      "title_fa": "حمله اوکراین به کشتی ایرانی نشان می دهد که چگونه دو جنگ می تواند مارپیچ شود",
+      "title_en": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
+      "summary": "ایران برای جنگ روسیه علیه اوکراین کمک نظامی به روسیه ارسال کرد. حال سوال این است که آیا این درگیری و جنگ آمریکا و اسرائیل علیه ایران به هم نزدیک می‌شوند؟",
+      "summary_fa": "ایران برای جنگ روسیه علیه اوکراین کمک نظامی به روسیه ارسال کرد. حال سوال این است که آیا این درگیری و جنگ آمریکا و اسرائیل علیه ایران به هم نزدیک می‌شوند؟",
+      "summary_en": "Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.",
+      "link": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 16:57:05 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31dc-ukraine-iran-topart-wqvk/31dc-ukraine-iran-topart-wqvk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "16543e21cc3ea0d096f2fe4ab3919a62",
+      "title": "اپیدمی ابولا در جمهوری دموکراتیک کنگو به دومین شیوع بزرگ جهان تبدیل شده است",
+      "title_fa": "اپیدمی ابولا در جمهوری دموکراتیک کنگو به دومین شیوع بزرگ جهان تبدیل شده است",
+      "title_en": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "summary": "مقامات این ویروس را سریعترین شیوع تا کنون اعلام می کنند و به جهان هشدار می دهند که \"توجه بسیار بیشتری داشته باشند\".",
+      "summary_fa": "مقامات این ویروس را سریعترین شیوع تا کنون اعلام می کنند و به جهان هشدار می دهند که \"توجه بسیار بیشتری داشته باشند\".",
+      "summary_en": "Officials declare the outbreak the fastest spreading ever, warning the world to 'pay much more attention'.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:52:04 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ccdac5916310a0344710aab892a69bcb",
       "title": "مناظر تالاب و تجدید طراحی: هتل چهار فصل دنیلی ونیز اکنون باز است",
       "title_fa": "مناظر تالاب و تجدید طراحی: هتل چهار فصل دنیلی ونیز اکنون باز است",
@@ -72070,6 +72553,27 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ddd79366e1a6a0f488af8033ee2a086",
+      "title": "از آنجایی که فدرال رزرو وارش برای مقابله با تورم تحت فشار است، این شاخص ها نشان می دهند که در پایین ترین حد خود در سال های اخیر قرار دارد.",
+      "title_fa": "از آنجایی که فدرال رزرو وارش برای مقابله با تورم تحت فشار است، این شاخص ها نشان می دهند که در پایین ترین حد خود در سال های اخیر قرار دارد.",
+      "title_en": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+      "summary": "اندازه‌های متوسط ​​بریده شده تصویری متفاوت از اعداد تیتر ارائه می‌کنند.",
+      "summary_fa": "اندازه‌های متوسط ​​بریده شده تصویری متفاوت از اعداد تیتر ارائه می‌کنند.",
+      "summary_en": "Trimmed mean measures are painting a different picture than the headline numbers.",
+      "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 16:51:30 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72372,6 +72876,27 @@
       }
     },
     {
+      "id": "415f4640f6a34d66767ea894b972daf4",
+      "title": "به گفته کارشناسان، داروی پیشگیری از اچ آی وی می تواند موارد ابتلا را در سطح جهانی کاهش دهد، اما کاهش های USAID مانع از دسترسی می شود",
+      "title_fa": "به گفته کارشناسان، داروی پیشگیری از اچ آی وی می تواند موارد ابتلا را در سطح جهانی کاهش دهد، اما کاهش های USAID مانع از دسترسی می شود",
+      "title_en": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "summary": "داروی تزریقی PrEP وعده می دهد اما سرمایه گذاری در پیشگیری از اچ آی وی در سراسر جهان به طور چشمگیری کاهش یافته است ثبت نام برای آخرین اخبار ایمیل خبرنامه ایالات متحده نوآوری های جدید در زمینه پیشگیری از HIV می تواند تعداد موارد جدید HIV را در سراسر جهان به طور چشمگیری کاهش دهد، اما به گفته کارشناسان در کنفرانس Aieeds در Ri22o، کاهش کمک های خارجی ایالات متحده به این معنی است که کسانی که بیشتر به داروی جدید نیاز دارند، نتوانند به آن دسترسی پیدا کنند. برزیل. یک سال پیش، سازمان بهداشت جهانی توصیه کرد که دولت‌ها در سراسر جهان دسترسی گسترده‌تر به لناکاپاویر را در اولویت قرار دهند، نسخه تزریقی داروی پیشگیری از HIV PrEP که تنها به دو تزریق در سال نیاز دارد. PrEP که به صورت داروهای خوراکی روزانه و تزریقات دو ماه یکبار نیز ارائه می شود، 99 درصد در پیشگیری از HIV مقاربتی برای افرادی که به طور مداوم آن را مصرف می کنند، موثر است. ادامه مطلب...",
+      "summary_fa": "داروی تزریقی PrEP وعده می دهد اما سرمایه گذاری در پیشگیری از اچ آی وی در سراسر جهان به طور چشمگیری کاهش یافته است ثبت نام برای آخرین اخبار ایمیل خبرنامه ایالات متحده نوآوری های جدید در زمینه پیشگیری از HIV می تواند تعداد موارد جدید HIV را در سراسر جهان به طور چشمگیری کاهش دهد، اما به گفته کارشناسان در کنفرانس Aieeds در Ri22o، کاهش کمک های خارجی ایالات متحده به این معنی است که کسانی که بیشتر به داروی جدید نیاز دارند، نتوانند به آن دسترسی پیدا کنند. برزیل. یک سال پیش، سازمان بهداشت جهانی توصیه کرد که دولت‌ها در سراسر جهان دسترسی گسترده‌تر به لناکاپاویر را در اولویت قرار دهند، نسخه تزریقی داروی پیشگیری از HIV PrEP که تنها به دو تزریق در سال نیاز دارد. PrEP که به صورت داروهای خوراکی روزانه و تزریقات دو ماه یکبار نیز ارائه می شود، 99 درصد در پیشگیری از HIV مقاربتی برای افرادی که به طور مداوم آن را مصرف می کنند، موثر است. ادامه مطلب...",
+      "summary_en": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwideSign up for the Breaking News US newsletter email New innovations in HIV prevention could dramatically reduce the number of new HIV cases around the globe, but US foreign aid cuts will mean that those that most need the new medication will be unable to access it, according to experts at the Aids 2026 Conference in Rio de Janeiro, Brazil.One year ago, the World Health Organization recommended that governments around the world prioritize expanded access to lenacapavir, an injectable version of the HIV prevention medication PrEP that requires only two injections annually. PrEP, which also comes in the form of daily oral medications and bimonthly injections, is 99% effective in preventing sexually transmitted HIV for people who take it consistently. Continue reading...",
+      "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 16:29:14 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1425dee35e96153b23a4f1a500b6bc8d9315f10c/290_0_3806_3044/master/3806.jpg?width=140&quality=85&auto=format&fit=max&s=2fbde3a41917d02a51e7261df877c5c7",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "e78cfb5be4ed4cbabac8cb3941a7be84",
       "title": "هیلی بودجه را در 28 اکتبر تحویل می دهد",
       "title_fa": "هیلی بودجه را در 28 اکتبر تحویل می دهد",
@@ -72424,6 +72949,27 @@
       "link": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
       "source": "CNBC",
       "published_at": "Fri, 31 Jul 2026 16:25:29 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79313ac83ba93397accc494ce452f3da",
+      "title": "جیم کرامر: اگر قبلاً مالک آن نیستید، این سهام صنعتی را به سرعت بخرید",
+      "title_fa": "جیم کرامر: اگر قبلاً مالک آن نیستید، این سهام صنعتی را به سرعت بخرید",
+      "title_en": "Jim Cramer: Buy this industrial stock on the dip if you don't own it already",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/07/31/jim-cramer-buy-this-industrial-stock-on-the-dip-if-you-dont-own-it-already.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 16:21:00 GMT",
       "date_iso": "2026-07-31",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
@@ -76390,6 +76936,27 @@
       "summary": "امواج گرما به طور همزمان به اروپا، آمریکای شمالی و آسیا می‌رسند که بخشی از آن توسط آب‌های گرم اقیانوس آرام و تغییرات اقلیمی ناشی می‌شود.",
       "summary_fa": "امواج گرما به طور همزمان به اروپا، آمریکای شمالی و آسیا می‌رسند که بخشی از آن توسط آب‌های گرم اقیانوس آرام و تغییرات اقلیمی ناشی می‌شود.",
       "summary_en": "Heat waves are simultaneously hitting Europe, North America, and Asia, driven in part by the hot waters in the tropical Pacific—and climate change.",
+      "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
+      "source": "Wired",
+      "published_at": "Fri, 31 Jul 2026 09:00:00 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "64d3834066fd8c76fa51b185d62d8f60",
+      "title": "آنچه در پشت موج گرما است که بخش های عظیمی از جهان را سوزانده است",
+      "title_fa": "آنچه در پشت موج گرما است که بخش های عظیمی از جهان را سوزانده است",
+      "title_en": "What’s Behind the Heat Wave Scorching Huge Parts of the World",
+      "summary": "ترکیبی از ال نینو، آب های غیرمعمول گرم اقیانوس ها و تغییرات جریان جت باعث افزایش دما در ایالات متحده، اروپا و آسیا شده است.",
+      "summary_fa": "ترکیبی از ال نینو، آب های غیرمعمول گرم اقیانوس ها و تغییرات جریان جت باعث افزایش دما در ایالات متحده، اروپا و آسیا شده است.",
+      "summary_en": "A combination of El Niño, unusually hot ocean waters, and jet stream changes is sending temperatures soaring in the US, Europe, and Asia.",
       "link": "https://www.wired.com/story/world-heat-wave-el-nino-to-blame/",
       "source": "Wired",
       "published_at": "Fri, 31 Jul 2026 09:00:00 +0000",
@@ -88668,6 +89235,69 @@
       }
     },
     {
+      "id": "e78138ee52d59c8b5369e55e1f4cceb4",
+      "title": "ممنوعیت جاروبرقی ربات ها آنها را ایمن تر نمی کند، بلکه بدتر می کند",
+      "title_fa": "ممنوعیت جاروبرقی ربات ها آنها را ایمن تر نمی کند، بلکه بدتر می کند",
+      "title_en": "The ban on robot vacuums won’t make them safer, only worse",
+      "summary": "هیچ ابزار دیگری به اندازه یک جاروبرقی روباتی درباره خانه شما اطلاعاتی ندارد. آن‌ها فضای شما را نقشه می‌کشند، روال‌های روزمره شما را یاد می‌گیرند، و بسیاری اکنون دوربین و میکروفون را در هر اتاق خانه شما حمل می‌کنند. از آنجایی که هوش مصنوعی به آنها درک بهتری از آنچه می بینند می دهد، خطرات حریم خصوصی و امنیتی که این ربات های مستقل دارند […]",
+      "summary_fa": "هیچ ابزار دیگری به اندازه یک جاروبرقی روباتی درباره خانه شما اطلاعاتی ندارد. آن‌ها فضای شما را نقشه می‌کشند، روال‌های روزمره شما را یاد می‌گیرند، و بسیاری اکنون دوربین و میکروفون را در هر اتاق خانه شما حمل می‌کنند. از آنجایی که هوش مصنوعی به آنها درک بهتری از آنچه می بینند می دهد، خطرات حریم خصوصی و امنیتی که این ربات های مستقل دارند […]",
+      "summary_en": "No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see, the privacy and security risks these autonomous robots pose are […]",
+      "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+      "source": "The Verge",
+      "published_at": "2026-07-31T13:30:49-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a51f91a205488fe5cef513b2379d5da2",
+      "title": "Tomodachi Life: Living the Dream یک سیم کارت عجیب و غریب است که ارزش خرید با این تخفیف را دارد.",
+      "title_fa": "Tomodachi Life: Living the Dream یک سیم کارت عجیب و غریب است که ارزش خرید با این تخفیف را دارد.",
+      "title_en": "Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount",
+      "summary": "به دنبال راه اندازی بهشت ​​جزیره ای پر از Miis بر اساس خانواده، دوستان و افراد مشهور هستید، اما تمایلی به پرداخت کرایه کامل ندارید؟ Woot Tomodachi Life: Living the Dream را برای سوییچ با قیمت 52.99 دلار (معمولاً 59.95 دلار) به فروش می رساند. این بازی منحصربه‌فرد شبیه به Animal Crossing است، اما بی‌نظیرتر، شما را در ایجاد و مدیریت روابط می‌بیند.",
+      "summary_fa": "به دنبال راه اندازی بهشت ​​جزیره ای پر از Miis بر اساس خانواده، دوستان و افراد مشهور هستید، اما تمایلی به پرداخت کرایه کامل ندارید؟ Woot Tomodachi Life: Living the Dream را برای سوییچ با قیمت 52.99 دلار (معمولاً 59.95 دلار) به فروش می رساند. این بازی منحصربه‌فرد شبیه به Animal Crossing است، اما بی‌نظیرتر، شما را در ایجاد و مدیریت روابط می‌بیند.",
+      "summary_en": "Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale for $52.99 (usually $59.95). Sort of like Animal Crossing, but more off-kilter, this unique game sees you building and managing relationships […]",
+      "link": "https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-31T13:09:13-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fb7bc8718809c86b2af747d459fd18e3",
+      "title": "در اینجا مشکل قرار دادن یک تولید کننده تصویر هوش مصنوعی در Google Earth وجود دارد",
+      "title_fa": "در اینجا مشکل قرار دادن یک تولید کننده تصویر هوش مصنوعی در Google Earth وجود دارد",
+      "title_en": "Here’s the problem with putting an AI image generator in Google Earth",
+      "summary": "اکنون یک پیام متنی برای تولید تصاویر تحریف کننده واقعیت با استفاده از تصاویر ماهواره ای، هوایی و سه بعدی Google Earth کافی است، مانند این تصاویر تولید شده توسط هنک ون اس از Digital Digging که \"پناهگان نزدیک مرز مکزیک\" و دهانه بمب را در نزدیکی بیمارستانی در غزه نشان می دهد. گوگل به تصاویر تغییر یافته توسط هوش مصنوعی Digital Digging پاسخ داد و گفت: «ما […]",
+      "summary_fa": "اکنون یک پیام متنی برای تولید تصاویر تحریف کننده واقعیت با استفاده از تصاویر ماهواره ای، هوایی و سه بعدی Google Earth کافی است، مانند این تصاویر تولید شده توسط هنک ون اس از Digital Digging که \"پناهگان نزدیک مرز مکزیک\" و دهانه بمب را در نزدیکی بیمارستانی در غزه نشان می دهد. گوگل به تصاویر تغییر یافته توسط هوش مصنوعی Digital Digging پاسخ داد و گفت: «ما […]",
+      "summary_en": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Google responded to Digital Digging's AI-altered images, saying, \"We […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "source": "The Verge",
+      "published_at": "2026-07-31T13:05:46-04:00",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "517dcef2be15eadf66218a4d32597699",
       "title": "برچسب‌های اصلی قوانینی را پیشنهاد می‌کنند که هوش مصنوعی را از نمودارها دور نگه دارند",
       "title_fa": "برچسب‌های اصلی قوانینی را پیشنهاد می‌کنند که هوش مصنوعی را از نمودارها دور نگه دارند",
@@ -88827,6 +89457,27 @@
       "published_at": "2026-07-31T06:40:54-04:00",
       "date_iso": "2026-07-31",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4c8bbadc2b60bf1cf48beb923673e3c9",
+      "title": "گفتگوی مختصر: اورکاها یک ماهی خورشیدی را تکه تکه کردند - محققان مطمئن نیستند که چرا",
+      "title_fa": "گفتگوی مختصر: اورکاها یک ماهی خورشیدی را تکه تکه کردند - محققان مطمئن نیستند که چرا",
+      "title_en": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+      "summary": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02419-2 کارکنان طبیعت درباره بررسی گسترده حشرات در آمازون و رفتار غیرمعمول اورکا که در ویدئو مشاهده می شود، بحث می کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 31 جولای 2026; doi:10.1038/d41586-026-02419-2 کارکنان طبیعت درباره بررسی گسترده حشرات در آمازون و رفتار غیرمعمول اورکا که در ویدئو مشاهده می شود، بحث می کنند.",
+      "summary_en": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.",
+      "link": "https://www.nature.com/articles/d41586-026-02419-2",
+      "source": "Nature",
+      "published_at": "2026-07-31 18:16",
+      "date_iso": "2026-07-31",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
