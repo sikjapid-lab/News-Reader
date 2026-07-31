@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-31 19:58:20",
-  "total_count": 4616,
+  "last_update": "2026-07-31 21:18:00",
+  "total_count": 4637,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -71952,6 +71952,48 @@
       }
     },
     {
+      "id": "66dab49abc9a8ee460e8e8cde0b4f4f0",
+      "title": "آتش‌سوزی‌ها: بخش Var بار دیگر با شعله‌های آتش روبرو شد",
+      "title_fa": "آتش‌سوزی‌ها: بخش Var بار دیگر با شعله‌های آتش روبرو شد",
+      "title_en": "Wildfires: Var department once again facing the flames",
+      "summary": "آتش سوزی که در اثر گرمای شدید و میسترال شعله ور شد، 1000 هکتار را در عرض 6 ساعت فرا گرفت. 2500 نفر در نزدیکی توده گروس بسیلون تخلیه شدند و روستای کورنس اکنون به طور کامل قطع شده است.",
+      "summary_fa": "آتش سوزی که در اثر گرمای شدید و میسترال شعله ور شد، 1000 هکتار را در عرض 6 ساعت فرا گرفت. 2500 نفر در نزدیکی توده گروس بسیلون تخلیه شدند و روستای کورنس اکنون به طور کامل قطع شده است.",
+      "summary_en": "Fanned by the mistral and extreme heat, the blaze swept through 1,000 hectares in six hours; 2,500 people were evacuated near the Gros Bessillon massif and the village of Correns is now completely cut off.",
+      "link": "http://www.euronews.com/2026/07/31/wildfires-var-department-once-again-facing-the-flames",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 22:23:06 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d02206bc3f6dc6e5f6ca9e97f708eac",
+      "title": "شدیدترین زمین لرزه در چند سال اخیر منطقه آتشفشانی در نزدیکی ناپل را لرزاند و چهار زخمی برجای گذاشت",
+      "title_fa": "شدیدترین زمین لرزه در چند سال اخیر منطقه آتشفشانی در نزدیکی ناپل را لرزاند و چهار زخمی برجای گذاشت",
+      "title_en": "Strongest earthquake in years strikes volcanic area near Naples, injuring four",
+      "summary": "زمین لرزه ای به بزرگی 4.7 ریشتر منطقه فلگرین فیلدز، منطقه ای آتشفشانی در نزدیکی ناپل در جنوب ایتالیا را لرزاند و چهار نفر مجروح و به ساختمان ها و کلیساها آسیب وارد کرد.",
+      "summary_fa": "زمین لرزه ای به بزرگی 4.7 ریشتر منطقه فلگرین فیلدز، منطقه ای آتشفشانی در نزدیکی ناپل در جنوب ایتالیا را لرزاند و چهار نفر مجروح و به ساختمان ها و کلیساها آسیب وارد کرد.",
+      "summary_en": "A magnitude 4.7 earthquake struck the Phlegraean Fields, a volcanic area near Naples in southern Italy, injuring four people and damaging buildings and churches.",
+      "link": "http://www.euronews.com/my-europe/2026/07/31/strongest-earthquake-in-years-strikes-volcanic-area-near-naples-injuring-four",
+      "source": "EuroNews",
+      "published_at": "Fri, 31 Jul 2026 22:08:05 +0200",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4b1805f20dc19f8e4adbdd90a297fae8",
       "title": "معضل حقوقی اسپانیا پشت رکورد ورود مهاجران سئوتا",
       "title_fa": "معضل حقوقی اسپانیا پشت رکورد ورود مهاجران سئوتا",
@@ -71966,6 +72008,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8dde6f301345ea344d72a335b8009289",
+      "title": "S&P 500 با اولین کاهش ماه جولای خود از سال 2014 به پایان می رسد.",
+      "title_fa": "S&P 500 با اولین کاهش ماه جولای خود از سال 2014 به پایان می رسد.",
+      "title_en": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
+      "summary": "پس از پایان ماه، افت بازار سهام با بدترین ماه برای سهام تراشه در 24 سال گذشته برجسته شد.",
+      "summary_fa": "پس از پایان ماه، افت بازار سهام با بدترین ماه برای سهام تراشه در 24 سال گذشته برجسته شد.",
+      "summary_en": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
+      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 21:10:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-62125189",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a2285fc803ed674f7df60c64cd9a19e",
+      "title": "هجوم مهاجران به قلمرو اسپانیا و واکنش های سیاسی",
+      "title_fa": "هجوم مهاجران به قلمرو اسپانیا و واکنش های سیاسی",
+      "title_en": "Migrants Surge Into Spanish Territory, Prompting Political Backlash",
+      "summary": "مهاجرت ناگهانی مهاجران از مراکش مقامات اسپانیایی را شگفت زده کرد و انتقاد شدید احزاب راستگرا در سراسر این قاره را برانگیخت.",
+      "summary_fa": "مهاجرت ناگهانی مهاجران از مراکش مقامات اسپانیایی را شگفت زده کرد و انتقاد شدید احزاب راستگرا در سراسر این قاره را برانگیخت.",
+      "summary_en": "A sudden exodus of migrants from Morocco startled Spanish officials and drew heavy criticism from right-wing parties across the continent.",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-into-spanish-territory-triggering-political-backlash.html",
+      "source": "NY Times",
+      "published_at": "Fri, 31 Jul 2026 21:06:45 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-europe-migrants-leadall-mjvg/31int-europe-migrants-leadall-mjvg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "373f9a3c4c33b53fff4e0fb7d225e8bf",
+      "title": "مقامات می گویند جسد کوهنورد استرالیایی مفقود شده در وایومینگ پیدا شد",
+      "title_fa": "مقامات می گویند جسد کوهنورد استرالیایی مفقود شده در وایومینگ پیدا شد",
+      "title_en": "Missing Australian hiker found dead in Wyoming, officials say",
+      "summary": "به گفته مقامات، جسد ویلیام استندیش در کوه‌های تتون کشف شد، به گفته مقامات، این مرد که به‌عنوان سقوط مرگبار احتمالاً علت مرگ است، یک کوهنورد 28 ساله استرالیایی که هنگام پیاده‌روی در مسیر Continental Divide بین پارک‌های ملی یلوستون و گراند تتون در وایومینگ، ارتباط خود را با خانواده‌اش از دست داده بود. پزشکی قانونی شهرستان تتون گفت: قله هایی در دامنه غربی رشته کوه تتون وجود دارد. بازرسان می گویند به احتمال زیاد او دچار سقوط مرگبار شده است. ادامه مطلب...",
+      "summary_fa": "به گفته مقامات، جسد ویلیام استندیش در کوه‌های تتون کشف شد، به گفته مقامات، این مرد که به‌عنوان سقوط مرگبار احتمالاً علت مرگ است، یک کوهنورد 28 ساله استرالیایی که هنگام پیاده‌روی در مسیر Continental Divide بین پارک‌های ملی یلوستون و گراند تتون در وایومینگ، ارتباط خود را با خانواده‌اش از دست داده بود. پزشکی قانونی شهرستان تتون گفت: قله هایی در دامنه غربی رشته کوه تتون وجود دارد. بازرسان می گویند به احتمال زیاد او دچار سقوط مرگبار شده است. ادامه مطلب...",
+      "summary_en": "Body of William Standish discovered in Teton mountains as investigators say fatal fall likely cause of deathA 28-year-old Australian hiker who lost contact with his family while hiking the Continental Divide Trail between Yellowstone and Grand Teton national parks in Wyoming has been found dead, according to authorities.The man, identified as William Standish, was discovered by rescuers on Wednesday morning in the Wigwams, a series of rocky peaks on the west slope of the Teton mountain range, the Teton county coroner said. Investigators say it was likely he suffered a fatal fall. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/jul/31/australian-hiker-wyoming",
+      "source": "The Guardian",
+      "published_at": "Fri, 31 Jul 2026 21:06:30 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ac2dfb2a2adee40221066def95495cbc31361b1d/66_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=fb66db35039ff886a7120dbfd59efd16",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -71994,6 +72099,216 @@
       }
     },
     {
+      "id": "67faeee7bfffa33d394d91d85fe3a508",
+      "title": "دانشجویان کمبریج در مورد چرایی اعتراضشان در جشن فارغ التحصیلی",
+      "title_fa": "دانشجویان کمبریج در مورد چرایی اعتراضشان در جشن فارغ التحصیلی",
+      "title_en": "Cambridge students on why they protested at graduation ceremony",
+      "summary": "چندین دانشجوی کمبریج در مراسم فارغ التحصیلی خود اعتراض کردند",
+      "summary_fa": "چندین دانشجوی کمبریج در مراسم فارغ التحصیلی خود اعتراض کردند",
+      "summary_en": "Several Cambridge students protested during their graduation ceremonies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:58:14 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c68869952817e3675d58f72ed4b9e2e5",
+      "title": "کلود کدهای مخرب را در اینترنت منتشر کرد و به 3 شرکت واقعی حمله کرد",
+      "title_fa": "کلود کدهای مخرب را در اینترنت منتشر کرد و به 3 شرکت واقعی حمله کرد",
+      "title_en": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "summary": "اگر هک‌ها از روش‌های مرسوم استفاده می‌کردند، احتمالاً کسی به زندان می‌رفت.",
+      "summary_fa": "اگر هک‌ها از روش‌های مرسوم استفاده می‌کردند، احتمالاً کسی به زندان می‌رفت.",
+      "summary_en": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 20:39:14 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "20d923135919cb68c2c60709f936529a",
+      "title": "ال نینو قدرتمند برای تشدید گرما در \"سیاره ای که در حال حاضر در آتش است\": سازمان ملل",
+      "title_fa": "ال نینو قدرتمند برای تشدید گرما در \"سیاره ای که در حال حاضر در آتش است\": سازمان ملل",
+      "title_en": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+      "summary": "گوترش دبیرکل سازمان ملل متحد خواستار توقف سوخت‌های فسیلی جدید شد زیرا ال نینو موج گرما، سیل و خشکسالی را در سراسر جهان ایجاد می‌کند.",
+      "summary_fa": "گوترش دبیرکل سازمان ملل متحد خواستار توقف سوخت‌های فسیلی جدید شد زیرا ال نینو موج گرما، سیل و خشکسالی را در سراسر جهان ایجاد می‌کند.",
+      "summary_en": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide",
+      "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:38:56 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "32aa4062d5905428c13c46a91102bbf5",
+      "title": "دولت و اپوزیسیون ونزوئلا برای برگزاری مذاکرات با هدف راهیابی به انتخابات",
+      "title_fa": "دولت و اپوزیسیون ونزوئلا برای برگزاری مذاکرات با هدف راهیابی به انتخابات",
+      "title_en": "Venezuela gov’t and opposition to hold talks aimed at path to elections",
+      "summary": "مذاکراتی که قرار است توسط دینورا فیگوئرا، قانونگذار سابق رهبری شود، در حالی که ماریا کورینا ماچادو، چهره مخالف از روند رسیدگی خارج شد.",
+      "summary_fa": "مذاکراتی که قرار است توسط دینورا فیگوئرا، قانونگذار سابق رهبری شود، در حالی که ماریا کورینا ماچادو، چهره مخالف از روند رسیدگی خارج شد.",
+      "summary_en": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:28:39 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b49b09f1cc8b158792ac2aac6e4b572b",
+      "title": "آیا چین به تنهایی یک مدل سطح بالای هوش مصنوعی ساخته است؟ یک گزارش جدید نشان می‌دهد که تراشه‌های انویدیا در این زمینه نقش داشته‌اند.",
+      "title_fa": "آیا چین به تنهایی یک مدل سطح بالای هوش مصنوعی ساخته است؟ یک گزارش جدید نشان می‌دهد که تراشه‌های انویدیا در این زمینه نقش داشته‌اند.",
+      "title_en": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
+      "summary": "بر اساس گزارش بلومبرگ، علی بابا برای Moonshot برای استفاده از Nvidia H200s خود توافق کرده است - اما غول فناوری چینی از این گزارش عقب نشینی کرد.",
+      "summary_fa": "بر اساس گزارش بلومبرگ، علی بابا برای Moonshot برای استفاده از Nvidia H200s خود توافق کرده است - اما غول فناوری چینی از این گزارش عقب نشینی کرد.",
+      "summary_en": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
+      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 20:23:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-39936449",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "58cc044d925b495634cce599b5d61fd1",
+      "title": "جسد یک کوهنورد آمریکایی پس از بهمن در پاکستان پیدا شد",
+      "title_fa": "جسد یک کوهنورد آمریکایی پس از بهمن در پاکستان پیدا شد",
+      "title_en": "Body of US climber the latest recovered after Pakistan avalanche",
+      "summary": "جسد دو کوهنورد دیگر قبلاً از کوه بیرون آمده است، در حالی که بقیه هنوز مفقود هستند.",
+      "summary_fa": "جسد دو کوهنورد دیگر قبلاً از کوه بیرون آمده است، در حالی که بقیه هنوز مفقود هستند.",
+      "summary_en": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 20:22:46 GMT",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c1/live/47cb0380-8d16-11f1-bfeb-2930213869d1.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2f10b601218465805b234f0045038580",
+      "title": "گوگل ارث با ابزار هوش مصنوعی پس گرفته شده برای ساخت تصاویر ماهواره ای جعلی در معرض خطر نابودی قرار گرفت",
+      "title_fa": "گوگل ارث با ابزار هوش مصنوعی پس گرفته شده برای ساخت تصاویر ماهواره ای جعلی در معرض خطر نابودی قرار گرفت",
+      "title_en": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "summary": "«گوگل چه می‌کند؟» ترس از اطلاعات نادرست باعث عقب نشینی ابزار هوش مصنوعی می شود.",
+      "summary_fa": "«گوگل چه می‌کند؟» ترس از اطلاعات نادرست باعث عقب نشینی ابزار هوش مصنوعی می شود.",
+      "summary_en": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 31 Jul 2026 20:21:05 +0000",
+      "date_iso": "2026-07-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-1152x648.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0afee8241bc03332a4f57e7b91773f04",
+      "title": "جویندگان کار اکنون می توانند هزاران دلار برای گواهی های هوش مصنوعی هزینه کنند. آیا ارزشش را دارد؟",
+      "title_fa": "جویندگان کار اکنون می توانند هزاران دلار برای گواهی های هوش مصنوعی هزینه کنند. آیا ارزشش را دارد؟",
+      "title_en": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
+      "summary": "شکارچیان شغل به این امید که برجسته شوند – و شاید دستمزد بیشتری دریافت کنند، به دنبال گواهی‌های هوش مصنوعی، نشان‌ها و سایر مدارک هستند.",
+      "summary_fa": "شکارچیان شغل به این امید که برجسته شوند – و شاید دستمزد بیشتری دریافت کنند، به دنبال گواهی‌های هوش مصنوعی، نشان‌ها و سایر مدارک هستند.",
+      "summary_en": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
+      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 31 Jul 2026 20:20:00 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-39628606",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "63193e2582df46f801a4c214089e32b4",
+      "title": "آلفابت، آمازون و مایکروسافت در مجموع نزدیک به 1.5 تریلیون دلار در این هفته اضافه کردند",
+      "title_fa": "آلفابت، آمازون و مایکروسافت در مجموع نزدیک به 1.5 تریلیون دلار در این هفته اضافه کردند",
+      "title_en": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+      "summary": "آمازون، مایکروسافت و گوگل صدها میلیارد دلار به ارزش بازار خود اضافه کردند، در حالی که اپل و متا ارزش بازار خود را کاهش دادند.",
+      "summary_fa": "آمازون، مایکروسافت و گوگل صدها میلیارد دلار به ارزش بازار خود اضافه کردند، در حالی که اپل و متا ارزش بازار خود را کاهش دادند.",
+      "summary_en": "Amazon, Microsoft and Google added hundreds of billions of dollars to their market caps, while Apple and Meta saw their market valuations fall.",
+      "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 20:17:54 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "078a64d1cfd49a2d363058f883e199e7",
+      "title": "در تصادف اتوبوس در الجزایر دست کم 25 نفر کشته و ده ها نفر زخمی شدند",
+      "title_fa": "در تصادف اتوبوس در الجزایر دست کم 25 نفر کشته و ده ها نفر زخمی شدند",
+      "title_en": "At least 25 people killed, dozens injured in Algeria bus crash",
+      "summary": "بر اثر تصادف اتوبوس در الجزایر دست کم 25 نفر کشته و ده ها تن دیگر زخمی شدند.",
+      "summary_fa": "بر اثر تصادف اتوبوس در الجزایر دست کم 25 نفر کشته و ده ها تن دیگر زخمی شدند.",
+      "summary_en": "At least 25 people have been killed and dozens others injured in a bus crash in Algeria.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:12:32 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bdb33c9046e3db6f2f1ba3b19285402e",
       "title": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
       "title_fa": "وقوع آتش سوزی در نزدیکی آتن و هشدار تخلیه",
@@ -72007,6 +72322,69 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c867edfc4763128ba3fbd4e1bc05bb81",
+      "title": "آیا فیفا به سرمایه گذاری خصوصی نیاز دارد؟",
+      "title_fa": "آیا فیفا به سرمایه گذاری خصوصی نیاز دارد؟",
+      "title_en": "Does FIFA need private investment?",
+      "summary": "بدنه جهانی فوتبال پس از پیشنهاد خود برای فروش بخشی از رویدادهای مهم خود با واکنش‌های فزاینده‌ای مواجه شده است.",
+      "summary_fa": "بدنه جهانی فوتبال پس از پیشنهاد خود برای فروش بخشی از رویدادهای مهم خود با واکنش‌های فزاینده‌ای مواجه شده است.",
+      "summary_en": "The world football body is facing growing backlash after its proposal to sell a stake in its top events.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:07:00 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d6f664b4f80a030033a527b253528a9",
+      "title": "سقوط اتوبوس الجزایری در دره دست کم 27 کشته برجای گذاشت",
+      "title_fa": "سقوط اتوبوس الجزایری در دره دست کم 27 کشته برجای گذاشت",
+      "title_en": "Algerian bus plunges into ravine killing at least 27",
+      "summary": "ده ها نفر نیز در یک تصادف در خارج از پایتخت کشور الجزایر مجروح شدند.",
+      "summary_fa": "ده ها نفر نیز در یک تصادف در خارج از پایتخت کشور الجزایر مجروح شدند.",
+      "summary_en": "Dozens also injured in accident outside the country's capital Algiers.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 20:06:26 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f9b4cb95f03ecd81a28420d4ef4cd2b1",
+      "title": "\"شریک استراتژیک\": فوجیموری پرو قصد دارد روابط خود را با ایالات متحده تقویت کند",
+      "title_fa": "\"شریک استراتژیک\": فوجیموری پرو قصد دارد روابط خود را با ایالات متحده تقویت کند",
+      "title_en": "‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US",
+      "summary": "رئیس جمهور تازه تحلیف پرو نشان می دهد که دولت او به ائتلاف سپر آمریکای ترامپ خواهد پیوست.",
+      "summary_fa": "رئیس جمهور تازه تحلیف پرو نشان می دهد که دولت او به ائتلاف سپر آمریکای ترامپ خواهد پیوست.",
+      "summary_en": "Peru's newly inaugurated president indicates her government will join Trump's Shield of the Americas coalition.",
+      "link": "https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 19:55:59 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72054,6 +72432,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "1c52a346f76bcac66f9c97e56c98e834",
+      "title": "سهام ایتون جهش می کند زیرا درآمد و چشم انداز آن انعطاف پذیری ساختار هوش مصنوعی را نشان می دهد",
+      "title_fa": "سهام ایتون جهش می کند زیرا درآمد و چشم انداز آن انعطاف پذیری ساختار هوش مصنوعی را نشان می دهد",
+      "title_en": "Eaton shares jump as its earnings and outlook show resilience of the AI buildout",
+      "summary": "سرمایه گذاران Eaton دلایل خوبی برای نگرانی در مورد نتایج روز جمعه داشتند.",
+      "summary_fa": "سرمایه گذاران Eaton دلایل خوبی برای نگرانی در مورد نتایج روز جمعه داشتند.",
+      "summary_en": "Eaton investors had good reason to be concerned heading into Friday's results.",
+      "link": "https://www.cnbc.com/2026/07/31/eaton-jumps-as-its-earnings-and-outlook-signal-hope-for-the-ai-buildout.html",
+      "source": "CNBC",
+      "published_at": "Fri, 31 Jul 2026 19:43:14 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -73296,6 +73695,27 @@
       }
     },
     {
+      "id": "3e9290088c7eaa6a5e35fa0214ee3d06",
+      "title": "تابستان گرم طولانی اروپا",
+      "title_fa": "تابستان گرم طولانی اروپا",
+      "title_en": "Europe’s long hot summer",
+      "summary": "آتش‌سوزی‌های جنگلی نشان می‌دهد که سازگاری با تغییرات اقلیمی باید در کنار کاهش آن در دستور کار قرار گیرد",
+      "summary_fa": "آتش‌سوزی‌های جنگلی نشان می‌دهد که سازگاری با تغییرات اقلیمی باید در کنار کاهش آن در دستور کار قرار گیرد",
+      "summary_en": "Wildfires show climate change adaptation needs to move up the agenda alongside mitigation",
+      "link": "https://www.ft.com/content/c5d2f736-d640-4ae6-99e2-c4d2cae1e2ab?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 31 Jul 2026 16:35:57 GMT",
+      "date_iso": "2026-07-31",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5ddbad66-9494-496d-a64d-3af83612e6a7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "a42364126fc2261b7e7ff9a9afd5f142",
       "title": "پیشنهاد نقشه راه سه ساله برای خلع سلاح حماس در غزه",
       "title_fa": "پیشنهاد نقشه راه سه ساله برای خلع سلاح حماس در غزه",
@@ -73489,6 +73909,27 @@
       "title": "LIVE: چوپرا، ندیم و پاتیراج در فینال مسابقات نیزه بازی های مشترک المنافع با هم ملاقات می کنند",
       "title_fa": "LIVE: چوپرا، ندیم و پاتیراج در فینال مسابقات نیزه بازی های مشترک المنافع با هم ملاقات می کنند",
       "title_en": "LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final",
+      "summary": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
+      "summary_fa": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
+      "summary_en": "Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/31/live-chopra-nadeem-and-patharige-in-commonwealth-games-javelin-final?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 31 Jul 2026 16:18:42 +0000",
+      "date_iso": "2026-07-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ac083204c386876b56185c670515512e",
+      "title": "LIVE: Pathirage در فینال نیزه بازی های Commonwealth Wopra و Nadeem را شکست داد",
+      "title_fa": "LIVE: Pathirage در فینال نیزه بازی های Commonwealth Wopra و Nadeem را شکست داد",
+      "title_en": "LIVE: Pathirage beats Chopra and Nadeem in Commonwealth Games javelin final",
       "summary": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
       "summary_fa": "به‌روزرسانی‌های متنی زنده و پوشش جریان تفسیر را به عنوان نیراج چوپرا از هند و ارشد ندیم از پاکستان دنبال کنید.",
       "summary_en": "Follow live text updates and commentary stream coverage as India's Neeraj Chopra and Pakistan's Arshad Nadeem face-off.",
