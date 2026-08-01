@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-01 15:03:40",
-  "total_count": 4881,
+  "last_update": "2026-08-01 16:11:05",
+  "total_count": 4888,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -62378,6 +62378,69 @@
       }
     },
     {
+      "id": "7377645c87c5f28b6ff4fbc241232ca7",
+      "title": "چند روز پس از اعلام توافق ترامپ برای پیشبرد آتش بس، اسرائیل غزه را بمباران کرد",
+      "title_fa": "چند روز پس از اعلام توافق ترامپ برای پیشبرد آتش بس، اسرائیل غزه را بمباران کرد",
+      "title_en": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+      "summary": "مقامات فلسطینی اعلام کردند که دست کم دو نفر کشته شدند. توافق اعلام شده توسط پرزیدنت ترامپ تا حدی از حماس می خواهد که سلاح های خود را کنار بگذارد و اسرائیل نیز حملات خود را در غزه متوقف کند.",
+      "summary_fa": "مقامات فلسطینی اعلام کردند که دست کم دو نفر کشته شدند. توافق اعلام شده توسط پرزیدنت ترامپ تا حدی از حماس می خواهد که سلاح های خود را کنار بگذارد و اسرائیل نیز حملات خود را در غزه متوقف کند.",
+      "summary_en": "Palestinian officials said at least two people were killed. The deal announced by President Trump calls in part for Hamas to give up its weapons and Israel to stop its attacks in Gaza.",
+      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 15:50:12 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-israel-gaza-01-thjw/01int-israel-gaza-01-thjw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "a59466a02dbdc787aad2a5ba95c7d52f",
+      "title": "دست کم 11 نفر بر اثر انفجار خودروی بمب گذاری شده در کلمبیا چند روز قبل از انتخابات ریاست جمهوری زخمی شدند",
+      "title_fa": "دست کم 11 نفر بر اثر انفجار خودروی بمب گذاری شده در کلمبیا چند روز قبل از انتخابات ریاست جمهوری زخمی شدند",
+      "title_en": "At least 11 wounded by Colombia car bomb days before presidential election",
+      "summary": "رئیس جمهور منتخب آبلاردو د لا اسپریلا متعهد شد که سرکوب شدید گروه های شورشی و سازمان های جنایتکار را دنبال کند.",
+      "summary_fa": "رئیس جمهور منتخب آبلاردو د لا اسپریلا متعهد شد که سرکوب شدید گروه های شورشی و سازمان های جنایتکار را دنبال کند.",
+      "summary_en": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 15:48:39 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8185abfae1effdc912c35ab970954b40",
+      "title": "پس از انتقاد سانچز، وزرای اتحادیه اروپا درباره بحران مهاجران اسپانیا گفتگو خواهند کرد",
+      "title_fa": "پس از انتقاد سانچز، وزرای اتحادیه اروپا درباره بحران مهاجران اسپانیا گفتگو خواهند کرد",
+      "title_en": "EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism",
+      "summary": "با تشدید تنش‌ها بر سر سیاست‌های مهاجرتی، وزرای کشور اتحادیه اروپا روز سه‌شنبه تشکیل جلسه خواهند داد.",
+      "summary_fa": "با تشدید تنش‌ها بر سر سیاست‌های مهاجرتی، وزرای کشور اتحادیه اروپا روز سه‌شنبه تشکیل جلسه خواهند داد.",
+      "summary_en": "Bloc’s home affairs ministers will convene on Tuesday as tensions over immigration policy mount",
+      "link": "https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 01 Aug 2026 15:39:41 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F888a62cb-dd76-4875-bdb5-868b8864d860.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "067d772c7c07948d31eb9fe41873bc97",
       "title": "کشف در غار آلمان: مجسمه های پرنده عاج ماموت 40000 ساله کشف شد",
       "title_fa": "کشف در غار آلمان: مجسمه های پرنده عاج ماموت 40000 ساله کشف شد",
@@ -62392,6 +62455,48 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfd780fe44f45b5bb532b63902073915",
+      "title": "دو مقام سابق سریلانکا به دلیل بمب گذاری های عید پاک سال 2019 به اعدام محکوم شدند",
+      "title_fa": "دو مقام سابق سریلانکا به دلیل بمب گذاری های عید پاک سال 2019 به اعدام محکوم شدند",
+      "title_en": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+      "summary": "مقامات سابق به احکام صادره به دلیل بی توجهی به هشدارهای اطلاعاتی قبل از حملات مرگبار تجدید نظر خواهند کرد.",
+      "summary_fa": "مقامات سابق به احکام صادره به دلیل بی توجهی به هشدارهای اطلاعاتی قبل از حملات مرگبار تجدید نظر خواهند کرد.",
+      "summary_en": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 15:34:15 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f38e9561d6603d3ba003998c2e22785f",
+      "title": "نقد و بررسی: بله، ما هنوز در مورد اودیسه نولان بحث می کنیم",
+      "title_fa": "نقد و بررسی: بله، ما هنوز در مورد اودیسه نولان بحث می کنیم",
+      "title_en": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+      "summary": "ریمیکس امپرسیونیستی کریستوفر نولان از شعر حماسی هومر، مردی را که پشت این اسطوره قرار دارد، پیدا می کند.",
+      "summary_fa": "ریمیکس امپرسیونیستی کریستوفر نولان از شعر حماسی هومر، مردی را که پشت این اسطوره قرار دارد، پیدا می کند.",
+      "summary_en": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+      "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 01 Aug 2026 15:19:04 +0000",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-1152x648-1784208660.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -64440,6 +64545,27 @@
       "title": "هیچ کس نمی داند که آیا هک های هک هوش مصنوعی OpenAI و Anthropic غیرقانونی هستند یا خیر",
       "title_fa": "هیچ کس نمی داند که آیا هک های هک هوش مصنوعی OpenAI و Anthropic غیرقانونی هستند یا خیر",
       "title_en": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "summary": "هر دو مدل اصلی آزمایشگاه‌های هوش مصنوعی محدودیت‌ها را شکستند، به اینترنت فرار کردند و شرکت‌های دیگر را هک کردند. اگر انسانی این کار را انجام می داد، احتمالاً قانون علیه آنها بود. اما یک ربات؟",
+      "summary_fa": "هر دو مدل اصلی آزمایشگاه‌های هوش مصنوعی محدودیت‌ها را شکستند، به اینترنت فرار کردند و شرکت‌های دیگر را هک کردند. اگر انسانی این کار را انجام می داد، احتمالاً قانون علیه آنها بود. اما یک ربات؟",
+      "summary_en": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "Wired",
+      "published_at": "Sat, 01 Aug 2026 09:30:00 +0000",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a998f406ea79d53536380f125b957469",
+      "title": "هک کردن OpenAI و Anthropic AI یک مرز قانونی جدید و نامرتب است",
+      "title_fa": "هک کردن OpenAI و Anthropic AI یک مرز قانونی جدید و نامرتب است",
+      "title_en": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "summary": "هر دو مدل اصلی آزمایشگاه‌های هوش مصنوعی محدودیت‌ها را شکستند، به اینترنت فرار کردند و شرکت‌های دیگر را هک کردند. اگر انسانی این کار را انجام می داد، احتمالاً قانون علیه آنها بود. اما یک ربات؟",
       "summary_fa": "هر دو مدل اصلی آزمایشگاه‌های هوش مصنوعی محدودیت‌ها را شکستند، به اینترنت فرار کردند و شرکت‌های دیگر را هک کردند. اگر انسانی این کار را انجام می داد، احتمالاً قانون علیه آنها بود. اما یک ربات؟",
       "summary_en": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
@@ -95196,6 +95322,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "40cbd8b9508b8092923f20f5629867db",
+      "title": "ترامپ تیم والز را مقصر هک‌های آب می‌داند، اگرچه احتمالاً ایران است",
+      "title_fa": "ترامپ تیم والز را مقصر هک‌های آب می‌داند، اگرچه احتمالاً ایران است",
+      "title_en": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
+      "summary": "FBI، EPA و آژانس امنیت سایبری و امنیت زیرساخت (CISA) رسماً ایران را به دلیل حملات سایبری به سیستم‌های آبی مینه‌سوتا مقصر نمی‌دانند، اما اتفاق نظر بر این است که ایران احتمالاً پشت این حملات است. البته این امر دونالد ترامپ را از به اشتراک گذاشتن نظریه خود باز نمی دارد - اینکه فرماندار تیم والز […]",
+      "summary_fa": "FBI، EPA و آژانس امنیت سایبری و امنیت زیرساخت (CISA) رسماً ایران را به دلیل حملات سایبری به سیستم‌های آبی مینه‌سوتا مقصر نمی‌دانند، اما اتفاق نظر بر این است که ایران احتمالاً پشت این حملات است. البته این امر دونالد ترامپ را از به اشتراک گذاشتن نظریه خود باز نمی دارد - اینکه فرماندار تیم والز […]",
+      "summary_en": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consensus is that Iran is likely behind them. That, of course, hasn't stopped Donald Trump from sharing his own theory - that Governor Tim Walz is […]",
+      "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
+      "source": "The Verge",
+      "published_at": "2026-08-01T11:23:35-04:00",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
