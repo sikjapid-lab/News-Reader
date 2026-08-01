@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-01 19:39:06",
-  "total_count": 4915,
+  "last_update": "2026-08-01 20:33:38",
+  "total_count": 4923,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -62378,6 +62378,153 @@
       }
     },
     {
+      "id": "339c4912f25311ff670d741bd93be5f4",
+      "title": "در حالی که به نظر می رسد شعله های آتش در فرانسه کاهش یافته است، یونان با آتش سوزی های جنگلی می جنگد",
+      "title_fa": "در حالی که به نظر می رسد شعله های آتش در فرانسه کاهش یافته است، یونان با آتش سوزی های جنگلی می جنگد",
+      "title_en": "Greece battles raging wildfires as flames appear to ease in France",
+      "summary": "آتش‌سوزی‌های جنگلی فرانسه نشانه‌هایی از کاهش را نشان می‌دهد و تلاش‌ها برای مهار در وار و ژیرون پس از آتش‌سوزی‌های مخرب ادامه دارد.",
+      "summary_fa": "آتش‌سوزی‌های جنگلی فرانسه نشانه‌هایی از کاهش را نشان می‌دهد و تلاش‌ها برای مهار در وار و ژیرون پس از آتش‌سوزی‌های مخرب ادامه دارد.",
+      "summary_en": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 20:24:19 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "1db362ba33aa6eda9f6d4475c6e0c9fc",
+      "title": "سقوط هواپیمای توریستی در پرو ۱۳ کشته برجای گذاشت",
+      "title_fa": "سقوط هواپیمای توریستی در پرو ۱۳ کشته برجای گذاشت",
+      "title_en": "Tourist plane crashes in Peru, killing 13",
+      "summary": "بر اساس گزارش های محلی، هواپیمای کوچک در حال پرواز بر فراز سایت باستان شناسی Nazca Lines بود که سقوط کرد.",
+      "summary_fa": "بر اساس گزارش های محلی، هواپیمای کوچک در حال پرواز بر فراز سایت باستان شناسی Nazca Lines بود که سقوط کرد.",
+      "summary_en": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 20:22:29 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e78/live/b07d6b40-8de6-11f1-92c6-e748252fe919.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4bf17beed900a1e7bae3a894652216d2",
+      "title": "معامله گران گلدمن در یک سال رکورد با سرعت حرکت کرده اند. نگاهی نزدیک به نحوه انجام این کار",
+      "title_fa": "معامله گران گلدمن در یک سال رکورد با سرعت حرکت کرده اند. نگاهی نزدیک به نحوه انجام این کار",
+      "title_en": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+      "summary": "در یک مصاحبه جدید با CNBC، یکی از مدیران گلدمن عواملی را که باعث هدایت سهام می‌شوند، حرکت بازارها و اینکه چگونه میز سهام بانک به رشد آن کمک می‌کند، تجزیه و تحلیل می‌کند.",
+      "summary_fa": "در یک مصاحبه جدید با CNBC، یکی از مدیران گلدمن عواملی را که باعث هدایت سهام می‌شوند، حرکت بازارها و اینکه چگونه میز سهام بانک به رشد آن کمک می‌کند، تجزیه و تحلیل می‌کند.",
+      "summary_en": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank’s equities desk fuels its growth.",
+      "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 20:22:15 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9aa685e7a73c330a4d0e1ebed4dc5d58",
+      "title": "سه نفر در انفجار رستوران مسکو کشته شدند",
+      "title_fa": "سه نفر در انفجار رستوران مسکو کشته شدند",
+      "title_en": "Three killed in Moscow restaurant bombing",
+      "summary": "این انفجار مرگبار در محلی در نزدیکی مرکز شهر زمانی رخ داد که زنی حامل مواد منفجره قصد ورود به آن را داشت.",
+      "summary_fa": "این انفجار مرگبار در محلی در نزدیکی مرکز شهر زمانی رخ داد که زنی حامل مواد منفجره قصد ورود به آن را داشت.",
+      "summary_en": "The deadly blast took place in a venue near the centre of the city, as a woman carrying explosives tried to enter.",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 20:20:44 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3a/live/f29cb820-8dda-11f1-9d54-295807679b3c.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "مسکو"
+      }
+    },
+    {
+      "id": "f26d243c9a99d2d23d8c33892601ab27",
+      "title": "اسرائیل می گوید چند تن از اعضای حزب الله را در بالای تپه کلیدی لبنان کشته است",
+      "title_fa": "اسرائیل می گوید چند تن از اعضای حزب الله را در بالای تپه کلیدی لبنان کشته است",
+      "title_en": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "summary": "این رویارویی بر سر یک خط الراس استراتژیک در جنوب لبنان، آتش بس شکننده بین اسرائیل و گروه شبه نظامی مورد حمایت ایران را به چالش کشید.",
+      "summary_fa": "این رویارویی بر سر یک خط الراس استراتژیک در جنوب لبنان، آتش بس شکننده بین اسرائیل و گروه شبه نظامی مورد حمایت ایران را به چالش کشید.",
+      "summary_en": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 20:14:08 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-israel-lebanon-zqwt/01int-israel-lebanon-zqwt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b77d1a72a728b2cc1e2a6b53be5bfa0f",
+      "title": "کوهنورد رکوردشکنی نیرمال پورجا در میان کشته شدگان بهمن",
+      "title_fa": "کوهنورد رکوردشکنی نیرمال پورجا در میان کشته شدگان بهمن",
+      "title_en": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+      "summary": "نیرمال پورجا ستاره 14 Peaks در حالی که 10 کوهنورد را به بالای کوه برودپیک در پاکستان هدایت می کرد در بهمن جان باخت.",
+      "summary_fa": "نیرمال پورجا ستاره 14 Peaks در حالی که 10 کوهنورد را به بالای کوه برودپیک در پاکستان هدایت می کرد در بهمن جان باخت.",
+      "summary_en": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 20:10:01 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c32dc8b558f832dcd5b65ecc296378f",
+      "title": "ترامپ تصمیم وزارت دادگستری برای کنار گذاشتن اتهامات مربوط به Reflecting Pool را محکوم کرد",
+      "title_fa": "ترامپ تصمیم وزارت دادگستری برای کنار گذاشتن اتهامات مربوط به Reflecting Pool را محکوم کرد",
+      "title_en": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
+      "summary": "رئیس‌جمهور ایالات متحده پس از اینکه یک دادستان فدرال می‌گوید خسارت ناشی از نصب «نادرست» و نه خرابکاری، عقب‌نشینی می‌کند.",
+      "summary_fa": "رئیس‌جمهور ایالات متحده پس از اینکه یک دادستان فدرال می‌گوید خسارت ناشی از نصب «نادرست» و نه خرابکاری، عقب‌نشینی می‌کند.",
+      "summary_en": "The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 19:08:12 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1d77383e6ff302efef6296808d5d8d4c",
       "title": "اتحادیه اروپا روز سه شنبه نشست اضطراری وزرای کشور را درباره بحران سئوتا برگزار می کند",
       "title_fa": "اتحادیه اروپا روز سه شنبه نشست اضطراری وزرای کشور را درباره بحران سئوتا برگزار می کند",
@@ -95843,6 +95990,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "826889a65cf551c1f3ba7ffb5223138d",
+      "title": "آنجلا نیسل با خنده با اندوه روبرو می شود",
+      "title_fa": "آنجلا نیسل با خنده با اندوه روبرو می شود",
+      "title_en": "Angela Nissel faces down grief with a laugh",
+      "summary": "آخرین کتاب آنجلا نیسل، غم خوب، نان را بگذر، مامان مرده است، نوعی خاطرات من است. مطمئناً، این یک داستان عمیقاً احساسی در مورد مراقبت از یک والدین بیمار لاعلاج است. اما این با نوعی شوخی چوبه دار ارائه می شود که من اغلب برای عبور از روزهای سخت به آن روی می آورم. البته این نوع […]",
+      "summary_fa": "آخرین کتاب آنجلا نیسل، غم خوب، نان را بگذر، مامان مرده است، نوعی خاطرات من است. مطمئناً، این یک داستان عمیقاً احساسی در مورد مراقبت از یک والدین بیمار لاعلاج است. اما این با نوعی شوخی چوبه دار ارائه می شود که من اغلب برای عبور از روزهای سخت به آن روی می آورم. البته این نوع […]",
+      "summary_en": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of […]",
+      "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+      "source": "The Verge",
+      "published_at": "2026-08-01T16:15:00-04:00",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
