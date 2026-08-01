@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-01 20:33:38",
-  "total_count": 4923,
+  "last_update": "2026-08-01 21:32:44",
+  "total_count": 4934,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -62357,6 +62357,48 @@
       }
     },
     {
+      "id": "3b39a8826f09af9c2e4f1878c98bcecf",
+      "title": "یوفا اعلام کرد که اعتمادش را به اینفانتینو به خاطر یک معامله نامتعارف، اتاق پشت و رو از دست داده است.",
+      "title_fa": "یوفا اعلام کرد که اعتمادش را به اینفانتینو به خاطر یک معامله نامتعارف، اتاق پشت و رو از دست داده است.",
+      "title_en": "UEFA declares to have 'lost confidence' in Infantino over 'shabby, back room, opaque deal'",
+      "summary": "جیانی اینفانتینو، رئیس فیفا، روز شنبه علیرغم لغو برنامه‌ای که به طور گسترده به سرمایه‌گذاری خصوصی در جام جهانی اجازه سرمایه‌گذاری خصوصی را لغو کرد، مورد انتقاد فزاینده نهادهای حاکمه قاره‌ای قرار گرفت.",
+      "summary_fa": "جیانی اینفانتینو، رئیس فیفا، روز شنبه علیرغم لغو برنامه‌ای که به طور گسترده به سرمایه‌گذاری خصوصی در جام جهانی اجازه سرمایه‌گذاری خصوصی را لغو کرد، مورد انتقاد فزاینده نهادهای حاکمه قاره‌ای قرار گرفت.",
+      "summary_en": "FIFA president Gianni Infantino came under increasing fire from continental governing bodies on Saturday despite scrapping a widely-derided plan to allow private investment in the World Cup.",
+      "link": "http://www.euronews.com/2026/08/01/uefa-declares-to-have-lost-confidence-in-infantino-over-shabby-back-room-opaque-deal",
+      "source": "EuroNews",
+      "published_at": "Sat, 01 Aug 2026 22:32:21 +0200",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b5cc00b7fb487f367ab949c879742578",
+      "title": "بمب بداهه 3 نفر را در یک رستوران مجلل مسکو می کشد",
+      "title_fa": "بمب بداهه 3 نفر را در یک رستوران مجلل مسکو می کشد",
+      "title_en": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+      "summary": "در میان قربانیان این انفجار که 21 نفر نیز مجروح شدند، یک محافظ امنیتی و یک زن بودند که به گفته مقامات با بسته مشکوک به آنجا آمده بود.",
+      "summary_fa": "در میان قربانیان این انفجار که 21 نفر نیز مجروح شدند، یک محافظ امنیتی و یک زن بودند که به گفته مقامات با بسته مشکوک به آنجا آمده بود.",
+      "summary_en": "Among the victims of the explosion, which also injured 21 people, were a security guard and a woman who the authorities say had arrived with the suspicious package.",
+      "link": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 21:23:45 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-moscow-explosion-kmtp/01int-moscow-explosion-kmtp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "مسکو"
+      }
+    },
+    {
       "id": "dfff158dbc968fb8ea051077c1b63d98",
       "title": "تلاش سئوتا برای بازیابی آرامش و بازگشت به حالت عادی \"با احتیاط\"",
       "title_fa": "تلاش سئوتا برای بازیابی آرامش و بازگشت به حالت عادی \"با احتیاط\"",
@@ -62370,6 +62412,111 @@
       "date_iso": "2026-08-01",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f97fe99df2d8cbba386e4008bfc4eac3",
+      "title": "گزارش الجزیره از سئوتا در حالی که مهاجران منطقه محاصره را ترک می کنند",
+      "title_fa": "گزارش الجزیره از سئوتا در حالی که مهاجران منطقه محاصره را ترک می کنند",
+      "title_en": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "summary": "اسپانیا می‌گوید «تقریباً همه» از حدود 60000 مهاجری که به منطقه سیوتا در شمال آفریقا یورش بردند، آنجا را ترک کرده‌اند.",
+      "summary_fa": "اسپانیا می‌گوید «تقریباً همه» از حدود 60000 مهاجری که به منطقه سیوتا در شمال آفریقا یورش بردند، آنجا را ترک کرده‌اند.",
+      "summary_en": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 21:15:50 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df9a49f60a1b945aba81c0fc5e16e467",
+      "title": "رسانه های دولتی مسکو می گویند سه نفر در پی انفجار بمب در رستوران مسکو کشته شدند",
+      "title_fa": "رسانه های دولتی مسکو می گویند سه نفر در پی انفجار بمب در رستوران مسکو کشته شدند",
+      "title_en": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "summary": "مقامات امنیتی گفتند که یک زن سعی کرد با مواد منفجره وارد رستوران شود اما توسط یک محافظ امنیتی متوقف شد.",
+      "summary_fa": "مقامات امنیتی گفتند که یک زن سعی کرد با مواد منفجره وارد رستوران شود اما توسط یک محافظ امنیتی متوقف شد.",
+      "summary_en": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 21:13:17 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3a/live/f29cb820-8dda-11f1-9d54-295807679b3c.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "مسکو"
+      }
+    },
+    {
+      "id": "988bf7568e4f0cc9d6e88fb7285f6aef",
+      "title": "پلیس می گوید 13 نفر بر اثر سقوط هواپیمای کوچک در حال مشاهده خطوط نازکا در پرو کشته شدند",
+      "title_fa": "پلیس می گوید 13 نفر بر اثر سقوط هواپیمای کوچک در حال مشاهده خطوط نازکا در پرو کشته شدند",
+      "title_en": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+      "summary": "کشته شدگان شامل 11 مسافر و دو خلبان در حال پرواز بر فراز سایت معروف باستان شناسی که توسط یونسکو به رسمیت شناخته شده است.",
+      "summary_fa": "کشته شدگان شامل 11 مسافر و دو خلبان در حال پرواز بر فراز سایت معروف باستان شناسی که توسط یونسکو به رسمیت شناخته شده است.",
+      "summary_en": "Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 20:57:04 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "745d16657654e68cf752c3c31f5691d1",
+      "title": "بر اثر سقوط یک هواپیمای توریستی در حین پرواز بر فراز خطوط نازکا در پرو، حداقل 13 نفر کشته شدند",
+      "title_fa": "بر اثر سقوط یک هواپیمای توریستی در حین پرواز بر فراز خطوط نازکا در پرو، حداقل 13 نفر کشته شدند",
+      "title_en": "At least 13 dead as tourist plane crashes during flight over Peru’s Nazca Lines",
+      "summary": "سقوط هواپیما پس از خروج از شهر نزدیک ایکا به گفته مقامات محلی، پس از سقوط هواپیمای حامل گردشگران در یک مزرعه در پرو، طبق گفته مقامات محلی، حداقل 13 نفر جان خود را از دست دادند. دولت شهرداری نازکا گفت که این هواپیما گردشگران را به پروازی از مناظر نازکا می برد، گروهی از صدها سال پیش که صدها سال پیش در مسیرهای وسیعی از کاوشگر نازکا سقوط کرده بود. توسط ساکنان بومی پرو خطوط تصاویری از حیوانات را تشکیل می‌دهند که فقط از هواپیما یا برج‌های تماشا به طور کامل قابل درک هستند. ادامه مطلب...",
+      "summary_fa": "سقوط هواپیما پس از خروج از شهر نزدیک ایکا به گفته مقامات محلی، پس از سقوط هواپیمای حامل گردشگران در یک مزرعه در پرو، طبق گفته مقامات محلی، حداقل 13 نفر جان خود را از دست دادند. دولت شهرداری نازکا گفت که این هواپیما گردشگران را به پروازی از مناظر نازکا می برد، گروهی از صدها سال پیش که صدها سال پیش در مسیرهای وسیعی از کاوشگر نازکا سقوط کرده بود. توسط ساکنان بومی پرو خطوط تصاویری از حیوانات را تشکیل می‌دهند که فقط از هواپیما یا برج‌های تماشا به طور کامل قابل درک هستند. ادامه مطلب...",
+      "summary_en": "Aircraft crashes into field after departing from the nearby city of Ica, according to local authoritiesAt least 13 people have died after a plane carrying tourists crashed into a field in Peru, local authorities said.Nazca’s municipal government said the plane was taking tourists on a sightseeing flight of the Nazca Lines, a group of extensive geoglyphs scraped into the desert around Nazca hundreds of years ago by Peru’s Indigenous inhabitants. The lines form images of animals that can only be fully appreciated from planes or viewing towers. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian",
+      "published_at": "Sat, 01 Aug 2026 20:42:06 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/acf80208b663a5d208fe59c64b52d1f3bb071c71/84_0_5602_4480/master/5602.jpg?width=140&quality=85&auto=format&fit=max&s=71bda09cf7acce35d6c19ed47fd0a76f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7a67a6fc034f38f86c3fb9861166ef6b",
+      "title": "درگیری در تیگری غربی آغاز شد زیرا اتیوپی و TPLF مقصر تجارت هستند",
+      "title_fa": "درگیری در تیگری غربی آغاز شد زیرا اتیوپی و TPLF مقصر تجارت هستند",
+      "title_en": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+      "summary": "درگیری‌ها در نزدیکی شرارو یکی از جدی‌ترین تهدیدات تاکنون برای توافق شکننده صلح پرتوریا در سال 2022 است.",
+      "summary_fa": "درگیری‌ها در نزدیکی شرارو یکی از جدی‌ترین تهدیدات تاکنون برای توافق شکننده صلح پرتوریا در سال 2022 است.",
+      "summary_en": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 20:38:41 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -62504,6 +62651,48 @@
       }
     },
     {
+      "id": "bc390864262db768781e33709525fa8a",
+      "title": "اتحادیه اروپا برای بحث در مورد گذرگاه‌های مهاجران سئوتا جلسه اضطراری فراخوان داد",
+      "title_fa": "اتحادیه اروپا برای بحث در مورد گذرگاه‌های مهاجران سئوتا جلسه اضطراری فراخوان داد",
+      "title_en": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "summary": "تبادلات پرتنشی بین اسپانیا و دیگر کشورهای اتحادیه اروپا بر سر هجوم مهاجران به منطقه سیتا وجود داشته است.",
+      "summary_fa": "تبادلات پرتنشی بین اسپانیا و دیگر کشورهای اتحادیه اروپا بر سر هجوم مهاجران به منطقه سیتا وجود داشته است.",
+      "summary_en": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 20:09:27 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d8936ae5d43a7c2fb20b35ca21b73747",
+      "title": "جمعیت برای رژه قایق پراید در کانال های آمستردام صف می کشند",
+      "title_fa": "جمعیت برای رژه قایق پراید در کانال های آمستردام صف می کشند",
+      "title_en": "Crowds line Amsterdam's canals for Pride boat parade",
+      "summary": "شرکت کنندگان لباس پوشیده هنگام عبور از آبراهه های شهر از یک ناوگان رنگارنگ متشکل از 80 کشتی تزئین شده رقصیدند و دست تکان دادند.",
+      "summary_fa": "شرکت کنندگان لباس پوشیده هنگام عبور از آبراهه های شهر از یک ناوگان رنگارنگ متشکل از 80 کشتی تزئین شده رقصیدند و دست تکان دادند.",
+      "summary_en": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways.",
+      "link": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 19:39:48 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db15/live/4138b300-8de8-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "0c32dc8b558f832dcd5b65ecc296378f",
       "title": "ترامپ تصمیم وزارت دادگستری برای کنار گذاشتن اتهامات مربوط به Reflecting Pool را محکوم کرد",
       "title_fa": "ترامپ تصمیم وزارت دادگستری برای کنار گذاشتن اتهامات مربوط به Reflecting Pool را محکوم کرد",
@@ -62550,6 +62739,27 @@
       "title": "کودکان فلسطینی در میان بازداشت شدگان در حملات اسرائیل در کرانه باختری",
       "title_fa": "کودکان فلسطینی در میان بازداشت شدگان در حملات اسرائیل در کرانه باختری",
       "title_en": "Palestinian children among those detained in Israeli West Bank raids",
+      "summary": "خشونت شهرک نشینان با پاسگاه های غیرقانونی و حملات مکرر در سراسر رام الله، الخلیل و نابلس تشدید می شود.",
+      "summary_fa": "خشونت شهرک نشینان با پاسگاه های غیرقانونی و حملات مکرر در سراسر رام الله، الخلیل و نابلس تشدید می شود.",
+      "summary_en": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 18:51:14 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "ab223ffd090de5a24c35221aa41c35f6",
+      "title": "کودکان فلسطینی در میان افرادی که توسط اسرائیل در حملات کرانه باختری بازداشت شدند",
+      "title_fa": "کودکان فلسطینی در میان افرادی که توسط اسرائیل در حملات کرانه باختری بازداشت شدند",
+      "title_en": "Palestinian children among those detained by Israel in West Bank raids",
       "summary": "خشونت شهرک نشینان با پاسگاه های غیرقانونی و حملات مکرر در سراسر رام الله، الخلیل و نابلس تشدید می شود.",
       "summary_fa": "خشونت شهرک نشینان با پاسگاه های غیرقانونی و حملات مکرر در سراسر رام الله، الخلیل و نابلس تشدید می شود.",
       "summary_en": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
@@ -63015,6 +63225,27 @@
       "summary": "در حالی که وزارت بهداشت غزه، چند روز پس از توافق خلع سلاح، حمله «شنیع» به فروشگاه‌های دارو را محکوم می‌کند، چهار نفر کشته شدند.",
       "summary_fa": "در حالی که وزارت بهداشت غزه، چند روز پس از توافق خلع سلاح، حمله «شنیع» به فروشگاه‌های دارو را محکوم می‌کند، چهار نفر کشته شدند.",
       "summary_en": "Attacks kill four as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 16:07:10 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "a814f381eb5d157f7f6b7eb77490b616",
+      "title": "حملات اسرائیل در سراسر غزه جان هفت نفر را گرفت و انبار تجهیزات پزشکی را ویران کرد",
+      "title_fa": "حملات اسرائیل در سراسر غزه جان هفت نفر را گرفت و انبار تجهیزات پزشکی را ویران کرد",
+      "title_en": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse",
+      "summary": "در حالی که چند روز پس از توافق خلع سلاح، وزارت بهداشت غزه، حمله \"شنیع\" به فروشگاه های دارو را محکوم می کند، هفت نفر را کشت.",
+      "summary_fa": "در حالی که چند روز پس از توافق خلع سلاح، وزارت بهداشت غزه، حمله \"شنیع\" به فروشگاه های دارو را محکوم می کند، هفت نفر را کشت.",
+      "summary_en": "Attacks kill seven as Gaza Health Ministry condemns 'heinous' strike on medicine stores, days after disarmament deal.",
       "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 01 Aug 2026 16:07:10 +0000",
