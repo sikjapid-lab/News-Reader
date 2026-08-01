@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-01 17:17:01",
-  "total_count": 4899,
+  "last_update": "2026-08-01 18:16:17",
+  "total_count": 4903,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -62375,6 +62375,90 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "fe4d653d580f8899a01ad058f53edc1b",
+      "title": "اسپانیا مهاجران را به مراکش برمی‌گرداند، زیرا حملات ناشی از نقض گسترده مرزها بیشتر شده است",
+      "title_fa": "اسپانیا مهاجران را به مراکش برمی‌گرداند، زیرا حملات ناشی از نقض گسترده مرزها بیشتر شده است",
+      "title_en": "Spain pushes migrants back to Morocco as fallout deepens over mass border breach",
+      "summary": "بحران در سئوتا، در سواحل آفریقا، فورا به سنگ محک در بحث جهانی مهاجران تبدیل شد، زیرا سوء ظن ها مبنی بر سازماندهی این حادثه ویروسی به وجود آمد.",
+      "summary_fa": "بحران در سئوتا، در سواحل آفریقا، فورا به سنگ محک در بحث جهانی مهاجران تبدیل شد، زیرا سوء ظن ها مبنی بر سازماندهی این حادثه ویروسی به وجود آمد.",
+      "summary_en": "The crisis in Ceuta, on the African coast, instantly became a touchstone in the global migrant debate as suspicions swirled that the viral incident was orchestrated.",
+      "link": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
+      "source": "Washington Post",
+      "published_at": "Sat, 01 Aug 2026 17:56:57 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "57a59ee928ac64b2bd93997728eb415a",
+      "title": "ایتالیا تقریباً تمام شهرهای بزرگ را در بالاترین سطح هشدار گرما قرار داده است",
+      "title_fa": "ایتالیا تقریباً تمام شهرهای بزرگ را در بالاترین سطح هشدار گرما قرار داده است",
+      "title_en": "Italy putting nearly all major cities on highest heat alert",
+      "summary": "حدود 19 شهر بزرگ ایتالیا - از جمله رم، میلان و ناپل - در حال حاضر در حالت هشدار قرمز قرار دارند و تا روز دوشنبه همه آنها به جز دو شهر در حالت هشدار قرار خواهند گرفت.",
+      "summary_fa": "حدود 19 شهر بزرگ ایتالیا - از جمله رم، میلان و ناپل - در حال حاضر در حالت هشدار قرمز قرار دارند و تا روز دوشنبه همه آنها به جز دو شهر در حالت هشدار قرار خواهند گرفت.",
+      "summary_en": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 17:51:46 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5bcd01b6cde93d3503e9c473f02f2478",
+      "title": "مراقب نوشابه کثیف هستید؟ چگونه این روند نوشیدنی به یک وسواس ایالات متحده تبدیل شد",
+      "title_fa": "مراقب نوشابه کثیف هستید؟ چگونه این روند نوشیدنی به یک وسواس ایالات متحده تبدیل شد",
+      "title_en": "Care for a dirty soda? How this drink trend became a US obsession",
+      "summary": "چگونه تازگی یوتا به روند ملی تبدیل شد که توسط شخصی سازی، رسانه های اجتماعی، تمایل به فضاهای اجتماعی مقرون به صرفه تقویت شد.",
+      "summary_fa": "چگونه تازگی یوتا به روند ملی تبدیل شد که توسط شخصی سازی، رسانه های اجتماعی، تمایل به فضاهای اجتماعی مقرون به صرفه تقویت شد.",
+      "summary_en": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 17:37:34 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be681c1613c516859de0041761734442",
+      "title": "نیروهای اسرائیلی ساکنان جنوب سوریه را بازداشت و منازل مسکونی را تخریب کردند",
+      "title_fa": "نیروهای اسرائیلی ساکنان جنوب سوریه را بازداشت و منازل مسکونی را تخریب کردند",
+      "title_en": "Israeli forces detain residents and demolish homes in southern Syria",
+      "summary": "از زمان سرنگونی اسد، اسرائیل نیروهایی را فراتر از خط جدایی در سال 1974 به استان های جنوبی سوریه فرستاده است.",
+      "summary_fa": "از زمان سرنگونی اسد، اسرائیل نیروهایی را فراتر از خط جدایی در سال 1974 به استان های جنوبی سوریه فرستاده است.",
+      "summary_en": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria's southern provinces.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 17:28:52 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
