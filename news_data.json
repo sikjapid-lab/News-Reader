@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-01 12:08:48",
-  "total_count": 4815,
+  "last_update": "2026-08-01 13:55:23",
+  "total_count": 4864,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -32663,6 +32663,27 @@
       }
     },
     {
+      "id": "c9ff252f87e292f61c2c26697c3898a1",
+      "title": "این آلیاژ جدید تا 10 برابر قوی تر از فولاد است و به طرز شگفت انگیزی انعطاف پذیر است",
+      "title_fa": "این آلیاژ جدید تا 10 برابر قوی تر از فولاد است و به طرز شگفت انگیزی انعطاف پذیر است",
+      "title_en": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "summary": "مهندسان یک ترکیب بدنام کبالت-آلومینیوم شکننده را به ماده ای تبدیل کرده اند که هم بسیار قوی است و هم می تواند بدون شکستگی خم شود. طراحی نانومقیاس آنها قدرت تسلیم حدود شش تا 10 برابر بیشتر از فولاد ساختاری با استحکام بالا ایجاد کرد و در عین حال تغییر شکل قابل توجهی را در دمای اتاق حفظ کرد. این رویکرد می‌تواند پره‌های توربین سخت‌تر و موتورهای با عملکرد بالاتر را فعال کند.",
+      "summary_fa": "مهندسان یک ترکیب بدنام کبالت-آلومینیوم شکننده را به ماده ای تبدیل کرده اند که هم بسیار قوی است و هم می تواند بدون شکستگی خم شود. طراحی نانومقیاس آنها قدرت تسلیم حدود شش تا 10 برابر بیشتر از فولاد ساختاری با استحکام بالا ایجاد کرد و در عین حال تغییر شکل قابل توجهی را در دمای اتاق حفظ کرد. این رویکرد می‌تواند پره‌های توربین سخت‌تر و موتورهای با عملکرد بالاتر را فعال کند.",
+      "summary_en": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale design produced a yield strength about six to 10 times greater than high-strength structural steel while sustaining substantial deformation at room temperature. The approach could enable tougher turbine blades and higher-performance engines.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 23:55:22 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "89c917ec5667e70dd7ded4e03caba2d3",
       "title": "ترامپ از خلع سلاح حماس برای خروج اسرائیل از غزه خبر داد",
       "title_fa": "ترامپ از خلع سلاح حماس برای خروج اسرائیل از غزه خبر داد",
@@ -32969,6 +32990,27 @@
       "published_at": "Thu, 30 Jul 2026 22:53:05 GMT",
       "date_iso": "2026-07-31",
       "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca3b98b2dbf964f71bda03a0b7778509",
+      "title": "دانشمندان کشف کردند که چگونه چاقی ممکن است باعث بیماری آلزایمر شود",
+      "title_fa": "دانشمندان کشف کردند که چگونه چاقی ممکن است باعث بیماری آلزایمر شود",
+      "title_en": "Scientists discover how obesity may fuel Alzheimer’s disease",
+      "summary": "محققان یک مسیر بیولوژیکی احتمالی را کشف کرده اند که چاقی را با بیماری آلزایمر مرتبط می کند. به نظر می‌رسد چاقی سطح مولکول‌های چربی خاصی را افزایش می‌دهد که می‌توانند به مغز سفر کنند، سیستم ایمنی بدن را مختل کنند و باعث ایجاد آمیلوئید مضر شوند. اصلاح این عدم تعادل چربی باعث بهبود حافظه و عملکرد مغز در مدل های آلزایمر شد.",
+      "summary_fa": "محققان یک مسیر بیولوژیکی احتمالی را کشف کرده اند که چاقی را با بیماری آلزایمر مرتبط می کند. به نظر می‌رسد چاقی سطح مولکول‌های چربی خاصی را افزایش می‌دهد که می‌توانند به مغز سفر کنند، سیستم ایمنی بدن را مختل کنند و باعث ایجاد آمیلوئید مضر شوند. اصلاح این عدم تعادل چربی باعث بهبود حافظه و عملکرد مغز در مدل های آلزایمر شد.",
+      "summary_en": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory and brain function in Alzheimer’s models.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 30 Jul 2026 22:52:57 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
@@ -62315,6 +62357,69 @@
       }
     },
     {
+      "id": "067d772c7c07948d31eb9fe41873bc97",
+      "title": "کشف در غار آلمان: مجسمه های پرنده عاج ماموت 40000 ساله کشف شد",
+      "title_fa": "کشف در غار آلمان: مجسمه های پرنده عاج ماموت 40000 ساله کشف شد",
+      "title_en": "Find in German cave: 40,000-year-old mammoth ivory bird figures discovered",
+      "summary": "در حین کاوش در غار هوله فلس، باستان شناسان دو مجسمه پرنده حکاکی شده از عاج ماموت را کشف کردند که حکایت از حس هنری خیره کننده انسان در 40000 سال پیش دارد.",
+      "summary_fa": "در حین کاوش در غار هوله فلس، باستان شناسان دو مجسمه پرنده حکاکی شده از عاج ماموت را کشف کردند که حکایت از حس هنری خیره کننده انسان در 40000 سال پیش دارد.",
+      "summary_en": "During excavations in the Hohle Fels cave, archaeologists uncovered two bird figurines carved from mammoth ivory, hinting at humans’ striking artistic sense 40,000 years ago.",
+      "link": "http://www.euronews.com/culture/2026/08/01/find-in-german-cave-40000-year-old-mammoth-ivory-bird-figures-discovered",
+      "source": "EuroNews",
+      "published_at": "Sat, 01 Aug 2026 15:35:44 +0200",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "507c77e9f4e81b86570dbd41ce2af1cd",
+      "title": "کوهنورد نیرمال پورجا با تمام اعضای اکسپدیشن در بهمن پاکستان کشته شدند",
+      "title_fa": "کوهنورد نیرمال پورجا با تمام اعضای اکسپدیشن در بهمن پاکستان کشته شدند",
+      "title_en": "Mountaineer Nirmal Purja killed with all members of expedition in Pakistan avalanche",
+      "summary": "شرکت کوهنوردی او روز شنبه تایید کرد که پس از آن که امدادگران بقایای سه کوهنورد از این اکسپدیشن 10 نفره را در طول جست و جوی ارتفاع بالا پیدا کردند، کوهنورد مشهور نیرمال پورجا به همراه سایر اعضای تیم در بهمن شدید در پاکستان جان باختند.",
+      "summary_fa": "شرکت کوهنوردی او روز شنبه تایید کرد که پس از آن که امدادگران بقایای سه کوهنورد از این اکسپدیشن 10 نفره را در طول جست و جوی ارتفاع بالا پیدا کردند، کوهنورد مشهور نیرمال پورجا به همراه سایر اعضای تیم در بهمن شدید در پاکستان جان باختند.",
+      "summary_en": "Renowned mountaineer Nirmal Purja died with other team members in a powerful avalanche in Pakistan, his climbing company confirmed on Saturday, after rescuers recovered the remains of three climbers from the 10-strong expedition during a high-altitude search.",
+      "link": "http://www.euronews.com/my-europe/2026/08/01/mountaineer-nirmal-purja-killed-with-all-members-of-expedition-in-pakistan-avalanche",
+      "source": "EuroNews",
+      "published_at": "Sat, 01 Aug 2026 14:46:33 +0200",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f788aea92e3203e131c9386f88e714b3",
+      "title": "فون در لاین می گوید: «هیچ نفر به سرزمین اصلی اسپانیا یا بقیه اتحادیه اروپا نرسیده است».",
+      "title_fa": "فون در لاین می گوید: «هیچ نفر به سرزمین اصلی اسپانیا یا بقیه اتحادیه اروپا نرسیده است».",
+      "title_en": "'Not a single person reached mainland Spain or the rest of the EU', says von der Leyen",
+      "summary": "پس از ورود حدود 60000 مهاجر غیرقانونی به منطقه تحت پوشش اسپانیایی سئوتا در شمال آفریقا، رئیس کمیسیون اروپا، اورسولا فون در لاین، امروز شنبه گفت که \"اکثریت قریب به اتفاق کسانی که به طور غیرقانونی وارد شده اند به مراکش بازگشته اند.\"",
+      "summary_fa": "پس از ورود حدود 60000 مهاجر غیرقانونی به منطقه تحت پوشش اسپانیایی سئوتا در شمال آفریقا، رئیس کمیسیون اروپا، اورسولا فون در لاین، امروز شنبه گفت که \"اکثریت قریب به اتفاق کسانی که به طور غیرقانونی وارد شده اند به مراکش بازگشته اند.\"",
+      "summary_en": "After around 60,000 irregular migrants entered the Ceuta Spanish enclave in North Africa, European Commission President Ursula von der Leyen said this Saturday that \"the vast majority of those who arrived illegally have returned to Morocco.\"",
+      "link": "http://www.euronews.com/my-europe/2026/08/01/not-a-single-person-reached-mainland-spain-or-the-rest-of-the-eu-says-von-der-leyen",
+      "source": "EuroNews",
+      "published_at": "Sat, 01 Aug 2026 14:30:25 +0200",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "7083336e0e3420eeaba70508fc4e877d",
       "title": "22 رهبر اتحادیه اروپا خواستار گفتگوهای اضطراری درباره بحران مهاجران سئوتا شدند",
       "title_fa": "22 رهبر اتحادیه اروپا خواستار گفتگوهای اضطراری درباره بحران مهاجران سئوتا شدند",
@@ -62378,6 +62483,216 @@
       }
     },
     {
+      "id": "fd29f44f782533b210f817606dba16cd",
+      "title": "فقط نگاه کردن به شانس ها کافی نیست. چگونه معامله گران در بازارهای پیش بینی برتری پیدا می کنند",
+      "title_fa": "فقط نگاه کردن به شانس ها کافی نیست. چگونه معامله گران در بازارهای پیش بینی برتری پیدا می کنند",
+      "title_en": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "summary": "کسب برتری در بازارهای پیش بینی نیازمند سرعت و مهارتی فراتر از خواندن شانس در پلتفرم هایی مانند Kalshi و Polymarket است.",
+      "summary_fa": "کسب برتری در بازارهای پیش بینی نیازمند سرعت و مهارتی فراتر از خواندن شانس در پلتفرم هایی مانند Kalshi و Polymarket است.",
+      "summary_en": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+      "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 13:44:04 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fba190da4cc857877a244515fbde705c",
+      "title": "پس از اینکه سانچز از واکنش اتحادیه اروپا به بحران سئوتا انتقاد کرد، فرانسه می‌گوید اسپانیا از شنگن «روی میز نیست» - اروپا زنده است",
+      "title_fa": "پس از اینکه سانچز از واکنش اتحادیه اروپا به بحران سئوتا انتقاد کرد، فرانسه می‌گوید اسپانیا از شنگن «روی میز نیست» - اروپا زنده است",
+      "title_en": "Spain leaving Schengen ‘not on table’ says France after Sánchez hits out at EU response to Ceuta crisis – Europe live",
+      "summary": "وزیر کشور تأیید کرد که فرانسه درخواست حذف اسپانیا از ترتیبات سفر بدون روادید را نخواهد داد، پس از اینکه نخست‌وزیر اسپانیا واکنش «خودخواهانه و قطبی» برخی کشورها به گذرگاه‌های مرزی گسترده به اوکراین را محکوم کرد، جایی که صبح امروز ۹ نفر در کیف در اثر حمله موشکی و پهپاد روسیه کشته شدند. ساختمان های مسکونی، یک مدرسه و سایت های زیربنایی مورد حمله قرار گرفتند. به خواندن ادامه دهید...",
+      "summary_fa": "وزیر کشور تأیید کرد که فرانسه درخواست حذف اسپانیا از ترتیبات سفر بدون روادید را نخواهد داد، پس از اینکه نخست‌وزیر اسپانیا واکنش «خودخواهانه و قطبی» برخی کشورها به گذرگاه‌های مرزی گسترده به اوکراین را محکوم کرد، جایی که صبح امروز ۹ نفر در کیف در اثر حمله موشکی و پهپاد روسیه کشته شدند. ساختمان های مسکونی، یک مدرسه و سایت های زیربنایی مورد حمله قرار گرفتند. به خواندن ادامه دهید...",
+      "summary_en": "Interior minister confirms France will not ask for Spain’s removal from visa-free travel arrangements, after Spanish PM condemned ‘selfish, polarising’ response of some countries to mass border crossingsBack to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack.Damage was reported in seven districts of the capital, according to Ukrainian officials, with Ukrainian president Volodymyr Zelenskyy saying fires broke out across the city and residential buildings, a school and infrastructure sites were hit. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "source": "The Guardian",
+      "published_at": "Sat, 01 Aug 2026 13:39:51 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/44a384de7c8e51cfe1cde39b738a012d21a71271/433_0_3558_2846/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=afd70b6149f7061038d3c33a6753df36",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "ecce8bae727c50bd32d7531639927404",
+      "title": "خرید کاندو با وام مسکن ممکن است به زودی پیچیده تر شود. در اینجا دلیل آن است",
+      "title_fa": "خرید کاندو با وام مسکن ممکن است به زودی پیچیده تر شود. در اینجا دلیل آن است",
+      "title_en": "Buying a condo with a mortgage may soon get more complicated. Here's why",
+      "summary": "سیاست‌های جدیدی که در مورد وام‌های مسکن برای آپارتمان‌ها اعمال می‌شود، از 3 آگوست اعمال می‌شود و برخی از کارشناسان هشدار می‌دهند که خریداران ممکن است با تاخیر یا انکار مواجه شوند.",
+      "summary_fa": "سیاست‌های جدیدی که در مورد وام‌های مسکن برای آپارتمان‌ها اعمال می‌شود، از 3 آگوست اعمال می‌شود و برخی از کارشناسان هشدار می‌دهند که خریداران ممکن است با تاخیر یا انکار مواجه شوند.",
+      "summary_en": "New policies that apply to mortgages for condos take effect Aug. 3, and some experts are sounding the alarm that buyers may see delays or denials.",
+      "link": "https://www.cnbc.com/2026/08/01/condo-buyers-mortgage-rules-fannie-mae-freddie-mac.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 13:30:01 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b7f6766aa0305697e7e1ca105f986025",
+      "title": "از افزایش اندک دستمزد خود ناامید شده اید؟ مزایای مراقبت های بهداشتی خود را سرزنش کنید.",
+      "title_fa": "از افزایش اندک دستمزد خود ناامید شده اید؟ مزایای مراقبت های بهداشتی خود را سرزنش کنید.",
+      "title_en": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+      "summary": "دو دهه است که هزینه‌های سلامتی شرکت‌ها به این سرعت افزایش یافته است.",
+      "summary_fa": "دو دهه است که هزینه‌های سلامتی شرکت‌ها به این سرعت افزایش یافته است.",
+      "summary_en": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
+      "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 01 Aug 2026 13:30:00 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-76272389",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc27b0fbad56a73f61571dbe4281e129",
+      "title": "اکثر نوجوانان استرالیایی سه ماه پس از ممنوعیت زیر 16 سال هنوز آنلاین هستند",
+      "title_fa": "اکثر نوجوانان استرالیایی سه ماه پس از ممنوعیت زیر 16 سال هنوز آنلاین هستند",
+      "title_en": "Most Australian teens still online three months after under-16 ban",
+      "summary": "پس از گزارشی که به این نتیجه رسید که اکثر نوجوانان راه هایی برای دور زدن آن پیدا کرده اند، دولت استرالیا از این ممنوعیت دفاع کرده است.",
+      "summary_fa": "پس از گزارشی که به این نتیجه رسید که اکثر نوجوانان راه هایی برای دور زدن آن پیدا کرده اند، دولت استرالیا از این ممنوعیت دفاع کرده است.",
+      "summary_en": "The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 13:10:47 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4cf1f57fef729cea72d809b5d5dcc3bb",
+      "title": "نیرمال پورجا، کوهنورد مشهور، پس از بهمن در پاکستان مرده پیدا شد",
+      "title_fa": "نیرمال پورجا، کوهنورد مشهور، پس از بهمن در پاکستان مرده پیدا شد",
+      "title_en": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+      "summary": "این کوهنورد انگلیسی-نپالی یکی از 10 کوهنوردی بود که روز پنجشنبه در برود پیک، یکی از بلندترین کوه های جهان، بر اثر سقوط بهمن سقوط کرد.",
+      "summary_fa": "این کوهنورد انگلیسی-نپالی یکی از 10 کوهنوردی بود که روز پنجشنبه در برود پیک، یکی از بلندترین کوه های جهان، بر اثر سقوط بهمن سقوط کرد.",
+      "summary_en": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
+      "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 13:09:14 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/00xp-purja-HFO-1-hkfj/00xp-purja-HFO-1-hkfj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7896e109f5d51ede73bdd7637e54f046",
+      "title": "شرکت او می گوید که کوهنورد نیرمال پورجا در بهمن پاکستان کشته شد",
+      "title_fa": "شرکت او می گوید که کوهنورد نیرمال پورجا در بهمن پاکستان کشته شد",
+      "title_en": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "summary": "این کوهنورد متولد نپالی به دلیل صعود به 14 قله مرتفع جهان در مدت کمی بیش از شش ماه در سال 2019 شناخته شده بود.",
+      "summary_fa": "این کوهنورد متولد نپالی به دلیل صعود به 14 قله مرتفع جهان در مدت کمی بیش از شش ماه در سال 2019 شناخته شده بود.",
+      "summary_en": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 13:02:04 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "efcb7815dda739856b4ad483e16f7732",
+      "title": "دور برگشتی اینفانتینو باعث شک و تردید در مورد آینده او در فیفا می شود",
+      "title_fa": "دور برگشتی اینفانتینو باعث شک و تردید در مورد آینده او در فیفا می شود",
+      "title_en": "Infantino’s U-turn fuels doubts about his future at Fifa",
+      "summary": "انتظار می رفت رئیس هیئت حاکمه فوتبال بدون مخالفت مجدداً در انتخابات شرکت کند، اما اکنون انتقادها در حال افزایش است.",
+      "summary_fa": "انتظار می رفت رئیس هیئت حاکمه فوتبال بدون مخالفت مجدداً در انتخابات شرکت کند، اما اکنون انتقادها در حال افزایش است.",
+      "summary_en": "The president of football’s governing body was expected to stand for re-election unopposed, but now criticism is mounting",
+      "link": "https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 01 Aug 2026 13:00:05 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb924aca-a4ae-4fee-bd37-1a6e25185995.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5cb211ef73ad7f3bb923f3353b29f6ee",
+      "title": "چگونه برای هزینه بالای داشتن اولین فرزند در 40 سالگی خود برنامه ریزی کنید",
+      "title_fa": "چگونه برای هزینه بالای داشتن اولین فرزند در 40 سالگی خود برنامه ریزی کنید",
+      "title_en": "How to plan for the high cost of having your first kid in your 40s",
+      "summary": "والدین قدیمی در حال افزایش است - اما با مجموعه ای سخت و جدید از قوانین مالی همراه است.",
+      "summary_fa": "والدین قدیمی در حال افزایش است - اما با مجموعه ای سخت و جدید از قوانین مالی همراه است.",
+      "summary_en": "Older parenthood is on the rise — but it comes with a tough new set of financial rules.",
+      "link": "https://www.marketwatch.com/story/how-to-plan-for-the-high-cost-of-having-your-first-kid-in-your-40s-bfe0c28a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 01 Aug 2026 13:00:00 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-52679023",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7cf6e4cf3fb5479945bfdc3d027d7d6f",
+      "title": "اسپانیا می گوید که مهاجران پس از هجوم گسترده ای که در آن 67 نفر جان خود را از دست دادند، سئوتا را ترک کردند",
+      "title_fa": "اسپانیا می گوید که مهاجران پس از هجوم گسترده ای که در آن 67 نفر جان خود را از دست دادند، سئوتا را ترک کردند",
+      "title_en": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+      "summary": "وزیر خارجه اسپانیا تاکید کرد که «یکپارچگی منطقه شنگن کاملا تضمین شده است».",
+      "summary_fa": "وزیر خارجه اسپانیا تاکید کرد که «یکپارچگی منطقه شنگن کاملا تضمین شده است».",
+      "summary_en": "Spain’s foreign minister maintains 'the integrity of the Schengen area is absolutely guaranteed'.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 12:57:13 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "27ec742a3b82bd137eb20bd4b22e5fc2",
       "title": "سانچز در نامه ای به فون در لاین از عدم همبستگی اروپا در مورد سئوتا انتقاد کرد.",
       "title_fa": "سانچز در نامه ای به فون در لاین از عدم همبستگی اروپا در مورد سئوتا انتقاد کرد.",
@@ -62399,6 +62714,153 @@
       }
     },
     {
+      "id": "60f1dc408048e27a8604151f924415d4",
+      "title": "ایران در بحبوحه تهدیدات حمله آمریکا به سایت‌های انرژی نسبت به «شعله‌های جنگ» هشدار می‌دهد",
+      "title_fa": "ایران در بحبوحه تهدیدات حمله آمریکا به سایت‌های انرژی نسبت به «شعله‌های جنگ» هشدار می‌دهد",
+      "title_en": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+      "summary": "رسانه‌های ایرانی می‌گویند پس از آنکه رسانه‌های آمریکایی حملات قریب‌الوقوع احتمالی علیه اماکن غیرنظامی را مطرح کردند، طرح تلافی‌جویانه آماده است.",
+      "summary_fa": "رسانه‌های ایرانی می‌گویند پس از آنکه رسانه‌های آمریکایی حملات قریب‌الوقوع احتمالی علیه اماکن غیرنظامی را مطرح کردند، طرح تلافی‌جویانه آماده است.",
+      "summary_en": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 12:44:54 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d8e39ac052bdea7f0fb8299c6c971f2e",
+      "title": "چهار کوهنورد، از جمله نیرمال پورجا، پس از بهمن پاکستان کشته شدند",
+      "title_fa": "چهار کوهنورد، از جمله نیرمال پورجا، پس از بهمن پاکستان کشته شدند",
+      "title_en": "Four Climbers Dead, Including Nirmal Purja, After Pakistan Avalanche",
+      "summary": "این کوهنورد مشهور و یک زن آمریکایی از جمله کشته شدگان در برود پیک بودند. سرنوشت شش کوهنورد دیگر هنوز مشخص نبود.",
+      "summary_fa": "این کوهنورد مشهور و یک زن آمریکایی از جمله کشته شدگان در برود پیک بودند. سرنوشت شش کوهنورد دیگر هنوز مشخص نبود.",
+      "summary_en": "The famed mountaineer and an American woman were among those killed on Broad Peak. The fate of six other climbers was still unknown.",
+      "link": "https://www.nytimes.com/2026/08/01/world/asia/pakistan-avalanche-climbers-purja.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 12:42:50 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-pakistan-climbers-hjkb/01int-pakistan-climbers-hjkb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa35b060157f6fbc23bbf8aad9ee7a28",
+      "title": "انصراف Sde Teiman نشان می دهد که اعتماد ارتش اسرائیل از بین رفته است",
+      "title_fa": "انصراف Sde Teiman نشان می دهد که اعتماد ارتش اسرائیل از بین رفته است",
+      "title_en": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "summary": "نزدیک به سه سال جنگ بی پایان، اطاعت در داخل ارتش اسرائیل را به طور فزاینده ای مشروط کرده است.",
+      "summary_fa": "نزدیک به سه سال جنگ بی پایان، اطاعت در داخل ارتش اسرائیل را به طور فزاینده ای مشروط کرده است.",
+      "summary_en": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 12:40:36 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "0f9859dae0b91ed80c0da7af6fcdd87d",
+      "title": "با کاهش سهام Reddit، مدیر عامل شرکت ارزش بررسی های اجمالی هوش مصنوعی گوگل را زیر سوال می برد",
+      "title_fa": "با کاهش سهام Reddit، مدیر عامل شرکت ارزش بررسی های اجمالی هوش مصنوعی گوگل را زیر سوال می برد",
+      "title_en": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "summary": "Reddit ممکن است هنوز در حال بررسی پایان دادن به قرارداد مجوز خود با Google باشد.",
+      "summary_fa": "Reddit ممکن است هنوز در حال بررسی پایان دادن به قرارداد مجوز خود با Google باشد.",
+      "summary_en": "Reddit may still be considering ending its licensing deal with Google.",
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 01 Aug 2026 12:30:36 +0000",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "628cf485da43e7a26dfb901543f20057",
+      "title": "همانطور که آمریکایی ها مستقیماً با نسخه های GLP-1 پیش می روند، Walmart، Costco، Amazon برندگان بزرگ کاهش وزن خواهند بود.",
+      "title_fa": "همانطور که آمریکایی ها مستقیماً با نسخه های GLP-1 پیش می روند، Walmart، Costco، Amazon برندگان بزرگ کاهش وزن خواهند بود.",
+      "title_en": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+      "summary": "از آنجایی که آمریکایی‌ها تشویق می‌شوند مستقیماً نسخه‌های داروهای کاهش وزن را تجویز کنند، زنجیره‌های داروخانه‌های خرده‌فروشی آماده هستند تا برنده‌های بزرگی شوند.",
+      "summary_fa": "از آنجایی که آمریکایی‌ها تشویق می‌شوند مستقیماً نسخه‌های داروهای کاهش وزن را تجویز کنند، زنجیره‌های داروخانه‌های خرده‌فروشی آماده هستند تا برنده‌های بزرگی شوند.",
+      "summary_en": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
+      "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 12:30:01 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d67b6c471e1c5ea08e336f4bf7218aeb",
+      "title": "هزینه یک عامل هوش مصنوعی چقدر باید باشد؟ هیچ کس نمی تواند موافقت کند - و این باعث ایجاد هرج و مرج می شود.",
+      "title_fa": "هزینه یک عامل هوش مصنوعی چقدر باید باشد؟ هیچ کس نمی تواند موافقت کند - و این باعث ایجاد هرج و مرج می شود.",
+      "title_en": "How much should an AI agent cost? No one can agree — and it’s creating chaos.",
+      "summary": "ارائه‌دهندگان نرم‌افزار سازمانی با آزمایش روش‌های مختلف کسب درآمد در آب‌های ناشناخته حرکت می‌کنند.",
+      "summary_fa": "ارائه‌دهندگان نرم‌افزار سازمانی با آزمایش روش‌های مختلف کسب درآمد در آب‌های ناشناخته حرکت می‌کنند.",
+      "summary_en": "Enterprise software providers are navigating uncharted waters as they experiment with different monetization methods.",
+      "link": "https://www.marketwatch.com/story/how-much-should-an-ai-agent-cost-no-one-can-agree-and-its-creating-chaos-288d741e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 01 Aug 2026 12:30:00 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-82865564",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e6cfa8632e4becf0441b457374c590fb",
+      "title": "از تصمیم فدرال رزرو تا درآمدهای فناوری بزرگ: چه چیزی بازار پر نوسان هفته گذشته را هدایت کرد",
+      "title_fa": "از تصمیم فدرال رزرو تا درآمدهای فناوری بزرگ: چه چیزی بازار پر نوسان هفته گذشته را هدایت کرد",
+      "title_en": "From a Fed decision to Big Tech earnings: What drove last week's volatile market",
+      "summary": "وال استریت هفته گذشته به مسیر پیروزی خود بازگشت.",
+      "summary_fa": "وال استریت هفته گذشته به مسیر پیروزی خود بازگشت.",
+      "summary_en": "Wall Street got back to its winning ways last week.",
+      "link": "https://www.cnbc.com/2026/08/01/from-a-fed-decision-to-big-tech-earnings-what-drove-last-weeks-volatile-market.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 12:16:13 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "19fd3b1d31a4d51022c0224328c57365",
       "title": "آخرین بولتن اخبار | 1 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 1 آگوست 2026 - ظهر",
@@ -62417,6 +62879,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "3ccb4ec7ff70c5ec870ae61f68f49ce9",
+      "title": "هک Hugging Face در OpenAI ماه ها هشدارهای سایبری هوش مصنوعی را تأیید کرد: \"جعبه پاندورا باز است\"",
+      "title_fa": "هک Hugging Face در OpenAI ماه ها هشدارهای سایبری هوش مصنوعی را تأیید کرد: \"جعبه پاندورا باز است\"",
+      "title_en": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+      "summary": "زنگ بیدارباش صنعت سایبری در حالی است که کارشناسان این صنعت در Black Hat که یک کنفرانس بزرگ امنیت سایبری است، می آیند.",
+      "summary_fa": "زنگ بیدارباش صنعت سایبری در حالی است که کارشناسان این صنعت در Black Hat که یک کنفرانس بزرگ امنیت سایبری است، می آیند.",
+      "summary_en": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+      "link": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f23f03bc75d4c099e65e3dc629024487",
+      "title": "برای ادامه رشد، مدیرعامل جدید Best Buy می گوید که ابتدا می خواهد کوچکتر شود",
+      "title_fa": "برای ادامه رشد، مدیرعامل جدید Best Buy می گوید که ابتدا می خواهد کوچکتر شود",
+      "title_en": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "summary": "در حالی که جیسون بونفیگ، مدیر عامل جدید خود را برای در دست گرفتن کنترل آماده می کند، به CNBC گفت که بر گسترش دامنه فعالیت شرکت و افزایش تجربه مشتری تمرکز کرده است.",
+      "summary_fa": "در حالی که جیسون بونفیگ، مدیر عامل جدید خود را برای در دست گرفتن کنترل آماده می کند، به CNBC گفت که بر گسترش دامنه فعالیت شرکت و افزایش تجربه مشتری تمرکز کرده است.",
+      "summary_en": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+      "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "source": "CNBC",
+      "published_at": "Sat, 01 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-01",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -62497,6 +63001,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "90a5fe0187ea0bc3e0cdb755c970e165",
+      "title": "پس از بحران جام جهانی چه کسی می تواند جایگزین اینفانتینو به عنوان رئیس جمهور شود؟",
+      "title_fa": "پس از بحران جام جهانی چه کسی می تواند جایگزین اینفانتینو به عنوان رئیس جمهور شود؟",
+      "title_en": "Who could replace Infantino as president after FIFA World Cup crisis?",
+      "summary": "پس از بحران برنامه سرمایه گذاری جام جهانی چه کسی جایگزین جیانی اینفانتینو می شود؟",
+      "summary_fa": "پس از بحران برنامه سرمایه گذاری جام جهانی چه کسی جایگزین جیانی اینفانتینو می شود؟",
+      "summary_en": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+      "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 11:58:23 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -63008,6 +63533,27 @@
       }
     },
     {
+      "id": "57713b998fe23543806a693bf6b5d796",
+      "title": "کوهنورد مشهور پورجا هنگام بازیابی اجساد از برودپیک کشته شدن را تایید کرد",
+      "title_fa": "کوهنورد مشهور پورجا هنگام بازیابی اجساد از برودپیک کشته شدن را تایید کرد",
+      "title_en": "Famed climber Purja confirmed dead as bodies recovered from Broad Peak",
+      "summary": "امدادگران پاکستانی همچنان به دنبال شش کوهنورد مفقود شده دیگر هستند که در دوازدهمین قله بزرگ جهان در بهمن از بین رفتند.",
+      "summary_fa": "امدادگران پاکستانی همچنان به دنبال شش کوهنورد مفقود شده دیگر هستند که در دوازدهمین قله بزرگ جهان در بهمن از بین رفتند.",
+      "summary_en": "Pakistani rescuers still looking for six other missing climbers swept away in avalanche on world's 12th largest peak.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 10:38:41 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4ab8c6fdebbc5d693c9e8fd4ca8e22b7",
       "title": "سانچز واکنش \"قطبی\" برخی از کشورهای اتحادیه اروپا به بحران مرزی سئوتا را با افزایش تلفات محکوم کرد - اروپا زنده است",
       "title_fa": "سانچز واکنش \"قطبی\" برخی از کشورهای اتحادیه اروپا به بحران مرزی سئوتا را با افزایش تلفات محکوم کرد - اروپا زنده است",
@@ -63141,6 +63687,27 @@
       "summary": "در شدیدترین زمین لرزه 40 سال اخیر در جنوب ایتالیا حداقل 21 مجروح و بیش از 250 نفر تخلیه شدند. در پی زمین لرزه 4.7 ریشتری منطقه ای در نزدیکی ناپل در جنوب ایتالیا حداقل 21 نفر مجروح شدند. این زمین لرزه که ساعت 7:46 بعدازظهر جمعه شب رخ داد، باعث قطع برق و آسیب به یک ساختمان عمومی شد. فلگری، محل بزرگترین دهانه آتشفشانی اروپا. به خواندن ادامه دهید...",
       "summary_fa": "در شدیدترین زمین لرزه 40 سال اخیر در جنوب ایتالیا حداقل 21 مجروح و بیش از 250 نفر تخلیه شدند. در پی زمین لرزه 4.7 ریشتری منطقه ای در نزدیکی ناپل در جنوب ایتالیا حداقل 21 نفر مجروح شدند. این زمین لرزه که ساعت 7:46 بعدازظهر جمعه شب رخ داد، باعث قطع برق و آسیب به یک ساختمان عمومی شد. فلگری، محل بزرگترین دهانه آتشفشانی اروپا. به خواندن ادامه دهید...",
       "summary_en": "At least 21 injured and more than 250 evacuated in strongest quake to hit southern Italian region in 40 yearsAt least 21 people have been injured after a 4.7-magnitude earthquake rocked a region near Naples, in southern Italy.The quake, which occurred at 7.46pm on Friday night, caused power outages, disrupted public transport and damaged buildings and a pier in Campi Flegrei, the site of Europe’s largest volcanic crater. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
+      "source": "The Guardian",
+      "published_at": "Sat, 01 Aug 2026 10:26:22 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9c236ad6dd6b0bb19d8ebfd868b4e035bf4755e0/256_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=8480797b8cb63d39ed0cf47047bcaa10",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "87815a45072b4fafd11eae12a254894c",
+      "title": "حداقل 21 نفر بر اثر زلزله در نزدیکی ناپل در یک انبوه لرزه مجروح شدند",
+      "title_fa": "حداقل 21 نفر بر اثر زلزله در نزدیکی ناپل در یک انبوه لرزه مجروح شدند",
+      "title_en": "At least 21 injured as earthquake hits near Naples in seismic swarm",
+      "summary": "بیش از 250 نفر در شدیدترین زمین لرزه 40 سال اخیر در جنوب ایتالیا تخلیه شدند: پس از زلزله 4.7 ریشتری منطقه ای در نزدیکی ناپل در جنوب ایتالیا، حداقل 21 نفر مجروح شدند. بزرگترین دهانه آتشفشانی اروپا به خواندن ادامه دهید...",
+      "summary_fa": "بیش از 250 نفر در شدیدترین زمین لرزه 40 سال اخیر در جنوب ایتالیا تخلیه شدند: پس از زلزله 4.7 ریشتری منطقه ای در نزدیکی ناپل در جنوب ایتالیا، حداقل 21 نفر مجروح شدند. بزرگترین دهانه آتشفشانی اروپا به خواندن ادامه دهید...",
+      "summary_en": "More than 250 people evacuated in strongest quake to hit southern Italian region in 40 yearsAt least 21 people have been injured after a 4.7-magnitude earthquake rocked a region near Naples, in southern Italy.The quake, which occurred at 7.46pm on Friday night, caused power outages, disrupted public transport and damaged buildings and a pier in Campi Flegrei, the site of Europe’s largest volcanic crater. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/aug/01/scores-injured-as-earthquake-hits-near-naples-in-seismic-swarm",
       "source": "The Guardian",
       "published_at": "Sat, 01 Aug 2026 10:26:22 GMT",
@@ -63449,6 +64016,27 @@
       }
     },
     {
+      "id": "aa94c46b00e11d9a99ac449fea61aca7",
+      "title": "مریخ نورد کنجکاوی ناسا یک منظره لانه زنبوری مرموز در مریخ پیدا می کند",
+      "title_fa": "مریخ نورد کنجکاوی ناسا یک منظره لانه زنبوری مرموز در مریخ پیدا می کند",
+      "title_en": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+      "summary": "مریخ نورد کنجکاوی ناسا وارد دره مریخی شده است که توسط \"دریایی\" شگفت انگیز از شکستگی های ریز چندضلعی پوشیده شده است. الگوهای لانه زنبوری، هر کدام تنها چند اینچ عرض دارند، در سراسر منظره کشیده می شوند و حتی در اطراف یک ته 20 فوتی نزدیک می پیچند.",
+      "summary_fa": "مریخ نورد کنجکاوی ناسا وارد دره مریخی شده است که توسط \"دریایی\" شگفت انگیز از شکستگی های ریز چندضلعی پوشیده شده است. الگوهای لانه زنبوری، هر کدام تنها چند اینچ عرض دارند، در سراسر منظره کشیده می شوند و حتی در اطراف یک ته 20 فوتی نزدیک می پیچند.",
+      "summary_en": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap around a nearby 20-foot-tall butte.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 09:47:24 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2215c44320b7938b941614a0553afa02",
       "title": "در زیر سکوت تونس، خشم عمومی می جوشد",
       "title_fa": "در زیر سکوت تونس، خشم عمومی می جوشد",
@@ -63462,6 +64050,27 @@
       "date_iso": "2026-08-01",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3988a39f2051bba222c6d76c2683df5b",
+      "title": "سیاهچاله های کوچک ممکن است به طور مخفیانه در حال انفجار ستاره ها در سراسر کهکشان راه شیری باشند",
+      "title_fa": "سیاهچاله های کوچک ممکن است به طور مخفیانه در حال انفجار ستاره ها در سراسر کهکشان راه شیری باشند",
+      "title_en": "Tiny black holes may be secretly exploding stars across the Milky Way",
+      "summary": "سیاهچاله های اولیه ممکن است گهگاه از میان ستاره های کوتوله سفید عبور کنند و انفجارهای عظیم ابرنواختر نوع Ia را برانگیزند. محققان دریافتند که این رویدادها می توانند الگوهای شیمیایی را که در بقایای ابرنواخترها، انفجارهای نزدیک و ستارگان در سراسر کهکشان راه شیری مشاهده می شود، توضیح دهند.",
+      "summary_fa": "سیاهچاله های اولیه ممکن است گهگاه از میان ستاره های کوتوله سفید عبور کنند و انفجارهای عظیم ابرنواختر نوع Ia را برانگیزند. محققان دریافتند که این رویدادها می توانند الگوهای شیمیایی را که در بقایای ابرنواخترها، انفجارهای نزدیک و ستارگان در سراسر کهکشان راه شیری مشاهده می شود، توضیح دهند.",
+      "summary_en": "Primordial black holes may occasionally pass through white dwarf stars and trigger enormous Type Ia supernova explosions. Researchers found that these events could explain chemical patterns seen in supernova remnants, nearby explosions, and stars across the Milky Way.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 09:33:41 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -63659,6 +64268,27 @@
       }
     },
     {
+      "id": "10f56b090418d374e267a975874ed109",
+      "title": "مغز مورچه ها نشان می دهد که چگونه تکامل گرسنگی را به فرزندپروری تبدیل کرده است",
+      "title_fa": "مغز مورچه ها نشان می دهد که چگونه تکامل گرسنگی را به فرزندپروری تبدیل کرده است",
+      "title_en": "Ant brains reveal how evolution turned hunger into parenting",
+      "summary": "فرزندپروری مورچه ها ممکن است از همان سیستم های مغزی تکامل یافته باشد که زمانی گرسنگی را کنترل می کرد. محققان دریافتند که دو سیگنال شیمیایی مورچه‌های مهاجم کلونال را به سمت مراقبت از لارو یا ترک علوفه سوق می‌دهند و با افزایش سن مورچه‌ها تعادل تغییر می‌کند. سیگنال‌های مشابهی در مراقبت از پستانداران دخیل هستند و نشان می‌دهند که تکامل ممکن است از طرح اولیه یکسانی در حیوانات بسیار متفاوت پیروی کرده باشد.",
+      "summary_fa": "فرزندپروری مورچه ها ممکن است از همان سیستم های مغزی تکامل یافته باشد که زمانی گرسنگی را کنترل می کرد. محققان دریافتند که دو سیگنال شیمیایی مورچه‌های مهاجم کلونال را به سمت مراقبت از لارو یا ترک علوفه سوق می‌دهند و با افزایش سن مورچه‌ها تعادل تغییر می‌کند. سیگنال‌های مشابهی در مراقبت از پستانداران دخیل هستند و نشان می‌دهند که تکامل ممکن است از طرح اولیه یکسانی در حیوانات بسیار متفاوت پیروی کرده باشد.",
+      "summary_en": "Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very different animals.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 09:01:54 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f33d5052761eec93307506ed07508a9a",
       "title": "در ایران، به نظر می‌رسد که ایالات متحده به سمت یک شکست استراتژیک پیش می‌رود، متفقین می‌ترسند",
       "title_fa": "در ایران، به نظر می‌رسد که ایالات متحده به سمت یک شکست استراتژیک پیش می‌رود، متفقین می‌ترسند",
@@ -63764,6 +64394,27 @@
       }
     },
     {
+      "id": "164bcc68b6c97a134f575e70e792f917",
+      "title": "خوردن یک آووکادو در روز ممکن است خطر بیماری قلبی را کاهش دهد",
+      "title_fa": "خوردن یک آووکادو در روز ممکن است خطر بیماری قلبی را کاهش دهد",
+      "title_en": "Eating one avocado a day may lower heart disease risk",
+      "summary": "یک آووکادوی روزانه ممکن است با کاهش تعداد ذرات LDL در گردش خون، به کاهش خطر بیماری قلبی در بزرگسالان مبتلا به چاقی کمک کند. پس از شش ماه، شرکت‌کنندگانی که هر روز یک آووکادو می‌خوردند، کاهشی را تجربه کردند که با کاهش تخمینی 4 درصدی خطر قلبی عروقی همراه بود.",
+      "summary_fa": "یک آووکادوی روزانه ممکن است با کاهش تعداد ذرات LDL در گردش خون، به کاهش خطر بیماری قلبی در بزرگسالان مبتلا به چاقی کمک کند. پس از شش ماه، شرکت‌کنندگانی که هر روز یک آووکادو می‌خوردند، کاهشی را تجربه کردند که با کاهش تخمینی 4 درصدی خطر قلبی عروقی همراه بود.",
+      "summary_en": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 08:35:57 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2213dbc16d40019209e67438dbe6b059",
       "title": "Alienware 15 در مقابل LOQ Essential 15: من هر دو لپ تاپ بازی ارزان قیمت را مقایسه کردم - نزدیک بود",
       "title_fa": "Alienware 15 در مقابل LOQ Essential 15: من هر دو لپ تاپ بازی ارزان قیمت را مقایسه کردم - نزدیک بود",
@@ -63798,6 +64449,27 @@
       "date_iso": "2026-08-01",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e0dcd8eee3ad406261ba89717a188ee",
+      "title": "دانشمندان ممکن است راهی برای جلوگیری از درد عضلانی استاتین یافته باشند",
+      "title_fa": "دانشمندان ممکن است راهی برای جلوگیری از درد عضلانی استاتین یافته باشند",
+      "title_en": "Scientists may have found a way to prevent statin muscle pain",
+      "summary": "دانشمندان یک پاسخ ایمنی را شناسایی کرده اند که ممکن است توضیح دهد که چرا استاتین ها باعث درد عضلانی، ضعف و عدم تحمل ورزش در برخی افراد می شوند. این یافته در نهایت می‌تواند منجر به درمان‌هایی شود که از ماهیچه‌ها محافظت می‌کنند و در عین حال مزایای قلبی عروقی این داروها را حفظ می‌کنند.",
+      "summary_fa": "دانشمندان یک پاسخ ایمنی را شناسایی کرده اند که ممکن است توضیح دهد که چرا استاتین ها باعث درد عضلانی، ضعف و عدم تحمل ورزش در برخی افراد می شوند. این یافته در نهایت می‌تواند منجر به درمان‌هایی شود که از ماهیچه‌ها محافظت می‌کنند و در عین حال مزایای قلبی عروقی این داروها را حفظ می‌کنند.",
+      "summary_en": "Scientists have identified an immune response that may explain why statins cause muscle pain, weakness, and exercise intolerance in some people. The finding could eventually lead to treatments that protect muscles while preserving the drugs’ lifesaving cardiovascular benefits.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034152.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 08:09:55 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -64114,6 +64786,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-pakistan-climbers-hjkb/01int-pakistan-climbers-hjkb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a7f673dd302928b23f1e5d90520197c2",
+      "title": "دانشمندان آب را درون باتری رها کردند و قدرت آن را تقریبا دو برابر کردند",
+      "title_fa": "دانشمندان آب را درون باتری رها کردند و قدرت آن را تقریبا دو برابر کردند",
+      "title_en": "Scientists left water inside a battery and nearly doubled its power",
+      "summary": "یک تغییر ساده و شگفت‌آور می‌تواند باتری‌های یون سدیم را بسیار قدرتمندتر کند و در عین حال دری را برای تبدیل آب دریا به آب آشامیدنی باز کند. محققان دانشگاه ساری دریافتند که اکسید سدیم وانادیم زمانی که آب طبیعی آن در داخل رها می شود به جای حذف شدن در طول تولید، عملکرد بسیار بهتری دارد.",
+      "summary_fa": "یک تغییر ساده و شگفت‌آور می‌تواند باتری‌های یون سدیم را بسیار قدرتمندتر کند و در عین حال دری را برای تبدیل آب دریا به آب آشامیدنی باز کند. محققان دانشگاه ساری دریافتند که اکسید سدیم وانادیم زمانی که آب طبیعی آن در داخل رها می شود به جای حذف شدن در طول تولید، عملکرد بسیار بهتری دارد.",
+      "summary_en": "A surprisingly simple change could make sodium-ion batteries far more powerful while opening the door to turning seawater into drinking water. Researchers at the University of Surrey found that sodium vanadium oxide performs much better when its naturally occurring water is left inside instead of being removed during manufacturing.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 06:41:53 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -64625,6 +65318,27 @@
       }
     },
     {
+      "id": "67272b6e7cb2537dcf87803b227d2f3e",
+      "title": "چگونه 50000 مهاجر به سئوتا، منطقه ای اسپانیایی در نزدیکی مراکش سرازیر شدند",
+      "title_fa": "چگونه 50000 مهاجر به سئوتا، منطقه ای اسپانیایی در نزدیکی مراکش سرازیر شدند",
+      "title_en": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
+      "summary": "روز پنجشنبه، ده ها هزار مراکشی به سئوتا، سرزمین اسپانیایی که همسایه مراکش است، نفوذ کردند. تا غروب جمعه، بیشتر آنها گرسنه و ناامید رفته بودند.",
+      "summary_fa": "روز پنجشنبه، ده ها هزار مراکشی به سئوتا، سرزمین اسپانیایی که همسایه مراکش است، نفوذ کردند. تا غروب جمعه، بیشتر آنها گرسنه و ناامید رفته بودند.",
+      "summary_en": "On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.",
+      "link": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html",
+      "source": "NY Times",
+      "published_at": "Sat, 01 Aug 2026 04:01:14 +0000",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Spain-Scene-pkch/02int-Spain-Scene-pkch-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "1a9d68d19515d5b1bd0e32e5cd6c5e5f",
       "title": "گرمای شدید، معنای تابستان را در نسل‌های مختلف اروپا تغییر داده است",
       "title_fa": "گرمای شدید، معنای تابستان را در نسل‌های مختلف اروپا تغییر داده است",
@@ -64932,6 +65646,48 @@
       "date_iso": "2026-08-01",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2b1406b713a61b318ac879bd5464f5eb",
+      "title": "تماشا کنید: چرا فیفا از برنامه های خود برای فروش سهام در جام جهانی صرف نظر کرد؟",
+      "title_fa": "تماشا کنید: چرا فیفا از برنامه های خود برای فروش سهام در جام جهانی صرف نظر کرد؟",
+      "title_en": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
+      "summary": "شیما خلیل خبرنگار بی بی سی توضیح می دهد که چرا جیانی اینفانتینو از پیشنهاد سرمایه گذاری جنجالی خود عقب نشینی کرده است.",
+      "summary_fa": "شیما خلیل خبرنگار بی بی سی توضیح می دهد که چرا جیانی اینفانتینو از پیشنهاد سرمایه گذاری جنجالی خود عقب نشینی کرده است.",
+      "summary_en": "The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down on his controversial investment proposal.",
+      "link": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 02:44:09 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3eb/live/c9375910-8d6f-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5746adf30ca86ab0c00857f0805a0add",
+      "title": "ماگمای فوق‌گرم ممکن است به فواره‌های گدازه‌ای مرتفع کمک کند",
+      "title_fa": "ماگمای فوق‌گرم ممکن است به فواره‌های گدازه‌ای مرتفع کمک کند",
+      "title_en": "Superheated magma may power towering lava fountains",
+      "summary": "دانشمندانی که در حال مطالعه ماگمای فوران تاجوگایت در سال 2021 در لاپالما هستند، دریافتند که گرمای شدید می تواند به طور چشمگیری نحوه گسترش فوران را تغییر دهد. هنگامی که ماگما فوق‌العاده گرم می‌شود، می‌تواند دانه‌های کریستالی ریز را که معمولاً باعث تبلور می‌شوند، حل کند و به سنگ مذاب اجازه می‌دهد تا زمانی که بالا می‌آید، مایع باقی بماند.",
+      "summary_fa": "دانشمندانی که در حال مطالعه ماگمای فوران تاجوگایت در سال 2021 در لاپالما هستند، دریافتند که گرمای شدید می تواند به طور چشمگیری نحوه گسترش فوران را تغییر دهد. هنگامی که ماگما فوق‌العاده گرم می‌شود، می‌تواند دانه‌های کریستالی ریز را که معمولاً باعث تبلور می‌شوند، حل کند و به سنگ مذاب اجازه می‌دهد تا زمانی که بالا می‌آید، مایع باقی بماند.",
+      "summary_en": "Scientists studying magma from the 2021 Tajogaite eruption on La Palma have discovered that extreme heat can dramatically change how an eruption unfolds. When magma becomes superheated, it can dissolve the tiny crystal seeds that normally trigger crystallization, allowing the molten rock to remain fluid far longer as it rises.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 01 Aug 2026 02:38:28 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -75123,6 +75879,48 @@
       }
     },
     {
+      "id": "d74d6c113a9fbe5b48331fe5494da6d4",
+      "title": "آنچه در مورد بهمن پاکستان و کوهنوردان مفقود می دانیم",
+      "title_fa": "آنچه در مورد بهمن پاکستان و کوهنوردان مفقود می دانیم",
+      "title_en": "What we know about the Pakistan avalanche and missing climbers",
+      "summary": "تاکنون سه جسد پیدا شده است و جستجو برای یافتن هفت جسد باقی مانده ادامه دارد.",
+      "summary_fa": "تاکنون سه جسد پیدا شده است و جستجو برای یافتن هفت جسد باقی مانده ادامه دارد.",
+      "summary_en": "Three bodies have been recovered so far, with the search continuing for the remaining seven.",
+      "link": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 23:20:35 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/403d4d00-8d2d-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3a52ea887ca02963ef9e51d054f6f130",
+      "title": "علائم هشدار دهنده ژنتیکی سرطان خون ممکن است سال ها زودتر ظاهر شوند",
+      "title_fa": "علائم هشدار دهنده ژنتیکی سرطان خون ممکن است سال ها زودتر ظاهر شوند",
+      "title_en": "Blood cancer’s genetic warning signs may appear years early",
+      "summary": "سرطان‌های خونی که در نهایت بدتر می‌شوند ممکن است سال‌ها قبل از بروز علائم جدی در بیماران، دارای علائم هشداردهنده ژنتیکی قابل تشخیص باشند. این یافته ها می تواند منجر به مداخله زودتر شود و در عین حال به پزشکان کمک کند تا سرطان واقعی را از تغییرات خونی بی ضرر مرتبط با افزایش سن تشخیص دهند.",
+      "summary_fa": "سرطان‌های خونی که در نهایت بدتر می‌شوند ممکن است سال‌ها قبل از بروز علائم جدی در بیماران، دارای علائم هشداردهنده ژنتیکی قابل تشخیص باشند. این یافته ها می تواند منجر به مداخله زودتر شود و در عین حال به پزشکان کمک کند تا سرطان واقعی را از تغییرات خونی بی ضرر مرتبط با افزایش سن تشخیص دهند.",
+      "summary_en": "Blood cancers that eventually worsen may carry detectable genetic warning signs years before patients develop serious symptoms. The findings could lead to earlier intervention while also helping doctors distinguish true cancer from harmless age-related blood changes.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010740.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 22:53:42 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8cc4e32f0b1c71f662e46d031582cc43",
       "title": "حزب کارگر دارای شهرداری منچستر بزرگ است که توسط اندی برنهام تخلیه شد",
       "title_fa": "حزب کارگر دارای شهرداری منچستر بزرگ است که توسط اندی برنهام تخلیه شد",
@@ -75366,6 +76164,27 @@
       "published_at": "Fri, 31 Jul 2026 22:04:03 GMT",
       "date_iso": "2026-07-31",
       "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "122aff36d7728e5fdb7669a022ab0b06",
+      "title": "دانشمندان دو اجداد مرموز \"شبح\" را پیدا کردند که در DNA ما پنهان شده بودند",
+      "title_fa": "دانشمندان دو اجداد مرموز \"شبح\" را پیدا کردند که در DNA ما پنهان شده بودند",
+      "title_en": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
+      "summary": "انسان‌های امروزی علاوه بر نئاندرتال‌ها و دنیسوواها، DNA را از دو تبار اسرارآمیز منقرض شده حمل می‌کنند. میراث ژنتیکی پنهان آنها نشان می دهد که گذشته تکاملی ما با اختلاط مکرر در میان بسیاری از گروه های مختلف انسانی شکل گرفته است.",
+      "summary_fa": "انسان‌های امروزی علاوه بر نئاندرتال‌ها و دنیسوواها، DNA را از دو تبار اسرارآمیز منقرض شده حمل می‌کنند. میراث ژنتیکی پنهان آنها نشان می دهد که گذشته تکاملی ما با اختلاط مکرر در میان بسیاری از گروه های مختلف انسانی شکل گرفته است.",
+      "summary_en": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 21:58:37 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
@@ -76443,6 +77262,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "5d466c7a50db0c042e96408c1f7f8ccf",
+      "title": "چه چیزی باعث گذرهای گسترده مهاجران به سئوتا شد؟",
+      "title_fa": "چه چیزی باعث گذرهای گسترده مهاجران به سئوتا شد؟",
+      "title_en": "What triggered the mass migrant crossings into Ceuta?",
+      "summary": "تخمین زده می شود که 60000 مهاجر از مراکش وارد سئوتا شده اند که ده ها نفر در این سفر جان خود را از دست داده اند.",
+      "summary_fa": "تخمین زده می شود که 60000 مهاجر از مراکش وارد سئوتا شده اند که ده ها نفر در این سفر جان خود را از دست داده اند.",
+      "summary_en": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 31 Jul 2026 18:29:04 GMT",
+      "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6767/live/a26fe750-8d0d-11f1-bbc4-4d8950e3863d.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -81444,6 +82284,27 @@
       }
     },
     {
+      "id": "32fe120421068ffa64f84a400821a1d4",
+      "title": "کارشناسان می گویند دستورالعمل های فشار خون نیمی از معادله را از دست داده اند",
+      "title_fa": "کارشناسان می گویند دستورالعمل های فشار خون نیمی از معادله را از دست داده اند",
+      "title_en": "Experts say blood pressure guidelines are missing half the equation",
+      "summary": "یک گزارش جدید نشان می دهد که فشار خون ممکن است با افزایش پتاسیم و همچنین کاهش سدیم به طور موثرتری کنترل شود. غذاهای غنی از پتاسیم می توانند به متعادل کردن اثرات سدیم کمک کنند، اما بیشتر افراد پتاسیم بسیار کمتری نسبت به توصیه شده مصرف می کنند.",
+      "summary_fa": "یک گزارش جدید نشان می دهد که فشار خون ممکن است با افزایش پتاسیم و همچنین کاهش سدیم به طور موثرتری کنترل شود. غذاهای غنی از پتاسیم می توانند به متعادل کردن اثرات سدیم کمک کنند، اما بیشتر افراد پتاسیم بسیار کمتری نسبت به توصیه شده مصرف می کنند.",
+      "summary_en": "A new report suggests that blood pressure may be controlled more effectively by increasing potassium while also cutting sodium. Potassium-rich foods can help balance sodium’s effects, but most people consume far less potassium than recommended.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034135.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 09:12:42 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f38c2dea3c6492c4743fca8aae9879ec",
       "title": "یک روز پس از حمله آمریکا به ایران: آخرین رویدادها، سپاه پاسداران به اهداف آمریکا در کویت حمله کرد",
       "title_fa": "یک روز پس از حمله آمریکا به ایران: آخرین رویدادها، سپاه پاسداران به اهداف آمریکا در کویت حمله کرد",
@@ -81696,6 +82557,27 @@
       }
     },
     {
+      "id": "c4e78f9494f11f778138f649c4bb11fb",
+      "title": "فرآیند جدید زباله های پلاستیکی را به سوخت هیدروژن تبدیل می کند در حالی که کربن را به دام می اندازد",
+      "title_fa": "فرآیند جدید زباله های پلاستیکی را به سوخت هیدروژن تبدیل می کند در حالی که کربن را به دام می اندازد",
+      "title_en": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+      "summary": "یک فرآیند شیمیایی جدید می‌تواند سه مورد از رایج‌ترین پلاستیک‌ها را به هیدروژن با خلوص بالا تبدیل کند، بدون اینکه ابتدا آنها را دسته‌بندی کند. این تکنیک در دمای بسیار پایین‌تری نسبت به گازسازی سنتی عمل می‌کند و بیشتر کربن پلاستیک را به صورت جامد یا مایع به‌جای آزاد کردن دی‌اکسید کربن جذب می‌کند.",
+      "summary_fa": "یک فرآیند شیمیایی جدید می‌تواند سه مورد از رایج‌ترین پلاستیک‌ها را به هیدروژن با خلوص بالا تبدیل کند، بدون اینکه ابتدا آنها را دسته‌بندی کند. این تکنیک در دمای بسیار پایین‌تری نسبت به گازسازی سنتی عمل می‌کند و بیشتر کربن پلاستیک را به صورت جامد یا مایع به‌جای آزاد کردن دی‌اکسید کربن جذب می‌کند.",
+      "summary_en": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures most of the plastic’s carbon in solid or liquid forms instead of releasing it as carbon dioxide.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 08:46:18 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "6fa0b46b7c5ac82ad1012f609ba3fd5e",
       "title": "فیفا اصرار دارد که با وجود تهدید یوفا بایکوت، به طرح پیشنهادی سرمایه گذار خصوصی ادامه خواهد داد",
       "title_fa": "فیفا اصرار دارد که با وجود تهدید یوفا بایکوت، به طرح پیشنهادی سرمایه گذار خصوصی ادامه خواهد داد",
@@ -81729,6 +82611,27 @@
       "published_at": "Fri, 31 Jul 2026 08:30:41 GMT",
       "date_iso": "2026-07-31",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "887df9be73be08b77cb41329250bfb2c",
+      "title": "دانشمندان کشف کردند که چرا خواب کم ممکن است به برخی از مغزها آسیب بیشتری وارد کند",
+      "title_fa": "دانشمندان کشف کردند که چرا خواب کم ممکن است به برخی از مغزها آسیب بیشتری وارد کند",
+      "title_en": "Scientists discover why poor sleep may harm some brains more",
+      "summary": "یک ژن درگیر در سیستم تمیز کردن شبانه مغز ممکن است تأثیر شدید خواب ضعیف بر تغییرات مغزی مرتبط با آلزایمر را تغییر دهد. یافته‌ها به استراتژی‌های پیشگیری شخصی‌تر بر اساس ژنتیک و عادات خواب اشاره دارد.",
+      "summary_fa": "یک ژن درگیر در سیستم تمیز کردن شبانه مغز ممکن است تأثیر شدید خواب ضعیف بر تغییرات مغزی مرتبط با آلزایمر را تغییر دهد. یافته‌ها به استراتژی‌های پیشگیری شخصی‌تر بر اساس ژنتیک و عادات خواب اشاره دارد.",
+      "summary_en": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both genetics and sleep habits.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 08:20:43 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
@@ -81877,6 +82780,27 @@
       "date_iso": "2026-07-31",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8ad21e57fceacbde5d058953e0f39817",
+      "title": "تئوری چاقی 42 ساله در دوران کودکی ممکن است اشتباه باشد",
+      "title_fa": "تئوری چاقی 42 ساله در دوران کودکی ممکن است اشتباه باشد",
+      "title_en": "A 42-year-old childhood obesity theory may be wrong",
+      "summary": "تحقیقات جدید این ایده دهه‌ها را به چالش می‌کشد که کودکان با شروع افزایش BMI در حدود ۶ سالگی، «بازگشت چربی» را تجربه می‌کنند. به نظر می رسد این افزایش از رشد ماهیچه ها و بافت لاغر ناشی می شود زیرا کودکان برای رشد بعدی آماده می شوند. محققان می گویند این روند طبیعی به اشتباه به عنوان یک علامت هشدار دهنده چاقی برای 42 سال تلقی می شود.",
+      "summary_fa": "تحقیقات جدید این ایده دهه‌ها را به چالش می‌کشد که کودکان با شروع افزایش BMI در حدود ۶ سالگی، «بازگشت چربی» را تجربه می‌کنند. به نظر می رسد این افزایش از رشد ماهیچه ها و بافت لاغر ناشی می شود زیرا کودکان برای رشد بعدی آماده می شوند. محققان می گویند این روند طبیعی به اشتباه به عنوان یک علامت هشدار دهنده چاقی برای 42 سال تلقی می شود.",
+      "summary_en": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as children prepare for later growth. Researchers say this normal process has been mistakenly treated as an obesity warning sign for 42 years.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 07:28:32 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -82683,6 +83607,27 @@
       }
     },
     {
+      "id": "30e99f132150a994c6a3cf2d269dc0c4",
+      "title": "اولین کریستال زمان فوتونیک جهان، عصر جدیدی از کنترل نور را باز می کند",
+      "title_fa": "اولین کریستال زمان فوتونیک جهان، عصر جدیدی از کنترل نور را باز می کند",
+      "title_en": "World-first photonic time crystal opens a new era of light control",
+      "summary": "دانشمندان اولین کریستال زمان فوتونیک تمام نوری را ساخته اند که به آنها امکان می دهد رفتار نور تراهرتز را با سرعت های خارق العاده تغییر شکل دهند. این پیشرفت می تواند دری را به روی محاسبات فوق سریع، سیستم های ارتباطی هوشمندتر، تصویربرداری پیشرفته و نسل جدیدی از لیزرهای بسیار قابل تنظیم باز کند.",
+      "summary_fa": "دانشمندان اولین کریستال زمان فوتونیک تمام نوری را ساخته اند که به آنها امکان می دهد رفتار نور تراهرتز را با سرعت های خارق العاده تغییر شکل دهند. این پیشرفت می تواند دری را به روی محاسبات فوق سریع، سیستم های ارتباطی هوشمندتر، تصویربرداری پیشرفته و نسل جدیدی از لیزرهای بسیار قابل تنظیم باز کند.",
+      "summary_en": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter communication systems, advanced imaging, and a new generation of highly tunable lasers.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 05:13:30 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3fa23a8ff05bdee4736c7dbacb0a88a1",
       "title": "کوپن شرکت تشک: تا 700 دلار پس انداز |",
       "title_fa": "کوپن شرکت تشک: تا 700 دلار پس انداز |",
@@ -82995,6 +83940,27 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "4e212ba42d1c6c7d4e948133ab0b3e23",
+      "title": "سیاهچاله‌ها ممکن است تقریباً به اندازه‌ای که می‌بلعند، ماده را بیرون بیاورند",
+      "title_fa": "سیاهچاله‌ها ممکن است تقریباً به اندازه‌ای که می‌بلعند، ماده را بیرون بیاورند",
+      "title_en": "Black holes may spit out nearly as much matter as they swallow",
+      "summary": "سیاهچاله ای که در طی یک فوران چشمگیر در سال 2023 مشاهده شد، به سادگی گاز ستاره همراه خود را نخورد. همچنین مقادیر زیادی از مواد را از طریق جت‌ها و بادهای قدرتمند، حتی پس از اینکه فوران تقریباً محو شده بود، خارج کرد. نتایج نشان می‌دهد که سیاه‌چاله‌ها ممکن است مدت‌ها پس از پایان درخشان‌ترین آتش‌بازی‌شان، به تغییر شکل محیط اطراف خود ادامه دهند.",
+      "summary_fa": "سیاهچاله ای که در طی یک فوران چشمگیر در سال 2023 مشاهده شد، به سادگی گاز ستاره همراه خود را نخورد. همچنین مقادیر زیادی از مواد را از طریق جت‌ها و بادهای قدرتمند، حتی پس از اینکه فوران تقریباً محو شده بود، خارج کرد. نتایج نشان می‌دهد که سیاه‌چاله‌ها ممکن است مدت‌ها پس از پایان درخشان‌ترین آتش‌بازی‌شان، به تغییر شکل محیط اطراف خود ادامه دهند.",
+      "summary_en": "A black hole observed during a dramatic 2023 eruption did not simply devour gas from its nearby companion star. It also expelled large amounts of material through powerful jets and winds, even after the outburst had nearly faded. The results suggest black holes may continue reshaping their surroundings long after their brightest fireworks end.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 04:18:29 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -83394,6 +84360,27 @@
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "اوکراین"
+      }
+    },
+    {
+      "id": "7f0e96287253d1efa78276e877e66739",
+      "title": "هوش مصنوعی می تواند تشخیص دهد که آیا مغز شما سریعتر از شما پیر می شود یا خیر",
+      "title_fa": "هوش مصنوعی می تواند تشخیص دهد که آیا مغز شما سریعتر از شما پیر می شود یا خیر",
+      "title_en": "AI can tell if your brain is aging faster than you are",
+      "summary": "مغز خواب فرد ممکن است علائم هشدار دهنده زوال عقل را مدت ها قبل از شروع مشکلات حافظه نشان دهد. محققان از یادگیری ماشینی برای تجزیه و تحلیل ضبط EEG از حدود 7000 بزرگسال استفاده کردند و دریافتند که \"سن مغز\" بالاتر از حد انتظار با خطر ابتلا به زوال عقل به شدت بالاتری مرتبط است. هر 10 سال دیگر پیری مغز این خطر را تقریباً 40 درصد افزایش می دهد.",
+      "summary_fa": "مغز خواب فرد ممکن است علائم هشدار دهنده زوال عقل را مدت ها قبل از شروع مشکلات حافظه نشان دهد. محققان از یادگیری ماشینی برای تجزیه و تحلیل ضبط EEG از حدود 7000 بزرگسال استفاده کردند و دریافتند که \"سن مغز\" بالاتر از حد انتظار با خطر ابتلا به زوال عقل به شدت بالاتری مرتبط است. هر 10 سال دیگر پیری مغز این خطر را تقریباً 40 درصد افزایش می دهد.",
+      "summary_en": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging raised that risk by nearly 40%.",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "source": "Science Daily",
+      "published_at": "Fri, 31 Jul 2026 03:05:12 EDT",
+      "date_iso": "2026-08-01",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -93869,6 +94856,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be82d2514350a7b48e37ff82c7de7383",
+      "title": "می‌توانید عکس‌های بهتری با گوشی خود بگیرید",
+      "title_fa": "می‌توانید عکس‌های بهتری با گوشی خود بگیرید",
+      "title_en": "You could be taking way better photos on your phone",
+      "summary": "عکس های گوشی هوشمند شما می توانند بسیار بهتر به نظر برسند. اگر مایلید کمی کار اضافی انجام دهید، از برنامه های شخص ثالث استفاده کنید و کمی زمان را صرف ویرایش کنید، می توانید عکس هایی بگیرید که - تحت شرایط مناسب - می توانند با دوربین های دیجیتال اختصاصی رقابت کنند. من تعداد زیادی عکس گوشی هوشمند را به صورت آنلاین منتشر می کنم و \"چگونه […]",
+      "summary_fa": "عکس های گوشی هوشمند شما می توانند بسیار بهتر به نظر برسند. اگر مایلید کمی کار اضافی انجام دهید، از برنامه های شخص ثالث استفاده کنید و کمی زمان را صرف ویرایش کنید، می توانید عکس هایی بگیرید که - تحت شرایط مناسب - می توانند با دوربین های دیجیتال اختصاصی رقابت کنند. من تعداد زیادی عکس گوشی هوشمند را به صورت آنلاین منتشر می کنم و \"چگونه […]",
+      "summary_en": "Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the right circumstances - can rival dedicated digital cameras. I post a lot of smartphone photos online, and \"How […]",
+      "link": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
+      "source": "The Verge",
+      "published_at": "2026-08-01T09:30:00-04:00",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dddf98d612cdc4413b1564151d5b95ee",
+      "title": "ماسک پری دریایی یک معمای قتل کامل در تعطیلات است",
+      "title_fa": "ماسک پری دریایی یک معمای قتل کامل در تعطیلات است",
+      "title_en": "The Mermaid Mask is a perfect vacation murder mystery",
+      "summary": "The Mermaid Mask، بازی نقطه و کلیک بعدی از توسعه دهنده Tangle Tower SFB Games، هر چیزی را که می توانید در یک معمای قتل بزرگ بخواهید دارد. با یک چیدمان قانع‌کننده شروع می‌شود: کاپیتان یک زیردریایی مرده در اتاقی دربسته پیدا می‌شود، جسدش در کنار یک دیگ مرموز با خونی که روی زمین می‌چکد. […]",
+      "summary_fa": "The Mermaid Mask، بازی نقطه و کلیک بعدی از توسعه دهنده Tangle Tower SFB Games، هر چیزی را که می توانید در یک معمای قتل بزرگ بخواهید دارد. با یک چیدمان قانع‌کننده شروع می‌شود: کاپیتان یک زیردریایی مرده در اتاقی دربسته پیدا می‌شود، جسدش در کنار یک دیگ مرموز با خونی که روی زمین می‌چکد. […]",
+      "summary_en": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. […]",
+      "link": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+      "source": "The Verge",
+      "published_at": "2026-08-01T09:00:00-04:00",
+      "date_iso": "2026-08-01",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
