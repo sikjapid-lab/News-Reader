@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-02 11:04:28",
-  "total_count": 5053,
+  "last_update": "2026-08-02 12:13:38",
+  "total_count": 5069,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -57884,6 +57884,69 @@
       }
     },
     {
+      "id": "faded608c91a03ff55e5f3249648e01b",
+      "title": "دولت اسپانیا چند روز قبل از بحران هشدارهای اطلاعاتی درباره افزایش مهاجران سئوتا دریافت کرد",
+      "title_fa": "دولت اسپانیا چند روز قبل از بحران هشدارهای اطلاعاتی درباره افزایش مهاجران سئوتا دریافت کرد",
+      "title_en": "Spanish government received intelligence warnings of Ceuta migrant surge days before crisis",
+      "summary": "پدرو سانچز، نخست وزیر اسپانیا، عبور جمعی از مهاجران را \"نقض تمامیت ارضی اسپانیا\" توصیف کرده و شبکه های قاچاق انسان را عامل این حادثه دانسته است.",
+      "summary_fa": "پدرو سانچز، نخست وزیر اسپانیا، عبور جمعی از مهاجران را \"نقض تمامیت ارضی اسپانیا\" توصیف کرده و شبکه های قاچاق انسان را عامل این حادثه دانسته است.",
+      "summary_en": "Spanish Prime Minister Pedro Sánchez has described the mass crossing of migrants as a \"violation of Spain's territorial integrity\" and has blamed the incident on people-smuggling networks.",
+      "link": "http://www.euronews.com/my-europe/2026/08/02/spanish-government-received-intelligence-warnings-of-ceuta-migrant-surge-days-before-crisi",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 14:11:59 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa96ae781bb313d3a8d5e7e71003bb16",
+      "title": "در پی آتش گرفتن یک کشتی اندونزیایی در دریا دست کم پنج کشته و 41 مفقود شدند",
+      "title_fa": "در پی آتش گرفتن یک کشتی اندونزیایی در دریا دست کم پنج کشته و 41 مفقود شدند",
+      "title_en": "At least five dead and 41 missing after an Indonesian ferry caught fire at sea",
+      "summary": "به گفته بسارناس، آژانس ملی جستجو و نجات اندونزی، در مجموع 225 نفر در کشتی نجات یافتند، در حالی که برخی از مسافران برای فرار از آتش به دریا پریدند.",
+      "summary_fa": "به گفته بسارناس، آژانس ملی جستجو و نجات اندونزی، در مجموع 225 نفر در کشتی نجات یافتند، در حالی که برخی از مسافران برای فرار از آتش به دریا پریدند.",
+      "summary_en": "A total of 225 people on the ferry were rescued, while some passengers jumped into the sea to escape the fire, according to Basarnas, Indonesia's National Search and Rescue Agency.",
+      "link": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 13:23:32 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "65189c272d1d4347a7ee888d24e47e0a",
+      "title": "به روز رسانی آتش سوزی های جنگلی اروپا: یونان همچنان در حال مبارزه است، شیوع در اسپانیا",
+      "title_fa": "به روز رسانی آتش سوزی های جنگلی اروپا: یونان همچنان در حال مبارزه است، شیوع در اسپانیا",
+      "title_en": "Europe's wildfires update: Greece still battling, outbreaks in Spain",
+      "summary": "پس از هفته‌ها مبارزه با آتش‌سوزی‌های جنگلی، فرانسه توانسته است جلوی گسترش آتش‌سوزی را بگیرد. وضعیت اسپانیا رو به بهبود است اما شعله های آتش همچنان در حال گسترش است در حالی که یونان با آتش سوزی های متعدد و بادهای شدید در مناطق مختلف کشور دست و پنجه نرم می کند.",
+      "summary_fa": "پس از هفته‌ها مبارزه با آتش‌سوزی‌های جنگلی، فرانسه توانسته است جلوی گسترش آتش‌سوزی را بگیرد. وضعیت اسپانیا رو به بهبود است اما شعله های آتش همچنان در حال گسترش است در حالی که یونان با آتش سوزی های متعدد و بادهای شدید در مناطق مختلف کشور دست و پنجه نرم می کند.",
+      "summary_en": "After weeks of fighting wildfires, France has managed to stop the spread of the blazes. Spain's situation is improving but flames are still spreading while Greece struggles with multiple fires and high winds in different parts of the country.",
+      "link": "http://www.euronews.com/my-europe/2026/08/02/europes-wildfires-update-greece-still-battling-outbreaks-in-spain",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 13:17:19 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "2131b9009683c3d5b2eaec4782969524",
       "title": "طرح‌های بزرگ: معماری مدرن تاشکند به فهرست میراث جهانی یونسکو پیوست",
       "title_fa": "طرح‌های بزرگ: معماری مدرن تاشکند به فهرست میراث جهانی یونسکو پیوست",
@@ -57926,6 +57989,27 @@
       }
     },
     {
+      "id": "800012902af3e178413f4f8eee47bd78",
+      "title": "تحلیلگران برتر وال استریت نسبت به این 3 سهام سود سهام برای درآمد غیرفعال خوش بین هستند",
+      "title_fa": "تحلیلگران برتر وال استریت نسبت به این 3 سهام سود سهام برای درآمد غیرفعال خوش بین هستند",
+      "title_en": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+      "summary": "ردیابی تحلیلگران برتر می تواند به سرمایه گذاران کمک کند تا سهام سود سهام جذاب را انتخاب کنند، زیرا این کارشناسان بینش مفیدی را ارائه می دهند.",
+      "summary_fa": "ردیابی تحلیلگران برتر می تواند به سرمایه گذاران کمک کند تا سهام سود سهام جذاب را انتخاب کنند، زیرا این کارشناسان بینش مفیدی را ارائه می دهند.",
+      "summary_en": "Tracking top analysts can help investors shortlist attractive dividend stocks, as these experts provide useful insights.",
+      "link": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 12:01:00 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9b1f2b2967ec395377a7f7227540a1ba",
       "title": "آخرین بولتن اخبار | 2 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 2 آگوست 2026 - ظهر",
@@ -57944,6 +58028,195 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "446061451a1b9838d149bba4890e8cab",
+      "title": "چرا پروازها اینقدر گران هستند و احتمالاً همینطور خواهند ماند",
+      "title_fa": "چرا پروازها اینقدر گران هستند و احتمالاً همینطور خواهند ماند",
+      "title_en": "Why flights are so expensive and will likely stay that way",
+      "summary": "شرکت های هواپیمایی در سال جاری میلیاردها دلار بیشتر به عنوان هزینه سوخت پرداخت می کنند",
+      "summary_fa": "شرکت های هواپیمایی در سال جاری میلیاردها دلار بیشتر به عنوان هزینه سوخت پرداخت می کنند",
+      "summary_en": "Airlines are paying billions of dollars more in fuel costs this year",
+      "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea87eebbd3fa561fd4707966fbe1b361",
+      "title": "سرمایه گذاران در حال چرخش به سهام مالی هستند. حرکت بعدی فدرال رزرو می تواند تعیین کند که این افزایش تا چه اندازه ادامه دارد.",
+      "title_fa": "سرمایه گذاران در حال چرخش به سهام مالی هستند. حرکت بعدی فدرال رزرو می تواند تعیین کند که این افزایش تا چه اندازه ادامه دارد.",
+      "title_en": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+      "summary": "سهام مالی جزو بهترین عملکردهای بازار در این ماه بوده اند. با این حال، حرکت بعدی فدرال رزرو ممکن است تعیین کند که چرخش تا چه حد می تواند ادامه یابد.",
+      "summary_fa": "سهام مالی جزو بهترین عملکردهای بازار در این ماه بوده اند. با این حال، حرکت بعدی فدرال رزرو ممکن است تعیین کند که چرخش تا چه حد می تواند ادامه یابد.",
+      "summary_en": "Financial stocks have been among the market’s best performers this month. The Fed’s next move, however, may determine how much further the rotation can run.",
+      "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 02 Aug 2026 12:00:00 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-65765833",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f2f8f5b28be1b2c3d892ebc6ad893ff1",
+      "title": "سهام مالی در حال خرد کردن آن هستند. این نمودارها نشان می‌دهند که چرا تجمع «برک‌آوت» ممکن است تازه شروع شده باشد.",
+      "title_fa": "سهام مالی در حال خرد کردن آن هستند. این نمودارها نشان می‌دهند که چرا تجمع «برک‌آوت» ممکن است تازه شروع شده باشد.",
+      "title_en": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
+      "summary": "شکست سهام بانک ها به رکوردهای بی سابقه، به علاوه درآمدهای قوی و ارزش گذاری مطلوب آنها، نشان دهنده زمان های خوب بیشتری برای بخش مالی است.",
+      "summary_fa": "شکست سهام بانک ها به رکوردهای بی سابقه، به علاوه درآمدهای قوی و ارزش گذاری مطلوب آنها، نشان دهنده زمان های خوب بیشتری برای بخش مالی است.",
+      "summary_en": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
+      "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 02 Aug 2026 12:00:00 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04164777",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e403b6b2993ba7381161627633ffe800",
+      "title": "چرا هر غول فناوری می خواهد شبیه یک شرکت امنیت سایبری در عصر هوش مصنوعی باشد؟",
+      "title_fa": "چرا هر غول فناوری می خواهد شبیه یک شرکت امنیت سایبری در عصر هوش مصنوعی باشد؟",
+      "title_en": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "summary": "در حالی که عوامل هوش مصنوعی آزاد می شوند، غول های فناوری در حال رقابت برای تبدیل امنیت سایبری به ویژگی اصلی کسب و کار خود هستند.",
+      "summary_fa": "در حالی که عوامل هوش مصنوعی آزاد می شوند، غول های فناوری در حال رقابت برای تبدیل امنیت سایبری به ویژگی اصلی کسب و کار خود هستند.",
+      "summary_en": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
+      "link": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 02 Aug 2026 11:30:00 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-31774742",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b714f29c32c0d29713afb413e09b8f59",
+      "title": "8 بهترین مدیر رمز عبور (2026)، آزمایش شده و بررسی شده",
+      "title_fa": "8 بهترین مدیر رمز عبور (2026)، آزمایش شده و بررسی شده",
+      "title_en": "8 Best Password Managers (2026), Tested and Reviewed",
+      "summary": "ورود خود را با برنامه های مدیریت رمز عبور مورد علاقه ما برای رایانه شخصی، مک، اندروید، آیفون و مرورگرهای وب قفل نگه دارید.",
+      "summary_fa": "ورود خود را با برنامه های مدیریت رمز عبور مورد علاقه ما برای رایانه شخصی، مک، اندروید، آیفون و مرورگرهای وب قفل نگه دارید.",
+      "summary_en": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
+      "link": "https://www.wired.com/story/best-password-managers/",
+      "source": "Wired",
+      "published_at": "Sun, 02 Aug 2026 11:30:00 +0000",
+      "date_iso": "2026-08-02",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e61a40afd190fb68c260779845380c5c",
+      "title": "گروه های بومی مخالف طرح مایلی برای باز کردن آرژانتین به روی خریداران خارجی هستند",
+      "title_fa": "گروه های بومی مخالف طرح مایلی برای باز کردن آرژانتین به روی خریداران خارجی هستند",
+      "title_en": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
+      "summary": "مردم بومی در بوینس آیرس علیه لایحه ای که مالکیت خارجی زمین های روستایی در آرژانتین را باز می کند، تظاهرات کردند.",
+      "summary_fa": "مردم بومی در بوینس آیرس علیه لایحه ای که مالکیت خارجی زمین های روستایی در آرژانتین را باز می کند، تظاهرات کردند.",
+      "summary_en": "Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 11:09:25 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "71210804c663649a738fb4358d07ac70",
+      "title": "بن گویر یک زندانی فلسطینی را به خاطر شرایط زندان مورد تمسخر قرار می دهد",
+      "title_fa": "بن گویر یک زندانی فلسطینی را به خاطر شرایط زندان مورد تمسخر قرار می دهد",
+      "title_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+      "summary": "بن گویر یک زندانی فلسطینی را به خاطر شرایط زندان مورد تمسخر قرار می دهد",
+      "summary_fa": "بن گویر یک زندانی فلسطینی را به خاطر شرایط زندان مورد تمسخر قرار می دهد",
+      "summary_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 11:09:03 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd092ddcdf3cf8522dfeb6c2675a187a",
+      "title": "از سودان تا اسپانیا: بین جنگ و خانه | الجزیره اورجینال",
+      "title_fa": "از سودان تا اسپانیا: بین جنگ و خانه | الجزیره اورجینال",
+      "title_en": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+      "summary": "یک پناهجوی جوان سودانی زندگی خود را در اسپانیا بازسازی می کند در حالی که جنگ او را از خانواده ای که پشت سر گذاشته دور می کند.",
+      "summary_fa": "یک پناهجوی جوان سودانی زندگی خود را در اسپانیا بازسازی می کند در حالی که جنگ او را از خانواده ای که پشت سر گذاشته دور می کند.",
+      "summary_en": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
+      "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 11:07:13 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "427f35a07f7a65020db41c222bdab019",
+      "title": "چند درصد از خانوارهای بریتانیا مشارکت کننده خالص هستند؟",
+      "title_fa": "چند درصد از خانوارهای بریتانیا مشارکت کننده خالص هستند؟",
+      "title_en": "What percentage of UK households are net contributors?",
+      "summary": "با وجود تلاش‌ها، محاسبه این رقم عملاً غیرممکن است",
+      "summary_fa": "با وجود تلاش‌ها، محاسبه این رقم عملاً غیرممکن است",
+      "summary_en": "Despite attempts, the figure is virtually impossible to calculate",
+      "link": "https://www.ft.com/content/9f81d98b-ac0f-4650-8d3b-6b596c50bae2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 11:00:05 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d8328ae-b679-4ec5-b5f1-4787209f08ab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -57982,6 +58255,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "89eac310177fe054016acbeda13e1982",
+      "title": "سریعترین دونده برای عبور از کوه های آلپ می گوید این یک تجربه باورنکردنی بود",
+      "title_fa": "سریعترین دونده برای عبور از کوه های آلپ می گوید این یک تجربه باورنکردنی بود",
+      "title_en": "Fastest runner to cross the Alps says it was an incredible experience",
+      "summary": "سوفی وودز از طریق طوفان، گرمای تا 37 درجه سانتیگراد و جلوگیری از سیل و آتش سوزی در هشت کشور، مسیر Via Alpina را طی کرد.",
+      "summary_fa": "سوفی وودز از طریق طوفان، گرمای تا 37 درجه سانتیگراد و جلوگیری از سیل و آتش سوزی در هشت کشور، مسیر Via Alpina را طی کرد.",
+      "summary_en": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 02 Aug 2026 10:59:55 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0568/live/171e2720-8e61-11f1-b8ee-9b3c26ad07bb.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -58175,6 +58469,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "87540945bba8954e95fa4cca8182fb87",
+      "title": "آتش سوزی در ایالت واشنگتن باعث تخلیه مردم شد",
+      "title_fa": "آتش سوزی در ایالت واشنگتن باعث تخلیه مردم شد",
+      "title_en": "Washington state wildfires trigger evacuations",
+      "summary": "مقامات ایالتی گفتند که آتش سوزی در بیش از 250000 هکتار منجر به تخلیه گسترده و قطع برق شده است.",
+      "summary_fa": "مقامات ایالتی گفتند که آتش سوزی در بیش از 250000 هکتار منجر به تخلیه گسترده و قطع برق شده است.",
+      "summary_en": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 02 Aug 2026 10:20:10 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbc/live/ec11f440-8e55-11f1-b8ee-9b3c26ad07bb.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
       }
     },
     {
@@ -98699,6 +99014,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d62a32e053cefc099c1ed88f6b4736e",
+      "title": "تاشوها اکنون به نوعی خسته کننده هستند - و این خبر خوبی برای اپل است",
+      "title_fa": "تاشوها اکنون به نوعی خسته کننده هستند - و این خبر خوبی برای اپل است",
+      "title_en": "Foldables are sort of boring now — and that’s great news for Apple",
+      "summary": "این استپ بک، یک خبرنامه هفتگی است که یک داستان ضروری از دنیای فناوری را شرح می دهد. برای اطلاعات بیشتر در مورد گوشی‌های هوشمند و اندروید، دومینیک پرستون را دنبال کنید. Stepback روز یکشنبه ساعت 8 صبح به وقت شرقی به صندوق ورودی مشترکان ما می رسد. در اینجا برای The Stepback انتخاب کنید. چگونه شروع شد، باور کنید یا نه، همه چیز با […]",
+      "summary_fa": "این استپ بک، یک خبرنامه هفتگی است که یک داستان ضروری از دنیای فناوری را شرح می دهد. برای اطلاعات بیشتر در مورد گوشی‌های هوشمند و اندروید، دومینیک پرستون را دنبال کنید. Stepback روز یکشنبه ساعت 8 صبح به وقت شرقی به صندوق ورودی مشترکان ما می رسد. در اینجا برای The Stepback انتخاب کنید. چگونه شروع شد، باور کنید یا نه، همه چیز با […]",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn't all start with […]",
+      "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+      "source": "The Verge",
+      "published_at": "2026-08-02T08:00:00-04:00",
+      "date_iso": "2026-08-02",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
