@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-02 01:14:29",
-  "total_count": 4962,
+  "last_update": "2026-08-02 04:43:32",
+  "total_count": 4984,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -57884,6 +57884,405 @@
       }
     },
     {
+      "id": "998e1ee3fdb732a031d66cdca6282fed",
+      "title": "سالن‌های موسیقی مستقل استرالیا با افزایش هزینه‌ها و کاهش تماشاگران بسته می‌شوند",
+      "title_fa": "سالن‌های موسیقی مستقل استرالیا با افزایش هزینه‌ها و کاهش تماشاگران بسته می‌شوند",
+      "title_en": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
+      "summary": "زمانی که سریال Mary’s Underground در سیدنی بسته شد، آهنگی آشنا برای صحنه‌ای بود که با هزینه‌های بالا و تماشاگران کم مواجه شد. منتقدان نگران کاهش فضا برای استعدادهای جدید هستند.",
+      "summary_fa": "زمانی که سریال Mary’s Underground در سیدنی بسته شد، آهنگی آشنا برای صحنه‌ای بود که با هزینه‌های بالا و تماشاگران کم مواجه شد. منتقدان نگران کاهش فضا برای استعدادهای جدید هستند.",
+      "summary_en": "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent.",
+      "link": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 04:33:07 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-oz-music-02-cwjm-promo/31int-oz-music-02-cwjm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a2314940fa4af94caf70aa8f6b53cb5b",
+      "title": "ترامپ می‌گوید در انتظار یک توافق سریع، حملات به ایران را لغو می‌کند",
+      "title_fa": "ترامپ می‌گوید در انتظار یک توافق سریع، حملات به ایران را لغو می‌کند",
+      "title_en": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
+      "summary": "پرزیدنت ترامپ گفت که با درخواست‌های ایران و سایر کشورهای خاورمیانه برای لغو حملات برنامه‌ریزی‌شده موافقت کرده و به گفته او پیشرفت در دستیابی به \"محافظه توافق\" با تهران است.",
+      "summary_fa": "پرزیدنت ترامپ گفت که با درخواست‌های ایران و سایر کشورهای خاورمیانه برای لغو حملات برنامه‌ریزی‌شده موافقت کرده و به گفته او پیشرفت در دستیابی به \"محافظه توافق\" با تهران است.",
+      "summary_en": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching “the perimeters of a deal” with Tehran.",
+      "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 04:30:21 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02dc-trump-attack-hqgl/02dc-trump-attack-hqgl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "562c1a4396ee9098d4e6b88ccf0704d0",
+      "title": "چگونه چین از خارجی ها مراقبت می کند",
+      "title_fa": "چگونه چین از خارجی ها مراقبت می کند",
+      "title_en": "How China Keeps Tabs on Foreigners",
+      "summary": "داشبورد پلیس ناامن پنجره‌ای نادر بود که چگونه مقامات خارجی را با جمع‌آوری و جمع‌آوری مقادیر زیادی از داده‌های خصوصی ردیابی می‌کنند.",
+      "summary_fa": "داشبورد پلیس ناامن پنجره‌ای نادر بود که چگونه مقامات خارجی را با جمع‌آوری و جمع‌آوری مقادیر زیادی از داده‌های خصوصی ردیابی می‌کنند.",
+      "summary_en": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
+      "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 04:03:06 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/27/world/china-surveillance-promo/china-surveillance-promo-mediumSquareAt3X.png",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "9c89d9ba20ac9a1906be270a6cd63b0e",
+      "title": "پس از اینکه اکثر مهاجران سئوتا را ترک می کنند، پناهندگان خسته در ساحل پناهگاهی پیدا می کنند",
+      "title_fa": "پس از اینکه اکثر مهاجران سئوتا را ترک می کنند، پناهندگان خسته در ساحل پناهگاهی پیدا می کنند",
+      "title_en": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "summary": "بیشتر افرادی که روز پنجشنبه وارد اسپانیا شدند، از آن زمان به مراکش بازگشته اند. اقلیت کوچکی در کنار دریا، خسته، گرسنه و قسم خورده اند که بمانند.",
+      "summary_fa": "بیشتر افرادی که روز پنجشنبه وارد اسپانیا شدند، از آن زمان به مراکش بازگشته اند. اقلیت کوچکی در کنار دریا، خسته، گرسنه و قسم خورده اند که بمانند.",
+      "summary_en": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay.",
+      "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 04:01:20 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-holdouts-qhmf/02int-spain-holdouts-qhmf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d180165521d38f420d3090fd94dab5ab",
+      "title": "راست افراطی اروپا که زمانی حاشیه‌ای بود، اکنون به بحران مهاجران اسپانیا می‌پردازد",
+      "title_fa": "راست افراطی اروپا که زمانی حاشیه‌ای بود، اکنون به بحران مهاجران اسپانیا می‌پردازد",
+      "title_en": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+      "summary": "اروپا در سال 2015 به بسیاری از پناهندگان پناه داد. واکنش تند این کشور به بحران جدید در سئوتا نشان می دهد که چگونه، 11 سال بعد، راست افراطی نگرش های اروپایی را تغییر داده است.",
+      "summary_fa": "اروپا در سال 2015 به بسیاری از پناهندگان پناه داد. واکنش تند این کشور به بحران جدید در سئوتا نشان می دهد که چگونه، 11 سال بعد، راست افراطی نگرش های اروپایی را تغییر داده است.",
+      "summary_en": "Europe sheltered many refugees in 2015. Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes.",
+      "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 04:01:18 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/world/02int-europe-migrants-top-1/02int-europe-migrants-top-1-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "90d85ad050b779c2466cf2ef354594a0",
+      "title": "کمپین ها هشدار می دهند که قوانین ضد دگرباشان جنسی+ در سراسر غرب آفریقا در حال افزایش است",
+      "title_fa": "کمپین ها هشدار می دهند که قوانین ضد دگرباشان جنسی+ در سراسر غرب آفریقا در حال افزایش است",
+      "title_en": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+      "summary": "فعالان در منطقه می گویند که سیاستمداران LGBTQ+ را به عنوان «ساده ترین بز قتل عام برای حفظ قدرت خود می دانند.» تعداد فزاینده ای از کشورهای غرب آفریقا در بحبوحه فشارهای سیاسی محلی و فشار جهانی علیه حقوق LGBTQ+ قوانین ضد دگرباشان جنسی را اجرا یا تقویت می کنند. در ماه مارس، سنگال حداکثر مجازات حبس جنایی برای همجنس گرایی را دو برابر کرد. نیجر در فوریه «روابط جنسی با افراد همجنس» را جرم انگاری کرد، اولین باری که صمیمیت همجنس‌گرایان در این کشور غیرقانونی شد. به خواندن ادامه دهید...",
+      "summary_fa": "فعالان در منطقه می گویند که سیاستمداران LGBTQ+ را به عنوان «ساده ترین بز قتل عام برای حفظ قدرت خود می دانند.» تعداد فزاینده ای از کشورهای غرب آفریقا در بحبوحه فشارهای سیاسی محلی و فشار جهانی علیه حقوق LGBTQ+ قوانین ضد دگرباشان جنسی را اجرا یا تقویت می کنند. در ماه مارس، سنگال حداکثر مجازات حبس جنایی برای همجنس گرایی را دو برابر کرد. نیجر در فوریه «روابط جنسی با افراد همجنس» را جرم انگاری کرد، اولین باری که صمیمیت همجنس‌گرایان در این کشور غیرقانونی شد. به خواندن ادامه دهید...",
+      "summary_en": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.In March, Senegal doubled the maximum prison sentence for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised “sexual relations with a person of the same sex” in February, the first time same-sex intimacy had been outlawed in the country. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+      "source": "The Guardian",
+      "published_at": "Sun, 02 Aug 2026 04:00:11 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/725aee047802b1eb39e000a019d0566950c75641/742_425_2422_1938/master/2422.jpg?width=140&quality=85&auto=format&fit=max&s=31547ec23a7b4de1d24cbe7d80fa594a",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4151e1d2e2f76beb1ea06d9a946b64df",
+      "title": "مناقصه‌گران خارجی با پیشنهادات خرید «آغوش خرس» شرکت‌های بریتانیا را جلب می‌کنند",
+      "title_fa": "مناقصه‌گران خارجی با پیشنهادات خرید «آغوش خرس» شرکت‌های بریتانیا را جلب می‌کنند",
+      "title_en": "Foreign bidders woo UK companies with ‘bear hug’ takeover offers",
+      "summary": "کسب‌وکارهای فهرست‌شده در لندن با افزایش پیشنهادهای عمومی ناخواسته مواجه می‌شوند که هدف آن تحت فشار قرار دادن هیئت مدیره برای پذیرش است",
+      "summary_fa": "کسب‌وکارهای فهرست‌شده در لندن با افزایش پیشنهادهای عمومی ناخواسته مواجه می‌شوند که هدف آن تحت فشار قرار دادن هیئت مدیره برای پذیرش است",
+      "summary_en": "London-listed businesses face surge in unsolicited public offers that aim to pressure boards into acceptance",
+      "link": "https://www.ft.com/content/cf204cc3-fe8e-4950-a84d-6884f54b7248?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 04:00:06 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F338c66fb-d9b2-445e-b959-b503ef47fab5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "fc708dc5fc15725084f06a6b327a2b3d",
+      "title": "خودروسازان آلمانی پس از زدن تبر بازار کار را با مدیران پر کردند",
+      "title_fa": "خودروسازان آلمانی پس از زدن تبر بازار کار را با مدیران پر کردند",
+      "title_en": "German carmakers flood jobs market with managers after wielding axe",
+      "summary": "فولکس واگن برای یافتن موقعیت هایی برای صدها مدیر در حال خروج به سراغ شکارچی سر می رود",
+      "summary_fa": "فولکس واگن برای یافتن موقعیت هایی برای صدها مدیر در حال خروج به سراغ شکارچی سر می رود",
+      "summary_en": "Volkswagen approaches headhunter to find positions for hundreds of departing managers",
+      "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 04:00:06 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfb4707b-814c-4520-950c-6d437a384914.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cb72823a1d7d5d4956209033a4b69720",
+      "title": "وانمود نکنید که شوخی نمی تواند منجر به خشونت سیاسی شود",
+      "title_fa": "وانمود نکنید که شوخی نمی تواند منجر به خشونت سیاسی شود",
+      "title_en": "Don’t pretend jokes can’t lead to political violence",
+      "summary": "تابو در مورد خشونت سیاسی در حال از بین رفتن است - اما محدود کردن سخنرانی راه حل نیست",
+      "summary_fa": "تابو در مورد خشونت سیاسی در حال از بین رفتن است - اما محدود کردن سخنرانی راه حل نیست",
+      "summary_en": "The taboo around political violence is fraying — but restricting speech is not the answer",
+      "link": "https://www.ft.com/content/6a3abcca-1477-4daa-9481-1a63492601a9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 04:00:05 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d7a1f65-8fd4-410b-942f-0dca27756954.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8deb1e47800cbecefd4ea4c2792914f2",
+      "title": "چگونه پارک ویرونگا از مردم و گوریل ها در برابر ابولا در شرق جمهوری دموکراتیک کنگو محافظت می کند",
+      "title_fa": "چگونه پارک ویرونگا از مردم و گوریل ها در برابر ابولا در شرق جمهوری دموکراتیک کنگو محافظت می کند",
+      "title_en": "How Virunga Park protects people and gorillas from Ebola in eastern DRC",
+      "summary": "هدف ایست های بازرسی و مراقبت بهداشتی مهار شیوع بیماری و محافظت از گوریل های کوهستانی در معرض خطر است.",
+      "summary_fa": "هدف ایست های بازرسی و مراقبت بهداشتی مهار شیوع بیماری و محافظت از گوریل های کوهستانی در معرض خطر است.",
+      "summary_en": "Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 03:46:27 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc1cdeb0b4d17aa8d5e2de129b25774c",
+      "title": "ترامپ حمله ایران را لغو می‌کند، می‌گوید به «محیط توافق» رسیده است",
+      "title_fa": "ترامپ حمله ایران را لغو می‌کند، می‌گوید به «محیط توافق» رسیده است",
+      "title_en": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+      "summary": "رئیس جمهور آمریکا اعلام کرد که با ادعای پیشرفت در مذاکرات، حمله نظامی برنامه ریزی شده به ایران را لغو کرده است.",
+      "summary_fa": "رئیس جمهور آمریکا اعلام کرد که با ادعای پیشرفت در مذاکرات، حمله نظامی برنامه ریزی شده به ایران را لغو کرده است.",
+      "summary_en": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 03:36:43 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c6cb6f418835930474594e49a37e53ad",
+      "title": "تصاویر مفهومی از حوزه المپیک 2032 بریزبن جنجالی فاش شد - همانطور که اتفاق افتاد",
+      "title_fa": "تصاویر مفهومی از حوزه المپیک 2032 بریزبن جنجالی فاش شد - همانطور که اتفاق افتاد",
+      "title_en": "Concept images of controversial 2032 Brisbane Olympics precinct revealed – as it happened",
+      "summary": "اعضای جامعه نگران از دست دادن فضای سبز جامعه و مناطق با اهمیت فرهنگی هستند. این وبلاگ اکنون بسته شده است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، رهبران یولنگو در شمال شرقی سرزمین آرنهم یک شورای جدید قدرتمند سرزمین دیلاک را اعلام کرده اند و اعلام کرده اند که حقوق زمین به صاحبان سنتی \"به خانه باز می گردد\". در یک صحنه ملی در جشنواره گرما، پیر محترم، جاوا یونوپینگو به رهبران، سیاستمداران و سیاستمداران در سراسر کشور گفت: \"باید در روز شنبه در دستان بازدیدکنندگان واقعی از سرتاسر کشور به سمت بازدیدکنندگان بروند. یک شورای زمین جدید در سرزمین آرنهم وجود خواهد داشت و آن را شورای سرزمین دیلاک می نامند و قدرت آینده ما خواهد بود. Icac باید اجازه داشته باشد که فرآیندهای خود را بدون مداخله سیاسی، عاری از اظهار نظر سیاستمداران طی کند، و اجازه داده شود مسیر خود را طی کند. با نوشتن بررسی در انتخابات 2022، ما به طور خاص گفتیم که مطابقت با هدف و نیازهای هر بخش مطابقت دارد. برای مبارزه با انتخابات به خواندن ادامه دهید...",
+      "summary_fa": "اعضای جامعه نگران از دست دادن فضای سبز جامعه و مناطق با اهمیت فرهنگی هستند. این وبلاگ اکنون بسته شده است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، رهبران یولنگو در شمال شرقی سرزمین آرنهم یک شورای جدید قدرتمند سرزمین دیلاک را اعلام کرده اند و اعلام کرده اند که حقوق زمین به صاحبان سنتی \"به خانه باز می گردد\". در یک صحنه ملی در جشنواره گرما، پیر محترم، جاوا یونوپینگو به رهبران، سیاستمداران و سیاستمداران در سراسر کشور گفت: \"باید در روز شنبه در دستان بازدیدکنندگان واقعی از سرتاسر کشور به سمت بازدیدکنندگان بروند. یک شورای زمین جدید در سرزمین آرنهم وجود خواهد داشت و آن را شورای سرزمین دیلاک می نامند و قدرت آینده ما خواهد بود. Icac باید اجازه داشته باشد که فرآیندهای خود را بدون مداخله سیاسی، عاری از اظهار نظر سیاستمداران طی کند، و اجازه داده شود مسیر خود را طی کند. با نوشتن بررسی در انتخابات 2022، ما به طور خاص گفتیم که مطابقت با هدف و نیازهای هر بخش مطابقت دارد. برای مبارزه با انتخابات به خواندن ادامه دهید...",
+      "summary_en": "Community members concerned about loss of community green space and areas of cultural importance. This blog is now closedGet our breaking news email, free app or daily news podcastYolngu leaders in north-east Arnhem Land have announced a powerful new Dilak Land Council, declaring land rights are “coming home” to traditional owners, AAP reports.On a national stage at the Garma festival, revered elder Djawa Yunupingu told leaders, politicians and visitors from across the country on Saturday real power must sit “fully into the hands of landowners”.There will be a new land council in Arnhem Land and it will be called the Dilak Land Council, and it will be the power for our future.Icac should be allowed to go through its processes free of political interference, free of commentary from politicians, and be allowed to run its course.Writing the review into the 2022 election, we specifically said that each division needs to make sure that its constitution is fit for purpose and that that its membership is match-fit to fight elections. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Sun, 02 Aug 2026 03:11:48 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/069bfcaf7a7a417688d5380c0da14177c120c7e4/212_67_1601_1280/master/1601.jpg?width=140&quality=85&auto=format&fit=max&s=2aa2464360de635641749ddbb021ae26",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "395abd4b48c1932838e5b71b3f9d1d15",
+      "title": "ترامپ می‌گوید در حال لغو حملات به ایران مشروط به توافق «سریع» است",
+      "title_fa": "ترامپ می‌گوید در حال لغو حملات به ایران مشروط به توافق «سریع» است",
+      "title_en": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "summary": "پیام رئیس جمهور آمریکا در بحبوحه گزارش رسانه ها مبنی بر برنامه ریزی حملات جدید و شدید علیه ایران در آخر هفته منتشر شد.",
+      "summary_fa": "پیام رئیس جمهور آمریکا در بحبوحه گزارش رسانه ها مبنی بر برنامه ریزی حملات جدید و شدید علیه ایران در آخر هفته منتشر شد.",
+      "summary_en": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 02 Aug 2026 03:05:16 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "240fb346f52d7e144558567982d9fe07",
+      "title": "ترامپ پس از درخواست متحدان خاورمیانه، حملات جدید به ایران را لغو کرد",
+      "title_fa": "ترامپ پس از درخواست متحدان خاورمیانه، حملات جدید به ایران را لغو کرد",
+      "title_en": "Trump cancels new strikes on Iran after Middle East allies’ request",
+      "summary": "رئیس‌جمهور آمریکا مدعی شد: «محیط‌های یک معامله با آن موافقت شده است».",
+      "summary_fa": "رئیس‌جمهور آمریکا مدعی شد: «محیط‌های یک معامله با آن موافقت شده است».",
+      "summary_en": "‘Perimeters of a deal has been agreed to,’ US president claims",
+      "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 03:01:25 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ff81905-fe53-4f2b-8d4a-14076a166c2e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "f9816c48c6dfeeacc7cfe87c61acd785",
+      "title": "اسرائیل با وجود طرح خلع سلاح حماس، هشت نفر را در غزه کشت",
+      "title_fa": "اسرائیل با وجود طرح خلع سلاح حماس، هشت نفر را در غزه کشت",
+      "title_en": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+      "summary": "پس از افشای طرح های آمریکا برای خلع سلاح حماس و عقب نشینی اسرائیل، حملاتی به خانه های غزه انجام شد.",
+      "summary_fa": "پس از افشای طرح های آمریکا برای خلع سلاح حماس و عقب نشینی اسرائیل، حملاتی به خانه های غزه انجام شد.",
+      "summary_en": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 02:58:51 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "9c586d8b040ac2797637925e4d9e1387",
+      "title": "آیا انتقاد از اسپانیا درباره مدیریت مرزها مشروع است یا سیاسی؟",
+      "title_fa": "آیا انتقاد از اسپانیا درباره مدیریت مرزها مشروع است یا سیاسی؟",
+      "title_en": "Is criticism of Spain on border management legitimate or politics?",
+      "summary": "ده‌ها هزار مهاجر برای مدت کوتاهی از مراکش وارد قلمرو شمال آفریقای اسپانیا یعنی سئوتا می‌شوند.",
+      "summary_fa": "ده‌ها هزار مهاجر برای مدت کوتاهی از مراکش وارد قلمرو شمال آفریقای اسپانیا یعنی سئوتا می‌شوند.",
+      "summary_en": "Tens of thousands of migrants briefly cross into Spain's north African territory of Ceuta from Morocco.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 02:55:31 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "ed90eddd9c09016ffc2f820ed43e48c5",
+      "title": "سفارت‌های آمریکا پس از قول ترامپ برای ضربه سخت به ایران هشدار دادند.",
+      "title_fa": "سفارت‌های آمریکا پس از قول ترامپ برای ضربه سخت به ایران هشدار دادند.",
+      "title_en": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+      "summary": "سفارتخانه های آمریکا در خاورمیانه در حال آماده شدن برای تشدید تنش های احتمالی پس از اینکه ترامپ گفت آمریکا ضربه سختی به ایران خواهد زد.",
+      "summary_fa": "سفارتخانه های آمریکا در خاورمیانه در حال آماده شدن برای تشدید تنش های احتمالی پس از اینکه ترامپ گفت آمریکا ضربه سختی به ایران خواهد زد.",
+      "summary_en": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran 'hard'.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 02:24:11 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "57a9085740a1686ed6ed589f6ceb3636",
+      "title": "سیزده کشته در سقوط هواپیمای توریستی پرو بر فراز خطوط نازکا",
+      "title_fa": "سیزده کشته در سقوط هواپیمای توریستی پرو بر فراز خطوط نازکا",
+      "title_en": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+      "summary": "فیلم نشان می دهد که آتش نشانان در حال خنثی کردن لاشه هواپیمای توریستی سقوط کرده در جنوب پرو هستند.",
+      "summary_fa": "فیلم نشان می دهد که آتش نشانان در حال خنثی کردن لاشه هواپیمای توریستی سقوط کرده در جنوب پرو هستند.",
+      "summary_en": "Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 01:46:22 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "47894da66a8e876a369c38cec864cbd4",
+      "title": "مرد مسلح در تیراندازی در رستوران فست فود آیداهو دو نفر را کشت",
+      "title_fa": "مرد مسلح در تیراندازی در رستوران فست فود آیداهو دو نفر را کشت",
+      "title_en": "Gunman kills two in Idaho fast-food restaurant shooting",
+      "summary": "پس از تیراندازی مرد مسلح در برگر In-N-Out در توئین فالز، آیداهو، کشته شدگان گزارش شد.",
+      "summary_fa": "پس از تیراندازی مرد مسلح در برگر In-N-Out در توئین فالز، آیداهو، کشته شدگان گزارش شد.",
+      "summary_en": "Deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 01:26:44 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bef69847a19b6bdb4fecd6fbdff7e4c1",
       "title": "اخبار استرالیا به صورت زنده: هیوم در مورد اشاره تیلور به ایکاک که گفت: «این خیلی از او دور است» کنار می‌رود.",
       "title_fa": "اخبار استرالیا به صورت زنده: هیوم در مورد اشاره تیلور به ایکاک که گفت: «این خیلی از او دور است» کنار می‌رود.",
@@ -57996,6 +58395,27 @@
       "summary": "عراقچی در تماس تلفنی جداگانه با وزرای امور خارجه ترکیه، پاکستان و عربستان هشدار داد.",
       "summary_fa": "عراقچی در تماس تلفنی جداگانه با وزرای امور خارجه ترکیه، پاکستان و عربستان هشدار داد.",
       "summary_en": "Iran's Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 00:00:00 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4ef0a62676b351c7b6bb968565323b69",
+      "title": "جنگ ایران زنده: ترامپ حمله را لغو کرد، گفت: «محیط یک توافق» توافق شده است",
+      "title_fa": "جنگ ایران زنده: ترامپ حمله را لغو کرد، گفت: «محیط یک توافق» توافق شده است",
+      "title_en": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+      "summary": "این اقدام پس از آن صورت گرفت که دیپلمات ارشد ایران نسبت به \"پاسخ قاطع\" به هرگونه \"تجاوز\" آمریکا و اسرائیل هشدار داد.",
+      "summary_fa": "این اقدام پس از آن صورت گرفت که دیپلمات ارشد ایران نسبت به \"پاسخ قاطع\" به هرگونه \"تجاوز\" آمریکا و اسرائیل هشدار داد.",
+      "summary_en": "Move comes after Iran's top diplomat warned of a 'decisive response' to any US-Israeli 'aggression'.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 02 Aug 2026 00:00:00 +0000",
@@ -63008,6 +63428,27 @@
       }
     },
     {
+      "id": "16c07fa792320dcd9c73aa0d12a68cd8",
+      "title": "سقوط هواپیمای پرو 13 کشته از جمله گردشگران اروپایی گرفت",
+      "title_fa": "سقوط هواپیمای پرو 13 کشته از جمله گردشگران اروپایی گرفت",
+      "title_en": "Peruvian plane crash kills 13, including European tourists",
+      "summary": "کشته شدگان شامل 11 مسافر و دو خلبان در حال پرواز بر فراز سایت باستانی معروف که توسط یونسکو به رسمیت شناخته شده است.",
+      "summary_fa": "کشته شدگان شامل 11 مسافر و دو خلبان در حال پرواز بر فراز سایت باستانی معروف که توسط یونسکو به رسمیت شناخته شده است.",
+      "summary_en": "Those killed include 11 passengers and two pilots flying over the famous archaeological site, recognised by UNESCO.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 20:57:04 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "745d16657654e68cf752c3c31f5691d1",
       "title": "بر اثر سقوط یک هواپیمای توریستی در حین پرواز بر فراز خطوط نازکا در پرو، حداقل 13 نفر کشته شدند",
       "title_fa": "بر اثر سقوط یک هواپیمای توریستی در حین پرواز بر فراز خطوط نازکا در پرو، حداقل 13 نفر کشته شدند",
@@ -63327,6 +63768,27 @@
       "title": "سه نفر در انفجار رستوران مسکو کشته شدند",
       "title_fa": "سه نفر در انفجار رستوران مسکو کشته شدند",
       "title_en": "Three die in Moscow restaurant bombing",
+      "summary": "مقامات روسی می گویند بیش از 21 نفر دیگر در انفجار میدان کودرینسکایا زخمی شدند.",
+      "summary_fa": "مقامات روسی می گویند بیش از 21 نفر دیگر در انفجار میدان کودرینسکایا زخمی شدند.",
+      "summary_en": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
+      "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 01 Aug 2026 18:22:35 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "59ef92c17ba59d23fbf04bca597af3df",
+      "title": "بمب گذاری در رستوران مسکو سه کشته بر جای گذاشت",
+      "title_fa": "بمب گذاری در رستوران مسکو سه کشته بر جای گذاشت",
+      "title_en": "Moscow restaurant bombing kills three",
       "summary": "مقامات روسی می گویند بیش از 21 نفر دیگر در انفجار میدان کودرینسکایا زخمی شدند.",
       "summary_fa": "مقامات روسی می گویند بیش از 21 نفر دیگر در انفجار میدان کودرینسکایا زخمی شدند.",
       "summary_en": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
