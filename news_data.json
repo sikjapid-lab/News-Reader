@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-02 21:40:01",
-  "total_count": 5183,
+  "last_update": "2026-08-02 22:40:30",
+  "total_count": 5188,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -57926,6 +57926,48 @@
       }
     },
     {
+      "id": "6c084179ee4ee09a169dde308ae19f17",
+      "title": "در سئوتا، رهبران راست افراطی از اسپانیا می خواهند که مهاجران را اخراج کند",
+      "title_fa": "در سئوتا، رهبران راست افراطی از اسپانیا می خواهند که مهاجران را اخراج کند",
+      "title_en": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+      "summary": "سیاستمداران و فعالان راست افراطی در حال هجوم به خاک اسپانیا در سواحل شمالی آفریقا هستند که چند روز پس از ورود هزاران مهاجر به این منطقه به تنش‌ها دامن می‌زند.",
+      "summary_fa": "سیاستمداران و فعالان راست افراطی در حال هجوم به خاک اسپانیا در سواحل شمالی آفریقا هستند که چند روز پس از ورود هزاران مهاجر به این منطقه به تنش‌ها دامن می‌زند.",
+      "summary_en": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
+      "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 21:49:47 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-ceuta-promo/02int-spain-ceuta-02-gjhm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "36b1ee6fb227120aa69b38868b5b4cd0",
+      "title": "آتش‌سوزی‌های جنگلی باعث تخلیه گسترده مناطق شمال غربی اقیانوس آرام می‌شود",
+      "title_fa": "آتش‌سوزی‌های جنگلی باعث تخلیه گسترده مناطق شمال غربی اقیانوس آرام می‌شود",
+      "title_en": "Wildfires force mass evacuations across the Pacific Northwest",
+      "summary": "آتش‌سوزی‌های جنگلی که به سرعت در حال حرکت هستند، مردم را در سراسر ایالت واشنگتن، ایالات متحده و بریتیش کلمبیا، کانادا تخلیه می‌کنند.",
+      "summary_fa": "آتش‌سوزی‌های جنگلی که به سرعت در حال حرکت هستند، مردم را در سراسر ایالت واشنگتن، ایالات متحده و بریتیش کلمبیا، کانادا تخلیه می‌کنند.",
+      "summary_en": "Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 21:47:18 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
       "id": "a2f46031cbfc9ae095e9ce87b305628e",
       "title": "هلیکوپترها و آتش نشانان با آتش سوزی سریع در نزدیکی آتن مبارزه می کنند",
       "title_fa": "هلیکوپترها و آتش نشانان با آتش سوزی سریع در نزدیکی آتن مبارزه می کنند",
@@ -57986,6 +58028,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "7f2e5ae15b2c26efc6137c483aa2b735",
+      "title": "داوطلبان محلی به بازسازی صومعه ویران شده مسیحی در لبنان کمک می کنند",
+      "title_fa": "داوطلبان محلی به بازسازی صومعه ویران شده مسیحی در لبنان کمک می کنند",
+      "title_en": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+      "summary": "داوطلبان بین ادیان، صومعه کاتولیک آسیب دیده از جنگ را در زوتر الغربیه لبنان بازسازی کردند.",
+      "summary_fa": "داوطلبان بین ادیان، صومعه کاتولیک آسیب دیده از جنگ را در زوتر الغربیه لبنان بازسازی کردند.",
+      "summary_en": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 21:18:03 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -58065,6 +58128,27 @@
       "date_iso": "2026-08-02",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f802ec970b531204b0a973f80ebfcdec",
+      "title": "در اینجا رتبه بندی قدرت من برای 4 فوق مقیاس کننده بزرگ پس از این فصل درآمد آورده شده است",
+      "title_fa": "در اینجا رتبه بندی قدرت من برای 4 فوق مقیاس کننده بزرگ پس از این فصل درآمد آورده شده است",
+      "title_en": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "summary": "جیم کرامر در ستون یکشنبه‌اش توضیح می‌دهد که چرا آمازون پس از فصل درآمد سه‌ماهه دوم مورد علاقه‌اش است.",
+      "summary_fa": "جیم کرامر در ستون یکشنبه‌اش توضیح می‌دهد که چرا آمازون پس از فصل درآمد سه‌ماهه دوم مورد علاقه‌اش است.",
+      "summary_en": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+      "link": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 20:27:44 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -101303,6 +101387,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a02430ee8964e87dbbe6a27d666e78b",
+      "title": "Heaven Come Crashing اثر Rachika Nayar یک حماسه ابزاری از اشتیاق ناامیدانه است.",
+      "title_fa": "Heaven Come Crashing اثر Rachika Nayar یک حماسه ابزاری از اشتیاق ناامیدانه است.",
+      "title_en": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "summary": "دو دقیقه و 30 ثانیه مانده به آهنگ عنوان آهنگ Rachika Nayar's Heaven Come Crashing. به‌عنوان یکی از طرفداران اولین رکورد نایار، «دست‌ها در برابر غروب»، من را غافلگیر کرد. آن آلبوم اصلاً سازهای کوبه ای ندارد. Heaven Comes Crashing تقریبا به طور کامل […]",
+      "summary_fa": "دو دقیقه و 30 ثانیه مانده به آهنگ عنوان آهنگ Rachika Nayar's Heaven Come Crashing. به‌عنوان یکی از طرفداران اولین رکورد نایار، «دست‌ها در برابر غروب»، من را غافلگیر کرد. آن آلبوم اصلاً سازهای کوبه ای ندارد. Heaven Comes Crashing تقریبا به طور کامل […]",
+      "summary_en": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely […]",
+      "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "source": "The Verge",
+      "published_at": "2026-08-02T17:53:15-04:00",
+      "date_iso": "2026-08-02",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
