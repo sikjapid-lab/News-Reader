@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-02 17:29:11",
-  "total_count": 5151,
+  "last_update": "2026-08-02 18:34:53",
+  "total_count": 5157,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -57884,6 +57884,48 @@
       }
     },
     {
+      "id": "fcf06f6bd32bfd60b23a16ba4e4215c0",
+      "title": "بمب گذاری در ایستگاه پلیس پاکستان حداقل 14 کشته برجای گذاشت",
+      "title_fa": "بمب گذاری در ایستگاه پلیس پاکستان حداقل 14 کشته برجای گذاشت",
+      "title_en": "Pakistan Police Station Bombing Kills at Least 14",
+      "summary": "به گفته مقامات، بمب گذاری انتحاری که دست کم 14 نفر در دره سوات کشته شدند. طالبان پاکستان مسئولیت آن را بر عهده گرفت.",
+      "summary_fa": "به گفته مقامات، بمب گذاری انتحاری که دست کم 14 نفر در دره سوات کشته شدند. طالبان پاکستان مسئولیت آن را بر عهده گرفت.",
+      "summary_en": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility.",
+      "link": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 18:25:12 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-pakistan-bombing-01-lqjz/02int-pakistan-bombing-01-lqjz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fd688a914effb8dbdd7bbdcb46e2f497",
+      "title": "مقاله: برتری ایالات متحده بر چین در زمینه هوش مصنوعی کاملاً از بین رفته است. ما نیاز به تغییر در استراتژی ملی داریم",
+      "title_fa": "مقاله: برتری ایالات متحده بر چین در زمینه هوش مصنوعی کاملاً از بین رفته است. ما نیاز به تغییر در استراتژی ملی داریم",
+      "title_en": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+      "summary": "بحث هوش مصنوعی در سال‌های اخیر بر این موضوع متمرکز شده است که آیا ایالات متحده می‌تواند راهبردی ایجاد کند که بتواند برتری خود را نسبت به چین حفظ کند. پاسخ مثبت به نظر نمی رسد.",
+      "summary_fa": "بحث هوش مصنوعی در سال‌های اخیر بر این موضوع متمرکز شده است که آیا ایالات متحده می‌تواند راهبردی ایجاد کند که بتواند برتری خود را نسبت به چین حفظ کند. پاسخ مثبت به نظر نمی رسد.",
+      "summary_en": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 18:23:03 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "1c318455c5350e5fd96d0adbe864c03c",
       "title": "آخرین بولتن اخبار | 2 آگوست 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 2 آگوست 2026 - عصر",
@@ -57905,6 +57947,69 @@
       }
     },
     {
+      "id": "9915cfc55e60ff75bc7bc7ee157492a9",
+      "title": "جنین در میان ویرانه های حمله مرگبار اسرائیل به غزه پیدا شد",
+      "title_fa": "جنین در میان ویرانه های حمله مرگبار اسرائیل به غزه پیدا شد",
+      "title_en": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+      "summary": "ساکنانی که در حال جستجو در میان آوارهای حمله اسرائیل در غرب شهر غزه بودند، جسد یک نوزاد متولد نشده را پیدا کردند.",
+      "summary_fa": "ساکنانی که در حال جستجو در میان آوارهای حمله اسرائیل در غرب شهر غزه بودند، جسد یک نوزاد متولد نشده را پیدا کردند.",
+      "summary_en": "Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 17:57:01 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "ff4f6887ead6ced39dedf91e3ab129bb",
+      "title": "بوم هوگو اسپریتز صدای Aperol را تکان می دهد",
+      "title_fa": "بوم هوگو اسپریتز صدای Aperol را تکان می دهد",
+      "title_en": "Hugo spritz boom shakes Aperol’s fizz",
+      "summary": "فروش عرق پرتقال Campari در ایالات متحده از لیکور گل سن ژرمن باکاردی پیشی گرفت.",
+      "summary_fa": "فروش عرق پرتقال Campari در ایالات متحده از لیکور گل سن ژرمن باکاردی پیشی گرفت.",
+      "summary_en": "US sales of Campari’s orange spirit outstripped by Bacardi’s St-Germain elderflower liqueur",
+      "link": "https://www.ft.com/content/9b9a6587-fef4-41c7-864f-4e29dff74afc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 17:42:41 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc889e1c1-f137-4756-be50-2f23dbc72135.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c75d54c84f8c40df219ac3a3dcea494f",
+      "title": "دو هلیکوپتر در خارج از آتن در حالی که یونان در حال مبارزه برای کنترل آتش سوزی است با یکدیگر برخورد می کنند",
+      "title_fa": "دو هلیکوپتر در خارج از آتن در حالی که یونان در حال مبارزه برای کنترل آتش سوزی است با یکدیگر برخورد می کنند",
+      "title_en": "Two helicopters collide outside Athens as Greece battles to control wildfires",
+      "summary": "اداره آتش نشانی می گوید که دو بالگرد آتش نشانی در غرب آتن با دو هلیکوپتر آتش نشانی در غرب آتن برخورد کردند و خدمه دو نفره یکی از هواپیما کشته شدند، زیرا تلاش ها برای کنترل آتش سوزی گسترده ای که به سمت حومه پایتخت یونان به سمت حومه شهرک های پایتخت یونان رانده شده است. حاشیه‌های غربی در فیلمی در روز یکشنبه در حال سرنگونی یکی از هلیکوپترها ضبط شده است. به خواندن ادامه دهید...",
+      "summary_fa": "اداره آتش نشانی می گوید که دو بالگرد آتش نشانی در غرب آتن با دو هلیکوپتر آتش نشانی در غرب آتن برخورد کردند و خدمه دو نفره یکی از هواپیما کشته شدند، زیرا تلاش ها برای کنترل آتش سوزی گسترده ای که به سمت حومه پایتخت یونان به سمت حومه شهرک های پایتخت یونان رانده شده است. حاشیه‌های غربی در فیلمی در روز یکشنبه در حال سرنگونی یکی از هلیکوپترها ضبط شده است. به خواندن ادامه دهید...",
+      "summary_en": "Fire department says two-person crew of one aircraft killed in incident during gale-force winds to west of capitalTwo firefighting helicopters have collided west of Athens, killing the two-person crew of one of the aircraft, as efforts to control a massive wildfire barrelling towards the outskirts of the Greek capital intensified.Gale-force winds that have pushed flames towards settlements on Athens’ western fringes were caught on video on Sunday downing one of the helicopters. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
+      "source": "The Guardian",
+      "published_at": "Sun, 02 Aug 2026 17:36:18 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a965371d1ec7803cb346c81a77adb2b56a498d7d/623_0_6300_5040/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=78eec0d342cb51e6a4c55d7ce50df276",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9a12a459b51fdc21f81ac5d38d1cb5eb",
       "title": "به دلیل خشکسالی در آلمان، رودخانه راین به پایین ترین سطح خود رسید",
       "title_fa": "به دلیل خشکسالی در آلمان، رودخانه راین به پایین ترین سطح خود رسید",
@@ -57918,6 +58023,27 @@
       "date_iso": "2026-08-02",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "18e6a35f1398232036b99c79244ef90e",
+      "title": "مرگ مهاجران در سئوتا پس از افزایش مرزها از مراکش به 72 نفر افزایش یافت",
+      "title_fa": "مرگ مهاجران در سئوتا پس از افزایش مرزها از مراکش به 72 نفر افزایش یافت",
+      "title_en": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+      "summary": "پنج جسد دیگر در امتداد خط ساحلی سئوتا پیدا شده است که منطقه محصور پس از هجوم بی سابقه مرزی بهبود یافته است.",
+      "summary_fa": "پنج جسد دیگر در امتداد خط ساحلی سئوتا پیدا شده است که منطقه محصور پس از هجوم بی سابقه مرزی بهبود یافته است.",
+      "summary_en": "Five more bodies have been found along Ceuta's coastline as enclave recovers from unprecedented border influx.",
+      "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 17:15:56 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
