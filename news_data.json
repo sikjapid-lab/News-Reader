@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-02 07:22:09",
-  "total_count": 5009,
+  "last_update": "2026-08-02 09:31:48",
+  "total_count": 5032,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -57884,6 +57884,111 @@
       }
     },
     {
+      "id": "d25998d29170bca88152da938e8d64c5",
+      "title": "آتش سوزی در یکی دیگر از انبارهای Wildberries در روسیه گزارش شد",
+      "title_fa": "آتش سوزی در یکی دیگر از انبارهای Wildberries در روسیه گزارش شد",
+      "title_en": "Fire reported at another Wildberries warehouse in Russia",
+      "summary": "به نظر می رسد فیلم ویدئویی منتشر شده در شبکه های اجتماعی آتش سوزی بزرگی را در انبار نشان می دهد که شعله های آتش ساختمان را فراگرفته و دودهای سیاه بزرگی به آسمان می نشیند.",
+      "summary_fa": "به نظر می رسد فیلم ویدئویی منتشر شده در شبکه های اجتماعی آتش سوزی بزرگی را در انبار نشان می دهد که شعله های آتش ساختمان را فراگرفته و دودهای سیاه بزرگی به آسمان می نشیند.",
+      "summary_en": "Video footage circulating on social media appears to show a large blaze at the warehouse, with flames engulfing the building and huge plumes of black smoke billowing into the sky.",
+      "link": "http://www.euronews.com/my-europe/2026/08/02/fire-reported-at-another-wildberries-warehouse-in-russia",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 10:49:57 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f842e420a266b13e6551deaf4287b8ae",
+      "title": "برچسب تولید شده توسط هوش مصنوعی در اتحادیه اروپا برای شرکت ها اجباری می شود",
+      "title_fa": "برچسب تولید شده توسط هوش مصنوعی در اتحادیه اروپا برای شرکت ها اجباری می شود",
+      "title_en": "AI-generated label becomes mandatory in the EU for companies",
+      "summary": "به عنوان بخشی از دستورالعمل اتحادیه اروپا که در روز یکشنبه اجرا شد، شرکت‌هایی که محتوای تولید شده توسط هوش مصنوعی را ایجاد می‌کنند یا از آن استفاده می‌کنند، باید آن را به وضوح برچسب‌گذاری کنند تا کاربران بدانند.",
+      "summary_fa": "به عنوان بخشی از دستورالعمل اتحادیه اروپا که در روز یکشنبه اجرا شد، شرکت‌هایی که محتوای تولید شده توسط هوش مصنوعی را ایجاد می‌کنند یا از آن استفاده می‌کنند، باید آن را به وضوح برچسب‌گذاری کنند تا کاربران بدانند.",
+      "summary_en": "Companies creating or using AI-generated content have to label it clearly for users to know, as part of an EU guideline implemented on Sunday.",
+      "link": "http://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 10:21:08 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "74ab75ea41c49269965eaa4da38ddf3c",
+      "title": "ترامپ می گوید پس از دستیابی به توافق بر سر \"محیط توافق\" حمله برنامه ریزی شده به ایران را لغو کرده است.",
+      "title_fa": "ترامپ می گوید پس از دستیابی به توافق بر سر \"محیط توافق\" حمله برنامه ریزی شده به ایران را لغو کرده است.",
+      "title_en": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "summary": "رئیس‌جمهور آمریکا گفت که ایران و همسایگان منطقه‌ای‌اش از آمریکا خواسته‌اند تا پس از \"موافقت با پیرامون توافق\" هرگونه حمله را متوقف کند.",
+      "summary_fa": "رئیس‌جمهور آمریکا گفت که ایران و همسایگان منطقه‌ای‌اش از آمریکا خواسته‌اند تا پس از \"موافقت با پیرامون توافق\" هرگونه حمله را متوقف کند.",
+      "summary_en": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off any attacks after 'the perimeters of a deal has been agreed to'.",
+      "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 09:31:00 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e6005f475fb7f27c240ca8990992d0fc",
+      "title": "مطالعه نشان می‌دهد که قطع کردن قند تا دو سالگی با کاهش خطر زوال عقل «دهه‌ها بعد» مرتبط است",
+      "title_fa": "مطالعه نشان می‌دهد که قطع کردن قند تا دو سالگی با کاهش خطر زوال عقل «دهه‌ها بعد» مرتبط است",
+      "title_en": "Cutting sugar up to age two associated with lower dementia risk ‘decades later,’ study finds",
+      "summary": "بر اساس یک مطالعه جدید، مصرف شیرینی‌های کمتر در دوران بارداری و تا دو سالگی با کاهش خطر زوال عقل در آینده، تاخیر در شروع بیماری و داشتن مغز سالم‌تر مرتبط است.",
+      "summary_fa": "بر اساس یک مطالعه جدید، مصرف شیرینی‌های کمتر در دوران بارداری و تا دو سالگی با کاهش خطر زوال عقل در آینده، تاخیر در شروع بیماری و داشتن مغز سالم‌تر مرتبط است.",
+      "summary_en": "Less sweet treats during pregnancy and up to age two associated with lower dementia risk later in life, delayed onset of the disease and a healthier brain, according to a new study.",
+      "link": "http://www.euronews.com/health/2026/08/02/cutting-sugar-up-to-age-two-associated-with-lower-dementia-risk-decades-later-study-finds",
+      "source": "EuroNews",
+      "published_at": "Sun, 02 Aug 2026 09:19:06 +0200",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "78ba0fb3a27dda4c057fc2d32b09606b",
+      "title": "بررسی Framework Laptop 13 Pro: بسیار پریمیوم، اما تحت تاثیر بحران RAM",
+      "title_fa": "بررسی Framework Laptop 13 Pro: بسیار پریمیوم، اما تحت تاثیر بحران RAM",
+      "title_en": "Framework Laptop 13 Pro review: Plenty premium, but pummeled by RAM crisis",
+      "summary": "لپ تاپ 13 پرو براق Framework دارای یک صفحه لمسی لمسی خارق العاده و باتری عالی است، اما قیمت و در دسترس بودن مشکل ساز است.",
+      "summary_fa": "لپ تاپ 13 پرو براق Framework دارای یک صفحه لمسی لمسی خارق العاده و باتری عالی است، اما قیمت و در دسترس بودن مشکل ساز است.",
+      "summary_en": "Framework's sleek Laptop 13 Pro has a fantastic haptic touchpad and great battery, but price and availability is proving to be problematic.",
+      "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+      "source": "ZDNet",
+      "published_at": "Sun, 02 Aug 2026 09:15:52 GMT",
+      "date_iso": "2026-08-02",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "339f25fc1c8d6f94873fa0efa753e901",
       "title": "13 نفر در پی سقوط هواپیمای توریستی خطوط نازکا در پرو کشته شدند",
       "title_fa": "13 نفر در پی سقوط هواپیمای توریستی خطوط نازکا در پرو کشته شدند",
@@ -57905,6 +58010,195 @@
       }
     },
     {
+      "id": "21d6754f6e97d8de0ba23b7800876f81",
+      "title": "ترامپ حملات ایران را به شرط انجام «سریع» لغو کرد",
+      "title_fa": "ترامپ حملات ایران را به شرط انجام «سریع» لغو کرد",
+      "title_en": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "رئیس جمهور ایالات متحده مدعی است که ایران و سایر کشورهای خاورمیانه از واشنگتن خواسته اند تا از هرگونه حمله خودداری کند زیرا \"محیط\" یک توافق توافق شده است.",
+      "summary_fa": "رئیس جمهور ایالات متحده مدعی است که ایران و سایر کشورهای خاورمیانه از واشنگتن خواسته اند تا از هرگونه حمله خودداری کند زیرا \"محیط\" یک توافق توافق شده است.",
+      "summary_en": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 02 Aug 2026 09:10:51 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "ab7d98f281d4968f59a166c435113595",
+      "title": "چگونه داوود اوغلو به شکل گیری ترکیه اردوغان کمک کرد اما نتوانست آن را به چالش بکشد",
+      "title_fa": "چگونه داوود اوغلو به شکل گیری ترکیه اردوغان کمک کرد اما نتوانست آن را به چالش بکشد",
+      "title_en": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
+      "summary": "احمد داود اوغلو که زمانی نخست وزیر ترکیه بود، از سیاست حزبی عقب نشینی کرد.",
+      "summary_fa": "احمد داود اوغلو که زمانی نخست وزیر ترکیه بود، از سیاست حزبی عقب نشینی کرد.",
+      "summary_en": "Once Turkiye's prime minister, Ahmet Davutoglu has stepped back from party politics.",
+      "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 09:07:20 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc2571268c5bb48a6e5d5f91ddbf3838",
+      "title": "La Guaira پس از زمین لرزه های مرگبار ونزوئلا قابل تشخیص نیست",
+      "title_fa": "La Guaira پس از زمین لرزه های مرگبار ونزوئلا قابل تشخیص نیست",
+      "title_en": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "summary": "بیش از یک ماه پس از زمین لرزه ها، منطقه ساحلی لا گوایرا - که زمانی دروازه اصلی ونزوئلا بود - کاملاً غیرقابل تشخیص است.",
+      "summary_fa": "بیش از یک ماه پس از زمین لرزه ها، منطقه ساحلی لا گوایرا - که زمانی دروازه اصلی ونزوئلا بود - کاملاً غیرقابل تشخیص است.",
+      "summary_en": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.",
+      "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 09:00:58 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7f43ae9796b796e2a054ecdef97ba660",
+      "title": "باسیست Cowboys Fringants به عنوان دانشمند ارشد کبک معرفی شد",
+      "title_fa": "باسیست Cowboys Fringants به عنوان دانشمند ارشد کبک معرفی شد",
+      "title_en": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+      "summary": "ژروم دوپراس عضو یکی از محبوب‌ترین گروه‌های موسیقی راک فولکلور کبک است. اکنون او به عنوان دانشمند ارشد استان به شکل گیری سرنوشت زیست محیطی آن کمک خواهد کرد.",
+      "summary_fa": "ژروم دوپراس عضو یکی از محبوب‌ترین گروه‌های موسیقی راک فولکلور کبک است. اکنون او به عنوان دانشمند ارشد استان به شکل گیری سرنوشت زیست محیطی آن کمک خواهد کرد.",
+      "summary_en": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.",
+      "link": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 09:00:16 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/29/world/00int-canada-quebec-profile-promo/00int-canada-quebec-profile-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "44ffccbe4a1fbc8d5388555197e353d9",
+      "title": "ایالات متحده برخی واکسن ها و کمک های بهداشتی را به یونیسف، Gavi و برنامه جهانی غذا بازگرداند",
+      "title_fa": "ایالات متحده برخی واکسن ها و کمک های بهداشتی را به یونیسف، Gavi و برنامه جهانی غذا بازگرداند",
+      "title_en": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+      "summary": "این مبلغ هنوز بسیار کمتر از مقداری است که ایالات متحده قبلا برای کمک های بشردوستانه و بهداشتی هزینه می کرد، اما جریان پول برای تلاش های کلیدی برای مبارزه با سوء تغذیه و بیماری را از سر می گیرد.",
+      "summary_fa": "این مبلغ هنوز بسیار کمتر از مقداری است که ایالات متحده قبلا برای کمک های بشردوستانه و بهداشتی هزینه می کرد، اما جریان پول برای تلاش های کلیدی برای مبارزه با سوء تغذیه و بیماری را از سر می گیرد.",
+      "summary_en": "The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.",
+      "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 09:00:06 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/00dc-state-health-funding-gfkl/00dc-state-health-funding-gfkl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "40ab8a2748c6549c5421f414777f7660",
+      "title": "ستاره YouTube AboFlah زندگی خود را پخش کرد. او می خواهد فرزندانش آفلاین زندگی کنند",
+      "title_fa": "ستاره YouTube AboFlah زندگی خود را پخش کرد. او می خواهد فرزندانش آفلاین زندگی کنند",
+      "title_en": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
+      "summary": "AboFlah در مورد اهداف جدید خود، پخش جریانی برای امور خیریه، و زمان خروج از سیستم صحبت می کند.",
+      "summary_fa": "AboFlah در مورد اهداف جدید خود، پخش جریانی برای امور خیریه، و زمان خروج از سیستم صحبت می کند.",
+      "summary_en": "AboFlah talks about his new goals, streaming for charity, and when it’s time to log off.",
+      "link": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
+      "source": "Wired",
+      "published_at": "Sun, 02 Aug 2026 09:00:00 +0000",
+      "date_iso": "2026-08-02",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3078a921d8cd7eef1c8c4e55ff652891",
+      "title": "WestJet کانادا سفرهای خود را به دلیل اعتصاب خدمه هواپیما لغو کرد",
+      "title_fa": "WestJet کانادا سفرهای خود را به دلیل اعتصاب خدمه هواپیما لغو کرد",
+      "title_en": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+      "summary": "مذاکرات کارگری بین شرکت هواپیمایی و اتحادیه ای که به نمایندگی از 4400 خدمه پرواز، که خواهان افزایش دستمزد و غرامت برای کار بدون دستمزد بودند، شکست خورد.",
+      "summary_fa": "مذاکرات کارگری بین شرکت هواپیمایی و اتحادیه ای که به نمایندگی از 4400 خدمه پرواز، که خواهان افزایش دستمزد و غرامت برای کار بدون دستمزد بودند، شکست خورد.",
+      "summary_en": "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work.",
+      "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
+      "source": "NY Times",
+      "published_at": "Sun, 02 Aug 2026 08:47:25 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-canada-westjet-strike-bghv/00int-canada-westjet-strike-bghv-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cff7200d7a019fd12d2d5ea6393d4a1b",
+      "title": "ترامپ می گوید حملات ایران را پس از درخواست متحدان خاورمیانه لغو کرده است",
+      "title_fa": "ترامپ می گوید حملات ایران را پس از درخواست متحدان خاورمیانه لغو کرده است",
+      "title_en": "Trump says he cancelled Iran strikes after Middle East allies’ request",
+      "summary": "رئیس جمهور آمریکا مدعی شد که \"محیط توافق\" برای پایان دادن به درگیری چند روز پس از تهدید او به حمله توافق شده است",
+      "summary_fa": "رئیس جمهور آمریکا مدعی شد که \"محیط توافق\" برای پایان دادن به درگیری چند روز پس از تهدید او به حمله توافق شده است",
+      "summary_en": "US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack",
+      "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 08:45:59 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7ff81905-fe53-4f2b-8d4a-14076a166c2e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "3ab4e41ccb72b0fb6537f7761ddf2671",
+      "title": "ترامپ حمله به ایران را لغو کرد و گفت توافق نزدیک است",
+      "title_fa": "ترامپ حمله به ایران را لغو کرد و گفت توافق نزدیک است",
+      "title_en": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "summary": "رئیس جمهور آمریکا ترامپ اعلام کرد که در حال لغو حمله برنامه ریزی شده به ایران با «محیط توافق» است.",
+      "summary_fa": "رئیس جمهور آمریکا ترامپ اعلام کرد که در حال لغو حمله برنامه ریزی شده به ایران با «محیط توافق» است.",
+      "summary_en": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 08:43:15 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "f80536e6943abf06a105db63aa792c80",
       "title": "ایتالیا برای ورود از اسپانیا چک های مرزی وارد می کند: چه چیزی تغییر می کند",
       "title_fa": "ایتالیا برای ورود از اسپانیا چک های مرزی وارد می کند: چه چیزی تغییر می کند",
@@ -57918,6 +58212,69 @@
       "date_iso": "2026-08-02",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a5adb63b17eafccc27e3bf091b33b26b",
+      "title": "پترو از حمایت جهانی برای توقف تهاجم احتمالی آمریکا به کوبا می خواهد",
+      "title_fa": "پترو از حمایت جهانی برای توقف تهاجم احتمالی آمریکا به کوبا می خواهد",
+      "title_en": "Petro urges global support to stop possible US invasion of Cuba",
+      "summary": "پترو از حمایت جهانی برای توقف تهاجم احتمالی آمریکا به کوبا می خواهد",
+      "summary_fa": "پترو از حمایت جهانی برای توقف تهاجم احتمالی آمریکا به کوبا می خواهد",
+      "summary_en": "Petro urges global support to stop possible US invasion of Cuba",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 08:23:32 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6e4b20381dc2d613d386670826958604",
+      "title": "لیونل مسی پس از تمدید تعطیلات پس از جام جهانی به اینترمیامی بازگشت",
+      "title_fa": "لیونل مسی پس از تمدید تعطیلات پس از جام جهانی به اینترمیامی بازگشت",
+      "title_en": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+      "summary": "ستاره آرژانتینی در حالی به قهرمان MLS بازگشت که اینتر میامی با نتیجه 2-2 مقابل کلمبوس کریو بازی کرد.",
+      "summary_fa": "ستاره آرژانتینی در حالی به قهرمان MLS بازگشت که اینتر میامی با نتیجه 2-2 مقابل کلمبوس کریو بازی کرد.",
+      "summary_en": "Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 08:20:43 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "02f8daaf80dc01e8c5ede0ca849168ad",
+      "title": "Tarik Skubal توسط LA Dodgers در مهلت معامله MLB خریداری شد",
+      "title_fa": "Tarik Skubal توسط LA Dodgers در مهلت معامله MLB خریداری شد",
+      "title_en": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "summary": "قهرمانان سری جهانی در دو سال گذشته اسکوبال را به فهرست پر ستاره‌ای اضافه کردند که در حال حاضر شوهی اوهتانی را شامل می‌شود.",
+      "summary_fa": "قهرمانان سری جهانی در دو سال گذشته اسکوبال را به فهرست پر ستاره‌ای اضافه کردند که در حال حاضر شوهی اوهتانی را شامل می‌شود.",
+      "summary_en": "World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 08:12:54 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -57944,6 +58301,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "f90d438cba36e2363d6608f769cc0e02",
+      "title": "آرتتا از آرسنال با گلزنی تزولیس مقابل خیرونا انتظار خریدهای بیشتری را دارد",
+      "title_fa": "آرتتا از آرسنال با گلزنی تزولیس مقابل خیرونا انتظار خریدهای بیشتری را دارد",
+      "title_en": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
+      "summary": "کریستوس تزولیس که تازه به دست آمده برای قهرمان انگلیس گلزنی می کند که به برونو گیمارش و وینیسیوس جونیور لینک شده است.",
+      "summary_fa": "کریستوس تزولیس که تازه به دست آمده برای قهرمان انگلیس گلزنی می کند که به برونو گیمارش و وینیسیوس جونیور لینک شده است.",
+      "summary_en": "Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 02 Aug 2026 08:08:19 +0000",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -58157,6 +58535,27 @@
       }
     },
     {
+      "id": "27dd374b936d15591fabc228f296b4c2",
+      "title": "کالاس، بتهوون، زنبور خواران یا لک لک: رقابت به دنبال طراحی مجدد اسکناس های یورو است.",
+      "title_fa": "کالاس، بتهوون، زنبور خواران یا لک لک: رقابت به دنبال طراحی مجدد اسکناس های یورو است.",
+      "title_en": "Callas, Beethoven, bee-eaters or storks: competition seeks to redesign euro notes",
+      "summary": "اتحادیه اروپا از طراحی مجدد ارز به عنوان فرصتی برای کمتر خنثی بودن و تلاش برای ایجاد هویت کاملاً متعادل استفاده می کند. یا توسط یک لک لک مهاجر و یک زنبور خوار که از دشت های بدون مرز عبور می کند و از آزادی حرکت در کشورهای اروپایی برخوردار است؟ تلاش برای حل این مشکل تعداد شگفت انگیزی از مردم را در سراسر این قاره درگیر کرده است، پس از آن که بیش از 6 میلیون نفر در یک نظرسنجی تنها یک هفته پس از راه اندازی آن رای دادند تا مشخص شود که آیا این تازه طراحی مجدد اسکناس ها و اسکناس های آبی یورو باید یا اسکناس های فرهنگی پرنده را به تصویر بکشد. به خواندن ادامه دهید...",
+      "summary_fa": "اتحادیه اروپا از طراحی مجدد ارز به عنوان فرصتی برای کمتر خنثی بودن و تلاش برای ایجاد هویت کاملاً متعادل استفاده می کند. یا توسط یک لک لک مهاجر و یک زنبور خوار که از دشت های بدون مرز عبور می کند و از آزادی حرکت در کشورهای اروپایی برخوردار است؟ تلاش برای حل این مشکل تعداد شگفت انگیزی از مردم را در سراسر این قاره درگیر کرده است، پس از آن که بیش از 6 میلیون نفر در یک نظرسنجی تنها یک هفته پس از راه اندازی آن رای دادند تا مشخص شود که آیا این تازه طراحی مجدد اسکناس ها و اسکناس های آبی یورو باید یا اسکناس های فرهنگی پرنده را به تصویر بکشد. به خواندن ادامه دهید...",
+      "summary_en": "The EU is using a currency redesign as an opportunity to be less neutral and try some finely balanced identity-buildingIs Europe best represented by the bold intellect of Marie Curie, the sprawling imagination of Miguel de Cervantes and the intense musical genius of Ludwig van Beethoven? Or by a migrating stork and a bee-eater, swooping across borderless plains and enjoying freedom of movement across European countries?The quest to settle this issue has engaged a surprising number of people across the continent, after more than 6 million people voted in a survey within just a week of its launch to determine whether the newly redesigned euro bank notes should depict either cultural figures or birds and waterways. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/02/european-central-bank-notes-new-design",
+      "source": "The Guardian",
+      "published_at": "Sun, 02 Aug 2026 06:00:14 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/783bff783bd5f9cc087fe1db66bcd93d2b1e6efe/0_0_3937_3150/master/3937.jpg?width=140&quality=85&auto=format&fit=max&s=b8c50c7e128f3005f67d5eb8735bff39",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "94694a4826bc4f6748400fa21d6b25a9",
       "title": "ایران سرعت جنگ با ترامپ را تعیین می کند",
       "title_fa": "ایران سرعت جنگ با ترامپ را تعیین می کند",
@@ -58217,6 +58616,27 @@
         "lat": 31.5017,
         "lng": 34.4668,
         "name": "غزه"
+      }
+    },
+    {
+      "id": "4dcfc09bad571694b49affc8e5498694",
+      "title": "یک نشت امتحان در هند بحران شغلی Gen Z را آشکار کرد که بسیار عمیق تر است",
+      "title_fa": "یک نشت امتحان در هند بحران شغلی Gen Z را آشکار کرد که بسیار عمیق تر است",
+      "title_en": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+      "summary": "در حالی که افشای اوراق کلیدی امتحان محرک اعتراضات اخیر دانشجویان در هند بود، افزایش بیکاری سوخت واقعی ژنرال Z در این کشور است.",
+      "summary_fa": "در حالی که افشای اوراق کلیدی امتحان محرک اعتراضات اخیر دانشجویان در هند بود، افزایش بیکاری سوخت واقعی ژنرال Z در این کشور است.",
+      "summary_en": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
+      "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+      "source": "CNBC",
+      "published_at": "Sun, 02 Aug 2026 05:18:21 GMT",
+      "date_iso": "2026-08-02",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -63764,6 +64184,27 @@
       }
     },
     {
+      "id": "ef1d78bc4432f4c99495fd9330f4b4b8",
+      "title": "یک 24 ساعت کبودی - بعد از آن فیفا و اینفانتینو تحت فشار چه خواهد شد؟",
+      "title_fa": "یک 24 ساعت کبودی - بعد از آن فیفا و اینفانتینو تحت فشار چه خواهد شد؟",
+      "title_en": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "summary": "فشار بر جیانی اینفانتینو در حال افزایش است. آیا او می تواند به عنوان رئیس فیفا پس از انفجار طرح سرمایه گذاری بحث برانگیز جام جهانی زنده بماند؟",
+      "summary_fa": "فشار بر جیانی اینفانتینو در حال افزایش است. آیا او می تواند به عنوان رئیس فیفا پس از انفجار طرح سرمایه گذاری بحث برانگیز جام جهانی زنده بماند؟",
+      "summary_en": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f797a404e80c9e6895b7e9bd4ec36d03",
       "title": "پرتره های موی زنجبیلی \"نخ طلایی\" غیرمنتظره ای را نشان می دهد که آمریکایی ها را به هم متصل می کند",
       "title_fa": "پرتره های موی زنجبیلی \"نخ طلایی\" غیرمنتظره ای را نشان می دهد که آمریکایی ها را به هم متصل می کند",
@@ -64447,6 +64888,27 @@
       "source": "Washington Post",
       "published_at": "Sat, 01 Aug 2026 17:56:57 +0000",
       "date_iso": "2026-08-01",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "563b7d80341d9598b733e56b0b49e1fc",
+      "title": "اسپانیا مهاجران را به مراکش برمی‌گرداند زیرا سوء ظن در مورد نقض گسترده مرزها وجود دارد",
+      "title_fa": "اسپانیا مهاجران را به مراکش برمی‌گرداند زیرا سوء ظن در مورد نقض گسترده مرزها وجود دارد",
+      "title_en": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
+      "summary": "بحران در سئوتا، در سواحل آفریقا، فورا به سنگ محک در بحث جهانی مهاجران تبدیل شد، زیرا سوء ظن ها مبنی بر سازماندهی این حادثه ویروسی به وجود آمد.",
+      "summary_fa": "بحران در سئوتا، در سواحل آفریقا، فورا به سنگ محک در بحث جهانی مهاجران تبدیل شد، زیرا سوء ظن ها مبنی بر سازماندهی این حادثه ویروسی به وجود آمد.",
+      "summary_en": "The crisis in Ceuta, on the African coast, instantly became a touchstone in the global migrant debate as suspicions swirled that the viral incident was orchestrated.",
+      "link": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
+      "source": "Washington Post",
+      "published_at": "Sat, 01 Aug 2026 17:56:57 +0000",
+      "date_iso": "2026-08-02",
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -65693,6 +66155,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7bbb28c9560f372a9e118fe941ac55b",
+      "title": "تماشا کنید: ده ها هزار مهاجر از مراکش وارد سئوتای اسپانیا می شوند",
+      "title_fa": "تماشا کنید: ده ها هزار مهاجر از مراکش وارد سئوتای اسپانیا می شوند",
+      "title_en": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+      "summary": "به گفته مقامات، اکثر مهاجرانی که از مراکش به سرزمین آفریقای شمالی سئوتا رسیده اند، بازگشته اند.",
+      "summary_fa": "به گفته مقامات، اکثر مهاجرانی که از مراکش به سرزمین آفریقای شمالی سئوتا رسیده اند، بازگشته اند.",
+      "summary_en": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
+      "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 01 Aug 2026 12:04:46 GMT",
+      "date_iso": "2026-08-02",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9691/live/d2dfeec0-8da4-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
