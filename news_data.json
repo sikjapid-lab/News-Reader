@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-03 04:53:54",
-  "total_count": 5231,
+  "last_update": "2026-08-03 08:28:12",
+  "total_count": 5272,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -58241,6 +58241,27 @@
       }
     },
     {
+      "id": "ecd3b3f2e54ff1aec45c2e4c29b1a30f",
+      "title": "حزب کارگر در نظرسنجی ها برای اولین بار در بیش از یک سال از اصلاحات پیشی گرفت",
+      "title_fa": "حزب کارگر در نظرسنجی ها برای اولین بار در بیش از یک سال از اصلاحات پیشی گرفت",
+      "title_en": "Labour overtakes Reform in polls for first time in over a year",
+      "summary": "حزب حدود 25 درصد آرا را به خود اختصاص داده است زیرا اندی برنهام وعده داده است \"امید را بازگرداند\"",
+      "summary_fa": "حزب حدود 25 درصد آرا را به خود اختصاص داده است زیرا اندی برنهام وعده داده است \"امید را بازگرداند\"",
+      "summary_en": "Party commands about 25% of the vote as Andy Burnham promises to ‘bring back hope’",
+      "link": "https://www.ft.com/content/43636916-1879-4315-9ed3-9437d7526179?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 21:20:36 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F283b8869-fc00-476e-a95d-3eea0f95aa34.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7f2e5ae15b2c26efc6137c483aa2b735",
       "title": "داوطلبان محلی به بازسازی صومعه ویران شده مسیحی در لبنان کمک می کنند",
       "title_fa": "داوطلبان محلی به بازسازی صومعه ویران شده مسیحی در لبنان کمک می کنند",
@@ -82326,6 +82347,636 @@
       }
     },
     {
+      "id": "e9d8b66a1e324b4127618d547b05b21e",
+      "title": "آتش سوزی های جنگلی صدها خانه را در نزدیکی اسپوکین، واشنگتن ویران کرد",
+      "title_fa": "آتش سوزی های جنگلی صدها خانه را در نزدیکی اسپوکین، واشنگتن ویران کرد",
+      "title_en": "Wildfires destroy hundreds of homes near Spokane, Washington",
+      "summary": "آتش‌سوزی‌های جنگلی در شرق واشنگتن 5000 خانه را تخلیه کردند، حدود 600 ساختمان را ویران کردند و همچنان منابع آتش نشانی را تحت فشار قرار دادند.",
+      "summary_fa": "آتش‌سوزی‌های جنگلی در شرق واشنگتن 5000 خانه را تخلیه کردند، حدود 600 ساختمان را ویران کردند و همچنان منابع آتش نشانی را تحت فشار قرار دادند.",
+      "summary_en": "Wildfires in eastern Washington forced 5,000 home evacuations, destroyed about 600 buildings and continued to strain firefighting resources.",
+      "link": "http://www.euronews.com/video/2026/08/03/wildfires-destroy-hundreds-of-homes-near-spokane-washington",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:44:11 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "ca8d12491a19f4550fd19b5fe409a9a2",
+      "title": "شرکت انرژی دولتی کوبا با ادامه تحریم‌های آمریکا از خاموشی جدید در سراسر کشور خبر داد",
+      "title_fa": "شرکت انرژی دولتی کوبا با ادامه تحریم‌های آمریکا از خاموشی جدید در سراسر کشور خبر داد",
+      "title_en": "Cuba state energy firm reports new nationwide blackout as US embargo continues",
+      "summary": "قطعی برق زندگی عادی را تقریبا غیرممکن کرده است، با هر قطعی همچنین به این معنی است که منابع آب از بین می روند و فن های سقفی به آرامی متوقف می شوند.",
+      "summary_fa": "قطعی برق زندگی عادی را تقریبا غیرممکن کرده است، با هر قطعی همچنین به این معنی است که منابع آب از بین می روند و فن های سقفی به آرامی متوقف می شوند.",
+      "summary_en": "The power cuts have made normal life almost impossible, with each outage also meaning that water supplies trickle away and ceiling fans slow to a halt.",
+      "link": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:38:53 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc29966b35868e692f674df0d10236c9",
+      "title": "اتحادیه اروپا برای مقابله با آتش‌سوزی‌های جنگلی چه چیزی را باید در اولویت قرار دهد؟ در نظرسنجی ما شرکت کنید",
+      "title_fa": "اتحادیه اروپا برای مقابله با آتش‌سوزی‌های جنگلی چه چیزی را باید در اولویت قرار دهد؟ در نظرسنجی ما شرکت کنید",
+      "title_en": "What should the EU prioritise to tackle wildfires? Take our poll",
+      "summary": "اتحادیه اروپا در حال استقرار بزرگترین نیروی آتش نشانی خود در جنوب اروپا برای کمک به کشورها برای مقابله با آتش سوزی های جنگلی است. اما آیا کافی است و بروکسل چه چیزی را باید در اولویت قرار دهد؟",
+      "summary_fa": "اتحادیه اروپا در حال استقرار بزرگترین نیروی آتش نشانی خود در جنوب اروپا برای کمک به کشورها برای مقابله با آتش سوزی های جنگلی است. اما آیا کافی است و بروکسل چه چیزی را باید در اولویت قرار دهد؟",
+      "summary_en": "The EU is deploying its largest-ever firefighting force in southern Europe to help countries battle wildfires. But is it enough, and what should Brussels prioritise?",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/what-tools-should-the-eu-prioritise-to-fight-wildfires-take-our-poll",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:30:27 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a9ecbd0b20a76b202709035c5bcff7a3",
+      "title": "«مرد عنکبوتی: روز کاملاً جدید» دومین امتیاز بزرگ افتتاحیه آخر هفته جهانی را کسب کرد - نزدیک به یک میلیارد دلار در سراسر جهان",
+      "title_fa": "«مرد عنکبوتی: روز کاملاً جدید» دومین امتیاز بزرگ افتتاحیه آخر هفته جهانی را کسب کرد - نزدیک به یک میلیارد دلار در سراسر جهان",
+      "title_en": "'Spider-Man: Brand New Day' scores second-biggest ever global opening weekend – nears $1bn worldwide",
+      "summary": "فیلم «مرد عنکبوتی: روز کاملاً جدید» که به تازگی اکران شده است، در اولین آخر هفته اکران خود در سینماها تاریخ گیشه را ثبت کرده است و به نظر می رسد در چند روز آینده از مرز یک میلیارد دلار عبور کند. این فیلم در مسیر تبدیل شدن به پرفروش‌ترین فیلم سال 2026 است و تنها در چهار روز از باکس آفیس «ادیسه» پیشی می‌گیرد.",
+      "summary_fa": "فیلم «مرد عنکبوتی: روز کاملاً جدید» که به تازگی اکران شده است، در اولین آخر هفته اکران خود در سینماها تاریخ گیشه را ثبت کرده است و به نظر می رسد در چند روز آینده از مرز یک میلیارد دلار عبور کند. این فیلم در مسیر تبدیل شدن به پرفروش‌ترین فیلم سال 2026 است و تنها در چهار روز از باکس آفیس «ادیسه» پیشی می‌گیرد.",
+      "summary_en": "The recently released 'Spider-Man: Brand New Day' has made box office history in its first weekend in cinemas and looks set to pass the $1bn mark in the next couple of days. It's on track to becoming the highest grossing movie of 2026, overtaking 'The Odyssey''s box office tally in just four days.",
+      "link": "http://www.euronews.com/culture/2026/08/03/spider-man-brand-new-day-scores-second-biggest-ever-global-opening-weekend-nears-1bn-world",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:29:00 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c12030fa8d9185cbf540440e4d3a4df",
+      "title": "Aemet در شش منطقه هشدار و هشدار قرمز در گرن کاناریا را برای گرمای شدید صادر می کند",
+      "title_fa": "Aemet در شش منطقه هشدار و هشدار قرمز در گرن کاناریا را برای گرمای شدید صادر می کند",
+      "title_en": "Aemet issues alerts in six regions and red warning in Gran Canaria for extreme heat",
+      "summary": "آژانس هواشناسی Aemet اسپانیا نیز نسبت به طوفان و باران شدید در کاتالونیا و آراگون هشدار داده و هشدار گرما را برای چندین منطقه در محل نگه می دارد.",
+      "summary_fa": "آژانس هواشناسی Aemet اسپانیا نیز نسبت به طوفان و باران شدید در کاتالونیا و آراگون هشدار داده و هشدار گرما را برای چندین منطقه در محل نگه می دارد.",
+      "summary_en": "Spain's meteorological agency Aemet also warns of storms and heavy rain in Catalonia and Aragon, and keeps heat alerts in place for several regions.",
+      "link": "http://www.euronews.com/2026/08/03/aemet-issues-alerts-in-six-regions-and-red-warning-in-gran-canaria-for-extreme-heat",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:22:58 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a486ba9bdec6115f47d446bcf84ac085",
+      "title": "وادوز می گوید که حمله سایبری به ثبت داده های ضد پولشویی لیختن اشتاین ضربه زده است.",
+      "title_fa": "وادوز می گوید که حمله سایبری به ثبت داده های ضد پولشویی لیختن اشتاین ضربه زده است.",
+      "title_en": "Cyberattack hits Liechtenstein's anti-money laundering data register, Vaduz says",
+      "summary": "در بیانیه‌ای دولت آمده است که تیمی که برای بررسی این هک منصوب شده‌اند قبلاً مشخص کرده‌اند که هکرها موفق به سرقت داده‌های «حدود 31000 شخص حقوقی» شده‌اند.",
+      "summary_fa": "در بیانیه‌ای دولت آمده است که تیمی که برای بررسی این هک منصوب شده‌اند قبلاً مشخص کرده‌اند که هکرها موفق به سرقت داده‌های «حدود 31000 شخص حقوقی» شده‌اند.",
+      "summary_en": "A team appointed to investigate the hack has already established that the hackers had managed to steal data \"from approximately 31,000 legal entities,\" a government statement said.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/cyberattack-hits-liechtensteins-anti-money-laundering-data-register-vaduz-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:16:21 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2e1aec2ef0bc73feff4bf840ae144c50",
+      "title": "برای مطالعه خیلی داغ است: آیا موج گرما بر تعطیلات تابستانی مدارس در اروپا تأثیر می گذارد؟",
+      "title_fa": "برای مطالعه خیلی داغ است: آیا موج گرما بر تعطیلات تابستانی مدارس در اروپا تأثیر می گذارد؟",
+      "title_en": "Too hot to study: Will heatwaves impact school summer holidays in Europe?",
+      "summary": "تعطیلات تابستانی مدارس می تواند تا 14 هفته در اتحادیه اروپا ادامه یابد. با این حال، تکرار موج گرما، کشورهای عضو را تحت فشار قرار داده است تا راه‌هایی را برای مدارس در نظر بگیرند تا تقویم خود را در مواجهه با گرمای شدید تطبیق دهند.",
+      "summary_fa": "تعطیلات تابستانی مدارس می تواند تا 14 هفته در اتحادیه اروپا ادامه یابد. با این حال، تکرار موج گرما، کشورهای عضو را تحت فشار قرار داده است تا راه‌هایی را برای مدارس در نظر بگیرند تا تقویم خود را در مواجهه با گرمای شدید تطبیق دهند.",
+      "summary_en": "School summer holidays can last up to 14 weeks in the EU. However, the recurrence of heatwaves has pressed member states to consider ways for schools to adapt their calendars in the face of extreme heat.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/too-hot-to-study-will-heatwaves-impact-school-summer-holidays-in-europe",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 09:00:23 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "71c921602a5645615cf0c3ce8367dbd1",
+      "title": "آتش نشانان هوایی برای مقابله با آتش سوزی بزرگ در یونان پس از کشته شدن دو نفر در برخورد هلیکوپتر برخاستند.",
+      "title_fa": "آتش نشانان هوایی برای مقابله با آتش سوزی بزرگ در یونان پس از کشته شدن دو نفر در برخورد هلیکوپتر برخاستند.",
+      "title_en": "Aerial firefighters take off to tackle major wildfire in Greece after two killed in helicopter collision",
+      "summary": "مقامات هشدار دادند که منطقه وسیع‌تر آتن آتیکا به دلیل پیش‌بینی افزایش دما در خطر آتش‌سوزی‌های جنگلی قرار دارد.",
+      "summary_fa": "مقامات هشدار دادند که منطقه وسیع‌تر آتن آتیکا به دلیل پیش‌بینی افزایش دما در خطر آتش‌سوزی‌های جنگلی قرار دارد.",
+      "summary_en": "Authorities warned the broader Athens region of Attica remained at a high risk for wildfires due to a forecast increase in temperatures.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/aerial-firefighters-take-off-to-tackle-major-wildfire-in-greece-after-two-killed-in-helico",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:59:30 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c89c3f0d7cd36b70caffe78cd0e992e1",
+      "title": "اسپانیا اولین خورشید گرفتگی کامل را پس از بیش از یک قرن می بیند",
+      "title_fa": "اسپانیا اولین خورشید گرفتگی کامل را پس از بیش از یک قرن می بیند",
+      "title_en": "Spain to see first total solar eclipse in more than a century",
+      "summary": "سرزمین اصلی اسپانیا اولین خورشید گرفتگی کامل خود را در بیش از 100 سال گذشته تجربه می کند و مسیر کلیت نیز در 12 اوت به ایسلند و گرینلند می رسد. نمایش سال آینده حتی طولانی تر خواهد بود.",
+      "summary_fa": "سرزمین اصلی اسپانیا اولین خورشید گرفتگی کامل خود را در بیش از 100 سال گذشته تجربه می کند و مسیر کلیت نیز در 12 اوت به ایسلند و گرینلند می رسد. نمایش سال آینده حتی طولانی تر خواهد بود.",
+      "summary_en": "Mainland Spain is about to get its first total solar eclipse in more than 100 years, with the path of totality also touching Iceland and Greenland on 12 August. Next year's show will last even longer.",
+      "link": "http://www.euronews.com/next/2026/08/03/spain-to-see-first-total-solar-eclipse-in-more-than-a-century",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:47:50 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e7d8300d4c2fec4ad7ce2e90b3f36a45",
+      "title": "\"آریانا گرانده\" به دلیل بررسی \"بی پایان\" عمومی \"از دید\" عقب نشینی می کند",
+      "title_fa": "\"آریانا گرانده\" به دلیل بررسی \"بی پایان\" عمومی \"از دید\" عقب نشینی می کند",
+      "title_en": "Ariana Grande to take 'step back from visibility' due to 'endless' public scrutiny",
+      "summary": "آریانا گرانده اعلام کرده است که پس از پایان تور فعلی خود از فعالیت های عمومی کناره گیری می کند و به نگرانی هایش در مورد \"بررسی های عمومی بی پایان و مداوم\" اشاره کرده است. پس از انتشار آلبوم جدیدش، نظرات عمومی جدیدی پیرامون ظاهر فیزیکی گرانده منتشر شد.",
+      "summary_fa": "آریانا گرانده اعلام کرده است که پس از پایان تور فعلی خود از فعالیت های عمومی کناره گیری می کند و به نگرانی هایش در مورد \"بررسی های عمومی بی پایان و مداوم\" اشاره کرده است. پس از انتشار آلبوم جدیدش، نظرات عمومی جدیدی پیرامون ظاهر فیزیکی گرانده منتشر شد.",
+      "summary_en": "Ariana Grande has announced she will step back from public-facing engagements after finishing her current tour, citing concerns about \"endless, ongoing public scrutiny\". There has been renewed public commentary surrounding Grande’s physical appearance following the release of her new album.",
+      "link": "http://www.euronews.com/culture/2026/08/03/ariana-grande-to-take-step-back-from-visibility-due-to-endless-public-scrutiny",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:28:54 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "31ed81a62568b591bd75eb234f0a46e8",
+      "title": "ساخته شده تا دوام بیاورد، در چند ماه از بین رفت: چگونه پیتر ماگیار رژیم ویکتور اوربان را برچید",
+      "title_fa": "ساخته شده تا دوام بیاورد، در چند ماه از بین رفت: چگونه پیتر ماگیار رژیم ویکتور اوربان را برچید",
+      "title_en": "Built to last, gone in months: How Péter Magyar dismantled Viktor Orbán's regime",
+      "summary": "از زمانی که حزب تیسا به رهبری پیتر ماگیار در آوریل پیروز شد، رئیس‌جمهور مجارستان، دادستان ارشد و روسای رسانه‌های دولتی همگی برکنار شدند، زیرا دولت جدید به سرعت در حال حرکت برای رهایی از 16 سال حکومت ویکتور اوربان است.",
+      "summary_fa": "از زمانی که حزب تیسا به رهبری پیتر ماگیار در آوریل پیروز شد، رئیس‌جمهور مجارستان، دادستان ارشد و روسای رسانه‌های دولتی همگی برکنار شدند، زیرا دولت جدید به سرعت در حال حرکت برای رهایی از 16 سال حکومت ویکتور اوربان است.",
+      "summary_en": "Since Péter Magyar's Tisza Party won a landslide in April, Hungary's president, top prosecutor and state media chiefs have all been removed, as the new government moves swiftly to unwind 16 years of Viktor Orbán's rule.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/built-to-last-gone-in-months-how-peter-magyar-dismantled-viktor-orbans-regime",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:17:57 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e21ce4ef25adf0c0d7fe15615068b507",
+      "title": "آتش‌سوزی جنگل‌ها را مجبور به تخلیه در جزیره یونانی Kefalonia کرد",
+      "title_fa": "آتش‌سوزی جنگل‌ها را مجبور به تخلیه در جزیره یونانی Kefalonia کرد",
+      "title_en": "Wildfires force evacuations on Greek island of Kefalonia",
+      "summary": "آتش‌سوزی‌های جنگلی در کفالونیا و غرب آتیکا به دلیل وزش باد شدید که تلاش‌های اطفای حریق را با مشکل مواجه کرده و خانه‌ها و جوامع را تهدید می‌کند، تخلیه را مجبور کرد.",
+      "summary_fa": "آتش‌سوزی‌های جنگلی در کفالونیا و غرب آتیکا به دلیل وزش باد شدید که تلاش‌های اطفای حریق را با مشکل مواجه کرده و خانه‌ها و جوامع را تهدید می‌کند، تخلیه را مجبور کرد.",
+      "summary_en": "Wildfires in Kefalonia and western Attica forced evacuations as strong winds hampered firefighting efforts and threatened homes and communities",
+      "link": "http://www.euronews.com/video/2026/08/03/wildfires-force-evacuations-on-greek-island-of-kefalonia",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:16:01 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "633e87a1c0fe6af42150760dc7443eac",
+      "title": "بحران مهاجرت سئوتا ناامیدی در میان جوانان مراکش را آشکار می کند",
+      "title_fa": "بحران مهاجرت سئوتا ناامیدی در میان جوانان مراکش را آشکار می کند",
+      "title_en": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "summary": "مهاجران مراکشی ناامیدی خود را از آینده اقتصادی خود توصیف کردند و توضیح دادند که چه چیزی آنها را از مرز اسپانیا عبور داده است.",
+      "summary_fa": "مهاجران مراکشی ناامیدی خود را از آینده اقتصادی خود توصیف کردند و توضیح دادند که چه چیزی آنها را از مرز اسپانیا عبور داده است.",
+      "summary_en": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "source": "NY Times",
+      "published_at": "Mon, 03 Aug 2026 08:14:02 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-promo/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "134c9de9d5d15614e3862a6dabf0fc5f",
+      "title": "دفتر رئیس جمهور میانمار اعلام کرد، آنگ سان سوچی، رهبر سابق میانمار با مقام صلیب سرخ دیدار کرد",
+      "title_fa": "دفتر رئیس جمهور میانمار اعلام کرد، آنگ سان سوچی، رهبر سابق میانمار با مقام صلیب سرخ دیدار کرد",
+      "title_en": "Myanmar's former leader Aung San Suu Kyi meets Red Cross official, president's office says",
+      "summary": "ارتش سوچی را در فوریه 2021 سرنگون کرد و برنده جایزه صلح نوبل را زندانی کرد و جنگ داخلی مداومی را آغاز کرد که بیش از 100000 نفر از هر طرف کشته شده است.",
+      "summary_fa": "ارتش سوچی را در فوریه 2021 سرنگون کرد و برنده جایزه صلح نوبل را زندانی کرد و جنگ داخلی مداومی را آغاز کرد که بیش از 100000 نفر از هر طرف کشته شده است.",
+      "summary_en": "The military deposed Suu Kyi in February 2021, jailing the Nobel Peace Prize laureate and triggering an ongoing civil war that has killed more than 100,000 people on all sides.",
+      "link": "http://www.euronews.com/2026/08/03/myanmars-former-leader-aung-san-suu-kyi-meets-red-cross-official-presidents-office-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:13:04 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc8109fc03bdbacc84b9600ed5a28316",
+      "title": "اروپای مرکزی و جنوبی برای موج گرما آماده می شود - اروپا زنده است",
+      "title_fa": "اروپای مرکزی و جنوبی برای موج گرما آماده می شود - اروپا زنده است",
+      "title_en": "Central and southern Europe brace for heatwave – Europe live",
+      "summary": "پیش بینی می شود دمای هوا در بوداپست و وین به 37 درجه سانتیگراد برسد زیرا مجارستان نیروگاه هسته ای حیاتی خود را خاموش می کند و کاهش سطح آب در دانوب بر قابلیت های خنک کننده تأثیر می گذارد. تشدید شد. فیلم نشان داد که یکی از هلیکوپترها در مواجهه با بادهای شدیدی که شعله های آتش را به سمت شهرک های حاشیه غربی آتن سوق داده است، کنترل خود را از دست داده است. ادامه مطلب...",
+      "summary_fa": "پیش بینی می شود دمای هوا در بوداپست و وین به 37 درجه سانتیگراد برسد زیرا مجارستان نیروگاه هسته ای حیاتی خود را خاموش می کند و کاهش سطح آب در دانوب بر قابلیت های خنک کننده تأثیر می گذارد. تشدید شد. فیلم نشان داد که یکی از هلیکوپترها در مواجهه با بادهای شدیدی که شعله های آتش را به سمت شهرک های حاشیه غربی آتن سوق داده است، کنترل خود را از دست داده است. ادامه مطلب...",
+      "summary_en": "Temperatures forecast to reach 37C in Budapest and Vienna as Hungary switches off vital nuclear plant with falling water levels in Danube affecting cooling capabilitiesTwo firefighting helicopters have collided west of Athens on Sunday, killing the two-person crew of one of the aircraft, as efforts to control a massive wildfire barrelling towards the outskirts of the Greek capital intensified.Footage showed one of the helicopters losing control in the face of gale-force winds that have pushed flames towards settlements on Athens’ western fringes. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 08:11:37 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/98b9954a93357fd39dccac5f096868d48f22b2d9/570_0_2927_2341/master/2927.jpg?width=140&quality=85&auto=format&fit=max&s=4943d3ba9f02da3fa4d5058b175ab764",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "7b8887bc595eb98c7467462770c14205",
+      "title": "آیا اتحادیه اروپا می تواند با آتش سوزی های جنگلی مقابله کند؟ از چت ربات هوش مصنوعی یورونیوز بپرسید",
+      "title_fa": "آیا اتحادیه اروپا می تواند با آتش سوزی های جنگلی مقابله کند؟ از چت ربات هوش مصنوعی یورونیوز بپرسید",
+      "title_en": "Can the EU combat wildfires? Ask the Euronews AI chatbot",
+      "summary": "در حالی که آتش سوزی های جنگلی در سراسر اروپا بیداد می کند، اتحادیه اروپا بزرگترین واکنش اطفای حریق فرامرزی خود را آغاز کرده است. آیا می خواهید بدانید سیستم واکنش آتش نشانی اتحادیه اروپا چگونه کار می کند؟ از چت ربات هوش مصنوعی یورونیوز بپرسید.",
+      "summary_fa": "در حالی که آتش سوزی های جنگلی در سراسر اروپا بیداد می کند، اتحادیه اروپا بزرگترین واکنش اطفای حریق فرامرزی خود را آغاز کرده است. آیا می خواهید بدانید سیستم واکنش آتش نشانی اتحادیه اروپا چگونه کار می کند؟ از چت ربات هوش مصنوعی یورونیوز بپرسید.",
+      "summary_en": "As wildfires rage across Europe, the EU has launched its largest-ever cross-border firefighting response. Do you want to know how the EU's firefighting response system works? Ask the Euronews AI chatbot.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/can-the-eu-combat-wildfires-ask-the-euronews-ai-chatbot",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 08:00:25 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "6abcb5355b1505f7c1797ca1aa2a5c97",
+      "title": "اخبار استرالیا زنده: سناتور سبزها به دلیل ممنوعیت های کنفرانس مطبوعاتی، پائولین هانسون را \"بزدل سیاسی\" نامید. معدن هانتر ولی پس از مرگ کارگر، فعالیت خود را متوقف می کند",
+      "title_fa": "اخبار استرالیا زنده: سناتور سبزها به دلیل ممنوعیت های کنفرانس مطبوعاتی، پائولین هانسون را \"بزدل سیاسی\" نامید. معدن هانتر ولی پس از مرگ کارگر، فعالیت خود را متوقف می کند",
+      "title_en": "Australia news live: Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans; Hunter Valley mine pauses operations after worker dies",
+      "summary": "اخبار امروز را به صورت زنده دنبال کنید آنگوس تیلور و آنتونی آلبانیز در مرخصی این هفته دفتر او اعلام کرده است که رهبر مخالفان، آنگوس تیلور، بیشتر این هفته در مرخصی است و جانشین او جین هیوم است. NSWRL مدیون خدماتی است که به لوری انجام داده است. سریال Origin پس از پایان دادن به بردهای هشت ساله کوئینزلند در سال 2014 و غلبه بر ناملایمات برای هدایت آبی ها به خانه در سال 2026 برنده تمام دوران به عنوان مربی است. به خواندن ادامه دهید...",
+      "summary_fa": "اخبار امروز را به صورت زنده دنبال کنید آنگوس تیلور و آنتونی آلبانیز در مرخصی این هفته دفتر او اعلام کرده است که رهبر مخالفان، آنگوس تیلور، بیشتر این هفته در مرخصی است و جانشین او جین هیوم است. NSWRL مدیون خدماتی است که به لوری انجام داده است. سریال Origin پس از پایان دادن به بردهای هشت ساله کوئینزلند در سال 2014 و غلبه بر ناملایمات برای هدایت آبی ها به خانه در سال 2026 برنده تمام دوران به عنوان مربی است. به خواندن ادامه دهید...",
+      "summary_en": "Follow today’s news liveAngus Taylor and Anthony Albanese on leave this weekThe opposition leader, Angus Taylor, is on leave for most of this week, his office has announced, with the deputy leader, Jane Hume, acting in his stead.NSWRL owes a massive debt of gratitude to Laurie for the service he has given to his state as both a player and a coach.He has also led NSW to arguably two of the greatest Origin series wins of all time as a coach, after ending Queensland’s eight-year winning streak in 2014 and overcoming adversity to steer the Blues home in 2026. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 07:59:47 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/63ba6f9ca8033e253a2c6c369f599e40d0630eb8/549_375_5018_4014/master/5018.jpg?width=140&quality=85&auto=format&fit=max&s=a127075d5511ac4da43addcd5998a86e",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "80de27a21c3138f13ccfdac0f9f23e87",
+      "title": "سهام AstraZeneca پس از گزارش مذاکرات 400 میلیارد دلاری ادغام با بریستول مایرز اسکوئیب، 7 درصد کاهش یافت.",
+      "title_fa": "سهام AstraZeneca پس از گزارش مذاکرات 400 میلیارد دلاری ادغام با بریستول مایرز اسکوئیب، 7 درصد کاهش یافت.",
+      "title_en": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
+      "summary": "فایننشال تایمز روز یکشنبه گزارش داد که این شرکت ها در مورد ادغام احتمالی طی چند ماه بحث کرده اند.",
+      "summary_fa": "فایننشال تایمز روز یکشنبه گزارش داد که این شرکت ها در مورد ادغام احتمالی طی چند ماه بحث کرده اند.",
+      "summary_en": "The companies have discussed a potential merger over several months, the Financial Times reported on Sunday.",
+      "link": "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 07:52:36 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7202d5d106c8a404ee640ff9f68b6294",
+      "title": "قیمت نفت به دلیل امیدهای خاورمیانه و با افزایش تولید اوپک پلاس کاهش می یابد",
+      "title_fa": "قیمت نفت به دلیل امیدهای خاورمیانه و با افزایش تولید اوپک پلاس کاهش می یابد",
+      "title_en": "Oil prices lower on Middle East hopes and as OPEC+ boosts production",
+      "summary": "پس از آنکه اوپک پلاس تولید را برای ماه سپتامبر افزایش داد و دونالد ترامپ، رئیس جمهور آمریکا، حمله برنامه ریزی شده به ایران را لغو کرد و قیمت ها را تحت فشار نزولی قرار داد، قیمت نفت صبح دوشنبه کاهش یافت.",
+      "summary_fa": "پس از آنکه اوپک پلاس تولید را برای ماه سپتامبر افزایش داد و دونالد ترامپ، رئیس جمهور آمریکا، حمله برنامه ریزی شده به ایران را لغو کرد و قیمت ها را تحت فشار نزولی قرار داد، قیمت نفت صبح دوشنبه کاهش یافت.",
+      "summary_en": "Oil prices were lower on Monday morning after OPEC+ boosted production for September and US President Donald Trump called off a planned strike on Iran, putting downward pressure on prices.",
+      "link": "http://www.euronews.com/business/2026/08/03/oil-prices-lower-on-middle-east-hopes-and-as-opec-boosts-production",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:50:51 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "55a80e12ffc4db2a6c827db7049006bd",
+      "title": "جاسپریت بومراح به دلیل مصدومیت در سری‌لانکا تست نشد",
+      "title_fa": "جاسپریت بومراح به دلیل مصدومیت در سری‌لانکا تست نشد",
+      "title_en": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
+      "summary": "بومراه، پرتاب کننده برتر آزمون جهان، پس از آسیب دیدگی در زمین در ماه گذشته در بریتانیا، تور را از دست خواهد داد.",
+      "summary_fa": "بومراه، پرتاب کننده برتر آزمون جهان، پس از آسیب دیدگی در زمین در ماه گذشته در بریتانیا، تور را از دست خواهد داد.",
+      "summary_en": "Bumrah, the world's top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.",
+      "link": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 07:50:06 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "9299867e1a47c96a53dbea4378f72881",
+      "title": "در حالی که اتحادیه اروپا در حال آماده سازی مذاکرات درباره گذرگاه های غیرقابل کنترل مهاجران است، حداقل 72 نفر در سئوتا جان خود را از دست دادند.",
+      "title_fa": "در حالی که اتحادیه اروپا در حال آماده سازی مذاکرات درباره گذرگاه های غیرقابل کنترل مهاجران است، حداقل 72 نفر در سئوتا جان خود را از دست دادند.",
+      "title_en": "At least 72 dead in Ceuta, Spain says, as EU prepares talks on uncontrolled migrant crossings",
+      "summary": "بیشتر 60000 نفری که به قلمرو شمال آفریقا اسپانیا هجوم آوردند، اکثراً با شنا کردن، از زمان بزرگترین گذرگاه مهاجران دسته جمعی به مراکش بازگشته اند.",
+      "summary_fa": "بیشتر 60000 نفری که به قلمرو شمال آفریقا اسپانیا هجوم آوردند، اکثراً با شنا کردن، از زمان بزرگترین گذرگاه مهاجران دسته جمعی به مراکش بازگشته اند.",
+      "summary_en": "Most of the estimated 60,000 people who rushed into Spain's north African territory, most by swimming, have returned to Morocco since the territory's largest mass migrant crossing.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/at-least-72-dead-in-ceuta-spain-says-as-eu-prepares-talks-on-uncontrolled-migrant-crossing",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:49:38 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d800b209df102887b0966f07f55e4706",
+      "title": "ژاپن متعهد شده است که در صورت نیاز مجدداً با آمریکا بر سر ین مداخله کند",
+      "title_fa": "ژاپن متعهد شده است که در صورت نیاز مجدداً با آمریکا بر سر ین مداخله کند",
+      "title_en": "Japan vows to intervene again with US over yen if needed",
+      "summary": "ساتسوکی کاتایاما، وزیر دارایی، اقدام مشترک با واشنگتن را برای مقابله با \"جنبش های بی نظم\" تایید کرد.",
+      "summary_fa": "ساتسوکی کاتایاما، وزیر دارایی، اقدام مشترک با واشنگتن را برای مقابله با \"جنبش های بی نظم\" تایید کرد.",
+      "summary_en": "Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’",
+      "link": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 03 Aug 2026 07:40:38 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd381282f-b67e-4d72-80df-caca59d4c144.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "bf034153891b9af7f524b4ece55d8828",
+      "title": "ترامپ می گوید مذاکرات جدید ایران روز دوشنبه پس از خنثی کردن حمله گسترده آغاز می شود",
+      "title_fa": "ترامپ می گوید مذاکرات جدید ایران روز دوشنبه پس از خنثی کردن حمله گسترده آغاز می شود",
+      "title_en": "Trump says new Iran talks set to start on Monday after calling off massive attack",
+      "summary": "واشنگتن و تهران از 28 فوریه، زمانی که ایالات متحده و اسرائیل حملات غافلگیرکننده ای را علیه ایران انجام دادند، درگیر جنگ بودند، هرچند ماه ها دیپلماسی در حال انجام به دوره هایی از آرامش نسبی منجر شده است.",
+      "summary_fa": "واشنگتن و تهران از 28 فوریه، زمانی که ایالات متحده و اسرائیل حملات غافلگیرکننده ای را علیه ایران انجام دادند، درگیر جنگ بودند، هرچند ماه ها دیپلماسی در حال انجام به دوره هایی از آرامش نسبی منجر شده است.",
+      "summary_en": "Washington and Tehran have been at war since 28 February, when the US and Israel launched surprise strikes against Iran, though months of on-off diplomacy have led to periods of relative calm.",
+      "link": "http://www.euronews.com/2026/08/03/trump-says-new-iran-talks-set-to-start-on-monday-after-calling-off-massive-attack",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:26:30 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8caba4a4cb15d1bd7572af05f2b61231",
+      "title": "خرچنگ های غول پیکر در پمپئی چه می کنند؟ ویرانه‌های باستانی با هنر پاپ در بزرگترین چیدمان فیلیپ کولبر ملاقات می‌کنند",
+      "title_fa": "خرچنگ های غول پیکر در پمپئی چه می کنند؟ ویرانه‌های باستانی با هنر پاپ در بزرگترین چیدمان فیلیپ کولبر ملاقات می‌کنند",
+      "title_en": "What are giant lobsters doing in Pompeii? Ancient ruins meet pop art in Philip Colbert's biggest installation",
+      "summary": "سی مجسمه خرچنگ غول پیکر در حالی وارد پمپئی شده اند که فیلیپ کولبر، هنرمند پاپ بریتانیایی از بزرگترین اثر خود پرده برداری می کند. این نمایشگاه با ترکیب اسطوره‌شناسی و فرهنگ معاصر، یکی از نمادین‌ترین مکان‌های باستانی جهان را به گفتگویی بین گذشته و حال تبدیل می‌کند.",
+      "summary_fa": "سی مجسمه خرچنگ غول پیکر در حالی وارد پمپئی شده اند که فیلیپ کولبر، هنرمند پاپ بریتانیایی از بزرگترین اثر خود پرده برداری می کند. این نمایشگاه با ترکیب اسطوره‌شناسی و فرهنگ معاصر، یکی از نمادین‌ترین مکان‌های باستانی جهان را به گفتگویی بین گذشته و حال تبدیل می‌کند.",
+      "summary_en": "Thirty giant lobster sculptures have arrived in Pompeii as British pop artist Philip Colbert unveils his largest-ever installation. Blending mythology and contemporary culture, the exhibition transforms one of the world's most iconic ancient sites into a dialogue between past and present.",
+      "link": "http://www.euronews.com/culture/2026/08/03/what-are-giant-lobsters-doing-in-pompeii-ancient-ruins-meet-pop-art-in-philip-colberts-big",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:15:50 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c39acf9aef719867932e2e824f741d4b",
+      "title": "چگونه روز کاری اروپا به طور فزاینده ای به زمان شخصی تجاوز می کند",
+      "title_fa": "چگونه روز کاری اروپا به طور فزاینده ای به زمان شخصی تجاوز می کند",
+      "title_en": "How Europe’s working day is increasingly encroaching on personal time",
+      "summary": "از هر پنج کارگر اتحادیه اروپا، یک نفر می‌گوید که به دلایل کاری فراتر از ساعات کاری عادی، چندین بار در ماه با آنها تماس گرفته می‌شود، که به طور قابل توجهی به فرهنگ همیشه فعال کمک می‌کند و استرس قابل توجهی را اضافه می‌کند.",
+      "summary_fa": "از هر پنج کارگر اتحادیه اروپا، یک نفر می‌گوید که به دلایل کاری فراتر از ساعات کاری عادی، چندین بار در ماه با آنها تماس گرفته می‌شود، که به طور قابل توجهی به فرهنگ همیشه فعال کمک می‌کند و استرس قابل توجهی را اضافه می‌کند.",
+      "summary_en": "One in five EU workers say that they are contacted for work reasons beyond normal working hours many times a month, contributing significantly to always-on culture and adding considerable stress.",
+      "link": "http://www.euronews.com/business/2026/08/03/how-europes-working-day-is-increasingly-encroaching-on-personal-time",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:09:13 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "5d5767af3bb78ce85ffc5893ede2e127",
+      "title": "این استارت‌آپ اسکاتلندی با جایگزینی ماهی‌های وحشی با جلبک‌های امگا 3 تغذیه شده از ضایعات ویسکی، آنها را نجات می‌دهد.",
+      "title_fa": "این استارت‌آپ اسکاتلندی با جایگزینی ماهی‌های وحشی با جلبک‌های امگا 3 تغذیه شده از ضایعات ویسکی، آنها را نجات می‌دهد.",
+      "title_en": "This Scottish startup saves wild fish by replacing them with Omega-3 algae fed on whisky waste",
+      "summary": "آیا ماهی های پرورشی انتخابی پایدار هستند؟ بسیاری هنوز برای تغذیه به ماهی‌های صید شده وحشی وابسته هستند - جلبک‌هایی که در ضایعات صنعت ویسکی اسکاتلند رشد می‌کنند می‌توانند این وضعیت را تغییر دهند.",
+      "summary_fa": "آیا ماهی های پرورشی انتخابی پایدار هستند؟ بسیاری هنوز برای تغذیه به ماهی‌های صید شده وحشی وابسته هستند - جلبک‌هایی که در ضایعات صنعت ویسکی اسکاتلند رشد می‌کنند می‌توانند این وضعیت را تغییر دهند.",
+      "summary_en": "Are farmed fish a sustainable choice? Many still depend on wild-caught fish for feed – algae grown on Scottish whisky industry waste could change that.",
+      "link": "http://www.euronews.com/2026/08/03/this-scottish-startup-saves-wild-fish-by-replacing-them-with-omega-3-algae-fed-on-whisky-w",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:02:04 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f338c8ae63527dedf3d069ae206ebabf",
+      "title": "کارشناسان بهداشت جهانی هشدار می‌دهند که بودجه HIV خطر «پیشرفت دهه‌ها» را کاهش می‌دهد",
+      "title_fa": "کارشناسان بهداشت جهانی هشدار می‌دهند که بودجه HIV خطر «پیشرفت دهه‌ها» را کاهش می‌دهد",
+      "title_en": "HIV funding cuts risk 'unravelling decades of progress', global health experts warn",
+      "summary": "بدون تعهد و اقدام مجدد، جهان در معرض خطر تجدید حیات همه گیر HIV است زیرا کاهش بودجه پیشرفت را تهدید می کند.",
+      "summary_fa": "بدون تعهد و اقدام مجدد، جهان در معرض خطر تجدید حیات همه گیر HIV است زیرا کاهش بودجه پیشرفت را تهدید می کند.",
+      "summary_en": "Without renewed commitment and action, the world risks a resurgence of the HIV epidemic as funding cuts threaten progress.",
+      "link": "http://www.euronews.com/health/2026/08/03/hiv-funding-cuts-risk-unravelling-decades-of-progress-global-health-experts-warn",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:00:44 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "445566f83ce04f5020fa1278b18cfb8d",
+      "title": "آخرین بولتن اخبار | 3 آگوست 2026 - صبح",
+      "title_fa": "آخرین بولتن اخبار | 3 آگوست 2026 - صبح",
+      "title_en": "Latest news bulletin | August 3rd, 2026 – Morning",
+      "summary": "در 3 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 3 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-morning",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:00:33 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "4facd9dd527cff0b908860bc07674c2d",
+      "title": "کشتی‌های جدید، سفرهای جنایی واقعی و شکلات: گرایش‌های سفر کروز در سال‌های 2026 و 2027",
+      "title_fa": "کشتی‌های جدید، سفرهای جنایی واقعی و شکلات: گرایش‌های سفر کروز در سال‌های 2026 و 2027",
+      "title_en": "New ships, true crime voyages and chocolate: Cruise travel trends to know in 2026 and 2027",
+      "summary": "سفرهای کروز با پیوستن کشتی‌های جدید به ناوگان و همچنین سفرهای موضوعی و تجربه‌های منحصربه‌فرد در دریا و رودخانه‌ها به تکامل خود ادامه می‌دهند.",
+      "summary_fa": "سفرهای کروز با پیوستن کشتی‌های جدید به ناوگان و همچنین سفرهای موضوعی و تجربه‌های منحصربه‌فرد در دریا و رودخانه‌ها به تکامل خود ادامه می‌دهند.",
+      "summary_en": "Cruise travel continues to evolve with a host of new ships joining the fleets as well as themed voyages and unique experiences at sea and on the rivers.",
+      "link": "http://www.euronews.com/travel/2026/08/03/new-ships-true-crime-voyages-and-chocolate-cruise-travel-trends-to-know-in-2026-and-2027",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 07:00:06 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "80774e9d2311ba13baa882a19bc2677a",
+      "title": "آنگ سان سوچی در اولین تماس خارجی تایید شده به مدت 2.5 سال سالم به نظر می رسد",
+      "title_fa": "آنگ سان سوچی در اولین تماس خارجی تایید شده به مدت 2.5 سال سالم به نظر می رسد",
+      "title_en": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "summary": "عکس‌هایی که به تازگی توسط دولت نظامی میانمار منتشر شده، دیدار سوچی با یکی از مقامات کمیته بین‌المللی صلیب سرخ را نشان می‌دهد.",
+      "summary_fa": "عکس‌هایی که به تازگی توسط دولت نظامی میانمار منتشر شده، دیدار سوچی با یکی از مقامات کمیته بین‌المللی صلیب سرخ را نشان می‌دهد.",
+      "summary_en": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 06:53:09 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4c3c3c5614f5a5e08c47365e81d19b07",
       "title": "مسکن در پرتغال: چرا 400000 یورو دیگر ممکن است برای خرید خانه کافی نباشد",
       "title_fa": "مسکن در پرتغال: چرا 400000 یورو دیگر ممکن است برای خرید خانه کافی نباشد",
@@ -82344,6 +82995,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "754b1934838e5724b862638055c38e10",
+      "title": "«به ما بگویید»: خانواده غزه بین امید و درد به خاطر برادران مفقود شده به دام افتاده اند",
+      "title_fa": "«به ما بگویید»: خانواده غزه بین امید و درد به خاطر برادران مفقود شده به دام افتاده اند",
+      "title_en": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+      "summary": "ناپدید شدن دو پسر در سال گذشته زندگی خانواده عبدالعال را به جستجوی بی پایان برای یافتن پاسخ تبدیل کرده است.",
+      "summary_fa": "ناپدید شدن دو پسر در سال گذشته زندگی خانواده عبدالعال را به جستجوی بی پایان برای یافتن پاسخ تبدیل کرده است.",
+      "summary_en": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
+      "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 06:09:00 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "11d083b2b3c8f7b853b2b1d48fe295c6",
+      "title": "آلن جونز به نوجوانی که پس از اظهار نظر در مورد آلت تناسلی دونده بوسیده بود پول نقد و ماشین هدیه داده است.",
+      "title_fa": "آلن جونز به نوجوانی که پس از اظهار نظر در مورد آلت تناسلی دونده بوسیده بود پول نقد و ماشین هدیه داده است.",
+      "title_en": "Alan Jones allegedly gifted cash and car to teenager he kissed after commenting on sprinter’s penis, trial hears",
+      "summary": "پخش کننده رادیویی 2UE و 2 گیگابایتی سابق با 22 اتهام مواجه است. جونز، 85 ساله، بی‌گناه به‌روزرسانی‌های زنده محاکمه آلن جونز هشدار: ممکن است حاوی محتوای گرافیکی باشد. ورزشکار قهرمانی که 14 ساله بود هنگام ملاقات با آلن جونز به دادگاه سیدنی گفت که پخش کننده پس از شکستن رکورد با او دوست شد و در اولین شهادت جونز در روز دوشنبه 600 دلار در هفته به او داد. محاکمه تجاوز و لمس جنسی در دادگاه محلی سیدنی. جونز 85 ساله خود را بی گناه دانسته است. ادامه مطلب...",
+      "summary_fa": "پخش کننده رادیویی 2UE و 2 گیگابایتی سابق با 22 اتهام مواجه است. جونز، 85 ساله، بی‌گناه به‌روزرسانی‌های زنده محاکمه آلن جونز هشدار: ممکن است حاوی محتوای گرافیکی باشد. ورزشکار قهرمانی که 14 ساله بود هنگام ملاقات با آلن جونز به دادگاه سیدنی گفت که پخش کننده پس از شکستن رکورد با او دوست شد و در اولین شهادت جونز در روز دوشنبه 600 دلار در هفته به او داد. محاکمه تجاوز و لمس جنسی در دادگاه محلی سیدنی. جونز 85 ساله خود را بی گناه دانسته است. ادامه مطلب...",
+      "summary_en": "Former 2UE and 2GB radio broadcaster is facing 22 charges. Jones, 85, has pleaded not guiltyAlan Jones trial live updatesWarning: may contain graphic contentA champion athlete who was 14 when he met Alan Jones has told a Sydney court the broadcaster befriended him after he broke a record, and went on to give him a mobile phone, a car and up to $600 a week.Complainant J gave evidence on Monday during the first day of Jones’s indecent assault and sexual touching trial at Sydney local court. Jones, 85, has pleaded not guilty. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/03/alan-jones-trial-update-sydney-court-case-day-1-news-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 05:42:12 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a6374f12b60a44a6abb34052845b502e3ac5c53c/336_0_7660_6129/master/7660.jpg?width=140&quality=85&auto=format&fit=max&s=614730a8b0c1b9c51a8e712ce21c6afc",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "73445f431e966f24f97fa9d8b99c60ca",
+      "title": "\"میراث شما برای همیشه زنده خواهد ماند\": نپال برای کوهنورد نیرمال پورجا عزادار است",
+      "title_fa": "\"میراث شما برای همیشه زنده خواهد ماند\": نپال برای کوهنورد نیرمال پورجا عزادار است",
+      "title_en": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+      "summary": "پس از آن که بهمن تعدادی از بهترین کوهنوردان این کشور را کشت، ادای احترام در سراسر نپال سرازیر شده است.",
+      "summary_fa": "پس از آن که بهمن تعدادی از بهترین کوهنوردان این کشور را کشت، ادای احترام در سراسر نپال سرازیر شده است.",
+      "summary_en": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 05:31:55 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4fc/live/39fee800-8ef3-11f1-9414-7f9a7ecedd61.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "52174abbce0fa1b4105f7dab3ec1f55d",
+      "title": "تیم آمریکا: پلیس ین",
+      "title_fa": "تیم آمریکا: پلیس ین",
+      "title_en": "Team America: Yen police",
+      "summary": "یک مداخله گیج کننده",
+      "summary_fa": "یک مداخله گیج کننده",
+      "summary_en": "A puzzling intervention",
+      "link": "https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 03 Aug 2026 05:30:02 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55cacd52-7e1a-4ed2-8f21-bc280e09bd77.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "14dfeff800361b30b28d3f39086b59d6",
+      "title": "دو مرد پس از ریزش ناگهانی ساختمان سیدنی به شدت مجروح شدند",
+      "title_fa": "دو مرد پس از ریزش ناگهانی ساختمان سیدنی به شدت مجروح شدند",
+      "title_en": "Two men seriously injured after Sydney building suddenly collapses",
+      "summary": "پنج نفر دیگر پس از غار سقف و دیوار در خیابان واتل در Ultimo توسط پرسنل آمبولانس مورد ارزیابی قرار گرفتند. وبلاگ زنده اخبار استرالیا ما را برای آخرین به روز رسانی ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آمبولانس ولز روز دوشنبه گفت. ادامه مطلب...",
+      "summary_fa": "پنج نفر دیگر پس از غار سقف و دیوار در خیابان واتل در Ultimo توسط پرسنل آمبولانس مورد ارزیابی قرار گرفتند. وبلاگ زنده اخبار استرالیا ما را برای آخرین به روز رسانی ها دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آمبولانس ولز روز دوشنبه گفت. ادامه مطلب...",
+      "summary_en": "Another five people assessed by ambulance personnel after roof and wall cave in on Wattle St in UltimoFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTwo people have been pulled from debris after a building suddenly collapsed in a Sydney inner-city suburb.The men, who are both in their 60s, were in a serious condition after being transported to hospital, New South Wales Ambulance said on Monday. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/03/sydney-building-collapse-wattle-st-ultimo",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 05:28:57 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/be796edd2c6154515df6affa1eb85ef3e6b06d7b/1325_277_6000_4802/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=3ab65a12392043f8482759c25ebcffe7",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "63718fdfde9fff2712eb76c28972101e",
+      "title": "\"زمستان در راه است\": اوکراین از سخت ترین آزمایش خود از زمان تهاجم گسترده روسیه می ترسد",
+      "title_fa": "\"زمستان در راه است\": اوکراین از سخت ترین آزمایش خود از زمان تهاجم گسترده روسیه می ترسد",
+      "title_en": "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+      "summary": "نیروهای روسیه تعداد حملات موشکی به شهرهای اوکراین را افزایش داده اند و احتمالاً به دنبال سوء استفاده از کمبود رهگیرهای موشک بالستیک کیف هستند.",
+      "summary_fa": "نیروهای روسیه تعداد حملات موشکی به شهرهای اوکراین را افزایش داده اند و احتمالاً به دنبال سوء استفاده از کمبود رهگیرهای موشک بالستیک کیف هستند.",
+      "summary_en": "Russian forces have ramped up the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.",
+      "link": "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 05:00:01 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -82428,6 +83205,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "5ad1e00a9587da36594a263ffb4bbb8e",
+      "title": "خرابی شبکه، کوبا را در خاموشی سراسری فرو می برد",
+      "title_fa": "خرابی شبکه، کوبا را در خاموشی سراسری فرو می برد",
+      "title_en": "Grid failure plunges Cuba into nationwide blackout",
+      "summary": "شبکه برق فرسوده کوبا روز یکشنبه پس از یک تعطیلی آخر هفته و در بحبوحه کمبود سوخت تحمیل شده توسط ایالات متحده سقوط کرد.",
+      "summary_fa": "شبکه برق فرسوده کوبا روز یکشنبه پس از یک تعطیلی آخر هفته و در بحبوحه کمبود سوخت تحمیل شده توسط ایالات متحده سقوط کرد.",
+      "summary_en": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 04:35:39 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -82641,6 +83439,27 @@
       }
     },
     {
+      "id": "fd084c5295093178cdec9b82c3434789",
+      "title": "خارج از رستوران مسکو که در آن بمب سه نفر را کشت",
+      "title_fa": "خارج از رستوران مسکو که در آن بمب سه نفر را کشت",
+      "title_en": "Outside the Moscow restaurant where bomb killed three",
+      "summary": "سردبیر بی بی سی روسیه از میدان کودرینسکایا، محل انفجار گزارش می دهد.",
+      "summary_fa": "سردبیر بی بی سی روسیه از میدان کودرینسکایا، محل انفجار گزارش می دهد.",
+      "summary_en": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 03:53:05 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9c/live/64155f20-8ed0-11f1-93cd-770ec532eabb.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "42031dd5154054855b8a16f553c8ea43",
       "title": "\"تنها پسرم در حالی که برای عدالت ایستاده بود به ضرب گلوله کشته شد\" - در داخل شهر که توسط تظاهرات مرگبار در کشمیر تحت مدیریت پاکستان تسخیر شده است.",
       "title_fa": "\"تنها پسرم در حالی که برای عدالت ایستاده بود به ضرب گلوله کشته شد\" - در داخل شهر که توسط تظاهرات مرگبار در کشمیر تحت مدیریت پاکستان تسخیر شده است.",
@@ -82851,6 +83670,27 @@
       }
     },
     {
+      "id": "e444a260d121c280651b6690dc329a25",
+      "title": "پس از اینکه ترامپ گفت مذاکرات با ایران از سر گرفته خواهد شد، قیمت نفت کاهش یافت",
+      "title_fa": "پس از اینکه ترامپ گفت مذاکرات با ایران از سر گرفته خواهد شد، قیمت نفت کاهش یافت",
+      "title_en": "Oil slides after Trump says talks with Iran will resume",
+      "summary": "تهران می گوید توافق با عمان برای بازگشایی تنگه هرمز به روی کشتی ها نزدیک شده است",
+      "summary_fa": "تهران می گوید توافق با عمان برای بازگشایی تنگه هرمز به روی کشتی ها نزدیک شده است",
+      "summary_en": "Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close",
+      "link": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 03 Aug 2026 01:24:32 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F79427a1c-7e92-4abd-adb1-fc50098eb318.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "df07c2f8f2221df45ab5f15409391a96",
       "title": "اخبار استرالیا به صورت زنده: تحقیقات سنا شنیده می شود: شرکت های شرط بندی ظاهراً به قماربازان داروهای مشکل دار برای دامن زدن به اعتیاد ارائه می دهند.",
       "title_fa": "اخبار استرالیا به صورت زنده: تحقیقات سنا شنیده می شود: شرکت های شرط بندی ظاهراً به قماربازان داروهای مشکل دار برای دامن زدن به اعتیاد ارائه می دهند.",
@@ -82981,6 +83821,27 @@
       "title": "جنگ ایران زنده: ترامپ می گوید مذاکرات از سر گرفته می شود. تهران از آمریکا خواست به تفاهم نامه احترام بگذارد",
       "title_fa": "جنگ ایران زنده: ترامپ می گوید مذاکرات از سر گرفته می شود. تهران از آمریکا خواست به تفاهم نامه احترام بگذارد",
       "title_en": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+      "summary": "دونالد ترامپ، رئیس جمهور آمریکا می گوید توافق با ایران قریب الوقوع است و مذاکرات قرار است روز دوشنبه آغاز شود.",
+      "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا می گوید توافق با ایران قریب الوقوع است و مذاکرات قرار است روز دوشنبه آغاز شود.",
+      "summary_en": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 00:00:15 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "f377613cb9bbad938e8d015e45b735a7",
+      "title": "جنگ ایران زنده: وزارت امور خارجه ایران می گوید در حال حاضر مذاکره با آمریکا وجود ندارد",
+      "title_fa": "جنگ ایران زنده: وزارت امور خارجه ایران می گوید در حال حاضر مذاکره با آمریکا وجود ندارد",
+      "title_en": "Iran war live: Iranian foreign ministry says no current talks with US",
       "summary": "دونالد ترامپ، رئیس جمهور آمریکا می گوید توافق با ایران قریب الوقوع است و مذاکرات قرار است روز دوشنبه آغاز شود.",
       "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا می گوید توافق با ایران قریب الوقوع است و مذاکرات قرار است روز دوشنبه آغاز شود.",
       "summary_en": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
