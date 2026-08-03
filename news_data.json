@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-03 15:10:50",
-  "total_count": 5450,
+  "last_update": "2026-08-03 17:20:11",
+  "total_count": 5501,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -58031,6 +58031,27 @@
       }
     },
     {
+      "id": "f32ba9afad4929d3e279beb9030ac9aa",
+      "title": "فرصت‌های شغلی فارغ‌التحصیلان بریتانیا به پایین‌ترین سطح از زمان همه‌گیری رسیده است",
+      "title_fa": "فرصت‌های شغلی فارغ‌التحصیلان بریتانیا به پایین‌ترین سطح از زمان همه‌گیری رسیده است",
+      "title_en": "UK graduate job openings fall to lowest level since pandemic",
+      "summary": "یافته های Indeed به چالش پیش روی اندی برنهام برای تقویت اشتغال جوانان و کاهش صورتحساب رفاه اشاره دارد.",
+      "summary_fa": "یافته های Indeed به چالش پیش روی اندی برنهام برای تقویت اشتغال جوانان و کاهش صورتحساب رفاه اشاره دارد.",
+      "summary_en": "Indeed’s findings point to challenge facing Andy Burnham to boost youth employment and cut welfare bill",
+      "link": "https://www.ft.com/content/5391353e-3e03-4170-a289-497019a5d615?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 02 Aug 2026 23:01:09 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4dd86340-fde5-4238-9ae5-fb540adaffc4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "31b57ef663095f408674201b372ab7d6",
       "title": "هوش مصنوعی رونق عظیم جلبک ها را در سراسر اقیانوس های جهان نشان می دهد",
       "title_fa": "هوش مصنوعی رونق عظیم جلبک ها را در سراسر اقیانوس های جهان نشان می دهد",
@@ -82389,6 +82410,195 @@
       }
     },
     {
+      "id": "5479ea078b7599304b6832e0ad2982ba",
+      "title": "بحران مهاجرت سئوتا باعث اعتراضات شد زیرا دولت اسپانیا با انتقاد مواجه شد",
+      "title_fa": "بحران مهاجرت سئوتا باعث اعتراضات شد زیرا دولت اسپانیا با انتقاد مواجه شد",
+      "title_en": "Ceuta migration crisis sparks protests as Spanish government faces criticism",
+      "summary": "با وجود فضای متشنج، معترضان و معترضان متقابل در میدان سئوتا بدون نیاز به دخالت پلیس به تدریج متفرق شدند.",
+      "summary_fa": "با وجود فضای متشنج، معترضان و معترضان متقابل در میدان سئوتا بدون نیاز به دخالت پلیس به تدریج متفرق شدند.",
+      "summary_en": "Despite the tense atmosphere, protesters and counterprotesters in Ceuta's Plaza de los Reyes gradually dispersed without the need for a larger police intervention.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/ceuta-migration-crisis-sparks-protests-as-spanish-government-faces-criticism",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 18:42:31 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2288a03af5131d3d697a64ec6530e43f",
+      "title": "سئوتا توضیح داد: چگونه بزرگترین بحران مهاجرت اسپانیا رخ داد",
+      "title_fa": "سئوتا توضیح داد: چگونه بزرگترین بحران مهاجرت اسپانیا رخ داد",
+      "title_en": "Ceuta explained: How Spain's biggest migration crisis unfolded",
+      "summary": "ورود دسته جمعی بیش از 70000 نفر از مراکش به منطقه تحت پوشش اسپانیا در عرض چند ساعت سؤالاتی را در مورد علل واقعی فروپاشی مرز، تنش های دیپلماتیک با رباط و واشنگتن و نقش استراتژیک تنگه جبل الطارق ایجاد می کند.",
+      "summary_fa": "ورود دسته جمعی بیش از 70000 نفر از مراکش به منطقه تحت پوشش اسپانیا در عرض چند ساعت سؤالاتی را در مورد علل واقعی فروپاشی مرز، تنش های دیپلماتیک با رباط و واشنگتن و نقش استراتژیک تنگه جبل الطارق ایجاد می کند.",
+      "summary_en": "The mass arrival of over 70,000 people from Morocco in the Spanish enclave within hours raises questions about the real causes of the border collapse, the diplomatic tensions with Rabat and Washington, and the strategic role of the Strait of Gibraltar.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/ceuta-explained-how-spains-biggest-migration-crisis-unfolded",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 18:07:11 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "3cb5f2825edf6c1be1379d6853eec072",
+      "title": "اداره هواشناسی می گوید انگلیس و ولز خشک ترین ماه جولای را ثبت کردند",
+      "title_fa": "اداره هواشناسی می گوید انگلیس و ولز خشک ترین ماه جولای را ثبت کردند",
+      "title_en": "England and Wales record driest July on record, Met Office says",
+      "summary": "اداره هواشناسی با اشاره به اینکه رکوردها به سال 1836 بازمی‌گردد، اضافه کرد که جنوب انگلستان \"خشک‌ترین ماه ثبت شده\" خود را در جولای تجربه کرد.",
+      "summary_fa": "اداره هواشناسی با اشاره به اینکه رکوردها به سال 1836 بازمی‌گردد، اضافه کرد که جنوب انگلستان \"خشک‌ترین ماه ثبت شده\" خود را در جولای تجربه کرد.",
+      "summary_en": "Southern England experienced its \"driest month ever recorded\" in July, the Met Office added, noting that records dated back to 1836.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/england-and-wales-record-driest-july-on-record-met-office-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 18:06:35 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c8740f731d866886124832d3025348ae",
+      "title": "آخرین بولتن اخبار | 3 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 3 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 3rd, 2026 – Evening",
+      "summary": "در 3 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 3 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 3rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "6569858a6a0dd15867ee3f26f075b58a",
+      "title": "FAA کوچکترین هواپیمای بوئینگ 737 مکس را پس از سالها تأخیر به پرواز درآورد",
+      "title_fa": "FAA کوچکترین هواپیمای بوئینگ 737 مکس را پس از سالها تأخیر به پرواز درآورد",
+      "title_en": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+      "summary": "خطوط هوایی در نهایت می توانند پرواز مسافران را به زودی پس از تایید هواپیما آغاز کنند، اما ممکن است ماه ها طول بکشد تا آنها را در برنامه های خود قرار دهند.",
+      "summary_fa": "خطوط هوایی در نهایت می توانند پرواز مسافران را به زودی پس از تایید هواپیما آغاز کنند، اما ممکن است ماه ها طول بکشد تا آنها را در برنامه های خود قرار دهند.",
+      "summary_en": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
+      "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 17:19:27 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0985271375d87328f6f93b73c40e3b0f",
+      "title": "میشیگان دو مرگ اول را در شیوع سیکلوسپورا تایید کرد",
+      "title_fa": "میشیگان دو مرگ اول را در شیوع سیکلوسپورا تایید کرد",
+      "title_en": "Michigan confirms first two deaths in cyclospora outbreak",
+      "summary": "وزارت بهداشت میشیگان گفت که هر دوی این افراد دارای بیماری های زمینه ای بودند.",
+      "summary_fa": "وزارت بهداشت میشیگان گفت که هر دوی این افراد دارای بیماری های زمینه ای بودند.",
+      "summary_en": "The Michigan Health Department said that both individuals had underlying health conditions.",
+      "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 17:18:06 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ac39d3812c1da4d13f9c4f10b2a6b91",
+      "title": "تحولات نظامی زلنسکی همچنان ادامه دارد - اما فدوروف بیرون است",
+      "title_fa": "تحولات نظامی زلنسکی همچنان ادامه دارد - اما فدوروف بیرون است",
+      "title_en": "Zelenskyy’s military shake‑up continues – but Fedorov remains out",
+      "summary": "رئیس جمهور اوکراین یکی از مذاکره کنندگان کلیدی توافق صلح کیف را به عنوان رئیس جدید سرویس اطلاعات خارجی منصوب کرد، اما بحران سیاسی ناشی از برکناری میخائیلو فدوروف همچنان ادامه دارد.",
+      "summary_fa": "رئیس جمهور اوکراین یکی از مذاکره کنندگان کلیدی توافق صلح کیف را به عنوان رئیس جدید سرویس اطلاعات خارجی منصوب کرد، اما بحران سیاسی ناشی از برکناری میخائیلو فدوروف همچنان ادامه دارد.",
+      "summary_en": "The Ukrainian president has appointed one of Kyiv’s key peace deal negotiators as the new head of the Foreign Intelligence Service, but the political crisis triggered by the dismissal of Mykhailo Fedorov is still ongoing.",
+      "link": "http://www.euronews.com/my-europe/2026/08/03/zelenskyys-military-shakeup-continues-but-fedorov-remains-out",
+      "source": "EuroNews",
+      "published_at": "Mon, 03 Aug 2026 17:15:08 +0200",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "کی‌یف"
+      }
+    },
+    {
+      "id": "7543aa0212cf1337e547d9f30e103f60",
+      "title": "سهام اسپیس ایکس نسبت به بالاترین میزان خود نزدیک به 50 درصد کاهش یافته است. چرا هنوز یک معامله نیست.",
+      "title_fa": "سهام اسپیس ایکس نسبت به بالاترین میزان خود نزدیک به 50 درصد کاهش یافته است. چرا هنوز یک معامله نیست.",
+      "title_en": "SpaceX’s stock is down nearly 50% from its high. Why it’s still not a bargain.",
+      "summary": "به دنبال افزایش سهام SpaceX نباشید، حتی اگر درآمد عالی باشد، زیرا موجی از سهام برای فروش در دسترس خواهد بود.",
+      "summary_fa": "به دنبال افزایش سهام SpaceX نباشید، حتی اگر درآمد عالی باشد، زیرا موجی از سهام برای فروش در دسترس خواهد بود.",
+      "summary_en": "Don’t chase a SpaceX stock rally even if earnings are excellent, as a wave of shares will become available for sale.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 03 Aug 2026 17:05:00 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-37103054",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f95f8903a0f5fe5e68867071dacd1150",
+      "title": "میلیونرهای بیشتری از فناوری از وجوه توصیه شده توسط اهداکنندگان برای پس انداز و اعطای مالیات استفاده می کنند",
+      "title_fa": "میلیونرهای بیشتری از فناوری از وجوه توصیه شده توسط اهداکنندگان برای پس انداز و اعطای مالیات استفاده می کنند",
+      "title_en": "More tech millionaires are using donor-advised funds for tax savings and giving",
+      "summary": "DAF ها در حال افزایش محبوبیت هستند زیرا شرکت های خصوصی مانند Anthropic و OpenAI ارزش خود را افزایش می دهند و شرکت های بیشتری برای مدت طولانی تری خصوصی می مانند.",
+      "summary_fa": "DAF ها در حال افزایش محبوبیت هستند زیرا شرکت های خصوصی مانند Anthropic و OpenAI ارزش خود را افزایش می دهند و شرکت های بیشتری برای مدت طولانی تری خصوصی می مانند.",
+      "summary_en": "DAFs are gaining in popularity as private firms like Anthropic and OpenAI skyrocket in value and more companies stay private for longer.",
+      "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 17:04:57 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4600eee5ea84bf0be9c22a43b8b49177",
       "title": "بحران هسته‌ای مجارستان، رهبری نخست‌وزیر جدید مجار را آزمایش می‌کند",
       "title_fa": "بحران هسته‌ای مجارستان، رهبری نخست‌وزیر جدید مجار را آزمایش می‌کند",
@@ -82431,6 +82641,90 @@
       }
     },
     {
+      "id": "cb933a3bd04bfc447f1848b9b4af8e8f",
+      "title": "کاخ سفید روز سه‌شنبه میزبان شرکت‌های هوش مصنوعی برای بررسی چارچوب جدید آزمایش مدل است",
+      "title_fa": "کاخ سفید روز سه‌شنبه میزبان شرکت‌های هوش مصنوعی برای بررسی چارچوب جدید آزمایش مدل است",
+      "title_en": "White House to host AI companies Tuesday to review new model-testing framework",
+      "summary": "فرمان اجرایی رئیس جمهور دونالد ترامپ در ژوئن به مقامات دستور داد تا فرآیندی را برای ارزیابی قابلیت های امنیت سایبری مدل های پیشرفته هوش مصنوعی توسعه دهند.",
+      "summary_fa": "فرمان اجرایی رئیس جمهور دونالد ترامپ در ژوئن به مقامات دستور داد تا فرآیندی را برای ارزیابی قابلیت های امنیت سایبری مدل های پیشرفته هوش مصنوعی توسعه دهند.",
+      "summary_en": "President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.",
+      "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:56:52 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4510545201558f2a305cf37fb6a8fea7",
+      "title": "تجار کلشی انتظار توافق هسته ای آمریکا و ایران را به زودی ندارند",
+      "title_fa": "تجار کلشی انتظار توافق هسته ای آمریکا و ایران را به زودی ندارند",
+      "title_en": "Kalshi traders are not expecting a U.S. and Iran nuclear deal soon",
+      "summary": "تا اوایل صبح یکشنبه، تاجران کالشی احتمال 29 درصد توافق هسته ای بین ایالات متحده و ایران را قبل از ژانویه 2027 مشاهده کردند.",
+      "summary_fa": "تا اوایل صبح یکشنبه، تاجران کالشی احتمال 29 درصد توافق هسته ای بین ایالات متحده و ایران را قبل از ژانویه 2027 مشاهده کردند.",
+      "summary_en": "As of early Sunday morning, Kalshi traders saw a 29% likelihood of a nuclear deal between the U.S. and Iran before January 2027.",
+      "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-are-not-expecting-a-us-and-iran-nuclear-deal-soon.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:51:19 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "78d7e68f99ac7dff23e133e147d6ce07",
+      "title": "این است که چرا یک خرس استارباکس آهنگ خود را تغییر داد و سهام را ارتقا داد",
+      "title_fa": "این است که چرا یک خرس استارباکس آهنگ خود را تغییر داد و سهام را ارتقا داد",
+      "title_en": "Here's why a Starbucks bear changed his tune and upgraded the stock",
+      "summary": "تحلیلگری که نسبت به غول قهوه بدبین بوده است اذعان می کند که چرخش مدیرعامل برایان نیکول کارساز بوده و تز صعودی ما را در مورد زنجیره قهوه تقویت می کند.",
+      "summary_fa": "تحلیلگری که نسبت به غول قهوه بدبین بوده است اذعان می کند که چرخش مدیرعامل برایان نیکول کارساز بوده و تز صعودی ما را در مورد زنجیره قهوه تقویت می کند.",
+      "summary_en": "An analyst who has been skeptical of the coffee giant acknowledges that CEO Brian Niccol's turnaround is working, reinforcing our bullish thesis on the coffee chain.",
+      "link": "https://www.cnbc.com/2026/08/03/heres-why-a-starbucks-bear-changed-his-tune-and-upgraded-the-stock.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:50:41 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ed15dfc2360e237c8e4540f2dc3dea2",
+      "title": "ترامپ اصرار دارد که مذاکرات ایران با وجود تکذیب‌های «دوگانه» تهران در جریان است",
+      "title_fa": "ترامپ اصرار دارد که مذاکرات ایران با وجود تکذیب‌های «دوگانه» تهران در جریان است",
+      "title_en": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+      "summary": "ترامپ در Truth Social رهبران ایران را به دروغ گویی در مورد مذاکرات صلح متهم کرد که به گفته او \"خواه ایران بخواهد یا نه آن را بپذیرد\" در حال انجام است.",
+      "summary_fa": "ترامپ در Truth Social رهبران ایران را به دروغ گویی در مورد مذاکرات صلح متهم کرد که به گفته او \"خواه ایران بخواهد یا نه آن را بپذیرد\" در حال انجام است.",
+      "summary_en": "Trump on Truth Social accused Iran's leaders of lying about peace talks, which he said are underway \"whether Iran wants to admit it or not.\"",
+      "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:39:37 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "31916292d56c47144b650659dff22d8b",
       "title": "سطح پایین بی سابقه دانوب، دولت های اروپای مرکزی را وادار به اقدامات اضطراری می کند",
       "title_fa": "سطح پایین بی سابقه دانوب، دولت های اروپای مرکزی را وادار به اقدامات اضطراری می کند",
@@ -82452,6 +82746,174 @@
       }
     },
     {
+      "id": "4564910ff4eabeec04d81ddcd92ce0bf",
+      "title": "ابهام در ذهن ایرانیان به دلیل نوسانات ترامپ در مورد جنگ و گفتگو",
+      "title_fa": "ابهام در ذهن ایرانیان به دلیل نوسانات ترامپ در مورد جنگ و گفتگو",
+      "title_en": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+      "summary": "ایرانیان در میان اظهار نظرهای دوباره و دوباره رئیس جمهور آمریکا در مورد مناقشه و مذاکرات تحت فشار هستند.",
+      "summary_fa": "ایرانیان در میان اظهار نظرهای دوباره و دوباره رئیس جمهور آمریکا در مورد مناقشه و مذاکرات تحت فشار هستند.",
+      "summary_en": "Iranians feeling pressure amid US president's on-again, off-again comments on conflict and negotiations.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 16:33:08 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "98d6a6d60ae3eb58ef013e158e5ad12f",
+      "title": "AMD دو موتور بزرگ دارد که در حال افزایش درآمد هستند",
+      "title_fa": "AMD دو موتور بزرگ دارد که در حال افزایش درآمد هستند",
+      "title_en": "AMD has two big engines roaring as it heads into earnings",
+      "summary": "AMD با تقاضای سرور قوی تقویت شده است. اکنون تحلیلگران به دنبال افزایش سطح شیب دار عرضه جدید در مقیاس رک هستند.",
+      "summary_fa": "AMD با تقاضای سرور قوی تقویت شده است. اکنون تحلیلگران به دنبال افزایش سطح شیب دار عرضه جدید در مقیاس رک هستند.",
+      "summary_en": "AMD has been boosted by robust server demand. Now analysts are looking ahead to the ramp of its new rack-scale offering.",
+      "link": "https://www.marketwatch.com/story/amd-has-two-big-engines-roaring-as-it-heads-into-earnings-28b20033?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 03 Aug 2026 16:31:00 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-57006692",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f25218906ba8249d7e0dc61c7d54881c",
+      "title": "تظاهرات در داخل فلسطین اقدام",
+      "title_fa": "تظاهرات در داخل فلسطین اقدام",
+      "title_en": "Inside the Palestine Action protests",
+      "summary": "پس از اینکه بریتانیا اقدام فلسطین را به عنوان یک سازمان تروریستی ممنوع کرد، هزاران نفر دستگیر یا مورد تحقیق قرار گرفتند.",
+      "summary_fa": "پس از اینکه بریتانیا اقدام فلسطین را به عنوان یک سازمان تروریستی ممنوع کرد، هزاران نفر دستگیر یا مورد تحقیق قرار گرفتند.",
+      "summary_en": "After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 16:30:56 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "c3c3e7016dc799a1684eb9f2432ad7de",
+      "title": "مدیر اجرایی Hugging Face می گوید چین در حال برنده شدن در مسابقه هوش مصنوعی و تسلط بر مدل های باز است",
+      "title_fa": "مدیر اجرایی Hugging Face می گوید چین در حال برنده شدن در مسابقه هوش مصنوعی و تسلط بر مدل های باز است",
+      "title_en": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+      "summary": "کلمان دلانگو، مدیرعامل Hugging Face گفت که مدل‌های هوش مصنوعی چینی می‌توانند به زودی در سال جاری میلادی به ایالات متحده برسند.",
+      "summary_fa": "کلمان دلانگو، مدیرعامل Hugging Face گفت که مدل‌های هوش مصنوعی چینی می‌توانند به زودی در سال جاری میلادی به ایالات متحده برسند.",
+      "summary_en": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
+      "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:30:54 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "621029e3c267f10d40db51227263eddf",
+      "title": "راین به دلیل خشکسالی که رودخانه های اروپا را تحت فشار قرار داده است به سطح پایینی می رسد",
+      "title_fa": "راین به دلیل خشکسالی که رودخانه های اروپا را تحت فشار قرار داده است به سطح پایینی می رسد",
+      "title_en": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "summary": "سطح پایین آب در راین، دانوب و پو باعث کاهش حمل و نقل کالا و کاهش تولید برق شده است.",
+      "summary_fa": "سطح پایین آب در راین، دانوب و پو باعث کاهش حمل و نقل کالا و کاهش تولید برق شده است.",
+      "summary_en": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 16:27:43 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0473/live/63c04990-8f39-11f1-973f-390a1966f1f1.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a73fdb62631eed4f3ff8d34ee5aac385",
+      "title": "فون در لاین می گوید که پس از بحران سئوتا به مرزهای قوی تر اتحادیه اروپا نیاز است",
+      "title_fa": "فون در لاین می گوید که پس از بحران سئوتا به مرزهای قوی تر اتحادیه اروپا نیاز است",
+      "title_en": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "summary": "رئیس کمیسیون اروپا می گوید در پنج حوزه کنترل مهاجرت از جمله بازگرداندن افراد بیشتر کار لازم است. برای تقویت بیشتر مرزهای خود در نقاط حساس، از جمله نظارت دقیق و استفاده از موانع فیزیکی در صورت لزوم.» ادامه مطلب...",
+      "summary_fa": "رئیس کمیسیون اروپا می گوید در پنج حوزه کنترل مهاجرت از جمله بازگرداندن افراد بیشتر کار لازم است. برای تقویت بیشتر مرزهای خود در نقاط حساس، از جمله نظارت دقیق و استفاده از موانع فیزیکی در صورت لزوم.» ادامه مطلب...",
+      "summary_en": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of people arrived and quickly left the Spanish territory of Ceuta, triggering a furious row between Madrid and other European countries.In a letter to Spain’s prime minister, Pedro Sánchez, on Monday, Ursula von der Leyen said: “From this incident, it is clear that we must do more to further strengthen our borders at critical points, including vigilant monitoring and the use of physical barriers where needed.” Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 16:26:45 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ffe8c7fb36d8604cd716cfc0a9f080fe4f933c2f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=41b3732920e097ef3f71f9453b0dbed0",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "593899485905d1d10322fef5da2b0fe5",
+      "title": "سرمایه گذاران AstraZeneca در مورد مذاکرات ادغام بزرگ ابراز نگرانی می کنند",
+      "title_fa": "سرمایه گذاران AstraZeneca در مورد مذاکرات ادغام بزرگ ابراز نگرانی می کنند",
+      "title_en": "AstraZeneca investors raise concerns over mega-merger talks",
+      "summary": "سهامداران خطرات احتمالی ثبت اختراع و خطرات ضد انحصار را در پیوند بالقوه 400 میلیارد دلاری با بریستول مایرز اسکوئیب زیر سوال می برند.",
+      "summary_fa": "سهامداران خطرات احتمالی ثبت اختراع و خطرات ضد انحصار را در پیوند بالقوه 400 میلیارد دلاری با بریستول مایرز اسکوئیب زیر سوال می برند.",
+      "summary_en": "Shareholders question looming patent cliff and antitrust risks in potential $400bn tie-up with Bristol Myers Squibb",
+      "link": "https://www.ft.com/content/6d40c74b-ac40-42f1-9387-957925f48daa?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 03 Aug 2026 16:24:25 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F232762e7-eaba-466d-a3ea-0bc978482cb5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "158d08522f045b7f21374c481b4cec1c",
+      "title": "به نظر می رسد سنا آماده است تا تاد بلانچ را برای دادستانی کل پس از توافق کورنین معرفی کند",
+      "title_fa": "به نظر می رسد سنا آماده است تا تاد بلانچ را برای دادستانی کل پس از توافق کورنین معرفی کند",
+      "title_en": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
+      "summary": "وکلای دونالد ترامپ، رئیس‌جمهور آمریکا به مبارزه در دادگاه علیه حکم قضایی که می‌گوید توافق حل و فصل از نظر قانونی بی‌پایه است، ادامه می‌دهند.",
+      "summary_fa": "وکلای دونالد ترامپ، رئیس‌جمهور آمریکا به مبارزه در دادگاه علیه حکم قضایی که می‌گوید توافق حل و فصل از نظر قانونی بی‌پایه است، ادامه می‌دهند.",
+      "summary_en": "President Donald Trump's attorneys continue to fight in court against a judicial order that said the settlement deal is legally baseless.",
+      "link": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 16:21:44 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "50b4a0a625069b7b979e2c45256a432f",
       "title": "قیمت خانه های دست دوم در اسپانیا 16.2 درصد در یک سال افزایش یافته است",
       "title_fa": "قیمت خانه های دست دوم در اسپانیا 16.2 درصد در یک سال افزایش یافته است",
@@ -82465,6 +82927,48 @@
       "date_iso": "2026-08-03",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a6d55efba8d1916c8b8905878d4814e4",
+      "title": "رهبر اقلیم کردستان عراق با رئیس جمهور سوریه در دمشق دیدار کرد",
+      "title_fa": "رهبر اقلیم کردستان عراق با رئیس جمهور سوریه در دمشق دیدار کرد",
+      "title_en": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+      "summary": "بارزانی با الشرع سوریه در دمشق دیدار کرد تا در مورد ادغام نیروهای دموکراتیک سوریه و حقوق کردها در سوریه پس از اسد گفتگو کند.",
+      "summary_fa": "بارزانی با الشرع سوریه در دمشق دیدار کرد تا در مورد ادغام نیروهای دموکراتیک سوریه و حقوق کردها در سوریه پس از اسد گفتگو کند.",
+      "summary_en": "Barzani meets Syria's al-Sharaa in Damascus to discuss SDF integration and Kurdish rights in post-Assad Syria.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 16:12:55 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a7b5bf809ae2f7dc084befdea42b75b",
+      "title": "جستجوهای خرید هوش مصنوعی در یک سال 200٪ افزایش یافت - و اکنون این یک اولویت اصلی برای رهبران تجارت است.",
+      "title_fa": "جستجوهای خرید هوش مصنوعی در یک سال 200٪ افزایش یافت - و اکنون این یک اولویت اصلی برای رهبران تجارت است.",
+      "title_en": "AI shopping searches surged 200% in one year - and it's a top priority for commerce leaders now",
+      "summary": "هشتاد و شش درصد از رهبران بازرگانی معتقدند هوش مصنوعی سطح انتظارات مشتریان را بالا می برد.",
+      "summary_fa": "هشتاد و شش درصد از رهبران بازرگانی معتقدند هوش مصنوعی سطح انتظارات مشتریان را بالا می برد.",
+      "summary_en": "Eighty-six percent of commerce leaders believe AI is raising the bar for customer expectations.",
+      "link": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
+      "source": "ZDNet",
+      "published_at": "Mon, 03 Aug 2026 16:12:16 GMT",
+      "date_iso": "2026-08-03",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -82494,6 +82998,48 @@
       }
     },
     {
+      "id": "68aea8abc0ecee1260246950a2f1098c",
+      "title": "فولکس واگن جتا اسپرت 2026: خودروی ارزان قیمت هنوز به طور کامل منقرض نشده است",
+      "title_fa": "فولکس واگن جتا اسپرت 2026: خودروی ارزان قیمت هنوز به طور کامل منقرض نشده است",
+      "title_en": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "summary": "با 25305 دلار، خودروهای جدید زیادی را با قیمت کمتر پیدا نخواهید کرد. اما شما همان چیزی را می گیرید که برای آن پول می دهید.",
+      "summary_fa": "با 25305 دلار، خودروهای جدید زیادی را با قیمت کمتر پیدا نخواهید کرد. اما شما همان چیزی را می گیرید که برای آن پول می دهید.",
+      "summary_en": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+      "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 03 Aug 2026 16:10:22 +0000",
+      "date_iso": "2026-08-03",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "88de19dd66bc1c2149c30391d8d7f3ff",
+      "title": "مردی به دلیل پنهان کردن جسد مادرش در فریزر پس از مرگش زندانی شد",
+      "title_fa": "مردی به دلیل پنهان کردن جسد مادرش در فریزر پس از مرگش زندانی شد",
+      "title_en": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
+      "summary": "کریستوفر فیلیپس، 60 ساله، پس از اینکه پلیس جسد مادرش را در فریزر در خانه اش پیدا کرد، به چندین جنایت از جمله کلاهبرداری اعتراف کرد.",
+      "summary_fa": "کریستوفر فیلیپس، 60 ساله، پس از اینکه پلیس جسد مادرش را در فریزر در خانه اش پیدا کرد، به چندین جنایت از جمله کلاهبرداری اعتراف کرد.",
+      "summary_en": "Christopher Phillips, 60, pleaded guilty to several crimes, including fraud, after the police found his mother’s body in a freezer in his home.",
+      "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+      "source": "NY Times",
+      "published_at": "Mon, 03 Aug 2026 16:07:57 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "27fde4cdc973b0deef78ef4c94cff825",
       "title": "ایتالیا مراکز مهاجرتی مشابه آلبانی را در سطح اتحادیه اروپا پیشنهاد می کند",
       "title_fa": "ایتالیا مراکز مهاجرتی مشابه آلبانی را در سطح اتحادیه اروپا پیشنهاد می کند",
@@ -82507,6 +83053,48 @@
       "date_iso": "2026-08-03",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f823e2e73ad8d8ca66b8fbf22cd0c7c1",
+      "title": "چگونه بحران مهاجران سئوتا اختلافات در اروپا را آشکار می کند - آخرین",
+      "title_fa": "چگونه بحران مهاجران سئوتا اختلافات در اروپا را آشکار می کند - آخرین",
+      "title_en": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "summary": "پس از آنکه هفته گذشته حدود 50000 نفر از مراکش عبور کردند، ده‌ها نفر در تلاش برای رسیدن به قلمرو اسپانیایی سئوتا جان باختند. این حادثه منجر به یک بحران سیاسی در اسپانیا و انتقاد کشورهای اتحادیه اروپا شده است. لوسی هاف با خبرنگار امور جامعه اروپایی گاردین، عشیفه کسام صحبت می کند - در یوتیوب تماشا کنید ادامه مطلب...",
+      "summary_fa": "پس از آنکه هفته گذشته حدود 50000 نفر از مراکش عبور کردند، ده‌ها نفر در تلاش برای رسیدن به قلمرو اسپانیایی سئوتا جان باختند. این حادثه منجر به یک بحران سیاسی در اسپانیا و انتقاد کشورهای اتحادیه اروپا شده است. لوسی هاف با خبرنگار امور جامعه اروپایی گاردین، عشیفه کسام صحبت می کند - در یوتیوب تماشا کنید ادامه مطلب...",
+      "summary_en": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – watch on YouTube Continue reading...",
+      "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 16:05:20 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/64b7d9cf3b917d2f8753485f587edab1fc229604/210_0_3444_2756/master/3444.jpg?width=140&quality=85&auto=format&fit=max&s=1b1dda6f0e8c14099a57437c074af302",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9398d242cd73535dda9dfa8e5a4fdae2",
+      "title": "انفجار نیروی دریایی رومانی در بستر رودخانه برای حفاظت از نیروگاه هسته ای",
+      "title_fa": "انفجار نیروی دریایی رومانی در بستر رودخانه برای حفاظت از نیروگاه هسته ای",
+      "title_en": "Romanian navy blasts riverbed to protect nuclear plant",
+      "summary": "ارتش رومانی بخشی از بستر رودخانه دانوب را منفجر کرد تا آب را به سمت نیروگاه هسته ای سرناودا هدایت کند.",
+      "summary_fa": "ارتش رومانی بخشی از بستر رودخانه دانوب را منفجر کرد تا آب را به سمت نیروگاه هسته ای سرناودا هدایت کند.",
+      "summary_en": "Romania's military detonated part of the Danube riverbed to redirect water towards the Cernavoda Nuclear Power Plant.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 16:01:43 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -82533,6 +83121,174 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a154ab939009776f59dea49b4e386e6f",
+      "title": "معامله گران Kalshi فکر می کنند که گزارش مشاغل جولای کمی سردتر از پیش بینی اقتصاددانان خواهد بود",
+      "title_fa": "معامله گران Kalshi فکر می کنند که گزارش مشاغل جولای کمی سردتر از پیش بینی اقتصاددانان خواهد بود",
+      "title_en": "Kalshi traders think July jobs report will come in slightly cooler than economists’ predictions",
+      "summary": "سفته بازان در این پلتفرم کمتر از 50-50 شانس دارند که کارفرمایان بیش از 80000 شغل در ماه جولای ایجاد کنند.",
+      "summary_fa": "سفته بازان در این پلتفرم کمتر از 50-50 شانس دارند که کارفرمایان بیش از 80000 شغل در ماه جولای ایجاد کنند.",
+      "summary_en": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
+      "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 15:59:04 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6f1f532f857b5ec10a99e42de168904",
+      "title": "تحلیلگران می گویند که تهدید نفتکش ها در خاورمیانه بدترین تهدید از زمان آغاز جنگ ایران است",
+      "title_fa": "تحلیلگران می گویند که تهدید نفتکش ها در خاورمیانه بدترین تهدید از زمان آغاز جنگ ایران است",
+      "title_en": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "summary": "به گفته تحلیلگران، حملات جدید به مسیرهای کشتیرانی جایگزین، تانکرها را با وضعیت پیچیده‌تری مواجه کرده است.",
+      "summary_fa": "به گفته تحلیلگران، حملات جدید به مسیرهای کشتیرانی جایگزین، تانکرها را با وضعیت پیچیده‌تری مواجه کرده است.",
+      "summary_en": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 15:57:27 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "2163597311f87cf0894422704b436bf5",
+      "title": "دادگاه هند، رئیس سابق کشتی را در پرونده آزار جنسی تبرئه کرد",
+      "title_fa": "دادگاه هند، رئیس سابق کشتی را در پرونده آزار جنسی تبرئه کرد",
+      "title_en": "Indian court acquits ex-wrestling chief in sexual harassment case",
+      "summary": "کشتی گیران زن برتر متعهد شدند که پس از تبرئه جنجالی درخواست تجدید نظر کنند.",
+      "summary_fa": "کشتی گیران زن برتر متعهد شدند که پس از تبرئه جنجالی درخواست تجدید نظر کنند.",
+      "summary_en": "Top female wrestlers vow to appeal following the controversial acquittal.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 15:56:01 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e97b0e7595b8cd7529915a69d8a09aaf",
+      "title": "این ابزار رایگان لینوکس بررسی باتری رایانه شخصی و استفاده از دیسک را آسان می کند - در اینجا نحوه استفاده از آن آورده شده است",
+      "title_fa": "این ابزار رایگان لینوکس بررسی باتری رایانه شخصی و استفاده از دیسک را آسان می کند - در اینجا نحوه استفاده از آن آورده شده است",
+      "title_en": "This free Linux tool makes it easy to check your PC battery and disk usage - here's how",
+      "summary": "مانیتور سیستم Mission Center برای لینوکس برخی از ویژگی‌های جدید را اضافه می‌کند که برای کاربران گسترده‌تر، به‌ویژه کسانی که لپ‌تاپ دارند، جذاب خواهد بود.",
+      "summary_fa": "مانیتور سیستم Mission Center برای لینوکس برخی از ویژگی‌های جدید را اضافه می‌کند که برای کاربران گسترده‌تر، به‌ویژه کسانی که لپ‌تاپ دارند، جذاب خواهد بود.",
+      "summary_en": "The Mission Center system monitor for Linux adds some new features that will appeal to a broader user base, especially those with laptops.",
+      "link": "https://www.zdnet.com/article/mission-center-makes-it-even-easier-for-you-to-check-battery-and-disk-usage/",
+      "source": "ZDNet",
+      "published_at": "Mon, 03 Aug 2026 15:53:44 GMT",
+      "date_iso": "2026-08-03",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "8f6ecd7a356b24f9703e4b2ed6e68381",
+      "title": "UBS به دلیل ضعف در کنترل پولشویی 125 میلیون دلار جریمه شد",
+      "title_fa": "UBS به دلیل ضعف در کنترل پولشویی 125 میلیون دلار جریمه شد",
+      "title_en": "UBS fined $125mn over lax money laundering controls",
+      "summary": "بانک سوئیسی علیرغم تحریم های قبلی تنظیم کننده های ایالات متحده نتوانست محدودیت های کافی را اعمال کند",
+      "summary_fa": "بانک سوئیسی علیرغم تحریم های قبلی تنظیم کننده های ایالات متحده نتوانست محدودیت های کافی را اعمال کند",
+      "summary_en": "Swiss bank failed to implement adequate curbs despite previous sanction by US regulators",
+      "link": "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 03 Aug 2026 15:53:15 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1f803c7a-2dde-4257-8003-88eebd88cd6c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd855cc1471d8a7e44e38aa1515f2014",
+      "title": "با ادامه افزایش سهام پس از درآمد، ارزش بازار آمازون به 3 تریلیون دلار رسید",
+      "title_fa": "با ادامه افزایش سهام پس از درآمد، ارزش بازار آمازون به 3 تریلیون دلار رسید",
+      "title_en": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+      "summary": "سهام آمازون روز دوشنبه به بالاترین حد خود رسید و ارزش بازار آن را به بیش از 3 تریلیون دلار رساند.",
+      "summary_fa": "سهام آمازون روز دوشنبه به بالاترین حد خود رسید و ارزش بازار آن را به بیش از 3 تریلیون دلار رساند.",
+      "summary_en": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+      "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 15:50:20 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7e490ae2babbd00944d351f7e51859b",
+      "title": "سیاستمدار ضد جنگ در بحبوحه سرکوب مخالفان قبل از انتخابات از روسیه می گریزد",
+      "title_fa": "سیاستمدار ضد جنگ در بحبوحه سرکوب مخالفان قبل از انتخابات از روسیه می گریزد",
+      "title_en": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
+      "summary": "بوریس نادژدین، که پس از ایستادگی در برابر پوتین در سال 2024 به شهرت رسید، می‌گوید اکنون در فرانسه است. بوریس نادژدین، سیاستمدار برجسته ضد جنگ روسی، در حالی که مسکو کنترل خود را بر مخالفان قبل از انتخابات پارلمانی در اواخر سال جاری سخت‌تر می‌کند، به پاریس گریخته است. نادژدین، یک سیاستمدار لیبرال کهنه‌کار، زمانی که در انتخابات ریاست‌جمهوری ولادیمیر پوتین در انتخابات طولانی‌مدت روسیه، شهرت بین‌المللی پیدا کرد. قبل از اینکه مقامات انتخاباتی او را از نامزدی منع کنند، به طور غیرمنتظره ای شتاب زیادی پیدا کرد. ادامه مطلب...",
+      "summary_fa": "بوریس نادژدین، که پس از ایستادگی در برابر پوتین در سال 2024 به شهرت رسید، می‌گوید اکنون در فرانسه است. بوریس نادژدین، سیاستمدار برجسته ضد جنگ روسی، در حالی که مسکو کنترل خود را بر مخالفان قبل از انتخابات پارلمانی در اواخر سال جاری سخت‌تر می‌کند، به پاریس گریخته است. نادژدین، یک سیاستمدار لیبرال کهنه‌کار، زمانی که در انتخابات ریاست‌جمهوری ولادیمیر پوتین در انتخابات طولانی‌مدت روسیه، شهرت بین‌المللی پیدا کرد. قبل از اینکه مقامات انتخاباتی او را از نامزدی منع کنند، به طور غیرمنتظره ای شتاب زیادی پیدا کرد. ادامه مطلب...",
+      "summary_en": "Boris Nadezhdin, who gained prominence after standing against Putin in 2024, says he is now in FranceThe prominent Russian anti-war politician Boris Nadezhdin has fled to Paris as Moscow tightens its grip on dissent before parliamentary elections later this year.Nadezhdin, a veteran liberal politician, gained international prominence during Russia’s 2024 presidential election when his long-shot campaign against Vladimir Putin unexpectedly gathered momentum before electoral authorities barred him from running. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 15:49:50 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f04b05e7dee95803bcb68627f7c72550d9925bcc/136_0_3608_2885/master/3608.jpg?width=140&quality=85&auto=format&fit=max&s=bc6e9cbb16356a4234f9d69c869b2187",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "39a2b8c1e389411f7ad0036a33bfb90b",
+      "title": "پس از توقف حمله ترامپ به ایران، قیمت نفت کاهش یافت",
+      "title_fa": "پس از توقف حمله ترامپ به ایران، قیمت نفت کاهش یافت",
+      "title_en": "Oil prices tumble after Trump calls off attack on Iran",
+      "summary": "پس از اینکه دونالد ترامپ، رئیس جمهور آمریکا اعلام کرد که حمله برنامه ریزی شده به ایران را لغو کرده است، قیمت نفت روز دوشنبه کاهش یافت، زیرا سرمایه گذاران ریسک های ژئوپلیتیکی را کاهش دادند.",
+      "summary_fa": "پس از اینکه دونالد ترامپ، رئیس جمهور آمریکا اعلام کرد که حمله برنامه ریزی شده به ایران را لغو کرده است، قیمت نفت روز دوشنبه کاهش یافت، زیرا سرمایه گذاران ریسک های ژئوپلیتیکی را کاهش دادند.",
+      "summary_en": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+      "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 15:47:24 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -82578,6 +83334,48 @@
       }
     },
     {
+      "id": "9ce9396164f96c4483ef618a15d963a9",
+      "title": "چگونه اسرائیل و راست افراطی اروپایی سعی کردند از سیتا بهره برداری کنند",
+      "title_fa": "چگونه اسرائیل و راست افراطی اروپایی سعی کردند از سیتا بهره برداری کنند",
+      "title_en": "How Israel and the European far right tried to exploit Ceuta",
+      "summary": "روایتی قوی در حال ظهور است که مهاجرت را به یهودستیزی مرتبط می کند تا تلاشی برای تضعیف همبستگی طرفدار فلسطینی ها انجام شود.",
+      "summary_fa": "روایتی قوی در حال ظهور است که مهاجرت را به یهودستیزی مرتبط می کند تا تلاشی برای تضعیف همبستگی طرفدار فلسطینی ها انجام شود.",
+      "summary_en": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 15:41:20 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "e638805173328b31d4553a4c6e8d41d8",
+      "title": "سیاستمدار ضد جنگ روسی می گوید که از کشور گریخته است",
+      "title_fa": "سیاستمدار ضد جنگ روسی می گوید که از کشور گریخته است",
+      "title_en": "Russian anti-war politician says he has fled the country",
+      "summary": "بوریس نادژدین که اخیرا به عنوان مامور خارجی معرفی شده بود، ویدئویی را در مقابل برج ایفل منتشر کرد.",
+      "summary_fa": "بوریس نادژدین که اخیرا به عنوان مامور خارجی معرفی شده بود، ویدئویی را در مقابل برج ایفل منتشر کرد.",
+      "summary_en": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 03 Aug 2026 15:41:08 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1724/live/16c1cbe0-8f49-11f1-9c3d-5b64c79e1429.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "2bcaf619f2d29ff1c5d01776a9dbace3",
       "title": "آتش سوزی گلوله های منفجر نشده جنگ جهانی دوم را در فرانسه کشف کرد",
       "title_fa": "آتش سوزی گلوله های منفجر نشده جنگ جهانی دوم را در فرانسه کشف کرد",
@@ -82620,6 +83418,111 @@
       }
     },
     {
+      "id": "164ea5654ba341de45484eb64c3ae12a",
+      "title": "قیمت گازوئیل کالیفرنیا از زمان شروع جنگ ایران با اثرات موجی در سراسر کشور افزایش یافته است",
+      "title_fa": "قیمت گازوئیل کالیفرنیا از زمان شروع جنگ ایران با اثرات موجی در سراسر کشور افزایش یافته است",
+      "title_en": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+      "summary": "کالیفرنیا دارای بالاترین قیمت گاز در کشور و همچنین شلوغ ترین بندر کانتینری است، به این معنی که مصرف کنندگان در سراسر کشور می توانند تاثیر گازوئیل بالاتر را احساس کنند.",
+      "summary_fa": "کالیفرنیا دارای بالاترین قیمت گاز در کشور و همچنین شلوغ ترین بندر کانتینری است، به این معنی که مصرف کنندگان در سراسر کشور می توانند تاثیر گازوئیل بالاتر را احساس کنند.",
+      "summary_en": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+      "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+      "source": "CNBC",
+      "published_at": "Mon, 03 Aug 2026 15:27:52 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "fdc4b422ae2669cd0ed53962a593c88c",
+      "title": "مطالعه نشان می دهد که ممنوعیت رسانه های اجتماعی زیر 16 سال استرالیا شکست خورده است: معنی آن چیست؟",
+      "title_fa": "مطالعه نشان می دهد که ممنوعیت رسانه های اجتماعی زیر 16 سال استرالیا شکست خورده است: معنی آن چیست؟",
+      "title_en": "Australia’s under-16 social media ban failing, study shows: What it means",
+      "summary": "رگولاتور اینترنت استرالیا در یک مطالعه اخیر فاش کرد که نوجوانان با وجود ممنوعیت به استفاده از رسانه های اجتماعی ادامه می دهند.",
+      "summary_fa": "رگولاتور اینترنت استرالیا در یک مطالعه اخیر فاش کرد که نوجوانان با وجود ممنوعیت به استفاده از رسانه های اجتماعی ادامه می دهند.",
+      "summary_en": "Australia's internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 15:21:55 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "886f5416cd1cb303ddcdc99b46005826",
+      "title": "نائورو، جزیره ای کوچک در جنوب اقیانوس آرام، نام خود را به نائورو تغییر داد",
+      "title_fa": "نائورو، جزیره ای کوچک در جنوب اقیانوس آرام، نام خود را به نائورو تغییر داد",
+      "title_en": "Nauru, a Small Island in South Pacific, Changes Its Name to Naoero",
+      "summary": "جزیره‌ای در جنوب اقیانوس آرام که قبلاً نائورو نامیده می‌شد، می‌خواهد نامش با نحوه بیان آن در زبان مردمش مطابقت داشته باشد.",
+      "summary_fa": "جزیره‌ای در جنوب اقیانوس آرام که قبلاً نائورو نامیده می‌شد، می‌خواهد نامش با نحوه بیان آن در زبان مردمش مطابقت داشته باشد.",
+      "summary_en": "Formerly called Nauru, the island in the South Pacific wants its name to more closely match how it is said in the language spoken by its people.",
+      "link": "https://www.nytimes.com/2026/08/03/world/naoero-nauru-name-change.html",
+      "source": "NY Times",
+      "published_at": "Mon, 03 Aug 2026 15:20:17 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03xp-naoero2/03xp-naoero2-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "84873f614de0fd8406ef40ae3fa00fc9",
+      "title": "چرا ایالات متحده تصمیم گرفت با تقویت ین در حال سقوط به ژاپن کمک کند؟",
+      "title_fa": "چرا ایالات متحده تصمیم گرفت با تقویت ین در حال سقوط به ژاپن کمک کند؟",
+      "title_en": "Why the U.S. decided to help Japan by boosting the flailing yen",
+      "summary": "به گفته وزارت دارایی ژاپن که روز دوشنبه در بیانیه ای این اقدام را تایید کرد، وزارت خزانه داری ایالات متحده و فدرال رزرو با همتایان ژاپنی خود برای اجرای یک مداخله مشترک تاریخی برای تقویت ین ژاپن متحد شده اند.",
+      "summary_fa": "به گفته وزارت دارایی ژاپن که روز دوشنبه در بیانیه ای این اقدام را تایید کرد، وزارت خزانه داری ایالات متحده و فدرال رزرو با همتایان ژاپنی خود برای اجرای یک مداخله مشترک تاریخی برای تقویت ین ژاپن متحد شده اند.",
+      "summary_en": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which confirmed the move in a statement on Monday.",
+      "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 03 Aug 2026 15:20:00 GMT",
+      "date_iso": "2026-08-03",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-90790662",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "4ad6918516b0ed24842fdb40492e682b",
+      "title": "پناهجویان تیگری پس از خشونت های مرگبار در مرز اتیوپی به سودان گریختند",
+      "title_fa": "پناهجویان تیگری پس از خشونت های مرگبار در مرز اتیوپی به سودان گریختند",
+      "title_en": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+      "summary": "ارتش اتیوپی متهم به حمله به نیروهای تیگری در شرینا در میان تشدید تنش ها در مرز سودان و اتیوپی است.",
+      "summary_fa": "ارتش اتیوپی متهم به حمله به نیروهای تیگری در شرینا در میان تشدید تنش ها در مرز سودان و اتیوپی است.",
+      "summary_en": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 15:19:32 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a50a563f76f2685bdae0d8cfd10055e9",
       "title": "دو دانشگاه بریتانیا با هم ادغام شدند و اولین \"ابر دانشگاه\" این کشور را تشکیل دادند.",
       "title_fa": "دو دانشگاه بریتانیا با هم ادغام شدند و اولین \"ابر دانشگاه\" این کشور را تشکیل دادند.",
@@ -82638,6 +83541,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "cd0887282b61995e09f9f2bae36fbe19",
+      "title": "دادستان پاریس در حال تحقیق درباره قلدری ادعایی در ادارات دولتی پس از اقدام به خودکشی است",
+      "title_fa": "دادستان پاریس در حال تحقیق درباره قلدری ادعایی در ادارات دولتی پس از اقدام به خودکشی است",
+      "title_en": "Paris prosecutor investigates alleged bullying in government departments after suicide attempt",
+      "summary": "تحقیقات داخلی نیز پس از دو خودکشی و دو اقدام به خودکشی کارکنان در ادارات مرتبط با دفتر نخست وزیری آغاز شد. دادستان ایالتی پاریس تحقیقات مقدماتی را در مورد قلدری ادعایی در محل کار پس از اقدام به خودکشی یکی از کارکنان در یکی از ادارات مرتبط با دفتر نخست وزیری فرانسه آغاز کرده است. رادیو France Inter فاش کرد که دو کارمند رادیوی دولتی در روز دوشنبه گزارش دادند که دو کارمند دولتی در سال گذشته به زندگی خود پایان دادند. اقدام به خودکشی کرده بود این ایستگاه رادیویی گفت که شکایت هایی مبنی بر قلدری در محل کار مطرح شده است. ادامه مطلب...",
+      "summary_fa": "تحقیقات داخلی نیز پس از دو خودکشی و دو اقدام به خودکشی کارکنان در ادارات مرتبط با دفتر نخست وزیری آغاز شد. دادستان ایالتی پاریس تحقیقات مقدماتی را در مورد قلدری ادعایی در محل کار پس از اقدام به خودکشی یکی از کارکنان در یکی از ادارات مرتبط با دفتر نخست وزیری فرانسه آغاز کرده است. رادیو France Inter فاش کرد که دو کارمند رادیوی دولتی در روز دوشنبه گزارش دادند که دو کارمند دولتی در سال گذشته به زندگی خود پایان دادند. اقدام به خودکشی کرده بود این ایستگاه رادیویی گفت که شکایت هایی مبنی بر قلدری در محل کار مطرح شده است. ادامه مطلب...",
+      "summary_en": "Internal inquiries also opened after two suicides and two attempted suicides of staff in departments connected to PM’s officeThe Paris state prosecutor has opened a preliminary inquiry into alleged workplace bullying after the attempted suicide of a staff member in a department connected to the French prime minister’s office, France Inter radio has revealed.The public radio station reported on Monday that two government workers in different departments had ended their lives in the past year, and two others had attempted suicide. The radio station said complaints of alleged workplace bullying had been made. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/03/paris-prosecutor-investigates-alleged-bullying-government-departments-suicide-attempt",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 15:06:48 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/6b73c79b67e593fe7f5f28194d4e7f9886ebaef5/10_0_3649_2920/master/3649.jpg?width=140&quality=85&auto=format&fit=max&s=32f2281e513bb9d961127eb16b040445",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
       }
     },
     {
@@ -82722,6 +83646,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "57795ad9d990045b969b6dbc3c4bf255",
+      "title": "اروپای جنوب شرقی با بحران انرژی ناشی از موج گرما مواجه است زیرا رومانی سنگ دانوب را برای افزایش جریان آب منفجر می کند - همانطور که اتفاق افتاد",
+      "title_fa": "اروپای جنوب شرقی با بحران انرژی ناشی از موج گرما مواجه است زیرا رومانی سنگ دانوب را برای افزایش جریان آب منفجر می کند - همانطور که اتفاق افتاد",
+      "title_en": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – as it happened",
+      "summary": "اورسولا فون در لاین رئیس کمیسیون اروپا در نامه ای به پدرو سانچز نخست وزیر اسپانیا گفت: مواد منفجره مورد استفاده برای جابجایی یک سنگ بزرگ و جریان آب بیشتر برای خنک کردن نیروگاه هسته ای باید اقدامات بیشتری برای تقویت مرزهای اتحادیه اروپا در نقاط حساس انجام شود. وی به اسپانیا به دلیل رسیدگی سریع به این حادثه و «جلوگیری موفقیت آمیز» از مهاجرت به سرزمین اصلی اسپانیا و اتحادیه اروپا تبریک گفت. ادامه مطلب...",
+      "summary_fa": "اورسولا فون در لاین رئیس کمیسیون اروپا در نامه ای به پدرو سانچز نخست وزیر اسپانیا گفت: مواد منفجره مورد استفاده برای جابجایی یک سنگ بزرگ و جریان آب بیشتر برای خنک کردن نیروگاه هسته ای باید اقدامات بیشتری برای تقویت مرزهای اتحادیه اروپا در نقاط حساس انجام شود. وی به اسپانیا به دلیل رسیدگی سریع به این حادثه و «جلوگیری موفقیت آمیز» از مهاجرت به سرزمین اصلی اسپانیا و اتحادیه اروپا تبریک گفت. ادامه مطلب...",
+      "summary_en": "Explosives used to move a large rock and let more water flow to cool nuclear power plantMore must be done ⁠to strengthen the European Union’s borders at critical points, ⁠European Commission president ⁠Ursula ​von der Leyen told Spanish prime minister Pedro Sánchez ⁠in a letter.In the carefully-calibrated letter, first reported by Reuters and a number of Spanish media, von der Leyen was quoted as congratulating Spain for swiftly handling the incident and “successfully preventing” the onward migration to mainland Spain and the EU. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Mon, 03 Aug 2026 15:00:00 GMT",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/3fa3aeebe9afba20c1f918df092bc0ad4cb2c7bf/578_0_6135_4908/master/6135.jpg?width=140&quality=85&auto=format&fit=max&s=39a602af25985c9d399cd2266363e4b7",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -83002,6 +83947,27 @@
       "title": "بیش از 10 کشته در حملات سنگین روسیه و اوکراین",
       "title_fa": "بیش از 10 کشته در حملات سنگین روسیه و اوکراین",
       "title_en": "More than 10 killed as Russia and Ukraine trade heavy attacks",
+      "summary": "تبادل آتش در حالی تشدید می شود که جنگ، که اکنون در پنجمین سال خود است، هیچ نشانه ای از کند شدن را نشان نمی دهد.",
+      "summary_fa": "تبادل آتش در حالی تشدید می شود که جنگ، که اکنون در پنجمین سال خود است، هیچ نشانه ای از کند شدن را نشان نمی دهد.",
+      "summary_en": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
+      "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 03 Aug 2026 14:23:07 +0000",
+      "date_iso": "2026-08-03",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "30a66e13568aeea740da6aa9bac38484",
+      "title": "بیش از 17 کشته در حملات سنگین روسیه و اوکراین",
+      "title_fa": "بیش از 17 کشته در حملات سنگین روسیه و اوکراین",
+      "title_en": "More than 17 killed as Russia and Ukraine trade heavy attacks",
       "summary": "تبادل آتش در حالی تشدید می شود که جنگ، که اکنون در پنجمین سال خود است، هیچ نشانه ای از کند شدن را نشان نمی دهد.",
       "summary_fa": "تبادل آتش در حالی تشدید می شود که جنگ، که اکنون در پنجمین سال خود است، هیچ نشانه ای از کند شدن را نشان نمی دهد.",
       "summary_en": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
@@ -106581,6 +107547,48 @@
       }
     },
     {
+      "id": "f1e9328dfba09c72a29f80deb40d9f03",
+      "title": "نسل اول Kindle Scribe یک نوت بوک الکترونیکی و دیجیتالی بزرگ است که 150 دلار بازسازی شده است.",
+      "title_fa": "نسل اول Kindle Scribe یک نوت بوک الکترونیکی و دیجیتالی بزرگ است که 150 دلار بازسازی شده است.",
+      "title_en": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "summary": "Kindle Scribe اگر به مدرسه بازمی‌گردید ارزش آن را دارد که به آن توجه کنید، زیرا صفحه نمایش بزرگ 10.2 اینچی آن می‌تواند کتاب‌های درسی و کتاب‌های الکترونیکی را نمایش دهد یا به شما اجازه دهد یادداشت‌های دست‌نویس را در طول کلاس یادداشت کنید. اکنون تا 8 آگوست، مدل نسل اول (با قلم پریمیوم) به 149.99 دلار با 16 گیگابایت فضای ذخیره سازی در شرایط بازسازی شده در […]",
+      "summary_fa": "Kindle Scribe اگر به مدرسه بازمی‌گردید ارزش آن را دارد که به آن توجه کنید، زیرا صفحه نمایش بزرگ 10.2 اینچی آن می‌تواند کتاب‌های درسی و کتاب‌های الکترونیکی را نمایش دهد یا به شما اجازه دهد یادداشت‌های دست‌نویس را در طول کلاس یادداشت کنید. اکنون تا 8 آگوست، مدل نسل اول (با قلم پریمیوم) به 149.99 دلار با 16 گیگابایت فضای ذخیره سازی در شرایط بازسازی شده در […]",
+      "summary_en": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage in refurbished condition at […]",
+      "link": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-03T13:17:54-04:00",
+      "date_iso": "2026-08-03",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b14eeb7968320c02e16656c3ff661bc7",
+      "title": "مایکروسافت بازی های ایکس باکس 360 را به رایانه شخصی می آورد",
+      "title_fa": "مایکروسافت بازی های ایکس باکس 360 را به رایانه شخصی می آورد",
+      "title_en": "Microsoft is bringing Xbox 360 games to PC",
+      "summary": "طبق یک سند فاش شده که توسط The Verge که اخیراً برای توسعه دهندگان ارسال شده است، با تکیه بر برنامه های اخیرا اعلام شده خود برای آوردن بازی های اصلی Xbox به رایانه شخصی، مایکروسافت همچنین قصد دارد به توسعه دهندگان اجازه دهد بازی های Xbox 360 خود را به رایانه شخصی نیز بیاورند. بازی های ایکس باکس 360 می توانند روی نسل بعدی اجرا شوند […]",
+      "summary_fa": "طبق یک سند فاش شده که توسط The Verge که اخیراً برای توسعه دهندگان ارسال شده است، با تکیه بر برنامه های اخیرا اعلام شده خود برای آوردن بازی های اصلی Xbox به رایانه شخصی، مایکروسافت همچنین قصد دارد به توسعه دهندگان اجازه دهد بازی های Xbox 360 خود را به رایانه شخصی نیز بیاورند. بازی های ایکس باکس 360 می توانند روی نسل بعدی اجرا شوند […]",
+      "summary_en": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able to run on the next-gen […]",
+      "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+      "source": "The Verge",
+      "published_at": "2026-08-03T12:31:35-04:00",
+      "date_iso": "2026-08-03",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "58f889b0788aac02516b5739983083ea",
       "title": "مدیرعامل جدید Bluesky یک چادر بزرگ می خواهد، نه یک حباب",
       "title_fa": "مدیرعامل جدید Bluesky یک چادر بزرگ می خواهد، نه یک حباب",
@@ -106725,6 +107733,69 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "a60163a3e84d6cfe2aa3243580d706ae",
+      "title": "تحویل مهارکننده‌های کاسپاز با واسطه Gasdermin D برای سرکوب پیروپتوز",
+      "title_fa": "تحویل مهارکننده‌های کاسپاز با واسطه Gasdermin D برای سرکوب پیروپتوز",
+      "title_en": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+      "summary": "طبیعت، انتشار آنلاین: 03 آگوست 2026; doi:10.1038/s41586-026-10957-yGasdermin با واسطه D تحویل مهارکننده های کاسپاز برای سرکوب پیروپتوز",
+      "summary_fa": "طبیعت، انتشار آنلاین: 03 آگوست 2026; doi:10.1038/s41586-026-10957-yGasdermin با واسطه D تحویل مهارکننده های کاسپاز برای سرکوب پیروپتوز",
+      "summary_en": "Nature, Published online: 03 August 2026; doi:10.1038/s41586-026-10957-yGasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+      "link": "https://www.nature.com/articles/s41586-026-10957-y",
+      "source": "Nature",
+      "published_at": "2026-08-03 17:19",
+      "date_iso": "2026-08-03",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5264088db4d4cbb174fe43ee1d3cfe73",
+      "title": "آنتی بادی های مبارزه کننده با سرطان با یک یا دو پانچ تومورها را هدف قرار می دهند",
+      "title_fa": "آنتی بادی های مبارزه کننده با سرطان با یک یا دو پانچ تومورها را هدف قرار می دهند",
+      "title_en": "Cancer-fighting antibodies with a one-two punch take aim at tumours",
+      "summary": "طبیعت، انتشار آنلاین: 03 آگوست 2026; doi:10.1038/d41586-026-02398-4 آنتی بادی های دو گونه ای، که به دو هدف متصل می شوند، در حال نفوذ به کلینیک هستند و نسخه های دقیق تری را ارائه می دهند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 03 آگوست 2026; doi:10.1038/d41586-026-02398-4 آنتی بادی های دو گونه ای، که به دو هدف متصل می شوند، در حال نفوذ به کلینیک هستند و نسخه های دقیق تری را ارائه می دهند.",
+      "summary_en": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02398-4Bispecific antibodies, which bind to two targets, are sweeping into the clinic and are prompting even more elaborate versions.",
+      "link": "https://www.nature.com/articles/d41586-026-02398-4",
+      "source": "Nature",
+      "published_at": "2026-08-03 17:19",
+      "date_iso": "2026-08-03",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "956ff5abe6268e7e915dd3d5a2545936",
+      "title": "آیا می خواهید از هوش مصنوعی بیشتر استفاده کنید؟ با هر درخواستی مانند یک آزمایش رفتار کنید",
+      "title_fa": "آیا می خواهید از هوش مصنوعی بیشتر استفاده کنید؟ با هر درخواستی مانند یک آزمایش رفتار کنید",
+      "title_en": "Want to get more from AI? Treat every prompt like an experiment",
+      "summary": "طبیعت، انتشار آنلاین: 03 آگوست 2026; جیمز دوار می گوید: doi:10.1038/d41586-026-02083-6 اتخاذ یک رویکرد علمی برای جستارهای هوش مصنوعی باعث می شود هر خروجی به نتیجه ای بررسی شود. در اینجا ده نکته برای انجام درست آن وجود دارد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 03 آگوست 2026; جیمز دوار می گوید: doi:10.1038/d41586-026-02083-6 اتخاذ یک رویکرد علمی برای جستارهای هوش مصنوعی باعث می شود هر خروجی به نتیجه ای بررسی شود. در اینجا ده نکته برای انجام درست آن وجود دارد.",
+      "summary_en": "Nature, Published online: 03 August 2026; doi:10.1038/d41586-026-02083-6Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.",
+      "link": "https://www.nature.com/articles/d41586-026-02083-6",
+      "source": "Nature",
+      "published_at": "2026-08-03 17:19",
+      "date_iso": "2026-08-03",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
