@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-05 15:33:51",
-  "total_count": 6444,
+  "last_update": "2026-08-05 17:08:26",
+  "total_count": 6483,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -20356,6 +20356,90 @@
       }
     },
     {
+      "id": "0df7c70914e9fe7588c0cf8da51e35c1",
+      "title": "عبدالالسید، دموکرات چپ، نامزد تشکیلات را در پیروزی شوکه کننده مقدماتی میشیگان شکست داد",
+      "title_fa": "عبدالالسید، دموکرات چپ، نامزد تشکیلات را در پیروزی شوکه کننده مقدماتی میشیگان شکست داد",
+      "title_en": "Leftist Democrat Abdul El-Sayed defeats establishment candidate in shock Michigan primary victory",
+      "summary": "پیروزی عبدالالسید در میشیگان در حالی اتفاق می‌افتد که حزب دموکرات تلاش می‌کند خود را در دوره ترامپ تعریف کند.",
+      "summary_fa": "پیروزی عبدالالسید در میشیگان در حالی اتفاق می‌افتد که حزب دموکرات تلاش می‌کند خود را در دوره ترامپ تعریف کند.",
+      "summary_en": "Abdul El-Sayed's victory in Michigan comes as the Democratic party struggles to define itself in the Trump era.",
+      "link": "http://www.euronews.com/2026/08/05/leftist-democrat-abdul-el-sayed-defeats-establishment-candidate-in-shock-michigan-primary-",
+      "source": "EuroNews",
+      "published_at": "Wed, 05 Aug 2026 18:22:13 +0200",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "220922c07e5e10e4198b5dc707f5a0ab",
+      "title": "تهران می گوید ایران و عمان مسیر کشتی ها در تنگه هرمز را به توافق رساندند",
+      "title_fa": "تهران می گوید ایران و عمان مسیر کشتی ها در تنگه هرمز را به توافق رساندند",
+      "title_en": "Iran and Oman agree route for ships in Strait of Hormuz, Tehran says",
+      "summary": "تهران اعلام کرده است که ایران و عمان بر سر مسیر جغرافیایی کشتیرانی از طریق تنگه هرمز به توافق رسیده اند و مدعی شده که آمریکا در این توافق دخالت نداشته است. در عین حال، رئیس جمهور آمریکا مدعی شده است که مذاکرات هرمز با ایران \"بسیار خوب پیش می رود\".",
+      "summary_fa": "تهران اعلام کرده است که ایران و عمان بر سر مسیر جغرافیایی کشتیرانی از طریق تنگه هرمز به توافق رسیده اند و مدعی شده که آمریکا در این توافق دخالت نداشته است. در عین حال، رئیس جمهور آمریکا مدعی شده است که مذاکرات هرمز با ایران \"بسیار خوب پیش می رود\".",
+      "summary_en": "Tehran has announced that Iran and Oman have agreed on the geographic route for shipping through the Strait of Hormuz, claiming that the US was not involved in the agreement. At the same time, the US President has claimed Hormuz negotiations with Iran are “moving along very nicely”.",
+      "link": "http://www.euronews.com/2026/08/05/iran-and-oman-agree-route-for-ships-in-strait-of-hormuz-tehran-says",
+      "source": "EuroNews",
+      "published_at": "Wed, 05 Aug 2026 18:14:39 +0200",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "75860b29e0d766c9fc60d1d10c52d64f",
+      "title": "کشور باسک با برنامه غربالگری مرگ و میر ناشی از سرطان روده بزرگ را به نصف کاهش داد",
+      "title_fa": "کشور باسک با برنامه غربالگری مرگ و میر ناشی از سرطان روده بزرگ را به نصف کاهش داد",
+      "title_en": "Basque Country halves colon cancer deaths with screening programme",
+      "summary": "یک مطالعه اسپانیایی، برنامه غربالگری سرطان کولورکتال را که در کشور باسک اجرا شد با کاهش 50 درصدی مرگ و میر در میان افراد 50 تا 69 ساله مرتبط دانست.",
+      "summary_fa": "یک مطالعه اسپانیایی، برنامه غربالگری سرطان کولورکتال را که در کشور باسک اجرا شد با کاهش 50 درصدی مرگ و میر در میان افراد 50 تا 69 ساله مرتبط دانست.",
+      "summary_en": "A Spanish study links the colorectal cancer screening programme rolled out in the Basque Country to a 50% drop in deaths among people aged 50 to 69.",
+      "link": "http://www.euronews.com/health/2026/08/05/basque-country-halves-colon-cancer-deaths-with-screening-programme",
+      "source": "EuroNews",
+      "published_at": "Wed, 05 Aug 2026 18:05:45 +0200",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ae4c76a6477212e77a27ea9141a97cd2",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Latest news bulletin | August 5th, 2026 – Evening",
+      "summary": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 5 آگوست 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 5 آگوست 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Wed, 05 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "b68d5b8cba70d2e8ab8e8da748309ac9",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -20374,6 +20458,27 @@
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "اوکراین"
+      }
+    },
+    {
+      "id": "3164005880a9704b8469a66ad3a85a46",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+      "summary": "زنجیره سالاد تازه تاسیس با هدف مقابله با Sweetgreen و تحت مالکیت Volt Investment به سرعت گسترش یافت.",
+      "summary_fa": "زنجیره سالاد تازه تاسیس با هدف مقابله با Sweetgreen و تحت مالکیت Volt Investment به سرعت گسترش یافت.",
+      "summary_en": "The upstart salad chain aimed to take on Sweetgreen and expanded rapidly under the ownership of Volt Investment.",
+      "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 17:05:49 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -20398,6 +20503,90 @@
       }
     },
     {
+      "id": "15d4ea0a72b7ce15f2150d7e3ee2805d",
+      "title": "EVgo ساخت سوپرشارژرهای تسلا را تحت مجوز آغاز می کند",
+      "title_fa": "EVgo ساخت سوپرشارژرهای تسلا را تحت مجوز آغاز می کند",
+      "title_en": "EVgo starts building Tesla Superchargers under license",
+      "summary": "سوپرشارژرهای V4 در برنامه ناوبری تسلا نمایش داده می‌شوند و دارای دوشاخه‌های NACS و CCS1 هستند.",
+      "summary_fa": "سوپرشارژرهای V4 در برنامه ناوبری تسلا نمایش داده می‌شوند و دارای دوشاخه‌های NACS و CCS1 هستند.",
+      "summary_en": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+      "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 05 Aug 2026 17:00:38 +0000",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/evgo-tesla-partnership-1920x1080.jpg-1152x648.webp",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42a66f40b4b2df893e75d286de421a6f",
+      "title": "تغییر ساختار هوش مصنوعی گوگل: جف دین، دانشمند ارشد، از سمت خود کناره گیری کرد و دمیس حسابیس از سمت مدیرعاملی DeepMind کنار رفت.",
+      "title_fa": "تغییر ساختار هوش مصنوعی گوگل: جف دین، دانشمند ارشد، از سمت خود کناره گیری کرد و دمیس حسابیس از سمت مدیرعاملی DeepMind کنار رفت.",
+      "title_en": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+      "summary": "غول جستجو روز چهارشنبه اعلام کرد که بخش‌های هوش مصنوعی گوگل در حال تغییر هستند.",
+      "summary_fa": "غول جستجو روز چهارشنبه اعلام کرد که بخش‌های هوش مصنوعی گوگل در حال تغییر هستند.",
+      "summary_en": "Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.",
+      "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 16:58:06 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "01715cf3b63fa25c9a8c9097fbd82211",
+      "title": "مدیر ETF پرفروش سهام تراشه حافظه DRAM با شرط بندی موضوعی هوش مصنوعی جدید بازگشته است",
+      "title_fa": "مدیر ETF پرفروش سهام تراشه حافظه DRAM با شرط بندی موضوعی هوش مصنوعی جدید بازگشته است",
+      "title_en": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Roundhill Investments' DRAM became a blockbuster ETF in record time on the memory trade. It's back with a new fund targeting another AI tech theme: photonics.",
+      "link": "https://www.cnbc.com/2026/08/05/chip-stocks-ai-investments-memory-dram.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 16:56:32 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49a631f5c82fd1b57c342669fc560359",
+      "title": "چگونه سازنده Ozempic Novo Nordisk سرآمد خود را در داروهای کاهش وزن GLP-1 منفجر کرد. آیا اروپا می تواند در اقتصاد جهانی پرمخاطب رقابت کند؟",
+      "title_fa": "چگونه سازنده Ozempic Novo Nordisk سرآمد خود را در داروهای کاهش وزن GLP-1 منفجر کرد. آیا اروپا می تواند در اقتصاد جهانی پرمخاطب رقابت کند؟",
+      "title_en": "How Ozempic maker Novo Nordisk blew its lead in GLP-1 weight-loss drugs. Can Europe compete in the high-stakes global economy?",
+      "summary": "این شرکت دانمارکی پرسودترین داروی جدیدی را که جهان تا به حال دیده بود تولید کرد. سپس الی لیلی آمریکایی بر آن مانور داد و کنترل بازار داروهای رژیمی را در دست گرفت.",
+      "summary_fa": "این شرکت دانمارکی پرسودترین داروی جدیدی را که جهان تا به حال دیده بود تولید کرد. سپس الی لیلی آمریکایی بر آن مانور داد و کنترل بازار داروهای رژیمی را در دست گرفت.",
+      "summary_en": "The Danish company developed the most lucrative new drug the world had ever seen. Then America’s Eli Lilly outmaneuvered it and took control of the diet-drug market.",
+      "link": "https://www.marketwatch.com/story/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-0a2bcfd0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 05 Aug 2026 16:52:00 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-49353990",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "ab402e862b119b02e5d2072352613b98",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -20412,6 +20601,111 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bcc66769f3c5609f35ac06e8324abad0",
+      "title": "با از دست دادن گوگل یکی دیگر از مدیران کلیدی هوش مصنوعی، سهام آلفابت کاهش می یابد",
+      "title_fa": "با از دست دادن گوگل یکی دیگر از مدیران کلیدی هوش مصنوعی، سهام آلفابت کاهش می یابد",
+      "title_en": "Alphabet’s stock drops as Google loses another key AI executive",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Jeff Dean, Google’s chief scientist and one of its company’s first employees, is leaving to launch his own company.",
+      "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 05 Aug 2026 16:45:00 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-75702741",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "11b4f967edfc3b07ec1c91d1b9dd89ec",
+      "title": "روسیه 17 نفر را در حملات موشکی بالستیک به اطراف کیف کشته است",
+      "title_fa": "روسیه 17 نفر را در حملات موشکی بالستیک به اطراف کیف کشته است",
+      "title_en": "Russia kills 17 in ballistic missile attacks around Kyiv",
+      "summary": "در حمله شبانه روسیه با موشک بالستیک و پهپاد به کیف، دست کم 17 نفر کشته شدند.",
+      "summary_fa": "در حمله شبانه روسیه با موشک بالستیک و پهپاد به کیف، دست کم 17 نفر کشته شدند.",
+      "summary_en": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 16:42:24 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "6269069790d8939606732ed1c707a324",
+      "title": "D-Wave ورود جدید خود را در مسابقه محاسبات کوانتومی نشان می دهد",
+      "title_fa": "D-Wave ورود جدید خود را در مسابقه محاسبات کوانتومی نشان می دهد",
+      "title_en": "D-Wave shows off its new entry in quantum computing race",
+      "summary": "این شرکت برای ساختن آنیل کوانتومی در حال حاضر نیز سخت افزارهای مبتنی بر گیت تولید می کند.",
+      "summary_fa": "این شرکت برای ساختن آنیل کوانتومی در حال حاضر نیز سخت افزارهای مبتنی بر گیت تولید می کند.",
+      "summary_en": "Company noted for building quantum annealers now also making gate-based hardware.",
+      "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 05 Aug 2026 16:37:07 +0000",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "18376033a8a16bf3f2c33168a437ea1a",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Google DeepMind CEO Demis Hassabis steps down to become chair",
+      "summary": "جف دین، دانشمند ارشد، گروه را ترک می کند تا استارت آپ خود را تأسیس کند",
+      "summary_fa": "جف دین، دانشمند ارشد، گروه را ترک می کند تا استارت آپ خود را تأسیس کند",
+      "summary_en": "Chief scientist Jeff Dean leaves the group to found his own start-up",
+      "link": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 05 Aug 2026 16:27:09 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7d24816-825a-488c-84ed-d5fd366e4a7d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3fc51e562f44759ac2241d2310e0c167",
+      "title": "تبلیغات متا که حاوی تصاویر سوء استفاده جنسی از کودکان توسط هوش مصنوعی بود",
+      "title_fa": "تبلیغات متا که حاوی تصاویر سوء استفاده جنسی از کودکان توسط هوش مصنوعی بود",
+      "title_en": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "بر اساس داده های کتابخانه تبلیغات متا، بیش از 50 آگهی تصویری و ویدیویی توهین آمیز در فیس بوک، اینستاگرام، مسنجر یا Threads منتشر شده است. برخی از آنها تا همین هفته اجرا کردند.",
+      "summary_fa": "بر اساس داده های کتابخانه تبلیغات متا، بیش از 50 آگهی تصویری و ویدیویی توهین آمیز در فیس بوک، اینستاگرام، مسنجر یا Threads منتشر شده است. برخی از آنها تا همین هفته اجرا کردند.",
+      "summary_en": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "source": "Wired",
+      "published_at": "Wed, 05 Aug 2026 16:26:36 +0000",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -20461,6 +20755,48 @@
       }
     },
     {
+      "id": "b7c1186ba6f4e5b32780d2ecea43ce1b",
+      "title": "سهام اوبر پس از راهنمایی ضعیف علیرغم رشد درآمد، 7 درصد سقوط کرد",
+      "title_fa": "سهام اوبر پس از راهنمایی ضعیف علیرغم رشد درآمد، 7 درصد سقوط کرد",
+      "title_en": "Uber stock sinks 7% after weak guidance despite revenue growth",
+      "summary": "درآمد اوبر مطابق با برآوردها بود، اما راهنمایی های شرکت برای سه ماهه سوم انتظارات را پایین آورد.",
+      "summary_fa": "درآمد اوبر مطابق با برآوردها بود، اما راهنمایی های شرکت برای سه ماهه سوم انتظارات را پایین آورد.",
+      "summary_en": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
+      "link": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 16:18:31 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7af93efe737a6358ddedbd43b50c0f37",
+      "title": "تحلیلگران می گویند سقوط ماه اسپیس ایکس استعاره ای عالی برای قیمت سهام سازنده موشک است.",
+      "title_fa": "تحلیلگران می گویند سقوط ماه اسپیس ایکس استعاره ای عالی برای قیمت سهام سازنده موشک است.",
+      "title_en": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
+      "summary": "طبق گزارش‌ها، بخش‌هایی از یک موشک اسپیس ایکس روز چهارشنبه به ماه سقوط کرد",
+      "summary_fa": "طبق گزارش‌ها، بخش‌هایی از یک موشک اسپیس ایکس روز چهارشنبه به ماه سقوط کرد",
+      "summary_en": "Parts of a SpaceX rocket reportedly crashed into the moon on Wednesday",
+      "link": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 16:17:35 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "cbc11b98cc8a6275b9d1856960a5cf05",
       "title": "ایتالیا پیش از دیدار پاپ از آسیزی از شبکه مسیری 1500 کیلومتری که به سنت فرانسیس اختصاص داده شده است رونمایی کرد.",
       "title_fa": "ایتالیا پیش از دیدار پاپ از آسیزی از شبکه مسیری 1500 کیلومتری که به سنت فرانسیس اختصاص داده شده است رونمایی کرد.",
@@ -20474,6 +20810,48 @@
       "date_iso": "2026-08-05",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c20a17ed3deba5c370c9cc449f2a139c",
+      "title": "پاپ لئو چهاردهم برای دیدار از پرو، آرژانتین و اروگوئه در ماه نوامبر",
+      "title_fa": "پاپ لئو چهاردهم برای دیدار از پرو، آرژانتین و اروگوئه در ماه نوامبر",
+      "title_en": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
+      "summary": "اولین سفر پاپ به آمریکای لاتین، او را به پرو می برد، جایی که او دهه ها را به عنوان مبلغ و اسقف گذراند.",
+      "summary_fa": "اولین سفر پاپ به آمریکای لاتین، او را به پرو می برد، جایی که او دهه ها را به عنوان مبلغ و اسقف گذراند.",
+      "summary_en": "The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 16:05:58 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "82433bbb6c570ba2f4e48416a71b9e65",
+      "title": "شهرهای پورتوریکا در طول خشکسالی بی سابقه با اقدامات جیره بندی آب مواجه شدند",
+      "title_fa": "شهرهای پورتوریکا در طول خشکسالی بی سابقه با اقدامات جیره بندی آب مواجه شدند",
+      "title_en": "Puerto Rican cities hit with water rationing measures during record drought",
+      "summary": "فرماندار جنیفر گونزالس می‌گوید که نمی‌داند اقدامات جیره‌بندی تا چه زمانی به قوت خود باقی خواهد ماند.",
+      "summary_fa": "فرماندار جنیفر گونزالس می‌گوید که نمی‌داند اقدامات جیره‌بندی تا چه زمانی به قوت خود باقی خواهد ماند.",
+      "summary_en": "Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 16:02:58 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -20503,6 +20881,69 @@
       }
     },
     {
+      "id": "2adddc24ea540fdb58dc44ba2efb6fe2",
+      "title": "5 چیزی که سرمایه گذاران باید در مورد آخرین بازگشت سریع بازار سهام بدانند",
+      "title_fa": "5 چیزی که سرمایه گذاران باید در مورد آخرین بازگشت سریع بازار سهام بدانند",
+      "title_en": "5 things investors should know about the stock market’s latest rapid-fire comeback",
+      "summary": "یک هفته چه تفاوتی ایجاد می کند. S&P 500 در پنج روز گذشته بیش از 6 درصد افزایش یافته است که بزرگترین رشد آن از زمان افزایش تعرفه در سال گذشته است.",
+      "summary_fa": "یک هفته چه تفاوتی ایجاد می کند. S&P 500 در پنج روز گذشته بیش از 6 درصد افزایش یافته است که بزرگترین رشد آن از زمان افزایش تعرفه در سال گذشته است.",
+      "summary_en": "What a difference a week makes. The S&P 500 has surged more than 6% over the past five days, its biggest gain since last year’s tariff tantrum.",
+      "link": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 05 Aug 2026 16:02:00 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-00322352",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "13c3cb38c40245af0c1e174a396a2823",
+      "title": "برترین مغزهای هوش مصنوعی گوگل برای راه اندازی حلقه کشف ترک می کنند",
+      "title_fa": "برترین مغزهای هوش مصنوعی گوگل برای راه اندازی حلقه کشف ترک می کنند",
+      "title_en": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "summary": "جف دین و دیگر مدیران بلندپایه گوگل، Discovery Loop را تأسیس کرده‌اند، استارت‌آپی که به دنبال پیشرفت‌های مبتنی بر هوش مصنوعی در همه چیز از کشف دارو گرفته تا طراحی تراشه است.",
+      "summary_fa": "جف دین و دیگر مدیران بلندپایه گوگل، Discovery Loop را تأسیس کرده‌اند، استارت‌آپی که به دنبال پیشرفت‌های مبتنی بر هوش مصنوعی در همه چیز از کشف دارو گرفته تا طراحی تراشه است.",
+      "summary_en": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "source": "Wired",
+      "published_at": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6539bd22c60d583448ffba8c8185b265",
+      "title": "مقامات عربی خواستار اقدام در مورد تنش های اورشلیم هستند",
+      "title_fa": "مقامات عربی خواستار اقدام در مورد تنش های اورشلیم هستند",
+      "title_en": "Arab officials call for action over Jerusalem tensions",
+      "summary": "مقامات عربی خواستار اقدام در مورد تنش های اورشلیم هستند",
+      "summary_fa": "مقامات عربی خواستار اقدام در مورد تنش های اورشلیم هستند",
+      "summary_en": "Arab officials call for action over Jerusalem tensions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 15:59:52 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "f1e468e1c734cb9b9b16202d90850b8b",
       "title": "دوبلین با گلن هانسارد خواننده و ترانه سرا خداحافظی کرد",
       "title_fa": "دوبلین با گلن هانسارد خواننده و ترانه سرا خداحافظی کرد",
@@ -20516,6 +20957,48 @@
       "date_iso": "2026-08-05",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cf079c3caba85b1e37cb34be5f37f223",
+      "title": "سهام اسپیس ایکس با وحشت وال استریت از میزان هزینه‌های هوش مصنوعی کاهش می‌یابد",
+      "title_fa": "سهام اسپیس ایکس با وحشت وال استریت از میزان هزینه‌های هوش مصنوعی کاهش می‌یابد",
+      "title_en": "SpaceX’s stock falls as Wall Street gets spooked by the extent of AI spending",
+      "summary": "مورگان استنلی انتظار دارد 64 میلیارد دلار سرمایه از اسپیس ایکس در سال جاری هزینه کند. این شرکت به طور چشمگیری سرمایه گذاری های هوش مصنوعی را افزایش می دهد.",
+      "summary_fa": "مورگان استنلی انتظار دارد 64 میلیارد دلار سرمایه از اسپیس ایکس در سال جاری هزینه کند. این شرکت به طور چشمگیری سرمایه گذاری های هوش مصنوعی را افزایش می دهد.",
+      "summary_en": "Morgan Stanley expects $64 billion in capital spending from SpaceX this year. The company is dramatically ramping up AI investments.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 05 Aug 2026 15:56:00 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-87899195",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c4bebf520fcd95afc066114464f3a72c",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways",
+      "summary": "یکی از روش‌ها آسان‌تر است، اما روش دیگر عملکرد سریع‌تر و مطمئن‌تری را برای شما به ارمغان می‌آورد.",
+      "summary_fa": "یکی از روش‌ها آسان‌تر است، اما روش دیگر عملکرد سریع‌تر و مطمئن‌تری را برای شما به ارمغان می‌آورد.",
+      "summary_en": "One method is easier, but the other gets you faster, more reliable performance.",
+      "link": "https://www.zdnet.com/article/how-to-run-affinity-free-photoshop-alternative-on-linux/",
+      "source": "ZDNet",
+      "published_at": "Wed, 05 Aug 2026 15:52:12 GMT",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -20542,6 +21025,153 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d370156fa26e4458745b940ccb0f3e6b",
+      "title": "سهام انویدیا در درخشش یک تاییدیه با مشخصات بالا غرق شده است",
+      "title_fa": "سهام انویدیا در درخشش یک تاییدیه با مشخصات بالا غرق شده است",
+      "title_en": "Nvidia’s stock is basking in the glow of a high-profile endorsement",
+      "summary": "ایلان ماسک، مدیرعامل اسپیس ایکس گفت که شرکت او تنها از تراشه های انویدیا برای ساخت هوش مصنوعی خود استفاده خواهد کرد.",
+      "summary_fa": "ایلان ماسک، مدیرعامل اسپیس ایکس گفت که شرکت او تنها از تراشه های انویدیا برای ساخت هوش مصنوعی خود استفاده خواهد کرد.",
+      "summary_en": "SpaceX CEO Elon Musk said his company will only use Nvidia’s chips to build its AI.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-basking-in-the-glow-of-a-high-profile-endorsement-b7c48e7b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 05 Aug 2026 15:51:00 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-75710561",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34bd971728b10f5d2d8276c5fdc37aa0",
+      "title": "SpaceX به انویدیا تقویت بسیار مورد نیاز می دهد. به علاوه، کرامر در سهام «کم‌تر از ارزش‌گذاری شده» است",
+      "title_fa": "SpaceX به انویدیا تقویت بسیار مورد نیاز می دهد. به علاوه، کرامر در سهام «کم‌تر از ارزش‌گذاری شده» است",
+      "title_en": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 15:50:51 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cbd368e763170231bedeb5837f2e94ab",
+      "title": "دیپلمات های ارشد عرب و مسلمان طرحی را برای حفاظت از اماکن مذهبی اورشلیم آغاز کردند",
+      "title_fa": "دیپلمات های ارشد عرب و مسلمان طرحی را برای حفاظت از اماکن مذهبی اورشلیم آغاز کردند",
+      "title_en": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Foreign ministers warn Christian and Islamic holy sites 'threatened' by Israel 'as never before'.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 15:50:06 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "71c023b9231e83b9a6e45332092b7570",
+      "title": "مدیر عامل Tanger می گوید جام جهانی باعث افزایش ترافیک و فروش در تابستان امسال شد",
+      "title_fa": "مدیر عامل Tanger می گوید جام جهانی باعث افزایش ترافیک و فروش در تابستان امسال شد",
+      "title_en": "Tanger CEO says World Cup drove up traffic, sales this summer",
+      "summary": "استفان یالوف، مدیرعامل Tanger به CNBC گفت که این شرکت در تابستان امسال به دلیل جام جهانی شاهد افزایش ترافیک فروشگاه و فروش آن بود.",
+      "summary_fa": "استفان یالوف، مدیرعامل Tanger به CNBC گفت که این شرکت در تابستان امسال به دلیل جام جهانی شاهد افزایش ترافیک فروشگاه و فروش آن بود.",
+      "summary_en": "Tanger CEO Stephen Yalof told CNBC that the company saw increased store traffic and sales this summer because of the World Cup.",
+      "link": "https://www.cnbc.com/2026/08/05/tanger-ceo-world-cup-traffic-sales.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 15:48:39 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "014124dd0f480d68f32be0e4035e864a",
+      "title": "چگونه پارک های دیزنی در حال کاهش سرعت سفر هستند",
+      "title_fa": "چگونه پارک های دیزنی در حال کاهش سرعت سفر هستند",
+      "title_en": "How Disney parks are bucking a travel slowdown",
+      "summary": "دیزنی علیرغم ادامه رکود در سفرهای بین المللی به ایالات متحده، درآمد سه ماهه خود را در بخش پارک های خود ثبت کرد.",
+      "summary_fa": "دیزنی علیرغم ادامه رکود در سفرهای بین المللی به ایالات متحده، درآمد سه ماهه خود را در بخش پارک های خود ثبت کرد.",
+      "summary_en": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
+      "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 15:44:55 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "75a83c97149e64f836585693ab3c14ec",
+      "title": "لایحه ایمنی رسانه های اجتماعی قانون ایمنی آنلاین کودکان در سنا پیشرفت می کند",
+      "title_fa": "لایحه ایمنی رسانه های اجتماعی قانون ایمنی آنلاین کودکان در سنا پیشرفت می کند",
+      "title_en": "Kids Online Safety Act social media safety bill advances in Senate",
+      "summary": "قانون ایمنی آنلاین کودکان، اقدامی با هدف حمایت از کودکان در رسانه‌های اجتماعی، پس از توقف در کنگره گذشته، به صحن سنا ارتقا یافت.",
+      "summary_fa": "قانون ایمنی آنلاین کودکان، اقدامی با هدف حمایت از کودکان در رسانه‌های اجتماعی، پس از توقف در کنگره گذشته، به صحن سنا ارتقا یافت.",
+      "summary_en": "The Kids Online Safety Act, a measure aimed at protecting children on social media, advanced to the Senate floor after it stalled in the last Congress.",
+      "link": "https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 15:42:09 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ee34608729986a87df1a7e5db1aed3b5",
+      "title": "آلمان پهپاد حامل \"مواد انفجاری\" را در نزدیکی هواپیمای اوکراینی در فرودگاه باری شلوغ بررسی می کند - همانطور که اتفاق افتاد",
+      "title_fa": "آلمان پهپاد حامل \"مواد انفجاری\" را در نزدیکی هواپیمای اوکراینی در فرودگاه باری شلوغ بررسی می کند - همانطور که اتفاق افتاد",
+      "title_en": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – as it happened",
+      "summary": "توبیاس مایر، مدیر عامل گروه DHL گفت که شرکت لجستیک آلمانی در حال مطالعه این حادثه یک شبه که همچنین شامل درگیری یک شی با یکی از هواپیماهایش در نزدیکی لایپزیگ بود، تحقیق در مورد حادثه لایپزیگ را برعهده گرفتند. به گزارش رویترز، میر در طی تماس با نتایج سه ماهه اوایل صبح امروز گفت که تا حد امکان پایین خواهد بود. ادامه مطلب...",
+      "summary_fa": "توبیاس مایر، مدیر عامل گروه DHL گفت که شرکت لجستیک آلمانی در حال مطالعه این حادثه یک شبه که همچنین شامل درگیری یک شی با یکی از هواپیماهایش در نزدیکی لایپزیگ بود، تحقیق در مورد حادثه لایپزیگ را برعهده گرفتند. به گزارش رویترز، میر در طی تماس با نتایج سه ماهه اوایل صبح امروز گفت که تا حد امکان پایین خواهد بود. ادامه مطلب...",
+      "summary_en": "German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incidentFor what it’s worth, DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight incident which also involved an object clashing with one of its planes near Leipzig.“We’ve ‌got plans for cases ​like this, and ​we’ll try to make sure that the influence on our customers will be as low as possible,” Meyer said during a quarterly results call earlier this morning, Reuters reported. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Wed, 05 Aug 2026 15:40:56 GMT",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1729d58533679eb27d69da680caa4d24c4a5eae1/364_0_2148_1719/master/2148.jpg?width=140&quality=85&auto=format&fit=max&s=c827caf244ef351c70857be5cc314e70",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -20580,6 +21210,48 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b3cd6f1ea4f2ecdc5bd63a9a8b27850",
+      "title": "MAGA در مورد پیشنهاد احتمالی تاکر کارلسون برای ریاست جمهوری 2028 در آشفتگی است",
+      "title_fa": "MAGA در مورد پیشنهاد احتمالی تاکر کارلسون برای ریاست جمهوری 2028 در آشفتگی است",
+      "title_en": "MAGA Is In Turmoil Over Tucker Carlson’s Possible 2028 Presidential Bid",
+      "summary": "جو کنت می گوید که او و دیگر چهره های ضد دونالد ترامپ MAGA جنبش جدیدی را تشکیل داده اند. آنها می خواهند تاکر کارلسون برای ریاست جمهوری سال 2028 نامزد شود.",
+      "summary_fa": "جو کنت می گوید که او و دیگر چهره های ضد دونالد ترامپ MAGA جنبش جدیدی را تشکیل داده اند. آنها می خواهند تاکر کارلسون برای ریاست جمهوری سال 2028 نامزد شود.",
+      "summary_en": "Joe Kent says that he and other anti–Donald Trump MAGA figures have formed a new movement. They want Tucker Carlson to run for the presidency in 2028.",
+      "link": "https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/",
+      "source": "Wired",
+      "published_at": "Wed, 05 Aug 2026 15:30:21 +0000",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dd4f1293f088fcdc29caf0a3c3b46fd7",
+      "title": "اصلاحات وام تایس را در همان روز بازپرداخت کرد که مبلغ یک میلیون پوند توسط مادر کاترل، دستیار فاراژ اهدا شد.",
+      "title_fa": "اصلاحات وام تایس را در همان روز بازپرداخت کرد که مبلغ یک میلیون پوند توسط مادر کاترل، دستیار فاراژ اهدا شد.",
+      "title_en": "Reform repaid Tice loan on same day £1mn donated by mother of Farage aide Cottrell",
+      "summary": "تراکنش‌ها به انتقاد از عدم شفافیت حزب در مورد تأمین مالی آن دامن می‌زند",
+      "summary_fa": "تراکنش‌ها به انتقاد از عدم شفافیت حزب در مورد تأمین مالی آن دامن می‌زند",
+      "summary_en": "Transactions fuel criticism of the party’s lack of transparency over its financing",
+      "link": "https://www.ft.com/content/4abf8011-5570-4ad7-9170-fa655295070a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 05 Aug 2026 15:30:05 GMT",
+      "date_iso": "2026-08-05",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa40b8c6-4373-417c-9b8b-35534a6be4f3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -20689,6 +21361,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a33a5344ff42a1aa288a368492a8afd9",
+      "title": "دادگاه بریتانیا تایید کرد که ضد صهیونیسم پروفسور از نظر قانونی محافظت شده است",
+      "title_fa": "دادگاه بریتانیا تایید کرد که ضد صهیونیسم پروفسور از نظر قانونی محافظت شده است",
+      "title_en": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
+      "summary": "دیوید میلر به الجزیره گفته است که این حکم یک پیروزی است که دیگران را تشویق می کند تا علیه صهیونیسم صحبت کنند.",
+      "summary_fa": "دیوید میلر به الجزیره گفته است که این حکم یک پیروزی است که دیگران را تشویق می کند تا علیه صهیونیسم صحبت کنند.",
+      "summary_en": "David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.",
+      "link": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 05 Aug 2026 15:22:39 +0000",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -22859,6 +23552,27 @@
       "title": "دانشمندان از برخورد موشک سرگردان اسپیس ایکس به ماه چه چیزی می توانند بیاموزند؟",
       "title_fa": "دانشمندان از برخورد موشک سرگردان اسپیس ایکس به ماه چه چیزی می توانند بیاموزند؟",
       "title_en": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "summary": "در حالی که این برخورد یک تصادف بود، یک هدیه علمی منحصر به فرد برای زمین شناسان سیاره ای است که می تواند داده های مهمی را برای ماموریت های فضایی آینده ارائه دهد.",
+      "summary_fa": "در حالی که این برخورد یک تصادف بود، یک هدیه علمی منحصر به فرد برای زمین شناسان سیاره ای است که می تواند داده های مهمی را برای ماموریت های فضایی آینده ارائه دهد.",
+      "summary_en": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 05 Aug 2026 11:19:24 GMT",
+      "date_iso": "2026-08-05",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/863dc740-9038-11f1-a691-e5bd21941ac1.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36f49652b02e09cb07f8666db00171a6",
+      "title": "چرا برخی از دانشمندان از برخورد یک موشک اسپیس ایکس به ماه هیجان زده هستند؟",
+      "title_fa": "چرا برخی از دانشمندان از برخورد یک موشک اسپیس ایکس به ماه هیجان زده هستند؟",
+      "title_en": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
       "summary": "در حالی که این برخورد یک تصادف بود، یک هدیه علمی منحصر به فرد برای زمین شناسان سیاره ای است که می تواند داده های مهمی را برای ماموریت های فضایی آینده ارائه دهد.",
       "summary_fa": "در حالی که این برخورد یک تصادف بود، یک هدیه علمی منحصر به فرد برای زمین شناسان سیاره ای است که می تواند داده های مهمی را برای ماموریت های فضایی آینده ارائه دهد.",
       "summary_en": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
@@ -125579,6 +126293,111 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "189759177592728f46830666f9473a58",
+      "title": "اپل مک بوک نئوهای بازسازی شده را با 100 دلار تخفیف می فروشد",
+      "title_fa": "اپل مک بوک نئوهای بازسازی شده را با 100 دلار تخفیف می فروشد",
+      "title_en": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+      "summary": "مقرون به صرفه ترین لپ تاپ اپل، مک بوک نئو، یک بار دیگر با قیمت بالا در دسترس است. هر چهار رنگ در حال حاضر دارای تخفیف هستند و از طریق شرکت بازسازی شده اند، مدل پایه 256 گیگابایتی با قیمت 599 دلار (معمولاً 699 دلار جدید) و نسخه ارتقا یافته با 512 گیگابایت فضای ذخیره سازی و TouchID با قیمت 679 دلار (معمولاً 799 دلار) به فروش می رسد. […]",
+      "summary_fa": "مقرون به صرفه ترین لپ تاپ اپل، مک بوک نئو، یک بار دیگر با قیمت بالا در دسترس است. هر چهار رنگ در حال حاضر دارای تخفیف هستند و از طریق شرکت بازسازی شده اند، مدل پایه 256 گیگابایتی با قیمت 599 دلار (معمولاً 699 دلار جدید) و نسخه ارتقا یافته با 512 گیگابایت فضای ذخیره سازی و TouchID با قیمت 679 دلار (معمولاً 799 دلار) به فروش می رسد. […]",
+      "summary_en": "Apple’s most affordable laptop, the MacBook Neo, is available once again at its pre-price hike price. All four colors are currently discounted and available refurbished through the company, with the base 256GB model listed for $599 (usually $699 new), and the upgraded version with 512GB of storage and TouchID selling for $679 (usually $799). The […]",
+      "link": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-05T12:59:23-04:00",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2cc5219f9a231b6947f53adfdbf9e08",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "source": "The Verge",
+      "published_at": "2026-08-05T12:57:25-04:00",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e5cb9b54d0564b4965157cc24645f695",
+      "title": "گوگل به تازگی تغییر عمده ای را در رهبری برتر هوش مصنوعی خود اعلام کرده است",
+      "title_fa": "گوگل به تازگی تغییر عمده ای را در رهبری برتر هوش مصنوعی خود اعلام کرده است",
+      "title_en": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "گوگل در حال ایجاد برخی تغییرات مهم در رهبری هوش مصنوعی است، از جمله یک تغییر بزرگ برای رهبر Demis Hassabis، رهبر Google DeepMind. ساندار پیچای، مدیرعامل شرکت آلفابت، روز چهارشنبه اعلام کرد که Hassabis رئیس Google DeepMind و دانشمند ارشد Alphabet خواهد شد. Hassabis به رهبری آزمایشگاه ایزومورفیک آلفابت ادامه خواهد داد که هدف آن استفاده از هوش مصنوعی برای تولید دارو است. کورای […]",
+      "summary_fa": "گوگل در حال ایجاد برخی تغییرات مهم در رهبری هوش مصنوعی است، از جمله یک تغییر بزرگ برای رهبر Demis Hassabis، رهبر Google DeepMind. ساندار پیچای، مدیرعامل شرکت آلفابت، روز چهارشنبه اعلام کرد که Hassabis رئیس Google DeepMind و دانشمند ارشد Alphabet خواهد شد. Hassabis به رهبری آزمایشگاه ایزومورفیک آلفابت ادامه خواهد داد که هدف آن استفاده از هوش مصنوعی برای تولید دارو است. کورای […]",
+      "summary_en": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray […]",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge",
+      "published_at": "2026-08-05T12:47:23-04:00",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42ab37f23b153ab2661e06fc1aca3340",
+      "title": "SpaceX به سختی Space و بیشتر X است",
+      "title_fa": "SpaceX به سختی Space و بیشتر X است",
+      "title_en": "SpaceX is barely Space and mostly X",
+      "summary": "یک بار، من چند سوال داشتم که چرا اسپیس ایکس، سالم ترین شرکت ایلان ماسک، xAI را که بیمارترین شرکت او بود، خریداری کرد. حالا من چند سوال دارم در مورد اینکه چرا ما کل چیز را SpaceX می نامیم. ببینید، آنچه که ما در اینجا داریم، بر اساس درآمد، در درجه اول یک شرکت مخابراتی و شرکتی است که محاسبات را اجاره می‌کند، طبق اولین بیانیه درآمد سه ماهه SpaceX […]",
+      "summary_fa": "یک بار، من چند سوال داشتم که چرا اسپیس ایکس، سالم ترین شرکت ایلان ماسک، xAI را که بیمارترین شرکت او بود، خریداری کرد. حالا من چند سوال دارم در مورد اینکه چرا ما کل چیز را SpaceX می نامیم. ببینید، آنچه که ما در اینجا داریم، بر اساس درآمد، در درجه اول یک شرکت مخابراتی و شرکتی است که محاسبات را اجاره می‌کند، طبق اولین بیانیه درآمد سه ماهه SpaceX […]",
+      "summary_en": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement […]",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "source": "The Verge",
+      "published_at": "2026-08-05T12:35:56-04:00",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "18b76323ac21f911bb93457a41189796",
+      "title": "Reddit یک مدیر جدید را معرفی می کند: AI",
+      "title_fa": "Reddit یک مدیر جدید را معرفی می کند: AI",
+      "title_en": "Reddit is introducing a new moderator: AI",
+      "summary": "Reddit در حال استفاده از هوش مصنوعی برای کمک به تعدیل subreddit های جدید - و در نهایت بقیه سایت ها است. این شرکت در حال معرفی ابزارهای تعدیل خودکار است که به LLM ها برای کمک به مدها برای مدیریت جوامع خود متکی هستند، و در حال گسترش است که چه کسانی می توانند از این ابزارها امروز قبل از راه اندازی کامل در اواخر سال جاری استفاده کنند. این شرکت این مجموعه را […]",
+      "summary_fa": "Reddit در حال استفاده از هوش مصنوعی برای کمک به تعدیل subreddit های جدید - و در نهایت بقیه سایت ها است. این شرکت در حال معرفی ابزارهای تعدیل خودکار است که به LLM ها برای کمک به مدها برای مدیریت جوامع خود متکی هستند، و در حال گسترش است که چه کسانی می توانند از این ابزارها امروز قبل از راه اندازی کامل در اواخر سال جاری استفاده کنند. این شرکت این مجموعه را […]",
+      "summary_en": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite […]",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "source": "The Verge",
+      "published_at": "2026-08-05T12:00:00-04:00",
+      "date_iso": "2026-08-05",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
