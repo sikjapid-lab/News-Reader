@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-06 10:07:43",
-  "total_count": 6769,
+  "last_update": "2026-08-06 12:18:19",
+  "total_count": 6813,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -21315,6 +21315,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ce7975243b936e0346718e657f0556a8",
+      "title": "متا اولین عامل کدنویسی هوش مصنوعی را برای مقابله با Anthropic و OpenAI معرفی کرد",
+      "title_fa": "متا اولین عامل کدنویسی هوش مصنوعی را برای مقابله با Anthropic و OpenAI معرفی کرد",
+      "title_en": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "summary": "متا اولین عامل برنامه نویسی خود را به نام Muse Code منتشر کرد زیرا این شرکت سرمایه گذاری خود را در مدل ها و خدمات هوش مصنوعی افزایش می دهد تا آنتروپیک و OpenAI را امتحان کند.",
+      "summary_fa": "متا اولین عامل برنامه نویسی خود را به نام Muse Code منتشر کرد زیرا این شرکت سرمایه گذاری خود را در مدل ها و خدمات هوش مصنوعی افزایش می دهد تا آنتروپیک و OpenAI را امتحان کند.",
+      "summary_en": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+      "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 05 Aug 2026 21:03:12 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -72227,6 +72248,258 @@
       }
     },
     {
+      "id": "d4ac5e6a5c4153646117f7e41a3cac50",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Iran denied it was in talks with Washington, despite claims by Trump to the contrary.",
+      "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 12:17:28 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d993da402957ac74caf574e1330d899f",
+      "title": "برادران وارنر دیسکاوری گزارش می دهد که جهش 10 درصدی در درآمد پخش جریانی قبل از ترکیب پیشنهادی پارامونت",
+      "title_fa": "برادران وارنر دیسکاوری گزارش می دهد که جهش 10 درصدی در درآمد پخش جریانی قبل از ترکیب پیشنهادی پارامونت",
+      "title_en": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
+      "summary": "درآمد بخش استریم برادران وارنر دیسکاوری در سه ماهه دوم از 3 میلیون دلار فراتر رفت که نسبت به سال قبل 10 درصد افزایش داشت.",
+      "summary_fa": "درآمد بخش استریم برادران وارنر دیسکاوری در سه ماهه دوم از 3 میلیون دلار فراتر رفت که نسبت به سال قبل 10 درصد افزایش داشت.",
+      "summary_en": "Warner Bros. Discovery's streaming segment surpassed $3 million in revenue for the second quarter, marking a 10% increase from the year prior",
+      "link": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 12:13:37 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "097ee82d604b66f42643501260b0eeaa",
+      "title": "اتحادیه اروپا از کشورهای حوزه کارائیب می خواهد که برنامه های پاسپورت طلایی را تعطیل کنند یا با محدودیت های سفر مواجه شوند",
+      "title_fa": "اتحادیه اروپا از کشورهای حوزه کارائیب می خواهد که برنامه های پاسپورت طلایی را تعطیل کنند یا با محدودیت های سفر مواجه شوند",
+      "title_en": "EU urges Caribbean nations to shut down golden passport programs or face travel restrictions",
+      "summary": "",
+      "summary_fa": "",
+      "summary_en": "",
+      "link": "https://www.cnbc.com/2026/08/06/-eu-cracks-down-on-caribbean-golden-passport-programs-with-visa-threat.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 12:11:20 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6e2c0e2c18dc8d71d80c5202317f9a4f",
+      "title": "رهبر میانمار در تلاش برای تقویت مشروعیت بین المللی از تایلند بازدید می کند",
+      "title_fa": "رهبر میانمار در تلاش برای تقویت مشروعیت بین المللی از تایلند بازدید می کند",
+      "title_en": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 12:04:36 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be88ac8860bd0e7779c080a0ec141d4d",
+      "title": "5 بهترین یادداشت‌نویس هوش مصنوعی (2026)، آزمایش شده و بازبینی شده",
+      "title_fa": "5 بهترین یادداشت‌نویس هوش مصنوعی (2026)، آزمایش شده و بازبینی شده",
+      "title_en": "5 Best AI Notetakers (2026), Tested and Reviewed",
+      "summary": "مجموعه ای رو به رشد از ابزارهای جیبی به شما امکان می دهد به راحتی ضبط کنید و اطلاعات را از آنها استخراج کنید. در اینجا موارد مورد علاقه ما هستند.",
+      "summary_fa": "مجموعه ای رو به رشد از ابزارهای جیبی به شما امکان می دهد به راحتی ضبط کنید و اطلاعات را از آنها استخراج کنید. در اینجا موارد مورد علاقه ما هستند.",
+      "summary_en": "A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them. Here are our favorites.",
+      "link": "https://www.wired.com/gallery/best-ai-notetakers/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 12:02:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7f73c27608f6aa17891c20fa73afe4d0",
+      "title": "سهام اسپیس ایکس ممکن است با فشار بیشتری روبرو شود زیرا اولین دسته از سهام از زمان عرضه اولیه سهام باز می شود",
+      "title_fa": "سهام اسپیس ایکس ممکن است با فشار بیشتری روبرو شود زیرا اولین دسته از سهام از زمان عرضه اولیه سهام باز می شود",
+      "title_en": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
+      "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e642c5cdfbe83b1706cbd236e4d71af",
+      "title": "شکیل اونیل می گوید رفتار بازیکنان WNBA با کیتلین کلارک یک آیین است",
+      "title_fa": "شکیل اونیل می گوید رفتار بازیکنان WNBA با کیتلین کلارک یک آیین است",
+      "title_en": "Shaquille O'Neal says WNBA players' treatment of Caitlin Clark is a rite of passage",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Harsh fouls against Clark and WNBA officiating have fueled a national debate, with some lawmakers demanding accountability from the league.",
+      "link": "https://www.cnbc.com/2026/08/06/shaquille-oneal-caitlin-clark-rite-of-passage.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f1e741c273fc222d77562e162380acdb",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control",
+      "summary": "دانش‌آموزان و والدین به لطف تورم و گرایش‌های رسانه‌های اجتماعی، بودجه‌های بازگشت به مدرسه خود را کاهش می‌دهند.",
+      "summary_fa": "دانش‌آموزان و والدین به لطف تورم و گرایش‌های رسانه‌های اجتماعی، بودجه‌های بازگشت به مدرسه خود را کاهش می‌دهند.",
+      "summary_en": "Students and parents are breaking their back-to-school budgets thanks to inflation and social-media trends.",
+      "link": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 12:00:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-07402742",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "819c105015e08a76c9660c456ea181c5",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Meteor Showers, Eclipses, and More Are on the August 2026 Astronomical Calendar",
+      "summary": "در اینجا زمانی است که برخی از مورد انتظارترین رویدادهای نجومی امسال رخ می دهند و بهترین راه برای رصد آنهاست.",
+      "summary_fa": "در اینجا زمانی است که برخی از مورد انتظارترین رویدادهای نجومی امسال رخ می دهند و بهترین راه برای رصد آنهاست.",
+      "summary_en": "Here’s when some of this year’s most anticipated astronomical events will happen and the best way to observe them.",
+      "link": "https://www.wired.com/story/perseid-meteor-shower-eclipses-august-2026-astronomical-calendar/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 12:00:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4077932d5ab214d30c2d42e201141609",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Video: Wildfires in Washington state force thousands to evacuate homes",
+      "summary": "آتش سوزی های جنگلی در ایالت واشنگتن و کالیفرنیا به بیش از هزار ساختمان آسیب رسانده است.",
+      "summary_fa": "آتش سوزی های جنگلی در ایالت واشنگتن و کالیفرنیا به بیش از هزار ساختمان آسیب رسانده است.",
+      "summary_en": "Wildfires in Washington state and California have damaged over a thousand structures.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 11:59:30 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "efbf1d4fd47a3ac85b282ab6ffd3962a",
+      "title": "75 درصد از کسب‌وکارهای اروپایی از تغییر فن‌آوری ایالات متحده می‌ترسند - شرکت‌های آمریکایی نیز باید این کار را انجام دهند",
+      "title_fa": "75 درصد از کسب‌وکارهای اروپایی از تغییر فن‌آوری ایالات متحده می‌ترسند - شرکت‌های آمریکایی نیز باید این کار را انجام دهند",
+      "title_en": "75% of European businesses fear a US tech kill switch - American companies should, too",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Businesses on both sides of the Atlantic may be too dependent on a handful of tech providers, leaving them vulnerable to being cut off.",
+      "link": "https://www.zdnet.com/article/most-european-businesses-fear-us-tech-kill-switch-american-companies-should-too/",
+      "source": "ZDNet",
+      "published_at": "Thu, 06 Aug 2026 11:59:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "664048500faafff9f87a1a63a2349f77",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Students using AI to cheat will face stricter rules, says Danish government",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Teenagers must make oral defence of essays and schools will monitor computers during exams under crackdownDanish teenagers will have to make an oral defence of their written essays to combat AI cheating, the government has announced.Pupils aged 16 to 19 at upper secondary school (known in Denmark as gymnasiet) will also be encouraged to do written assignments at school under controlled conditions, including monitoring of their computer screens, rather than at home. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 11:58:15 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9713aeefa4f5c0922b0c70b13abf2c617046b816/840_0_6687_5349/master/6687.jpg?width=140&quality=85&auto=format&fit=max&s=3ae7a9f596db5b09f02013f89351ad9c",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "928b149950a2123f96e611bf115efc53",
       "title": "توکیو، پورتو و ملبورن بهترین شهرهای جهان را برای Gen Z توسط Time Out معرفی کردند",
       "title_fa": "توکیو، پورتو و ملبورن بهترین شهرهای جهان را برای Gen Z توسط Time Out معرفی کردند",
@@ -72269,6 +72542,27 @@
       }
     },
     {
+      "id": "6116f157cb5ba4b1985051b4d995ef2d",
+      "title": "جنگ‌ها، آتش‌سوزی‌ها و مهاجران اروپا را برای کنترل ترک می‌کنند",
+      "title_fa": "جنگ‌ها، آتش‌سوزی‌ها و مهاجران اروپا را برای کنترل ترک می‌کنند",
+      "title_en": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
+      "summary": "یک تابستان وحشیانه نشان داد که کشورهای اروپایی چقدر تحت فشار نیروهایی هستند که عمدتاً از کنترل آنها خارج شده اند: جنگ در ایران و اوکراین، گرمای بی سابقه و موارد دیگر.",
+      "summary_fa": "یک تابستان وحشیانه نشان داد که کشورهای اروپایی چقدر تحت فشار نیروهایی هستند که عمدتاً از کنترل آنها خارج شده اند: جنگ در ایران و اوکراین، گرمای بی سابقه و موارد دیگر.",
+      "summary_en": "A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more.",
+      "link": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 11:49:59 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-europe-pressure-01-qzct/06int-europe-pressure-01-qzct-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "0051ec7a90de363ee1bd41d6e305936f",
       "title": "پارلمان مجارستان در حالی که این کشور در انتظار نامزد مجارستان است، برای رئیس جمهور جدید رای می دهد",
       "title_fa": "پارلمان مجارستان در حالی که این کشور در انتظار نامزد مجارستان است، برای رئیس جمهور جدید رای می دهد",
@@ -72282,6 +72576,27 @@
       "date_iso": "2026-08-06",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e5860db3559cdef3ee5afbc8503443a4",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
+      "summary": "Diageo که برندهای آن شامل ویسکی اسکاچ جانی واکر، رام کاپیتان مورگان و گینس استات است، گفت که هزینه های مربوط به برنامه پس انداز بالغ بر 1.2 میلیارد دلار خواهد بود.",
+      "summary_fa": "Diageo که برندهای آن شامل ویسکی اسکاچ جانی واکر، رام کاپیتان مورگان و گینس استات است، گفت که هزینه های مربوط به برنامه پس انداز بالغ بر 1.2 میلیارد دلار خواهد بود.",
+      "summary_en": "Diageo, whose brands include Johnnie Walker scotch whisky, Captain Morgan rum and Guinness stout, said costs relating to the savings program will amount to $1.2 billion.",
+      "link": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 11:45:02 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72332,6 +72647,90 @@
       }
     },
     {
+      "id": "c08460fc43fce47c46c4224b32cfd0fd",
+      "title": "با افزایش کسب و کار برگر کینگ در ایالات متحده، درآمدهای برندهای بین المللی رستوران ها کاهش یافت",
+      "title_fa": "با افزایش کسب و کار برگر کینگ در ایالات متحده، درآمدهای برندهای بین المللی رستوران ها کاهش یافت",
+      "title_en": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
+      "summary": "تجارت برگر کینگ در ایالات متحده رشد فروش در همان فروشگاه را 8.5٪ گزارش کرد.",
+      "summary_fa": "تجارت برگر کینگ در ایالات متحده رشد فروش در همان فروشگاه را 8.5٪ گزارش کرد.",
+      "summary_en": "Burger King's U.S. business reported same-store sales growth of 8.5%.",
+      "link": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 11:38:35 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4fa0cb394018138311a4f6e49c3229b0",
+      "title": "خوب، بد و سبز بادنوخ",
+      "title_fa": "خوب، بد و سبز بادنوخ",
+      "title_en": "The good, the bad and the green of Badenoch",
+      "summary": "موضع رهبر محافظه‌کاران در مورد آب و هوا، بزرگ‌ترین نقاط قوت و ضعف او را آشکار می‌کند",
+      "summary_fa": "موضع رهبر محافظه‌کاران در مورد آب و هوا، بزرگ‌ترین نقاط قوت و ضعف او را آشکار می‌کند",
+      "summary_en": "The Tory leader’s stance on climate exposes her greatest strength and weaknesses",
+      "link": "https://www.ft.com/content/4b3f2499-6f1a-46df-81c0-fbcb651b2c60?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 06 Aug 2026 11:37:32 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0575e040-4a32-40cb-a1d5-d6bf6b31c342.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "25d9dd959a002f1cb6fd5e692d468b24",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Can the US slow China’s robotics and tech rise?",
+      "summary": "محدودیت‌های ایالات متحده بر روی ربات‌های ساخت خارجی، رقابت گسترده‌تر آن را با چین بر سر هوش مصنوعی، تراشه‌ها و صنعت تشدید می‌کند.",
+      "summary_fa": "محدودیت‌های ایالات متحده بر روی ربات‌های ساخت خارجی، رقابت گسترده‌تر آن را با چین بر سر هوش مصنوعی، تراشه‌ها و صنعت تشدید می‌کند.",
+      "summary_en": "US curbs on foreign-made robots intensify its wider rivalry with China over AI, chips and industry.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 11:35:47 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "ee79b707fb0b669a9e598db5b7b91c30",
+      "title": "بهترین شارژر اندروید: بی سیم، قابل حمل، کابلی (2026)",
+      "title_fa": "بهترین شارژر اندروید: بی سیم، قابل حمل، کابلی (2026)",
+      "title_en": "Best Android Charger: Wireless, Portable, Cable (2026)",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Whether you’re charging overnight at home or on the go, these are the fastest, most dependable Android chargers we’ve tested.",
+      "link": "https://www.wired.com/story/best-android-charger/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 11:34:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "eb2cc7ed2c93078bcbd422c466f897f4",
       "title": "60 سال اتحاد سواحل تاگوس: پل 25 de Abril همچنان شلوغ ترین گذرگاه پرتغال است.",
       "title_fa": "60 سال اتحاد سواحل تاگوس: پل 25 de Abril همچنان شلوغ ترین گذرگاه پرتغال است.",
@@ -72350,6 +72749,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cbea146b37b7e87eed45e7205c7dd05d",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "33 stocks to bet on foreign markets continuing to beat the S&P 500",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Surprisingly, many foreign markets are way ahead of the U.S. in year-to-date performance.",
+      "link": "https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 11:30:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-54080246",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "269294c13c44f2510b129c7ae3e721da",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "N.Y. Doctor Sentenced in Japan for Vandalizing Ancient Religious Sites",
+      "summary": "ماساهید کانایاما، جراح و متخصص اندومتریوز، پس از اینکه دادگاه او را به دلیل آسیب رساندن به سایت‌ها مجرم تشخیص داد، به 18 ماه حبس تعلیقی محکوم شد.",
+      "summary_fa": "ماساهید کانایاما، جراح و متخصص اندومتریوز، پس از اینکه دادگاه او را به دلیل آسیب رساندن به سایت‌ها مجرم تشخیص داد، به 18 ماه حبس تعلیقی محکوم شد.",
+      "summary_en": "Masahide Kanayama, a surgeon and an expert in endometriosis, received an 18-month suspended sentence after a court found him guilty of damaging the sites.",
+      "link": "https://www.nytimes.com/2026/08/06/world/asia/japan-vandalism-doctor-prison-sentence.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 11:27:53 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06xp-doctor-hmwg/06xp-doctor-hmwg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
       }
     },
     {
@@ -72374,6 +72815,321 @@
       }
     },
     {
+      "id": "ce85665c8d3e4b3e470b2ed460d655ce",
+      "title": "متهم به قتل یک امدادگر اسکاتلندی در یونان",
+      "title_fa": "متهم به قتل یک امدادگر اسکاتلندی در یونان",
+      "title_en": "Man charged with killing Scottish aid worker in Greece",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 11:22:55 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5682/live/792acf90-9186-11f1-8e84-2d20095c7a4b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e7e48e7bf54255b72cd1d57bbf438a4",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints",
+      "summary": "Peloton اولین سود سالانه خود را در سال مالی 2026 ارائه کرد، اما همچنان در تلاش است تا رشد فروش را ایجاد کند زیرا مصرف کنندگان از خرید بلیط های بزرگ عقب نشینی می کنند.",
+      "summary_fa": "Peloton اولین سود سالانه خود را در سال مالی 2026 ارائه کرد، اما همچنان در تلاش است تا رشد فروش را ایجاد کند زیرا مصرف کنندگان از خرید بلیط های بزرگ عقب نشینی می کنند.",
+      "summary_en": "Peloton delivered its first ever annual profit in fiscal 2026 but it's still working to generate sales growth as consumers pull back on big ticket purchases.",
+      "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 11:20:41 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "21f9cef94a26b1d706e73b65cbc7f2a9",
+      "title": "شیوع ابولا با اعتصاب کارکنان مراقبت‌های بهداشتی برای پرداخت حقوق شتاب می‌گیرد",
+      "title_fa": "شیوع ابولا با اعتصاب کارکنان مراقبت‌های بهداشتی برای پرداخت حقوق شتاب می‌گیرد",
+      "title_en": "Ebola outbreak accelerates as healthcare workers strike over pay",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Ebola outbreak accelerates as healthcare workers strike over pay",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 11:20:41 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0a4052a4f884a2d884fbc616ae05f38e",
+      "title": "رئیس Diageo، لوئیس، کاهش هزینه های تهاجمی را برای احیای گروه نوشیدنی راه اندازی می کند",
+      "title_fa": "رئیس Diageo، لوئیس، کاهش هزینه های تهاجمی را برای احیای گروه نوشیدنی راه اندازی می کند",
+      "title_en": "Diageo boss Lewis launches aggressive cost-cutting to revive drinks group",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Thousands of staff to be laid off in restructuring plan unveiled by new chief",
+      "link": "https://www.ft.com/content/a4271da3-ed2e-4d1e-bef2-dc58d82ad45c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 06 Aug 2026 11:13:35 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36ca0785-30e2-493c-a635-81f084849ee1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "90e28e8cf8ed053f21ebdff8e2ce0850",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...",
+      "link": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 11:11:46 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=118545bcd87455f52a548005f3edb3c6",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "aabc095ae927ebadbf2cc9a6766838f9",
+      "title": "صندوق‌های تامینی که به اجبار از سهام فناوری خارج می‌شوند، ممکن است بازار را در اختیار معامله‌گران خرده‌فروشی بگذارند",
+      "title_fa": "صندوق‌های تامینی که به اجبار از سهام فناوری خارج می‌شوند، ممکن است بازار را در اختیار معامله‌گران خرده‌فروشی بگذارند",
+      "title_en": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
+      "summary": "استراتژیست‌های جی‌پی مورگان می‌گویند که برخی از گروه‌های بزرگ صندوق‌های تامینی ضربه‌های سنگینی را در فروش فناوری جولای متحمل شدند و ممکن است در آینده کمتر از این سهام خریداری کنند.",
+      "summary_fa": "استراتژیست‌های جی‌پی مورگان می‌گویند که برخی از گروه‌های بزرگ صندوق‌های تامینی ضربه‌های سنگینی را در فروش فناوری جولای متحمل شدند و ممکن است در آینده کمتر از این سهام خریداری کنند.",
+      "summary_en": "JPMorgan strategists say some big hedge-fund groups took heavy hits in the July tech selloff, and they may be buying far less of those stocks going forward.",
+      "link": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 11:06:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-44031056",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "332dff7b9d34b90199250dba053a9092",
+      "title": "درآمد SoftBank حتی بدون تقویت OpenAI فراتر از انتظارات است. این شرکت تولید کننده تراشه آمریکایی روز را نجات داد.",
+      "title_fa": "درآمد SoftBank حتی بدون تقویت OpenAI فراتر از انتظارات است. این شرکت تولید کننده تراشه آمریکایی روز را نجات داد.",
+      "title_en": "SoftBank earnings exceed expectations, even without an OpenAI boost. This U.S. chip company saved the day.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The Japanese company’s investment in Intel paid off.",
+      "link": "https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 11:03:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02853798",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "cc4d4be1c73328ef75ec48ba6fc39947",
+      "title": "Versant چشم انداز سال 2026 را در مورد قدرت بخش پلت فرم ها و شتاب تبلیغات افزایش می دهد",
+      "title_fa": "Versant چشم انداز سال 2026 را در مورد قدرت بخش پلت فرم ها و شتاب تبلیغات افزایش می دهد",
+      "title_en": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
+      "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 11:02:05 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "570f81e3073b0087f1cd5b1a97fc4ae7",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "AI isn’t enough to protect social media communities from AI",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Why humans need to moderate humans.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 06 Aug 2026 11:00:44 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5dbccafb11a9781b92693b51923ca219",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Kevin Warsh to stick with lean Fed messaging despite market backlash",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "US central bank chair remains confident that sweeping reforms will win over key investors",
+      "link": "https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 06 Aug 2026 11:00:09 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6314062e-2d43-40ad-a864-8ccca1fd0479.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df2d19535a6a37140d2c97ea2b058cac",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Gastelum's death comes after the killing of TikToker Valeria Marquez last year.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 11:00:07 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a7f9dd7ed4facb9da81e0f3c9e6571a9",
+      "title": "روزهای سگی تابستان؟ گزارش مشاغل جولای احتمالاً سرعت ملایمی از استخدام را نشان می دهد.",
+      "title_fa": "روزهای سگی تابستان؟ گزارش مشاغل جولای احتمالاً سرعت ملایمی از استخدام را نشان می دهد.",
+      "title_en": "Dog days of summer? July jobs report likely to show soft pace of hiring.",
+      "summary": "بازار کار ایالات متحده برای افرادی که به دنبال کار هستند خیلی بهتر نمی شود - اما بدتر هم نمی شود.",
+      "summary_fa": "بازار کار ایالات متحده برای افرادی که به دنبال کار هستند خیلی بهتر نمی شود - اما بدتر هم نمی شود.",
+      "summary_en": "The U.S. jobs market isn’t getting much better for people looking for work — but it’s not getting any worse, either.",
+      "link": "https://www.marketwatch.com/story/dogs-days-of-summer-july-jobs-report-likely-to-show-soft-pace-of-hiring-39f6eed4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 11:00:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-35492980",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0200c05a0f5a5152e589d5673f2ab3fd",
+      "title": "نقد و بررسی Samsung Odyssey G8 6K: Pixel Overdose",
+      "title_fa": "نقد و بررسی Samsung Odyssey G8 6K: Pixel Overdose",
+      "title_en": "Samsung Odyssey G8 6K Review: Pixel Overdose",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Samsung dared to bring 6K to the world of gaming monitors before our PCs were truly ready for it.",
+      "link": "https://www.wired.com/review/samsung-g8-g80hs/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 11:00:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd3f60093205583467cc63283bff550e",
+      "title": "رئیس کوانتومی مایکروسافت اهمیتی نمی دهد که دانشمندان نتایج او را باور نکنند",
+      "title_fa": "رئیس کوانتومی مایکروسافت اهمیتی نمی دهد که دانشمندان نتایج او را باور نکنند",
+      "title_en": "Microsoft’s Quantum Chief Doesn’t Care That Scientists Don’t Believe His Results",
+      "summary": "زلفی علم فکر می‌کند که تیمش نیازی به «ثابت» ندارند که حالت جدیدی از ماده را در تلاش خود برای اختراع مجدد محاسبات مهندسی کرده‌اند. علم مخالفت خواهد کرد.",
+      "summary_fa": "زلفی علم فکر می‌کند که تیمش نیازی به «ثابت» ندارند که حالت جدیدی از ماده را در تلاش خود برای اختراع مجدد محاسبات مهندسی کرده‌اند. علم مخالفت خواهد کرد.",
+      "summary_en": "Zulfi Alam thinks his team doesn’t need to “prove” they engineered a new state of matter in their bid to reinvent computing. Science would disagree.",
+      "link": "https://www.wired.com/story/microsoft-quantum-chief-majorana-results/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 11:00:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c011d9f96bd1b39226470adfcbb10ae0",
+      "title": "آنچه اعتراضات CJP در مورد نسل بعدی هند نشان می دهد",
+      "title_fa": "آنچه اعتراضات CJP در مورد نسل بعدی هند نشان می دهد",
+      "title_en": "What the CJP protests reveal about India’s next generation",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The politics of aspiration is reshaping Generation Z worldwide, and India may still have an opportunity to respond.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 10:55:54 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d32a69e07766f3b7901888f862a805b2",
       "title": "وزیر امور دریانوردی می گوید جریان مهاجران به یونان در سال 2026 34 درصد کاهش یافته است.",
       "title_fa": "وزیر امور دریانوردی می گوید جریان مهاجران به یونان در سال 2026 34 درصد کاهش یافته است.",
@@ -72387,6 +73143,69 @@
       "date_iso": "2026-08-06",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93747ed0aaa7c606b40ac87da95d3882",
+      "title": "بررسی سرعت Shark PowerDetect (2026): سبک و قدرتمند",
+      "title_fa": "بررسی سرعت Shark PowerDetect (2026): سبک و قدرتمند",
+      "title_en": "Shark PowerDetect Speed Review (2026): Light and Powerful",
+      "summary": "PowerDetect Speed ​​جدید Shark نسبت به نسخه اصلی سبک تر و مقرون به صرفه تر است، اما همچنان توانسته است بیشتر تست های خلاء من را انجام دهد.",
+      "summary_fa": "PowerDetect Speed ​​جدید Shark نسبت به نسخه اصلی سبک تر و مقرون به صرفه تر است، اما همچنان توانسته است بیشتر تست های خلاء من را انجام دهد.",
+      "summary_en": "Shark’s new PowerDetect Speed is lighter and more affordable than the original, but still managed to ace most of my vacuum tests.",
+      "link": "https://www.wired.com/review/shark-powerdetect-speed/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 10:30:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "58e1b9f971e797b7c4ebae878d11d558",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Chevron and Williams are big winners in the race to power artificial intelligence as they build out gas-fired power plants and pipelines.",
+      "link": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 10:30:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4b8425f6d8558b72741546abd8008e00",
+      "title": "جیسون آردی، پروفسور کمبریج در بحبوحه اتهامات سرقت ادبی استعفا داد",
+      "title_fa": "جیسون آردی، پروفسور کمبریج در بحبوحه اتهامات سرقت ادبی استعفا داد",
+      "title_en": "Cambridge professor Jason Arday quits amid plagiarism allegations",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The scholar announced his resignation amid a new investigation into his qualifications.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 10:24:59 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -72413,6 +73232,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4bc54724cc5bf68341737297559e936e",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+      "summary": "مقامات آمریکایی می گویند که آنها هیچ ترتیبی در مورد آبراهی که ایران را تحت کنترل خود بگذارد، نمی پذیرند.",
+      "summary_fa": "مقامات آمریکایی می گویند که آنها هیچ ترتیبی در مورد آبراهی که ایران را تحت کنترل خود بگذارد، نمی پذیرند.",
+      "summary_en": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 10:20:57 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -72458,6 +73298,27 @@
       }
     },
     {
+      "id": "1f532bb0380e349ddd7de62265801ab2",
+      "title": "اووری، ستاره فوتبال اوگاندا، هفته‌ها پس از مرگ گونگودیو راگبی کشته شد",
+      "title_fa": "اووری، ستاره فوتبال اوگاندا، هفته‌ها پس از مرگ گونگودیو راگبی کشته شد",
+      "title_en": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 10:13:26 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "cc33083a7c930ccbc5320f3d82915bd8",
       "title": "دوست دارید در ویلای دریاچه کومو از کازینو رویال زندگی کنید؟ یک آپارتمان در داخل اکنون در حال فروش است",
       "title_fa": "دوست دارید در ویلای دریاچه کومو از کازینو رویال زندگی کنید؟ یک آپارتمان در داخل اکنون در حال فروش است",
@@ -72479,6 +73340,27 @@
       }
     },
     {
+      "id": "51ff6a6af96a833615118c925a1d1181",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
+      "summary": "سهام SK Hynix در معاملات قبل از بازار سئول 30 درصد کاهش یافت و بیشتر ارزش از دست رفته را بازیابی کرد.",
+      "summary_fa": "سهام SK Hynix در معاملات قبل از بازار سئول 30 درصد کاهش یافت و بیشتر ارزش از دست رفته را بازیابی کرد.",
+      "summary_en": "SK Hynix stock dived 30% in premarket trade in Seoul before recovering much of the lost value.",
+      "link": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 10:08:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-25649173",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e5fae8b6a8b9fe5c39bd7b67bf85c84e",
       "title": "دیزنی و تیک تاک با ویدئوهای کوتاه فرمی که به دیزنی پلاس اضافه می‌شوند، قرارداد اشتراک‌گذاری محتوا امضا می‌کنند",
       "title_fa": "دیزنی و تیک تاک با ویدئوهای کوتاه فرمی که به دیزنی پلاس اضافه می‌شوند، قرارداد اشتراک‌گذاری محتوا امضا می‌کنند",
@@ -72493,6 +73375,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c662fb1de8e301fe7f3e40b776a616f",
+      "title": "12 بهترین اشتراک قهوه (2026)، تست شده توسط Caffeine Hounds",
+      "title_fa": "12 بهترین اشتراک قهوه (2026)، تست شده توسط Caffeine Hounds",
+      "title_en": "12 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "These services deliver freshly roasted, delicious coffee picks right to your door—each with its own twist.",
+      "link": "https://www.wired.com/gallery/best-coffee-subscriptions/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 10:02:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -132173,6 +133076,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e0debaf149b576b5e23645cc110a49d0",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Nintendo beats earnings thanks to US tariff refunds it won&#8217;t share with gamers",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that operating profits soared to 142.5 billion yen (about $902 million) between April 1st and June 30th, compared […]",
+      "link": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+      "source": "The Verge",
+      "published_at": "2026-08-06T06:58:20-04:00",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
