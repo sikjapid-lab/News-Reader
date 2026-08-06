@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-06 07:22:09",
-  "total_count": 6709,
+  "last_update": "2026-08-06 10:07:43",
+  "total_count": 6769,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -21672,6 +21672,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3da5/live/f0bb6c60-90f8-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4f585f5496e203161d18f1fec731a17a",
+      "title": "اسرائیل پس از کشته شدن دو سرباز در اثر انفجار به جنوب لبنان حمله کرد",
+      "title_fa": "اسرائیل پس از کشته شدن دو سرباز در اثر انفجار به جنوب لبنان حمله کرد",
+      "title_en": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "summary": "مقامات لبنانی می گویند که یک نفر در این حملات که پس از اولین تلفات نظامی اسرائیل در لبنان در بیش از یک ماه صورت گرفت، کشته شد.",
+      "summary_fa": "مقامات لبنانی می گویند که یک نفر در این حملات که پس از اولین تلفات نظامی اسرائیل در لبنان در بیش از یک ماه صورت گرفت، کشته شد.",
+      "summary_en": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 05 Aug 2026 20:03:36 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8d/live/b79b66f0-9167-11f1-8d49-afb9c19de776.jpg",
       "geo": {
         "lat": 31.0461,
         "lng": 34.8516,
@@ -72206,6 +72227,846 @@
       }
     },
     {
+      "id": "928b149950a2123f96e611bf115efc53",
+      "title": "توکیو، پورتو و ملبورن بهترین شهرهای جهان را برای Gen Z توسط Time Out معرفی کردند",
+      "title_fa": "توکیو، پورتو و ملبورن بهترین شهرهای جهان را برای Gen Z توسط Time Out معرفی کردند",
+      "title_en": "Tokyo, Porto and Melbourne named the world’s best cities for Gen Z by Time Out",
+      "summary": "نیمی از 20 شهر برتر برای متولدین 1997 تا 2012 در اروپا هستند.",
+      "summary_fa": "نیمی از 20 شهر برتر برای متولدین 1997 تا 2012 در اروپا هستند.",
+      "summary_en": "Half of the top 20 cities for those born between 1997 and 2012 are in Europe.",
+      "link": "http://www.euronews.com/travel/2026/08/06/tokyo-porto-and-melbourne-named-the-worlds-best-cities-for-gen-z-by-time-out",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:57:02 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "20edce9fe3b252d5f457a0711e6e34c6",
+      "title": "دولت ترامپ 100 میلیارد دلار تعرفه های «روز آزادی» را بازپرداخت می کند",
+      "title_fa": "دولت ترامپ 100 میلیارد دلار تعرفه های «روز آزادی» را بازپرداخت می کند",
+      "title_en": "Trump administration refunds $100 billion in “Liberation Day” tariffs",
+      "summary": "بازپرداخت ها به دنبال حکم 6-3 فوریه دادگاه عالی ایالات متحده است که بیان می کرد ترامپ فراتر از اختیارات تعیین مالیات کنگره عمل کرده است و هیچ اختیار قانون اساسی برای اعمال این مالیات های وارداتی ندارد.",
+      "summary_fa": "بازپرداخت ها به دنبال حکم 6-3 فوریه دادگاه عالی ایالات متحده است که بیان می کرد ترامپ فراتر از اختیارات تعیین مالیات کنگره عمل کرده است و هیچ اختیار قانون اساسی برای اعمال این مالیات های وارداتی ندارد.",
+      "summary_en": "The refunds follow a February US Supreme Court 6-3 ruling stating that Trump had acted beyond the Congress’ tax-setting authority and had no constitutional authority to impose these import taxes.",
+      "link": "http://www.euronews.com/business/2026/08/06/trump-administration-refunds-100-billion-in-liberation-day-tariffs",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:49:59 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0051ec7a90de363ee1bd41d6e305936f",
+      "title": "پارلمان مجارستان در حالی که این کشور در انتظار نامزد مجارستان است، برای رئیس جمهور جدید رای می دهد",
+      "title_fa": "پارلمان مجارستان در حالی که این کشور در انتظار نامزد مجارستان است، برای رئیس جمهور جدید رای می دهد",
+      "title_en": "Hungary's Parliament to vote on new president as the country awaits Magyar's candidate",
+      "summary": "رای پارلمان تنها چند هفته پس از آن صورت می گیرد که جودیت پولگار، قهرمان شطرنج، نامزدی نخست وزیر را رد کرد. مجیار هنوز نامزد خود را فاش نکرده است، اما با چندین چهره عمومی سرشناس ملاقات کرده است.",
+      "summary_fa": "رای پارلمان تنها چند هفته پس از آن صورت می گیرد که جودیت پولگار، قهرمان شطرنج، نامزدی نخست وزیر را رد کرد. مجیار هنوز نامزد خود را فاش نکرده است، اما با چندین چهره عمومی سرشناس ملاقات کرده است.",
+      "summary_en": "The parliamentary vote comes just weeks after chess champion Judit Polgár rejected the prime minister's nomination. Magyar has not revealed his candidate yet, but he has met with several high-profile public figures.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/hungarys-parliament-to-vote-on-new-president-as-the-country-awaits-magyars-candidate",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:45:09 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c365ee5cd7610a96b5600a8c2f20617",
+      "title": "ویدئوهای قدیمی و تصاویر تولید شده توسط هوش مصنوعی در مورد گذرگاه های سئوتا به صورت آنلاین پخش می شوند",
+      "title_fa": "ویدئوهای قدیمی و تصاویر تولید شده توسط هوش مصنوعی در مورد گذرگاه های سئوتا به صورت آنلاین پخش می شوند",
+      "title_en": "Old videos and AI-generated images spread online about Ceuta crossings",
+      "summary": "با پخش آنلاین تصاویر واقعی از گذرگاه‌های انبوه به سئوتا، کاربران عکس‌های تولید شده توسط هوش مصنوعی و فیلم‌های بازیافتی را با زیرنویس‌های گمراه‌کننده به اشتراک گذاشتند تا آب‌ها را گل آلود کنند.",
+      "summary_fa": "با پخش آنلاین تصاویر واقعی از گذرگاه‌های انبوه به سئوتا، کاربران عکس‌های تولید شده توسط هوش مصنوعی و فیلم‌های بازیافتی را با زیرنویس‌های گمراه‌کننده به اشتراک گذاشتند تا آب‌ها را گل آلود کنند.",
+      "summary_en": "As genuine images from the mass crossings into Ceuta spread online, users shared AI-generated photographs and recycled footage with misleading captions to muddy the waters.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/old-videos-and-ai-generated-images-spread-online-about-ceuta-crossings",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:41:47 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "83e68daf52e2b8a2f80d12bcbc740556",
+      "title": "فرانچسکو گوچینی، خواننده و ترانه سرای ایتالیایی در سن ۸۶ سالگی درگذشت",
+      "title_fa": "فرانچسکو گوچینی، خواننده و ترانه سرای ایتالیایی در سن ۸۶ سالگی درگذشت",
+      "title_en": "Francesco Guccini, Italian singer-songwriter, dies aged 86",
+      "summary": "فرانچسکو گوچینی، 86 ساله، چهره برجسته ترانه سرایی و فرهنگ ایتالیایی، در پاوانا درگذشت. یک مراسم تشییع جنازه خصوصی برگزار خواهد شد و یک مراسم عمومی برای سپتامبر برنامه ریزی شده است.",
+      "summary_fa": "فرانچسکو گوچینی، 86 ساله، چهره برجسته ترانه سرایی و فرهنگ ایتالیایی، در پاوانا درگذشت. یک مراسم تشییع جنازه خصوصی برگزار خواهد شد و یک مراسم عمومی برای سپتامبر برنامه ریزی شده است.",
+      "summary_en": "Francesco Guccini, 86, a towering figure of Italian songwriting and culture, has died in Pavana. A private funeral will be held, with a public ceremony planned for September.",
+      "link": "http://www.euronews.com/culture/2026/08/06/francesco-guccini-italian-singer-songwriter-dies-aged-86",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:39:42 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "eb2cc7ed2c93078bcbd422c466f897f4",
+      "title": "60 سال اتحاد سواحل تاگوس: پل 25 de Abril همچنان شلوغ ترین گذرگاه پرتغال است.",
+      "title_fa": "60 سال اتحاد سواحل تاگوس: پل 25 de Abril همچنان شلوغ ترین گذرگاه پرتغال است.",
+      "title_en": "60 years uniting the banks of the Tagus: 25 de Abril Bridge remains Portugal's busiest crossing",
+      "summary": "پل 25 دی ابریل که در سال 1966 افتتاح شد، شصتمین سالگرد خود را جشن می گیرد. گذرگاه بین لیسبون و آلمادا همچنان شلوغ ترین گذرگاه بر فراز تاگوس است، با حدود 150000 وسیله نقلیه در روز، در حالی که یک راه آهن جدید جاده ای بین چلاس و باریرو برنامه ریزی شده است.",
+      "summary_fa": "پل 25 دی ابریل که در سال 1966 افتتاح شد، شصتمین سالگرد خود را جشن می گیرد. گذرگاه بین لیسبون و آلمادا همچنان شلوغ ترین گذرگاه بر فراز تاگوس است، با حدود 150000 وسیله نقلیه در روز، در حالی که یک راه آهن جدید جاده ای بین چلاس و باریرو برنامه ریزی شده است.",
+      "summary_en": "Opened in 1966, the 25 de Abril Bridge is marking its 60th anniversary. The crossing between Lisbon and Almada remains the busiest over the Tagus, with around 150,000 vehicles a day, while a new road-rail link between Chelas and Barreiro is planned.",
+      "link": "http://www.euronews.com/travel/2026/08/06/60-years-uniting-banks-25-de-abril-bridge-remains-portugals-busiest-crossing",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:30:45 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b4798ae6ff2c03f3dece73a2277167f8",
+      "title": "شیوع ویروس نیل غربی در اروپا؟ یونان افزایش یافته است، ایتالیا پیشتاز عفونت است، اولین مورد در آلمان",
+      "title_fa": "شیوع ویروس نیل غربی در اروپا؟ یونان افزایش یافته است، ایتالیا پیشتاز عفونت است، اولین مورد در آلمان",
+      "title_en": "West Nile virus spreads in Europe? Greece reports surge, Italy leads infections, first case in Germany",
+      "summary": "یونان و ایتالیا بیشترین فعالیت ویروس نیل غربی را در اروپا در این فصل گزارش کرده اند.",
+      "summary_fa": "یونان و ایتالیا بیشترین فعالیت ویروس نیل غربی را در اروپا در این فصل گزارش کرده اند.",
+      "summary_en": "Greece and Italy are reporting the highest West Nile virus activity in Europe this season.",
+      "link": "http://www.euronews.com/health/2026/08/06/west-nile-virus-spreads-in-europe-greece-reports-surge-italy-leads-infections-first-case-i",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 11:27:30 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d32a69e07766f3b7901888f862a805b2",
+      "title": "وزیر امور دریانوردی می گوید جریان مهاجران به یونان در سال 2026 34 درصد کاهش یافته است.",
+      "title_fa": "وزیر امور دریانوردی می گوید جریان مهاجران به یونان در سال 2026 34 درصد کاهش یافته است.",
+      "title_en": "Migrant flows to Greece down 34% in 2026, maritime affairs minister says",
+      "summary": "شدیدترین کاهش در جریان مهاجرت از ترکیه است که 59 درصد کاهش یافته است، در حالی که ورود از لیبی کاهش بسیار کمتری در حدود 4 درصد را نشان می دهد.",
+      "summary_fa": "شدیدترین کاهش در جریان مهاجرت از ترکیه است که 59 درصد کاهش یافته است، در حالی که ورود از لیبی کاهش بسیار کمتری در حدود 4 درصد را نشان می دهد.",
+      "summary_en": "The sharpest decline is in migration flows from Turkey, down 59%, while arrivals from Libya showed a far smaller drop of about 4%.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/migrant-flows-to-greece-down-34-in-2026-maritime-affairs-minister-says",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:43:40 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "99c7c380207e56adb21755a2e466f5ed",
+      "title": "امیدواری مجیار نسبت به راه اندازی مجدد نیروگاه هسته ای پاکس با افزایش سطح آب دانوب",
+      "title_fa": "امیدواری مجیار نسبت به راه اندازی مجدد نیروگاه هسته ای پاکس با افزایش سطح آب دانوب",
+      "title_en": "Magyar optimistic about Paks nuclear power station restart as Danube water levels rise",
+      "summary": "به گفته پیتر ماگیار، سطح آب در حال حاضر چندین سانتی متر بالاتر از آستانه بحرانی بالا رفته است.",
+      "summary_fa": "به گفته پیتر ماگیار، سطح آب در حال حاضر چندین سانتی متر بالاتر از آستانه بحرانی بالا رفته است.",
+      "summary_en": "According to Péter Magyar, the water level has already climbed several centimetres above the critical threshold.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/magyar-optimistic-about-paks-nuclear-power-station-restart-as-danube-water-levels-rise",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:24:48 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be31ec4ff6d2ff5e81484d0062e494b4",
+      "title": "بیش از 1100 سال قدمت: قدیمی ترین درخت آلمان کشف شد",
+      "title_fa": "بیش از 1100 سال قدمت: قدیمی ترین درخت آلمان کشف شد",
+      "title_en": "More than 1,100 years old: Germany's oldest tree discovered",
+      "summary": "در یک چمنزار دورافتاده در آلگو، یک کتاب تاریخی زنده وجود دارد: سرخدار که ممکن است بیش از 1100 سال رشد کرده باشد و احتمالاً قدیمی ترین درخت آلمان است. غول غوغایی در نزدیکی Steibis چندین نسل عمر کرده است.",
+      "summary_fa": "در یک چمنزار دورافتاده در آلگو، یک کتاب تاریخی زنده وجود دارد: سرخدار که ممکن است بیش از 1100 سال رشد کرده باشد و احتمالاً قدیمی ترین درخت آلمان است. غول غوغایی در نزدیکی Steibis چندین نسل عمر کرده است.",
+      "summary_en": "On a remote meadow in the Allgäu stands a living history book: a yew that may have thrived for over 1,100 years, possibly Germany's oldest tree. The gnarled giant near Steibis has outlasted generations.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/more-than-1100-years-old-germanys-oldest-tree-discovered",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:20:00 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06f55d8389c2583b3ed698d42e1c0e5b",
+      "title": "با حمله مسکو به ایستگاه قطار و کشتی، اوکراین به پالایشگاه‌ها در عمق روسیه حمله می‌کند",
+      "title_fa": "با حمله مسکو به ایستگاه قطار و کشتی، اوکراین به پالایشگاه‌ها در عمق روسیه حمله می‌کند",
+      "title_en": "Ukraine hits refineries deep inside Russia as Moscow strikes train station and ship",
+      "summary": "بیش از چهار سال پس از آغاز تهاجم همه جانبه روسیه به اوکراین، دیپلماسی در بن بست است و دو کشور در حال افزایش حملات دوربرد هستند که باعث تعداد فزاینده ای از تلفات غیرنظامیان می شود.",
+      "summary_fa": "بیش از چهار سال پس از آغاز تهاجم همه جانبه روسیه به اوکراین، دیپلماسی در بن بست است و دو کشور در حال افزایش حملات دوربرد هستند که باعث تعداد فزاینده ای از تلفات غیرنظامیان می شود.",
+      "summary_en": "More than four years after the start of Russia's full-scale invasion of Ukraine, diplomacy is at a standstill and the two countries are ramping up long-range strikes, causing a growing number of civilian casualties.",
+      "link": "http://www.euronews.com/my-europe/2026/08/06/ukraine-hits-refineries-deep-inside-russia-as-moscow-strikes-train-station-and-ship",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:14:02 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "cc33083a7c930ccbc5320f3d82915bd8",
+      "title": "دوست دارید در ویلای دریاچه کومو از کازینو رویال زندگی کنید؟ یک آپارتمان در داخل اکنون در حال فروش است",
+      "title_fa": "دوست دارید در ویلای دریاچه کومو از کازینو رویال زندگی کنید؟ یک آپارتمان در داخل اکنون در حال فروش است",
+      "title_en": "Fancy living in the Lake Como villa from Casino Royale? An apartment inside is now on sale",
+      "summary": "یک آپارتمان دو خوابه و دو حمام در ویلا لا گاتا به تازگی توسط املاک بین المللی ساتبی ایتالیا ثبت شده است.",
+      "summary_fa": "یک آپارتمان دو خوابه و دو حمام در ویلا لا گاتا به تازگی توسط املاک بین المللی ساتبی ایتالیا ثبت شده است.",
+      "summary_en": "A two-bedroom, two-bathroom apartment in Villa La Gaeta has just been listed by Italy Sotheby's International Realty.",
+      "link": "http://www.euronews.com/travel/2026/08/06/fancy-living-in-the-lake-como-villa-from-casino-royale-an-apartment-inside-is-now-on-sale",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:12:54 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e5fae8b6a8b9fe5c39bd7b67bf85c84e",
+      "title": "دیزنی و تیک تاک با ویدئوهای کوتاه فرمی که به دیزنی پلاس اضافه می‌شوند، قرارداد اشتراک‌گذاری محتوا امضا می‌کنند",
+      "title_fa": "دیزنی و تیک تاک با ویدئوهای کوتاه فرمی که به دیزنی پلاس اضافه می‌شوند، قرارداد اشتراک‌گذاری محتوا امضا می‌کنند",
+      "title_en": "Disney and TikTok strike content-sharing deal with short-form videos to be added to Disney+",
+      "summary": "این قرارداد به سازندگان محتوای TikTok اجازه می‌دهد تا به طور رسمی به دارایی‌های دیزنی دسترسی داشته باشند و هدف آن تقویت برنامه‌نویسی کوتاه‌مدت در Disney+ است.",
+      "summary_fa": "این قرارداد به سازندگان محتوای TikTok اجازه می‌دهد تا به طور رسمی به دارایی‌های دیزنی دسترسی داشته باشند و هدف آن تقویت برنامه‌نویسی کوتاه‌مدت در Disney+ است.",
+      "summary_en": "The deal will allow TikTok content creators to officially gain access to Disney assets and aims to boost short-form programming on Disney+.",
+      "link": "http://www.euronews.com/culture/2026/08/06/disney-and-tiktok-strike-content-sharing-deal-with-short-form-videos-to-be-added-to-disney",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 10:02:30 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7cb9fcee1a731909ff5f658047a81700",
+      "title": "ارتش اوکراین یکی از بزرگترین پالایشگاه های نفت روسیه را در حمله پهپادی دوربرد هدف قرار داد",
+      "title_fa": "ارتش اوکراین یکی از بزرگترین پالایشگاه های نفت روسیه را در حمله پهپادی دوربرد هدف قرار داد",
+      "title_en": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
+      "summary": "تاسیسات Slavneft-Yanos در یاروسلاول، که صدها مایل دورتر از مرز اوکراین قرار دارد، یکی از بزرگترین پالایشگاه های نفت روسیه است.",
+      "summary_fa": "تاسیسات Slavneft-Yanos در یاروسلاول، که صدها مایل دورتر از مرز اوکراین قرار دارد، یکی از بزرگترین پالایشگاه های نفت روسیه است.",
+      "summary_en": "The Slavneft-Yanos facility in Yaroslavl, which is situated hundreds of miles from the Ukraine border, is one of Russia's biggest oil refineries.",
+      "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 09:59:54 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b6029ffdf517637b586847939e35cb3a",
+      "title": "اوکراین خواهان دفاع هوایی است آیا جهان دیگر گوش خواهد داد؟",
+      "title_fa": "اوکراین خواهان دفاع هوایی است آیا جهان دیگر گوش خواهد داد؟",
+      "title_en": "Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?",
+      "summary": "متحدان غربی نسبت به دست کشیدن از موشک های رهگیر که ممکن است برای دفاع خود به آنها نیاز داشته باشند، تردید دارند زیرا جنگ در چندین جبهه ادامه دارد.",
+      "summary_fa": "متحدان غربی نسبت به دست کشیدن از موشک های رهگیر که ممکن است برای دفاع خود به آنها نیاز داشته باشند، تردید دارند زیرا جنگ در چندین جبهه ادامه دارد.",
+      "summary_en": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
+      "link": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 09:56:42 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-ukraine-patriots-hzcw/06int-ukraine-patriots-hzcw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "f40a31d04ef9e69c19e4d8f9e58090f3",
+      "title": "برج های دود بر فراز جنگل های واشنگتن با ادامه عملیات اطفای حریق",
+      "title_fa": "برج های دود بر فراز جنگل های واشنگتن با ادامه عملیات اطفای حریق",
+      "title_en": "Smoke towers above Washington forests as firefighting continues",
+      "summary": "تصاویر هوایی دود آتش‌سوزی را در مرکز و شرق واشنگتن نشان می‌دهد که هلیکوپترها آب را روی آتش‌سوزی جنگل‌ها می‌ریزند در حالی که خدمه خطوط مهار را تقویت می‌کنند.",
+      "summary_fa": "تصاویر هوایی دود آتش‌سوزی را در مرکز و شرق واشنگتن نشان می‌دهد که هلیکوپترها آب را روی آتش‌سوزی جنگل‌ها می‌ریزند در حالی که خدمه خطوط مهار را تقویت می‌کنند.",
+      "summary_en": "Aerial footage shows wildfire smoke over central and eastern Washington as helicopters drop water on forest fires while crews reinforce containment lines.",
+      "link": "http://www.euronews.com/video/2026/08/06/smoke-towers-above-washington-forests-as-firefighting-continues",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 09:56:16 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "bbf4a30fd0ed515db4270147d3b04d93",
+      "title": "ساندیس پس از درآمد در حال سقوط است. این چیزی است که وال استریت می گوید.",
+      "title_fa": "ساندیس پس از درآمد در حال سقوط است. این چیزی است که وال استریت می گوید.",
+      "title_en": "Sandisk is falling after earnings. Here’s what Wall Street says.",
+      "summary": "پس از اینکه سازنده تراشه‌های فلش NAND دستورالعمل‌هایی را صادر کرد که سرمایه‌گذاران را ناامید کرد، سهام ساندیس در معاملات قبل از بازار 9 درصد سقوط کرد. این چیزی است که تحلیلگران می گویند.",
+      "summary_fa": "پس از اینکه سازنده تراشه‌های فلش NAND دستورالعمل‌هایی را صادر کرد که سرمایه‌گذاران را ناامید کرد، سهام ساندیس در معاملات قبل از بازار 9 درصد سقوط کرد. این چیزی است که تحلیلگران می گویند.",
+      "summary_en": "Sandisk stock slumped 9% in premarket trade on Thursday after the maker of NAND flash chips issued guidance that disappointed investors. Here’s what analysts are saying.",
+      "link": "https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 09:56:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-57078395",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "92eda547b8e6c52d15e73eb29da7c4ef",
+      "title": "ارزش هادریان پس از سرمایه گذاری جدید به عنوان پولی که به فناوری دفاعی سرازیر می شود، نزدیک به 8 میلیارد دلار است",
+      "title_fa": "ارزش هادریان پس از سرمایه گذاری جدید به عنوان پولی که به فناوری دفاعی سرازیر می شود، نزدیک به 8 میلیارد دلار است",
+      "title_en": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
+      "summary": "هادریان یکی از تعدادی استارت آپ فناوری دفاعی است که مبالغ هنگفتی را جمع آوری کرده و از برنامه های پرزیدنت ترامپ برای ارتقای ارتش ایالات متحده سود می برد.",
+      "summary_fa": "هادریان یکی از تعدادی استارت آپ فناوری دفاعی است که مبالغ هنگفتی را جمع آوری کرده و از برنامه های پرزیدنت ترامپ برای ارتقای ارتش ایالات متحده سود می برد.",
+      "summary_en": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
+      "link": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 09:54:58 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f32af66b2e0898a11f881d3c1c3effa7",
+      "title": "تارون تجپال روزنامه نگار هندی به جرم تجاوز جنسی به 10 سال زندان محکوم شد",
+      "title_fa": "تارون تجپال روزنامه نگار هندی به جرم تجاوز جنسی به 10 سال زندان محکوم شد",
+      "title_en": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "summary": "تجپال که این اتهامات را رد کرده است، می تواند علیه این حکم در دادگاه عالی هند تجدید نظر کند.",
+      "summary_fa": "تجپال که این اتهامات را رد کرده است، می تواند علیه این حکم در دادگاه عالی هند تجدید نظر کند.",
+      "summary_en": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 09:49:24 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daee/live/cd5712d0-9146-11f1-a25e-953fc20be644.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "08ec65e67dc9ace4eb2ee8e8cdb15aea",
+      "title": "«مراکش احساس جسارت می‌کند»: نفوذ ترامپ پس از فاجعه سئوتا در کانون توجه قرار گرفت",
+      "title_fa": "«مراکش احساس جسارت می‌کند»: نفوذ ترامپ پس از فاجعه سئوتا در کانون توجه قرار گرفت",
+      "title_en": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+      "summary": "روابط واشنگتن و رباط در حال بررسی است زیرا سؤالاتی در مورد آنچه که منجر به هجوم مرگبار به قلمرو کوچک اسپانیا شده است، روابط دنج بین واشنگتن و رباط مدت‌هاست که توسط هر دو طرف به نمایش گذاشته شده است، از اعلام امسال مراکش مبنی بر اینکه این کشور اولین کشور آفریقایی خواهد بود که به هیئت صلح دونالد ترامپ می‌پیوندد تا آخرین پیام تبریکی که اخیراً توسط پادشاه ششم توسط ترامپ در سال‌های اخیر ارسال شد. این هفته در حالی که اسپانیا با پیامدهای هجوم ناگهانی - و بازگشت سریع - بیش از 70000 نفر به سئوتا دست و پنجه نرم می کرد، پادشاه مراکش تأیید کرد که بزرگراهی به ارزش یک میلیارد دلار در کنار قلمرو مورد مناقشه صحرای غربی را به نام ترامپ نامگذاری کرده است. ادامه مطلب...",
+      "summary_fa": "روابط واشنگتن و رباط در حال بررسی است زیرا سؤالاتی در مورد آنچه که منجر به هجوم مرگبار به قلمرو کوچک اسپانیا شده است، روابط دنج بین واشنگتن و رباط مدت‌هاست که توسط هر دو طرف به نمایش گذاشته شده است، از اعلام امسال مراکش مبنی بر اینکه این کشور اولین کشور آفریقایی خواهد بود که به هیئت صلح دونالد ترامپ می‌پیوندد تا آخرین پیام تبریکی که اخیراً توسط پادشاه ششم توسط ترامپ در سال‌های اخیر ارسال شد. این هفته در حالی که اسپانیا با پیامدهای هجوم ناگهانی - و بازگشت سریع - بیش از 70000 نفر به سئوتا دست و پنجه نرم می کرد، پادشاه مراکش تأیید کرد که بزرگراهی به ارزش یک میلیارد دلار در کنار قلمرو مورد مناقشه صحرای غربی را به نام ترامپ نامگذاری کرده است. ادامه مطلب...",
+      "summary_en": "Washington-Rabat ties under scrutiny as questions swirl over what led to deadly  influx into tiny Spanish territoryThe cosy relationship between Washington and Rabat has long been flaunted by both sides, from Morocco’s announcement this year that it would be the first African state to join Donald Trump’s Board of Peace to the congratulatory message recently sent by Trump to mark King Mohammed VI’s 27 years in power.The latest example landed this week. As Spain grappled with the aftermath of the sudden influx – and swift return – of more than 70,000 people into Ceuta, Morocco’s monarch confirmed he had named a $1bn highway flanking the disputed territory of Western Sahara after Trump. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 09:45:54 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d317c815a73a6699359714ccffd3c1dcc76fa7a9/2126_0_5953_4764/master/5953.jpg?width=140&quality=85&auto=format&fit=max&s=4ee9a158f600ffbb92553556271cb2f8",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "de8d982627560e7b7d26419c3f5147ba",
+      "title": "ترامپ گزارش‌های مربوط به کمبود مهمات را رد کرد و گفت که ایالات متحده \"مقدار هنگفتی\" دارد",
+      "title_fa": "ترامپ گزارش‌های مربوط به کمبود مهمات را رد کرد و گفت که ایالات متحده \"مقدار هنگفتی\" دارد",
+      "title_en": "Trump dismisses reports of munitions shortages, says US has 'massive amounts'",
+      "summary": "واشنگتن پست گزارش داد که ترامپ جمعه گذشته هنگام شرکت در جلسه کابینه در کمپ دیوید، از پیت هگزت، رئیس پنتاگون، خواستار پاسخگویی درباره کمبود مهمات شد.",
+      "summary_fa": "واشنگتن پست گزارش داد که ترامپ جمعه گذشته هنگام شرکت در جلسه کابینه در کمپ دیوید، از پیت هگزت، رئیس پنتاگون، خواستار پاسخگویی درباره کمبود مهمات شد.",
+      "summary_en": "The Washington Post reported that Trump demanded answers about the munitions shortages from Pentagon chief Pete Hegseth last Friday, when they attended a cabinet meeting at the Camp David presidential retreat.",
+      "link": "http://www.euronews.com/2026/08/06/trump-dismisses-reports-of-munitions-shortages-says-us-has-massive-amounts",
+      "source": "EuroNews",
+      "published_at": "Thu, 06 Aug 2026 09:40:53 +0200",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "b68733384451d09b2a4c533b2588600b",
+      "title": "AstraZeneca ممکن است یک دهه استراتژی دارویی را برای خرید مقیاس ایالات متحده هزینه کند",
+      "title_fa": "AstraZeneca ممکن است یک دهه استراتژی دارویی را برای خرید مقیاس ایالات متحده هزینه کند",
+      "title_en": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+      "summary": "گزارش‌های مذاکرات مقدماتی بین AstraZeneca و Bristol Myers Squibb سهام را جابه‌جا کرد و بحث‌ها را بر سر ادغام بیگ فارما برانگیخت.",
+      "summary_fa": "گزارش‌های مذاکرات مقدماتی بین AstraZeneca و Bristol Myers Squibb سهام را جابه‌جا کرد و بحث‌ها را بر سر ادغام بیگ فارما برانگیخت.",
+      "summary_en": "Reports of preliminary talks between AstraZeneca and Bristol Myers Squibb moved shares and reignited debate over Big Pharma consolidation.",
+      "link": "https://www.cnbc.com/2026/08/06/astrazeneca-bristol-myers-merger-talks.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 09:40:16 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "516c1fcc6fcac15d0c37a9dbfa9bec41",
+      "title": "سرمایه گذاران این اقتصاد بزرگ را اشتباه می خوانند - و فرصتی نادر در اوراق قرضه دولتی ایجاد می کنند",
+      "title_fa": "سرمایه گذاران این اقتصاد بزرگ را اشتباه می خوانند - و فرصتی نادر در اوراق قرضه دولتی ایجاد می کنند",
+      "title_en": "Investors are misreading this major economy — and creating a rare opportunity in government bonds",
+      "summary": "TS Lombard توصیه می کند که اوراق خزانه داری 10 ساله را بر روی خزانه داری ایالات متحده و سایر اوراق قرضه بین المللی بخرید.",
+      "summary_fa": "TS Lombard توصیه می کند که اوراق خزانه داری 10 ساله را بر روی خزانه داری ایالات متحده و سایر اوراق قرضه بین المللی بخرید.",
+      "summary_en": "Buy 10-year Treasury gilts over U.S. Treasurys and other international bonds, advises TS Lombard.",
+      "link": "https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 09:40:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-20383743",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "354e47029de1b6ecdd4a528409b134cc",
+      "title": "لیتوانی هشدار داد که روسیه ممکن است در حال بررسی حمله احتمالی \"پرچم دروغین\" به بالتیک باشد - اروپا زنده",
+      "title_fa": "لیتوانی هشدار داد که روسیه ممکن است در حال بررسی حمله احتمالی \"پرچم دروغین\" به بالتیک باشد - اروپا زنده",
+      "title_en": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+      "summary": "وزیر دفاع لیتوانی می گوید که آنها در حال «نظارت» برنامه های روسیه و تبادل اطلاعات با لهستان و سایر متحدان ناتو هستند، روبرتاس کاوناس، وزیر دفاع لیتوانی هشدار داد که روسیه ممکن است در حال بررسی تحریکات احتمالی «پرچم دروغین» علیه کشورهای ناتو در منطقه بالتیک باشد. «پرچم دروغین» اصطلاحی برای رویداد یا حمله ای است که بعداً به ازای هر شخص دیگری انجام می شود. ادامه مطلب...",
+      "summary_fa": "وزیر دفاع لیتوانی می گوید که آنها در حال «نظارت» برنامه های روسیه و تبادل اطلاعات با لهستان و سایر متحدان ناتو هستند، روبرتاس کاوناس، وزیر دفاع لیتوانی هشدار داد که روسیه ممکن است در حال بررسی تحریکات احتمالی «پرچم دروغین» علیه کشورهای ناتو در منطقه بالتیک باشد. «پرچم دروغین» اصطلاحی برای رویداد یا حمله ای است که بعداً به ازای هر شخص دیگری انجام می شود. ادامه مطلب...",
+      "summary_en": "Lithuania’s defence minister says they are ‘monitoring’ Russia’s plans and exchanging information with Poland and other Nato alliesLithuania’s defence minister Robertas Kaunas warned that Russia could be considering possible “false flag” provocations against Nato countries in the Baltic region.A “false flag” is a term for an event or attack which would later be blamed on someone other than the actual perpetrator. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 09:35:28 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/433d39ded77e92ede0b76b2104625889b5e3fd08/1300_778_1894_1516/master/1894.jpg?width=140&quality=85&auto=format&fit=max&s=0be3796c30edd6cce0bca7a69f9cc2c5",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f04d878d16810696abb5da29c7f245b4",
+      "title": "یورش پلیس کره جنوبی به اتحادیه فوتبال در مورد روند انتصاب هنگ",
+      "title_fa": "یورش پلیس کره جنوبی به اتحادیه فوتبال در مورد روند انتصاب هنگ",
+      "title_en": "South Korea police raid football association over Hong appointment process",
+      "summary": "انتصاب هونگ میونگ بو در بحبوحه حملاتی که قبلاً ادعا شده بود، روند مصاحبه مناسبی نداشت.",
+      "summary_fa": "انتصاب هونگ میونگ بو در بحبوحه حملاتی که قبلاً ادعا شده بود، روند مصاحبه مناسبی نداشت.",
+      "summary_en": "Hong Myung-bo's appointment under scrutiny amid raids with lack of proper interview process previously alleged.",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 09:34:04 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0493e0ddb68a91284499db31a5937e88",
+      "title": "با داغ شدن جنگ بر سر نیروگاه های هوش مصنوعی، خانا «منشور حقوق مرکز داده» را معرفی می کند",
+      "title_fa": "با داغ شدن جنگ بر سر نیروگاه های هوش مصنوعی، خانا «منشور حقوق مرکز داده» را معرفی می کند",
+      "title_en": "Khanna to introduce 'Data Center Bill of Rights' as fight over AI power plants heats up",
+      "summary": "عبدالالسید، نامزد دموکرات سنای میشیگان، که روز سه شنبه در انتخابات مقدماتی رقابتی پیروز شد، تعلیق مراکز داده ایالتی و محلی را تایید کرد.",
+      "summary_fa": "عبدالالسید، نامزد دموکرات سنای میشیگان، که روز سه شنبه در انتخابات مقدماتی رقابتی پیروز شد، تعلیق مراکز داده ایالتی و محلی را تایید کرد.",
+      "summary_en": "Michigan Democratic Senate candidate Abdul El-Sayed, who won a competitive primary Tuesday, has endorsed state and local moratoriums on data centers.",
+      "link": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 09:30:01 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "37585bbdc9b9b3238ceea9f1d98a38c7",
+      "title": "بهترین فن های دستی برای نسیم بر حسب تقاضا (2026)",
+      "title_fa": "بهترین فن های دستی برای نسیم بر حسب تقاضا (2026)",
+      "title_en": "Best Handheld Fans for a Breeze on Demand (2026)",
+      "summary": "پنکه‌های دستی، پوشیدنی و مه‌آلود را در تابستانی طاقت فرسا قرار دادم تا ببینم کدام یک از من خنک‌تر هستند.",
+      "summary_fa": "پنکه‌های دستی، پوشیدنی و مه‌آلود را در تابستانی طاقت فرسا قرار دادم تا ببینم کدام یک از من خنک‌تر هستند.",
+      "summary_en": "I put handheld, wearable, and misting fans through a sweltering summer to see which ones kept me coolest.",
+      "link": "https://www.wired.com/story/best-handheld-and-portable-fans/",
+      "source": "Wired",
+      "published_at": "Thu, 06 Aug 2026 09:30:00 +0000",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3418531f37aabcdb5dffd17c68acd83d",
+      "title": "جنگ سودان اهرام باستانی مرو را که یک میراث فرهنگی یونسکو است، تهدید می کند",
+      "title_fa": "جنگ سودان اهرام باستانی مرو را که یک میراث فرهنگی یونسکو است، تهدید می کند",
+      "title_en": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
+      "summary": "بیش از 200 هرم مرو باستانی در معرض خطر تشدید جنگ و بی توجهی سودان قرار گرفته اند.",
+      "summary_fa": "بیش از 200 هرم مرو باستانی در معرض خطر تشدید جنگ و بی توجهی سودان قرار گرفته اند.",
+      "summary_en": "More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 09:28:30 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c08a47c290d6bb68e87f35aa8e99e697",
+      "title": "آتش سوزی روستای آنها را در فرانسه ویران کرد. اکنون آنها پاسخ می خواهند.",
+      "title_fa": "آتش سوزی روستای آنها را در فرانسه ویران کرد. اکنون آنها پاسخ می خواهند.",
+      "title_en": "Fires Wrecked Their Village in France. Now They Want Answers.",
+      "summary": "پس از فرار از بدترین آتش سوزی دهه های اخیر فرانسه، ساکنان لو پورژ، روستایی در غرب بوردو، 13 روز بعد به خانه بازگشتند. آنها یک شهر ویرانه پیدا کردند.",
+      "summary_fa": "پس از فرار از بدترین آتش سوزی دهه های اخیر فرانسه، ساکنان لو پورژ، روستایی در غرب بوردو، 13 روز بعد به خانه بازگشتند. آنها یک شهر ویرانه پیدا کردند.",
+      "summary_en": "After fleeing France’s worst wildfire in decades, residents of Le Porge, a village west of Bordeaux, returned home 13 days later. They found a town in ruins.",
+      "link": "https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 09:25:55 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-france-fire-vmwl/00int-france-fire-vmwl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "006cb1d86ea42b33f8c3bb94c07abc2a",
+      "title": "جنگ آمریکا و اسرائیل علیه ایران، الگوهای سفر تابستانی اروپا را تغییر می دهد",
+      "title_fa": "جنگ آمریکا و اسرائیل علیه ایران، الگوهای سفر تابستانی اروپا را تغییر می دهد",
+      "title_en": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+      "summary": "با شدت گرفتن درگیری ها، تعطیلات به خانه نزدیک می شوند، در حالی که اپراتورهای گردشگری سازگار هستند.",
+      "summary_fa": "با شدت گرفتن درگیری ها، تعطیلات به خانه نزدیک می شوند، در حالی که اپراتورهای گردشگری سازگار هستند.",
+      "summary_en": "Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 09:17:56 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7f01e4f453e757ffbc810b7393664373",
+      "title": "\"او هرگز با پول خوب نبوده است\": اگر برای برادر 65 ساله ام یک سالیانه تنظیم کنم، آیا درآمد تضمینی تکمیلی او را به خطر می اندازد؟",
+      "title_fa": "\"او هرگز با پول خوب نبوده است\": اگر برای برادر 65 ساله ام یک سالیانه تنظیم کنم، آیا درآمد تضمینی تکمیلی او را به خطر می اندازد؟",
+      "title_en": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+      "summary": "من وقتی فهمیدم که مزایای تامین اجتماعی ماهانه او فقط 700 دلار خواهد بود، شوکه شدم.",
+      "summary_fa": "من وقتی فهمیدم که مزایای تامین اجتماعی ماهانه او فقط 700 دلار خواهد بود، شوکه شدم.",
+      "summary_en": "“I was shocked to learn that his monthly Social Security benefit will be only $700.”",
+      "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 09:15:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-16435995",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4eeaf4302e2993659d57781f15761928",
+      "title": "بوکسور افغان متهم به قتل یک امدادگر اسکاتلندی دوباره در دادگاه",
+      "title_fa": "بوکسور افغان متهم به قتل یک امدادگر اسکاتلندی دوباره در دادگاه",
+      "title_en": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "summary": "شریف احمدزی، 26 ساله و اهل افغانستان، با اتهامات قتل عمد، سرقت و حمل سلاح روبرو است.",
+      "summary_fa": "شریف احمدزی، 26 ساله و اهل افغانستان، با اتهامات قتل عمد، سرقت و حمل سلاح روبرو است.",
+      "summary_en": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 09:12:39 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bc/live/e97bc9b0-916e-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b07d4cc481562a3702377234aacf2e82",
+      "title": "SoftBank 8.2 میلیارد دلار از اینتل افزایش می‌یابد، زیرا OpenAI پشت سر می‌نشیند",
+      "title_fa": "SoftBank 8.2 میلیارد دلار از اینتل افزایش می‌یابد، زیرا OpenAI پشت سر می‌نشیند",
+      "title_en": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+      "summary": "سافت بانک روز پنجشنبه سودی را برای سه ماهه اول مالی خود گزارش کرد که از انتظارات بازار پیشی گرفت.",
+      "summary_fa": "سافت بانک روز پنجشنبه سودی را برای سه ماهه اول مالی خود گزارش کرد که از انتظارات بازار پیشی گرفت.",
+      "summary_en": "SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations.",
+      "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 09:11:15 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc4ee99d22fbf272e84d4d363f658a73",
+      "title": "شیخ حسینه قول بازگشت، اما آیا بنگلادش نخست وزیر سابق فراری را می پذیرد؟",
+      "title_fa": "شیخ حسینه قول بازگشت، اما آیا بنگلادش نخست وزیر سابق فراری را می پذیرد؟",
+      "title_en": "Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?",
+      "summary": "رهبر اتحادیه عوامی قصد دارد از تبعید هند بازگردد، علیرغم اینکه به دلیل سرکوب اعتراضات در سال 2024 با حکم اعدام روبرو شده است.",
+      "summary_fa": "رهبر اتحادیه عوامی قصد دارد از تبعید هند بازگردد، علیرغم اینکه به دلیل سرکوب اعتراضات در سال 2024 با حکم اعدام روبرو شده است.",
+      "summary_en": "Awami League leader plans to return from India exile despite facing death sentence over 2024 protest crackdown.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/sheikh-hasina-vows-to-return-but-will-bangladesh-accept-fugitive-ex-pm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 09:06:25 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c39241c6d1519964cf345488bfc0c83",
+      "title": "فوتبالیست های ایرانی که از تهران سرپیچی کردند، شهروند استرالیا شدند",
+      "title_fa": "فوتبالیست های ایرانی که از تهران سرپیچی کردند، شهروند استرالیا شدند",
+      "title_en": "Iranian footballers who defied Tehran become Australian citizens",
+      "summary": "در میان هفت زنی بودند که هنگام بازی در استرالیا ویزای بشردوستانه دریافت کردند - اما پنج زن دیگر نظر خود را تغییر دادند و به ایران بازگشتند.",
+      "summary_fa": "در میان هفت زنی بودند که هنگام بازی در استرالیا ویزای بشردوستانه دریافت کردند - اما پنج زن دیگر نظر خود را تغییر دادند و به ایران بازگشتند.",
+      "summary_en": "There were among seven women to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 09:04:17 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/ca2e07d0-39ee-11f1-879d-1b2f5c3919b8.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "2a89f8446282e74c935ad6df656df81c",
+      "title": "واکنش ونزوئلا به زلزله، کاستی های دولت را آشکار می کند",
+      "title_fa": "واکنش ونزوئلا به زلزله، کاستی های دولت را آشکار می کند",
+      "title_en": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+      "summary": "دولت برای پاسخ به زلزله های دوقلوی به دنیا روی آورد. اما سال‌ها کاهش بودجه و سرکوب سیاسی، توانایی آن را برای نجات افراد بی‌شماری که در آوار گرفتار شده بودند، تضعیف کرد.",
+      "summary_fa": "دولت برای پاسخ به زلزله های دوقلوی به دنیا روی آورد. اما سال‌ها کاهش بودجه و سرکوب سیاسی، توانایی آن را برای نجات افراد بی‌شماری که در آوار گرفتار شده بودند، تضعیف کرد.",
+      "summary_en": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.",
+      "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 09:02:25 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/00-int-venezuela-quakes-ticktock-new-tbmq/00-int-venezuela-quakes-ticktock-new-tbmq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "98be906e6f145d1a5be2219a1cedb1f8",
+      "title": "بهترین تلویزیون های 75 اینچی سال 2026: آزمایش شده توسط متخصص",
+      "title_fa": "بهترین تلویزیون های 75 اینچی سال 2026: آزمایش شده توسط متخصص",
+      "title_en": "The best 75-inch TVs of 2026: Expert tested",
+      "summary": "یک تلویزیون 75 اینچی بدون اینکه فضای شما را تحت تاثیر قرار دهد، تجربه ای از نمایشگر بزرگ را به شما می دهد. و ما بهترین‌های سامسونگ، سونی، ال‌جی و موارد دیگر را آزمایش کرده‌ایم تا به شما کمک کنیم متناسب با بودجه‌تان را پیدا کنید.",
+      "summary_fa": "یک تلویزیون 75 اینچی بدون اینکه فضای شما را تحت تاثیر قرار دهد، تجربه ای از نمایشگر بزرگ را به شما می دهد. و ما بهترین‌های سامسونگ، سونی، ال‌جی و موارد دیگر را آزمایش کرده‌ایم تا به شما کمک کنیم متناسب با بودجه‌تان را پیدا کنید.",
+      "summary_en": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you find the right fit for your budget.",
+      "link": "https://www.zdnet.com/article/best-75-inch-tv/",
+      "source": "ZDNet",
+      "published_at": "Thu, 06 Aug 2026 09:00:49 GMT",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e70ea3b7fac66c928d2d9050a3e0449",
+      "title": "خودی های اسپیس ایکس اولین فرصت خود را برای پول نقد دریافت می کنند - اما کاهش سهام فرصت آنها را محدود می کند",
+      "title_fa": "خودی های اسپیس ایکس اولین فرصت خود را برای پول نقد دریافت می کنند - اما کاهش سهام فرصت آنها را محدود می کند",
+      "title_en": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+      "summary": "بیش از 911.5 میلیون سهم اسپیس ایکس برای فروش در روز پنجشنبه در دسترس خواهد بود، اما یک بخش جداگانه تا 455.8 میلیون سهم به دلیل عملکرد ضعیف سهام، قفل خواهد شد.",
+      "summary_fa": "بیش از 911.5 میلیون سهم اسپیس ایکس برای فروش در روز پنجشنبه در دسترس خواهد بود، اما یک بخش جداگانه تا 455.8 میلیون سهم به دلیل عملکرد ضعیف سهام، قفل خواهد شد.",
+      "summary_en": "Up to 911.5 million SpaceX shares will become available for sale Thursday, but a separate tranche of up to 455.8 million shares will stay locked up due to the stock’s weak performance.",
+      "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 09:00:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-25067755",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "66f226aace5efbfe9a83c8f44a1dcdf5",
+      "title": "آنچه در مورد انتخابات مقدماتی این هفته ایالات متحده در تنسی و هاوایی باید بدانید",
+      "title_fa": "آنچه در مورد انتخابات مقدماتی این هفته ایالات متحده در تنسی و هاوایی باید بدانید",
+      "title_en": "What to know about this week’s US primary elections in Tennessee and Hawaii",
+      "summary": "جمهوریخواهان پس از طرح مجدد تنها منطقه تحت سلطه دموکرات ها قبل از رای گیری مقدماتی در تنسی، کنگره را مورد بررسی قرار می دهند.",
+      "summary_fa": "جمهوریخواهان پس از طرح مجدد تنها منطقه تحت سلطه دموکرات ها قبل از رای گیری مقدماتی در تنسی، کنگره را مورد بررسی قرار می دهند.",
+      "summary_en": "Republicans eye Congressional sweep after only Democrat-dominated district redrawn ahead of primary vote in Tennessee.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/what-to-know-about-this-weeks-us-primary-elections-in-tennessee-and-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 08:58:12 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ae332caedc097fa829bb19c2c764ab53",
+      "title": "بیل کازبی 6 میلیون دلار شهر نیویورک را از بازار خارج می کند",
+      "title_fa": "بیل کازبی 6 میلیون دلار شهر نیویورک را از بازار خارج می کند",
+      "title_en": "Bill Cosby takes $6 million New York City home off the market",
+      "summary": "بیل کازبی بازیگر، هفته‌ها پس از لغو واریز وجه در یک پرونده تجاوز جنسی 60 میلیون دلاری به دلیل بیماری‌اش، دوباره خانه شهری خود در شهر نیویورک را از بازار حذف کرد.",
+      "summary_fa": "بیل کازبی بازیگر، هفته‌ها پس از لغو واریز وجه در یک پرونده تجاوز جنسی 60 میلیون دلاری به دلیل بیماری‌اش، دوباره خانه شهری خود در شهر نیویورک را از بازار حذف کرد.",
+      "summary_en": "Actor Bill Cosby has again removed his New York City townhouse from the market—weeks after canceling a deposition in an ongoing $60 million rape case because of his ill health.",
+      "link": "https://www.marketwatch.com/story/bill-cosby-takes-6-million-new-york-city-home-off-the-market-11ba015f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 06 Aug 2026 08:58:00 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-63856413",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "5a205f7f69a990535d075bf1c28fa31e",
       "title": "سریال جدید ملانیا ترامپ پس از ضررهای بزرگ برای مستند جنجالی \"ملانیا\" به آمازون پرایم می آید",
       "title_fa": "سریال جدید ملانیا ترامپ پس از ضررهای بزرگ برای مستند جنجالی \"ملانیا\" به آمازون پرایم می آید",
@@ -72220,6 +73081,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dd7a55671f7f2b9755fc095bcec2f175",
+      "title": "«کاهش‌های اجرایی»: نمایندگان کارگری و گروه‌های تجاری از برک می‌خواهند با تغییرات گسترده مهاجرت مخالفت کند.",
+      "title_fa": "«کاهش‌های اجرایی»: نمایندگان کارگری و گروه‌های تجاری از برک می‌خواهند با تغییرات گسترده مهاجرت مخالفت کند.",
+      "title_en": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
+      "summary": "نمایندگان مجلس می‌گویند که نگرانند دولت از کاهش دسته‌های ویزای خانوادگی و بشردوستانه جلوگیری کند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، گروه‌های تجاری بزرگ از حزب کارگر خواسته‌اند تغییرات مهاجرتی خود را به حالت تعلیق درآورند و با صنعت در مورد چگونگی جذب کارگران ماهرتر به کشور مشورت کنند. برخی از نمایندگان حزب کارگر می گویند که با پیش بینی سخنرانی مهاجرت حداقل تا یک هفته، آنها نگران اجتناب از تغییرات عمده در دسته بندی ویزای خانوادگی و بشردوستانه هستند و یکی از آنها خواستار \"کاهش عملکرد\" در مهاجرت در پاسخ به یک ملت است. ادامه مطلب...",
+      "summary_fa": "نمایندگان مجلس می‌گویند که نگرانند دولت از کاهش دسته‌های ویزای خانوادگی و بشردوستانه جلوگیری کند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید، گروه‌های تجاری بزرگ از حزب کارگر خواسته‌اند تغییرات مهاجرتی خود را به حالت تعلیق درآورند و با صنعت در مورد چگونگی جذب کارگران ماهرتر به کشور مشورت کنند. برخی از نمایندگان حزب کارگر می گویند که با پیش بینی سخنرانی مهاجرت حداقل تا یک هفته، آنها نگران اجتناب از تغییرات عمده در دسته بندی ویزای خانوادگی و بشردوستانه هستند و یکی از آنها خواستار \"کاهش عملکرد\" در مهاجرت در پاسخ به یک ملت است. ادامه مطلب...",
+      "summary_en": "MPs say they are anxious for the government to avoid cuts to family and humanitarian visa categoriesGet our breaking news email, free app or daily news podcastMajor business groups have urged Labor to suspend its immigration changes and consult further with industry about how to get more skilled workers into the country, amid questions about looming Labor tweaks on permanent migration.With the home affairs minister, Tony Burke, delaying an anticipated immigration speech by at least one week, some Labor MPs say they are anxious to avoid major changes to the family and humanitarian visa categories, with one urging against “performative reductions” in migration in response to One Nation. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 08:37:44 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d9772859f647f3490ae756129904f350673f159d/684_0_6812_5453/master/6812.jpg?width=140&quality=85&auto=format&fit=max&s=be30c6950d5b42a8841fa0298f60b8f2",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -72248,6 +73130,48 @@
       }
     },
     {
+      "id": "e5a96fb78d6c439c90a8f1190042a9a7",
+      "title": "هواپیمایی ارزان قیمت Jetstar برای استفاده از سطل سقفی هزینه دریافت می کند",
+      "title_fa": "هواپیمایی ارزان قیمت Jetstar برای استفاده از سطل سقفی هزینه دریافت می کند",
+      "title_en": "Budget Airline Jetstar to Charge Fees for Using the Overhead Bin",
+      "summary": "Jetstar، یک شرکت حمل‌ونقل اقتصادی، اولین شرکتی در استرالیا خواهد بود که مسافران را مجبور می‌کند برای چمدان‌های دستی که زیر صندلی جا نمی‌شوند، پرداخت کنند.",
+      "summary_fa": "Jetstar، یک شرکت حمل‌ونقل اقتصادی، اولین شرکتی در استرالیا خواهد بود که مسافران را مجبور می‌کند برای چمدان‌های دستی که زیر صندلی جا نمی‌شوند، پرداخت کنند.",
+      "summary_en": "Jetstar, a budget carrier, will be the first in Australia to start making passengers pay for carry-on luggage that doesn’t fit under the seat.",
+      "link": "https://www.nytimes.com/2026/08/06/world/australia/jetstar-overhead-bin-compartment-baggage-fees.html",
+      "source": "NY Times",
+      "published_at": "Thu, 06 Aug 2026 08:34:26 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-oz-jetstar-cmtk/06int-oz-jetstar-cmtk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4f50c6fb072d7df0ae1938ebc196b263",
+      "title": "سهام WPP بیش از 20 درصد افزایش می یابد زیرا تعمیرات اساسی شروع به ثمر دادن می کند",
+      "title_fa": "سهام WPP بیش از 20 درصد افزایش می یابد زیرا تعمیرات اساسی شروع به ثمر دادن می کند",
+      "title_en": "WPP shares jump more than 20% as overhaul begins to bear fruit",
+      "summary": "نتایج بهبود یافته به دنبال بررسی ریشه و شعبه گروه تبلیغاتی فهرست شده در لندن برای ساده‌سازی کسب‌وکارهای آن است.",
+      "summary_fa": "نتایج بهبود یافته به دنبال بررسی ریشه و شعبه گروه تبلیغاتی فهرست شده در لندن برای ساده‌سازی کسب‌وکارهای آن است.",
+      "summary_en": "Improved results follow London-listed advertising group’s root-and-branch review to streamline its businesses",
+      "link": "https://www.ft.com/content/8bfaa274-25de-4d57-b4b7-6494989eb1d2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 06 Aug 2026 08:31:26 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60a2b9c7-c8dc-45ea-a53e-74d52ea55aec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
       "id": "d2ce0cf8bacec98ef3522d31d97b69ea",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -72266,6 +73190,153 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "5c41a02a55f645b413ed03aa7b6d604a",
+      "title": "پلیس بریتانیا تایید کرد که بوکسورهای اوگاندا پس از بازی های مشترک المنافع شناسایی نشده اند",
+      "title_fa": "پلیس بریتانیا تایید کرد که بوکسورهای اوگاندا پس از بازی های مشترک المنافع شناسایی نشده اند",
+      "title_en": "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
+      "summary": "گزارش شده است که ورزشکاران اوگاندا و پاکستان پس از ناکامی در بازگشت به خانه از بازی‌های مشترک المنافع 2026 مفقود شدند.",
+      "summary_fa": "گزارش شده است که ورزشکاران اوگاندا و پاکستان پس از ناکامی در بازگشت به خانه از بازی‌های مشترک المنافع 2026 مفقود شدند.",
+      "summary_en": "Athletes from Uganda and Pakistan were reported 'missing' after failing to return home from 2026 Commonwealth Games.",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/uk-police-confirm-uganda-boxers-unaccounted-for-after-commonwealth-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 08:27:20 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "c4424b1db9ec642c3318887b55f0e85c",
+      "title": "تغییر سیاست ایالات متحده فرصتی برای تعیین سرنوشت فلسطینی ها فراهم می کند",
+      "title_fa": "تغییر سیاست ایالات متحده فرصتی برای تعیین سرنوشت فلسطینی ها فراهم می کند",
+      "title_en": "Shifting US politics offers opportunity for Palestinian self-determination",
+      "summary": "حمایت از فلسطین باید فعالانه با تغییر نگرش در میان رای دهندگان دموکرات و جمهوری خواه درگیر شود.",
+      "summary_fa": "حمایت از فلسطین باید فعالانه با تغییر نگرش در میان رای دهندگان دموکرات و جمهوری خواه درگیر شود.",
+      "summary_en": "Palestinian advocacy needs to actively engage with changes in attitudes among both Democratic and Republican voters.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/6/shifting-us-politics-offers-opportunity-for-palestinian-self-determination?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 08:25:52 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b93710487b054f12fecb87d35b663fe2",
+      "title": "مدیرعامل جدید ایر ایندیا با تلاطم مالی و ایمنی مواجه است",
+      "title_fa": "مدیرعامل جدید ایر ایندیا با تلاطم مالی و ایمنی مواجه است",
+      "title_en": "Air India's new CEO faces financial and safety turbulence",
+      "summary": "پیامدهای سقوط مرگبار سال گذشته و زیان های مالی فزاینده چالش های اصلی Gebremariam خواهد بود.",
+      "summary_fa": "پیامدهای سقوط مرگبار سال گذشته و زیان های مالی فزاینده چالش های اصلی Gebremariam خواهد بود.",
+      "summary_en": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+      "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 08:18:02 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95f6/live/d3e4e5b0-9154-11f1-a649-9747aa0331f7.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c4ad621db319511d1b8c49510a76cc41",
+      "title": "چرا فرانسه در حال توسعه استراتژی هسته ای جدید است؟",
+      "title_fa": "چرا فرانسه در حال توسعه استراتژی هسته ای جدید است؟",
+      "title_en": "Why is France developing a new nuclear strategy?",
+      "summary": "با عقب نشینی ایالات متحده از اروپا و اتخاذ موضع تهاجمی روسیه، فرانسه قصد دارد سلاح به زرادخانه خود بیافزاید.",
+      "summary_fa": "با عقب نشینی ایالات متحده از اروپا و اتخاذ موضع تهاجمی روسیه، فرانسه قصد دارد سلاح به زرادخانه خود بیافزاید.",
+      "summary_en": "As the US retreats from Europe and Russia adopts an aggressive posture, France plans to add weapons to its arsenal",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/8/6/why-is-france-developing-a-new-nuclear-strategy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 08:17:26 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "1848f32ae74e65d7b63f5b988727e3b3",
+      "title": "اعتراض سرود ایران: فوتبالیست های زن به استرالیایی شدن افتخار می کنند",
+      "title_fa": "اعتراض سرود ایران: فوتبالیست های زن به استرالیایی شدن افتخار می کنند",
+      "title_en": "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+      "summary": "فاطمه پسندیده و عاطفه رمضانی زاده از خواندن سرود ایران در جام ملت های آسیا خودداری کردند و اکنون تابعیت استرالیا را دریافت کرده اند.",
+      "summary_fa": "فاطمه پسندیده و عاطفه رمضانی زاده از خواندن سرود ایران در جام ملت های آسیا خودداری کردند و اکنون تابعیت استرالیا را دریافت کرده اند.",
+      "summary_en": "Fatemeh Pasandideh and Atefeh Ramezanisadeh refused to sing Iran anthem at Asian Cup, now granted Australia citizenship.",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 08:15:37 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "885a3cb555338a1c9b4ee02d668cb454",
+      "title": "شاهد Icac در مورد پیام‌های \"پول مدارس کثیف\" پرسید - همانطور که اتفاق افتاد",
+      "title_fa": "شاهد Icac در مورد پیام‌های \"پول مدارس کثیف\" پرسید - همانطور که اتفاق افتاد",
+      "title_en": "Icac witness asked about ‘filthy schools money’ messages – as it happened",
+      "summary": "این وبلاگ اکنون بسته شده است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مرد 60 ساله پس از یک حمله ادعایی در ملبورن، جایی که گفته می شود توسط گروهی از جوانان مورد حمله قرار گرفته بود، جان خود را از دست داد. پلیس ویکتوریا گفت که این مرد در 1 اوت پس از اینکه گروهی از افراد جوان سعی کردند اقلامی را در نزدیکی فروشگاه Sunsh به سرقت ببرند، آسیب جدی دید. گفته می شود قربانی قبل از اینکه خودش مورد حمله قرار بگیرد به کمک یکی از کارمندان مغازه آمده است. ادامه مطلب...",
+      "summary_fa": "این وبلاگ اکنون بسته شده است ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مرد 60 ساله پس از یک حمله ادعایی در ملبورن، جایی که گفته می شود توسط گروهی از جوانان مورد حمله قرار گرفته بود، جان خود را از دست داد. پلیس ویکتوریا گفت که این مرد در 1 اوت پس از اینکه گروهی از افراد جوان سعی کردند اقلامی را در نزدیکی فروشگاه Sunsh به سرقت ببرند، آسیب جدی دید. گفته می شود قربانی قبل از اینکه خودش مورد حمله قرار بگیرد به کمک یکی از کارمندان مغازه آمده است. ادامه مطلب...",
+      "summary_en": "This blog is now closedGet our breaking news email, free app or daily news podcastA 60-year-old man has died after an alleged assault in Melbourne, where he was allegedly set upon by a group of youths.Victoria police said the man sustained critical injuries on 1 August after the group of young people allegedly attempted to steal items from a nearby store in the suburb of Sunshine. The victim allegedly came to the aid of a shop employee before he was attacked himself. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 08:14:32 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/7101f3d4d7314ad14db02b67d3e40a90df050e71/1544_265_4121_3297/master/4121.jpg?width=140&quality=85&auto=format&fit=max&s=d467b5d0adc5ea0c20836deaea635a48",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5d3e57e56b6e567fe76f07ed5a84cd9d",
+      "title": "حزب کارگر با واکنش شدید غول‌های قمار مواجه است، زیرا ائتلاف و سبزها برای کنترل‌های جدید بر مشوق‌ها فشار می‌آورند.",
+      "title_fa": "حزب کارگر با واکنش شدید غول‌های قمار مواجه است، زیرا ائتلاف و سبزها برای کنترل‌های جدید بر مشوق‌ها فشار می‌آورند.",
+      "title_en": "Labor faces fierce backlash from gambling giants as Coalition and Greens push for new controls on inducements",
+      "summary": "علیرغم گزارش هایی مبنی بر اینکه نخست وزیر مایل است لایحه حزب کارگر به طور کامل تصویب شود یا پس گرفته شود، آنیکا ولز اصرار دارد که آماده مذاکره است. با وجود گزارش‌هایی که در روز پنجشنبه منتشر شد مبنی بر اینکه آنتونی آلبانیز، نخست‌وزیر می‌تواند اصرار داشته باشد که لایحه حزب کارگر برای محدود کردن تبلیغات برای شرط‌بندی ورزشی آنلاین به طور کامل تصویب شود یا لغو شود، آنیکا ولز، وزیر ارتباطات، اصرار داشت که برای مذاکره آماده است. ادامه مطلب...",
+      "summary_fa": "علیرغم گزارش هایی مبنی بر اینکه نخست وزیر مایل است لایحه حزب کارگر به طور کامل تصویب شود یا پس گرفته شود، آنیکا ولز اصرار دارد که آماده مذاکره است. با وجود گزارش‌هایی که در روز پنجشنبه منتشر شد مبنی بر اینکه آنتونی آلبانیز، نخست‌وزیر می‌تواند اصرار داشته باشد که لایحه حزب کارگر برای محدود کردن تبلیغات برای شرط‌بندی ورزشی آنلاین به طور کامل تصویب شود یا لغو شود، آنیکا ولز، وزیر ارتباطات، اصرار داشت که برای مذاکره آماده است. ادامه مطلب...",
+      "summary_en": "Despite reports the PM wants Labor’s bill to be passed in full or withdrawn, Anika Wells insists she is prepared to negotiateFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLabor will face strong opposition from gambling giants if it accedes to Coalition and Greens demands for a tough new ban on financial inducements for betting, part of closely watched Senate dealmaking expected within days.Despite reports on Thursday that the prime minister, Anthony Albanese, could insist Labor’s bill to limit advertising for online sports betting be passed in full or be withdrawn, the communications minister, Anika Wells, insisted she was prepared to negotiate. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 08:10:37 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5787b453b7b5ec60a70d752d5c65ffce40cf03cb/182_0_4909_3929/master/4909.jpg?width=140&quality=85&auto=format&fit=max&s=c389848f8cdb7df163059a69f028fd1b",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72308,6 +73379,111 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "6592ac1d61117d7d6cc71f14a2299ccf",
+      "title": "پکن فیلمنامه جنگ فناوری ایالات متحده را تغییر می دهد - و آتش بس را هفته ها قبل از دیدار شی جینپینگ آزمایش می کند.",
+      "title_fa": "پکن فیلمنامه جنگ فناوری ایالات متحده را تغییر می دهد - و آتش بس را هفته ها قبل از دیدار شی جینپینگ آزمایش می کند.",
+      "title_en": "Beijing flips the script on the U.S. tech war — and tests the truce weeks before Xi's visit",
+      "summary": "چین گسترده‌ترین بسته تدابیر متقابل تجاری خود را از زمان آتش‌بس تجاری اکتبر گذشته به اجرا گذاشت و در مقابل مجموعه‌ای از محدودیت‌های اخیر ایالات متحده عقب نشینی کرد.",
+      "summary_fa": "چین گسترده‌ترین بسته تدابیر متقابل تجاری خود را از زمان آتش‌بس تجاری اکتبر گذشته به اجرا گذاشت و در مقابل مجموعه‌ای از محدودیت‌های اخیر ایالات متحده عقب نشینی کرد.",
+      "summary_en": "China unleashed its broadest package of trade countermeasures since last October's trade truce, pushing back against a string of recent U.S. restrictions.",
+      "link": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 07:59:32 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "706f49bccfa90072a370a392f0417610",
+      "title": "یورش پلیس استارباکس کره پس از کمپین «روز تانک» خشم عمومی را برانگیخت",
+      "title_fa": "یورش پلیس استارباکس کره پس از کمپین «روز تانک» خشم عمومی را برانگیخت",
+      "title_en": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
+      "summary": "زنجیره قهوه به دلیل تبلیغات بازاریابی مرتبط با سالگرد قتل عام گوانگجو با واکنش شدید پلیس کره جنوبی به مقر استارباکس کره به عنوان بخشی از تحقیقات درباره یک کمپین بازاریابی متهم به بی اهمیت جلوه دادن جنبش دموکراسی خواهانه این کشور در دهه 1980، یورش برد. جزئیات بیشتری منتشر نشد، اگرچه رسانه های کره جنوبی گزارش دادند که افسران خانه های مدیران استارباکس کره را نیز بازرسی کردند. ادامه مطلب...",
+      "summary_fa": "زنجیره قهوه به دلیل تبلیغات بازاریابی مرتبط با سالگرد قتل عام گوانگجو با واکنش شدید پلیس کره جنوبی به مقر استارباکس کره به عنوان بخشی از تحقیقات درباره یک کمپین بازاریابی متهم به بی اهمیت جلوه دادن جنبش دموکراسی خواهانه این کشور در دهه 1980، یورش برد. جزئیات بیشتری منتشر نشد، اگرچه رسانه های کره جنوبی گزارش دادند که افسران خانه های مدیران استارباکس کره را نیز بازرسی کردند. ادامه مطلب...",
+      "summary_en": "Coffee chain has faced backlash over marketing promotion tied to anniversary of Gwangju massacreSouth Korean police have raided the headquarters of Starbucks Korea as part of an investigation into a marketing campaign accused of trivialising the country’s 1980s pro-democracy movement.Investigators searched the building in southern Seoul on Tuesday, police said on Wednesday. No further details were released, although South Korean media reported that officers also searched the homes of the Starbucks Korea executives. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+      "source": "The Guardian",
+      "published_at": "Thu, 06 Aug 2026 07:45:32 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8e502b82253ad225c2b6932051082c02bbcc514d/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=594ef17982127cbb275ee0acaef11f59",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b21fb08bdd4d3c134bca0e4f8ce1a82f",
+      "title": "علیرغم افت فروش سوییچ 2، سود و درآمد سه ماهه اول مالی نینتندو از تخمین زده شد.",
+      "title_fa": "علیرغم افت فروش سوییچ 2، سود و درآمد سه ماهه اول مالی نینتندو از تخمین زده شد.",
+      "title_en": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
+      "summary": "نینتندو درآمد سه ماهه اول مالی خود را پنجشنبه گزارش داد.",
+      "summary_fa": "نینتندو درآمد سه ماهه اول مالی خود را پنجشنبه گزارش داد.",
+      "summary_en": "Nintendo reported fiscal first-quarter earnings Thursday.",
+      "link": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
+      "source": "CNBC",
+      "published_at": "Thu, 06 Aug 2026 07:43:19 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "384a7adf1a1ce3b9f3aacc21b1ef793d",
+      "title": "حملات روسیه در اوکراین شش کشته برجای گذاشت زیرا مسکو صدها هواپیمای بدون سرنشین را رهگیری کرد",
+      "title_fa": "حملات روسیه در اوکراین شش کشته برجای گذاشت زیرا مسکو صدها هواپیمای بدون سرنشین را رهگیری کرد",
+      "title_en": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+      "summary": "مقامات اوکراین می گویند که سه نفر در منطقه خارکف و سه نفر در سومی کشته شدند، زیرا روسیه می گوید 605 هواپیمای بدون سرنشین را رهگیری کرده است.",
+      "summary_fa": "مقامات اوکراین می گویند که سه نفر در منطقه خارکف و سه نفر در سومی کشته شدند، زیرا روسیه می گوید 605 هواپیمای بدون سرنشین را رهگیری کرده است.",
+      "summary_en": "Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 07:36:56 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "41b50c240d941b657eb3e1825d40a3cc",
+      "title": "خانه شکیب، کاپیتان سابق کریکت بنگلادش، با بمب بنزینی در حصینا منفجر شد",
+      "title_fa": "خانه شکیب، کاپیتان سابق کریکت بنگلادش، با بمب بنزینی در حصینا منفجر شد",
+      "title_en": "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+      "summary": "خانه شکیب الحسن کاپیتان سابق بنگلادش پس از پیوستن به مراسم شیخ حسینه نخست وزیر سابق، مورد حمله قرار گرفت.",
+      "summary_fa": "خانه شکیب الحسن کاپیتان سابق بنگلادش پس از پیوستن به مراسم شیخ حسینه نخست وزیر سابق، مورد حمله قرار گرفت.",
+      "summary_en": "Former Bangladesh captain Shakib Al Hasan's home attacked after joining former Prime Minister Sheikh Hasina’s event.",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 07:34:12 +0000",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -72794,6 +73970,27 @@
       }
     },
     {
+      "id": "23b2f8e06a4238236d75499fb431df70",
+      "title": "خشم کاپیتان فوتبال اوگاندا در حمله باندهای خیابانی تا حد مرگ مورد ضرب و شتم قرار گرفت",
+      "title_fa": "خشم کاپیتان فوتبال اوگاندا در حمله باندهای خیابانی تا حد مرگ مورد ضرب و شتم قرار گرفت",
+      "title_en": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "summary": "پلیس می گوید این جوان 27 ساله پس از مقاومت در برابر تلاش برای سرقت توسط سارقان مظنون کشته شد.",
+      "summary_fa": "پلیس می گوید این جوان 27 ساله پس از مقاومت در برابر تلاش برای سرقت توسط سارقان مظنون کشته شد.",
+      "summary_en": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 06:04:28 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbf5/live/ace34820-9155-11f1-a649-9747aa0331f7.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "64b6174f108d27e351f0014cddbe7bae",
       "title": "تارون تجپال روزنامه نگار هندی در پرونده تجاوز جنسی محکوم شد",
       "title_fa": "تارون تجپال روزنامه نگار هندی در پرونده تجاوز جنسی محکوم شد",
@@ -72833,6 +74030,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f6e169d186133291fa7f66951f6a859b",
+      "title": "متا آخرین شرکتی است که می گوید هوش مصنوعی شرکت دیگری را هک کرده است",
+      "title_fa": "متا آخرین شرکتی است که می گوید هوش مصنوعی شرکت دیگری را هک کرده است",
+      "title_en": "Meta becomes latest firm to say its AI hacked another company",
+      "summary": "متا آخرین شرکتی است که نقض یک عامل هوش مصنوعی را فاش کرده و نگرانی‌های امنیتی سایبری را افزایش داده است.",
+      "summary_fa": "متا آخرین شرکتی است که نقض یک عامل هوش مصنوعی را فاش کرده و نگرانی‌های امنیتی سایبری را افزایش داده است.",
+      "summary_en": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 05:53:58 GMT",
+      "date_iso": "2026-08-06",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -73526,6 +74744,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "b141b03918a7edff3cdc0de5a25a3898",
+      "title": "معامله ای که اینتل را نجات داد",
+      "title_fa": "معامله ای که اینتل را نجات داد",
+      "title_en": "The deal that saved Intel",
+      "summary": "سهام این گروه چهار برابر شده است، اما هنوز نتوانسته است خود را رقیب تولیدی جدی برای TSMC تایوان نشان دهد.",
+      "summary_fa": "سهام این گروه چهار برابر شده است، اما هنوز نتوانسته است خود را رقیب تولیدی جدی برای TSMC تایوان نشان دهد.",
+      "summary_en": "The group’s shares have quadrupled, but it has yet to prove itself a serious manufacturing competitor to Taiwan’s TSMC",
+      "link": "https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 06 Aug 2026 04:00:15 GMT",
+      "date_iso": "2026-08-06",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff1a5d8bd-468a-4003-beef-50a053f6c1fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -130934,6 +132173,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72b2effb88fa895dd0c7fc11560e88eb",
+      "title": "OpenAI می‌گوید دعوای اسرار تجاری اپل «تا بطن خود پوسیده است»",
+      "title_fa": "OpenAI می‌گوید دعوای اسرار تجاری اپل «تا بطن خود پوسیده است»",
+      "title_en": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "summary": "OpenAI از یک قاضی فدرال خواسته است که شکایت مهم اپل را که سازنده ChatGPT را به سرقت اسرار تجاری متهم می کند، رد کند و این اتهامات را \"بی ارزش\" توصیف کند. در درخواستی که دیروز برای رد شکایت ارائه شد، OpenAI می‌گوید که اپل هم اقدامات کارکنان استارت‌آپ هوش مصنوعی را به‌عنوان دزدی توصیف می‌کند و هم اطلاعات توسعه محصول «عمومی» […]",
+      "summary_fa": "OpenAI از یک قاضی فدرال خواسته است که شکایت مهم اپل را که سازنده ChatGPT را به سرقت اسرار تجاری متهم می کند، رد کند و این اتهامات را \"بی ارزش\" توصیف کند. در درخواستی که دیروز برای رد شکایت ارائه شد، OpenAI می‌گوید که اپل هم اقدامات کارکنان استارت‌آپ هوش مصنوعی را به‌عنوان دزدی توصیف می‌کند و هم اطلاعات توسعه محصول «عمومی» […]",
+      "summary_en": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information […]",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "source": "The Verge",
+      "published_at": "2026-08-06T05:33:11-04:00",
+      "date_iso": "2026-08-06",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
