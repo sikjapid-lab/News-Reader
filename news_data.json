@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 17:27:48",
-  "total_count": 7389,
+  "last_update": "2026-08-07 18:26:08",
+  "total_count": 7410,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -137892,6 +137892,27 @@
       }
     },
     {
+      "id": "51f82845b2ceb0ba36809f5265d63fd7",
+      "title": "شکاف بزرگ اینفانتینو: چه کسی موافق و مخالف رئیس جنجالی فیفا است؟",
+      "title_fa": "شکاف بزرگ اینفانتینو: چه کسی موافق و مخالف رئیس جنجالی فیفا است؟",
+      "title_en": "The great Infantino divide: Who is for and against the controversial FIFA chief?",
+      "summary": "اتحادیه فوتبال نروژ خواستار استعفای اینفانتینو شده است در حالی که مکزیک و آرژانتین از رئیس فیفا حمایت می کنند.",
+      "summary_fa": "اتحادیه فوتبال نروژ خواستار استعفای اینفانتینو شده است در حالی که مکزیک و آرژانتین از رئیس فیفا حمایت می کنند.",
+      "summary_en": "The Norwegian Football Association has called for Infantino to resign while Mexico and Argentina have come out in support of the beleaguered FIFA boss.",
+      "link": "http://www.euronews.com/2026/08/07/the-great-infantino-divide-who-is-for-and-against-the-controversial-fifa-chief",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 19:57:40 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8b820691936ac9cf13d0a795ae57b23a",
       "title": "پاریس: نزدیک به 100000 نفر علیه غرفه جدید مجلس ملی امضا کردند",
       "title_fa": "پاریس: نزدیک به 100000 نفر علیه غرفه جدید مجلس ملی امضا کردند",
@@ -137910,6 +137931,132 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "پاریس"
+      }
+    },
+    {
+      "id": "c7435c532437c6aa89c735ab0849012e",
+      "title": "پاریس: نزدیک به 100000 طومار علیه غرفه جدید مجلس ملی امضا کردند",
+      "title_fa": "پاریس: نزدیک به 100000 طومار علیه غرفه جدید مجلس ملی امضا کردند",
+      "title_en": "Paris: nearly 100,000 sign petition against new National Assembly pavilion",
+      "summary": "پس از حمایت شورای پاریس از تغییرات در قوانین برنامه ریزی در اطراف کاخ بوربن، طرح ها برای یک غرفه پذیرایی جدید در مجلس ملی با مخالفت های شدید روبرو شده است.",
+      "summary_fa": "پس از حمایت شورای پاریس از تغییرات در قوانین برنامه ریزی در اطراف کاخ بوربن، طرح ها برای یک غرفه پذیرایی جدید در مجلس ملی با مخالفت های شدید روبرو شده است.",
+      "summary_en": "Plans for a new reception pavilion at the National Assembly are facing strong opposition, with a petition nearing 100,000 signatures after the Paris Council backed changes to planning rules around the Palais-Bourbon.",
+      "link": "http://www.euronews.com/culture/2026/08/07/paris-nearly-100000-sign-petition-against-new-national-assembly-pavilion",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 18:36:24 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "0809c16c12de2bb5d530f44b6daf67af",
+      "title": "ترامپ تلاش برای اخراج لیزا کوک فدرال رزرو را احیا می کند",
+      "title_fa": "ترامپ تلاش برای اخراج لیزا کوک فدرال رزرو را احیا می کند",
+      "title_en": "Trump revives effort to fire Fed's Lisa Cook",
+      "summary": "دن اسکاوینو، دستیار ترامپ به کوک گفت: «دلیل کافی برای این باور وجود دارد که شما اظهارات نادرستی در مورد یک یا چند قرارداد وام مسکن داده اید».",
+      "summary_fa": "دن اسکاوینو، دستیار ترامپ به کوک گفت: «دلیل کافی برای این باور وجود دارد که شما اظهارات نادرستی در مورد یک یا چند قرارداد وام مسکن داده اید».",
+      "summary_en": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
+      "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 18:21:58 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "95394438d8e8b4d730010bc0141f6c57",
+      "title": "کاهش آگاهی موقعیتی تنها دلیل بازگشت تجارت هوش مصنوعی نیست",
+      "title_fa": "کاهش آگاهی موقعیتی تنها دلیل بازگشت تجارت هوش مصنوعی نیست",
+      "title_en": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
+      "summary": "فروش اجباری صندوق تامینی یک رویداد تسویه حساب بود، اما درآمدها تجارت هوش مصنوعی را حفظ می کند",
+      "summary_fa": "فروش اجباری صندوق تامینی یک رویداد تسویه حساب بود، اما درآمدها تجارت هوش مصنوعی را حفظ می کند",
+      "summary_en": "The hedge fund's forced selling was a clearing event, but earnings are sustaining the AI trade",
+      "link": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 18:19:56 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe08c6ca6104c3bab1f31ee6a4761ca1",
+      "title": "برگر کینگ به عنوان دومین زنجیره بزرگ همبرگر کشور از وندی پیشی گرفت",
+      "title_fa": "برگر کینگ به عنوان دومین زنجیره بزرگ همبرگر کشور از وندی پیشی گرفت",
+      "title_en": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+      "summary": "برگر کینگ بار دیگر دومین زنجیره بزرگ همبرگر در ایالات متحده از نظر فروش در سراسر سیستم است.",
+      "summary_fa": "برگر کینگ بار دیگر دومین زنجیره بزرگ همبرگر در ایالات متحده از نظر فروش در سراسر سیستم است.",
+      "summary_en": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+      "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 18:19:39 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5aff7922fe0dee84dfb8bfa2627a57af",
+      "title": "اینجاست که اینترنت Starlink ایلان ماسک به قیمت ماهانه گزاف و هزینه راه اندازی 350 دلار ارزش دارد.",
+      "title_fa": "اینجاست که اینترنت Starlink ایلان ماسک به قیمت ماهانه گزاف و هزینه راه اندازی 350 دلار ارزش دارد.",
+      "title_en": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
+      "summary": "Starlink در مقابل فیبر، کابل و 5G: راهنمای مصرف کنندگان هوشمند برای گزینه های اینترنت 2026.",
+      "summary_fa": "Starlink در مقابل فیبر، کابل و 5G: راهنمای مصرف کنندگان هوشمند برای گزینه های اینترنت 2026.",
+      "summary_en": "Starlink versus fiber, cable and 5G: The smart spender’s guide to 2026 internet options.",
+      "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 18:13:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-37957603",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "37fb9059e29fe39da5f1bd6bc1a26e83",
+      "title": "تور برنهام در بریتانیا برای تمرکز بر کاهش هزینه های زندگی و کمک به خیابان های مرتفع",
+      "title_fa": "تور برنهام در بریتانیا برای تمرکز بر کاهش هزینه های زندگی و کمک به خیابان های مرتفع",
+      "title_en": "Burnham’s UK tour to focus on cutting cost of living and helping high streets",
+      "summary": "نخست وزیر هفته آینده با برنامه ریزی برای بازدید از هر منطقه از تعطیلات بازمی گردد",
+      "summary_fa": "نخست وزیر هفته آینده با برنامه ریزی برای بازدید از هر منطقه از تعطیلات بازمی گردد",
+      "summary_en": "Prime Minister returns from holiday next week with plans to visit every region",
+      "link": "https://www.ft.com/content/cf508e70-5bc2-495e-8b9b-21f15e60ad58?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 18:01:37 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F977c88bd-f8d2-4609-b78a-6a298f187d1a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -137934,6 +138081,132 @@
       }
     },
     {
+      "id": "0da1de4516ae685090a9ec05bfc988d7",
+      "title": "بسته ماموریت رسمی جدید 30 سالگی Quake نقشه ها و مکانیک های جدیدی را اضافه می کند",
+      "title_fa": "بسته ماموریت رسمی جدید 30 سالگی Quake نقشه ها و مکانیک های جدیدی را اضافه می کند",
+      "title_en": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "summary": "19 نقشه جدید داستان را از دیگر کمپین های اضافه شده MachineGames ادامه می دهند.",
+      "summary_fa": "19 نقشه جدید داستان را از دیگر کمپین های اضافه شده MachineGames ادامه می دهند.",
+      "summary_en": "19 new maps continue the story from MachineGames' other campaign additions.",
+      "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 18:00:02 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1ffcd1d89d36ad2ec262e41792cd6045",
+      "title": "این شارژر 6 پورت USB-C جایگزین آجر برقی زشت من شد - و کل میز من را تغذیه می کند",
+      "title_fa": "این شارژر 6 پورت USB-C جایگزین آجر برقی زشت من شد - و کل میز من را تغذیه می کند",
+      "title_en": "This 6-port USB-C charger replaced my ugly power brick - and powers my entire desk",
+      "summary": "شارژر دسکتاپ Satechi ChargeView 240W تمام جعبه های مناسب برای این گیک شارژ را مشخص می کند.",
+      "summary_fa": "شارژر دسکتاپ Satechi ChargeView 240W تمام جعبه های مناسب برای این گیک شارژ را مشخص می کند.",
+      "summary_en": "The Satechi ChargeView 240W desktop charger ticks all the right boxes for this charging geek.",
+      "link": "https://www.zdnet.com/article/satechi-chargeview-240w-desktop-charger-review/",
+      "source": "ZDNet",
+      "published_at": "Fri, 07 Aug 2026 17:55:36 GMT",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2c1d3353b27980de498896801dbd2bb0",
+      "title": "ادعاهای پس انداز وحشیانه و غیرقابل تأیید DOGE در گزارش دولت ایالات متحده بی اعتبار شده است",
+      "title_fa": "ادعاهای پس انداز وحشیانه و غیرقابل تأیید DOGE در گزارش دولت ایالات متحده بی اعتبار شده است",
+      "title_en": "DOGE's wild, unverifiable savings claims discredited in US government report",
+      "summary": "GAO می‌گوید: «دیوار دریافت‌ها» متورم DOGE: 96 درصد پس‌اندازهای کمک مالی غیرقابل تأیید است.",
+      "summary_fa": "GAO می‌گوید: «دیوار دریافت‌ها» متورم DOGE: 96 درصد پس‌اندازهای کمک مالی غیرقابل تأیید است.",
+      "summary_en": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 17:51:05 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/musk-doge-shirt-1152x648-1743095864.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e804254ac919ceb269e99f00012875a1",
+      "title": "اگر وجوه تاریخ هدف به اندازه کافی خطرناک نباشد، آمریکایی‌ها می‌توانند پس‌انداز بازنشستگی را از دست بدهند - به‌ویژه که عمر طولانی‌تری دارند.",
+      "title_fa": "اگر وجوه تاریخ هدف به اندازه کافی خطرناک نباشد، آمریکایی‌ها می‌توانند پس‌انداز بازنشستگی را از دست بدهند - به‌ویژه که عمر طولانی‌تری دارند.",
+      "title_en": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
+      "summary": "سرمایه‌گذاری‌های پیش‌فرض محبوب ممکن است برای تأمین بودجه دهه‌های بازنشستگی، تهاجمی‌تر باشند.",
+      "summary_fa": "سرمایه‌گذاری‌های پیش‌فرض محبوب ممکن است برای تأمین بودجه دهه‌های بازنشستگی، تهاجمی‌تر باشند.",
+      "summary_en": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 17:49:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-96661868",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8dcd1dd853637482979d75bf6141855e",
+      "title": "من به مدت 10 سال به T-Mobile وفادار بودم، اما تغییر به Mint صورت حسابم را کاهش داد - تا حد زیادی",
+      "title_fa": "من به مدت 10 سال به T-Mobile وفادار بودم، اما تغییر به Mint صورت حسابم را کاهش داد - تا حد زیادی",
+      "title_en": "I was loyal to T-Mobile for 10 years, but switching to Mint slashed my bill - by a lot",
+      "summary": "خدمات ناهماهنگ، افزایش قیمت های غیر منتظره، و افزایش قیمت در رقبای با ارزش تر، انتخاب را آسان کرد.",
+      "summary_fa": "خدمات ناهماهنگ، افزایش قیمت های غیر منتظره، و افزایش قیمت در رقبای با ارزش تر، انتخاب را آسان کرد.",
+      "summary_en": "The inconsistent service, shady upcharges, and uptick in better-valued competitors made the choice easy.",
+      "link": "https://www.zdnet.com/article/i-was-loyal-to-t-mobile-for-years-but-switching-to-mint-slashed-my-bill/",
+      "source": "ZDNet",
+      "published_at": "Fri, 07 Aug 2026 17:48:39 GMT",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc30c3a07595f4f8850f7dbdf86f0ea8",
+      "title": "اقتصاددانان می گویند کاهش بیکاری طولانی مدت خبر خوبی نیست - چه معنایی برای جویندگان کار",
+      "title_fa": "اقتصاددانان می گویند کاهش بیکاری طولانی مدت خبر خوبی نیست - چه معنایی برای جویندگان کار",
+      "title_en": "Falling long-term unemployment isn't good news, economists say — what it means for jobseekers",
+      "summary": "به نظر می رسد که بیکاری به دلیل خروج کارگران از نیروی کار کاهش یافته است که برای اقتصاد خانوار و اقتصاد بد خواهد بود.",
+      "summary_fa": "به نظر می رسد که بیکاری به دلیل خروج کارگران از نیروی کار کاهش یافته است که برای اقتصاد خانوار و اقتصاد بد خواهد بود.",
+      "summary_en": "Unemployment appears to have fallen due to an exodus of workers from the labor force, which would be bad for household finances and the economy.",
+      "link": "https://www.cnbc.com/2026/08/07/long-term-unemployment-job-market-workers-labor-force.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 17:48:28 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9df65c3cfaa4d7ecfb8a05a8379ef632",
       "title": "درآمد خانوارها در یونان و اتریش علیرغم رشد کلی OECD کاهش یافته است",
       "title_fa": "درآمد خانوارها در یونان و اتریش علیرغم رشد کلی OECD کاهش یافته است",
@@ -137955,6 +138228,90 @@
       }
     },
     {
+      "id": "b6c41fbd9a1040062f1e1fd3b734b85f",
+      "title": "دادگاه استماع می کند تاجر در حال «تهیه شامپاین» برای جشن قتل Caruana Galizia بود",
+      "title_fa": "دادگاه استماع می کند تاجر در حال «تهیه شامپاین» برای جشن قتل Caruana Galizia بود",
+      "title_en": "Businessman was ‘preparing champagne’ to celebrate Caruana Galizia murder, court hears",
+      "summary": "راننده تاکسی می گوید که به عنوان واسطه بین یورگن فنچ و سه مردی که قبلاً به قتل قراردادی 150000 یورویی محکوم شده اند، عمل کرده است. تاجری که متهم به پرداخت هزینه قتل برای قتل روزنامه نگار دافنه کاروانا گالیزیا شده است، برای وقوع قتل بی تاب بود و یک بار از قایق خود پیامک فرستاد تا بگوید در حال آماده کردن شامپاین برای جشن Maltaen است. وارث 44 ساله امپراتوری املاکی که شامل چندین هتل هیلتون است، به اتهام همدستی در قتل کاروانا گالیزیا در مالتا محاکمه می شود. او در اکتبر 2017 پس از انتشار مجموعه‌ای از افشاگری‌ها درباره سیاستمداران ارشد که به قدری آسیب‌رسان بودند که باعث برگزاری انتخابات عمومی زودهنگام شدند، در یک بمب‌گذاری در خودرو جان باخت. ادامه مطلب...",
+      "summary_fa": "راننده تاکسی می گوید که به عنوان واسطه بین یورگن فنچ و سه مردی که قبلاً به قتل قراردادی 150000 یورویی محکوم شده اند، عمل کرده است. تاجری که متهم به پرداخت هزینه قتل برای قتل روزنامه نگار دافنه کاروانا گالیزیا شده است، برای وقوع قتل بی تاب بود و یک بار از قایق خود پیامک فرستاد تا بگوید در حال آماده کردن شامپاین برای جشن Maltaen است. وارث 44 ساله امپراتوری املاکی که شامل چندین هتل هیلتون است، به اتهام همدستی در قتل کاروانا گالیزیا در مالتا محاکمه می شود. او در اکتبر 2017 پس از انتشار مجموعه‌ای از افشاگری‌ها درباره سیاستمداران ارشد که به قدری آسیب‌رسان بودند که باعث برگزاری انتخابات عمومی زودهنگام شدند، در یک بمب‌گذاری در خودرو جان باخت. ادامه مطلب...",
+      "summary_en": "Taxi driver says he acted as middleman between Yorgen Fenech and three men already convicted of €150,000 contract killingThe businessman accused of paying for hitmen to murder the journalist Daphne Caruana Galizia was impatient for the killing to take place, and once texted from his boat to say he was “preparing champagne” to celebrate, a jury in Malta has heard.Yorgen Fenech, the 44-year-old heir to a property empire that includes several Hilton hotels, is on trial in Malta for complicity in the murder of Caruana Galizia. She died in a car bombing in October 2017 after publishing a series of revelations about senior politicians that were so damaging they triggered a snap general election. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/07/yorgen-fenech-champagne-celebrate-daphne-caruana-galizia-murder",
+      "source": "The Guardian",
+      "published_at": "Fri, 07 Aug 2026 17:40:53 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c0906dd8f4e40f9ac093622bdffc3f1af437ce10/217_0_1614_1291/master/1614.jpg?width=140&quality=85&auto=format&fit=max&s=25d5118d998d64af966eb216e24f1bdf",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b16e7411ba823715c66861230cde62a5",
+      "title": "بلندگوی هوشمند گران‌قیمت OpenAI از قطعات متحرک استفاده می‌کند تا «زنده‌تر» به نظر برسد.",
+      "title_fa": "بلندگوی هوشمند گران‌قیمت OpenAI از قطعات متحرک استفاده می‌کند تا «زنده‌تر» به نظر برسد.",
+      "title_en": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "summary": "گزارش Gurman ادعا می‌کند که OpenAI تأیید کرده است که این اسپیکر یک ریپ‌اف اپل نیست.",
+      "summary_fa": "گزارش Gurman ادعا می‌کند که OpenAI تأیید کرده است که این اسپیکر یک ریپ‌اف اپل نیست.",
+      "summary_en": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 17:36:22 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9b47eb1c919fdb51da5cea8d976535ba",
+      "title": "دونالد ترامپ تهدید به برکناری لیزا کوک، رئیس فدرال رزرو را احیا کرد",
+      "title_fa": "دونالد ترامپ تهدید به برکناری لیزا کوک، رئیس فدرال رزرو را احیا کرد",
+      "title_en": "Donald Trump revives threat to sack Fed governor Lisa Cook",
+      "summary": "این تلاش پس از آن صورت می گیرد که دیوان عالی در ژوئن حکم داد که سیاست گذار می تواند تا زمانی که پرونده حل و فصل شود، در سمت خود باقی بماند",
+      "summary_fa": "این تلاش پس از آن صورت می گیرد که دیوان عالی در ژوئن حکم داد که سیاست گذار می تواند تا زمانی که پرونده حل و فصل شود، در سمت خود باقی بماند",
+      "summary_en": "Attempt comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
+      "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 17:29:37 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea89ed14-d5c0-4459-aa67-ba0d5e1840f7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e9a8c0922c7618f748dcff93c1e5de7",
+      "title": "با افزایش فشار، ایالات متحده به دنبال رهبر بعدی کوبا است",
+      "title_fa": "با افزایش فشار، ایالات متحده به دنبال رهبر بعدی کوبا است",
+      "title_en": "As Pressure Mounts, U.S. Hunts for Cuba’s Next Leader",
+      "summary": "برخی از مقامات هشدار می دهند که اگر دولت ترامپ با برنامه های خود پیش برود، ممکن است رهبر تندروتری ظهور کند.",
+      "summary_fa": "برخی از مقامات هشدار می دهند که اگر دولت ترامپ با برنامه های خود پیش برود، ممکن است رهبر تندروتری ظهور کند.",
+      "summary_en": "Some officials warn that a more hard-line leader could emerge if the Trump administration moves forward with its plans.",
+      "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+      "source": "NY Times",
+      "published_at": "Fri, 07 Aug 2026 17:28:01 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07dc-cuba-intel-01-tfbm/07dc-cuba-intel-01-tfbm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4ddff8085871bb05411ee273d6146e43",
       "title": "چگونه حلزون ها لجن خود را مهندسی می کنند",
       "title_fa": "چگونه حلزون ها لجن خود را مهندسی می کنند",
@@ -137969,6 +138326,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aedfacbc0cff9826f620fd202261887f",
+      "title": "دهلی نو در هشدار قرمز به دلیل بارش شدید باران در شهر",
+      "title_fa": "دهلی نو در هشدار قرمز به دلیل بارش شدید باران در شهر",
+      "title_en": "New Delhi on red alert as heavy rains pound the city",
+      "summary": "باران‌های شدید دهلی نو و شهرهای اطراف آن را درنوردیده و ترافیک را مختل کرده و مسافران را سرگردان کرده است.",
+      "summary_fa": "باران‌های شدید دهلی نو و شهرهای اطراف آن را درنوردیده و ترافیک را مختل کرده و مسافران را سرگردان کرده است.",
+      "summary_en": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 17:19:06 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -138099,6 +138477,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3f097793c3a747accc519dee4a5715e1",
+      "title": "جینین پیرو، صلیبی قانونی ترامپ از فیلمنامه خارج می شود",
+      "title_fa": "جینین پیرو، صلیبی قانونی ترامپ از فیلمنامه خارج می شود",
+      "title_en": "Jeanine Pirro, Trump’s legal crusader goes off script",
+      "summary": "رابطه وکیل ایالات متحده با رئیس جمهور پس از رد ادعای خرابکاری در استخر بازتاب از سوی دفتر وی در حال رد شدن است.",
+      "summary_fa": "رابطه وکیل ایالات متحده با رئیس جمهور پس از رد ادعای خرابکاری در استخر بازتاب از سوی دفتر وی در حال رد شدن است.",
+      "summary_en": "The US attorney’s relationship with the president is on thin ice after her office rejected claims of vandalism at the Reflecting Pool",
+      "link": "https://www.ft.com/content/f9804df6-2380-495a-9981-007d95c7dad6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 17:00:06 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85585b40-c3c3-4783-a480-32c7104d0802.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -144378,6 +144777,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb0ede1f4936a2deb7bc4ccf8f609cb5",
+      "title": "دیزنی پلاس یک جستجوی جدید مبتنی بر هوش مصنوعی را امتحان می کند",
+      "title_fa": "دیزنی پلاس یک جستجوی جدید مبتنی بر هوش مصنوعی را امتحان می کند",
+      "title_en": "Disney Plus tries a new AI-powered search",
+      "summary": "دیزنی در حال آزمایش یک ابزار جدید مبتنی بر هوش مصنوعی برای دیزنی پلاس است که از جستجوی زبان طبیعی، پرس و جوی صوتی یا یک درخواست پیشنهادی برای ایجاد یک ردیف سفارشی از توصیه‌های نمایش و فیلم استفاده می‌کند. دیزنی پلاس، مانند سایر سرویس‌های استریم، می‌تواند نمایش‌هایی را برای تماشا بر اساس سابقه بازدید شما توصیه کند. اما این شرکت می گوید این جدید […]",
+      "summary_fa": "دیزنی در حال آزمایش یک ابزار جدید مبتنی بر هوش مصنوعی برای دیزنی پلاس است که از جستجوی زبان طبیعی، پرس و جوی صوتی یا یک درخواست پیشنهادی برای ایجاد یک ردیف سفارشی از توصیه‌های نمایش و فیلم استفاده می‌کند. دیزنی پلاس، مانند سایر سرویس‌های استریم، می‌تواند نمایش‌هایی را برای تماشا بر اساس سابقه بازدید شما توصیه کند. اما این شرکت می گوید این جدید […]",
+      "summary_en": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new […]",
+      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "source": "The Verge",
+      "published_at": "2026-08-07T13:53:44-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "227e6cb43a74fe13a309b8b1b3b06326",
+      "title": "مایکروسافت اج در شرف قفل کردن مسدودکننده های تبلیغات قدیمی است، درست مانند کروم",
+      "title_fa": "مایکروسافت اج در شرف قفل کردن مسدودکننده های تبلیغات قدیمی است، درست مانند کروم",
+      "title_en": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "summary": "مایکروسافت اج در حال پایان دادن به پشتیبانی از پلتفرم افزونه‌های Manifest V2 است که مسدودکننده تبلیغات uBlock Origin و سایر موارد مشابه آن را قطع می‌کند، درست مانند گوگل کروم که اوایل امسال انجام داد. به گفته مایکروسافت، تنها 58 افزونه در فروشگاه افزودنی Edge \"با هر گونه استفاده معنی دار\" وجود دارد که هنوز از MV2 استفاده می کنند و تنها سه […]",
+      "summary_fa": "مایکروسافت اج در حال پایان دادن به پشتیبانی از پلتفرم افزونه‌های Manifest V2 است که مسدودکننده تبلیغات uBlock Origin و سایر موارد مشابه آن را قطع می‌کند، درست مانند گوگل کروم که اوایل امسال انجام داد. به گفته مایکروسافت، تنها 58 افزونه در فروشگاه افزودنی Edge \"با هر گونه استفاده معنی دار\" وجود دارد که هنوز از MV2 استفاده می کنند و تنها سه […]",
+      "summary_en": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three […]",
+      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "source": "The Verge",
+      "published_at": "2026-08-07T13:43:34-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
