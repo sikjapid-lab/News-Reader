@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 00:20:13",
-  "total_count": 7061,
+  "last_update": "2026-08-07 03:22:58",
+  "total_count": 7087,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -72269,6 +72269,69 @@
       }
     },
     {
+      "id": "bf23f4d9050878dda6fd5569e9052095",
+      "title": "داگ ادعا می کند که 110 میلیارد دلار برای آمریکایی ها صرفه جویی کرده است",
+      "title_fa": "داگ ادعا می کند که 110 میلیارد دلار برای آمریکایی ها صرفه جویی کرده است",
+      "title_en": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 23:55:35 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ce/live/045a8c10-91e4-11f1-a8d5-1d15816efb50.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9321cf6484ff33d2e04652da94dd6c52",
+      "title": "محدودیت های سفر - از اسرائیل و اروپا - دانش آموزان را در غزه به دام می اندازد",
+      "title_fa": "محدودیت های سفر - از اسرائیل و اروپا - دانش آموزان را در غزه به دام می اندازد",
+      "title_en": "Travel restrictions – from Israel and Europe – trap students in Gaza",
+      "summary": "محاصره و بوروکراسی، آموزش را به سفری پر فراز و نشیب برای دانش آموزان با استعداد غزه تبدیل می کند که به دنبال آینده ای روشن تر هستند.",
+      "summary_fa": "محاصره و بوروکراسی، آموزش را به سفری پر فراز و نشیب برای دانش آموزان با استعداد غزه تبدیل می کند که به دنبال آینده ای روشن تر هستند.",
+      "summary_en": "Blockades and bureaucracy turn education into an uphill journey for talented Gaza students seeking a brighter future.",
+      "link": "https://www.aljazeera.com/features/2026/8/6/travel-restrictions-from-israel-and-europe-trap-students-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 23:49:21 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "38c6590e877fd643d5d8004e5ff9c5f9",
+      "title": "\"بدون خط قرمز\": ساکنان جنوب لبنان با از سرگیری حملات اسرائیل خشمگین شدند",
+      "title_fa": "\"بدون خط قرمز\": ساکنان جنوب لبنان با از سرگیری حملات اسرائیل خشمگین شدند",
+      "title_en": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
+      "summary": "مردم جنوب لبنان رویکرد دولت خود را زیر سوال می برند، زیرا اسرائیل حملات بیشتری را انجام می دهد و دستورات آوارگی را صادر می کند.",
+      "summary_fa": "مردم جنوب لبنان رویکرد دولت خود را زیر سوال می برند، زیرا اسرائیل حملات بیشتری را انجام می دهد و دستورات آوارگی را صادر می کند.",
+      "summary_en": "People in southern Lebanon question their government's approach as Israel launches more attacks and displacement orders.",
+      "link": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 06 Aug 2026 23:46:37 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "aced272ff013f9a5651a6ee78761ef88",
       "title": "ترامپ دستورات اجرایی ممنوعیت به اصطلاح «گردشگری تولد» را امضا کرد.",
       "title_fa": "ترامپ دستورات اجرایی ممنوعیت به اصطلاح «گردشگری تولد» را امضا کرد.",
@@ -137661,6 +137724,468 @@
       }
     },
     {
+      "id": "1765da2043ca0024b61583e32ad26588",
+      "title": "اخبار استرالیا زنده: شاکی آلن جونز ساختن بوسه خوک را تکذیب کرد. نمایشگاه رویال آدلاید به دلیل ترس از آنفولانزای پرندگان، نمایشگاه های طیور را لغو کرد",
+      "title_fa": "اخبار استرالیا زنده: شاکی آلن جونز ساختن بوسه خوک را تکذیب کرد. نمایشگاه رویال آدلاید به دلیل ترس از آنفولانزای پرندگان، نمایشگاه های طیور را لغو کرد",
+      "title_en": "Australia news live: Alan Jones complainant denies fabricating pigsty kiss; Royal Adelaide Show cancels poultry exhibits over bird flu fears",
+      "summary": "بازجویی متقابل از اولین قربانی ادعایی که در دادگاه تجاوز ناشایست جونز مدرک ارائه کرد، ادامه دارد. اخبار امروز را به صورت زنده دنبال کنید پارلمان فدرال هفته آینده از تعطیلات زمستانی بازمی گردد. آیا سوالی دارید که می خواهید از تیم خبرنگاران سیاسی گاردین استرالیا در کانبرا بپرسید؟ سردبیر سیاسی ما، تام مک ایلروی، و تیم به سوالات خوانندگان در پادکست سیاست استرالیا پاسخ خواهند داد. ادامه مطلب...",
+      "summary_fa": "بازجویی متقابل از اولین قربانی ادعایی که در دادگاه تجاوز ناشایست جونز مدرک ارائه کرد، ادامه دارد. اخبار امروز را به صورت زنده دنبال کنید پارلمان فدرال هفته آینده از تعطیلات زمستانی بازمی گردد. آیا سوالی دارید که می خواهید از تیم خبرنگاران سیاسی گاردین استرالیا در کانبرا بپرسید؟ سردبیر سیاسی ما، تام مک ایلروی، و تیم به سوالات خوانندگان در پادکست سیاست استرالیا پاسخ خواهند داد. ادامه مطلب...",
+      "summary_en": "The cross-examination of the first alleged victim to give evidence in Jones’s indecent assault trial continues. Follow today’s news liveFederal parliament is returning from winter break next week.Do you have a question you’d like to ask Guardian Australia’s team of political reporters in Canberra? Our political editor, Tom McIlroy, and the team will be answering readers’ questions on the Australian Politics podcast. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 07 Aug 2026 03:09:19 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e5ac38c1df5b2017bea88cd239fe875a25ba82ee/2810_180_4768_3815/master/4768.jpg?width=140&quality=85&auto=format&fit=max&s=988e9595b0a61498d95103ff43c021a9",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "675a6e93bf7e7d4ad30eaaab02cb4c45",
+      "title": "صادرات چین در جولای 23 درصد افزایش یافت که بالاتر از برآوردها بود. واردات باحال",
+      "title_fa": "صادرات چین در جولای 23 درصد افزایش یافت که بالاتر از برآوردها بود. واردات باحال",
+      "title_en": "China's exports jump 23% in July, beating estimates; imports cool",
+      "summary": "صادرات چین در ماه جولای بیش از حد انتظار افزایش یافت، زیرا تقاضای جهانی برای قطعات با فناوری پیشرفته همچنان به جذب کالاهای تولیدی این کشور ادامه می دهد.",
+      "summary_fa": "صادرات چین در ماه جولای بیش از حد انتظار افزایش یافت، زیرا تقاضای جهانی برای قطعات با فناوری پیشرفته همچنان به جذب کالاهای تولیدی این کشور ادامه می دهد.",
+      "summary_en": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
+      "link": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 03:04:54 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "41313e3696f161c96e53d50fcbea82e8",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Court tells Meta to pay extra $567mn penalty to tackle social media harm to children",
+      "summary": "پس از اینکه قاضی نیومکزیکو شرکت را \"مزاحم عمومی\" تشخیص داد، گروه فناوری درخواست تجدید نظر می کند",
+      "summary_fa": "پس از اینکه قاضی نیومکزیکو شرکت را \"مزاحم عمومی\" تشخیص داد، گروه فناوری درخواست تجدید نظر می کند",
+      "summary_en": "Tech group to appeal after New Mexico judge finds company to be a ‘public nuisance’",
+      "link": "https://www.ft.com/content/fa86a2be-bef5-413e-83de-a925330a0fb0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 02:57:08 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f67e32f-6180-4b90-82e8-a757507aeeaa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "28fa06fe10a68dc663bfe87d92545e96",
+      "title": "سهام Micron سقوط کرد اما از بدترین فروش تراشه های حافظه در امان ماند",
+      "title_fa": "سهام Micron سقوط کرد اما از بدترین فروش تراشه های حافظه در امان ماند",
+      "title_en": "Micron’s stock falls but is spared the worst of the memory-chip selloff",
+      "summary": "سهام ساندیس و وسترن دیجیتال پس از اینکه سرمایه گذاران تحت تاثیر گزارش های درآمدی این شرکت ها قرار نگرفتند، به شدت سقوط کردند.",
+      "summary_fa": "سهام ساندیس و وسترن دیجیتال پس از اینکه سرمایه گذاران تحت تاثیر گزارش های درآمدی این شرکت ها قرار نگرفتند، به شدت سقوط کردند.",
+      "summary_en": "Shares of Sandisk and Western Digital fell hard after investors were left unimpressed by those companies’ earnings reports.",
+      "link": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 02:35:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-54177591",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59b73d2e530fea3063f8d0c6dec7f5ec",
+      "title": "قیمت نفت در بحبوحه نگرانی‌ها از اختلال در عرضه پس از پیش‌نویس طرح محدودکننده ایران برای تنگه هرمز افزایش یافت.",
+      "title_fa": "قیمت نفت در بحبوحه نگرانی‌ها از اختلال در عرضه پس از پیش‌نویس طرح محدودکننده ایران برای تنگه هرمز افزایش یافت.",
+      "title_en": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+      "summary": "خبر پیش نویس طرح محدودکننده ایران برای تنگه هرمز باعث افزایش قیمت نفت شد و نگرانی ها در مورد اختلالات عرضه را دوباره افزایش داد.",
+      "summary_fa": "خبر پیش نویس طرح محدودکننده ایران برای تنگه هرمز باعث افزایش قیمت نفت شد و نگرانی ها در مورد اختلالات عرضه را دوباره افزایش داد.",
+      "summary_en": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+      "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 02:30:49 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "460d5b9e88d905c4ba420dde60b91e40",
+      "title": "گزارش اختصاصی با نجات 308 نفر توسط نیروهای نیجریه",
+      "title_fa": "گزارش اختصاصی با نجات 308 نفر توسط نیروهای نیجریه",
+      "title_en": "Exclusive report with the 308 people rescued by Nigerian forces",
+      "summary": "نیروهای امنیتی نیجریه 308 نفر را که در حملات جداگانه در ایالت های شمالی نیجر و کوارا ربوده شده بودند، نجات دادند.",
+      "summary_fa": "نیروهای امنیتی نیجریه 308 نفر را که در حملات جداگانه در ایالت های شمالی نیجر و کوارا ربوده شده بودند، نجات دادند.",
+      "summary_en": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 02:30:23 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b29ec6c0981a1161bc1bdb8b7661ed2b",
+      "title": "مذاکره‌کننده ارشد ایران ترامپ را به «دیپلماسی تئاتر» متهم کرد که ترافیک هرمز نزدیک به توقف است.",
+      "title_fa": "مذاکره‌کننده ارشد ایران ترامپ را به «دیپلماسی تئاتر» متهم کرد که ترافیک هرمز نزدیک به توقف است.",
+      "title_en": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "summary": "درگیری در سراسر منطقه در حال گسترش است، زیرا زیرساخت های انرژی خلیج فارس و نقاط انسداد مهم کشتیرانی در معرض تهدید مجدد قرار دارند.",
+      "summary_fa": "درگیری در سراسر منطقه در حال گسترش است، زیرا زیرساخت های انرژی خلیج فارس و نقاط انسداد مهم کشتیرانی در معرض تهدید مجدد قرار دارند.",
+      "summary_en": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+      "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 02:08:42 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b605922981438e2f2f862f1fb75aef84",
+      "title": "خدمه هوانوردی استرالیایی نجات جسورانه در میانه زمستان قطب جنوب را انجام می دهند",
+      "title_fa": "خدمه هوانوردی استرالیایی نجات جسورانه در میانه زمستان قطب جنوب را انجام می دهند",
+      "title_en": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "summary": "تیم یک بیمار را پس از فرود هواپیما در تاریکی مطلق و دمای -43 درجه سانتیگراد از ایستگاه مک موردو خارج کردند.",
+      "summary_fa": "تیم یک بیمار را پس از فرود هواپیما در تاریکی مطلق و دمای -43 درجه سانتیگراد از ایستگاه مک موردو خارج کردند.",
+      "summary_en": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 02:07:46 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7090/live/f29bd430-9200-11f1-8bb2-b1dba9ee6a3c.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0bbe7bcad99ff4d343ecdc47833b6dee",
+      "title": "«حساب‌های بانکی او توسط Medicaid برهنه شد»: دوست فقید من 20000 دلار بدهی کارت اعتباری داشت. آیا بیمه عمر او هزینه آن را پرداخت می کند؟",
+      "title_fa": "«حساب‌های بانکی او توسط Medicaid برهنه شد»: دوست فقید من 20000 دلار بدهی کارت اعتباری داشت. آیا بیمه عمر او هزینه آن را پرداخت می کند؟",
+      "title_en": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "summary": "او یک پسر 30 ساله و یک دختر 32 ساله از خود به جای گذاشت.",
+      "summary_fa": "او یک پسر 30 ساله و یک دختر 32 ساله از خود به جای گذاشت.",
+      "summary_en": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 02:00:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-58472746",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "463514f06d7caedae92dbb1b6054499d",
+      "title": "حمله رژیم صهیونیستی به قلندیه کرانه باختری 51 فلسطینی را مجروح کرد",
+      "title_fa": "حمله رژیم صهیونیستی به قلندیه کرانه باختری 51 فلسطینی را مجروح کرد",
+      "title_en": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+      "summary": "در بحبوحه خشونت های نظامی و شهرک نشینان در کرانه باختری، نیروهای اسرائیلی ده ها فلسطینی را در نزدیکی بیت المقدس دستگیر کردند.",
+      "summary_fa": "در بحبوحه خشونت های نظامی و شهرک نشینان در کرانه باختری، نیروهای اسرائیلی ده ها فلسطینی را در نزدیکی بیت المقدس دستگیر کردند.",
+      "summary_en": "Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 01:51:50 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "0c026f0b407ffe0f4353acf528c8deb1",
+      "title": "دادگاه نیومکزیکو متا را به پرداخت 567 میلیون دلار به دلیل آسیب رساندن به جوانان محکوم کرد",
+      "title_fa": "دادگاه نیومکزیکو متا را به پرداخت 567 میلیون دلار به دلیل آسیب رساندن به جوانان محکوم کرد",
+      "title_en": "New Mexico court orders Meta to pay $567m over harm to youths",
+      "summary": "این حکم در مرحله دوم یک محاکمه مهم صادر می‌شود که مالک اینستاگرام، فیسبوک نیز در ماه مارس شکست خورد.",
+      "summary_fa": "این حکم در مرحله دوم یک محاکمه مهم صادر می‌شود که مالک اینستاگرام، فیسبوک نیز در ماه مارس شکست خورد.",
+      "summary_en": "The ruling comes in the second phase of a landmark trial, with the Instagram, Facebook owner also losing in March.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 01:51:03 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1883711e553640d99e744b86d45a8fe",
+      "title": "فروش یوروی آمریکا برای حمایت از ین ECB کور",
+      "title_fa": "فروش یوروی آمریکا برای حمایت از ین ECB کور",
+      "title_en": "US euro sale to prop up yen blindsided ECB",
+      "summary": "کریستین لاگارد و اسکات بسنت تنها پس از مداخله تاریخی واشنگتن صحبت کردند",
+      "summary_fa": "کریستین لاگارد و اسکات بسنت تنها پس از مداخله تاریخی واشنگتن صحبت کردند",
+      "summary_en": "Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention",
+      "link": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 01:50:16 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0facac4e-2cd7-4025-b4d0-8db4f73395e6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "67c7923c84925355bccbca00ffc2a16d",
+      "title": "مردی پس از حمله سگ مشکوک به ملک روستایی در حومه سیدنی جان خود را از دست داد",
+      "title_fa": "مردی پس از حمله سگ مشکوک به ملک روستایی در حومه سیدنی جان خود را از دست داد",
+      "title_en": "Man dies after suspected dog attack at rural property in Sydney suburb",
+      "summary": "پلیس می گوید جسد جوان 23 ساله با جراحات قابل توجه در املاک اشول پارک پیدا شد که نشان می دهد ممکن است قبل از مرگ مورد حمله قرار گرفته باشد برای آخرین به روز رسانی ها وبلاگ اخبار استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مرد جوان پس از حمله سگ مشکوک به یک ملک روستایی جان خود را از دست داد. جنوب غربی سیدنی در روز چهارشنبه. ادامه مطلب...",
+      "summary_fa": "پلیس می گوید جسد جوان 23 ساله با جراحات قابل توجه در املاک اشول پارک پیدا شد که نشان می دهد ممکن است قبل از مرگ مورد حمله قرار گرفته باشد برای آخرین به روز رسانی ها وبلاگ اخبار استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید یک مرد جوان پس از حمله سگ مشکوک به یک ملک روستایی جان خود را از دست داد. جنوب غربی سیدنی در روز چهارشنبه. ادامه مطلب...",
+      "summary_en": "Police say body of 23-year-old found at Eschol Park property with significant injuries, indicating he may have been attacked before deathFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA young man has died after a suspected dog attack at a rural property, as police begin an investigation.Authorities were alerted to the discovery of the 23-year-old’s body at a rural property in Sydney’s south-west on Wednesday. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 07 Aug 2026 01:33:38 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8fae3335b5e3af4f9c1bfb011b6dcd2ab1126055/893_0_4796_3837/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=d4a58fe59d0edcf8ea2fce1913abf703",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3fd6022cd5225b2665f33e626828a53c",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+      "summary": "یک قاضی در نیومکزیکو به متا دستور داد تا 567 میلیون دلار به یک صندوق کاهش هزینه پرداخت کند، زیرا هیئت منصفه اعلام کرد که این شرکت قانون رفتارهای ناعادلانه ایالت را نقض کرده است.",
+      "summary_fa": "یک قاضی در نیومکزیکو به متا دستور داد تا 567 میلیون دلار به یک صندوق کاهش هزینه پرداخت کند، زیرا هیئت منصفه اعلام کرد که این شرکت قانون رفتارهای ناعادلانه ایالت را نقض کرده است.",
+      "summary_en": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+      "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 01:28:57 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aaeadaa449712c2703c6a8b9949b0ac1",
+      "title": "برزیل رسماً 16 نفر را متهم به سقوط هواپیمای مرگبار Voepass در سال 2024 کرد",
+      "title_fa": "برزیل رسماً 16 نفر را متهم به سقوط هواپیمای مرگبار Voepass در سال 2024 کرد",
+      "title_en": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+      "summary": "این مقام می گوید که هواپیما قبل از سقوط که منجر به کشته شدن 62 نفر در خارج از سائوپائولو شد، به طور نامنظم برای خروج از پرواز خارج شد.",
+      "summary_fa": "این مقام می گوید که هواپیما قبل از سقوط که منجر به کشته شدن 62 نفر در خارج از سائوپائولو شد، به طور نامنظم برای خروج از پرواز خارج شد.",
+      "summary_en": "Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 01:17:13 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26c917500fa67729303eed3bfb311af8",
+      "title": "یکی از قدرتمندترین مدل‌های هوش مصنوعی چین نیز از کنترل فرار کرده است",
+      "title_fa": "یکی از قدرتمندترین مدل‌های هوش مصنوعی چین نیز از کنترل فرار کرده است",
+      "title_en": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "summary": "محققان امنیتی می گویند که Kimi K3، یک مدل وزن باز از چین، در تلاش برای تقلب در آزمایشی که انجام شده بود، به اینترنت سرگردان شد.",
+      "summary_fa": "محققان امنیتی می گویند که Kimi K3، یک مدل وزن باز از چین، در تلاش برای تقلب در آزمایشی که انجام شده بود، به اینترنت سرگردان شد.",
+      "summary_en": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "source": "Wired",
+      "published_at": "Fri, 07 Aug 2026 01:16:55 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "4114b5840ef16b21f076c906925ad0d5",
+      "title": "ترامپ برای مقابله با چین تعرفه 15 درصدی بر مواد کلیدی تراشه اعمال می کند",
+      "title_fa": "ترامپ برای مقابله با چین تعرفه 15 درصدی بر مواد کلیدی تراشه اعمال می کند",
+      "title_en": "Trump imposes 15% tariff on key chip material to counter China",
+      "summary": "هدف از این اقدام محافظت از شرکت های آمریکایی است زیرا آنها با رقابت فزاینده ای از سوی صنعت تراشه چین مواجه هستند.",
+      "summary_fa": "هدف از این اقدام محافظت از شرکت های آمریکایی است زیرا آنها با رقابت فزاینده ای از سوی صنعت تراشه چین مواجه هستند.",
+      "summary_en": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 01:03:35 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "159de621f38699342af085edfb410dc1",
+      "title": "پلیس آرژانتین برای متوقف کردن معترضان از گاز اشک آور استفاده کرد",
+      "title_fa": "پلیس آرژانتین برای متوقف کردن معترضان از گاز اشک آور استفاده کرد",
+      "title_en": "Police in Argentina use tear gas to stop protesters",
+      "summary": "ترزا بو خبرنگار الجزیره از بوئنوس آیرس گزارش می دهد، جایی که پلیس همزمان با تظاهرات هزاران نفر از گاز اشک آور استفاده کرد.",
+      "summary_fa": "ترزا بو خبرنگار الجزیره از بوئنوس آیرس گزارش می دهد، جایی که پلیس همزمان با تظاهرات هزاران نفر از گاز اشک آور استفاده کرد.",
+      "summary_en": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 01:02:56 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "21de37d3f15dae6b743a3f3284125722",
+      "title": "دو نفر در رابطه با مرگ استریمر فرانسوی محکوم شدند",
+      "title_fa": "دو نفر در رابطه با مرگ استریمر فرانسوی محکوم شدند",
+      "title_en": "Two people convicted in relation to death of French streamer",
+      "summary": "رافائل گراون، 46 ساله، در آگوست 2025 با پخش زنده مرگ او از پلتفرم استریم کیک درگذشت.",
+      "summary_fa": "رافائل گراون، 46 ساله، در آگوست 2025 با پخش زنده مرگ او از پلتفرم استریم کیک درگذشت.",
+      "summary_en": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+      "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 00:51:40 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8835/live/1b4a78c0-91f0-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5190d250e36c065bc870927bdb553636",
+      "title": "بحران تامین اجتماعی فیل در اتاق است. اما ماوس را نادیده نگیرید.",
+      "title_fa": "بحران تامین اجتماعی فیل در اتاق است. اما ماوس را نادیده نگیرید.",
+      "title_en": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+      "summary": "هیچ کس نمی داند که اگر صندوق امانی تامین اجتماعی واقعاً تمام شود، کنگره چه خواهد کرد.",
+      "summary_fa": "هیچ کس نمی داند که اگر صندوق امانی تامین اجتماعی واقعاً تمام شود، کنگره چه خواهد کرد.",
+      "summary_en": "No one knows what Congress will do if Social Security’s trust fund were actually to be depleted.",
+      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 00:31:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-55523121",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69eae959ca475cdccad82b2c3659d667",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Do you know who owns the media you watch?",
+      "summary": "امروزه در مجموع 6 شرکت 90 درصد بازار رسانه ای آمریکا را در اختیار دارند.",
+      "summary_fa": "امروزه در مجموع 6 شرکت 90 درصد بازار رسانه ای آمریکا را در اختیار دارند.",
+      "summary_en": "Today, a total of 6 companies own 90% of the American media market.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 00:28:50 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d8475f56e0d7011b8cf197b361f155e",
+      "title": "بعد از سیل، گرسنگی: دومین فاجعه موزامبیک",
+      "title_fa": "بعد از سیل، گرسنگی: دومین فاجعه موزامبیک",
+      "title_en": "After the floods, hunger: Mozambique’s second disaster",
+      "summary": "از دست رفتن برداشت‌ها و مختل شدن مسیرهای عرضه، بسیاری از خانواده‌ها را به عمق ناامنی غذایی سوق داده است.",
+      "summary_fa": "از دست رفتن برداشت‌ها و مختل شدن مسیرهای عرضه، بسیاری از خانواده‌ها را به عمق ناامنی غذایی سوق داده است.",
+      "summary_en": "Lost harvests and disrupted supply routes have pushed many families deeper into food insecurity.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 00:12:16 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aa1fe91e0c58015cd0deaf5184974013",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -137721,6 +138246,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9815689215bb3e07fc8ceb1ecd07d7a2",
+      "title": "جنگ ایران زنده: ترامپ می‌گوید جنگ نمی‌تواند «بیش از این طول بکشد». معامله هرمز بسته شد",
+      "title_fa": "جنگ ایران زنده: ترامپ می‌گوید جنگ نمی‌تواند «بیش از این طول بکشد». معامله هرمز بسته شد",
+      "title_en": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
+      "summary": "آمریکا، ایران و عمان به توافق موقت برای بازگشایی تنگه هرمز نزدیک شده اند.",
+      "summary_fa": "آمریکا، ایران و عمان به توافق موقت برای بازگشایی تنگه هرمز نزدیک شده اند.",
+      "summary_en": "The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 00:00:00 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
