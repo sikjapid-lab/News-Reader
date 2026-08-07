@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 23:13:18",
-  "total_count": 7470,
+  "last_update": "2026-08-07 23:50:37",
+  "total_count": 7474,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -137889,6 +137889,90 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8f7475886356916ab01fc2dbd1181a56",
+      "title": "نهاد ICC از چاد و ونزوئلا می‌خواهد که مسیر خروج را تغییر دهند",
+      "title_fa": "نهاد ICC از چاد و ونزوئلا می‌خواهد که مسیر خروج را تغییر دهند",
+      "title_en": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
+      "summary": "با تشدید کمپین ایالات متحده علیه دادگاه، نهاد نظارتی دادگاه بین المللی هشدار می دهد که خروج ها عدالت جهانی را تهدید می کند.",
+      "summary_fa": "با تشدید کمپین ایالات متحده علیه دادگاه، نهاد نظارتی دادگاه بین المللی هشدار می دهد که خروج ها عدالت جهانی را تهدید می کند.",
+      "summary_en": "International court's oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 23:34:50 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "80ed58faeeb9fbe367786cf9d4ee162c",
+      "title": "آیا اتحاد پاکستان-عربستان-ترکیه در واقع نظم منطقه ای جدیدی ایجاد خواهد کرد؟",
+      "title_fa": "آیا اتحاد پاکستان-عربستان-ترکیه در واقع نظم منطقه ای جدیدی ایجاد خواهد کرد؟",
+      "title_en": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
+      "summary": "پیمان دفاعی مشترک مکه کشورهایی را که بین ایران و اسرائیل قرار دارند گرد هم می آورد، اما آیا این پیمان موثر خواهد بود؟",
+      "summary_fa": "پیمان دفاعی مشترک مکه کشورهایی را که بین ایران و اسرائیل قرار دارند گرد هم می آورد، اما آیا این پیمان موثر خواهد بود؟",
+      "summary_en": "The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?",
+      "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 23:18:14 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4cb8031a66118ddc68a1c139733c6b5a",
+      "title": "پزشکان در میان شش فلسطینی مجروح شده در حملات اسرائیل در سراسر کرانه باختری",
+      "title_fa": "پزشکان در میان شش فلسطینی مجروح شده در حملات اسرائیل در سراسر کرانه باختری",
+      "title_en": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+      "summary": "مقامات می گویند که از ژانویه، فلسطینی ها بیش از 11000 حمله اسرائیل به کرانه باختری اشغالی را گزارش کرده اند.",
+      "summary_fa": "مقامات می گویند که از ژانویه، فلسطینی ها بیش از 11000 حمله اسرائیل به کرانه باختری اشغالی را گزارش کرده اند.",
+      "summary_en": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 23:15:01 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "20e5c67d68423f24602f2470c3e48f1e",
+      "title": "Moonshot shake up به دنبال جلب نظر پکن برای اولین حضور در بازار سهام است",
+      "title_fa": "Moonshot shake up به دنبال جلب نظر پکن برای اولین حضور در بازار سهام است",
+      "title_en": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+      "summary": "استارت آپ چینی هوش مصنوعی فهرست هنگ کنگ را هدف قرار داده تا بودجه جدیدی برای مرحله بعدی توسعه جمع آوری کند",
+      "summary_fa": "استارت آپ چینی هوش مصنوعی فهرست هنگ کنگ را هدف قرار داده تا بودجه جدیدی برای مرحله بعدی توسعه جمع آوری کند",
+      "summary_en": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
+      "link": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 23:00:07 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9418c9c9-3413-4960-a833-c85e4b3b79eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "پکن"
       }
     },
     {
