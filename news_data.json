@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 11:09:39",
-  "total_count": 7235,
+  "last_update": "2026-08-07 11:58:11",
+  "total_count": 7256,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -72815,6 +72815,27 @@
       }
     },
     {
+      "id": "78a48663333f3b58de54aca698fc13c2",
+      "title": "تماشا کنید: فضانوردان ناسا 6.5 ساعت پیاده روی فضایی خارج از ایستگاه فضایی بین المللی انجام می دهند",
+      "title_fa": "تماشا کنید: فضانوردان ناسا 6.5 ساعت پیاده روی فضایی خارج از ایستگاه فضایی بین المللی انجام می دهند",
+      "title_en": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+      "summary": "فضانوردان Anil Menon و Jessica Meir به دنبال نصب سخت افزاری برای نصب آرایه های خورشیدی در آینده به ایستگاه فضایی شدند.",
+      "summary_fa": "فضانوردان Anil Menon و Jessica Meir به دنبال نصب سخت افزاری برای نصب آرایه های خورشیدی در آینده به ایستگاه فضایی شدند.",
+      "summary_en": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+      "link": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 06 Aug 2026 21:49:48 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/ae7b8b30-91e0-11f1-9bc8-c9e5b4077192.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1284548a868256ee5ea2caf7348a55fe",
       "title": "AMD راه اندازی تراشه ای را می خرد که مدل های هوش مصنوعی را به سیلیکون خود متصل می کند",
       "title_fa": "AMD راه اندازی تراشه ای را می خرد که مدل های هوش مصنوعی را به سیلیکون خود متصل می کند",
@@ -137871,6 +137892,48 @@
       }
     },
     {
+      "id": "84015760b567c7b30dee643c692c82e7",
+      "title": "\"دیزنی باید شکایت کند\": کاخ سفید به دلیل پست کمپین مرد عنکبوتی ICE مورد انتقاد قرار گرفت",
+      "title_fa": "\"دیزنی باید شکایت کند\": کاخ سفید به دلیل پست کمپین مرد عنکبوتی ICE مورد انتقاد قرار گرفت",
+      "title_en": "'Disney need to sue': White House blasted over Spider-Man ICE campaign post",
+      "summary": "\"نمایندگان ICE محله دوستانه شما.\" طرفداران مارول از کاخ سفید به دلیل استفاده از مرد عنکبوتی در جدیدترین کمپین خود برای ترویج مهاجرت و اجرای گمرک (ICE) انتقاد کرده اند.",
+      "summary_fa": "\"نمایندگان ICE محله دوستانه شما.\" طرفداران مارول از کاخ سفید به دلیل استفاده از مرد عنکبوتی در جدیدترین کمپین خود برای ترویج مهاجرت و اجرای گمرک (ICE) انتقاد کرده اند.",
+      "summary_en": "\"Your friendly neighborhood ICE agents.\" Marvel fans have criticised The White House for using Spider-Man in their latest campaign to promote Immigration and Customs Enforcement (ICE).",
+      "link": "http://www.euronews.com/culture/2026/08/07/disney-need-to-sue-white-house-blasted-over-spider-man-ice-campaign-post",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 13:56:03 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5283c95e5edabafcdda49086a742b3c8",
+      "title": "کشتی را فراموش کنید: سپتامبر امسال با یک قایق بادبانی سریع از انگلیس به فرانسه بروید",
+      "title_fa": "کشتی را فراموش کنید: سپتامبر امسال با یک قایق بادبانی سریع از انگلیس به فرانسه بروید",
+      "title_en": "Forget the ferry: Hop aboard a high-speed sailing boat from England to France this September",
+      "summary": "یک هفته گذرهای آزمایشی در کانال انگلیسی، شورهام با دریا در ساسکس غربی و فکمپ در نرماندی را به هم وصل خواهد کرد.",
+      "summary_fa": "یک هفته گذرهای آزمایشی در کانال انگلیسی، شورهام با دریا در ساسکس غربی و فکمپ در نرماندی را به هم وصل خواهد کرد.",
+      "summary_en": "A week of trial crossings in the English Channel will link Shoreham-by-Sea in West Sussex and Fécamp in Normandy.",
+      "link": "http://www.euronews.com/travel/2026/08/07/forget-the-ferry-hop-aboard-a-high-speed-sailing-boat-from-england-to-france-this-septembe",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 13:36:06 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "ff56808d9d5f5655e5f13d37d017c19b",
       "title": "پلیس اسپانیا شبکه بزرگ قاچاق مهاجران و مواد مخدر مدیترانه را متلاشی کرد",
       "title_fa": "پلیس اسپانیا شبکه بزرگ قاچاق مهاجران و مواد مخدر مدیترانه را متلاشی کرد",
@@ -138039,6 +138102,69 @@
       }
     },
     {
+      "id": "9eeab5087f5f15b76dbdf1471a20c089",
+      "title": "عربستان، ترکیه و پاکستان پیمان دفاعی مشترک امضا کردند",
+      "title_fa": "عربستان، ترکیه و پاکستان پیمان دفاعی مشترک امضا کردند",
+      "title_en": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "summary": "این توافق، حمله به هر یک از سه کشور را به عنوان حمله به همه تلقی می کند. عربستان سعودی اخیراً با حملات پهپادی و موشکی مواجه شده است که متحدان ایران در یمن و عراق را مقصر دانسته است.",
+      "summary_fa": "این توافق، حمله به هر یک از سه کشور را به عنوان حمله به همه تلقی می کند. عربستان سعودی اخیراً با حملات پهپادی و موشکی مواجه شده است که متحدان ایران در یمن و عراق را مقصر دانسته است.",
+      "summary_en": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
+      "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "source": "NY Times",
+      "published_at": "Fri, 07 Aug 2026 11:40:45 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b633a56e4848de8b4438b8062f73ea45",
+      "title": "عربستان سعودی، ترکیه و پاکستان پیمان دفاعی امضا کردند",
+      "title_fa": "عربستان سعودی، ترکیه و پاکستان پیمان دفاعی امضا کردند",
+      "title_en": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "summary": "پاکستان می‌گوید که حمله به هر یک از این سه، در بحبوحه درگیری‌ها در خاورمیانه، حمله به همه است.",
+      "summary_fa": "پاکستان می‌گوید که حمله به هر یک از این سه، در بحبوحه درگیری‌ها در خاورمیانه، حمله به همه است.",
+      "summary_en": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 11:38:28 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c31/live/0e0f2ab0-9250-11f1-b4dc-f3d0b9f07ec5.png",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "f6d96d3de83a4ecf799d37b8c041390b",
+      "title": "عربستان، ترکیه و پاکستان در مکه پیمان دفاعی امضا کردند",
+      "title_fa": "عربستان، ترکیه و پاکستان در مکه پیمان دفاعی امضا کردند",
+      "title_en": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca",
+      "summary": "سه متحد به دنبال تعمیق همکاری امنیتی منطقه ای برای مقابله با جنگ ها و بی ثباتی هستند",
+      "summary_fa": "سه متحد به دنبال تعمیق همکاری امنیتی منطقه ای برای مقابله با جنگ ها و بی ثباتی هستند",
+      "summary_en": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
+      "link": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 11:37:33 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbfb23d2-7506-43c9-9786-0a2369d8bb6d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "57ab35848e4b6254b9d0cecf4614166a",
       "title": "پرتغال: هفته آینده با کاهش شدید قیمت سوخت آغاز می شود",
       "title_fa": "پرتغال: هفته آینده با کاهش شدید قیمت سوخت آغاز می شود",
@@ -138052,6 +138178,90 @@
       "date_iso": "2026-08-07",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "50aff743ba8794c6f91083d49322a02f",
+      "title": "اولین مدرسه برای روبات ها در چین افتتاح شد",
+      "title_fa": "اولین مدرسه برای روبات ها در چین افتتاح شد",
+      "title_en": "First school for robots opens in China",
+      "summary": "هدف اصلی ما تقویت مغز روبات‌ها است.»\n\nچین اولین مدرسه ربات خود را راه اندازی کرد.",
+      "summary_fa": "هدف اصلی ما تقویت مغز روبات‌ها است.»\n\nچین اولین مدرسه ربات خود را راه اندازی کرد.",
+      "summary_en": "\"Our main goal is to empower robots' brains.\"\n\nChina has launched its first robot school.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:33:28 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "e5f2b26f87a5fdf90a03789d270fee4c",
+      "title": "بهترین وب‌کم‌ها (2026): برداشت صادقانه من پس از آزمایش بهترین‌ها",
+      "title_fa": "بهترین وب‌کم‌ها (2026): برداشت صادقانه من پس از آزمایش بهترین‌ها",
+      "title_en": "Best Webcams (2026): My Honest Take After Testing the Best",
+      "summary": "من بهترین وب کم ها را در قیمت های مختلف آزمایش کردم تا بهترین گزینه را پیدا کنم. این چیزی است که من یاد گرفتم.",
+      "summary_fa": "من بهترین وب کم ها را در قیمت های مختلف آزمایش کردم تا بهترین گزینه را پیدا کنم. این چیزی است که من یاد گرفتم.",
+      "summary_en": "I tested the best webcams across various prices to find the top option. Here’s what I learned.",
+      "link": "https://www.wired.com/story/best-webcams/",
+      "source": "Wired",
+      "published_at": "Fri, 07 Aug 2026 11:32:00 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "97e81c1bd8e25c128c574e9c408af0d6",
+      "title": "5 بهترین پاور بانک لپ تاپ که من شخصاً آزمایش کرده ام (2026)",
+      "title_fa": "5 بهترین پاور بانک لپ تاپ که من شخصاً آزمایش کرده ام (2026)",
+      "title_en": "The 5 Best Laptop Power Banks I've Personally Tested (2026)",
+      "summary": "این باتری‌های قابل حمل قدرتمند و با ظرفیت بالا بهترین باتری‌هایی هستند که شارژ لپ‌تاپ در اولویت است. همه آنها حداقل 20000 میلی آمپر ساعت دارند که برای دو بار شارژ کردن اکثر لپ تاپ ها کافی است.",
+      "summary_fa": "این باتری‌های قابل حمل قدرتمند و با ظرفیت بالا بهترین باتری‌هایی هستند که شارژ لپ‌تاپ در اولویت است. همه آنها حداقل 20000 میلی آمپر ساعت دارند که برای دو بار شارژ کردن اکثر لپ تاپ ها کافی است.",
+      "summary_en": "These powerful, high-capacity portable batteries are the best ones when laptop charging is a priority. All have at least 20,000 mAh, enough to charge most laptops twice.",
+      "link": "https://www.wired.com/story/best-laptop-power-banks/",
+      "source": "Wired",
+      "published_at": "Fri, 07 Aug 2026 11:30:00 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "188de5951e495b61935d7663c21135d8",
+      "title": "شکیب کریکت، متحد Hasina، در صورت امنیت در بنگلادش محاکمه خواهد شد",
+      "title_fa": "شکیب کریکت، متحد Hasina، در صورت امنیت در بنگلادش محاکمه خواهد شد",
+      "title_en": "Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
+      "summary": "شیخ حسنه، شکیب الحسن، در صورت اطمینان از ایمنی، با محاکمه بنگلادش روبرو خواهد شد و بازگشت جام جهانی کریکت در نظر گرفته شده است.",
+      "summary_fa": "شیخ حسنه، شکیب الحسن، در صورت اطمینان از ایمنی، با محاکمه بنگلادش روبرو خواهد شد و بازگشت جام جهانی کریکت در نظر گرفته شده است.",
+      "summary_en": "Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.",
+      "link": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:27:54 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -138102,6 +138312,48 @@
       }
     },
     {
+      "id": "d2c89ca2a6b17ff09dc51b42a4e5ea66",
+      "title": "تغییر اتحادهای شمال اتیوپی توضیح داد",
+      "title_fa": "تغییر اتحادهای شمال اتیوپی توضیح داد",
+      "title_en": "Northern Ethiopia’s shifting alliances explained",
+      "summary": "TPLF، شبه نظامیان فانو و اریتره در حال ترسیم مجدد خطوط نبرد در شمال اتیوپی هستند.",
+      "summary_fa": "TPLF، شبه نظامیان فانو و اریتره در حال ترسیم مجدد خطوط نبرد در شمال اتیوپی هستند.",
+      "summary_en": "The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:19:01 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "10c5dbc8ff661f856e9eed87ac0196cf",
+      "title": "ترامپ می‌گوید جنگ «بیش از این نمی‌تواند ادامه یابد» - آخرین اخبار درباره مذاکرات چیست؟",
+      "title_fa": "ترامپ می‌گوید جنگ «بیش از این نمی‌تواند ادامه یابد» - آخرین اخبار درباره مذاکرات چیست؟",
+      "title_en": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+      "summary": "گزارش ها حاکی از آن است که تهران در حال بررسی لایحه ای است که کشتی های آمریکایی و اسرائیلی را از عبور از تنگه هرمز منع می کند.",
+      "summary_fa": "گزارش ها حاکی از آن است که تهران در حال بررسی لایحه ای است که کشتی های آمریکایی و اسرائیلی را از عبور از تنگه هرمز منع می کند.",
+      "summary_en": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:15:44 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "تهران"
+      }
+    },
+    {
       "id": "c77e57fab8edeeed052f8b82c2369d3f",
       "title": "دانوب: سربازان ورماخت و موتور سیکلت جنگ جهانی دوم پس از 80 سال بهبود یافتند",
       "title_fa": "دانوب: سربازان ورماخت و موتور سیکلت جنگ جهانی دوم پس از 80 سال بهبود یافتند",
@@ -138115,6 +138367,27 @@
       "date_iso": "2026-08-07",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "707334c2b6a791b85d6c45da48e782c3",
+      "title": "حملات حوثی ها به نیروهای دولتی نشان می دهد که نبردی بزرگ در یمن در حال وقوع است",
+      "title_fa": "حملات حوثی ها به نیروهای دولتی نشان می دهد که نبردی بزرگ در یمن در حال وقوع است",
+      "title_en": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "summary": "تحلیلگران می گویند که گسترش حملات برون مرزی حوثی ها به این معنی است که ممکن است جنگ خونین تر قریب الوقوع باشد.",
+      "summary_fa": "تحلیلگران می گویند که گسترش حملات برون مرزی حوثی ها به این معنی است که ممکن است جنگ خونین تر قریب الوقوع باشد.",
+      "summary_en": "Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:11:10 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -138141,6 +138414,90 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b8ff4ad8b4cad1be1f05a5314b8a17c",
+      "title": "عربستان سعودی، پاکستان و ترکیه در بحبوحه ناآرامی های منطقه ای قرارداد دفاعی امضا کردند",
+      "title_fa": "عربستان سعودی، پاکستان و ترکیه در بحبوحه ناآرامی های منطقه ای قرارداد دفاعی امضا کردند",
+      "title_en": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "summary": "پاکستان می گوید، این توافقنامه بیان می کند که حمله به هر یک از این سه کشور، حمله به همه آنهاست.",
+      "summary_fa": "پاکستان می گوید، این توافقنامه بیان می کند که حمله به هر یک از این سه کشور، حمله به همه آنهاست.",
+      "summary_en": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:03:07 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f6d0db933b4fb95e4afa39d1c00235b2",
+      "title": "چرا ترامپ در «تله تشدید تنش» با ایران گرفتار شده است؟",
+      "title_fa": "چرا ترامپ در «تله تشدید تنش» با ایران گرفتار شده است؟",
+      "title_en": "Why Trump is caught in an ‘escalation trap’ with Iran",
+      "summary": "رابرت پیپ، پروفسور دانشگاه شیکاگو توضیح می‌دهد که چرا ترامپ، رئیس‌جمهور آمریکا در «تله تشدید تنش» با ایران گرفتار شده است.",
+      "summary_fa": "رابرت پیپ، پروفسور دانشگاه شیکاگو توضیح می‌دهد که چرا ترامپ، رئیس‌جمهور آمریکا در «تله تشدید تنش» با ایران گرفتار شده است.",
+      "summary_en": "University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 11:03:01 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d9b57a98b6ff647249605ec3f491df89",
+      "title": "هائیتی‌ها پس از حذف حمایت‌های TPS توسط ایالات متحده، با دستگیری و اخراج مواجه می‌شوند",
+      "title_fa": "هائیتی‌ها پس از حذف حمایت‌های TPS توسط ایالات متحده، با دستگیری و اخراج مواجه می‌شوند",
+      "title_en": "Haitians face arrest and deportation after US removes TPS protections",
+      "summary": "مارکوین مولین، وزیر DHS می گوید: «ما در حال حاضر آنها را دنبال می کنیم» علیرغم تهدید خشونت در کشور خود، صدها هزار نفر از هائیتی ها با خطر قریب الوقوع دستگیری و اخراج - به کشوری که با جنایت، خشونت و ناآرامی سیاسی مواجه است - پس از اینکه دولت ترامپ رسماً آنها را از حمایت های بشردوستانه در ایالات متحده محروم کرد و به آنها اجازه داده بود سال ها کار قانونی در ایالات متحده در ایالات متحده زندگی کنند، آنها را به خطر انداخته است. روز چهارشنبه دستور او مبنی بر مسدود کردن وزارت امنیت داخلی (DHS) از پایان دادن به وضعیت حفاظت شده موقت (TPS) برای هائیتی دیگر اجرایی نشد. این به دنبال حکم جنجالی دادگاه عالی در ماه ژوئن بود که بررسی قضایی این برنامه را تغییر داد و راه را برای اجرای مهاجرت برای ردیابی و بازداشت دسته جمعی هائیتی ها باز کرد. ادامه مطلب...",
+      "summary_fa": "مارکوین مولین، وزیر DHS می گوید: «ما در حال حاضر آنها را دنبال می کنیم» علیرغم تهدید خشونت در کشور خود، صدها هزار نفر از هائیتی ها با خطر قریب الوقوع دستگیری و اخراج - به کشوری که با جنایت، خشونت و ناآرامی سیاسی مواجه است - پس از اینکه دولت ترامپ رسماً آنها را از حمایت های بشردوستانه در ایالات متحده محروم کرد و به آنها اجازه داده بود سال ها کار قانونی در ایالات متحده در ایالات متحده زندگی کنند، آنها را به خطر انداخته است. روز چهارشنبه دستور او مبنی بر مسدود کردن وزارت امنیت داخلی (DHS) از پایان دادن به وضعیت حفاظت شده موقت (TPS) برای هائیتی دیگر اجرایی نشد. این به دنبال حکم جنجالی دادگاه عالی در ماه ژوئن بود که بررسی قضایی این برنامه را تغییر داد و راه را برای اجرای مهاجرت برای ردیابی و بازداشت دسته جمعی هائیتی ها باز کرد. ادامه مطلب...",
+      "summary_en": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arrest and deportation – to a home country racked with crime, violence and political unrest – after the Trump administration officially stripped them of humanitarian protections that had allowed them to live and work legally in the United States for years.US district judge Ana Reyes confirmed on Wednesday that her order blocking the Department of Homeland Security (DHS) from ending temporary protected status (TPS) for Haiti was no longer in effect. This followed the controversial supreme court ruling in June that upended judicial review of the program and opened the door for immigration enforcement to track down and detain Haitians en masse. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+      "source": "The Guardian",
+      "published_at": "Fri, 07 Aug 2026 11:00:16 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0e6429176c866b484a2c5dda48e3a8d9e77868c3/959_1091_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=f5cafb971743f2464a3d340aa425b3c0",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "127435cae129b75d877dae10ae2965c0",
+      "title": "سهام بریتانیا: گرمتر از زیر عرشه در موج گرما",
+      "title_fa": "سهام بریتانیا: گرمتر از زیر عرشه در موج گرما",
+      "title_en": "UK shares: hotter than below decks in a heatwave",
+      "summary": "در حالی که در تعطیلات عرق کرده بودم، صندوق FTSE 100 من 4 درصد افزایش یافت",
+      "summary_fa": "در حالی که در تعطیلات عرق کرده بودم، صندوق FTSE 100 من 4 درصد افزایش یافت",
+      "summary_en": "While away on holiday sweating, my FTSE 100 fund rose 4 per cent",
+      "link": "https://www.ft.com/content/dabdeae3-9855-484b-9369-e74176352107?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 11:00:08 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2a3a0fd9-d2af-4eee-85f3-ae0c472b4c62.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -138267,6 +138624,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "20406ece5bddbe765ddccac0d46d696d",
+      "title": "چگونه اقدام گزینه های S&P 500 ممکن است به توضیح افزایش نوسانات در سهام حافظه کمک کند",
+      "title_fa": "چگونه اقدام گزینه های S&P 500 ممکن است به توضیح افزایش نوسانات در سهام حافظه کمک کند",
+      "title_en": "How S&P 500 options action may help explain the rising volatility in memory stocks",
+      "summary": "Sosnick از IBKR می‌گوید شرط‌بندی‌های مشتق صعودی با ذهنیت خرید پایین‌تر مطابقت دارد.",
+      "summary_fa": "Sosnick از IBKR می‌گوید شرط‌بندی‌های مشتق صعودی با ذهنیت خرید پایین‌تر مطابقت دارد.",
+      "summary_en": "Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick.",
+      "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 10:56:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-50158835",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "356b2a23824c06fb28c908c7ff70ea6d",
+      "title": "حملات حوثی ها در یمن در حالی که عربستان سعودی برای حملات آماده می شود: آنچه ما می دانیم",
+      "title_fa": "حملات حوثی ها در یمن در حالی که عربستان سعودی برای حملات آماده می شود: آنچه ما می دانیم",
+      "title_en": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
+      "summary": "تنش ها بین حوثی ها و عربستان سعودی از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران افزایش یافته است.",
+      "summary_fa": "تنش ها بین حوثی ها و عربستان سعودی از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران افزایش یافته است.",
+      "summary_en": "Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 10:52:34 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -138704,6 +139103,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e1268ac381c07751df73f1d84365cc9",
+      "title": "ایالات متحده یک قرارداد 1.2 میلیارد دلاری برای پرداخت به شرکت آلمانی برای توقف پروژه های بادی فراساحلی منعقد می کند",
+      "title_fa": "ایالات متحده یک قرارداد 1.2 میلیارد دلاری برای پرداخت به شرکت آلمانی برای توقف پروژه های بادی فراساحلی منعقد می کند",
+      "title_en": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "summary": "پرداخت RWE آخرین مورد از مجموعه معاملاتی است که پروژه های انرژی بادی را لغو می کند، منبع انرژی که مدت ها توسط ترامپ مورد تمسخر قرار می گرفت.",
+      "summary_fa": "پرداخت RWE آخرین مورد از مجموعه معاملاتی است که پروژه های انرژی بادی را لغو می کند، منبع انرژی که مدت ها توسط ترامپ مورد تمسخر قرار می گرفت.",
+      "summary_en": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 09:50:54 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -140976,6 +141396,27 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "667f03ac74550b8a516a2131e531f23d",
+      "title": "\"پاک شده\" - گزارش بی بی سی از محله Spokane که توسط آتش سوزی ویران شده است",
+      "title_fa": "\"پاک شده\" - گزارش بی بی سی از محله Spokane که توسط آتش سوزی ویران شده است",
+      "title_en": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
+      "summary": "مقامات همچنان در تلاش برای مهار آتش سوزی هایی هستند که حداقل 860 ساختمان از جمله صدها خانه را سوزانده است.",
+      "summary_fa": "مقامات همچنان در تلاش برای مهار آتش سوزی هایی هستند که حداقل 860 ساختمان از جمله صدها خانه را سوزانده است.",
+      "summary_en": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes.",
+      "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 01:10:58 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/708c/live/82300fd0-91fc-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
