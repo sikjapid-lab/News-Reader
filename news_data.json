@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 16:28:46",
-  "total_count": 7367,
+  "last_update": "2026-08-07 17:27:48",
+  "total_count": 7389,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -137892,6 +137892,27 @@
       }
     },
     {
+      "id": "8b820691936ac9cf13d0a795ae57b23a",
+      "title": "پاریس: نزدیک به 100000 نفر علیه غرفه جدید مجلس ملی امضا کردند",
+      "title_fa": "پاریس: نزدیک به 100000 نفر علیه غرفه جدید مجلس ملی امضا کردند",
+      "title_en": "Paris: nearly 100,000 sign against new National Assembly pavilion",
+      "summary": "پس از حمایت شورای پاریس از تغییرات در قوانین برنامه ریزی در نزدیکی کاخ بوربن، طرح هایی برای یک غرفه پذیرایی در مجلس ملی با واکنش های منفی روبرو شد و طوماری به امضا نزدیک به 100000 رسید.",
+      "summary_fa": "پس از حمایت شورای پاریس از تغییرات در قوانین برنامه ریزی در نزدیکی کاخ بوربن، طرح هایی برای یک غرفه پذیرایی در مجلس ملی با واکنش های منفی روبرو شد و طوماری به امضا نزدیک به 100000 رسید.",
+      "summary_en": "Plans for a reception pavilion at the National Assembly face backlash, with a petition nearing 100,000 signatures after Paris Council backed changes to planning rules near the Palais-Bourbon.",
+      "link": "http://www.euronews.com/culture/2026/08/07/paris-nearly-100000-sign-against-new-national-assembly-pavilion",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 18:36:24 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
       "id": "c467249d482a9825b0a7cc2f09f1eb2f",
       "title": "آخرین بولتن اخبار | 7 آگوست 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 7 آگوست 2026 - عصر",
@@ -137934,6 +137955,27 @@
       }
     },
     {
+      "id": "4ddff8085871bb05411ee273d6146e43",
+      "title": "چگونه حلزون ها لجن خود را مهندسی می کنند",
+      "title_fa": "چگونه حلزون ها لجن خود را مهندسی می کنند",
+      "title_en": "How snails engineer their slime",
+      "summary": "کلاژن و کلسیم در کنار هم برای دستیابی به خواص مکانیکی متفاوت انواع مخاط کار می کنند.",
+      "summary_fa": "کلاژن و کلسیم در کنار هم برای دستیابی به خواص مکانیکی متفاوت انواع مخاط کار می کنند.",
+      "summary_en": "Collagen and calcium work in tandem to achieve varying mechanical properties of different kinds of mucus.",
+      "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 17:25:20 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/snailslime-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "21eb278d7c6ea8fb4c41bafdd31a4ed4",
       "title": "ونیز و آمستردام را فراموش کنید: در بهترین شهرهای کانالی جایگزین اروپا، ازدحام جمعیت را شکست دهید",
       "title_fa": "ونیز و آمستردام را فراموش کنید: در بهترین شهرهای کانالی جایگزین اروپا، ازدحام جمعیت را شکست دهید",
@@ -137952,6 +137994,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "9966fad214c27d14d916cbe41b46b222",
+      "title": "گزارش می‌گوید فولکس واگن قصد دارد آمریکا را با یک پیکاپ بازگرداند",
+      "title_fa": "گزارش می‌گوید فولکس واگن قصد دارد آمریکا را با یک پیکاپ بازگرداند",
+      "title_en": "Volkswagen plans to win America back with a pickup, report says",
+      "summary": "هیچ مدرکی وجود ندارد که کامیون یک کامیون الکتریکی ارزان قیمت باشد، اما اگر چنین بود چه؟",
+      "summary_fa": "هیچ مدرکی وجود ندارد که کامیون یک کامیون الکتریکی ارزان قیمت باشد، اما اگر چنین بود چه؟",
+      "summary_en": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
+      "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 17:13:31 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-997828604-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -137976,6 +138039,27 @@
       }
     },
     {
+      "id": "6a63fb0d8232d416a5648fb0ea28040d",
+      "title": "بررسی سامسونگ گلکسی واچ 9: داده های سلامت بیش از حد زیاد است، اما برای آینده ساخته شده است",
+      "title_fa": "بررسی سامسونگ گلکسی واچ 9: داده های سلامت بیش از حد زیاد است، اما برای آینده ساخته شده است",
+      "title_en": "Samsung Galaxy Watch 9 review: Health data overload, but built for the future",
+      "summary": "آخرین ساعت هوشمند سامسونگ معیارهای جدیدی را معرفی می کند، باتری با دوام بیشتری دارد و به آینده ابزارهای پوشیدنی اشاره می کند.",
+      "summary_fa": "آخرین ساعت هوشمند سامسونگ معیارهای جدیدی را معرفی می کند، باتری با دوام بیشتری دارد و به آینده ابزارهای پوشیدنی اشاره می کند.",
+      "summary_en": "Samsung's latest smartwatch introduces new metrics, a longer-lasting battery, and hints at the future of wearables.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-watch-9-review/",
+      "source": "ZDNet",
+      "published_at": "Fri, 07 Aug 2026 17:10:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e1bb20fa3e7a795e92707a60c02af169",
       "title": "کارفرمایان آمریکایی 23000 شغل را در بحبوحه فشارهای جنگی مداوم ایران کاهش دادند",
       "title_fa": "کارفرمایان آمریکایی 23000 شغل را در بحبوحه فشارهای جنگی مداوم ایران کاهش دادند",
@@ -137994,6 +138078,111 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "b59fdba860e79cd7b1598ea763dc080d",
+      "title": "شبکه قاچاق مدیترانه در حمله اسپانیایی \"برچیده\" شد، 78 نفر دستگیر شدند",
+      "title_fa": "شبکه قاچاق مدیترانه در حمله اسپانیایی \"برچیده\" شد، 78 نفر دستگیر شدند",
+      "title_en": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+      "summary": "مقامات می گویند که آنها یکی از بزرگترین شبکه های جنایتکار قاچاق مهاجران را در غرب مدیترانه شکستند.",
+      "summary_fa": "مقامات می گویند که آنها یکی از بزرگترین شبکه های جنایتکار قاچاق مهاجران را در غرب مدیترانه شکستند.",
+      "summary_en": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 17:07:29 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa5875756096f25438c1a8e73f8889c1",
+      "title": "یک روز و هفته بزرگ برای کورنینگ، زیرا S&P 500 به رکورد دیگری نزدیک می شود",
+      "title_fa": "یک روز و هفته بزرگ برای کورنینگ، زیرا S&P 500 به رکورد دیگری نزدیک می شود",
+      "title_en": "A huge day and week for Corning as the S&P 500 approaches another record high",
+      "summary": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_fa": "هر روز هفته، باشگاه سرمایه گذاری Homestretch را منتشر می کند. یک به روز رسانی عملی بعد از ظهر درست به موقع برای آخرین ساعت معاملات.",
+      "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "link": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 16:59:17 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ae5d6ef564e76193cffab0715a30e0cf",
+      "title": "سهام اسپیس ایکس یکی از بهترین روزهای خود را سپری می کند – با اولین انقضای قفل شده که اکنون پشت سر آن است.",
+      "title_fa": "سهام اسپیس ایکس یکی از بهترین روزهای خود را سپری می کند – با اولین انقضای قفل شده که اکنون پشت سر آن است.",
+      "title_en": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it",
+      "summary": "گاهی اوقات وقتی سهامداران بتوانند سهام را تخلیه کنند، سهام تحت فشار قرار می گیرند، اما در مورد SpaceX. این ریسک ممکن است قبلاً قیمت گذاری شده باشد.",
+      "summary_fa": "گاهی اوقات وقتی سهامداران بتوانند سهام را تخلیه کنند، سهام تحت فشار قرار می گیرند، اما در مورد SpaceX. این ریسک ممکن است قبلاً قیمت گذاری شده باشد.",
+      "summary_en": "Sometimes stocks come under pressure once insiders are able to unload shares, but in the case of SpaceX. that risk may have been already priced in.",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 16:54:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-00481430",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1dfe9e9d5d7b3ba844627fcebdf4e79d",
+      "title": "7 بهترین برنامه تلویزیونی برای پخش در این ماه",
+      "title_fa": "7 بهترین برنامه تلویزیونی برای پخش در این ماه",
+      "title_en": "The 7 Best TV Shows to Stream This Month",
+      "summary": "Lanterns، Dark Matter، و Star Trek اصلی تنها تعدادی از برنامه های تلویزیونی هستند که باید در حال حاضر تماشا کنید.",
+      "summary_fa": "Lanterns، Dark Matter، و Star Trek اصلی تنها تعدادی از برنامه های تلویزیونی هستند که باید در حال حاضر تماشا کنید.",
+      "summary_en": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
+      "link": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
+      "source": "Wired",
+      "published_at": "Fri, 07 Aug 2026 16:48:21 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4def113852453519e02e7cf5441669c",
+      "title": "هون مانه در حال اصلاح الگوی اقتدارگرایانه کامبوج است",
+      "title_fa": "هون مانه در حال اصلاح الگوی اقتدارگرایانه کامبوج است",
+      "title_en": "Hun Manet is refining Cambodia’s authoritarian model",
+      "summary": "نخست وزیر سرکوب را کمتر قابل مشاهده و پیچیده تر کرده است، و سیستم استبدادی را که به ارث برده است، تقویت کرده است.",
+      "summary_fa": "نخست وزیر سرکوب را کمتر قابل مشاهده و پیچیده تر کرده است، و سیستم استبدادی را که به ارث برده است، تقویت کرده است.",
+      "summary_en": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 16:47:33 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -138018,6 +138207,27 @@
       }
     },
     {
+      "id": "5fcbd26813c6bbf0f95f6861bd97a764",
+      "title": "جنگ علیه ایران: عربستان سعودی، ترکیه و پاکستان پیمان دفاعی امضا کردند",
+      "title_fa": "جنگ علیه ایران: عربستان سعودی، ترکیه و پاکستان پیمان دفاعی امضا کردند",
+      "title_en": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "summary": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی سه جانبه در مکه امضا کردند که هدف آن جلوگیری از تجاوز است.",
+      "summary_fa": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی سه جانبه در مکه امضا کردند که هدف آن جلوگیری از تجاوز است.",
+      "summary_en": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 16:42:35 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "2482da45dcf1c49ca2bc83ae1b187d8e",
       "title": "آتش سوزی 100 هکتار در نزدیکی ناربون در فرانسه سوخت",
       "title_fa": "آتش سوزی 100 هکتار در نزدیکی ناربون در فرانسه سوخت",
@@ -138036,6 +138246,132 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "562d384da6be0e0d438399606bf6fcf4",
+      "title": "ترامپ به توافقی با ایران دست زد که به نتیجه نرسید، اما بازارها اوج گرفتند. در اینجا دلیل این اتفاق است",
+      "title_fa": "ترامپ به توافقی با ایران دست زد که به نتیجه نرسید، اما بازارها اوج گرفتند. در اینجا دلیل این اتفاق است",
+      "title_en": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+      "summary": "از آنجایی که ذخایر نفت و ذخایر مهمات گزارش شده کاهش می یابد، تحلیلگران از خود می پرسند که تا چه زمانی بازارها در زمان ریاست ترامپ افزایش خواهند یافت. معامله ایران را مختل می کند.",
+      "summary_fa": "از آنجایی که ذخایر نفت و ذخایر مهمات گزارش شده کاهش می یابد، تحلیلگران از خود می پرسند که تا چه زمانی بازارها در زمان ریاست ترامپ افزایش خواهند یافت. معامله ایران را مختل می کند.",
+      "summary_en": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+      "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 16:40:08 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8da96808330667077f768593f2ff6bb7",
+      "title": "در اینجا سه ​​نکته کلیدی از گزارش مشاغل ناامیدکننده ماه جولای آورده شده است",
+      "title_fa": "در اینجا سه ​​نکته کلیدی از گزارش مشاغل ناامیدکننده ماه جولای آورده شده است",
+      "title_en": "Here are three key takeaways from the disappointing July jobs report",
+      "summary": "حقوق و دستمزد غیرکشاورزی در ایالات متحده به طور غیرمنتظره ای در ماه جولای کاهش یافت، اما نرخ بیکاری نیز کاهش یافت و سرمایه گذاران را با سیگنال های متفاوتی مواجه کرد.",
+      "summary_fa": "حقوق و دستمزد غیرکشاورزی در ایالات متحده به طور غیرمنتظره ای در ماه جولای کاهش یافت، اما نرخ بیکاری نیز کاهش یافت و سرمایه گذاران را با سیگنال های متفاوتی مواجه کرد.",
+      "summary_en": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+      "link": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 16:34:09 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c31de6af485df116dbc3e8bca71faf34",
+      "title": "Chesky می‌گوید Airbnb «بسیار بیشتر» را برای هوش مصنوعی هزینه خواهد کرد، زیرا درآمدها کاهش یافته و سهام 15 درصد افزایش می‌یابد.",
+      "title_fa": "Chesky می‌گوید Airbnb «بسیار بیشتر» را برای هوش مصنوعی هزینه خواهد کرد، زیرا درآمدها کاهش یافته و سهام 15 درصد افزایش می‌یابد.",
+      "title_en": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
+      "summary": "برایان چسکی، مدیرعامل Airbnb مطمئن نبود که هوش مصنوعی به شرکت کمک کند، اما یک سال بعد، او می‌گوید که دلیل بازگشت رشد است.",
+      "summary_fa": "برایان چسکی، مدیرعامل Airbnb مطمئن نبود که هوش مصنوعی به شرکت کمک کند، اما یک سال بعد، او می‌گوید که دلیل بازگشت رشد است.",
+      "summary_en": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
+      "link": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 16:28:54 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1678e9da35f42e0a116e3e83bcf51fef",
+      "title": "عدم قطعیت خلیج فارس استراتژی «برد، برد» را با شورون و دیگر شرکت‌های بزرگ نفتی ایجاد می‌کند",
+      "title_fa": "عدم قطعیت خلیج فارس استراتژی «برد، برد» را با شورون و دیگر شرکت‌های بزرگ نفتی ایجاد می‌کند",
+      "title_en": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+      "summary": "با توجه به افزایش حق بیمه گزینه ها به دلیل درگیری نظامی در خلیج فارس، فروش یک شرکت بزرگ انرژی با ثبت جریان نقدی رایگان فرصتی نادر است.",
+      "summary_fa": "با توجه به افزایش حق بیمه گزینه ها به دلیل درگیری نظامی در خلیج فارس، فروش یک شرکت بزرگ انرژی با ثبت جریان نقدی رایگان فرصتی نادر است.",
+      "summary_en": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
+      "link": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 16:26:24 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f3db51bf7892148f4dce0960cd2d7bbe",
+      "title": "بازار کار ایالات متحده در ماه جولای با کاهش مشارکت نیروی کار، مشاغل خود را از دست داد",
+      "title_fa": "بازار کار ایالات متحده در ماه جولای با کاهش مشارکت نیروی کار، مشاغل خود را از دست داد",
+      "title_en": "US labour market sheds jobs in July as labour force participation slumps",
+      "summary": "بازار کار ایالات متحده در ماه جولای 23000 شغل را از دست داد زیرا بخش های آموزش، دولت و خرده فروشی کاهش قابل توجهی را ثبت کردند.",
+      "summary_fa": "بازار کار ایالات متحده در ماه جولای 23000 شغل را از دست داد زیرا بخش های آموزش، دولت و خرده فروشی کاهش قابل توجهی را ثبت کردند.",
+      "summary_en": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
+      "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 16:25:35 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "317c81e9ac5daa84470a54a549f5e49f",
+      "title": "پیمان دفاعی عربستان سعودی، پاکستان و ترکیه نقش آمریکا را به چالش می کشد",
+      "title_fa": "پیمان دفاعی عربستان سعودی، پاکستان و ترکیه نقش آمریکا را به چالش می کشد",
+      "title_en": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
+      "summary": "الکس الفیراز شیرز، تحلیلگر دفاعی، می گوید که توافق دفاعی عربستان سعودی، پاکستان و ترکیه نشان دهنده یک همسویی مجدد است.",
+      "summary_fa": "الکس الفیراز شیرز، تحلیلگر دفاعی، می گوید که توافق دفاعی عربستان سعودی، پاکستان و ترکیه نشان دهنده یک همسویی مجدد است.",
+      "summary_en": "Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 16:23:33 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -138078,6 +138414,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "19a4c3074e19a4f66971d4c95c6a959d",
+      "title": "پلیس اسپانیا 78 نفر را در انهدام \"یکی از بزرگترین\" شبکه های قاچاق دستگیر کرد",
+      "title_fa": "پلیس اسپانیا 78 نفر را در انهدام \"یکی از بزرگترین\" شبکه های قاچاق دستگیر کرد",
+      "title_en": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "summary": "این گروه مواد مخدر مصنوعی را از اسپانیا به الجزایر منتقل کردند، سپس از مسیر بازگشت برای قاچاق مهاجران و اسلحه استفاده کردند.",
+      "summary_fa": "این گروه مواد مخدر مصنوعی را از اسپانیا به الجزایر منتقل کردند، سپس از مسیر بازگشت برای قاچاق مهاجران و اسلحه استفاده کردند.",
+      "summary_en": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 16:13:45 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc5f/live/1bb4b890-927a-11f1-b7a2-c7c91f255a18.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -138151,6 +138508,27 @@
       "summary": "در 12 آگوست 2026، اسپانیا شاهد اولین خورشید گرفتگی کامل خود در بیش از یک قرن خواهد بود. فیلمبرداری بدون محافظت مناسب می تواند در عرض چند دقیقه به دوربین گوشی شما آسیب برساند. در اینجا نحوه انجام این کار با خیال راحت است.",
       "summary_fa": "در 12 آگوست 2026، اسپانیا شاهد اولین خورشید گرفتگی کامل خود در بیش از یک قرن خواهد بود. فیلمبرداری بدون محافظت مناسب می تواند در عرض چند دقیقه به دوربین گوشی شما آسیب برساند. در اینجا نحوه انجام این کار با خیال راحت است.",
       "summary_en": "On 12 August 2026, Spain will witness its first total solar eclipse in over a century. Filming it without proper protection can damage your phone's camera in minutes. Here's how to do it safely.",
+      "link": "http://www.euronews.com/next/2026/08/07/how-to-film-and-photograph-the-eclipse-without-damaging-your-phones-camera",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 16:03:46 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "02490b25a0796428582ce3500b5c43c8",
+      "title": "آیا خسوف اسپانیا می تواند گوشی شما را سرخ کند؟ در اینجا نحوه شلیک ایمن به آن آورده شده است",
+      "title_fa": "آیا خسوف اسپانیا می تواند گوشی شما را سرخ کند؟ در اینجا نحوه شلیک ایمن به آن آورده شده است",
+      "title_en": "Could Spain's eclipse fry your phone? Here's how to shoot it safely",
+      "summary": "فیلمبرداری کسوف نادر اسپانیا در 12 اوت؟ قرار دادن دوربین تلفن بدون محافظت به سمت خورشید می تواند حسگر آن را در عرض چند دقیقه سرخ کند.",
+      "summary_fa": "فیلمبرداری کسوف نادر اسپانیا در 12 اوت؟ قرار دادن دوربین تلفن بدون محافظت به سمت خورشید می تواند حسگر آن را در عرض چند دقیقه سرخ کند.",
+      "summary_en": "Filming Spain's rare eclipse on 12 August? Pointing an unprotected phone camera at the Sun could fry its sensor within minutes.",
       "link": "http://www.euronews.com/next/2026/08/07/how-to-film-and-photograph-the-eclipse-without-damaging-your-phones-camera",
       "source": "EuroNews",
       "published_at": "Fri, 07 Aug 2026 16:03:46 +0200",
@@ -138341,6 +138719,27 @@
       "summary_fa": "ویلا لیبادو، روستایی که پس از دهه‌ها رهاسازی به زندگی بازگشته است، میزبان تیمی از ناسا خواهد بود که خورشید گرفتگی کامل 12 اوت را برای مخاطبان جهانی پخش می‌کند.",
       "summary_en": "Villalibado, a village brought back to life after decades of abandonment, will host a NASA team broadcasting the 12 August total solar eclipse to a global audience.",
       "link": "http://www.euronews.com/my-europe/2026/08/07/why-nasa-chooses-this-small-burgos-village-to-broadcast-the-eclipse",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 15:42:59 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "202c07b6514eddfd451923c871097d67",
+      "title": "دهکده متروکه اسپانیایی به کانون کسوف ناسا تبدیل می شود",
+      "title_fa": "دهکده متروکه اسپانیایی به کانون کسوف ناسا تبدیل می شود",
+      "title_en": "Once-abandoned Spanish village becomes NASA's eclipse hotspot",
+      "summary": "ویلا لیبادو، روستایی که پس از دهه‌ها رهاسازی به زندگی بازگشته است، میزبان تیمی از ناسا خواهد بود که خورشید گرفتگی کامل 12 اوت را برای مخاطبان جهانی پخش می‌کند.",
+      "summary_fa": "ویلا لیبادو، روستایی که پس از دهه‌ها رهاسازی به زندگی بازگشته است، میزبان تیمی از ناسا خواهد بود که خورشید گرفتگی کامل 12 اوت را برای مخاطبان جهانی پخش می‌کند.",
+      "summary_en": "Villalibado, a village brought back to life after decades of abandonment, will host a NASA team broadcasting the 12 August total solar eclipse to a global audience.",
+      "link": "http://www.euronews.com/next/2026/08/07/why-nasa-chooses-this-small-burgos-village-to-broadcast-the-eclipse",
       "source": "EuroNews",
       "published_at": "Fri, 07 Aug 2026 15:42:59 +0200",
       "date_iso": "2026-08-07",
@@ -139033,6 +139432,27 @@
       "summary": "دولت معتقد است چک‌های ایتالیا بر روی مسافران اسپانیایی روح شینگن را نقض می‌کند و به رم مهلت داده است تا قبل از اتخاذ «اقدامات متناسب»، آن‌ها را لغو کند.",
       "summary_fa": "دولت معتقد است چک‌های ایتالیا بر روی مسافران اسپانیایی روح شینگن را نقض می‌کند و به رم مهلت داده است تا قبل از اتخاذ «اقدامات متناسب»، آن‌ها را لغو کند.",
       "summary_en": "The government believes Italy's checks on travellers from Spain breach the spirit of Schengen and has given Rome until Sunday to lift them before taking \"proportionate measures.\"",
+      "link": "http://www.euronews.com/my-europe/2026/08/07/spain-gives-italy-two-days-to-lift-border-checks-on-spanish-travellers-after-ceuta-migrant",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 14:05:32 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2622fb366d643ec05d1e82f8e63a8c15",
+      "title": "ایتالیا می گوید برنامه ای برای بازنگری در کنترل های مرزی با اسپانیا تا 15 اوت ندارد",
+      "title_fa": "ایتالیا می گوید برنامه ای برای بازنگری در کنترل های مرزی با اسپانیا تا 15 اوت ندارد",
+      "title_en": "Italy says it has no plans to review border controls with Spain until 15 August",
+      "summary": "دولت ایتالیا روز جمعه در بیانیه ای اعلام کرد: «ایتالیا اولتیماتوم ها یا تحمیل های خارج از کشور در مورد امنیت ملی و کنترل مرزها را نمی پذیرد».",
+      "summary_fa": "دولت ایتالیا روز جمعه در بیانیه ای اعلام کرد: «ایتالیا اولتیماتوم ها یا تحمیل های خارج از کشور در مورد امنیت ملی و کنترل مرزها را نمی پذیرد».",
+      "summary_en": "\"Italy does not accept ultimatums or impositions from abroad regarding national security and border control,\" the Italian government said in a statement on Friday.",
       "link": "http://www.euronews.com/my-europe/2026/08/07/spain-gives-italy-two-days-to-lift-border-checks-on-spanish-travellers-after-ceuta-migrant",
       "source": "EuroNews",
       "published_at": "Fri, 07 Aug 2026 14:05:32 +0200",
@@ -143954,6 +144374,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ee07684c504e85f30fa9934b55d11685",
+      "title": "کل سه گانه ارباب حلقه ها را در بلو-ری 4K به قیمت 50 دلار بگیرید",
+      "title_fa": "کل سه گانه ارباب حلقه ها را در بلو-ری 4K به قیمت 50 دلار بگیرید",
+      "title_en": "Grab the entire Lord of the Rings trilogy on 4K Blu-Ray for $50",
+      "summary": "آیا به دنبال یک تعطیلات آخر هفته در داخل خانه با یک پرخوری خوب هستید؟ Gruv دارای سه گانه The Lord of the Rings در بلوری 4K با قیمت 49.99 دلار است که دقیقاً کمتر از قیمت آمازون است و فقط کمی بالاتر از پایین ترین قیمتی است که معمولاً در جمعه سیاه می بینیم. این نسخه شامل هر دو نسخه اصلی تئاتر همه […]",
+      "summary_fa": "آیا به دنبال یک تعطیلات آخر هفته در داخل خانه با یک پرخوری خوب هستید؟ Gruv دارای سه گانه The Lord of the Rings در بلوری 4K با قیمت 49.99 دلار است که دقیقاً کمتر از قیمت آمازون است و فقط کمی بالاتر از پایین ترین قیمتی است که معمولاً در جمعه سیاه می بینیم. این نسخه شامل هر دو نسخه اصلی تئاتر همه […]",
+      "summary_en": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical releases of all […]",
+      "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-07T12:58:18-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "13c534ed121544d360832cad6d21938f",
+      "title": "آنچه در پشت تغییر هوش مصنوعی گوگل نهفته است",
+      "title_fa": "آنچه در پشت تغییر هوش مصنوعی گوگل نهفته است",
+      "title_en": "What&#8217;s behind the Google AI shake-up",
+      "summary": "برخی از بزرگ‌ترین نام‌های تیم هوش مصنوعی گوگل در این هفته مشاغل جدیدی پیدا کردند. در برخی موارد، از جمله برای جف دین، کارمند افسانه ای گوگل، این مشاغل دیگر در گوگل نیستند. با توجه به اینکه به نظر می‌رسد مدل‌های گوگل پشت سر بهترین چیزهایی هستند که از آنتروپیک و OpenAI بیرون می‌آیند، آیا این نشانه‌ای از گوگل در […]",
+      "summary_fa": "برخی از بزرگ‌ترین نام‌های تیم هوش مصنوعی گوگل در این هفته مشاغل جدیدی پیدا کردند. در برخی موارد، از جمله برای جف دین، کارمند افسانه ای گوگل، این مشاغل دیگر در گوگل نیستند. با توجه به اینکه به نظر می‌رسد مدل‌های گوگل پشت سر بهترین چیزهایی هستند که از آنتروپیک و OpenAI بیرون می‌آیند، آیا این نشانه‌ای از گوگل در […]",
+      "summary_en": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-08-07T12:45:14-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
