@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-07 18:26:08",
-  "total_count": 7410,
+  "last_update": "2026-08-07 19:31:58",
+  "total_count": 7428,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -137892,6 +137892,48 @@
       }
     },
     {
+      "id": "caa289dadf2275b3a5e3fc5c0e3cd59d",
+      "title": "دستور دادگاه استیناف ایالات متحده برای توقف ساخت سالن رقص ترامپ بدون تایید کنگره",
+      "title_fa": "دستور دادگاه استیناف ایالات متحده برای توقف ساخت سالن رقص ترامپ بدون تایید کنگره",
+      "title_en": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+      "summary": "دادگاه استیناف ایالات متحده برای مدار DC، که اجازه داده بود تا ساخت و ساز در حین رسیدگی به پرونده ادامه یابد، با دادگاه پایین‌تری موافقت کرد که چنین بازسازی عظیم کاخ سفید به رضایت صریح کنگره نیاز دارد.",
+      "summary_fa": "دادگاه استیناف ایالات متحده برای مدار DC، که اجازه داده بود تا ساخت و ساز در حین رسیدگی به پرونده ادامه یابد، با دادگاه پایین‌تری موافقت کرد که چنین بازسازی عظیم کاخ سفید به رضایت صریح کنگره نیاز دارد.",
+      "summary_en": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+      "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 20:55:15 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b1d302e5e538501b41830417402d9866",
+      "title": "سنای آمریکا لایحه تحریم های گسترده روسیه را که درآمد انرژی را هدف قرار می دهد، تصویب کرد",
+      "title_fa": "سنای آمریکا لایحه تحریم های گسترده روسیه را که درآمد انرژی را هدف قرار می دهد، تصویب کرد",
+      "title_en": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+      "summary": "این بسته تحریم‌هایی را علیه مقامات روسیه، الیگارش‌ها، مؤسسات مالی و ناوگان به اصطلاح سایه‌ای که برای فرار از محدودیت‌های صادرات نفت مسکو استفاده می‌شود، اعمال می‌کند. همچنین به دونالد ترامپ، رئیس جمهور آمریکا اجازه می دهد تا 500 درصد بر واردات روسیه، از جمله گاز و نفت، تعرفه تعیین کند.",
+      "summary_fa": "این بسته تحریم‌هایی را علیه مقامات روسیه، الیگارش‌ها، مؤسسات مالی و ناوگان به اصطلاح سایه‌ای که برای فرار از محدودیت‌های صادرات نفت مسکو استفاده می‌شود، اعمال می‌کند. همچنین به دونالد ترامپ، رئیس جمهور آمریکا اجازه می دهد تا 500 درصد بر واردات روسیه، از جمله گاز و نفت، تعرفه تعیین کند.",
+      "summary_en": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+      "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 20:20:21 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "51f82845b2ceb0ba36809f5265d63fd7",
       "title": "شکاف بزرگ اینفانتینو: چه کسی موافق و مخالف رئیس جنجالی فیفا است؟",
       "title_fa": "شکاف بزرگ اینفانتینو: چه کسی موافق و مخالف رئیس جنجالی فیفا است؟",
@@ -137910,6 +137952,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f53b9f771ee02cccba2afdb7010eff53",
+      "title": "تعداد نیروی کار آمریکا در سال گذشته بیش از 1 میلیون نفر کاهش یافته است. در اینجا چه اتفاقی می افتد.",
+      "title_fa": "تعداد نیروی کار آمریکا در سال گذشته بیش از 1 میلیون نفر کاهش یافته است. در اینجا چه اتفاقی می افتد.",
+      "title_en": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
+      "summary": "بر اساس گزارش مشاغل جولای پر از ضربات روده، سهم آمریکایی‌هایی که کار می‌کنند یا به دنبال شغل هستند، از زمان همه‌گیری این همه کم نبوده است.",
+      "summary_fa": "بر اساس گزارش مشاغل جولای پر از ضربات روده، سهم آمریکایی‌هایی که کار می‌کنند یا به دنبال شغل هستند، از زمان همه‌گیری این همه کم نبوده است.",
+      "summary_en": "The share of Americans who are working or looking for a job hasn’t been this low since the pandemic, according to a July jobs report full of gut punches.",
+      "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 07 Aug 2026 19:24:00 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-00379417",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e31ab33b71296ee6e796258028c57b05",
+      "title": "نایجل فاراژ و ریچارد تایس، نایجل فاراج و ریچارد تایس از NCA به دلیل افشای اطلاعات بانکی ادعایی شکایت کردند",
+      "title_fa": "نایجل فاراژ و ریچارد تایس، نایجل فاراج و ریچارد تایس از NCA به دلیل افشای اطلاعات بانکی ادعایی شکایت کردند",
+      "title_en": "Reform UK’s Nigel Farage and Richard Tice sue NCA over alleged banking leaks",
+      "summary": "رهبران پوپولیست خواهان غرامت بیش از 25000 پوندی برای آنچه به ادعای آنها درز تحقیقات در مورد نقل و انتقالات پول بوده است.",
+      "summary_fa": "رهبران پوپولیست خواهان غرامت بیش از 25000 پوندی برای آنچه به ادعای آنها درز تحقیقات در مورد نقل و انتقالات پول بوده است.",
+      "summary_en": "Populist leaders seek more than £25,000 in damages for what they claim was a leak of a probe into money transfers",
+      "link": "https://www.ft.com/content/1973ce2a-1afc-4333-963b-34eeda07233a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 19:12:04 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdebc81a4-beae-40a6-84e0-84ed5296227f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "2c4e2903f02a5454f7589792e46a8af4",
+      "title": "تعقیب و گریز نهایی در کسوف: یک کنکورد در برابر سایه ماه مسابقه داد",
+      "title_fa": "تعقیب و گریز نهایی در کسوف: یک کنکورد در برابر سایه ماه مسابقه داد",
+      "title_en": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "summary": "این هواپیما که مجهز به تلسکوپ بود، طولانی ترین تصویربرداری ما از تاج خورشید را انجام داد.",
+      "summary_fa": "این هواپیما که مجهز به تلسکوپ بود، طولانی ترین تصویربرداری ما از تاج خورشید را انجام داد.",
+      "summary_en": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+      "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 07 Aug 2026 19:00:17 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/The-scientists-and-the-equipments-for-the-mission-Credit-F-Claudel-1152x648.jpeg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9318191e80ca2f8ca69eacc5b33101d9",
+      "title": "در حمله کیف به غول تجارت الکترونیک روسیه، چندین نفر در حملات به اوکراین کشته شدند",
+      "title_fa": "در حمله کیف به غول تجارت الکترونیک روسیه، چندین نفر در حملات به اوکراین کشته شدند",
+      "title_en": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "summary": "اوکراین همچنان به حمله به انبارها و مراکز تدارکاتی که توسط Wildberries اداره می‌شود، ادامه می‌دهد و می‌گوید که به تلاش‌های جنگی مسکو کمک می‌کند.",
+      "summary_fa": "اوکراین همچنان به حمله به انبارها و مراکز تدارکاتی که توسط Wildberries اداره می‌شود، ادامه می‌دهد و می‌گوید که به تلاش‌های جنگی مسکو کمک می‌کند.",
+      "summary_en": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 18:54:55 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f58b379121f2858b40db815de4fdb6cf",
+      "title": "فیلسوف چینی آمریکایی‌ها نمی‌توانند درباره آن مبارزه کنند",
+      "title_fa": "فیلسوف چینی آمریکایی‌ها نمی‌توانند درباره آن مبارزه کنند",
+      "title_en": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+      "summary": "ییانگ ژوگه قبلاً در چین یک شخصیت روشنفکر بود. مصاحبه ویروسی او با کریستوفر نولان او را در ایالات متحده مشهور کرد و به سرعت او را به یک آزمون سیاسی رورشاخ تبدیل کرد.",
+      "summary_fa": "ییانگ ژوگه قبلاً در چین یک شخصیت روشنفکر بود. مصاحبه ویروسی او با کریستوفر نولان او را در ایالات متحده مشهور کرد و به سرعت او را به یک آزمون سیاسی رورشاخ تبدیل کرد.",
+      "summary_en": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
+      "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+      "source": "Wired",
+      "published_at": "Fri, 07 Aug 2026 18:54:04 +0000",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "28c9e428bac09de6e1541b4a88e80356",
+      "title": "خانواده تفنگدار سابق آمریکایی بازداشت شده در روسیه می گویند که او در وضعیت وخیمی قرار دارد",
+      "title_fa": "خانواده تفنگدار سابق آمریکایی بازداشت شده در روسیه می گویند که او در وضعیت وخیمی قرار دارد",
+      "title_en": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "summary": "یک گروه مدافع گفت که رابرت گیلمن، 32 ساله، در \"تجزیه\" به سر می برد و اعضای خانواده او می گویند که از جان او می ترسند. آقای گیلمن در سال 2022 در روسیه دستگیر شد.",
+      "summary_fa": "یک گروه مدافع گفت که رابرت گیلمن، 32 ساله، در \"تجزیه\" به سر می برد و اعضای خانواده او می گویند که از جان او می ترسند. آقای گیلمن در سال 2022 در روسیه دستگیر شد.",
+      "summary_en": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
+      "link": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
+      "source": "NY Times",
+      "published_at": "Fri, 07 Aug 2026 18:52:20 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/00xp-gilman-topart-hvkf/00xp-gilman-topart-hvkf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -137952,6 +138120,111 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "پاریس"
+      }
+    },
+    {
+      "id": "f55c28bb3f7e9bc099b1cc00ec250dd0",
+      "title": "پاریس: نزدیک به 100000 امضا علیه غرفه جدید مجلس ملی",
+      "title_fa": "پاریس: نزدیک به 100000 امضا علیه غرفه جدید مجلس ملی",
+      "title_en": "Paris: nearly 100,000 signatures against new National Assembly pavilion",
+      "summary": "پس از حمایت شورای پاریس از قوانین برنامه ریزی آرام در اطراف کاخ بوربن، طرح ها برای یک غرفه پذیرایی جدید در مجلس ملی با مخالفت های شدیدی روبرو می شود، با طوماری که نزدیک به 100000 امضا دارد.",
+      "summary_fa": "پس از حمایت شورای پاریس از قوانین برنامه ریزی آرام در اطراف کاخ بوربن، طرح ها برای یک غرفه پذیرایی جدید در مجلس ملی با مخالفت های شدیدی روبرو می شود، با طوماری که نزدیک به 100000 امضا دارد.",
+      "summary_en": "Plans for a new reception pavilion at the National Assembly face strong opposition, with a petition nearing 100,000 signatures after Paris Council backed relaxed planning rules around the Palais-Bourbon.",
+      "link": "http://www.euronews.com/culture/2026/08/07/paris-nearly-100000-signatures-against-new-national-assembly-pavilion",
+      "source": "EuroNews",
+      "published_at": "Fri, 07 Aug 2026 18:36:24 +0200",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "421c292a0351795798093fef86185f6a",
+      "title": "قاضی تلاش ترامپ برای پایان دادن به حفاظت از سودان جنوبی را تایید کرد",
+      "title_fa": "قاضی تلاش ترامپ برای پایان دادن به حفاظت از سودان جنوبی را تایید کرد",
+      "title_en": "Judge approves Trump effort to end South Sudan TPS protections",
+      "summary": "این تصمیم پس از حکم دادگاه عالی صادر شد که به دولت آمریکا اجازه داد تا حمایت هائیتی‌ها و سوری‌ها را لغو کند وضعیت حفاظت شده موقت (TPS) برای صدها شهروند سودان جنوبی در ایالات متحده پس از حکم یک قاضی فدرال مبنی بر اینکه دولت ترامپ می‌تواند با لغو حمایت‌های آنها به پیش برود، به پایان می‌رسد. با هم برای حفظ TPS برای اتباع سودان جنوبی ساکن ایالات متحده. ادامه مطلب...",
+      "summary_fa": "این تصمیم پس از حکم دادگاه عالی صادر شد که به دولت آمریکا اجازه داد تا حمایت هائیتی‌ها و سوری‌ها را لغو کند وضعیت حفاظت شده موقت (TPS) برای صدها شهروند سودان جنوبی در ایالات متحده پس از حکم یک قاضی فدرال مبنی بر اینکه دولت ترامپ می‌تواند با لغو حمایت‌های آنها به پیش برود، به پایان می‌رسد. با هم برای حفظ TPS برای اتباع سودان جنوبی ساکن ایالات متحده. ادامه مطلب...",
+      "summary_en": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and SyriansTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections.On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attempt by immigrant rights organizations including the New York-based African Communities Together to keep TPS for South Sudanese nationals living in the US. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian",
+      "published_at": "Fri, 07 Aug 2026 18:34:34 GMT",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c2ba89fc03967397614f10e34e06f647",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d74e75d82b9633db5736a9afb7b1e6c0",
+      "title": "بازارهای پیش‌بینی در آخرین دور گزارش‌های سود سه‌ماهه در مرکز توجه قرار دارند",
+      "title_fa": "بازارهای پیش‌بینی در آخرین دور گزارش‌های سود سه‌ماهه در مرکز توجه قرار دارند",
+      "title_en": "Prediction markets take center stage in latest round of quarterly earnings reports",
+      "summary": "گزارش‌های سه ماهه اخیر از DraftKings، Flutter Entertainment و دیگران، دیدگاهی را به بازارهای پیش‌بینی کسب‌وکارها و عملکرد آنها ارائه می‌دهند.",
+      "summary_fa": "گزارش‌های سه ماهه اخیر از DraftKings، Flutter Entertainment و دیگران، دیدگاهی را به بازارهای پیش‌بینی کسب‌وکارها و عملکرد آنها ارائه می‌دهند.",
+      "summary_en": "Recent quarterly reports from DraftKings, Flutter Entertainment and others offer a view into prediction markets businesses and their performance.",
+      "link": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 18:30:23 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ef681e5aaaebd64310ed1c2a8f28b90",
+      "title": "ترامپ تهدید به برکناری لیزا کوک، رئیس فدرال رزرو را احیا کرد",
+      "title_fa": "ترامپ تهدید به برکناری لیزا کوک، رئیس فدرال رزرو را احیا کرد",
+      "title_en": "Trump revives threat to sack Fed governor Lisa Cook",
+      "summary": "این اقدام پس از آن صورت می گیرد که دادگاه عالی در ژوئن حکم داد که سیاست گذار می تواند تا زمانی که پرونده حل و فصل شود، در سمت خود باقی بماند",
+      "summary_fa": "این اقدام پس از آن صورت می گیرد که دادگاه عالی در ژوئن حکم داد که سیاست گذار می تواند تا زمانی که پرونده حل و فصل شود، در سمت خود باقی بماند",
+      "summary_en": "Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
+      "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 18:27:01 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea89ed14-d5c0-4459-aa67-ba0d5e1840f7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dccf12beb6883888bc52b3244edb63cf",
+      "title": "اشکالات طلا 180 میلیون دلار صرف شرط بندی برای فلز می کنند زیرا بازده اوراق قرضه متوقف می شود",
+      "title_fa": "اشکالات طلا 180 میلیون دلار صرف شرط بندی برای فلز می کنند زیرا بازده اوراق قرضه متوقف می شود",
+      "title_en": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
+      "summary": "علیرغم کاهش 25 درصدی طلا نسبت به بالاترین میزان خود در ژانویه، طرفداران این فلز گرانبها در حال هجوم به موقعیت های صعودی هستند.",
+      "summary_fa": "علیرغم کاهش 25 درصدی طلا نسبت به بالاترین میزان خود در ژانویه، طرفداران این فلز گرانبها در حال هجوم به موقعیت های صعودی هستند.",
+      "summary_en": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions.",
+      "link": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
+      "source": "CNBC",
+      "published_at": "Fri, 07 Aug 2026 18:22:56 GMT",
+      "date_iso": "2026-08-07",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -138078,6 +138351,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "dbe389c7076df45ce76a89c5996bf1be",
+      "title": "درون نتایج: چگونه تقسیم بندی مجدد انتخابات مقدماتی تنسی را شکل داد",
+      "title_fa": "درون نتایج: چگونه تقسیم بندی مجدد انتخابات مقدماتی تنسی را شکل داد",
+      "title_en": "Inside the results: How redistricting shaped Tennessee’s primary election",
+      "summary": "انتخابات مقدماتی حزب تنسی شاهد برکناری نماینده فعلی اندی اوگلز بود و یک رقابت داغ برای منطقه 9 راه اندازی کرد.",
+      "summary_fa": "انتخابات مقدماتی حزب تنسی شاهد برکناری نماینده فعلی اندی اوگلز بود و یک رقابت داغ برای منطقه 9 راه اندازی کرد.",
+      "summary_en": "Tennessee's party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 07 Aug 2026 18:00:05 +0000",
+      "date_iso": "2026-08-07",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -144780,6 +145074,69 @@
       }
     },
     {
+      "id": "e75cba0cd75decbd547712dd5f10604a",
+      "title": "تماشای کانال هوش مصنوعی Roku مانند غذا خوردن از یک غار است",
+      "title_fa": "تماشای کانال هوش مصنوعی Roku مانند غذا خوردن از یک غار است",
+      "title_en": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "جذابیت کانال‌های پخش تلویزیونی رایگان با پشتیبانی از آگهی (FAST) همیشه راهی بوده است که آنها کشف مجدد فیلم‌ها و سریال‌های کلاسیک را آسان‌تر می‌کنند. اما آخرین آزمایش Roku در فضای FAST کمتر به سرگرمی های سنتی تولید می شود و کاملاً بر دسترسی بینندگان به منبع ثابت محتوای تولید شده توسط هوش مصنوعی متمرکز است. […]",
+      "summary_fa": "جذابیت کانال‌های پخش تلویزیونی رایگان با پشتیبانی از آگهی (FAST) همیشه راهی بوده است که آنها کشف مجدد فیلم‌ها و سریال‌های کلاسیک را آسان‌تر می‌کنند. اما آخرین آزمایش Roku در فضای FAST کمتر به سرگرمی های سنتی تولید می شود و کاملاً بر دسترسی بینندگان به منبع ثابت محتوای تولید شده توسط هوش مصنوعی متمرکز است. […]",
+      "summary_en": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. […]",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "published_at": "2026-08-07T14:59:46-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e8fa6cde064e068b89fe3b4bc6935a6",
+      "title": "OpenAI یک مدل جدید را ترمز می کند زیرا ظاهراً بیش از حد قدرتمند است",
+      "title_fa": "OpenAI یک مدل جدید را ترمز می کند زیرا ظاهراً بیش از حد قدرتمند است",
+      "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI می‌گوید که «فعالیت‌های داخلی» را در مورد یک مدل در حال توسعه هوش مصنوعی، Astra، متوقف می‌کند، زیرا هنوز استانداردهای امنیتی جدیدی را که شرکت در حال ایجاد آن است، برآورده نمی‌کند. این اعلامیه به دنبال افشای اخیر آن منتشر شد مبنی بر اینکه مدل‌های OpenAI به طور تصادفی Hugging Face را هک کردند. آنتروپیک و متا نیز از آن زمان اعتراف کرده اند که مدل های هوش مصنوعی دارند که به طرز نادرستی […]",
+      "summary_fa": "OpenAI می‌گوید که «فعالیت‌های داخلی» را در مورد یک مدل در حال توسعه هوش مصنوعی، Astra، متوقف می‌کند، زیرا هنوز استانداردهای امنیتی جدیدی را که شرکت در حال ایجاد آن است، برآورده نمی‌کند. این اعلامیه به دنبال افشای اخیر آن منتشر شد مبنی بر اینکه مدل‌های OpenAI به طور تصادفی Hugging Face را هک کردند. آنتروپیک و متا نیز از آن زمان اعتراف کرده اند که مدل های هوش مصنوعی دارند که به طرز نادرستی […]",
+      "summary_en": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "The Verge",
+      "published_at": "2026-08-07T14:40:34-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b4443ad1eb59beebb383e90127ecb330",
+      "title": "تنها دوربین های فوری ارزش پول شما را دارند",
+      "title_fa": "تنها دوربین های فوری ارزش پول شما را دارند",
+      "title_en": "The only instant cameras worth your money",
+      "summary": "چیزی جادویی در استفاده از دوربین های فوری وجود دارد که گوشی های هوشمند نمی توانند با آن مطابقت کنند. می توانید لحظه ای را ثبت کنید، آن را چاپ کنید و سپس عکس را به عنوان هدیه بدهید یا آن را نگه دارید. کیفیت تصویر چندان خوب نخواهد بود، اما نقص بخشی از جذابیت است. ما مدل‌های دوربین فوری از برندهای معروف را آزمایش کردیم و به […]",
+      "summary_fa": "چیزی جادویی در استفاده از دوربین های فوری وجود دارد که گوشی های هوشمند نمی توانند با آن مطابقت کنند. می توانید لحظه ای را ثبت کنید، آن را چاپ کنید و سپس عکس را به عنوان هدیه بدهید یا آن را نگه دارید. کیفیت تصویر چندان خوب نخواهد بود، اما نقص بخشی از جذابیت است. ما مدل‌های دوربین فوری از برندهای معروف را آزمایش کردیم و به […]",
+      "summary_en": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed […]",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "source": "The Verge",
+      "published_at": "2026-08-07T14:04:08-04:00",
+      "date_iso": "2026-08-07",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "eb0ede1f4936a2deb7bc4ccf8f609cb5",
       "title": "دیزنی پلاس یک جستجوی جدید مبتنی بر هوش مصنوعی را امتحان می کند",
       "title_fa": "دیزنی پلاس یک جستجوی جدید مبتنی بر هوش مصنوعی را امتحان می کند",
@@ -145023,6 +145380,27 @@
       "published_at": "2026-08-07T05:10:01-04:00",
       "date_iso": "2026-08-07",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a90957f763d844ecf26c106bd5b3cbab",
+      "title": "واکسن جهانی برای بیماری پنوموکوک به واقعیت نزدیک‌تر می‌شود",
+      "title_fa": "واکسن جهانی برای بیماری پنوموکوک به واقعیت نزدیک‌تر می‌شود",
+      "title_en": "Universal vaccine for pneumococcal disease moves closer to reality",
+      "summary": "طبیعت، انتشار آنلاین: 07 آگوست 2026; doi:10.1038/d41586-026-02462-z هدف قرار دادن پروتئین های مشترک می تواند به کنترل زیرگروه های باکتریایی که واکسن های فعلی در برابر آنها محافظت نمی کنند کمک کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 07 آگوست 2026; doi:10.1038/d41586-026-02462-z هدف قرار دادن پروتئین های مشترک می تواند به کنترل زیرگروه های باکتریایی که واکسن های فعلی در برابر آنها محافظت نمی کنند کمک کند.",
+      "summary_en": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02462-zTargeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.",
+      "link": "https://www.nature.com/articles/d41586-026-02462-z",
+      "source": "Nature",
+      "published_at": "2026-08-07 19:31",
+      "date_iso": "2026-08-07",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
