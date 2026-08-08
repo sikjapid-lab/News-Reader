@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 17:49:59",
-  "total_count": 7669,
+  "last_update": "2026-08-08 18:21:29",
+  "total_count": 7674,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95495,6 +95495,48 @@
       }
     },
     {
+      "id": "3e484adeb0addf74f27d0736487eed62",
+      "title": "حجم آتش سوزی سریع کانادا دو برابر می شود و هزاران نفر مجبور به ترک خانه های خود می شوند",
+      "title_fa": "حجم آتش سوزی سریع کانادا دو برابر می شود و هزاران نفر مجبور به ترک خانه های خود می شوند",
+      "title_en": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "summary": "آتش‌سوزی در محدوده طاس در بریتیش کلمبیا، که هنوز \"خارج از کنترل\" در نظر گرفته می‌شود، به بیش از 36 مایل مربع (95 کیلومتر مربع) گسترش یافته است.",
+      "summary_fa": "آتش‌سوزی در محدوده طاس در بریتیش کلمبیا، که هنوز \"خارج از کنترل\" در نظر گرفته می‌شود، به بیش از 36 مایل مربع (95 کیلومتر مربع) گسترش یافته است.",
+      "summary_en": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 18:13:49 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "e2ed493e9b02235e0e937ffeccabff55",
+      "title": "اینفلوئنسرها با نایجل فاراژ، رهبر راست افراطی روبرو می شوند",
+      "title_fa": "اینفلوئنسرها با نایجل فاراژ، رهبر راست افراطی روبرو می شوند",
+      "title_en": "The influencers taking on far-right leader Nigel Farage",
+      "summary": "رسانه‌های بریتانیا متهم شده‌اند که نایجل فاراژ، رهبر راست افراطی را به راحتی می‌فرستند",
+      "summary_fa": "رسانه‌های بریتانیا متهم شده‌اند که نایجل فاراژ، رهبر راست افراطی را به راحتی می‌فرستند",
+      "summary_en": "The UK media has been accused of giving far-right leader Nigel Farage an easy ride",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 18:05:44 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "99ce810463a44451f29a4dbbffe5d402",
       "title": "آخرین بولتن اخبار | 8 آگوست 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 8 آگوست 2026 - عصر",
@@ -95513,6 +95555,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "8853367c5bb1cc233214c24b7b6b21d7",
+      "title": "آیا وجوه تاریخ هدف آنقدر تهاجمی است که پس‌اندازهای بازنشستگی آمریکایی‌ها را تا آخر عمرشان بدهد؟",
+      "title_fa": "آیا وجوه تاریخ هدف آنقدر تهاجمی است که پس‌اندازهای بازنشستگی آمریکایی‌ها را تا آخر عمرشان بدهد؟",
+      "title_en": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+      "summary": "سرمایه‌گذاری‌های پیش‌فرض محبوب ممکن است برای تأمین بودجه دهه‌های بازنشستگی، تهاجمی‌تر باشند.",
+      "summary_fa": "سرمایه‌گذاری‌های پیش‌فرض محبوب ممکن است برای تأمین بودجه دهه‌های بازنشستگی، تهاجمی‌تر باشند.",
+      "summary_en": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 17:58:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-96661868",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f7c30de6f66a07df01f7104faf7f4e50",
+      "title": "18000 نفر از سامرلند، بریتیش کلمبیا، توسط آتش سوزی تخلیه شدند",
+      "title_fa": "18000 نفر از سامرلند، بریتیش کلمبیا، توسط آتش سوزی تخلیه شدند",
+      "title_en": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+      "summary": "به گفته مقامات، آتش‌سوزی Bald Range که از روز جمعه آغاز شد، بیش از 23000 هکتار را در نزدیکی ناحیه سامرلند و پیچلند در بریتیش کلمبیا سوخت.",
+      "summary_fa": "به گفته مقامات، آتش‌سوزی Bald Range که از روز جمعه آغاز شد، بیش از 23000 هکتار را در نزدیکی ناحیه سامرلند و پیچلند در بریتیش کلمبیا سوخت.",
+      "summary_en": "The Bald Range fire, which started on Friday, has burned more than 23,000 acres near the Districts of Summerland and Peachland in British Columbia, officials said.",
+      "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 17:56:33 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -149981,6 +150065,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c53fd1bda5c9ffbd2e0d519f5cfc8ed",
+      "title": "یک مرکز داده آمازون می تواند بدترین نیروگاه آلاینده را در کشور داشته باشد",
+      "title_fa": "یک مرکز داده آمازون می تواند بدترین نیروگاه آلاینده را در کشور داشته باشد",
+      "title_en": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary": "به گزارش نیویورک تایمز، آمازون برای تامین انرژی مرکز داده جدید خود در غرب تگزاس، در حال سرمایه گذاری در ساخت یک نیروگاه جدید است که می تواند یکی از بزرگترین تولیدکنندگان گازهای گلخانه ای در ایالات متحده باشد. کارخانه جدید گازسوز در شهرستان پکوس، تگزاس سرمایه گذاری قابل توجهی از آمازون دریافت کرده است و […]",
+      "summary_fa": "به گزارش نیویورک تایمز، آمازون برای تامین انرژی مرکز داده جدید خود در غرب تگزاس، در حال سرمایه گذاری در ساخت یک نیروگاه جدید است که می تواند یکی از بزرگترین تولیدکنندگان گازهای گلخانه ای در ایالات متحده باشد. کارخانه جدید گازسوز در شهرستان پکوس، تگزاس سرمایه گذاری قابل توجهی از آمازون دریافت کرده است و […]",
+      "summary_en": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge",
+      "published_at": "2026-08-08T13:53:34-04:00",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
