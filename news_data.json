@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 14:11:58",
-  "total_count": 7622,
+  "last_update": "2026-08-08 14:51:42",
+  "total_count": 7629,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,48 @@
       }
     },
     {
+      "id": "36a92033caeed9044852ab11a4e918e5",
+      "title": "ووچیچ صربستان با میزبانی از زلنسکی با شکوه به بروکسل و مسکو پیام فرستاد.",
+      "title_fa": "ووچیچ صربستان با میزبانی از زلنسکی با شکوه به بروکسل و مسکو پیام فرستاد.",
+      "title_en": "Serbia's Vučić sends signal to Brussels and Moscow by hosting Zelenskyy with pomp and circumstance",
+      "summary": "مذاکرات زلنسکی و ووچیچ در حالی انجام می شود که جنگ روسیه علیه اوکراین بار دیگر تشدید شده است. علیرغم روابط تاریخی صربستان با روسیه، اکنون به نظر می رسد که تلاش این کشور برای پیوستن به اتحادیه اروپا در ملاحظات پیشرو بوده است.",
+      "summary_fa": "مذاکرات زلنسکی و ووچیچ در حالی انجام می شود که جنگ روسیه علیه اوکراین بار دیگر تشدید شده است. علیرغم روابط تاریخی صربستان با روسیه، اکنون به نظر می رسد که تلاش این کشور برای پیوستن به اتحادیه اروپا در ملاحظات پیشرو بوده است.",
+      "summary_en": "The talks between Zelenskyy and Vučić come as Russia's war against Ukraine once again intensifies. Despite Serbia’s historical ties to Russia, its bid to join the EU now seems to have taken the lead in considerations.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/serbias-vucic-sends-signal-to-brussels-and-moscow-by-hosting-zelenskyy-with-pomp-and-circu",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 16:07:24 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "e19afcec18d8a04bd571723c228ae978",
+      "title": "مردی 26 ساله در روتردام پس از زخمی شدن دو نفر در چاقو زدن \"تصادفی\" دستگیر شد",
+      "title_fa": "مردی 26 ساله در روتردام پس از زخمی شدن دو نفر در چاقو زدن \"تصادفی\" دستگیر شد",
+      "title_en": "Man, 26, arrested in Rotterdam after two injured in 'random' stabbing spree",
+      "summary": "پلیس هلند با انتشار پستی در شبکه های اجتماعی گفت: \"یک مظنون مجرد که گمان می رود با ماشین در حال سفر بوده است، در این چاقوها دست داشته است.\"",
+      "summary_fa": "پلیس هلند با انتشار پستی در شبکه های اجتماعی گفت: \"یک مظنون مجرد که گمان می رود با ماشین در حال سفر بوده است، در این چاقوها دست داشته است.\"",
+      "summary_en": "\"A single suspect, who is believed to have been travelling by car, is involved in the stabbings,\" Dutch police said in a post on social media.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/man-26-arrested-in-rotterdam-after-two-injured-in-random-stabbing-spree",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 16:02:25 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ec8e5140e7eb61021c99bbe06e11e3c8",
       "title": "بلاروس به جنگ روسیه برای آزادی اطلاعات پیوست",
       "title_fa": "بلاروس به جنگ روسیه برای آزادی اطلاعات پیوست",
@@ -95487,6 +95529,111 @@
       "date_iso": "2026-08-08",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69ffc4b3d7f4abb914e22405ba71a7a3",
+      "title": "\"من و همسرم هر دو بازنشسته هستیم\": آیا ما به صندوق 2.3 میلیون دلاری خود می پردازیم تا 300000 دلار وام مسکن خود را با 2.9٪ پرداخت کنیم؟",
+      "title_fa": "\"من و همسرم هر دو بازنشسته هستیم\": آیا ما به صندوق 2.3 میلیون دلاری خود می پردازیم تا 300000 دلار وام مسکن خود را با 2.9٪ پرداخت کنیم؟",
+      "title_en": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "summary": "\"در حال حاضر، ما سالانه حدود 100000 دلار از سرمایه گذاری های خود برداشت می کنیم.\"",
+      "summary_fa": "\"در حال حاضر، ما سالانه حدود 100000 دلار از سرمایه گذاری های خود برداشت می کنیم.\"",
+      "summary_en": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 14:48:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-90698990",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad5aa9b1dca8012d78e9d4255cf56c48",
+      "title": "پرداخت هزینه مهدکودک گران قیمت؟ در اینجا نحوه حفظ همزمان پس انداز برای بازنشستگی آمده است.",
+      "title_fa": "پرداخت هزینه مهدکودک گران قیمت؟ در اینجا نحوه حفظ همزمان پس انداز برای بازنشستگی آمده است.",
+      "title_en": "Paying for pricey daycare? Here’s how to keep saving for retirement at the same time.",
+      "summary": "خانواده‌های جوان در تلاش برای بهتر شدن هستند، اما با هزینه‌های زندگی، از جمله مراقبت از کودکان گران‌قیمت، دست و پنجه نرم می‌کنند.",
+      "summary_fa": "خانواده‌های جوان در تلاش برای بهتر شدن هستند، اما با هزینه‌های زندگی، از جمله مراقبت از کودکان گران‌قیمت، دست و پنجه نرم می‌کنند.",
+      "summary_en": "Young families are striving to do better but struggling with costs of living, including expensive childcare.",
+      "link": "https://www.marketwatch.com/story/how-parents-can-keep-saving-for-retirement-during-the-expensive-childcare-years-e06b3abe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 14:46:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-36452861",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d13af55372a577087100ffb36ee8b39b",
+      "title": "پدر لیونل مسی پس از یک بیماری طولانی در سن 68 سالگی درگذشت",
+      "title_fa": "پدر لیونل مسی پس از یک بیماری طولانی در سن 68 سالگی درگذشت",
+      "title_en": "Lionel Messi’s father dies aged 68 after a long illness",
+      "summary": "به گفته خانواده خورخه مسی در یک کلینیک پزشکی در شهر روساریو آرژانتین درگذشت.",
+      "summary_fa": "به گفته خانواده خورخه مسی در یک کلینیک پزشکی در شهر روساریو آرژانتین درگذشت.",
+      "summary_en": "Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 14:25:38 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "67baa104c22373387d0b82cba4af8929",
+      "title": "جنگ علیه ایران: مرحله دوم: روز بیست و هشتم",
+      "title_fa": "جنگ علیه ایران: مرحله دوم: روز بیست و هشتم",
+      "title_en": "War on Iran: Phase II: Day 28",
+      "summary": "پیمان عربستان، پاکستان و ترکیه واکنش‌های متفاوتی را به دنبال داشت، زیرا ایران و عمان بر سر چارچوب امنیتی هرمز توافق کردند.",
+      "summary_fa": "پیمان عربستان، پاکستان و ترکیه واکنش‌های متفاوتی را به دنبال داشت، زیرا ایران و عمان بر سر چارچوب امنیتی هرمز توافق کردند.",
+      "summary_en": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 14:09:02 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0a5b3ec728674607a27132f6c0383dfb",
+      "title": "در اینجا این است که چگونه ما در این هفته جهش عظیمی را در سهام هوش مصنوعی انجام دادیم",
+      "title_fa": "در اینجا این است که چگونه ما در این هفته جهش عظیمی را در سهام هوش مصنوعی انجام دادیم",
+      "title_en": "Here’s how we played the massive rebound in AI stocks this week",
+      "summary": "سهام هوش مصنوعی برای کمک به بالا بردن دو میانگین عمده به رکوردهای تازه بازگشت.",
+      "summary_fa": "سهام هوش مصنوعی برای کمک به بالا بردن دو میانگین عمده به رکوردهای تازه بازگشت.",
+      "summary_en": "AI stocks roared back to help lift two of the major averages to fresh records.",
+      "link": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 14:07:30 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
