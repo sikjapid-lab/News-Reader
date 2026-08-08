@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 09:36:45",
-  "total_count": 7545,
+  "last_update": "2026-08-08 10:07:25",
+  "total_count": 7552,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,111 @@
       }
     },
     {
+      "id": "d0a6aa9eaf98ea6f77f4dad85197c92f",
+      "title": "نشانه‌های بهبود اقتصادی در حالی که عدم اطمینان بیشتر وجود دارد",
+      "title_fa": "نشانه‌های بهبود اقتصادی در حالی که عدم اطمینان بیشتر وجود دارد",
+      "title_en": "Signs of Economic Recovery While Greater Uncertainty Looms",
+      "summary": "اعداد مشاغل و تجارت منتشر شده در این هفته نشان می دهد که کانادا در حال بهبودی از آشفتگی تجاری است، اما ممکن است دور دیگری از تعرفه ها در این ماه فرا برسد.",
+      "summary_fa": "اعداد مشاغل و تجارت منتشر شده در این هفته نشان می دهد که کانادا در حال بهبودی از آشفتگی تجاری است، اما ممکن است دور دیگری از تعرفه ها در این ماه فرا برسد.",
+      "summary_en": "Jobs and trade numbers released this week show that Canada is recovering from trade turmoil, but another round of tariffs may arrive this month.",
+      "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 10:00:07 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-canada-letter-gbfl/08int-canada-letter-gbfl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f507cbbcf850248ab4c1098699da1155",
+      "title": "چگونه Gemini را در Gmail و Google Docs غیرفعال کنیم",
+      "title_fa": "چگونه Gemini را در Gmail و Google Docs غیرفعال کنیم",
+      "title_en": "How to Disable Gemini in Gmail and Google Docs",
+      "summary": "نوار ابزارها و درخواست‌های جدید هوش مصنوعی در Google Docs و Gmail نشان داده می‌شوند. اگر کمک Gemini را در نوشتن اسناد و ایمیل نمی‌خواهید، در اینجا نحوه خاموش کردن این موارد آورده شده است.",
+      "summary_fa": "نوار ابزارها و درخواست‌های جدید هوش مصنوعی در Google Docs و Gmail نشان داده می‌شوند. اگر کمک Gemini را در نوشتن اسناد و ایمیل نمی‌خواهید، در اینجا نحوه خاموش کردن این موارد آورده شده است.",
+      "summary_en": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired",
+      "published_at": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ab32052e800500ef7bb0b9863f163f8f",
+      "title": "اطلاعات حساس دائماً وارد ایمیل‌های «بدون پاسخ» می‌شوند. این مرد همه چیز را می بیند",
+      "title_fa": "اطلاعات حساس دائماً وارد ایمیل‌های «بدون پاسخ» می‌شوند. این مرد همه چیز را می بیند",
+      "title_en": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+      "summary": "دو محقق امنیتی دامنه‌های ارزان قیمت از جمله noreply.net و deleteduser.com را خریداری کردند و خدمات گوش دادن به ایمیل را راه‌اندازی کردند. صدها شرکت اسرار شرکتی را برای آنها ارسال می کنند.",
+      "summary_fa": "دو محقق امنیتی دامنه‌های ارزان قیمت از جمله noreply.net و deleteduser.com را خریداری کردند و خدمات گوش دادن به ایمیل را راه‌اندازی کردند. صدها شرکت اسرار شرکتی را برای آنها ارسال می کنند.",
+      "summary_en": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
+      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "source": "Wired",
+      "published_at": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1f88f2cfa6ab3813bd8089c8a66ba2bd",
+      "title": "خانواده می گویند تفنگدار سابق نیروی دریایی پس از بدرفتاری در بازداشت روسیه واکنشی نشان نمی دهد",
+      "title_fa": "خانواده می گویند تفنگدار سابق نیروی دریایی پس از بدرفتاری در بازداشت روسیه واکنشی نشان نمی دهد",
+      "title_en": "Former Marine Is Unresponsive After Mistreatment in Russian Detention, Family Says",
+      "summary": "یک گروه مدافع گفت که رابرت گیلمن، 32 ساله، از طریق یک لوله و در یک \"گیجی تجزیه کننده\" تغذیه می شد. او در سال 2022 در روسیه دستگیر شد.",
+      "summary_fa": "یک گروه مدافع گفت که رابرت گیلمن، 32 ساله، از طریق یک لوله و در یک \"گیجی تجزیه کننده\" تغذیه می شد. او در سال 2022 در روسیه دستگیر شد.",
+      "summary_en": "Robert Gilman, 32, was being fed through a tube and in a “dissociative stupor,” an advocacy group said. He was arrested in Russia in 2022.",
+      "link": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 09:58:51 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/00xp-gilman-topart-hvkf/00xp-gilman-topart-hvkf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "10e71fa212b6f618d1aa72c8b69f2011",
+      "title": "نیوکاسل می گوید که آنها \"نمی خواستند\" گیمارش را بفروشند، زیرا انتقال آرسنال در آینده نزدیک است.",
+      "title_fa": "نیوکاسل می گوید که آنها \"نمی خواستند\" گیمارش را بفروشند، زیرا انتقال آرسنال در آینده نزدیک است.",
+      "title_en": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+      "summary": "به نظر می رسد برونو گیمارش به آرسنال قهرمان لیگ برتر انگلیس منتقل شود، اما نیوکاسل می گوید که آنها نمی خواهند بفروشند.",
+      "summary_fa": "به نظر می رسد برونو گیمارش به آرسنال قهرمان لیگ برتر انگلیس منتقل شود، اما نیوکاسل می گوید که آنها نمی خواهند بفروشند.",
+      "summary_en": "Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 09:38:58 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "fac9c211b4a99196ed2ef4a4d524df18",
       "title": "ایالات متحده قصد دارد پس از تحلیف دی لا اسپریلا، یک میلیارد دلار کمک به کلمبیا ارسال کند.",
       "title_fa": "ایالات متحده قصد دارد پس از تحلیف دی لا اسپریلا، یک میلیارد دلار کمک به کلمبیا ارسال کند.",
@@ -95495,6 +95600,27 @@
       }
     },
     {
+      "id": "e80042503a3717336ac99372dd67292b",
+      "title": "ایالات متحده سرمایه گذاری 400 میلیون دلاری در معدن خاکی کمیاب استرالیا را اعلام کرد",
+      "title_fa": "ایالات متحده سرمایه گذاری 400 میلیون دلاری در معدن خاکی کمیاب استرالیا را اعلام کرد",
+      "title_en": "US announces $400m investment in Australian rare earth mine",
+      "summary": "هدف از این قرارداد تضمین عرضه اسکاندیم است زیرا چین صادرات محصولات دفاعی را محدود می کند.",
+      "summary_fa": "هدف از این قرارداد تضمین عرضه اسکاندیم است زیرا چین صادرات محصولات دفاعی را محدود می کند.",
+      "summary_en": "Deal aims to secure scandium supply as China restricts exports for defence products.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 09:30:12 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "b59a8aaed1d9f8cad48f69a45c31589c",
       "title": "ردیف رم-مادرید: چگونه اسپانیا مسافرانی را که از ایتالیا وارد می شوند بررسی می کند",
       "title_fa": "ردیف رم-مادرید: چگونه اسپانیا مسافرانی را که از ایتالیا وارد می شوند بررسی می کند",
@@ -95534,6 +95660,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b3c7222a69bf1c90b61f270e5adbb688",
+      "title": "گرمای ایتالیا پیش از خورشید گرفتگی به اروپای غربی سرایت خواهد کرد",
+      "title_fa": "گرمای ایتالیا پیش از خورشید گرفتگی به اروپای غربی سرایت خواهد کرد",
+      "title_en": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "summary": "هشدارهای قرمز دمای بالا تا روز شنبه در بیشتر مناطق جنوبی و غربی ایتالیا به قوت خود باقی است.",
+      "summary_fa": "هشدارهای قرمز دمای بالا تا روز شنبه در بیشتر مناطق جنوبی و غربی ایتالیا به قوت خود باقی است.",
+      "summary_en": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
+      "link": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 09:02:19 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
