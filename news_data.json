@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 17:13:58",
-  "total_count": 7663,
+  "last_update": "2026-08-08 17:49:59",
+  "total_count": 7669,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,27 @@
       }
     },
     {
+      "id": "b29e90607bf5756d4d0c38fca00b570e",
+      "title": "عروسی در کلیسای جامع فونچال، اما نه کریستیانو و جورجینا، که صدها نفر را ناامید کرد.",
+      "title_fa": "عروسی در کلیسای جامع فونچال، اما نه کریستیانو و جورجینا، که صدها نفر را ناامید کرد.",
+      "title_en": "Wedding at Funchal cathedral, but not Cristiano and Georgina's, to the disappointment of hundreds",
+      "summary": "در حالی که روزنامه های بریتانیایی مدام داستان هایی درباره زمان و مکان ازدواج کریستیانو رونالدو و جورجینا رودریگز منتشر می کنند، طرفداران همیشه مشتاق هستند تا نگاهی اجمالی به مراسمی داشته باشند که مدام دست نیافتنی می شود.",
+      "summary_fa": "در حالی که روزنامه های بریتانیایی مدام داستان هایی درباره زمان و مکان ازدواج کریستیانو رونالدو و جورجینا رودریگز منتشر می کنند، طرفداران همیشه مشتاق هستند تا نگاهی اجمالی به مراسمی داشته باشند که مدام دست نیافتنی می شود.",
+      "summary_en": "As British tabloids keep spinning stories about when and where Cristiano Ronaldo and Georgina Rodríguez are getting married, fans are ever keener to catch a glimpse of a ceremony that keeps proving elusive.",
+      "link": "http://www.euronews.com/2026/08/08/wedding-at-funchal-cathedral-but-not-cristiano-and-georginas-to-the-disappointment-of-hund",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 19:45:30 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "dca124edd4b1e95f2cfe9fb7e57572b7",
       "title": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
       "title_fa": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
@@ -95492,6 +95513,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "b2d94bdb52c80313a3f05487fefa6580",
+      "title": "پس از اینکه امارات اعلام کرد یکی از کشتی‌هایش هدف حمله هوایی قرار گرفته است، ایران برای باز کردن تنگه هرمز شرایطی را تعیین می‌کند.",
+      "title_fa": "پس از اینکه امارات اعلام کرد یکی از کشتی‌هایش هدف حمله هوایی قرار گرفته است، ایران برای باز کردن تنگه هرمز شرایطی را تعیین می‌کند.",
+      "title_en": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "summary": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_fa": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_en": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 17:41:31 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0402cc8266253c531b000e10d11c62aa",
+      "title": "رئیس بهداشت غزه خواستار اقدام برای \"نجات\" دکتر ابو صفیه قبل از اینکه خیلی دیر شود",
+      "title_fa": "رئیس بهداشت غزه خواستار اقدام برای \"نجات\" دکتر ابو صفیه قبل از اینکه خیلی دیر شود",
+      "title_en": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+      "summary": "در میان گزارش‌های مربوط به شکنجه و کمبود مراقبت‌های پزشکی، ترس از جان حسام ابو صفیه که توسط اسرائیل بازداشت شده است، افزایش می‌یابد.",
+      "summary_fa": "در میان گزارش‌های مربوط به شکنجه و کمبود مراقبت‌های پزشکی، ترس از جان حسام ابو صفیه که توسط اسرائیل بازداشت شده است، افزایش می‌یابد.",
+      "summary_en": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 17:26:59 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "9dbe709c4773943942b7d311fbab0d2e",
+      "title": "هانتر بایدن می گوید سرطان جو بایدن گسترش بیشتری یافته و \"بسیار دردناک\" است.",
+      "title_fa": "هانتر بایدن می گوید سرطان جو بایدن گسترش بیشتری یافته و \"بسیار دردناک\" است.",
+      "title_en": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+      "summary": "هانتر بایدن گفت: \"سرطان گسترش یافته، به استخوان های او متاستاز داده و بیشتر شده است. این بسیار دردناک است. از بسیاری جهات بسیار ناتوان کننده است.\"",
+      "summary_fa": "هانتر بایدن گفت: \"سرطان گسترش یافته، به استخوان های او متاستاز داده و بیشتر شده است. این بسیار دردناک است. از بسیاری جهات بسیار ناتوان کننده است.\"",
+      "summary_en": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
+      "link": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 17:25:25 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2db2ae8e04bd1cb196eec6b927080291",
+      "title": "آتش سوزی های کانادا: آنچه در مورد آتش سوزی در بریتیش کلمبیا و انتاریو باید بدانید",
+      "title_fa": "آتش سوزی های کانادا: آنچه در مورد آتش سوزی در بریتیش کلمبیا و انتاریو باید بدانید",
+      "title_en": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "فعالیت آتش‌سوزی‌های جنگلی در بریتیش کلمبیا افزایش یافته است و هزاران نفر از دره اوکاناگان تخلیه شدند، چند هفته پس از آن که دود آتش‌سوزی در انتاریو ساحل شرقی را خفه کرد.",
+      "summary_fa": "فعالیت آتش‌سوزی‌های جنگلی در بریتیش کلمبیا افزایش یافته است و هزاران نفر از دره اوکاناگان تخلیه شدند، چند هفته پس از آن که دود آتش‌سوزی در انتاریو ساحل شرقی را خفه کرد.",
+      "summary_en": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+      "link": "https://www.nytimes.com/article/canada-wildfires-2026.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 17:24:14 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "ff65c1ecbabf99fd92a51876dac211f0",
+      "title": "بریتیش کلمبیا دستور تخلیه را پیش از آتش‌سوزی‌های سریع صادر می‌کند",
+      "title_fa": "بریتیش کلمبیا دستور تخلیه را پیش از آتش‌سوزی‌های سریع صادر می‌کند",
+      "title_en": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+      "summary": "مقامات به ساکنان هشدار می دهند که با گسترش سریع آتش سوزی های جنگلی در غرب کانادا آماده ترک خانه های خود باشند.",
+      "summary_fa": "مقامات به ساکنان هشدار می دهند که با گسترش سریع آتش سوزی های جنگلی در غرب کانادا آماده ترک خانه های خود باشند.",
+      "summary_en": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 17:14:09 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
