@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 20:11:42",
-  "total_count": 7684,
+  "last_update": "2026-08-08 20:50:54",
+  "total_count": 7689,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95471,6 +95471,111 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "62867d0647ecd499f43de439fc2e7f16",
+      "title": "چالش های پیش روی معاهده مکه چیست؟",
+      "title_fa": "چالش های پیش روی معاهده مکه چیست؟",
+      "title_en": "What are the challenges facing the Mecca agreement?",
+      "summary": "عربستان سعودی برای روابط دفاعی به ترکیه و پاکستان روی می آورد و این مسئله اتکای بیش از حد به ایالات متحده را به چالش می کشد.",
+      "summary_fa": "عربستان سعودی برای روابط دفاعی به ترکیه و پاکستان روی می آورد و این مسئله اتکای بیش از حد به ایالات متحده را به چالش می کشد.",
+      "summary_en": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 20:25:43 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5306bcc278ba1ca13810598997434053",
+      "title": "پاریس به سواران اسکوتر الکترونیکی می‌گوید که از وسایل ایمنی استفاده کنند یا جریمه شوند",
+      "title_fa": "پاریس به سواران اسکوتر الکترونیکی می‌گوید که از وسایل ایمنی استفاده کنند یا جریمه شوند",
+      "title_en": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "summary": "پلیس پایتخت فرانسه پس از افزایش شدید تصادفات منجر به مرگ، قوانین را برای سواران تشدید کرد.",
+      "summary_fa": "پلیس پایتخت فرانسه پس از افزایش شدید تصادفات منجر به مرگ، قوانین را برای سواران تشدید کرد.",
+      "summary_en": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 20:18:28 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "b0939ae9266667725b214f75115659a8",
+      "title": "نیروی دریایی می گوید 25 درصد زمان بیشتری را صرف نظارت بر کشتی های روسی در اطراف آب های بریتانیا می کند",
+      "title_fa": "نیروی دریایی می گوید 25 درصد زمان بیشتری را صرف نظارت بر کشتی های روسی در اطراف آب های بریتانیا می کند",
+      "title_en": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
+      "summary": "هشدار در مورد افزایش فعالیت به دلیل گذراندن 21 روز گشت زنی در ماه ژوئیه بر روی کشتی‌های مسکو در تنگه دوور و دریای شمال، نیروی دریایی سلطنتی نسبت به افزایش فعالیت روسیه در اطراف آب‌های بریتانیا پس از گذراندن 21 روز در ژوئیه بر کشتی‌های مسکو هشدار داد. دریای شمال. به خواندن ادامه دهید...",
+      "summary_fa": "هشدار در مورد افزایش فعالیت به دلیل گذراندن 21 روز گشت زنی در ماه ژوئیه بر روی کشتی‌های مسکو در تنگه دوور و دریای شمال، نیروی دریایی سلطنتی نسبت به افزایش فعالیت روسیه در اطراف آب‌های بریتانیا پس از گذراندن 21 روز در ژوئیه بر کشتی‌های مسکو هشدار داد. دریای شمال. به خواندن ادامه دهید...",
+      "summary_en": "Warning of increased activity as patrols spent 21 days in July shadowing Moscow’s ships in Dover Strait and North SeaThe Royal Navy has warned of increasing Russian activity around the UK’s waters after it spent 21 days in July monitoring Moscow’s ships.Naval operations to monitor Russian vessels increased by 25% last month compared with the previous year, with warships making repeated voyages through the strait of Dover and the North Sea. Continue reading...",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
+      "source": "The Guardian",
+      "published_at": "Sat, 08 Aug 2026 20:03:34 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b343ffd35e7f931485cbcbdd23da90ff491a8766/0_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=c28048c99de80df832288c3d2f310bc8",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f8e7258533bb4c37bee53e613956f1f1",
+      "title": "Centrelink علیرغم موافقت با چشم پوشی از معوقات قدیمی، به دنبال بدهی های بیش از 40 سال است.",
+      "title_fa": "Centrelink علیرغم موافقت با چشم پوشی از معوقات قدیمی، به دنبال بدهی های بیش از 40 سال است.",
+      "title_en": "Centrelink pursuing debts that are more than 40 years old despite agreeing to waive old arrears",
+      "summary": "مدافعان و نهادهای حقوقی می‌خواهند بدهی «خارج از محدوده» باشد، با توجه به اینکه تعیین صحت آن چقدر دشوار است. دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما، Centrelink در حال پیگیری ۴.۹۳ میلیارد دلار بدهی‌های پرداخت نشده است که قدیمی‌ترین آن به بیش از ۴۰ سال قبل برمی‌گردد، علی‌رغم موافقت دولت با اجرای فهرستی ۶ ساله برای بازیابی بدهی‌ها. سازمان عدالت اقتصادی استرالیا، خواهان پاک شدن بدهی‌ها است، در حالی که کارشناس برجسته رفاه استرالیا هشدار داده است که نمی‌توان اعتماد کرد که آیا مقدار هنگفت بدهی درست است یا خیر. به خواندن ادامه دهید...",
+      "summary_fa": "مدافعان و نهادهای حقوقی می‌خواهند بدهی «خارج از محدوده» باشد، با توجه به اینکه تعیین صحت آن چقدر دشوار است. دریافت ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما، Centrelink در حال پیگیری ۴.۹۳ میلیارد دلار بدهی‌های پرداخت نشده است که قدیمی‌ترین آن به بیش از ۴۰ سال قبل برمی‌گردد، علی‌رغم موافقت دولت با اجرای فهرستی ۶ ساله برای بازیابی بدهی‌ها. سازمان عدالت اقتصادی استرالیا، خواهان پاک شدن بدهی‌ها است، در حالی که کارشناس برجسته رفاه استرالیا هشدار داده است که نمی‌توان اعتماد کرد که آیا مقدار هنگفت بدهی درست است یا خیر. به خواندن ادامه دهید...",
+      "summary_en": "Advocates and legal bodies want the debt to be made ‘out of bounds’ given how hard it is to determine its accuracyGet our breaking news email, free app or daily news podcastCentrelink is pursuing $4.93bn in unpaid debts, with the oldest dating back more than 40 years, despite the government agreeing to implement a six-year statute of limitations on debt recovery.A growing list of advocates, including peak legal body Economic Justice Australia, want the debts wiped, while Australia’s leading welfare expert has warned it is impossible to trust whether the huge amount of debt is accurate. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/09/centrelink-pursuing-debts-that-are-more-than-40-years-old-despite-agreeing-to-waive-old-arrears",
+      "source": "The Guardian",
+      "published_at": "Sat, 08 Aug 2026 20:00:07 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5d9b54b514a101df9e6f966a10ca58641cf4ab6b/626_0_5715_4574/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=2510a1555c8be8f83426614268cf653b",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c7d56377f30ec22a7ce79504644cd42",
+      "title": "اپلیکیشن استخدام مهمان‌نواز، Supp، کارگران گیگ را به پیمانکاران فراخواند. برخی از کاربران می گویند که این کار منجر به کار معمولی و بدون حق می شود",
+      "title_fa": "اپلیکیشن استخدام مهمان‌نواز، Supp، کارگران گیگ را به پیمانکاران فراخواند. برخی از کاربران می گویند که این کار منجر به کار معمولی و بدون حق می شود",
+      "title_en": "Hospitality recruitment app Supp calls gig-workers contractors. Some users say it leads to casual work without entitlements",
+      "summary": "اختصاصی: کارشناسان حقوق کارگران «زنگ‌های هشدار» را در مورد برنامه‌هایی که به ABN برای مشاغلی نیاز دارند به صدا در می‌آورند که می‌گویند فاقد استقلال کارگری هستند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. سواران. ساپ که در سال 2017 در ملبورن راه اندازی شد، خود را به عنوان یک \"بازار شغل\" توصیف می کند، جایی که مشاغل مهمان نوازی می توانند شیفت های موجود را برای کارگران بالقوه با نرخ ساعتی تبلیغ کنند، و کارگران می توانند شغل موقت را تضمین کنند. این توسط کیت و کامرون رید، صاحبان Lune Croissanterie، که سهام مالی شرکت را حفظ کرده‌اند، اما دیگر در هیئت مدیره آن نیستند، ایجاد شد. به خواندن ادامه دهید...",
+      "summary_fa": "اختصاصی: کارشناسان حقوق کارگران «زنگ‌های هشدار» را در مورد برنامه‌هایی که به ABN برای مشاغلی نیاز دارند به صدا در می‌آورند که می‌گویند فاقد استقلال کارگری هستند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. سواران. ساپ که در سال 2017 در ملبورن راه اندازی شد، خود را به عنوان یک \"بازار شغل\" توصیف می کند، جایی که مشاغل مهمان نوازی می توانند شیفت های موجود را برای کارگران بالقوه با نرخ ساعتی تبلیغ کنند، و کارگران می توانند شغل موقت را تضمین کنند. این توسط کیت و کامرون رید، صاحبان Lune Croissanterie، که سهام مالی شرکت را حفظ کرده‌اند، اما دیگر در هیئت مدیره آن نیستند، ایجاد شد. به خواندن ادامه دهید...",
+      "summary_en": "Exclusive: Workers’ rights experts raise ‘alarm bells’ over app requiring ABNs for jobs they say lack worker autonomyGet our breaking news email, free app or daily news podcastConcerns have been raised that workers using an increasingly popular Australian hospitality gig-work app may be missing out on entitlements such as superannuation by being hired as “independent contractors”, similar to delivery riders.Launched in Melbourne in 2017, Supp describes itself as a “jobs marketplace”, where hospitality businesses can advertise available shifts to potential workers at an hourly rate, and where workers can secure ad-hoc employment. It was created by Kate and Cameron Reid, the owners of Lune Croissanterie, who maintain a financial stake in the company but are no longer on its board. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/aug/09/hospitality-recruitment-app-supp-gig-workers-contractors-casual-work-entitlements-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Sat, 08 Aug 2026 20:00:06 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5786ce34601a2ace77fcf4df0f3db736b363ab54/660_0_6598_5281/master/6598.jpg?width=140&quality=85&auto=format&fit=max&s=d765d05d6db38387a74a30713f3e53c4",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
