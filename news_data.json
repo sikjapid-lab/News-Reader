@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 11:21:37",
-  "total_count": 7574,
+  "last_update": "2026-08-08 11:52:08",
+  "total_count": 7586,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,10 +95453,52 @@
       }
     },
     {
+      "id": "f84141945b3f238b0a77a07f24bd0bb7",
+      "title": "حدود 34000 هوادار در کنسرت کانیه وست در ورزشگاه آلگاروه شرکت می کنند",
+      "title_fa": "حدود 34000 هوادار در کنسرت کانیه وست در ورزشگاه آلگاروه شرکت می کنند",
+      "title_en": "Around 34,000 fans attend Kanye West concert at Algarve Stadium",
+      "summary": "پس از لغو برنامه های نمایشی در بریتانیا، فرانسه و لهستان، این خواننده رپ آمریکایی سرانجام روز جمعه در پرتغال در ورزشگاه آلگاروه در حضور 34000 طرفدار اجرا کرد.",
+      "summary_fa": "پس از لغو برنامه های نمایشی در بریتانیا، فرانسه و لهستان، این خواننده رپ آمریکایی سرانجام روز جمعه در پرتغال در ورزشگاه آلگاروه در حضور 34000 طرفدار اجرا کرد.",
+      "summary_en": "After shows were cancelled in the UK, France and Poland, the American rapper finally performed in Portugal on Friday at the Algarve Stadium before 34,000 fans.",
+      "link": "http://www.euronews.com/culture/2026/08/08/around-34000-fans-attend-kanye-west-concert-at-algarve-stadium",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 13:22:40 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "981e200e6e0cfde9b215764725a9a7db",
       "title": "پهپاد ناشناس در حریم هوایی بلغارستان نزدیک مرز رومانی منفجر شد",
       "title_fa": "پهپاد ناشناس در حریم هوایی بلغارستان نزدیک مرز رومانی منفجر شد",
       "title_en": "Unidentified drone explodes in Bulgarian airspace, close to Romanian border",
+      "summary": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_fa": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_en": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/unidentified-drone-explodes-in-bulgarian-airspace-close-to-romanian-border",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 12:56:27 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48b32faa4ba90e12b83b2568a543a510",
+      "title": "یک پهپاد ناشناس در بلغارستان نزدیک به خط لوله اصلی گاز منفجر شد",
+      "title_fa": "یک پهپاد ناشناس در بلغارستان نزدیک به خط لوله اصلی گاز منفجر شد",
+      "title_en": "Unidentified drone explodes in Bulgaria, close to major gas pipeline",
       "summary": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
       "summary_fa": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
       "summary_en": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
@@ -95492,6 +95534,153 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "327422bc49bf0548e67189c40f8d93eb",
+      "title": "یک هفته رکوردشکنی برای آپشن ها باعث افزایش S&P 500 شد. سنج نوسانات نزدیک به 2026 است",
+      "title_fa": "یک هفته رکوردشکنی برای آپشن ها باعث افزایش S&P 500 شد. سنج نوسانات نزدیک به 2026 است",
+      "title_en": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "summary": "معیار گسترده بازار در این هفته به رکورد افزایش یافت و از فعالیت گزینه ها و VIX آرام تر بهره مند شد.",
+      "summary_fa": "معیار گسترده بازار در این هفته به رکورد افزایش یافت و از فعالیت گزینه ها و VIX آرام تر بهره مند شد.",
+      "summary_en": "The broad market benchmark soared to records this week, benefiting from options activity and a calmer VIX.",
+      "link": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 11:49:22 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2a2a0ed64ea89a54d515d0fc6b2b838",
+      "title": "خاورمیانه پس از آمریکا در حال شکل گیری است",
+      "title_fa": "خاورمیانه پس از آمریکا در حال شکل گیری است",
+      "title_en": "The post-American Middle East is beginning to take shape",
+      "summary": "پیمان بین عربستان سعودی، پاکستان و ترکیه گام دیگری به سوی معماری جدید امنیتی منطقه ای است.",
+      "summary_fa": "پیمان بین عربستان سعودی، پاکستان و ترکیه گام دیگری به سوی معماری جدید امنیتی منطقه ای است.",
+      "summary_en": "The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards a new regional security architecture.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 11:34:38 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "e45e2313b6d20b4387397a92651673c1",
+      "title": "HP OmniBook 5 عالی امروز 550 دلار از قیمت خرده‌فروشی‌اش تخفیف دارد",
+      "title_fa": "HP OmniBook 5 عالی امروز 550 دلار از قیمت خرده‌فروشی‌اش تخفیف دارد",
+      "title_en": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+      "summary": "لپ تاپ ارزان قیمت مورد علاقه من، HP OmniBook 5، دارای صفحه نمایش OLED است و با وجود اینکه در حال حاضر فقط 750 دلار است، عمر باتری بسیار خوبی دارد.",
+      "summary_fa": "لپ تاپ ارزان قیمت مورد علاقه من، HP OmniBook 5، دارای صفحه نمایش OLED است و با وجود اینکه در حال حاضر فقط 750 دلار است، عمر باتری بسیار خوبی دارد.",
+      "summary_en": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+      "link": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+      "source": "Wired",
+      "published_at": "Sat, 08 Aug 2026 11:34:00 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0d23c8154e619d70b6f8d4c7a1c6c7e8",
+      "title": "پس از تیراندازی مرگبار در خارج از بانکوک، خانواده ها اجساد را بیرون می آورند",
+      "title_fa": "پس از تیراندازی مرگبار در خارج از بانکوک، خانواده ها اجساد را بیرون می آورند",
+      "title_en": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+      "summary": "تایلند یکی از بالاترین نرخ های مالکیت اسلحه در آسیا را دارد.",
+      "summary_fa": "تایلند یکی از بالاترین نرخ های مالکیت اسلحه در آسیا را دارد.",
+      "summary_en": "Thailand has one of the highest rates of gun ownership in Asia.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 11:31:57 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0f169fbd4473b9226e8eb56787f20c48",
+      "title": "اولین وسیله نقلیه خودران در مریخ ثابت کرده است که موفقیت چشمگیری داشته است",
+      "title_fa": "اولین وسیله نقلیه خودران در مریخ ثابت کرده است که موفقیت چشمگیری داشته است",
+      "title_en": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "summary": "حدود 90 درصد مسافت طی شده توسط Perseverance مستقل بوده است.",
+      "summary_fa": "حدود 90 درصد مسافت طی شده توسط Perseverance مستقل بوده است.",
+      "summary_en": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 08 Aug 2026 11:30:48 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2379f579fcf3e343a84322bcd17a431",
+      "title": "در اینجا دلیل شکست وندی در جنگ برگر است",
+      "title_fa": "در اینجا دلیل شکست وندی در جنگ برگر است",
+      "title_en": "Here’s why Wendy’s is losing the burger wars",
+      "summary": "مدیر عامل جدید وندی در حالی که اذعان دارد که مسائل مربوط به کیفیت غذا و خدمات مشتریان را از خود دور کرده است، دست به ابتکار چرخشی می زند.",
+      "summary_fa": "مدیر عامل جدید وندی در حالی که اذعان دارد که مسائل مربوط به کیفیت غذا و خدمات مشتریان را از خود دور کرده است، دست به ابتکار چرخشی می زند.",
+      "summary_en": "Wendy’s new CEO is embarking on a turnaround initiative, while acknowledging that issues around food quality and service have turned customers away.",
+      "link": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 11:30:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-71445664",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8cb4e903f7b9a3a143a06c7371a86148",
+      "title": "زن برای مردش فریاد می زند در حالی که نیروهای استخدام کننده جنگ در اوکراین هجوم می آورند",
+      "title_fa": "زن برای مردش فریاد می زند در حالی که نیروهای استخدام کننده جنگ در اوکراین هجوم می آورند",
+      "title_en": "Woman screams for her man as Ukraine war recruiters pounce",
+      "summary": "ویدئوی ویروسی نگرانی‌ها را در مورد «مشغله‌سازی» اوکراین و سوءاستفاده ادعایی افسران استخدام افزایش می‌دهد.",
+      "summary_fa": "ویدئوی ویروسی نگرانی‌ها را در مورد «مشغله‌سازی» اوکراین و سوءاستفاده ادعایی افسران استخدام افزایش می‌دهد.",
+      "summary_en": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 11:29:44 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
       }
     },
     {
@@ -95576,6 +95765,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "653ccca345dad84ab8b29df967e44034",
+      "title": "لایحه شاخص ارزهای دیجیتال با وجود فشار 225 میلیون دلاری در سنای ایالات متحده متوقف شد",
+      "title_fa": "لایحه شاخص ارزهای دیجیتال با وجود فشار 225 میلیون دلاری در سنای ایالات متحده متوقف شد",
+      "title_en": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
+      "summary": "لابی برای تصویب اولویت اصلی در کنگره تلاش می کند، زیرا قانونگذاران بر سر قوانین اختلاف دارند",
+      "summary_fa": "لابی برای تصویب اولویت اصلی در کنگره تلاش می کند، زیرا قانونگذاران بر سر قوانین اختلاف دارند",
+      "summary_en": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
+      "link": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 08 Aug 2026 11:00:03 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F17cf3bd6-6f28-4620-b151-6ee0a60d0b7c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -96696,6 +96906,27 @@
       "title": "در حملات روسیه در نزدیکی پایتخت اوکراین سه نفر از جمله یک کودک کشته شدند",
       "title_fa": "در حملات روسیه در نزدیکی پایتخت اوکراین سه نفر از جمله یک کودک کشته شدند",
       "title_en": "Russian strikes near Ukrainian capital kill three, including child",
+      "summary": "این حمله در حالی صورت می‌گیرد که سنای آمریکا تحریم‌های جدید روسیه را تصویب کرده و کیف برای رهگیرهای دفاع هوایی درخواست می‌کند.",
+      "summary_fa": "این حمله در حالی صورت می‌گیرد که سنای آمریکا تحریم‌های جدید روسیه را تصویب کرده و کیف برای رهگیرهای دفاع هوایی درخواست می‌کند.",
+      "summary_en": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 04:18:45 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "3b090fafbfd457699cc6a21059c71c87",
+      "title": "حملات روسیه در نزدیکی پایتخت اوکراین چهار نفر از جمله یک کودک را کشت",
+      "title_fa": "حملات روسیه در نزدیکی پایتخت اوکراین چهار نفر از جمله یک کودک را کشت",
+      "title_en": "Russian strikes near Ukrainian capital kill four, including child",
       "summary": "این حمله در حالی صورت می‌گیرد که سنای آمریکا تحریم‌های جدید روسیه را تصویب کرده و کیف برای رهگیرهای دفاع هوایی درخواست می‌کند.",
       "summary_fa": "این حمله در حالی صورت می‌گیرد که سنای آمریکا تحریم‌های جدید روسیه را تصویب کرده و کیف برای رهگیرهای دفاع هوایی درخواست می‌کند.",
       "summary_en": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
@@ -141711,6 +141942,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "7f0cb72610d902b696abff4d3257c3c3",
+      "title": "تصویب قانون شفافیت در مورد دارایی های دیجیتال یک موضوع امنیت ملی است",
+      "title_fa": "تصویب قانون شفافیت در مورد دارایی های دیجیتال یک موضوع امنیت ملی است",
+      "title_en": "Passing the Clarity Act on digital assets is a matter of national security",
+      "summary": "اگر ایالات متحده شرایطی را تعیین نکند، فعالیت رمزارزها فراتر از قوانین و مجریان قانون آمریکا به مکان‌های خارجی تحت نظارت سبک مهاجرت خواهد کرد.",
+      "summary_fa": "اگر ایالات متحده شرایطی را تعیین نکند، فعالیت رمزارزها فراتر از قوانین و مجریان قانون آمریکا به مکان‌های خارجی تحت نظارت سبک مهاجرت خواهد کرد.",
+      "summary_en": "If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues",
+      "link": "https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318",
+      "source": "Financial Times",
+      "published_at": "Fri, 07 Aug 2026 17:00:06 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8fb326e-091e-4aa4-8099-b69ac48c4827.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
