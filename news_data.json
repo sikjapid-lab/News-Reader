@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 10:50:47",
-  "total_count": 7563,
+  "last_update": "2026-08-08 11:21:37",
+  "total_count": 7574,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,27 @@
       }
     },
     {
+      "id": "981e200e6e0cfde9b215764725a9a7db",
+      "title": "پهپاد ناشناس در حریم هوایی بلغارستان نزدیک مرز رومانی منفجر شد",
+      "title_fa": "پهپاد ناشناس در حریم هوایی بلغارستان نزدیک مرز رومانی منفجر شد",
+      "title_en": "Unidentified drone explodes in Bulgarian airspace, close to Romanian border",
+      "summary": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_fa": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_en": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/unidentified-drone-explodes-in-bulgarian-airspace-close-to-romanian-border",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 12:56:27 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "eaf603cd8397235108342960b6525a16",
       "title": "آخرین بولتن اخبار | 8 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 8 آگوست 2026 - ظهر",
@@ -95467,6 +95488,153 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "946f7e14e9a5b770bdfe8dd5b5450608",
+      "title": "موفقیت طوفان DeepMind دانشمندان هواشناسی را شگفت زده کرده است",
+      "title_fa": "موفقیت طوفان DeepMind دانشمندان هواشناسی را شگفت زده کرده است",
+      "title_en": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "summary": "مدل منبع باز WeatherNext می‌تواند پیش‌بینی‌های دقیقی با داده‌های آب و هوای با وضوح پایین‌تر انجام دهد.",
+      "summary_fa": "مدل منبع باز WeatherNext می‌تواند پیش‌بینی‌های دقیقی با داده‌های آب و هوای با وضوح پایین‌تر انجام دهد.",
+      "summary_en": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b1f8845748e175f90480d2bc36f7cab6",
+      "title": "بهترین لپ‌تاپ‌های گیمینگ (2026): Razer، Asus، Dell و غیره",
+      "title_fa": "بهترین لپ‌تاپ‌های گیمینگ (2026): Razer، Asus، Dell و غیره",
+      "title_en": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+      "summary": "شما هیچ لپ تاپ بازی قدیمی نمی خواهید. در اینجا برداشت من است که بر اساس صدها ساعت آزمایش انجام شده است.",
+      "summary_fa": "شما هیچ لپ تاپ بازی قدیمی نمی خواهید. در اینجا برداشت من است که بر اساس صدها ساعت آزمایش انجام شده است.",
+      "summary_en": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+      "link": "https://www.wired.com/story/best-gaming-laptops/",
+      "source": "Wired",
+      "published_at": "Sat, 08 Aug 2026 11:01:00 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c9a5a46daa83b3ff621cc03bc39721d5",
+      "title": "یمن به جنگ داخلی می پردازد، زیرا ثبات منطقه ای در تعادل است",
+      "title_fa": "یمن به جنگ داخلی می پردازد، زیرا ثبات منطقه ای در تعادل است",
+      "title_en": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+      "summary": "در حالی که خاورمیانه منتظر شنیدن اینکه آیا می توان برای بازگشایی تنگه هرمز به توافق رسید یا خیر، درگیری دولت یمن با شورشیان حوثی مورد حمایت ایران یک شبه تشدید شد.",
+      "summary_fa": "در حالی که خاورمیانه منتظر شنیدن اینکه آیا می توان برای بازگشایی تنگه هرمز به توافق رسید یا خیر، درگیری دولت یمن با شورشیان حوثی مورد حمایت ایران یک شبه تشدید شد.",
+      "summary_en": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 11:00:45 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-yemen-retaliation-qwvh/08int-yemen-retaliation-qwvh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "5ca651524ffd68147dd29655010dfafc",
+      "title": "اثر باند؟ چگونه MI6 ناظران جاسوسی در سراسر جهان را مجذوب خود می کند",
+      "title_fa": "اثر باند؟ چگونه MI6 ناظران جاسوسی در سراسر جهان را مجذوب خود می کند",
+      "title_en": "The Bond effect? How MI6 fascinates spy watchers around the world",
+      "summary": "ترسوهای بریتانیا از رتبه بندی نظرسنجی رضایت دارند. معادل فرانسوی آن، DGSE، پیچیدگی های درام تلویزیونی Le Bureau. این فیلم و برنامه‌های تلویزیونی ممکن است تخیلی باشند، اما نظرسنجی که توسط یک مجله فرانسوی انجام شد و آژانس جاسوسی بریتانیا را بالاتر از فرانسوی‌ها به عنوان شماره 1 در سراسر اروپا در این هفته قرار داد، اینطور نیست. L'Express، یک هفته نامه خبری، نظرسنجی به سبک یوروویژن از 60 جاسوس فعلی و سابق از سراسر قاره، به علاوه سیا و موساد اسرائیل انجام داد. از هر کدام خواسته شد تا پنج سازمان اطلاعاتی خارجی خود را به صورت مخفیانه رتبه بندی کنند. MI6 با 251 امتیاز بالاتر از DGSE با 169 امتیاز اول شد و سایر آژانس ها عقب تر بودند. ادامه مطلب...",
+      "summary_fa": "ترسوهای بریتانیا از رتبه بندی نظرسنجی رضایت دارند. معادل فرانسوی آن، DGSE، پیچیدگی های درام تلویزیونی Le Bureau. این فیلم و برنامه‌های تلویزیونی ممکن است تخیلی باشند، اما نظرسنجی که توسط یک مجله فرانسوی انجام شد و آژانس جاسوسی بریتانیا را بالاتر از فرانسوی‌ها به عنوان شماره 1 در سراسر اروپا در این هفته قرار داد، اینطور نیست. L'Express، یک هفته نامه خبری، نظرسنجی به سبک یوروویژن از 60 جاسوس فعلی و سابق از سراسر قاره، به علاوه سیا و موساد اسرائیل انجام داد. از هر کدام خواسته شد تا پنج سازمان اطلاعاتی خارجی خود را به صورت مخفیانه رتبه بندی کنند. MI6 با 251 امتیاز بالاتر از DGSE با 169 امتیاز اول شد و سایر آژانس ها عقب تر بودند. ادامه مطلب...",
+      "summary_en": "Britain’s spooks take quiet satisfaction from survey ranking Secret Intelligence Service Europe’s top espionage agency MI6 has the swagger of James Bond; its French equivalent, DGSE, the complexities of the television drama Le Bureau. The film and TV shows may be fictional, but a survey run by a French magazine that placed the British spy agency above the French as No 1 across all of Europe this week is not.L’Express, a news weekly, conducted a Eurovision-style poll of 60 current and former spies from across the continent, plus the CIA and Israel’s Mossad. Each was asked to rank their top five foreign intelligence agencies, in secret, naturally enough. MI6 was first with 251 points ahead of DGSE on 169, with other agencies trailing behind. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies",
+      "source": "The Guardian",
+      "published_at": "Sat, 08 Aug 2026 11:00:44 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/86981582763714b0d85cd7b666f6ba65de35e472/0_262_3312_2650/master/3312.jpg?width=140&quality=85&auto=format&fit=max&s=d64051c05a8556a0baa98f9dfb64aa5b",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4294fca3dafea91010cacc38fdbfe7da",
+      "title": "به گفته تحلیلگران، قرارداد اسپیس ایکس با انویدیا می تواند خبر بدی برای نئوکلودهایی مانند CoreWeave و Nebius باشد.",
+      "title_fa": "به گفته تحلیلگران، قرارداد اسپیس ایکس با انویدیا می تواند خبر بدی برای نئوکلودهایی مانند CoreWeave و Nebius باشد.",
+      "title_en": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
+      "summary": "به گفته برنشتاین، انویدیا می تواند اسپیس ایکس را در «نقطه اول خط» در عرضه محدود تراشه هایش قرار دهد.",
+      "summary_fa": "به گفته برنشتاین، انویدیا می تواند اسپیس ایکس را در «نقطه اول خط» در عرضه محدود تراشه هایش قرار دهد.",
+      "summary_en": "Nvidia could bump SpaceX to “the front of the line” when it comes to its limited supply of chips, according to Bernstein.",
+      "link": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 11:00:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-70952254",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e0703e884fb0a042f737d37e32b629f",
+      "title": "مراقبت های بهداشتی در حال فروپاشی یمن، بیماران را مجبور می کند به دنبال داروهای جایگزین باشند",
+      "title_fa": "مراقبت های بهداشتی در حال فروپاشی یمن، بیماران را مجبور می کند به دنبال داروهای جایگزین باشند",
+      "title_en": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
+      "summary": "بیمارانی در یمن که توانایی پرداخت هزینه های مراقبت های بهداشتی یا دسترسی به درمان مربوطه را ندارند، به طب جایگزین روی می آورند.",
+      "summary_fa": "بیمارانی در یمن که توانایی پرداخت هزینه های مراقبت های بهداشتی یا دسترسی به درمان مربوطه را ندارند، به طب جایگزین روی می آورند.",
+      "summary_en": "Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.",
+      "link": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 10:58:46 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "37dc12cf1d5d11ef5b09da02c88c28c1",
+      "title": "با خشک شدن دانوب اروپا، کشتی های غرق شده نازی ها از اعماق بیرون می آیند",
+      "title_fa": "با خشک شدن دانوب اروپا، کشتی های غرق شده نازی ها از اعماق بیرون می آیند",
+      "title_en": "Nazi shipwrecks emerge from the depths as Europe’s Danube dries up",
+      "summary": "مهمات منفجر نشده و یک موتورسیکلت نظامی نیز به دلیل شرایط گرما و خشکسالی بی سابقه پیدا شده است. سطح پایین آب در دانوب بقایای گذشته نازی اروپا را آشکار کرده است، با ده ها کشتی جنگی جنگ جهانی دوم که در طول خشکسالی شدید از بستر رودخانه بیرون آمدند. در وسط رودخانه، در مرز صربستان و رومانی، یک قله شکسته دیده می شود. زیر آب Other vessels were partly submerged, some still believed to be laden with weapons. ادامه مطلب...",
+      "summary_fa": "مهمات منفجر نشده و یک موتورسیکلت نظامی نیز به دلیل شرایط گرما و خشکسالی بی سابقه پیدا شده است. سطح پایین آب در دانوب بقایای گذشته نازی اروپا را آشکار کرده است، با ده ها کشتی جنگی جنگ جهانی دوم که در طول خشکسالی شدید از بستر رودخانه بیرون آمدند. در وسط رودخانه، در مرز صربستان و رومانی، یک قله شکسته دیده می شود. زیر آب Other vessels were partly submerged, some still believed to be laden with weapons. ادامه مطلب...",
+      "summary_en": "Unexploded ordnance and a military motorcycle also recovered owing to record heat and drought conditionsRecord-low water levels in the Danube have exposed remnants of Europe’s Nazi past, with dozens of second world war warships emerging from the riverbed during an intense drought.In the middle of the river on the Serbian and Romanian border, a broken-up hull was visible on a sandbank that is normally underwater. Other vessels were partly submerged, some still believed to be laden with weapons. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
+      "source": "The Guardian",
+      "published_at": "Sat, 08 Aug 2026 10:55:15 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/8027c1fdddf706a9e01ebcddb107c82840683794/264_0_2638_2111/master/2638.jpg?width=140&quality=85&auto=format&fit=max&s=109c582d253efd2bd5c417eb72fb8c66",
       "geo": {
         "lat": 50.8503,
         "lng": 4.3517,
@@ -96377,6 +96545,27 @@
       }
     },
     {
+      "id": "46cf91199a8dadebed78df1ac7cdb97e",
+      "title": "تفنگ گلوله، چوب و گاز اشک آور: چگونه پلیس هند راهپیمایی جوانان را متوقف کرد",
+      "title_fa": "تفنگ گلوله، چوب و گاز اشک آور: چگونه پلیس هند راهپیمایی جوانان را متوقف کرد",
+      "title_en": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+      "summary": "تحلیل نیویورک تایمز جزئیات سرکوب معترضان غیرمسلح در دهلی نو در 20 ژوئیه را شرح می دهد که خشم عمومی و اتهامات زور بیش از حد را برانگیخته است.",
+      "summary_fa": "تحلیل نیویورک تایمز جزئیات سرکوب معترضان غیرمسلح در دهلی نو در 20 ژوئیه را شرح می دهد که خشم عمومی و اتهامات زور بیش از حد را برانگیخته است.",
+      "summary_en": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.",
+      "link": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 05:21:06 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "41c1a919aa97f9e50bb496e39b43d4fa",
       "title": "اینفانتینو فیفا در کلمبیا حمایت کرد، جایی که در مراسم تحلیف رئیس جمهور شرکت کرد",
       "title_fa": "اینفانتینو فیفا در کلمبیا حمایت کرد، جایی که در مراسم تحلیف رئیس جمهور شرکت کرد",
@@ -96566,6 +96755,27 @@
       }
     },
     {
+      "id": "0befacebe48025ce52b10dfd66abe305",
+      "title": "در حالی که اوکراین به Wildberries حمله می کند، ثروتمندترین تاجر روسیه با بزرگترین آزمایش خود روبرو می شود",
+      "title_fa": "در حالی که اوکراین به Wildberries حمله می کند، ثروتمندترین تاجر روسیه با بزرگترین آزمایش خود روبرو می شود",
+      "title_en": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
+      "summary": "در حالی که اوکراین بارها به انبارهای سایت تجارت الکترونیک Wildberries حمله می کند، تاتیانا کیم، یکی از بنیانگذاران میلیاردر آن، با بزرگترین آزمایش خود روبرو می شود.",
+      "summary_fa": "در حالی که اوکراین بارها به انبارهای سایت تجارت الکترونیک Wildberries حمله می کند، تاتیانا کیم، یکی از بنیانگذاران میلیاردر آن، با بزرگترین آزمایش خود روبرو می شود.",
+      "summary_en": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
+      "link": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 04:01:50 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-russia-wildberries-01-lkft/08int-russia-wildberries-01-lkft-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "9d5ea3a97ce34855aba8b75427a2d054",
       "title": "تفنگ گلوله، چوب و گاز اشک آور: چگونه پلیس هند راهپیمایی جوانان را متوقف کرد",
       "title_fa": "تفنگ گلوله، چوب و گاز اشک آور: چگونه پلیس هند راهپیمایی جوانان را متوقف کرد",
@@ -96605,6 +96815,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "a0090058bdb27bb9c33fb3be580404b8",
+      "title": "مانند دراویش در ترکیه می چرخد، اما برای همه باز است",
+      "title_fa": "مانند دراویش در ترکیه می چرخد، اما برای همه باز است",
+      "title_en": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+      "summary": "صدها نفر در یک خلوت هفت روزه در حومه ترکیه شرکت کردند تا به دنبال تعالی از طریق سما، تمرین معنوی چرخیدن بودند.",
+      "summary_fa": "صدها نفر در یک خلوت هفت روزه در حومه ترکیه شرکت کردند تا به دنبال تعالی از طریق سما، تمرین معنوی چرخیدن بودند.",
+      "summary_en": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
+      "link": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 04:01:18 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
