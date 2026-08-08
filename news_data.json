@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 22:33:26",
-  "total_count": 7695,
+  "last_update": "2026-08-08 23:01:56",
+  "total_count": 7696,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95446,6 +95446,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/221209134855-sharing-the-spotlight-card-cnnheroes-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a22768c207ae5d9d22fab5595527d645",
+      "title": "پس از تحلیف رئیس‌جمهور تندرو کلمبیا، حمله با خودروی بمب‌گذاری شده به صدا در آمد",
+      "title_fa": "پس از تحلیف رئیس‌جمهور تندرو کلمبیا، حمله با خودروی بمب‌گذاری شده به صدا در آمد",
+      "title_en": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "summary": "پس از حمله مواد منفجره به بزرگراه پان آمریکن در جنوب غربی کشور، دولت وعده پاسخ سختی را می دهد.",
+      "summary_fa": "پس از حمله مواد منفجره به بزرگراه پان آمریکن در جنوب غربی کشور، دولت وعده پاسخ سختی را می دهد.",
+      "summary_en": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 22:22:36 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
