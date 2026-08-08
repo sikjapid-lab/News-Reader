@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 18:21:29",
-  "total_count": 7674,
+  "last_update": "2026-08-08 19:07:34",
+  "total_count": 7677,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95474,6 +95474,48 @@
       }
     },
     {
+      "id": "2e6907e83f92e0d54977fea8f26936cb",
+      "title": "استرالیا کانون انقراض سیاره است، اما یک حیوان بارقه‌ای از امید را ارائه می‌کند",
+      "title_fa": "استرالیا کانون انقراض سیاره است، اما یک حیوان بارقه‌ای از امید را ارائه می‌کند",
+      "title_en": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "summary": "این کشور خانه برخی از منحصر به فرد ترین گونه های جهان است - اما با سرعتی نگران کننده آنها را از دست می دهد.",
+      "summary_fa": "این کشور خانه برخی از منحصر به فرد ترین گونه های جهان است - اما با سرعتی نگران کننده آنها را از دست می دهد.",
+      "summary_en": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 19:00:22 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7201275eabed0d5fe2535c8fa8cc0c4f",
+      "title": "نگران آنچه دیگران برای بازنشستگی پس انداز کرده اند نباشید. در اینجا نحوه پیدا کردن شماره کامل خود آورده شده است.",
+      "title_fa": "نگران آنچه دیگران برای بازنشستگی پس انداز کرده اند نباشید. در اینجا نحوه پیدا کردن شماره کامل خود آورده شده است.",
+      "title_en": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+      "summary": "تعادل تخم مرغ لانه خود را با عددی که در واقع هیچ معنایی ندارد مقایسه نکنید. در عوض، این محاسبه را انجام دهید تا ببینید آیا در مسیر بازنشستگی هستید یا خیر.",
+      "summary_fa": "تعادل تخم مرغ لانه خود را با عددی که در واقع هیچ معنایی ندارد مقایسه نکنید. در عوض، این محاسبه را انجام دهید تا ببینید آیا در مسیر بازنشستگی هستید یا خیر.",
+      "summary_en": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+      "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 08 Aug 2026 18:37:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-85078535",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "dca124edd4b1e95f2cfe9fb7e57572b7",
       "title": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
       "title_fa": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
@@ -96647,6 +96689,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6f5aeacf8b7c512d8d3252c0b3bee415",
+      "title": "کی یف وعده تحقیق و تفحص را می دهد: پهپاد اوکراینی در نزدیکی مرز بین رومانی و بلغارستان منفجر شد",
+      "title_fa": "کی یف وعده تحقیق و تفحص را می دهد: پهپاد اوکراینی در نزدیکی مرز بین رومانی و بلغارستان منفجر شد",
+      "title_en": "Ukrainian drone explodes near border between Romania and Bulgaria, Kyiv promises inquiry",
+      "summary": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_fa": "نخست وزیر بلغارستان گفت که مقامات بلغارستانی و رومانیایی نتوانستند این پهپاد را هنگام عبور از حریم هوایی خود تحویل بگیرند.",
+      "summary_en": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/unidentified-drone-explodes-in-bulgarian-airspace-close-to-romanian-border",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 12:56:27 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "کی‌یف"
       }
     },
     {
