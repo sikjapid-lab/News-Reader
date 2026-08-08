@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 14:51:42",
-  "total_count": 7629,
+  "last_update": "2026-08-08 15:23:13",
+  "total_count": 7644,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95516,6 +95516,69 @@
       }
     },
     {
+      "id": "c8b460a48a104a47b0640ac225153799",
+      "title": "امارات می‌گوید یکی از کشتی‌های این کشور در حالی هدف قرار گرفت که تنش‌های آمریکا و ایران بر سر تنگه هرمز همچنان بالاست.",
+      "title_fa": "امارات می‌گوید یکی از کشتی‌های این کشور در حالی هدف قرار گرفت که تنش‌های آمریکا و ایران بر سر تنگه هرمز همچنان بالاست.",
+      "title_en": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_fa": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_en": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 15:16:41 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1cbc2807297cc620c49bf387e5dd012b",
+      "title": "طوفان دلفین قبل از اینکه چین را تحت تأثیر قرار دهد، اوکیناوای ژاپن را درنوردید",
+      "title_fa": "طوفان دلفین قبل از اینکه چین را تحت تأثیر قرار دهد، اوکیناوای ژاپن را درنوردید",
+      "title_en": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "طوفان برق حداقل 44000 ساختمان را در جزیره ژاپن قطع کرده و پنج نفر را مجروح کرده است.",
+      "summary_fa": "طوفان برق حداقل 44000 ساختمان را در جزیره ژاپن قطع کرده و پنج نفر را مجروح کرده است.",
+      "summary_en": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 15:15:17 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9119/live/ae1ce9c0-933b-11f1-a35f-039358cea467.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "549f46807eb2377f29f5e4b34641a2a5",
+      "title": "ایران فهرست مطالبات را منتشر کرد و امیدها به بازگشایی تنگه هرمز را کاهش داد",
+      "title_fa": "ایران فهرست مطالبات را منتشر کرد و امیدها به بازگشایی تنگه هرمز را کاهش داد",
+      "title_en": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "summary": "رئیس شورای عالی امنیت ملی گفت: این آبراه تا زمانی که آمریکا شرایط خاصی را محقق نکند بسته خواهد ماند.",
+      "summary_fa": "رئیس شورای عالی امنیت ملی گفت: این آبراه تا زمانی که آمریکا شرایط خاصی را محقق نکند بسته خواهد ماند.",
+      "summary_en": "The head of Iran’s Supreme National Security Council said that the waterway will remain closed until the United States meets certain conditions.",
+      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+      "source": "NY Times",
+      "published_at": "Sat, 08 Aug 2026 15:11:40 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "08f5d6e1d2c51985a9ae7e164b140e0e",
       "title": "گروه حزب تیزا آندراش باکا را برای ریاست جمهوری جدید مجارستان معرفی کرد",
       "title_fa": "گروه حزب تیزا آندراش باکا را برای ریاست جمهوری جدید مجارستان معرفی کرد",
@@ -95534,6 +95597,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8bb84fa1fd217faf8722cd04326d9a3a",
+      "title": "امارات می‌گوید ایران نفتکش ADNOC را در تنگه هرمز هدف قرار داد، بدون تلفات",
+      "title_fa": "امارات می‌گوید ایران نفتکش ADNOC را در تنگه هرمز هدف قرار داد، بدون تلفات",
+      "title_en": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "summary": "دولت های خلیج فارس و کشورهای عربی ایران را به دلیل حمله موشکی به نفتکش اماراتی محکوم کردند.",
+      "summary_fa": "دولت های خلیج فارس و کشورهای عربی ایران را به دلیل حمله موشکی به نفتکش اماراتی محکوم کردند.",
+      "summary_en": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 15:01:29 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0d2ef166d7b274d04e390f6860896a90",
+      "title": "فشار بزرگ بعدی در صنعت ETF؟ چرا با تداوم عدم قطعیت نرخ بهره، این دارایی های ریسکی در حال افزایش هستند",
+      "title_fa": "فشار بزرگ بعدی در صنعت ETF؟ چرا با تداوم عدم قطعیت نرخ بهره، این دارایی های ریسکی در حال افزایش هستند",
+      "title_en": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "summary": "تعهدات وام دارای وثیقه ممکن است به فشار بزرگ بعدی در صنعت صندوق های سرمایه گذاری قابل معامله تبدیل شود.",
+      "summary_fa": "تعهدات وام دارای وثیقه ممکن است به فشار بزرگ بعدی در صنعت صندوق های سرمایه گذاری قابل معامله تبدیل شود.",
+      "summary_en": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+      "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 15:00:01 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef7ce6b5414571a7adfd1910a15cdf66",
+      "title": "نخست‌وزیر بارزانی: اقلیم کردستان عراق می‌خواهد از درگیری‌های منطقه‌ای دور بماند",
+      "title_fa": "نخست‌وزیر بارزانی: اقلیم کردستان عراق می‌خواهد از درگیری‌های منطقه‌ای دور بماند",
+      "title_en": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+      "summary": "مسرور بارزانی در مصاحبه با الجزیره هرگونه \"فشار\" برای ورود به جنگ ایران را با وجود بیش از 1000 حمله رد کرد.",
+      "summary_fa": "مسرور بارزانی در مصاحبه با الجزیره هرگونه \"فشار\" برای ورود به جنگ ایران را با وجود بیش از 1000 حمله رد کرد.",
+      "summary_en": "In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 14:58:42 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -95754,6 +95880,27 @@
       "summary": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی جدید امضا کردند که پاسخ اسرائیل و پیامدهای آن را نامشخص می‌کند.",
       "summary_fa": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی جدید امضا کردند که پاسخ اسرائیل و پیامدهای آن را نامشخص می‌کند.",
       "summary_en": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain",
+      "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 13:42:06 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "8c38e8d19a56cce739ac32291953c89a",
+      "title": "اسراییل در حال بررسی پیمان عربستان، ترکیه و پاکستان با نزدیک شدن به انتخابات است",
+      "title_fa": "اسراییل در حال بررسی پیمان عربستان، ترکیه و پاکستان با نزدیک شدن به انتخابات است",
+      "title_en": "Israel mulls Saudi, Turkiye, Pakistan pact as elections loom",
+      "summary": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی جدید را امضا کردند و پاسخ اسرائیل و پیامدهای آن را نامشخص گذاشتند.",
+      "summary_fa": "عربستان سعودی، ترکیه و پاکستان یک پیمان دفاعی جدید را امضا کردند و پاسخ اسرائیل و پیامدهای آن را نامشخص گذاشتند.",
+      "summary_en": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain.",
       "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 08 Aug 2026 13:42:06 +0000",
@@ -96629,6 +96776,27 @@
       }
     },
     {
+      "id": "309d8806a79b1822b46201dd15015f0d",
+      "title": "شهاب سنگی که با سقف نیوجرسی برخورد کرد، سرنخ هایی از منشا حیات را نشان می دهد",
+      "title_fa": "شهاب سنگی که با سقف نیوجرسی برخورد کرد، سرنخ هایی از منشا حیات را نشان می دهد",
+      "title_en": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+      "summary": "یک شهاب سنگ نادر که از سقف نیوجرسی سقوط کرد حاوی شواهدی از مایعات نمکی باستانی، ترکیبات آلی و اسیدهای آمینه از یک سیارک ابتدایی است. شیمی بکر آن می‌تواند سرنخ‌های جدیدی در مورد اینکه چگونه سنگ‌های فضایی به تامین برخی از مواد مورد نیاز برای حیات زمین اولیه کمک کردند، ارائه دهد.",
+      "summary_fa": "یک شهاب سنگ نادر که از سقف نیوجرسی سقوط کرد حاوی شواهدی از مایعات نمکی باستانی، ترکیبات آلی و اسیدهای آمینه از یک سیارک ابتدایی است. شیمی بکر آن می‌تواند سرنخ‌های جدیدی در مورد اینکه چگونه سنگ‌های فضایی به تامین برخی از مواد مورد نیاز برای حیات زمین اولیه کمک کردند، ارائه دهد.",
+      "summary_en": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how space rocks helped supply early Earth with some of the ingredients needed for life.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 10:58:54 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8e0703e884fb0a042f737d37e32b629f",
       "title": "مراقبت های بهداشتی در حال فروپاشی یمن، بیماران را مجبور می کند به دنبال داروهای جایگزین باشند",
       "title_fa": "مراقبت های بهداشتی در حال فروپاشی یمن، بیماران را مجبور می کند به دنبال داروهای جایگزین باشند",
@@ -96860,6 +97028,27 @@
       }
     },
     {
+      "id": "12e5232c90c757a6f60f46628053ba09",
+      "title": "پیشرفت جدید پیل سوختی می تواند به مراکز داده تشنه انرژی کمک کند",
+      "title_fa": "پیشرفت جدید پیل سوختی می تواند به مراکز داده تشنه انرژی کمک کند",
+      "title_en": "New fuel cell breakthrough could help power energy-hungry data centers",
+      "summary": "طراحی نانوساختار کربن جدید به کاتالیزورهای پیل سوختی اجازه می دهد تا از مقادیر اندکی پلاتین استفاده کنند و در عین حال پایدار و کارآمد باقی بمانند. این پیشرفت می تواند به سلول های سوختی هیدروژنی کمک کند تا به روشی عملی تر برای تامین انرژی مراکز داده، وسایل نقلیه و سایر فناوری های انرژی بر تبدیل شوند.",
+      "summary_fa": "طراحی نانوساختار کربن جدید به کاتالیزورهای پیل سوختی اجازه می دهد تا از مقادیر اندکی پلاتین استفاده کنند و در عین حال پایدار و کارآمد باقی بمانند. این پیشرفت می تواند به سلول های سوختی هیدروژنی کمک کند تا به روشی عملی تر برای تامین انرژی مراکز داده، وسایل نقلیه و سایر فناوری های انرژی بر تبدیل شوند.",
+      "summary_en": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more practical way to power data centers, vehicles, and other energy-intensive technologies.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 10:09:02 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d0a6aa9eaf98ea6f77f4dad85197c92f",
       "title": "نشانه‌های بهبود اقتصادی در حالی که عدم اطمینان بیشتر وجود دارد",
       "title_fa": "نشانه‌های بهبود اقتصادی در حالی که عدم اطمینان بیشتر وجود دارد",
@@ -96944,6 +97133,27 @@
       }
     },
     {
+      "id": "6c10ccffcde6fa22061f5b0668e79bc9",
+      "title": "دانشمندان نشان می دهند که واقعاً برای محافظت از قلب خود به چه مقدار ورزش نیاز دارید",
+      "title_fa": "دانشمندان نشان می دهند که واقعاً برای محافظت از قلب خود به چه مقدار ورزش نیاز دارید",
+      "title_en": "Scientists reveal how much exercise you really need to protect your heart",
+      "summary": "انجام توصیه شده 150 دقیقه ورزش متوسط ​​تا شدید در هر هفته ممکن است فقط محافظت متوسطی در برابر حملات قلبی و سکته داشته باشد. یک مطالعه بزرگ نشان می دهد که مزایای قابل توجهی بیشتر ممکن است به حدود 560 تا 610 دقیقه در هفته نیاز داشته باشد - تقریباً 9 تا 10 ساعت پیاده روی سریع، دویدن، دوچرخه سواری یا فعالیت های مشابه.",
+      "summary_fa": "انجام توصیه شده 150 دقیقه ورزش متوسط ​​تا شدید در هر هفته ممکن است فقط محافظت متوسطی در برابر حملات قلبی و سکته داشته باشد. یک مطالعه بزرگ نشان می دهد که مزایای قابل توجهی بیشتر ممکن است به حدود 560 تا 610 دقیقه در هفته نیاز داشته باشد - تقریباً 9 تا 10 ساعت پیاده روی سریع، دویدن، دوچرخه سواری یا فعالیت های مشابه.",
+      "summary_en": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610 minutes a week—nearly 9 to 10 hours of brisk walking, running, cycling, or similar activity.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 09:49:02 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "10e71fa212b6f618d1aa72c8b69f2011",
       "title": "نیوکاسل می گوید که آنها \"نمی خواستند\" گیمارش را بفروشند، زیرا انتقال آرسنال در آینده نزدیک است.",
       "title_fa": "نیوکاسل می گوید که آنها \"نمی خواستند\" گیمارش را بفروشند، زیرا انتقال آرسنال در آینده نزدیک است.",
@@ -96978,6 +97188,27 @@
       "date_iso": "2026-08-08",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4a2e245f35bab946a7cdfdc38513a5be",
+      "title": "پروتئین قدیمی تر از گردش خون می تواند ایمونوتراپی سرطان را متحول کند",
+      "title_fa": "پروتئین قدیمی تر از گردش خون می تواند ایمونوتراپی سرطان را متحول کند",
+      "title_en": "A protein older than blood circulation could transform cancer immunotherapy",
+      "summary": "پروتئینی که مدت‌ها قبل از سیستم گردش خون انسان تکامل یافته است، ممکن است به درمان‌های قوی‌تر سرطان کمک کند. هنگامی که C3 در داخل تومورها تولید می شود، سلول های سرکوب کننده سیستم ایمنی را مسدود می کند و به ایمونوتراپی فرصت بهتری برای کار می دهد. محققان حتی توانستند این اثر را در تومورهای مقاوم بازسازی کنند و به طور قابل توجهی بقا را در موش ها بهبود بخشند.",
+      "summary_fa": "پروتئینی که مدت‌ها قبل از سیستم گردش خون انسان تکامل یافته است، ممکن است به درمان‌های قوی‌تر سرطان کمک کند. هنگامی که C3 در داخل تومورها تولید می شود، سلول های سرکوب کننده سیستم ایمنی را مسدود می کند و به ایمونوتراپی فرصت بهتری برای کار می دهد. محققان حتی توانستند این اثر را در تومورهای مقاوم بازسازی کنند و به طور قابل توجهی بقا را در موش ها بهبود بخشند.",
+      "summary_en": "A protein that evolved long before the human circulatory system may help unlock stronger cancer treatments. When C3 is produced inside tumors, it blocks immune-suppressing cells and gives immunotherapy a better chance to work. Researchers were even able to recreate this effect in resistant tumors, significantly improving survival in mice.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050702.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 09:31:21 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -97049,6 +97280,27 @@
       }
     },
     {
+      "id": "d249e56374b01d04430e268e4d40b52f",
+      "title": "این کریستال طلای کوچک می تواند فناوری کوانتومی را از انجماد عمیق خارج کند",
+      "title_fa": "این کریستال طلای کوچک می تواند فناوری کوانتومی را از انجماد عمیق خارج کند",
+      "title_en": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+      "summary": "دانشمندان اولین ماده کوانتومی را ایجاد کرده‌اند که می‌تواند حالت‌های کوانتومی مختلف نور را در دمای اتاق مرتب‌سازی و انتقال دهد و به طور بالقوه نیاز به سیستم‌های تبرید حجیم و فوق‌سرد را از بین ببرد. این \"متاکریستال\" فوق نازک که از یک لایه طلا حک شده با صدها ساختار میکروسکوپی ساخته شده است مانند فیلتری عمل می کند که انواع مختلف نور کوانتومی را در مسیرهای جداگانه هدایت می کند و در عین حال اطلاعاتی را که حمل می کنند حفظ می کند.",
+      "summary_fa": "دانشمندان اولین ماده کوانتومی را ایجاد کرده‌اند که می‌تواند حالت‌های کوانتومی مختلف نور را در دمای اتاق مرتب‌سازی و انتقال دهد و به طور بالقوه نیاز به سیستم‌های تبرید حجیم و فوق‌سرد را از بین ببرد. این \"متاکریستال\" فوق نازک که از یک لایه طلا حک شده با صدها ساختار میکروسکوپی ساخته شده است مانند فیلتری عمل می کند که انواع مختلف نور کوانتومی را در مسیرهای جداگانه هدایت می کند و در عین حال اطلاعاتی را که حمل می کنند حفظ می کند.",
+      "summary_en": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from a gold film carved with hundreds of microscopic structures, the ultrathin “metacrystal” acts like a filter that directs different kinds of quantum light along separate paths while preserving the information they carry.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 09:17:32 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3db56f3d688a0fa73841124e9ca3e5ec",
       "title": "سنای آمریکا تاد بلانچ را به عنوان دادستان کل ایالات متحده تایید کرد",
       "title_fa": "سنای آمریکا تاد بلانچ را به عنوان دادستان کل ایالات متحده تایید کرد",
@@ -97063,6 +97315,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf280afc-0d5c-4569-8a01-3010c1721caf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1f6242b3cbdc782ec2b561edc42f1eda",
+      "title": "خورشید پوشیده از گرداب های کوچکی است که قبلاً هرگز ندیده ایم",
+      "title_fa": "خورشید پوشیده از گرداب های کوچکی است که قبلاً هرگز ندیده ایم",
+      "title_en": "The sun is covered in tiny whirlpools we’ve never seen before",
+      "summary": "دانشمندان گرداب‌های پلاسمایی فوق‌العاده ریز را کشف کرده‌اند که در سطح خورشید می‌چرخند، برخی از آنها فقط ۲۰ کیلومتر عرض دارند. این گرداب‌هایی که قبلاً نامرئی بودند ممکن است میدان‌های مغناطیسی را بپیچانند و به ایجاد انرژی آزاد شده در فوران‌های کوچک خورشیدی به نام شعله‌های نانو کمک کنند. آنها همچنین ممکن است به گسترش میدان های مغناطیسی در جو خورشید بسیار سریعتر از آنچه مدل های فعلی توضیح دهند کمک کنند.",
+      "summary_fa": "دانشمندان گرداب‌های پلاسمایی فوق‌العاده ریز را کشف کرده‌اند که در سطح خورشید می‌چرخند، برخی از آنها فقط ۲۰ کیلومتر عرض دارند. این گرداب‌هایی که قبلاً نامرئی بودند ممکن است میدان‌های مغناطیسی را بپیچانند و به ایجاد انرژی آزاد شده در فوران‌های کوچک خورشیدی به نام شعله‌های نانو کمک کنند. آنها همچنین ممکن است به گسترش میدان های مغناطیسی در جو خورشید بسیار سریعتر از آنچه مدل های فعلی توضیح دهند کمک کنند.",
+      "summary_en": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy released in small solar eruptions called nanoflares. They may also help magnetic fields spread through the Sun’s atmosphere far faster than current models can explain.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 09:03:51 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -97230,6 +97503,27 @@
       "date_iso": "2026-08-08",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "553fdf6499afc03a87f86868c6fcbd88",
+      "title": "قطع کردن غذاهای شیرین باعث کاهش هوس یا بهبود سلامتی نمی شود",
+      "title_fa": "قطع کردن غذاهای شیرین باعث کاهش هوس یا بهبود سلامتی نمی شود",
+      "title_en": "Cutting sweet foods doesn’t curb cravings or improve health",
+      "summary": "تغییر میزان غذای شیرینی که مردم می خورند ممکن است میزان ولع یا لذت بردن از شیرینی را تغییر ندهد. در یک کارآزمایی شش ماهه، محققان دریافتند که افرادی که به رژیم‌های غذایی با شیرینی زیاد، کم یا متوسط ​​اختصاص داده شده‌اند، هیچ تفاوت معناداری در ترجیح آنها برای غذاهای شیرین، وزن بدن یا نشانگرهای مرتبط با دیابت و بیماری قلبی نشان نمی‌دهند. بسیاری از شرکت کنندگان نیز پس از پایان کارآزمایی به عادات غذایی قبلی خود بازگشتند.",
+      "summary_fa": "تغییر میزان غذای شیرینی که مردم می خورند ممکن است میزان ولع یا لذت بردن از شیرینی را تغییر ندهد. در یک کارآزمایی شش ماهه، محققان دریافتند که افرادی که به رژیم‌های غذایی با شیرینی زیاد، کم یا متوسط ​​اختصاص داده شده‌اند، هیچ تفاوت معناداری در ترجیح آنها برای غذاهای شیرین، وزن بدن یا نشانگرهای مرتبط با دیابت و بیماری قلبی نشان نمی‌دهند. بسیاری از شرکت کنندگان نیز پس از پایان کارآزمایی به عادات غذایی قبلی خود بازگشتند.",
+      "summary_en": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 08 Aug 2026 08:55:19 EDT",
+      "date_iso": "2026-08-08",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -149183,6 +149477,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed7c1f25b69d6b044a7d852898c4c9a9",
+      "title": "نوازنده و کارآفرین Tom Vek در حال ساخت یک پخش کننده موسیقی دیجیتال است، اما آن را یکپارچهسازی با سیستمعامل بنامید",
+      "title_fa": "نوازنده و کارآفرین Tom Vek در حال ساخت یک پخش کننده موسیقی دیجیتال است، اما آن را یکپارچهسازی با سیستمعامل بنامید",
+      "title_en": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "summary": "تام وک در سال 2005 با آلبومش \"ما صدا داریم\" وارد صحنه شد که امتیاز 7.6 را از سلیقه سازان آن روز در Pitchfork به دست آورد. نام تجاری جذاب و غیرقابل انکار او از رقص ایندیترونیکا باعث شد در The OC ظاهر شود و در موسیقی متن Grand Theft Auto IV قرار بگیرد. پیگیری او، تشنج اوقات فراغت، […]",
+      "summary_fa": "تام وک در سال 2005 با آلبومش \"ما صدا داریم\" وارد صحنه شد که امتیاز 7.6 را از سلیقه سازان آن روز در Pitchfork به دست آورد. نام تجاری جذاب و غیرقابل انکار او از رقص ایندیترونیکا باعث شد در The OC ظاهر شود و در موسیقی متن Grand Theft Auto IV قرار بگیرد. پیگیری او، تشنج اوقات فراغت، […]",
+      "summary_en": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, […]",
+      "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+      "source": "The Verge",
+      "published_at": "2026-08-08T11:00:00-04:00",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
