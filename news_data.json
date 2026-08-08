@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 16:40:47",
-  "total_count": 7656,
+  "last_update": "2026-08-08 17:13:58",
+  "total_count": 7663,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95495,6 +95495,48 @@
       }
     },
     {
+      "id": "ab5a80de16f9076970ff6cf8cb0c7eec",
+      "title": "صربستان و اوکراین متعهد به روابط اقتصادی نزدیک تر و چشم انداز تجارت آزاد هستند",
+      "title_fa": "صربستان و اوکراین متعهد به روابط اقتصادی نزدیک تر و چشم انداز تجارت آزاد هستند",
+      "title_en": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+      "summary": "صربستان می گوید که به بازسازی شهرهای اوکراین کمک خواهد کرد و با تعمیق همکاری دو کشور کمک خواهد کرد.",
+      "summary_fa": "صربستان می گوید که به بازسازی شهرهای اوکراین کمک خواهد کرد و با تعمیق همکاری دو کشور کمک خواهد کرد.",
+      "summary_en": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 17:05:17 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "e2f988b41626401b8738d1018fde37f0",
+      "title": "پیمان عربستان، پاکستان و ترکیه: سپر جدید یا سیگنال راهبردی؟",
+      "title_fa": "پیمان عربستان، پاکستان و ترکیه: سپر جدید یا سیگنال راهبردی؟",
+      "title_en": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+      "summary": "در این توافق نامه هیچ دشمنی ذکر نشده است، اما تحلیلگران می گویند ایران و شبکه منطقه ای آن در تفکر پشت آن نقش اساسی دارند.",
+      "summary_fa": "در این توافق نامه هیچ دشمنی ذکر نشده است، اما تحلیلگران می گویند ایران و شبکه منطقه ای آن در تفکر پشت آن نقش اساسی دارند.",
+      "summary_en": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 16:52:11 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "3a87c97b348d740fd582b79d981e2b50",
       "title": "ایالات متحده یک میلیارد دلار به کلمبیا در اولین روز ریاست جمهوری راستگرای جدید پیشنهاد می کند",
       "title_fa": "ایالات متحده یک میلیارد دلار به کلمبیا در اولین روز ریاست جمهوری راستگرای جدید پیشنهاد می کند",
@@ -95509,6 +95551,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b50e187335f0af392a45b151d077a362",
+      "title": "کدام ستاره ها باید در این فصل بدرخشند: رئال مادرید، بارسلونا، منچستریونایتد، پاری سن ژرمن",
+      "title_fa": "کدام ستاره ها باید در این فصل بدرخشند: رئال مادرید، بارسلونا، منچستریونایتد، پاری سن ژرمن",
+      "title_en": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+      "summary": "از لیگ برتر و لالیگا گرفته تا لیگ قهرمانان اروپا، کدام بازیکنان کلید فصل باشگاه هایشان را در دست دارند؟",
+      "summary_fa": "از لیگ برتر و لالیگا گرفته تا لیگ قهرمانان اروپا، کدام بازیکنان کلید فصل باشگاه هایشان را در دست دارند؟",
+      "summary_en": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs' season?",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 16:26:36 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -95593,6 +95656,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "86d49aafe0e37f2642cdaebd0574f1c0",
+      "title": "تماشا کنید: لحظه پرتاب تخم مرغ توسط نماینده اپوزیسیون به سمت نخست وزیر موقت کوزوو",
+      "title_fa": "تماشا کنید: لحظه پرتاب تخم مرغ توسط نماینده اپوزیسیون به سمت نخست وزیر موقت کوزوو",
+      "title_en": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "summary": "پس از پرتاب حداقل چهار تخم مرغ به سمت آلبین کورتی، نخست وزیر موقت کوزوو، قانونگذاران و افسران پلیس مجبور به مداخله شدند.",
+      "summary_fa": "پس از پرتاب حداقل چهار تخم مرغ به سمت آلبین کورتی، نخست وزیر موقت کوزوو، قانونگذاران و افسران پلیس مجبور به مداخله شدند.",
+      "summary_en": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 15:59:37 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e8a/live/f4567c00-933e-11f1-870d-5d08c49babb2.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -98722,6 +98806,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7bc0107f45479a636f4e5440601746f7",
+      "title": "مقیاس ویرانی ساکنان آتش‌زده شهر ایالات متحده را شوکه می‌کند",
+      "title_fa": "مقیاس ویرانی ساکنان آتش‌زده شهر ایالات متحده را شوکه می‌کند",
+      "title_en": "Scale of devastation shocks US city's fire-seasoned residents",
+      "summary": "یکی از ساکنان اسپوکین به بی‌بی‌سی می‌گوید که با شنیدن آتش‌سوزی از روی رودخانه، متوجه خطر شدید آن شد.",
+      "summary_fa": "یکی از ساکنان اسپوکین به بی‌بی‌سی می‌گوید که با شنیدن آتش‌سوزی از روی رودخانه، متوجه خطر شدید آن شد.",
+      "summary_en": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 00:51:16 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4d/live/41f52500-92a5-11f1-b2ab-0dd01740f9f6.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -141840,6 +141945,27 @@
       }
     },
     {
+      "id": "f44ca8d68924fef91dfe25ae68ebd33e",
+      "title": "تماشا کنید: بی بی سی از اینفانتینو می پرسد که آیا از ریاست فیفا استعفا می دهد یا خیر",
+      "title_fa": "تماشا کنید: بی بی سی از اینفانتینو می پرسد که آیا از ریاست فیفا استعفا می دهد یا خیر",
+      "title_en": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "summary": "رئیس هیئت حاکمه فوتبال پس از ناکام ماندن تلاش خود برای فروش سهام خصوصی در جام جهانی با درخواست های متعددی برای کناره گیری مواجه شده است.",
+      "summary_fa": "رئیس هیئت حاکمه فوتبال پس از ناکام ماندن تلاش خود برای فروش سهام خصوصی در جام جهانی با درخواست های متعددی برای کناره گیری مواجه شده است.",
+      "summary_en": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 21:24:17 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/cb908bb0-929b-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "52c09ae8041699dd6b8ae3326e74a38e",
       "title": "نخست‌وزیر تایلند پس از کشته شدن هشت نفر در تیراندازی متعهد شد که قوانین سخت‌گیرانه‌تری برای حمل سلاح وضع کند",
       "title_fa": "نخست‌وزیر تایلند پس از کشته شدن هشت نفر در تیراندازی متعهد شد که قوانین سخت‌گیرانه‌تری برای حمل سلاح وضع کند",
@@ -143177,6 +143303,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9ce2ccf76626d2455b0047d260fcda14",
+      "title": "آنچه تاکنون در مورد تیراندازی مرگبار تایلند می دانیم",
+      "title_fa": "آنچه تاکنون در مورد تیراندازی مرگبار تایلند می دانیم",
+      "title_en": "What we know so far about the deadly Thailand shooting",
+      "summary": "دست کم هفت نفر پس از تیراندازی یک پسر نوجوان به پدربزرگ و مادربزرگش قبل از تیراندازی به مدرسه ای در بانکوک کشته شدند.",
+      "summary_fa": "دست کم هفت نفر پس از تیراندازی یک پسر نوجوان به پدربزرگ و مادربزرگش قبل از تیراندازی به مدرسه ای در بانکوک کشته شدند.",
+      "summary_en": "At least seven people have died after a teenage boy shot his grandparents before opening fire on a school in Bangkok.",
+      "link": "https://www.bbc.co.uk/news/videos/c70glx1ww78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 17:17:36 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e5d/live/eed58fe0-926d-11f1-870d-5d08c49babb2.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
