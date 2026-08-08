@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 15:56:07",
-  "total_count": 7647,
+  "last_update": "2026-08-08 16:40:47",
+  "total_count": 7656,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,111 @@
       }
     },
     {
+      "id": "dca124edd4b1e95f2cfe9fb7e57572b7",
+      "title": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
+      "title_fa": "آتش سوزی بزرگ در تپه های بالای دریاچه گاردا: حداقل 200 ساکن و گردشگر تخلیه شدند",
+      "title_en": "Major wildfire in hills above Lake Garda: at least 200 residents and tourists evacuated",
+      "summary": "آتش‌سوزی عصر جمعه در کوه‌های بالای تیگناله رخ داد. امدادگران حدود 200 نفر را تخلیه کردند و در حال بررسی خانه های تعطیلات مورد استفاده گردشگران هستند.",
+      "summary_fa": "آتش‌سوزی عصر جمعه در کوه‌های بالای تیگناله رخ داد. امدادگران حدود 200 نفر را تخلیه کردند و در حال بررسی خانه های تعطیلات مورد استفاده گردشگران هستند.",
+      "summary_en": "A fire broke out on Friday evening in the mountains above Tignale. Rescuers evacuated about 200 people and are checking holiday homes used by tourists.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/major-wildfire-in-hills-above-lake-garda-at-least-200-residents-and-tourists-evacuated",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 18:34:41 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "99ce810463a44451f29a4dbbffe5d402",
+      "title": "آخرین بولتن اخبار | 8 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 8 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 8th, 2026 – Evening",
+      "summary": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 8 آگوست 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 8 آگوست 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 8th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "3a87c97b348d740fd582b79d981e2b50",
+      "title": "ایالات متحده یک میلیارد دلار به کلمبیا در اولین روز ریاست جمهوری راستگرای جدید پیشنهاد می کند",
+      "title_fa": "ایالات متحده یک میلیارد دلار به کلمبیا در اولین روز ریاست جمهوری راستگرای جدید پیشنهاد می کند",
+      "title_en": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "summary": "آبلاردو د لا اسپریلا از اولین سخنرانی خود برای وعده \"جنگ همه جانبه\" علیه آنچه او \"تروریسم مواد مخدر\" می نامد استفاده کرد.",
+      "summary_fa": "آبلاردو د لا اسپریلا از اولین سخنرانی خود برای وعده \"جنگ همه جانبه\" علیه آنچه او \"تروریسم مواد مخدر\" می نامد استفاده کرد.",
+      "summary_en": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 16:34:18 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fecba5a267bedc471d68b657f248cd73",
+      "title": "تهران می گوید آمریکا باید قبل از بازگشایی تنگه ایران، «رفتار خود را اصلاح کند».",
+      "title_fa": "تهران می گوید آمریکا باید قبل از بازگشایی تنگه ایران، «رفتار خود را اصلاح کند».",
+      "title_en": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
+      "summary": "یک مقام ارشد امنیتی از واشنگتن می خواهد که برای خسارات جنگ غرامت بپردازد",
+      "summary_fa": "یک مقام ارشد امنیتی از واشنگتن می خواهد که برای خسارات جنگ غرامت بپردازد",
+      "summary_en": "Senior security official wants Washington to pay compensation for war damage",
+      "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 08 Aug 2026 16:20:14 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59a3c45c-7e6f-46e9-a51d-dedd313f7756.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "9677fd45c9ddf5b99dc9b3d140b7dec0",
+      "title": "نماینده اپوزیسیون به سمت نخست وزیر کوزوو تخم مرغ پرتاب کرد",
+      "title_fa": "نماینده اپوزیسیون به سمت نخست وزیر کوزوو تخم مرغ پرتاب کرد",
+      "title_en": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "summary": "یک قانونگذار اپوزیسیون در یک جلسه پارلمان به سمت آلبین کورتی، نخست وزیر موقت، تخم مرغ پرتاب کرد.",
+      "summary_fa": "یک قانونگذار اپوزیسیون در یک جلسه پارلمان به سمت آلبین کورتی، نخست وزیر موقت، تخم مرغ پرتاب کرد.",
+      "summary_en": "An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 16:09:06 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "36a92033caeed9044852ab11a4e918e5",
       "title": "ووچیچ صربستان با میزبانی از زلنسکی با شکوه به بروکسل و مسکو پیام فرستاد.",
       "title_fa": "ووچیچ صربستان با میزبانی از زلنسکی با شکوه به بروکسل و مسکو پیام فرستاد.",
@@ -95495,6 +95600,27 @@
       }
     },
     {
+      "id": "762ebdeb11ec03d3528634306f2d28ac",
+      "title": "آنروا از بدو تولد با من بوده است، نمی توانم آینده ای را بدون آن تصور کنم",
+      "title_fa": "آنروا از بدو تولد با من بوده است، نمی توانم آینده ای را بدون آن تصور کنم",
+      "title_en": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "summary": "نهاد سازمان ملل بخشی از زندگی میلیون ها پناهنده فلسطینی بوده است. غزه پس از نسل کشی نمی تواند بدون آن کنار بیاید",
+      "summary_fa": "نهاد سازمان ملل بخشی از زندگی میلیون ها پناهنده فلسطینی بوده است. غزه پس از نسل کشی نمی تواند بدون آن کنار بیاید",
+      "summary_en": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+      "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 15:52:49 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "acdb3ed45ad1847929a466047f2dc103",
       "title": "خورخه پدر مسی در سن 68 سالگی پس از بیماری درگذشت",
       "title_fa": "خورخه پدر مسی در سن 68 سالگی پس از بیماری درگذشت",
@@ -95516,6 +95642,27 @@
       }
     },
     {
+      "id": "da8530c072365941f5b8ed72b875f4ba",
+      "title": "مدونا به ویلیام اوربیت، تهیه کننده «نابغه و دنیای ماورایی» ادای احترام می کند",
+      "title_fa": "مدونا به ویلیام اوربیت، تهیه کننده «نابغه و دنیای ماورایی» ادای احترام می کند",
+      "title_en": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "summary": "ملکه پاپ چندین بار در طول سال ها با Orbit کار کرد، به ویژه در آلبوم پرتو نور او که برنده جایزه گرمی شد.",
+      "summary_fa": "ملکه پاپ چندین بار در طول سال ها با Orbit کار کرد، به ویژه در آلبوم پرتو نور او که برنده جایزه گرمی شد.",
+      "summary_en": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 15:44:08 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f06/live/529a9080-933f-11f1-a35f-039358cea467.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a44bb5d37983a950c431f67e4f0f8410",
       "title": "غول آسانسور اوتیس می خواهد در یک بازار بی ثبات یک بازی تدافعی باشد. اول باید خودش را ثابت کند",
       "title_fa": "غول آسانسور اوتیس می خواهد در یک بازار بی ثبات یک بازی تدافعی باشد. اول باید خودش را ثابت کند",
@@ -95529,6 +95676,27 @@
       "date_iso": "2026-08-08",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7083a2315be66f1e7bda1556517cf23",
+      "title": "لبنان ژنرال سابق دوران اسد را «بازداشت» کرد و او را به سوریه تحویل داد",
+      "title_fa": "لبنان ژنرال سابق دوران اسد را «بازداشت» کرد و او را به سوریه تحویل داد",
+      "title_en": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
+      "summary": "منابع قضایی و امنیتی می گویند که یک ژنرال سابق سوری تحت تعقیب در یک سلول زندان بیروت، یک بازدید معمولی از سفارت را به همراه داشت.",
+      "summary_fa": "منابع قضایی و امنیتی می گویند که یک ژنرال سابق سوری تحت تعقیب در یک سلول زندان بیروت، یک بازدید معمولی از سفارت را به همراه داشت.",
+      "summary_en": "Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 15:42:03 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -96216,6 +96384,27 @@
       "summary": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف اکنون کشورهای ناتو را درگیر کرده است.",
       "summary_fa": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف اکنون کشورهای ناتو را درگیر کرده است.",
       "summary_en": "The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 12:30:52 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "56dd63b89e39ac987f91b0f5557ffd28",
+      "title": "پهپادهای رصد شده در بلغارستان و آلمان نگرانی‌ها را در مورد تشدید تنش‌های روسیه افزایش می‌دهند",
+      "title_fa": "پهپادهای رصد شده در بلغارستان و آلمان نگرانی‌ها را در مورد تشدید تنش‌های روسیه افزایش می‌دهند",
+      "title_en": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+      "summary": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف کشورهای ناتو را درگیر کرده است.",
+      "summary_fa": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف کشورهای ناتو را درگیر کرده است.",
+      "summary_en": "Drone incidents in Europe igniting fears that Moscow's war on Kyiv is entangling NATO nations.",
       "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 08 Aug 2026 12:30:52 +0000",
