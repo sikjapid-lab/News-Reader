@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 07:58:59",
-  "total_count": 7535,
+  "last_update": "2026-08-08 08:53:36",
+  "total_count": 7536,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95529,6 +95529,27 @@
       "date_iso": "2026-08-08",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5e1d4aed9e07eb6290392f93be7c1460",
+      "title": "رشید افغانستان در کوبیدن ODI ایرلند شش ویکت گرفت",
+      "title_fa": "رشید افغانستان در کوبیدن ODI ایرلند شش ویکت گرفت",
+      "title_en": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+      "summary": "نیروهای رشید خان در حالی که افغانستان در دومین بازی از سری پنج مسابقه ای ODI ایرلند را با 92 ران شکست داد، سقوط کرد.",
+      "summary_fa": "نیروهای رشید خان در حالی که افغانستان در دومین بازی از سری پنج مسابقه ای ODI ایرلند را با 92 ران شکست داد، سقوط کرد.",
+      "summary_en": "Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 08:06:35 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
