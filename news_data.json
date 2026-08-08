@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 12:37:34",
-  "total_count": 7600,
+  "last_update": "2026-08-08 13:31:57",
+  "total_count": 7612,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,111 @@
       }
     },
     {
+      "id": "ec8e5140e7eb61021c99bbe06e11e3c8",
+      "title": "بلاروس به جنگ روسیه برای آزادی اطلاعات پیوست",
+      "title_fa": "بلاروس به جنگ روسیه برای آزادی اطلاعات پیوست",
+      "title_en": "Belarus joins Russia’s war on freedom of information",
+      "summary": "تصمیم مبهم بلاروس برای ممنوع کردن وب‌سایت یورونیوز در قلمرو خود به دنبال مسدود کردن تمام محتوای یورونیوز توسط روسیه است، زیرا هر دو کشور همچنان به فشار بر رسانه‌ها ادامه می‌دهند.",
+      "summary_fa": "تصمیم مبهم بلاروس برای ممنوع کردن وب‌سایت یورونیوز در قلمرو خود به دنبال مسدود کردن تمام محتوای یورونیوز توسط روسیه است، زیرا هر دو کشور همچنان به فشار بر رسانه‌ها ادامه می‌دهند.",
+      "summary_en": "Belarus’ obscure decision to ban Euronews’ website on its territory follows Russia’s blocking of all Euronews content, as both nations continue to clamp down on the media.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/belarus-joins-russias-war-on-freedom-of-information",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 15:26:46 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "08f5d6e1d2c51985a9ae7e164b140e0e",
+      "title": "گروه حزب تیزا آندراش باکا را برای ریاست جمهوری جدید مجارستان معرفی کرد",
+      "title_fa": "گروه حزب تیزا آندراش باکا را برای ریاست جمهوری جدید مجارستان معرفی کرد",
+      "title_en": "Tisza Party group nominates András Baka for new Hungarian president",
+      "summary": "روز شنبه، حزب تیسا، که اکثریت قانون اساسی پارلمان را دارد، آندراس باکا را که توسط فیدز از دادگاه عالی برکنار شد، به عنوان رئیس جمهور انتخاب کرد.",
+      "summary_fa": "روز شنبه، حزب تیسا، که اکثریت قانون اساسی پارلمان را دارد، آندراس باکا را که توسط فیدز از دادگاه عالی برکنار شد، به عنوان رئیس جمهور انتخاب کرد.",
+      "summary_en": "On Saturday, the Tisza Party, which has a constitutional majority in Parliament, picked András Baka who was removed by Fidesz from the Supreme Court, to be elected president on Tuesday.",
+      "link": "http://www.euronews.com/my-europe/2026/08/08/tisza-party-group-nominates-andras-baka-for-new-hungarian-president",
+      "source": "EuroNews",
+      "published_at": "Sat, 08 Aug 2026 15:09:41 +0200",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "471b651fba08ff5d909508364458fe20",
+      "title": "واضح ترین تصویری که تاکنون از خورشید گرفته شده است، یک پدیده پنهان را آشکار می کند",
+      "title_fa": "واضح ترین تصویری که تاکنون از خورشید گرفته شده است، یک پدیده پنهان را آشکار می کند",
+      "title_en": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+      "summary": "این عکس که در نور مرئی گرفته شد، امکان مشاهده گرداب‌های کوچک پلاسمایی را که بیش از یک قرن پیش‌بینی شده بود را برای اولین بار ممکن کرد.",
+      "summary_fa": "این عکس که در نور مرئی گرفته شد، امکان مشاهده گرداب‌های کوچک پلاسمایی را که بیش از یک قرن پیش‌بینی شده بود را برای اولین بار ممکن کرد.",
+      "summary_en": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+      "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+      "source": "Wired",
+      "published_at": "Sat, 08 Aug 2026 13:29:54 +0000",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cae1c4a1404d74b354a533c6c7921909",
+      "title": "درآمد برکشایر در سه ماهه گذشته افزایش یافت و مدیر عامل شرکت گرگ آبل شروع به استقرار اندوخته های نقدی عظیم بافت کرده است.",
+      "title_fa": "درآمد برکشایر در سه ماهه گذشته افزایش یافت و مدیر عامل شرکت گرگ آبل شروع به استقرار اندوخته های نقدی عظیم بافت کرده است.",
+      "title_en": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "summary": "قدرت در کسب و کارهای انرژی، راه آهن و تولید بیش از آن است که نتایج ضعیف تر بیمه را جبران کند.",
+      "summary_fa": "قدرت در کسب و کارهای انرژی، راه آهن و تولید بیش از آن است که نتایج ضعیف تر بیمه را جبران کند.",
+      "summary_en": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+      "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 13:28:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ddb94fff084d637772f08291a0c90bdd",
+      "title": "تاد بلانچ، وکیل سابق ترامپ، به طور محدود به عنوان دادستان کل آمریکا تایید شد",
+      "title_fa": "تاد بلانچ، وکیل سابق ترامپ، به طور محدود به عنوان دادستان کل آمریکا تایید شد",
+      "title_en": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "summary": "این رای، وکیل دفاع جنایی سابق ترامپ را به عنوان بالاترین مقام مجری قانون کشور علیرغم مخالفت نادری از سوی برخی جمهوری خواهان، تثبیت می کند.",
+      "summary_fa": "این رای، وکیل دفاع جنایی سابق ترامپ را به عنوان بالاترین مقام مجری قانون کشور علیرغم مخالفت نادری از سوی برخی جمهوری خواهان، تثبیت می کند.",
+      "summary_en": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 13:23:16 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f84141945b3f238b0a77a07f24bd0bb7",
       "title": "حدود 34000 هوادار در کنسرت کانیه وست در ورزشگاه آلگاروه شرکت می کنند",
       "title_fa": "حدود 34000 هوادار در کنسرت کانیه وست در ورزشگاه آلگاروه شرکت می کنند",
@@ -95471,6 +95576,69 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "c08f691e91d549f8195a5497993e6e60",
+      "title": "امارات متحده عربی می گوید یکی از کشتی های این کشور هدف حمله موشکی قرار گرفته است زیرا تنش بین آمریکا و ایران بر سر تنگه هرمز همچنان بالاست.",
+      "title_fa": "امارات متحده عربی می گوید یکی از کشتی های این کشور هدف حمله موشکی قرار گرفته است زیرا تنش بین آمریکا و ایران بر سر تنگه هرمز همچنان بالاست.",
+      "title_en": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "summary": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_fa": "ارتش ایران تاکید کرد که این آبراه حیاتی تنها زمانی بازگشایی خواهد شد که آمریکا شرایط ایران را بپذیرد.",
+      "summary_en": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+      "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 13:06:30 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d07a779c80f3643a72c1d9b181b5322a",
+      "title": "برای بازنشستگان، ماندن در بورس بسیار مهم است. سوال ساختن یا شکستن چقدر نوردهی است",
+      "title_fa": "برای بازنشستگان، ماندن در بورس بسیار مهم است. سوال ساختن یا شکستن چقدر نوردهی است",
+      "title_en": "For retirees, staying in the stock market is critical. How much exposure is the make-or-break question",
+      "summary": "سرمایه گذاران باید در دوران بازنشستگی صحبت کنند، اما کنار گذاشتن سهام یک اشتباه بزرگ است.",
+      "summary_fa": "سرمایه گذاران باید در دوران بازنشستگی صحبت کنند، اما کنار گذاشتن سهام یک اشتباه بزرگ است.",
+      "summary_en": "Investors should be conversative in retirement, but abandoning equities is a big mistake.",
+      "link": "https://www.cnbc.com/2026/08/08/retirement-investing-equity-income-stocks.html",
+      "source": "CNBC",
+      "published_at": "Sat, 08 Aug 2026 13:00:01 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6a9d8cd0431bcbf7b30eeb800a3e815d",
+      "title": "گرگ آبل بالاخره انباشت نقدی بافت را به کار انداخت",
+      "title_fa": "گرگ آبل بالاخره انباشت نقدی بافت را به کار انداخت",
+      "title_en": "Greg Abel finally puts Buffett’s cash pile to work",
+      "summary": "رئیس برکشایر هاتاوی با وارد کردن 20 میلیارد دلار خالص به بازار سهام به بیش از سه سال فروش خود پایان داد.",
+      "summary_fa": "رئیس برکشایر هاتاوی با وارد کردن 20 میلیارد دلار خالص به بازار سهام به بیش از سه سال فروش خود پایان داد.",
+      "summary_en": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks",
+      "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 08 Aug 2026 12:57:56 GMT",
+      "date_iso": "2026-08-08",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc018b92d-944a-443b-b7a7-22b09e66c2fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -95516,6 +95684,48 @@
       }
     },
     {
+      "id": "e4ca620b9430d299dc7008caa0a7ca82",
+      "title": "«طبل سخنگو» ساحل عاج پس از 110 سال به روستای زادگاه خود باز می گردد",
+      "title_fa": "«طبل سخنگو» ساحل عاج پس از 110 سال به روستای زادگاه خود باز می گردد",
+      "title_en": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+      "summary": "\"طبل سخنگو\" ساحل عاج پس از 110 سال به روستای زادگاه خود باز می گردد",
+      "summary_fa": "\"طبل سخنگو\" ساحل عاج پس از 110 سال به روستای زادگاه خود باز می گردد",
+      "summary_en": "Ivory Coast's 'talking drum' returns to home village after 110 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 12:52:04 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe58dbc5c76b764e7adb674ed374027c",
+      "title": "پهپادهای رصد شده در بلغارستان و آلمان نگرانی‌ها را در مورد تشدید تنش روسیه برانگیخته است",
+      "title_fa": "پهپادهای رصد شده در بلغارستان و آلمان نگرانی‌ها را در مورد تشدید تنش روسیه برانگیخته است",
+      "title_en": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "summary": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف اکنون کشورهای ناتو را درگیر کرده است.",
+      "summary_fa": "حوادث هواپیماهای بدون سرنشین در اروپا این نگرانی را برانگیخته است که جنگ مسکو علیه کیف اکنون کشورهای ناتو را درگیر کرده است.",
+      "summary_en": "The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.",
+      "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 12:30:52 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "113eb97668b42e68c47f49a5bc092cc3",
       "title": "دوربین بدنه پلیس و دوربین مداربسته تیراندازی در مرکز خرید آیداهو را در حین باز شدن شکار می کند",
       "title_fa": "دوربین بدنه پلیس و دوربین مداربسته تیراندازی در مرکز خرید آیداهو را در حین باز شدن شکار می کند",
@@ -95530,6 +95740,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "537244244c93c8a66d30134836fca204",
+      "title": "مرگ کلارک مهاجم NBA به دلیل اثرات مواد مخدر",
+      "title_fa": "مرگ کلارک مهاجم NBA به دلیل اثرات مواد مخدر",
+      "title_en": "NBA forward Clarke's death due to effects of drugs",
+      "summary": "مقامات پزشکی لس آنجلس فاش کردند که مرگ براندون کلارک، مهاجم ممفیس گریزلیز به دلیل اثرات هروئین و کوکائین بود.",
+      "summary_fa": "مقامات پزشکی لس آنجلس فاش کردند که مرگ براندون کلارک، مهاجم ممفیس گریزلیز به دلیل اثرات هروئین و کوکائین بود.",
+      "summary_en": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 08 Aug 2026 12:05:04 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a4/live/9faa1ba0-9323-11f1-be7f-7379a19ef5b2.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -140552,6 +140783,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "374da16a6a5b3fa52262ccc415ecdd30",
+      "title": "هانتر بایدن به بی بی سی گفت که عفو او برای ایالات متحده یا میراث پدرش \"خوب\" نبود",
+      "title_fa": "هانتر بایدن به بی بی سی گفت که عفو او برای ایالات متحده یا میراث پدرش \"خوب\" نبود",
+      "title_en": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+      "summary": "پسر رئیس‌جمهور سابق در مصاحبه‌ای با بی‌بی‌سی، هرگونه علاقه به نامزدی را رد می‌کند و می‌گوید سرطان پدرش شیوع پیدا کرده است.",
+      "summary_fa": "پسر رئیس‌جمهور سابق در مصاحبه‌ای با بی‌بی‌سی، هرگونه علاقه به نامزدی را رد می‌کند و می‌گوید سرطان پدرش شیوع پیدا کرده است.",
+      "summary_en": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 07 Aug 2026 22:07:00 GMT",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/def7/live/2d2fe210-92fd-11f1-b2ab-0dd01740f9f6.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
