@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-08 20:50:54",
-  "total_count": 7689,
+  "last_update": "2026-08-08 21:22:08",
+  "total_count": 7692,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -95453,6 +95453,27 @@
       }
     },
     {
+      "id": "b10663f2ca572eac102540814cbf5808",
+      "title": "ایران می‌گوید توافق با عمان نزدیک است - اما خواسته‌های این کشور باز شدن هرمز را نامشخص می‌کند",
+      "title_fa": "ایران می‌گوید توافق با عمان نزدیک است - اما خواسته‌های این کشور باز شدن هرمز را نامشخص می‌کند",
+      "title_en": "Iran says deal with Oman is close — but its demands leave Hormuz opening uncertain",
+      "summary": "تهران بر پرداخت غرامت و لغو تحریم ها، از جمله امتیازات دیگر از سوی آمریکا، به عنوان شرط بازگشایی تنگه پافشاری می کند.",
+      "summary_fa": "تهران بر پرداخت غرامت و لغو تحریم ها، از جمله امتیازات دیگر از سوی آمریکا، به عنوان شرط بازگشایی تنگه پافشاری می کند.",
+      "summary_en": "Tehran insists on compensation and the lifting of sanctions, among other concessions from the U.S., as a condition for reopening the strait.",
+      "link": "https://www.washingtonpost.com/world/2026/08/08/iran-says-deal-with-oman-is-close-its-demands-leave-hormuz-opening-uncertain/",
+      "source": "Washington Post",
+      "published_at": "Sat, 08 Aug 2026 21:17:40 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "ef35e4331f265a8a352a00ca27370608",
       "title": "نیروهای مسلح آلمان اعلام کردند که دو پهپاد در حال پرواز بر فراز پایگاه نظامی در بخش غربی این کشور هستند.",
       "title_fa": "نیروهای مسلح آلمان اعلام کردند که دو پهپاد در حال پرواز بر فراز پایگاه نظامی در بخش غربی این کشور هستند.",
@@ -95471,6 +95492,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "28d8d14d56a818b4313c36e0d93395b8",
+      "title": "وکیل سابق ترامپ اکنون دادستان کل است",
+      "title_fa": "وکیل سابق ترامپ اکنون دادستان کل است",
+      "title_en": "Trump’s Former Lawyer Is Now Attorney General",
+      "summary": "تاد بلانچ، وکیل سابق رئیس جمهور ترامپ، اکنون دادستان کل ایالات متحده است.",
+      "summary_fa": "تاد بلانچ، وکیل سابق رئیس جمهور ترامپ، اکنون دادستان کل ایالات متحده است.",
+      "summary_en": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 08 Aug 2026 21:04:54 +0000",
+      "date_iso": "2026-08-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -150380,6 +150422,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cedbf3e9fa35605ae8d0c299c7d85234",
+      "title": "X برنامه اشتراک درآمد خود را با «جوایز محتوای اصلی» جایگزین می‌کند",
+      "title_fa": "X برنامه اشتراک درآمد خود را با «جوایز محتوای اصلی» جایگزین می‌کند",
+      "title_en": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "summary": "X در حال پایان دادن به برنامه بحث‌برانگیز تقسیم درآمد خود برای سازندگان محتوا است، برنامه‌ای که در دوره ایلان ماسک بازنگری‌های متعددی داشته است. به جای خود، برنامه جدید پاداش محتوای اصلی را در 8 سپتامبر راه اندازی می کند. برای واجد شرایط بودن، سازندگان باید حداقل 500 دنبال کننده تأیید شده و حداقل 500000 نمایش خط زمانی صفحه اصلی از کاربران تأیید شده در […]",
+      "summary_fa": "X در حال پایان دادن به برنامه بحث‌برانگیز تقسیم درآمد خود برای سازندگان محتوا است، برنامه‌ای که در دوره ایلان ماسک بازنگری‌های متعددی داشته است. به جای خود، برنامه جدید پاداش محتوای اصلی را در 8 سپتامبر راه اندازی می کند. برای واجد شرایط بودن، سازندگان باید حداقل 500 دنبال کننده تأیید شده و حداقل 500000 نمایش خط زمانی صفحه اصلی از کاربران تأیید شده در […]",
+      "summary_en": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
+      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "source": "The Verge",
+      "published_at": "2026-08-08T17:15:12-04:00",
+      "date_iso": "2026-08-08",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
