@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 13:12:57",
-  "total_count": 7824,
+  "last_update": "2026-08-09 14:01:53",
+  "total_count": 7836,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,69 @@
       }
     },
     {
+      "id": "90bf9f815f28a8a366bcfe21c94af976",
+      "title": "بیش از یک میلیون نفر به دلیل طوفان دلفین در چین تخلیه شدند",
+      "title_fa": "بیش از یک میلیون نفر به دلیل طوفان دلفین در چین تخلیه شدند",
+      "title_en": "Over 1 million evacuated as Typhoon Dolphin hits China",
+      "summary": "پس از آنکه طوفان باعث لغو بیش از 1000 پرواز، 1 میلیون تخلیه و هشدار سطح بالا شد، مقامات هواشناسی گفتند که طوفان دلفین روز یکشنبه به شرق چین پرجمعیت رسید.",
+      "summary_fa": "پس از آنکه طوفان باعث لغو بیش از 1000 پرواز، 1 میلیون تخلیه و هشدار سطح بالا شد، مقامات هواشناسی گفتند که طوفان دلفین روز یکشنبه به شرق چین پرجمعیت رسید.",
+      "summary_en": "Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, 1 million evacuations, and a top-level alert.",
+      "link": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 15:56:29 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "dfa6bc197741963a85d2bfa4944adebf",
+      "title": "13 کشته در اوکراین و 90 زخمی در پی تشدید بمباران شبانه روسیه در شهرهای اوکراین",
+      "title_fa": "13 کشته در اوکراین و 90 زخمی در پی تشدید بمباران شبانه روسیه در شهرهای اوکراین",
+      "title_en": "13 killed in Ukraine and 90 injured as Russia intensifies overnight bombardment campaign of Ukrainian cities",
+      "summary": "در جریان حملات روسیه در پی تشدید بمباران شهرهای اوکراین توسط کرملین، 13 نفر کشته و 90 نفر دیگر زخمی شدند. در همین حال، مسکو می گوید پنج نفر در حملات هواپیماهای بدون سرنشین اوکراینی که شهرهای روسیه را هدف قرار دادند، کشته شدند.",
+      "summary_fa": "در جریان حملات روسیه در پی تشدید بمباران شهرهای اوکراین توسط کرملین، 13 نفر کشته و 90 نفر دیگر زخمی شدند. در همین حال، مسکو می گوید پنج نفر در حملات هواپیماهای بدون سرنشین اوکراینی که شهرهای روسیه را هدف قرار دادند، کشته شدند.",
+      "summary_en": "13 people were killed and some 90 others were wounded over the past 24 hours as Russian attacks as the Kremlin intensifies its bombardment of Ukrainian cities. Meanwhile, Moscow says five people were killed in Ukrainian drone attacks targeting Russian cities.",
+      "link": "http://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 15:29:24 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "ab0a0c82552cb9414b64a64fee0883d5",
+      "title": "اسرائیل طرح آتش‌بس آمریکا برای غزه را که توسط حماس پذیرفته شده بود، «رد» کرد",
+      "title_fa": "اسرائیل طرح آتش‌بس آمریکا برای غزه را که توسط حماس پذیرفته شده بود، «رد» کرد",
+      "title_en": "Israel 'rejects' the US ceasefire plan for Gaza accepted by Hamas",
+      "summary": "بنیامین نتانیاهو، نخست وزیر اسرائیل در جلسه کابینه گفت ارتش تا زمانی که حماس واقعا خلع سلاح نشود، عقب نشینی نخواهد کرد و طرح آتش بس را لغو کرد.",
+      "summary_fa": "بنیامین نتانیاهو، نخست وزیر اسرائیل در جلسه کابینه گفت ارتش تا زمانی که حماس واقعا خلع سلاح نشود، عقب نشینی نخواهد کرد و طرح آتش بس را لغو کرد.",
+      "summary_en": "At a cabinet meeting, Israeli Prime Minister Benjamin Netanyahu said the army would make 'no withdrawal until Hamas is truly disarmed,' scrapping the ceasefire plan.",
+      "link": "http://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 15:25:10 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "8ac84dc82fad638253d3f109e03fac8a",
       "title": "مهمانی در بستر خشک رودخانه دانوب: بسیاری آن را یک فاجعه طبیعی می نامند",
       "title_fa": "مهمانی در بستر خشک رودخانه دانوب: بسیاری آن را یک فاجعه طبیعی می نامند",
@@ -86294,6 +86357,153 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1a823fc7a5be0f3568100257d76b1f23",
+      "title": "کارشناس می‌گوید 5 «قانونی» که والدین‌تان به شما یاد داده‌اند و به‌گفته‌ی کارشناس، کارتان را خراب می‌کنند، مانند «همیشه قدردان باشید».",
+      "title_fa": "کارشناس می‌گوید 5 «قانونی» که والدین‌تان به شما یاد داده‌اند و به‌گفته‌ی کارشناس، کارتان را خراب می‌کنند، مانند «همیشه قدردان باشید».",
+      "title_en": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
+      "summary": "ملودی وایلدینگ، مربی اجرایی، نویسنده کتاب «Managing Up» می‌گوید: «توصیه‌های شغلی با نیت خوب که از سنین جوانی جذب می‌شوند، می‌توانند علیه شما کارساز باشند».",
+      "summary_fa": "ملودی وایلدینگ، مربی اجرایی، نویسنده کتاب «Managing Up» می‌گوید: «توصیه‌های شغلی با نیت خوب که از سنین جوانی جذب می‌شوند، می‌توانند علیه شما کارساز باشند».",
+      "summary_en": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+      "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 13:34:01 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3164b07479df9fe05f1d2f45614158a4",
+      "title": "بارزانی می گوید با افزایش تنش های منطقه ای کردستان عراق خواهان صلح است",
+      "title_fa": "بارزانی می گوید با افزایش تنش های منطقه ای کردستان عراق خواهان صلح است",
+      "title_en": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "summary": "بارزانی می گوید با افزایش تنش های منطقه ای کردستان عراق خواهان صلح است",
+      "summary_fa": "بارزانی می گوید با افزایش تنش های منطقه ای کردستان عراق خواهان صلح است",
+      "summary_en": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:28:55 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6cfac82cce3d12b176da90a79213809",
+      "title": "«فقیر ثروتمند»: افزایش قیمت مواد غذایی به خانواده‌های ایرانی آسیب می‌زند",
+      "title_fa": "«فقیر ثروتمند»: افزایش قیمت مواد غذایی به خانواده‌های ایرانی آسیب می‌زند",
+      "title_en": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "summary": "ایرانیان از همه اقشار زیر بار تورم فزاینده و فشار جنگ دست و پنجه نرم می کنند.",
+      "summary_fa": "ایرانیان از همه اقشار زیر بار تورم فزاینده و فشار جنگ دست و پنجه نرم می کنند.",
+      "summary_en": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+      "link": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:23:05 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6a9984515de78dfc4ca8e80f433f6512",
+      "title": "نتانیاهو طرح هیئت صلح ترامپ برای غزه را رد کرد",
+      "title_fa": "نتانیاهو طرح هیئت صلح ترامپ برای غزه را رد کرد",
+      "title_en": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+      "summary": "نتانیاهو می گوید اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد می کند.",
+      "summary_fa": "نتانیاهو می گوید اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد می کند.",
+      "summary_en": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:15:54 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "3675407e6e02054d22b9d379905408ec",
+      "title": "اندونزی پارک ملی در جاوه شرقی را با گسترش آتش سوزی می بندد",
+      "title_fa": "اندونزی پارک ملی در جاوه شرقی را با گسترش آتش سوزی می بندد",
+      "title_en": "Indonesia closes national park in East Java as wildfire expands",
+      "summary": "آتش نشانان برای مبارزه با آتش فزاینده نزدیک کوه برومو در جنگل های انبوه و زمین های شیب دار تلاش می کنند.",
+      "summary_fa": "آتش نشانان برای مبارزه با آتش فزاینده نزدیک کوه برومو در جنگل های انبوه و زمین های شیب دار تلاش می کنند.",
+      "summary_en": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:13:46 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "989da7a1402a44dea48f7e1b4d44be2f",
+      "title": "در اینجا 2 چیز بزرگی است که در هفته پیش رو در بازار سهام مشاهده می کنیم",
+      "title_fa": "در اینجا 2 چیز بزرگی است که در هفته پیش رو در بازار سهام مشاهده می کنیم",
+      "title_en": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "summary": "توجه بازار به داده های تورم جولای خواهد بود.",
+      "summary_fa": "توجه بازار به داده های تورم جولای خواهد بود.",
+      "summary_en": "The market's attention will be on July inflation data.",
+      "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 13:11:52 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d3969e971756dbb4eaf3d3fa96867d3e",
+      "title": "نتانیاهو طرح غزه مورد حمایت ترامپ برای خلع سلاح حماس و عقب نشینی اسرائیل را رد کرد",
+      "title_fa": "نتانیاهو طرح غزه مورد حمایت ترامپ برای خلع سلاح حماس و عقب نشینی اسرائیل را رد کرد",
+      "title_en": "Netanyahu rejects Trump-backed Gaza plan for Hamas to disarm, Israel to withdraw",
+      "summary": "بنیامین نتانیاهو، نخست وزیر اسرائیل گفت: «اسرائیل سند 15 ماده ای را نمی پذیرد. رئیس جمهور ایالات متحده از طرح شورای صلح به عنوان گامی به سوی یک توافق پایدار یاد کرده بود.",
+      "summary_fa": "بنیامین نتانیاهو، نخست وزیر اسرائیل گفت: «اسرائیل سند 15 ماده ای را نمی پذیرد. رئیس جمهور ایالات متحده از طرح شورای صلح به عنوان گامی به سوی یک توافق پایدار یاد کرده بود.",
+      "summary_en": "“Israel does not accept the 15-point document,” Prime Minister Benjamin Netanyahu said. The U.S. president had touted the Board of Peace plan as a step toward a lasting settlement.",
+      "link": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/",
+      "source": "Washington Post",
+      "published_at": "Sun, 09 Aug 2026 13:10:42 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -86767,6 +86977,27 @@
       "summary_fa": "حوثی‌های وابسته به ایران در یمن مدعی حمله پهپادی به پالایشگاه ساحل دریای سرخ در عربستان سعودی شدند. حملات این گروه مسلح از زمانی که به نظر می رسد آتش بس 2022 در ماه گذشته شکسته شد، افزایش یافته است.",
       "summary_en": "Yemen's Iran-aligned Houthis claim a drone attack on a Red Sea Coast refinery in Saudi Arabia. Attacks from the armed group have increased since the 2022 truce seems to have been broken last month.",
       "link": "http://www.euronews.com/my-europe/2026/08/09/yemens-houthis-claim-attack-on-saudi-arabia-refinery",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 11:28:30 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6b569f9450a0db0d046c990a335934c1",
+      "title": "حمله حوثی‌های یمن در یمن ۱۱ کشته برجای گذاشت و پالایشگاه عربستان را هدف قرار داد",
+      "title_fa": "حمله حوثی‌های یمن در یمن ۱۱ کشته برجای گذاشت و پالایشگاه عربستان را هدف قرار داد",
+      "title_en": "Yemen's Houthis attack kills 11 in Yemen, hit Saudi refinery",
+      "summary": "یک منبع پزشکی می گوید که حملات شورشیان حوثی مورد حمایت ایران در روز یکشنبه دست کم 11 نفر را در شهر بندری موخا یمن کشتند، پس از آن که پهپاد قبلی یک پالایشگاه نفت عربستان را هدف قرار داد. حملات این گروه مسلح از زمانی که به نظر می رسد آتش بس 2022 در ماه گذشته شکسته شد، افزایش یافته است.",
+      "summary_fa": "یک منبع پزشکی می گوید که حملات شورشیان حوثی مورد حمایت ایران در روز یکشنبه دست کم 11 نفر را در شهر بندری موخا یمن کشتند، پس از آن که پهپاد قبلی یک پالایشگاه نفت عربستان را هدف قرار داد. حملات این گروه مسلح از زمانی که به نظر می رسد آتش بس 2022 در ماه گذشته شکسته شد، افزایش یافته است.",
+      "summary_en": "Strikes by Iran-backed Houthi rebels on Sunday killed at least 11 people in the Yemeni port city of Mokha, says a medical source, after an earlier drone salvo targeted a Saudi oil refinery. Attacks from the armed group have increased since the 2022 truce seems to have been broken last month.",
+      "link": "http://www.euronews.com/2026/08/09/yemens-houthis-claim-attack-on-saudi-arabia-refinery",
       "source": "EuroNews",
       "published_at": "Sun, 09 Aug 2026 11:28:30 +0200",
       "date_iso": "2026-08-09",
@@ -88443,6 +88674,27 @@
       "title": "تن ها غذای فاسد ناشی از آتش سوزی گسترده انبار لس آنجلس بوی تعفن غیر قابل تحملی ایجاد می کند",
       "title_fa": "تن ها غذای فاسد ناشی از آتش سوزی گسترده انبار لس آنجلس بوی تعفن غیر قابل تحملی ایجاد می کند",
       "title_en": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "summary": "آتش سوزی یک انبار را ویران کرد و انبوهی از مرغ، مرغ و ماهی در حال پوسیدگی برای جذب مگس ها و موش ها باقی ماند.",
+      "summary_fa": "آتش سوزی یک انبار را ویران کرد و انبوهی از مرغ، مرغ و ماهی در حال پوسیدگی برای جذب مگس ها و موش ها باقی ماند.",
+      "summary_en": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 09 Aug 2026 00:15:28 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/4c1667b0-911a-11f1-9d85-c54b3ca88a18.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c62bd82fb40efee6aa0f2925685ff39",
+      "title": "فاسد شدن مواد غذایی ناشی از آتش سوزی گسترده در انبار لس آنجلس بوی تعفن غیرقابل تحمل چند هفته ای ایجاد می کند",
+      "title_fa": "فاسد شدن مواد غذایی ناشی از آتش سوزی گسترده در انبار لس آنجلس بوی تعفن غیرقابل تحمل چند هفته ای ایجاد می کند",
+      "title_en": "Rotting food from vast LA warehouse fire creates weeks-long unbearable stench",
       "summary": "آتش سوزی یک انبار را ویران کرد و انبوهی از مرغ، مرغ و ماهی در حال پوسیدگی برای جذب مگس ها و موش ها باقی ماند.",
       "summary_fa": "آتش سوزی یک انبار را ویران کرد و انبوهی از مرغ، مرغ و ماهی در حال پوسیدگی برای جذب مگس ها و موش ها باقی ماند.",
       "summary_en": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
