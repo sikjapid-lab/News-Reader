@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 19:48:51",
-  "total_count": 7895,
+  "last_update": "2026-08-09 20:16:06",
+  "total_count": 7897,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86273,6 +86273,48 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "dd36767b9fd301106e9d2dc88e6b2e79",
+      "title": "ارتش نیجریه می گوید 33 نفر را که توسط افراد مسلح ربوده شده بودند، به سلامت نجات داده است",
+      "title_fa": "ارتش نیجریه می گوید 33 نفر را که توسط افراد مسلح ربوده شده بودند، به سلامت نجات داده است",
+      "title_en": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "summary": "این افراد روز شنبه در حالی که از ایالت زامفارا در شمال غربی کشور می رفتند ربوده شدند.",
+      "summary_fa": "این افراد روز شنبه در حالی که از ایالت زامفارا در شمال غربی کشور می رفتند ربوده شدند.",
+      "summary_en": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 09 Aug 2026 19:57:28 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76b9a8fe2b45be1d27b597f44598aac6",
+      "title": "بزرگان: اسرائیل در تلاش است فلسطین را ناپدید کند",
+      "title_fa": "بزرگان: اسرائیل در تلاش است فلسطین را ناپدید کند",
+      "title_en": "Israel is ‘trying to make Palestine disappear’: The Elders",
+      "summary": "مری رابینسون رئیس جمهور سابق ایرلند: اسرائیل «فلسطین را از نظر فیزیکی، اقتصادی، فرهنگی و سیاسی محو می کند».",
+      "summary_fa": "مری رابینسون رئیس جمهور سابق ایرلند: اسرائیل «فلسطین را از نظر فیزیکی، اقتصادی، فرهنگی و سیاسی محو می کند».",
+      "summary_en": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 19:30:00 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
