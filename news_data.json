@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 15:53:36",
-  "total_count": 7861,
+  "last_update": "2026-08-09 16:32:03",
+  "total_count": 7874,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,153 @@
       }
     },
     {
+      "id": "bc11c2fbb983739f827e95bc1043ca85",
+      "title": "آخرین بولتن اخبار | 9 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 9 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 9th, 2026 – Evening",
+      "summary": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 9 اوت 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "با مهم ترین داستان ها از سراسر اروپا و فراتر از این 9 اوت 2026 آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 9th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "704ba33b1cb0c34a5f9bc5a1fbf0427a",
+      "title": "چگونه اشغالگری اسرائیل به مقاومت دامن می زند",
+      "title_fa": "چگونه اشغالگری اسرائیل به مقاومت دامن می زند",
+      "title_en": "How Israel’s occupation fuels resistance",
+      "summary": "اسرائیل در چرخه ای که خود ایجاد کرده است گرفتار شده است.",
+      "summary_fa": "اسرائیل در چرخه ای که خود ایجاد کرده است گرفتار شده است.",
+      "summary_en": "Israel is trapped in a cycle it created.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 16:19:34 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "e6e189adf37097f010737047a7b84c98",
+      "title": "هواپیماهای بدون سرنشین چند روز پس از حادثه بمب لایپزیگ در پایگاه آلمان مشاهده شدند",
+      "title_fa": "هواپیماهای بدون سرنشین چند روز پس از حادثه بمب لایپزیگ در پایگاه آلمان مشاهده شدند",
+      "title_en": "Drones spotted over German base days after Leipzig bomb incident",
+      "summary": "پلیس در حال بررسی یک پهپاد بر فراز یک پایگاه نظامی است که بنا به گزارش ها برای نگهداری قطعات سیستم موشکی پاتریوت استفاده می شود.",
+      "summary_fa": "پلیس در حال بررسی یک پهپاد بر فراز یک پایگاه نظامی است که بنا به گزارش ها برای نگهداری قطعات سیستم موشکی پاتریوت استفاده می شود.",
+      "summary_en": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 09 Aug 2026 16:18:10 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d746c6698c935ff27409729961c29f5f",
+      "title": "با ادعای حوثی‌ها حمله به پالایشگاه عربستان، ایران هرگونه مذاکره مستقیم با آمریکا برای باز کردن تنگه هرمز را تکذیب می‌کند.",
+      "title_fa": "با ادعای حوثی‌ها حمله به پالایشگاه عربستان، ایران هرگونه مذاکره مستقیم با آمریکا برای باز کردن تنگه هرمز را تکذیب می‌کند.",
+      "title_en": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "summary": "وزیر امور خارجه ایران گفته است که کشورش با آمریکا مذاکره نمی کند، اما افزود: پیام ها از طریق واسطه ها در حال تبادل است.",
+      "summary_fa": "وزیر امور خارجه ایران گفته است که کشورش با آمریکا مذاکره نمی کند، اما افزود: پیام ها از طریق واسطه ها در حال تبادل است.",
+      "summary_en": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 16:14:12 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1e9677f8bc3f79a8adea7c3794b3292d",
+      "title": "جای تعجب نیست: نتانیاهو طرح غزه مورد حمایت آمریکا را رد کرد",
+      "title_fa": "جای تعجب نیست: نتانیاهو طرح غزه مورد حمایت آمریکا را رد کرد",
+      "title_en": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+      "summary": "مصطفی برغوتی، سیاستمدار فلسطینی می گوید که رد کردن طرح غزه توسط نتانیاهو که مورد حمایت آمریکا قرار گرفته است، تعجب آور نیست.",
+      "summary_fa": "مصطفی برغوتی، سیاستمدار فلسطینی می گوید که رد کردن طرح غزه توسط نتانیاهو که مورد حمایت آمریکا قرار گرفته است، تعجب آور نیست.",
+      "summary_en": "Palestinian politician Mustafa Barghouti says Netanyahu's rejection of the US-backed Gaza plan is no surprise.",
+      "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 16:08:19 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "6cf6d7227637cd4d54b9277f844d8ebf",
+      "title": "مدیران فعلی پیروزی های مقدماتی هاوایی را تضمین می کنند و با رقبای پیشرو مبارزه می کنند",
+      "title_fa": "مدیران فعلی پیروزی های مقدماتی هاوایی را تضمین می کنند و با رقبای پیشرو مبارزه می کنند",
+      "title_en": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+      "summary": "پیروزی های آنها نشان دهنده درگیری های مداوم بین دموکرات های میانه رو و نامزدهای مترقی تر است.",
+      "summary_fa": "پیروزی های آنها نشان دهنده درگیری های مداوم بین دموکرات های میانه رو و نامزدهای مترقی تر است.",
+      "summary_en": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 16:07:23 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b4ffd7ca994599e95acaf0f5b4b5eed",
+      "title": "عمر مارموش دو گل به ثمر رساند که من سیتی در سئول اتلتیکو مادرید را شکست داد",
+      "title_fa": "عمر مارموش دو گل به ثمر رساند که من سیتی در سئول اتلتیکو مادرید را شکست داد",
+      "title_en": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+      "summary": "مارموش در سه دقیقه دو گل به ثمر رساند تا سیتی در دیدار دوستانه باشگاهی در ورزشگاه جام جهانی سئول، اتلتیکو را شکست دهد.",
+      "summary_fa": "مارموش در سه دقیقه دو گل به ثمر رساند تا سیتی در دیدار دوستانه باشگاهی در ورزشگاه جام جهانی سئول، اتلتیکو را شکست دهد.",
+      "summary_en": "Marmoush scores twice in three minutes as City rallies to beat Atletico in club friendly at the Seoul World Cup stadium.",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 16:05:10 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "fc6d45111098f7a86e6e649257f26096",
       "title": "با اعلام وضعیت اضطراری در بریتیش کلمبیا، بیش از 20000 نفر از آتش سوزی های جنگلی فرار کردند",
       "title_fa": "با اعلام وضعیت اضطراری در بریتیش کلمبیا، بیش از 20000 نفر از آتش سوزی های جنگلی فرار کردند",
@@ -86206,6 +86353,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "89bd853cb9d26d40f6cf6ccb270335da",
+      "title": "امارات متحده عربی، دانیل کیناهان، رئیس جنایتکار بین المللی را به ایرلند تحویل می دهد",
+      "title_fa": "امارات متحده عربی، دانیل کیناهان، رئیس جنایتکار بین المللی را به ایرلند تحویل می دهد",
+      "title_en": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+      "summary": "دانیل کیناهان آخرین عضو ادعایی گروه جنایت سازمان یافته چندملیتی است که در دوبلین با اتهامات مواجه شده است.",
+      "summary_fa": "دانیل کیناهان آخرین عضو ادعایی گروه جنایت سازمان یافته چندملیتی است که در دوبلین با اتهامات مواجه شده است.",
+      "summary_en": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 16:00:50 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a0a4ccc1d7a9ac1d3332bae1f571bc7f",
+      "title": "مقامات امنیتی سابق هشدار دادند که ترامپ در حال برچیدن نرده‌های محافظ آمریکا است",
+      "title_fa": "مقامات امنیتی سابق هشدار دادند که ترامپ در حال برچیدن نرده‌های محافظ آمریکا است",
+      "title_en": "Trump is dismantling US guardrails, warn former security officials",
+      "summary": "کارمندان سابق سیا تلاش ها را برای اعلام خطر عمیق خود در مورد وضعیت دموکراسی آمریکا افزایش می دهند",
+      "summary_fa": "کارمندان سابق سیا تلاش ها را برای اعلام خطر عمیق خود در مورد وضعیت دموکراسی آمریکا افزایش می دهند",
+      "summary_en": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
+      "link": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 09 Aug 2026 16:00:01 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd8b8db2-b3ac-43fa-ab3e-1acf99d1ec0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c81d8f78d20e74224c363d9b5bfdc20e",
+      "title": "بریتانیا باید آنچه را که پیشرو می داند دوباره تعریف کند",
+      "title_fa": "بریتانیا باید آنچه را که پیشرو می داند دوباره تعریف کند",
+      "title_en": "Britain needs to redefine what it considers cutting-edge",
+      "summary": "برنهام باید مفهوم گسترده‌تری از تولید پیشرفته را ترویج کند که فراتر از فناوری‌های مرزی است",
+      "summary_fa": "برنهام باید مفهوم گسترده‌تری از تولید پیشرفته را ترویج کند که فراتر از فناوری‌های مرزی است",
+      "summary_en": "Burnham should promote a broader conception of advanced manufacturing that goes beyond frontier technologies",
+      "link": "https://www.ft.com/content/03736b77-347b-4e07-bcb2-ced2d36737dc",
+      "source": "Financial Times",
+      "published_at": "Sun, 09 Aug 2026 16:00:01 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbd1f8e9-dcdf-4920-9cff-9300d7b39bee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -86231,6 +86441,48 @@
         "lat": 39.9042,
         "lng": 116.4074,
         "name": "چین"
+      }
+    },
+    {
+      "id": "faf88715a87c371b27fa6eafe25e1a92",
+      "title": "جنگ علیه ایران: مرحله دوم: روز بیست و نهم",
+      "title_fa": "جنگ علیه ایران: مرحله دوم: روز بیست و نهم",
+      "title_en": "War on Iran: Phase II: Day 29",
+      "summary": "ایران می گوید تنگه هرمز محدود خواهد ماند مگر اینکه آمریکا به یک سری از خواسته ها پاسخ دهد.",
+      "summary_fa": "ایران می گوید تنگه هرمز محدود خواهد ماند مگر اینکه آمریکا به یک سری از خواسته ها پاسخ دهد.",
+      "summary_en": "Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 15:46:09 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6fe4b802511baa8ab32ae839625aefd4",
+      "title": "پنتاگون خواستار تولید سریع‌تر تسلیحات ایالات متحده در میان نگرانی‌های مربوط به ذخایر است",
+      "title_fa": "پنتاگون خواستار تولید سریع‌تر تسلیحات ایالات متحده در میان نگرانی‌های مربوط به ذخایر است",
+      "title_en": "Pentagon urges faster US weapons production amid stockpile concerns",
+      "summary": "در حالی که کمبود مهمات باعث افزایش نگرانی‌های امنیتی در میان تنش‌های خاورمیانه شده است، صنایع دفاعی ایالات متحده برای افزایش تولید تحت فشار هستند.",
+      "summary_fa": "در حالی که کمبود مهمات باعث افزایش نگرانی‌های امنیتی در میان تنش‌های خاورمیانه شده است، صنایع دفاعی ایالات متحده برای افزایش تولید تحت فشار هستند.",
+      "summary_en": "US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 15:38:56 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
       }
     },
     {
@@ -153929,6 +154181,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "573005228890d9a15ae92c8d8b88c0dd",
+      "title": "مربی 49ers می‌گوید تسلای او در هنگام سقوط در اتوپایلوت بوده است",
+      "title_fa": "مربی 49ers می‌گوید تسلای او در هنگام سقوط در اتوپایلوت بوده است",
+      "title_en": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "summary": "چهار هفته پیش، کایل شاناهان، مربی تیم سان فرانسیسکو 49ers در نزدیکی مرکز شهر پالو آلتو دچار حادثه شد. در آن زمان شاناهان فقط گفت که تصادف تقصیر او بوده است. اما طی یک کنفرانس مطبوعاتی اخیر او جزئیات بیشتری را در مورد این حادثه به اشتراک گذاشت، از جمله این واقعیت که او خلبان خودکار تسلا خود را در […]",
+      "summary_fa": "چهار هفته پیش، کایل شاناهان، مربی تیم سان فرانسیسکو 49ers در نزدیکی مرکز شهر پالو آلتو دچار حادثه شد. در آن زمان شاناهان فقط گفت که تصادف تقصیر او بوده است. اما طی یک کنفرانس مطبوعاتی اخیر او جزئیات بیشتری را در مورد این حادثه به اشتراک گذاشت، از جمله این واقعیت که او خلبان خودکار تسلا خود را در […]",
+      "summary_en": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the […]",
+      "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "source": "The Verge",
+      "published_at": "2026-08-09T11:56:49-04:00",
+      "date_iso": "2026-08-09",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
