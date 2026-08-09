@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 17:46:47",
-  "total_count": 7881,
+  "last_update": "2026-08-09 18:18:51",
+  "total_count": 7882,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86227,6 +86227,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "b9ab5df2bd94a8039acb38feca3f1069",
+      "title": "وزیر جدید می گوید که حزب کارگر به دنبال \"روابط عمیق تر\" با اتحادیه اروپا تحت برنهام است",
+      "title_fa": "وزیر جدید می گوید که حزب کارگر به دنبال \"روابط عمیق تر\" با اتحادیه اروپا تحت برنهام است",
+      "title_en": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "summary": "انحصاری: هامیش فالکونر خواهان «احساس سرعت مجدد» در مذاکرات پس از برگزیت است و در عین حال در خطوط قرمز حزب کارگر باقی می‌ماند. فالش بین‌کون، وزیر جدید مذاکره‌کننده اتحادیه اروپا در هیئت مذاکره‌کننده جدید اتحادیه اروپا، گفت که بریتانیا برای دستیابی به روابط نزدیک‌تر با اروپا در دولت اندی برنهام سریع‌تر حرکت می‌کند و جاه‌طلبانه‌تر خواهد بود. گفت‌وگوها، گفت: «جای جاه‌طلبی» در خطوط قرمز حزب کارگر در اروپا وجود دارد، که بازگشایی بحث‌ها در مورد بازار واحد و اتحادیه گمرکی را منتفی نمی‌کند، و او به «هنر ممکن» نگاه خواهد کرد. ادامه مطلب...",
+      "summary_fa": "انحصاری: هامیش فالکونر خواهان «احساس سرعت مجدد» در مذاکرات پس از برگزیت است و در عین حال در خطوط قرمز حزب کارگر باقی می‌ماند. فالش بین‌کون، وزیر جدید مذاکره‌کننده اتحادیه اروپا در هیئت مذاکره‌کننده جدید اتحادیه اروپا، گفت که بریتانیا برای دستیابی به روابط نزدیک‌تر با اروپا در دولت اندی برنهام سریع‌تر حرکت می‌کند و جاه‌طلبانه‌تر خواهد بود. گفت‌وگوها، گفت: «جای جاه‌طلبی» در خطوط قرمز حزب کارگر در اروپا وجود دارد، که بازگشایی بحث‌ها در مورد بازار واحد و اتحادیه گمرکی را منتفی نمی‌کند، و او به «هنر ممکن» نگاه خواهد کرد. ادامه مطلب...",
+      "summary_en": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red linesThe UK will move faster and be more ambitious on achieving closer ties with Europe under Andy Burnham’s government, his new chief post-Brexit negotiator has said..Hamish Falconer, the new cabinet minister in charge of the EU reset talks, said there was “room to be ambitious” within Labour’s red lines on Europe, which exclude reopening discussions on the single market and customs union, and he would look at the “art of the possible”. Continue reading...",
+      "link": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "source": "The Guardian",
+      "published_at": "Sun, 09 Aug 2026 18:00:21 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d61be8214c1fda97376aa7e05150d0ed5d3eedea/1056_732_5539_4431/master/5539.jpg?width=140&quality=85&auto=format&fit=max&s=440262522ce6344acb24cf5af682e8bd",
       "geo": {
         "lat": 50.8503,
         "lng": 4.3517,
