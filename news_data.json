@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 11:01:34",
-  "total_count": 7780,
+  "last_update": "2026-08-09 11:39:43",
+  "total_count": 7788,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86234,6 +86234,69 @@
       }
     },
     {
+      "id": "274c788cbc99871112f6b2c4fa63528c",
+      "title": "چگونه یک استارت آپ کوچک اسرائیلی با هک های سرکش هوش مصنوعی در OpenAI، Anthropic و Meta مرتبط شد",
+      "title_fa": "چگونه یک استارت آپ کوچک اسرائیلی با هک های سرکش هوش مصنوعی در OpenAI، Anthropic و Meta مرتبط شد",
+      "title_en": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "summary": "حملات سرکش هوش مصنوعی شامل OpenAI، Anthropic و Meta همگی مربوط به یک استارتاپ کوچک اسرائیلی به نام Irregular است.",
+      "summary_fa": "حملات سرکش هوش مصنوعی شامل OpenAI، Anthropic و Meta همگی مربوط به یک استارتاپ کوچک اسرائیلی به نام Irregular است.",
+      "summary_en": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 11:31:42 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "35f5b2280e38b66b94a3c780107cf6ca",
+      "title": "اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد کرد",
+      "title_fa": "اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد کرد",
+      "title_en": "Israel rejects Trump’s 15-point plan for Gaza",
+      "summary": "این یک خبر فوری است.",
+      "summary_fa": "این یک خبر فوری است.",
+      "summary_en": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 11:31:18 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "da52feacd3bd629add3e71cb32e8c9e8",
+      "title": "مورد پیچیده عبور از املاک دیجیتال شما",
+      "title_fa": "مورد پیچیده عبور از املاک دیجیتال شما",
+      "title_en": "The Complicated Case of Passing On Your Digital Estate",
+      "summary": "هیچ راهی عالی برای انتقال مالکیت دارایی های دیجیتال شما به عزیزانتان پس از رفتن وجود ندارد. اما کارهایی وجود دارد که اکنون می توانید انجام دهید تا این روند را برای آنها آسان تر کنید.",
+      "summary_fa": "هیچ راهی عالی برای انتقال مالکیت دارایی های دیجیتال شما به عزیزانتان پس از رفتن وجود ندارد. اما کارهایی وجود دارد که اکنون می توانید انجام دهید تا این روند را برای آنها آسان تر کنید.",
+      "summary_en": "There’s no perfect way to transfer possession of your digital assets to your loved ones after you’re gone. But there are things you can do now to make the process easier for them.",
+      "link": "https://www.wired.com/story/digital-estate-planning-tips/",
+      "source": "Wired",
+      "published_at": "Sun, 09 Aug 2026 11:30:00 +0000",
+      "date_iso": "2026-08-09",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d5a7c2b2dc97ea49a590a8b7426e8c6f",
       "title": "حوثی‌های یمن مدعی حمله به پالایشگاه عربستان سعودی شدند",
       "title_fa": "حوثی‌های یمن مدعی حمله به پالایشگاه عربستان سعودی شدند",
@@ -86255,6 +86318,27 @@
       }
     },
     {
+      "id": "0ba40c5c4be20d52391d617f65874913",
+      "title": "در حالی که حوثی‌ها مسئولیت آن را بر عهده گرفتند، آرامکوی سعودی آتش در پالایشگاه را خاموش کرد",
+      "title_fa": "در حالی که حوثی‌ها مسئولیت آن را بر عهده گرفتند، آرامکوی سعودی آتش در پالایشگاه را خاموش کرد",
+      "title_en": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+      "summary": "وزیر امور خارجه ایران گفته است که کشورش با آمریکا مذاکره نمی کند، اما افزود: پیام ها از طریق واسطه ها در حال تبادل است.",
+      "summary_fa": "وزیر امور خارجه ایران گفته است که کشورش با آمریکا مذاکره نمی کند، اما افزود: پیام ها از طریق واسطه ها در حال تبادل است.",
+      "summary_en": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 11:23:00 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "4dc4b9a3cf73984fa7d920580b7c16a3",
       "title": "کشتی غرق شده رومی با صدها آمفورا در سواحل سیسیل پیدا شد",
       "title_fa": "کشتی غرق شده رومی با صدها آمفورا در سواحل سیسیل پیدا شد",
@@ -86268,6 +86352,90 @@
       "date_iso": "2026-08-09",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b664fc69877b781bae70e16d1af55ba8",
+      "title": "4 بهترین چکمه فشرده: Therabody، Hyperice، و بیشتر (2026)",
+      "title_fa": "4 بهترین چکمه فشرده: Therabody، Hyperice، و بیشتر (2026)",
+      "title_en": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+      "summary": "چه به سختی تمرین کنید، چه اغلب مسافرت می‌کنید یا با گردش خون ضعیف مواجه هستید، اینها بهترین کفش‌های فشرده‌کننده برای کسانی هستند که به دنبال ریکاوری بهتر عضلات هستند.",
+      "summary_fa": "چه به سختی تمرین کنید، چه اغلب مسافرت می‌کنید یا با گردش خون ضعیف مواجه هستید، اینها بهترین کفش‌های فشرده‌کننده برای کسانی هستند که به دنبال ریکاوری بهتر عضلات هستند.",
+      "summary_en": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
+      "link": "https://www.wired.com/story/best-compression-boots/",
+      "source": "Wired",
+      "published_at": "Sun, 09 Aug 2026 11:04:00 +0000",
+      "date_iso": "2026-08-09",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea6121849a7dbd78a52e58f546bec149",
+      "title": "به نظر نمی رسد که فوران کوه توبا بتواند گونه های ما را بکشد",
+      "title_fa": "به نظر نمی رسد که فوران کوه توبا بتواند گونه های ما را بکشد",
+      "title_en": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "summary": "به نظر می رسد فوران عظیم توبا تأثیر کمی بر آب و هوا داشته است.",
+      "summary_fa": "به نظر می رسد فوران عظیم توبا تأثیر کمی بر آب و هوا داشته است.",
+      "summary_en": "The massive Toba eruption seems to have had little climate impact.",
+      "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "source": "Ars Technica",
+      "published_at": "Sun, 09 Aug 2026 11:00:14 +0000",
+      "date_iso": "2026-08-09",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/image-1.jpeg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ab744368ea82361ea778231a8221f20f",
+      "title": "نیروهای روسی چندین نفر را در اوکراین کشتند و در اودسا حمله \"وحشیانه\" انجام دادند",
+      "title_fa": "نیروهای روسی چندین نفر را در اوکراین کشتند و در اودسا حمله \"وحشیانه\" انجام دادند",
+      "title_en": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+      "summary": "رئیس جمهور ولادیمیر زلنسکی، مسکو را به آسیب رساندن به امنیت غذایی جهانی در میان بشقاب حملات به بندر اودسا متهم کرد.",
+      "summary_fa": "رئیس جمهور ولادیمیر زلنسکی، مسکو را به آسیب رساندن به امنیت غذایی جهانی در میان بشقاب حملات به بندر اودسا متهم کرد.",
+      "summary_en": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa's port.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 10:55:06 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "23c3ba93d4cd25b166cde573f6b32925",
+      "title": "هشدار ارتش یمن به حوثی‌ها پس از تشدید خطر تشدید حملات",
+      "title_fa": "هشدار ارتش یمن به حوثی‌ها پس از تشدید خطر تشدید حملات",
+      "title_en": "Yemeni army warns Houthis after attacks heighten escalation risk",
+      "summary": "هشدار ارتش یمن به حوثی‌ها پس از تشدید خطر تشدید حملات",
+      "summary_fa": "هشدار ارتش یمن به حوثی‌ها پس از تشدید خطر تشدید حملات",
+      "summary_en": "Yemeni army warns Houthis after attacks heighten escalation risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 10:45:57 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
