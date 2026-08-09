@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 14:01:53",
-  "total_count": 7836,
+  "last_update": "2026-08-09 14:47:59",
+  "total_count": 7850,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,27 @@
       }
     },
     {
+      "id": "fc6d45111098f7a86e6e649257f26096",
+      "title": "با اعلام وضعیت اضطراری در بریتیش کلمبیا، بیش از 20000 نفر از آتش سوزی های جنگلی فرار کردند",
+      "title_fa": "با اعلام وضعیت اضطراری در بریتیش کلمبیا، بیش از 20000 نفر از آتش سوزی های جنگلی فرار کردند",
+      "title_en": "Over 20,000 flee wildfires as British Columbia declares state of emergency",
+      "summary": "آتش‌سوزی‌هایی که در روز جمعه شروع شد به سرعت گسترش یافت و در طول شب تا روز شنبه حجم آن تقریباً دو برابر شد. پلیس ملی در حال بررسی یک مرگ احتمالی در نزدیکی سامرلند است، اگرچه تلفات هنوز تایید نشده است.",
+      "summary_fa": "آتش‌سوزی‌هایی که در روز جمعه شروع شد به سرعت گسترش یافت و در طول شب تا روز شنبه حجم آن تقریباً دو برابر شد. پلیس ملی در حال بررسی یک مرگ احتمالی در نزدیکی سامرلند است، اگرچه تلفات هنوز تایید نشده است.",
+      "summary_en": "The fires that erupted on Friday spread rapidly, nearly doubling in size overnight into Saturday. National police are investigating a possible death near Summerland, although the casualty has not yet been confirmed.",
+      "link": "http://www.euronews.com/2026/08/09/over-20000-flee-wildfires-as-british-columbia-declares-state-of-emergency",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 16:03:34 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "90bf9f815f28a8a366bcfe21c94af976",
       "title": "بیش از یک میلیون نفر به دلیل طوفان دلفین در چین تخلیه شدند",
       "title_fa": "بیش از یک میلیون نفر به دلیل طوفان دلفین در چین تخلیه شدند",
@@ -86297,6 +86318,48 @@
       }
     },
     {
+      "id": "dd2933ab8e5d3a2178ab81cd5de07863",
+      "title": "اوکاسیو کورتز احتمال نامزدی برای ریاست جمهوری یا سنا در سال 2028 را رد نکرده است.",
+      "title_fa": "اوکاسیو کورتز احتمال نامزدی برای ریاست جمهوری یا سنا در سال 2028 را رد نکرده است.",
+      "title_en": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "summary": "این نماینده مجلس که به عنوان یکی از گزینه‌های مورد علاقه برای نامزدی دموکرات‌ها ظاهر شده است، گفت که نامزدی برای مجلس سنا در سال 2028 را نیز رد نکرده است.",
+      "summary_fa": "این نماینده مجلس که به عنوان یکی از گزینه‌های مورد علاقه برای نامزدی دموکرات‌ها ظاهر شده است، گفت که نامزدی برای مجلس سنا در سال 2028 را نیز رد نکرده است.",
+      "summary_en": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
+      "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 14:45:17 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5f6cd8c502dbd7a2c332a1d94271368d",
+      "title": "ایران، ثابت نگه داشتن هرمز، برای بازگشت به تفاهم نامه ژوئن فشار می آورد",
+      "title_fa": "ایران، ثابت نگه داشتن هرمز، برای بازگشت به تفاهم نامه ژوئن فشار می آورد",
+      "title_en": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+      "summary": "تنگه هرمز بهترین اهرم فشار ایران برای وادار کردن واشنگتن به آزادسازی دارایی های مسدود شده ایران، لغو تحریم های اقتصادی و پایان محاصره دریایی آن است.",
+      "summary_fa": "تنگه هرمز بهترین اهرم فشار ایران برای وادار کردن واشنگتن به آزادسازی دارایی های مسدود شده ایران، لغو تحریم های اقتصادی و پایان محاصره دریایی آن است.",
+      "summary_en": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
+      "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "source": "NY Times",
+      "published_at": "Sun, 09 Aug 2026 14:44:02 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-iran-assess-mvzw/09int-iran-assess-mvzw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "7f7b0eef862dcfd22841b67184b152d8",
       "title": "وزیر انرژی قبرس می گوید گاز طبیعی قبرس در سال 2028 به اروپا می رسد",
       "title_fa": "وزیر انرژی قبرس می گوید گاز طبیعی قبرس در سال 2028 به اروپا می رسد",
@@ -86315,6 +86378,132 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "3c1cf832950b75bc0ebeef9cc1fcc595",
+      "title": "فروش خودروهای برقی چین در اروپا به بالاترین حد خود رسیده است و تعرفه ها را تحت نظارت قرار داده است",
+      "title_fa": "فروش خودروهای برقی چین در اروپا به بالاترین حد خود رسیده است و تعرفه ها را تحت نظارت قرار داده است",
+      "title_en": "Chinese EV sales surge to new high in Europe, putting tariffs under scrutiny",
+      "summary": "واردات در سال جاری در حالی که ادعا می‌شود خودروها در اتحادیه اروپا دامپینگ می‌شوند، اکنون 14 درصد از بازار را به خود اختصاص داده است و فروش خودروهای برقی چین در سراسر اروپا به رکورد بالایی رسیده است که ناشی از تقاضای قوی و تعرفه‌های پایین در بریتانیا و افزایش خریداران در ایتالیا است. به درخواست ها برای سهمیه بندی و تعرفه های بالاتر برای حمایت از تولیدکنندگان اروپایی انگیزه می دهد. ادامه مطلب...",
+      "summary_fa": "واردات در سال جاری در حالی که ادعا می‌شود خودروها در اتحادیه اروپا دامپینگ می‌شوند، اکنون 14 درصد از بازار را به خود اختصاص داده است و فروش خودروهای برقی چین در سراسر اروپا به رکورد بالایی رسیده است که ناشی از تقاضای قوی و تعرفه‌های پایین در بریتانیا و افزایش خریداران در ایتالیا است. به درخواست ها برای سهمیه بندی و تعرفه های بالاتر برای حمایت از تولیدکنندگان اروپایی انگیزه می دهد. ادامه مطلب...",
+      "summary_en": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UKChinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy.Against a backdrop of claims that Chinese carmakers are “dumping” state-subsidised vehicles in the EU and UK to gain market share, the figures will give impetus to calls for quotas and higher tariffs to protect European manufacturers. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+      "source": "The Guardian",
+      "published_at": "Sun, 09 Aug 2026 14:30:58 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e5fe24d1799da0408c9ca663658b3d23e982aae5/300_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=86c6d405ea029535366ef8d23fcac925",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "e2df6f04788fe9dd3e4d0ddfec9343ab",
+      "title": "سوریه با سازماندهی مجدد حضور نظامی روسیه موافقت کرد",
+      "title_fa": "سوریه با سازماندهی مجدد حضور نظامی روسیه موافقت کرد",
+      "title_en": "Syria Agrees to Reorganized Russian Military Presence",
+      "summary": "پس از بیش از یک سال و نیم مذاکره، سوریه و روسیه بر روی پارامترهای جدید حضور نظامی روسیه در سوریه به توافق رسیدند. سوریه گفت که راه را برای مرحله جدیدی در روابط باز می کند.",
+      "summary_fa": "پس از بیش از یک سال و نیم مذاکره، سوریه و روسیه بر روی پارامترهای جدید حضور نظامی روسیه در سوریه به توافق رسیدند. سوریه گفت که راه را برای مرحله جدیدی در روابط باز می کند.",
+      "summary_en": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+      "source": "NY Times",
+      "published_at": "Sun, 09 Aug 2026 14:30:54 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-syria-russia-hqgz/09int-syria-russia-hqgz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "192309482126924292d695433a7910d7",
+      "title": "اکنون که اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد می کند چه؟",
+      "title_fa": "اکنون که اسرائیل طرح 15 ماده ای ترامپ برای غزه را رد می کند چه؟",
+      "title_en": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+      "summary": "از آنجایی که نتانیاهو قبل از بررسی خروج از غزه خواستار خلع سلاح «واقعی» حماس است، نگاهی به آنچه در آینده رخ می دهد.",
+      "summary_fa": "از آنجایی که نتانیاهو قبل از بررسی خروج از غزه خواستار خلع سلاح «واقعی» حماس است، نگاهی به آنچه در آینده رخ می دهد.",
+      "summary_en": "As Netanyahu demands 'genuine' Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 14:26:30 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "cf5911c5a784e1491c64e1abd1f36633",
+      "title": "پیمان مکه فقط یک اتحاد منطقه ای دیگر نیست",
+      "title_fa": "پیمان مکه فقط یک اتحاد منطقه ای دیگر نیست",
+      "title_en": "The Mecca pact is not just another regional alliance",
+      "summary": "این می تواند زمینه را برای دگرگونی عمیق امنیت منطقه ای در خلیج فارس فراهم کند.",
+      "summary_fa": "این می تواند زمینه را برای دگرگونی عمیق امنیت منطقه ای در خلیج فارس فراهم کند.",
+      "summary_en": "It could set the stage for a profound transformation of regional security in the Gulf.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 14:23:13 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "52ed2949c3e9535103466d1698a7c2cc",
+      "title": "سوریه می گوید با مسکو در مورد آینده پایگاه های روسیه به توافق رسیده است",
+      "title_fa": "سوریه می گوید با مسکو در مورد آینده پایگاه های روسیه به توافق رسیده است",
+      "title_en": "Syria says it reached deal with Moscow on future of Russian bases",
+      "summary": "پایگاه هوایی حمیمیم و پایگاه دریایی طرطوس طبق این توافق به مراکز آموزشی مشترک و ظرفیت سازی تبدیل خواهند شد.",
+      "summary_fa": "پایگاه هوایی حمیمیم و پایگاه دریایی طرطوس طبق این توافق به مراکز آموزشی مشترک و ظرفیت سازی تبدیل خواهند شد.",
+      "summary_en": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 14:20:51 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "3b568994dbec3917d4f4ae1e6604809f",
+      "title": "ترامپ بار دیگر حق شهروندی را هدف قرار داد",
+      "title_fa": "ترامپ بار دیگر حق شهروندی را هدف قرار داد",
+      "title_en": "Trump targets birthright citizenship again",
+      "summary": "دونالد ترامپ، رئیس جمهور آمریکا دو فرمان اجرایی جدید را امضا کرده است که شهروندی حق تولد را هدف قرار می دهد.",
+      "summary_fa": "دونالد ترامپ، رئیس جمهور آمریکا دو فرمان اجرایی جدید را امضا کرده است که شهروندی حق تولد را هدف قرار می دهد.",
+      "summary_en": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 14:20:31 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -86357,6 +86546,90 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4acea88667149449afa46e83b35bba20",
+      "title": "رشد فروش S&P 500 به بالاترین حد خود در 5 سال اخیر رسیده است. در اینجا چیزی است که پشت این موج وجود دارد.",
+      "title_fa": "رشد فروش S&P 500 به بالاترین حد خود در 5 سال اخیر رسیده است. در اینجا چیزی است که پشت این موج وجود دارد.",
+      "title_en": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+      "summary": "شرکت های انرژی در S&P 500 در سه ماهه دوم 42.5 درصد افزایش درآمد داشته اند که عملکرد فروش این شاخص را تقویت می کند.",
+      "summary_fa": "شرکت های انرژی در S&P 500 در سه ماهه دوم 42.5 درصد افزایش درآمد داشته اند که عملکرد فروش این شاخص را تقویت می کند.",
+      "summary_en": "Energy companies in the S&P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
+      "link": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 09 Aug 2026 14:00:00 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-77846389",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ecae48bce761b50a24823aab320c3156",
+      "title": "به گفته کارشناسان، طرح \"رفح سبز\" اسرائیل با هدف تکه تکه کردن غزه است",
+      "title_fa": "به گفته کارشناسان، طرح \"رفح سبز\" اسرائیل با هدف تکه تکه کردن غزه است",
+      "title_en": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+      "summary": "کارشناسان هشدار می دهند که مناطق اداری جدید اسرائیل در غزه به دنبال پاک کردن آرمان فلسطین و مجبور به آوارگی گسترده هستند.",
+      "summary_fa": "کارشناسان هشدار می دهند که مناطق اداری جدید اسرائیل در غزه به دنبال پاک کردن آرمان فلسطین و مجبور به آوارگی گسترده هستند.",
+      "summary_en": "Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:54:41 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "63b773dafa3247c5ec5453914782f65d",
+      "title": "MotoGP بریتانیا: رائول فرناندز در سیلورستون مسلط شد تا مارتین را شکست دهد",
+      "title_fa": "MotoGP بریتانیا: رائول فرناندز در سیلورستون مسلط شد تا مارتین را شکست دهد",
+      "title_en": "British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin",
+      "summary": "پیروزی سوارکار آپریلیا بر خورخه مارتین، تعداد برندگان مختلف جایزه بزرگ سیلورستون را به دوازده نفر متوالی افزایش داد.",
+      "summary_fa": "پیروزی سوارکار آپریلیا بر خورخه مارتین، تعداد برندگان مختلف جایزه بزرگ سیلورستون را به دوازده نفر متوالی افزایش داد.",
+      "summary_en": "Aprilia rider's victory over Jorge Martin extends Silverstone’s run of different Grand Prix winners to twelve in a row.",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:53:53 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c585af26270d96662b03be5ff3bf026",
+      "title": "چرا ایران امپراتوری هایی را که برای فتح آن تلاش می کنند شکست می دهد؟",
+      "title_fa": "چرا ایران امپراتوری هایی را که برای فتح آن تلاش می کنند شکست می دهد؟",
+      "title_en": "Why does Iran defeat the empires trying to conquer it?",
+      "summary": "در قسمت دوم سریال دژاوو، نگاهی به ایران و قدرت های بزرگی می اندازیم که سعی در شکل دادن به آن داشته اند.",
+      "summary_fa": "در قسمت دوم سریال دژاوو، نگاهی به ایران و قدرت های بزرگی می اندازیم که سعی در شکل دادن به آن داشته اند.",
+      "summary_en": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 13:36:24 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -88705,6 +88978,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/4c1667b0-911a-11f1-9d85-c54b3ca88a18.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "47cdc86db2211da6421a6a0b31128fd2",
+      "title": "بوی متعفن غیرقابل تحملی یک محله لس آنجلس را فرا گرفته است",
+      "title_fa": "بوی متعفن غیرقابل تحملی یک محله لس آنجلس را فرا گرفته است",
+      "title_en": "An unbearable rotting stench is plaguing an LA neighbourhood",
+      "summary": "انبوهی از گوشت های فاسد در آفتاب تابستان پس از آتش سوزی در انبار بزرگ مواد غذایی چرک می شوند.",
+      "summary_fa": "انبوهی از گوشت های فاسد در آفتاب تابستان پس از آتش سوزی در انبار بزرگ مواد غذایی چرک می شوند.",
+      "summary_en": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 09 Aug 2026 00:15:28 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297f/live/c72df160-93fa-11f1-a10f-45ed743c6e4b.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
