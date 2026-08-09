@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 17:07:27",
-  "total_count": 7879,
+  "last_update": "2026-08-09 17:46:47",
+  "total_count": 7881,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,27 @@
       }
     },
     {
+      "id": "d79f238776dec407b0d7f541666ac36a",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Poland now sixth-largest EU economy, ahead of Switzerland and Belgium",
+      "summary": "اقتصاد لهستان در اروپا اهمیت بیشتری پیدا می کند. در سال 2025، این کشور از نظر تولید ناخالص داخلی اسمی در رتبه ششم اتحادیه اروپا قرار گرفت و تقریباً 5 درصد از کل تولید بلوک را به خود اختصاص داد.",
+      "summary_fa": "اقتصاد لهستان در اروپا اهمیت بیشتری پیدا می کند. در سال 2025، این کشور از نظر تولید ناخالص داخلی اسمی در رتبه ششم اتحادیه اروپا قرار گرفت و تقریباً 5 درصد از کل تولید بلوک را به خود اختصاص داد.",
+      "summary_en": "Poland's economy is gaining in importance in Europe. In 2025 the country ranked sixth in the EU by nominal GDP, accounting for almost 5% of the bloc's total output.",
+      "link": "http://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 19:23:07 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "bc11c2fbb983739f827e95bc1043ca85",
       "title": "آخرین بولتن اخبار | 9 آگوست 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 9 آگوست 2026 - عصر",
@@ -154286,6 +154307,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5132d9126ac5dde8ee7398e9f6798d0b",
+      "title": "قایق بادبانی زاکربرگ نزدیک‌تر بود، اما شخص دیگری یک قایق سرگردان را نجات داد.",
+      "title_fa": "قایق بادبانی زاکربرگ نزدیک‌تر بود، اما شخص دیگری یک قایق سرگردان را نجات داد.",
+      "title_en": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "summary": "در اوایل این هفته، کشتی کروز آلاسکا Wilderness Legacy یک اسکیف کوچک را که در نزدیکی خلیج فاراگوت پس از اتمام سوخت به گل نشسته بود، نجات داد. اما، طبق داده‌های ردیابی بررسی‌شده توسط Alaska Beacon و Halifax Shipping News، نزدیک‌ترین کشتی در واقع قایق بادبانی فوق‌العاده مارک زاکربرگ، Launchpad بود. مایکل لاو، مسافری در Wilderness Legacy، پست […]",
+      "summary_fa": "در اوایل این هفته، کشتی کروز آلاسکا Wilderness Legacy یک اسکیف کوچک را که در نزدیکی خلیج فاراگوت پس از اتمام سوخت به گل نشسته بود، نجات داد. اما، طبق داده‌های ردیابی بررسی‌شده توسط Alaska Beacon و Halifax Shipping News، نزدیک‌ترین کشتی در واقع قایق بادبانی فوق‌العاده مارک زاکربرگ، Launchpad بود. مایکل لاو، مسافری در Wilderness Legacy، پست […]",
+      "summary_en": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted […]",
+      "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "source": "The Verge",
+      "published_at": "2026-08-09T13:20:30-04:00",
+      "date_iso": "2026-08-09",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
