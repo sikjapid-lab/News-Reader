@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 20:56:54",
-  "total_count": 7900,
+  "last_update": "2026-08-09 21:40:37",
+  "total_count": 7904,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86213,6 +86213,27 @@
       }
     },
     {
+      "id": "9924d893f1b1619e91cd88abacc1311b",
+      "title": "جدول زمانی جنگ ایران: لحظات کلیدی و حملات در کمپین ایالات متحده و اسرائیل",
+      "title_fa": "جدول زمانی جنگ ایران: لحظات کلیدی و حملات در کمپین ایالات متحده و اسرائیل",
+      "title_en": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
+      "summary": "ایالات متحده و اسرائیل در 28 فوریه به ایران حمله کردند و جنگی چند ماهه را آغاز کردند که به کشورهای همسایه گسترش یافت و بازارهای جهانی را تکان داد.",
+      "summary_fa": "ایالات متحده و اسرائیل در 28 فوریه به ایران حمله کردند و جنگی چند ماهه را آغاز کردند که به کشورهای همسایه گسترش یافت و بازارهای جهانی را تکان داد.",
+      "summary_en": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
+      "link": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+      "source": "NY Times",
+      "published_at": "Sun, 09 Aug 2026 21:34:51 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-timeline-HFO-03-ghcb/24israel-iran-timeline-HFO-03-ghcb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "7ad842f392400d7749068ecfb68538fc",
       "title": "'سیتا اسپانیا است': صدها نفر به دولت به دلیل بحران مهاجرت اعتراض کردند",
       "title_fa": "'سیتا اسپانیا است': صدها نفر به دولت به دلیل بحران مهاجرت اعتراض کردند",
@@ -86255,6 +86276,27 @@
       }
     },
     {
+      "id": "ff99dc0c7bf38131e5c637f182e29365",
+      "title": "هنوز در انتظار صلح در غزه",
+      "title_fa": "هنوز در انتظار صلح در غزه",
+      "title_en": "Still Waiting for Peace in Gaza",
+      "summary": "یک عکاس خبری با نیویورک تایمز، جابجایی و خطر را با کلمات و تصاویری که برای تعریف خانه او آمده است، شرح می دهد.",
+      "summary_fa": "یک عکاس خبری با نیویورک تایمز، جابجایی و خطر را با کلمات و تصاویری که برای تعریف خانه او آمده است، شرح می دهد.",
+      "summary_en": "A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.",
+      "link": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html",
+      "source": "NY Times",
+      "published_at": "Sun, 09 Aug 2026 21:28:02 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/10int-theworld-gaza-saher-promo/10int-theworld-gaza-saher-promo-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "d7df43c533a7658050515637e6c2b66b",
       "title": "مسی در زادگاه روزاریو با پدرش خداحافظی کرد",
       "title_fa": "مسی در زادگاه روزاریو با پدرش خداحافظی کرد",
@@ -86269,6 +86311,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "938ac652e23cfcf792e13ed459d60c31",
+      "title": "دنیل کیناهان، رئیس مظنون جنایت، پس از استرداد در دادگاه حاضر می شود",
+      "title_fa": "دنیل کیناهان، رئیس مظنون جنایت، پس از استرداد در دادگاه حاضر می شود",
+      "title_en": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "summary": "سرویس زندان ایرلند برای انتقال این مرد 49 ساله پس از استرداد از دبی، یک ون ضد گلوله و ضد بمب خریداری کرد.",
+      "summary_fa": "سرویس زندان ایرلند برای انتقال این مرد 49 ساله پس از استرداد از دبی، یک ون ضد گلوله و ضد بمب خریداری کرد.",
+      "summary_en": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 09 Aug 2026 20:58:18 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -86294,6 +86357,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "072281be6c4080f56f5eb14e3ce6ba23",
+      "title": "آلمان پس از کشف پهپاد مملو از مواد منفجره نسبت به «جنگ هیبریدی روزانه» هشدار داد",
+      "title_fa": "آلمان پس از کشف پهپاد مملو از مواد منفجره نسبت به «جنگ هیبریدی روزانه» هشدار داد",
+      "title_en": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+      "summary": "وزیر کشور آلمان می گوید جاسوسی، خرابکاری، حملات سایبری و عملیات مخفی یک واقعیت ثابت است.",
+      "summary_fa": "وزیر کشور آلمان می گوید جاسوسی، خرابکاری، حملات سایبری و عملیات مخفی یک واقعیت ثابت است.",
+      "summary_en": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 20:40:25 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
