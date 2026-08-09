@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 22:48:27",
-  "total_count": 7910,
+  "last_update": "2026-08-09 23:16:24",
+  "total_count": 7913,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,48 @@
       }
     },
     {
+      "id": "a877c2eb75e83638069486670df521f3",
+      "title": "اتحادیه از 108 حمله به روزنامه نگاران فلسطینی در ماه ژوئیه خبر می دهد",
+      "title_fa": "اتحادیه از 108 حمله به روزنامه نگاران فلسطینی در ماه ژوئیه خبر می دهد",
+      "title_en": "Union reports 108 attacks on Palestinian journalists in July",
+      "summary": "سندیکای روزنامه نگاران فلسطینی با کشته شدن بیش از 270 روزنامه نگار از اکتبر 2023 در غزه، تهدیدات فزاینده را افشا می کند.",
+      "summary_fa": "سندیکای روزنامه نگاران فلسطینی با کشته شدن بیش از 270 روزنامه نگار از اکتبر 2023 در غزه، تهدیدات فزاینده را افشا می کند.",
+      "summary_en": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 23:01:25 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "25884b8a223b006dd8a84db20728cd95",
+      "title": "در حالی که سرمایه گذاران منتظر آمار تورم هستند و با نااطمینانی بیشتر ایران دست و پنجه نرم می کنند، قیمت سهام آمریکا کاهش می یابد.",
+      "title_fa": "در حالی که سرمایه گذاران منتظر آمار تورم هستند و با نااطمینانی بیشتر ایران دست و پنجه نرم می کنند، قیمت سهام آمریکا کاهش می یابد.",
+      "title_en": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+      "summary": "پس از اینکه تقاضاهای جدید از سوی ایران تردیدهای جدیدی را درباره بازگشایی تنگه هرمز به زودی و در حالی که سرمایه‌گذاران در انتظار آمارهای کلیدی تورم در اواخر این هفته هستند، ایجاد کرد، قیمت‌های آتی شاخص سهام آمریکا تغییر چندانی نداشت.",
+      "summary_fa": "پس از اینکه تقاضاهای جدید از سوی ایران تردیدهای جدیدی را درباره بازگشایی تنگه هرمز به زودی و در حالی که سرمایه‌گذاران در انتظار آمارهای کلیدی تورم در اواخر این هفته هستند، ایجاد کرد، قیمت‌های آتی شاخص سهام آمریکا تغییر چندانی نداشت.",
+      "summary_en": "U.S. stock-index futures were little changed on Sunday, after new demands from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon and as investors await key inflation data later this week.",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 09 Aug 2026 22:46:00 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-01887892",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "27dfbf49b307e7c51f38ce81da33e6aa",
       "title": "اخبار استرالیا به صورت زنده: مدارس نیوساوت ولز ممکن است تست های خانه را به دلیل نگرانی های هوش مصنوعی ممنوع کنند. وزیر برای هرج و مرج فرودگاه جلسه فوری خواست",
       "title_fa": "اخبار استرالیا به صورت زنده: مدارس نیوساوت ولز ممکن است تست های خانه را به دلیل نگرانی های هوش مصنوعی ممنوع کنند. وزیر برای هرج و مرج فرودگاه جلسه فوری خواست",
@@ -86210,6 +86252,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "ab272c7f6c7b20d509bf8e5ed6ef07fd",
+      "title": "چه چیزی باعث ناآرامی در کشمیر تحت کنترل پاکستان می شود؟",
+      "title_fa": "چه چیزی باعث ناآرامی در کشمیر تحت کنترل پاکستان می شود؟",
+      "title_en": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "summary": "کشمیر تحت مدیریت پاکستان با بزرگترین بحران سیاسی خود در سال های اخیر مواجه است. آوا وارینر از الجزیره توضیح می دهد.",
+      "summary_fa": "کشمیر تحت مدیریت پاکستان با بزرگترین بحران سیاسی خود در سال های اخیر مواجه است. آوا وارینر از الجزیره توضیح می دهد.",
+      "summary_en": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 22:37:11 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
