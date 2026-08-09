@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-09 18:18:51",
-  "total_count": 7882,
+  "last_update": "2026-08-09 19:08:43",
+  "total_count": 7890,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -86192,6 +86192,48 @@
       }
     },
     {
+      "id": "d7df43c533a7658050515637e6c2b66b",
+      "title": "مسی در زادگاه روزاریو با پدرش خداحافظی کرد",
+      "title_fa": "مسی در زادگاه روزاریو با پدرش خداحافظی کرد",
+      "title_en": "Messi says farewell to his father in hometown Rosario",
+      "summary": "لیونل مسی روز یکشنبه، چند روز پس از مرگ او در سن 68 سالگی، در مراسم تدفین خصوصی پدر و ایجنت قدیمی خود خورخه مسی در قبرستان ال پرادو در روزاریو شرکت کرد.",
+      "summary_fa": "لیونل مسی روز یکشنبه، چند روز پس از مرگ او در سن 68 سالگی، در مراسم تدفین خصوصی پدر و ایجنت قدیمی خود خورخه مسی در قبرستان ال پرادو در روزاریو شرکت کرد.",
+      "summary_en": "Lionel Messi attended a private funeral for his father and longtime agent Jorge Messi at El Prado cemetery in Rosario on Sunday, days after his death at the age of 68.",
+      "link": "http://www.euronews.com/video/2026/08/09/messi-says-farewell-to-his-father-in-hometown-rosario",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 20:58:58 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d46a86bcb87a41990ff2d174d206b018",
+      "title": "دنیل کیناهان، رئیس جنایی ایرلندی مظنون از دبی به دوبلین مسترد شد",
+      "title_fa": "دنیل کیناهان، رئیس جنایی ایرلندی مظنون از دبی به دوبلین مسترد شد",
+      "title_en": "Suspected Irish crime boss Daniel Kinahan extradited from Dubai to Dublin",
+      "summary": "گمان می‌رود که کیناهان گروه جنایی سازمان‌یافته کیناهان را اداره می‌کرد که مظنون به قاچاق مواد مخدر به ایرلند، بریتانیا و اسپانیا و همچنین تعداد زیادی اتهام دیگر از جمله پولشویی و قتل است.",
+      "summary_fa": "گمان می‌رود که کیناهان گروه جنایی سازمان‌یافته کیناهان را اداره می‌کرد که مظنون به قاچاق مواد مخدر به ایرلند، بریتانیا و اسپانیا و همچنین تعداد زیادی اتهام دیگر از جمله پولشویی و قتل است.",
+      "summary_en": "Kinahan is believed to have run the Kinahan organised crime group, which is suspected of trafficking narcotics into Ireland, the UK and Spain, as well as a slew of other charges, including money laundering and murder.",
+      "link": "http://www.euronews.com/my-europe/2026/08/09/suspected-irish-crime-boss-daniel-kinahan-extradited-from-dubai-to-dublin",
+      "source": "EuroNews",
+      "published_at": "Sun, 09 Aug 2026 20:52:41 +0200",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "d79f238776dec407b0d7f541666ac36a",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -86210,6 +86252,132 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "0094829a8705514dfedabb1809198875",
+      "title": "ایران در مورد پیمان عربستان، پاکستان و ترکیه کجا ایستاده است؟",
+      "title_fa": "ایران در مورد پیمان عربستان، پاکستان و ترکیه کجا ایستاده است؟",
+      "title_en": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
+      "summary": "تحلیلگران می گویند که ایران فوراً توسط پیمان تهدید نمی شود، زیرا مقامات بر جنبه کاهش نقش ایالات متحده تمرکز می کنند.",
+      "summary_fa": "تحلیلگران می گویند که ایران فوراً توسط پیمان تهدید نمی شود، زیرا مقامات بر جنبه کاهش نقش ایالات متحده تمرکز می کنند.",
+      "summary_en": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 09 Aug 2026 18:44:28 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "957fc07a5ec3102c468a0aad2f4f85dd",
+      "title": "با سپری شدن مهلت رأی گیری حزب جمهوری خواه، مکس میلر در رقابت های مجلس اوهایو باقی می ماند",
+      "title_fa": "با سپری شدن مهلت رأی گیری حزب جمهوری خواه، مکس میلر در رقابت های مجلس اوهایو باقی می ماند",
+      "title_en": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+      "summary": "ماکس میلر، نماینده مجلس نمایندگان، قرار است پس از بسته شدن پنجره حزب جمهوری خواه برای جایگزینی او در انتخابات نوامبر، نامزد جمهوری خواهان در ناحیه هفتم اوهایو باقی بماند.",
+      "summary_fa": "ماکس میلر، نماینده مجلس نمایندگان، قرار است پس از بسته شدن پنجره حزب جمهوری خواه برای جایگزینی او در انتخابات نوامبر، نامزد جمهوری خواهان در ناحیه هفتم اوهایو باقی بماند.",
+      "summary_en": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+      "link": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 18:38:23 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fd44818ea653e4775532300e6ebdc0c7",
+      "title": "دولت کانادا وارد عمل می شود زیرا آتش سوزی های جنگلی \"خارج از کنترل\" هزاران نفر را مجبور به فرار می کند",
+      "title_fa": "دولت کانادا وارد عمل می شود زیرا آتش سوزی های جنگلی \"خارج از کنترل\" هزاران نفر را مجبور به فرار می کند",
+      "title_en": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "summary": "بریتیش کلمبیا در حال مبارزه با 102 آتش سوزی شبانه روز در سراسر استان است، زیرا سرعت سرسام آور تلاش های آتش نشانان را مختل می کند دولت فدرال کانادا اعلام کرده است که پس از هجوم آتش سوزی های بی سابقه و سریع جنگلی که حدود 22000 نفر را مجبور به فرار از خانه های خود کردند، اعلام کرد که به بریتیش کلمبیا کمک فوری خواهد کرد. این استان روز یکشنبه، که تقریبا نیمی از آن به عنوان \"خارج از کنترل\" طبقه بندی شدند، به گفته سرویس آتش سوزی بی سی. از این آتش سوزی ها، 78 مورد در هفته گذشته شعله ور شدند. ادامه مطلب...",
+      "summary_fa": "بریتیش کلمبیا در حال مبارزه با 102 آتش سوزی شبانه روز در سراسر استان است، زیرا سرعت سرسام آور تلاش های آتش نشانان را مختل می کند دولت فدرال کانادا اعلام کرده است که پس از هجوم آتش سوزی های بی سابقه و سریع جنگلی که حدود 22000 نفر را مجبور به فرار از خانه های خود کردند، اعلام کرد که به بریتیش کلمبیا کمک فوری خواهد کرد. این استان روز یکشنبه، که تقریبا نیمی از آن به عنوان \"خارج از کنترل\" طبقه بندی شدند، به گفته سرویس آتش سوزی بی سی. از این آتش سوزی ها، 78 مورد در هفته گذشته شعله ور شدند. ادامه مطلب...",
+      "summary_en": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ effortsCanada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires forced about 22,000 people to flee their homes in frantic evacuations.A total of 102 wildfires were raging across the province on Sunday, of which nearly half were categorised as “out of control”, according to the BC Wildfire Service. Of those fires, 78 ignited during the past week. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "source": "The Guardian",
+      "published_at": "Sun, 09 Aug 2026 18:20:25 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d430cbfd2ba568e638adef3c68e9dfd626c145a3/317_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=726a139367f12898d5cf4b0779a5ab70",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "047f51502d944d551d0e23a21f13e8f5",
+      "title": "کارشناس می‌گوید: 5 قانون شغلی که والدینتان به شما آموخته‌اند که بر علیه شما کار می‌کنند - و در عوض چه کاری انجام دهید",
+      "title_fa": "کارشناس می‌گوید: 5 قانون شغلی که والدینتان به شما آموخته‌اند که بر علیه شما کار می‌کنند - و در عوض چه کاری انجام دهید",
+      "title_en": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
+      "summary": "ملودی وایلدینگ، مربی اجرایی، نویسنده کتاب «Managing Up» می‌گوید: «توصیه‌های شغلی با نیت خوب که از سنین جوانی جذب می‌شوند، می‌توانند علیه شما کارساز باشند».",
+      "summary_fa": "ملودی وایلدینگ، مربی اجرایی، نویسنده کتاب «Managing Up» می‌گوید: «توصیه‌های شغلی با نیت خوب که از سنین جوانی جذب می‌شوند، می‌توانند علیه شما کارساز باشند».",
+      "summary_en": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+      "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "source": "CNBC",
+      "published_at": "Sun, 09 Aug 2026 18:18:34 GMT",
+      "date_iso": "2026-08-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "13c983b64dfb67c6e4711a87bb2afee0",
+      "title": "ایران تپ Longtime I.R.G.C. فرمانده محسن رضایی به پست امنیتی عالی",
+      "title_fa": "ایران تپ Longtime I.R.G.C. فرمانده محسن رضایی به پست امنیتی عالی",
+      "title_en": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+      "summary": "انتصاب محسن رضایی به عنوان دبیر شورای عالی امنیت ملی حاکی از آن است که گارد قدیمی ایران در حال تحکیم قدرت است.",
+      "summary_fa": "انتصاب محسن رضایی به عنوان دبیر شورای عالی امنیت ملی حاکی از آن است که گارد قدیمی ایران در حال تحکیم قدرت است.",
+      "summary_en": "The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+      "source": "NY Times",
+      "published_at": "Sun, 09 Aug 2026 18:18:22 +0000",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/00-int-iran-security-1-ltjf/00-int-iran-security-1-ltjf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "202a7282bbdca55d590b862715924d0b",
+      "title": "طوفان دلفین به عنوان قوی ترین طوفان امسال خود به چین رسید",
+      "title_fa": "طوفان دلفین به عنوان قوی ترین طوفان امسال خود به چین رسید",
+      "title_en": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
+      "summary": "طوفان استوایی پس از برخورد با استان اوکیناوا در جنوب ژاپن، باران سیل آسا و بادهای شدید را به سواحل شرقی می آورد. استان اوکیناوا در جنوب ژاپن را فرا گرفت و شش نفر را مجروح کرد و برق بیش از 50000 ساختمان را قطع کرد. ادامه مطلب...",
+      "summary_fa": "طوفان استوایی پس از برخورد با استان اوکیناوا در جنوب ژاپن، باران سیل آسا و بادهای شدید را به سواحل شرقی می آورد. استان اوکیناوا در جنوب ژاپن را فرا گرفت و شش نفر را مجروح کرد و برق بیش از 50000 ساختمان را قطع کرد. ادامه مطلب...",
+      "summary_en": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa provinceTyphoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong ⁠winds and triggering warnings ​of flooding and landslides.The storm has already swept through Japan’s southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
+      "source": "The Guardian",
+      "published_at": "Sun, 09 Aug 2026 18:13:57 GMT",
+      "date_iso": "2026-08-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/3e8c6be8fd658a84e9988f87ef3012e3ac4d67ec/401_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c932cef553625465d51c20516ef83f91",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
