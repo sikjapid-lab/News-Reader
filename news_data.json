@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-10 17:34:44",
-  "total_count": 8269,
+  "last_update": "2026-08-10 18:30:28",
+  "total_count": 8285,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -119622,6 +119622,48 @@
       }
     },
     {
+      "id": "59a2fae2667bb1bfd74ea60a95f13573",
+      "title": "دولت می گوید خشکسالی باعث محدودیت آب در تقریبا 70 درصد از فرانسه شده است",
+      "title_fa": "دولت می گوید خشکسالی باعث محدودیت آب در تقریبا 70 درصد از فرانسه شده است",
+      "title_en": "Drought forces water restrictions across nearly 70% of France, government says",
+      "summary": "مجموعه ای از موج های گرما طی سه ماه گذشته، همراه با خشکسالی، رکوردهای دمایی را شکسته، هزاران نفر را تلفات جانی بیش از حد کرده و آتش سوزی های گسترده ای را دامن زده است.",
+      "summary_fa": "مجموعه ای از موج های گرما طی سه ماه گذشته، همراه با خشکسالی، رکوردهای دمایی را شکسته، هزاران نفر را تلفات جانی بیش از حد کرده و آتش سوزی های گسترده ای را دامن زده است.",
+      "summary_en": "A series of heatwaves over the past three months, compounded by drought, have broken temperature records, caused thousands of excess deaths, and fuelled massive wildfires.",
+      "link": "http://www.euronews.com/my-europe/2026/08/10/drought-forces-water-restrictions-across-nearly-70-of-france-government-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 10 Aug 2026 20:18:20 +0200",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d2d0bcbaf211cc05ef62f686ead3f748",
+      "title": "رهبر سئوتا پس از هجوم گسترده مهاجران از مراکش، خواهان بازداشتگاه مهاجران است",
+      "title_fa": "رهبر سئوتا پس از هجوم گسترده مهاجران از مراکش، خواهان بازداشتگاه مهاجران است",
+      "title_en": "Ceuta leader wants migrant detention centre after mass influx from Morocco",
+      "summary": "بر اساس آمارهای دولت اسپانیا، حدود 72000 مهاجر در یک عجله بی سابقه و مرگبار بین 30 تا 31 ژوئیه مرز را شکستند و 70000 نفر از آن زمان به مراکش بازگشته اند.",
+      "summary_fa": "بر اساس آمارهای دولت اسپانیا، حدود 72000 مهاجر در یک عجله بی سابقه و مرگبار بین 30 تا 31 ژوئیه مرز را شکستند و 70000 نفر از آن زمان به مراکش بازگشته اند.",
+      "summary_en": "Some 72,000 migrants breached the border in an unprecedented and deadly rush between 30-31 July, with 70,000 having since returned to Morocco, according to Spanish government figures.",
+      "link": "http://www.euronews.com/my-europe/2026/08/10/ceuta-leader-wants-migrant-detention-centre-after-mass-influx-from-morocco",
+      "source": "EuroNews",
+      "published_at": "Mon, 10 Aug 2026 20:10:05 +0200",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "53ffec1c25b68e9c06b0d6492350b040",
       "title": "دولت بریتانیا می گوید که خشکسالی در «تقریباً سه چهارم» انگلستان اعلام شده است",
       "title_fa": "دولت بریتانیا می گوید که خشکسالی در «تقریباً سه چهارم» انگلستان اعلام شده است",
@@ -119664,6 +119706,111 @@
       }
     },
     {
+      "id": "e77082e2c21669dc76ece2f90fc771e4",
+      "title": "دادگاه روسیه تنها احزاب ضد جنگ را از شرکت در انتخابات پارلمانی منع می کند",
+      "title_fa": "دادگاه روسیه تنها احزاب ضد جنگ را از شرکت در انتخابات پارلمانی منع می کند",
+      "title_en": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "summary": "دادگاه مسکو اعلام کرد تنها حزب لیبرال و ضد جنگ روسیه نمی تواند در انتخابات پارلمانی ماه آینده شرکت کند.",
+      "summary_fa": "دادگاه مسکو اعلام کرد تنها حزب لیبرال و ضد جنگ روسیه نمی تواند در انتخابات پارلمانی ماه آینده شرکت کند.",
+      "summary_en": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 10 Aug 2026 18:19:41 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3520/live/5abf3640-94dd-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f0ed545524013890ee82618e8f3501b5",
+      "title": "تلاش عمان برای مهار نشت نفت از نفتکش آسیب دیده",
+      "title_fa": "تلاش عمان برای مهار نشت نفت از نفتکش آسیب دیده",
+      "title_en": "Oman trying to contain extensive oil spill from stricken tanker",
+      "summary": "اعتقاد بر این است که کارولین بزنگی بخشی از \"ناوگان سایه\" روسیه است که مسکو از آن برای دور زدن تحریم های غرب استفاده می کند.",
+      "summary_fa": "اعتقاد بر این است که کارولین بزنگی بخشی از \"ناوگان سایه\" روسیه است که مسکو از آن برای دور زدن تحریم های غرب استفاده می کند.",
+      "summary_en": "The Caroline Bezengi is believed to be part of Russia's 'shadow fleet' that Moscow uses to circumvent Western sanctions.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 18:15:23 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "15d43c30432780cd50d86234cfb7677f",
+      "title": "ده ها نفر در پی زلزله قدرتمند غرب کلمبیا کشته شدند",
+      "title_fa": "ده ها نفر در پی زلزله قدرتمند غرب کلمبیا کشته شدند",
+      "title_en": "Dozens dead after powerful earthquake strikes western Colombia",
+      "summary": "زمین لرزه 7.4 ریشتری ریزش کرد و به ساختمان ها در چندین شهر بزرگ از جمله زمین لرزه کالی و پریرا کلمبیا آسیب جدی وارد کرد - آخرین به روز رسانی ها بیش از 80 نفر پس از زلزله قدرتمند غرب کلمبیا، ریزش و آسیب شدید به تعداد زیادی از ساختمان ها در شهرهای بزرگ آمریکا جان خود را از دست دادند. زمین لرزه ای به بزرگی 7.4 ریشتر ساعت 7:34 صبح روز دوشنبه به وقت محلی (13:34 BST) با مرکز آن در بخش غربی Choco به وقوع پیوست. همچنین در کشور همسایه ونزوئلا احساس شد که هنوز هم در اثر زلزله دوگانه مرگبار در 24 ژوئن در حال چرخش است. ادامه مطلب...",
+      "summary_fa": "زمین لرزه 7.4 ریشتری ریزش کرد و به ساختمان ها در چندین شهر بزرگ از جمله زمین لرزه کالی و پریرا کلمبیا آسیب جدی وارد کرد - آخرین به روز رسانی ها بیش از 80 نفر پس از زلزله قدرتمند غرب کلمبیا، ریزش و آسیب شدید به تعداد زیادی از ساختمان ها در شهرهای بزرگ آمریکا جان خود را از دست دادند. زمین لرزه ای به بزرگی 7.4 ریشتر ساعت 7:34 صبح روز دوشنبه به وقت محلی (13:34 BST) با مرکز آن در بخش غربی Choco به وقوع پیوست. همچنین در کشور همسایه ونزوئلا احساس شد که هنوز هم در اثر زلزله دوگانه مرگبار در 24 ژوئن در حال چرخش است. ادامه مطلب...",
+      "summary_en": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and PereiraColombia earthquake live – latest updatesMore than 80 people have died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of buildings in major cities including Cali and Pereira.The US and Colombian geological surveys reported that a 7.4-magnitude earthquake struck at 7.34am local time (13.34 BST) on Monday, with its epicentre in the western department of Chocó. It was also felt in neighbouring Venezuela, which is still reeling from a deadly double earthquake on 24 June. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian",
+      "published_at": "Mon, 10 Aug 2026 18:11:06 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/18957e6c34be30efa7537d3518bf9de153e9b7e7/96_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f03cb21758e8e706a5cbff5815ac9f46",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c8f06cd1d0e4b54c2ff4ac8fa01b1415",
+      "title": "2 نمودار نشان می دهد که تا به حال \"سقوط\" بازار سهام تا چه حد دیوانه کننده بوده است",
+      "title_fa": "2 نمودار نشان می دهد که تا به حال \"سقوط\" بازار سهام تا چه حد دیوانه کننده بوده است",
+      "title_en": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far",
+      "summary": "هنگامی که سهام در اواخر ماه گذشته به طور ناگهانی بالا رفتند، بسیاری از سرمایه‌گذاران دستپاچه شدند، زیرا حرکت دراماتیک جولای با نشانه‌ای از خوش‌بینی به پایان رسید.",
+      "summary_fa": "هنگامی که سهام در اواخر ماه گذشته به طور ناگهانی بالا رفتند، بسیاری از سرمایه‌گذاران دستپاچه شدند، زیرا حرکت دراماتیک جولای با نشانه‌ای از خوش‌بینی به پایان رسید.",
+      "summary_en": "Many investors were caught flat-footed when stocks suddenly jerked higher late last month, as a dramatic July momentum unwind ended with a hint of optimism.",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-just-how-insane-the-stock-markets-august-crash-up-has-been-so-far-b822404d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 18:08:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-14651819",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e785c8612dec7d78a9bdd499fc4c7b2e",
+      "title": "اجازه ندهید کاهش رتبه اپل توسط تحلیلگر وال استریت شما را از سهام بترساند",
+      "title_fa": "اجازه ندهید کاهش رتبه اپل توسط تحلیلگر وال استریت شما را از سهام بترساند",
+      "title_en": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
+      "summary": "ادیسون لی، تحلیلگر Jefferies به بررسی های زنجیره تامین اشاره کرد.",
+      "summary_fa": "ادیسون لی، تحلیلگر Jefferies به بررسی های زنجیره تامین اشاره کرد.",
+      "summary_en": "Jefferies analyst Edison Lee cited supply chain checks.",
+      "link": "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 18:06:55 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f742ff2fe316a72310216d5e5054e727",
       "title": "آخرین بولتن اخبار | 10 آگوست 2026 - عصر",
       "title_fa": "آخرین بولتن اخبار | 10 آگوست 2026 - عصر",
@@ -119685,6 +119832,90 @@
       }
     },
     {
+      "id": "ed5c52d6bb8d3b3de07dfeb35962a50f",
+      "title": "سخنگوی زاکربرگ می گوید که خدمه قایق بادبانی صدای کمک را نشنیده اند",
+      "title_fa": "سخنگوی زاکربرگ می گوید که خدمه قایق بادبانی صدای کمک را نشنیده اند",
+      "title_en": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
+      "summary": "اسکیف در سواحل آلاسکا پس از اینکه خدمه قایق زاکربرگ به موقع پاسخ ندادند، از یک کشتی تفریحی در همان نزدیکی کمک دریافت کرد.",
+      "summary_fa": "اسکیف در سواحل آلاسکا پس از اینکه خدمه قایق زاکربرگ به موقع پاسخ ندادند، از یک کشتی تفریحی در همان نزدیکی کمک دریافت کرد.",
+      "summary_en": "A skiff off Alaska coast received help from a nearby cruise ship after Zuckerberg's yacht crew did not respond in time.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 17:51:18 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a0861e8df700149b46fc60af3d29c013",
+      "title": "سازمان جهانی بهداشت هشدار داد که ما در تعقیب ویروس ابولا هستیم - این ویروس از ما جلوتر است",
+      "title_fa": "سازمان جهانی بهداشت هشدار داد که ما در تعقیب ویروس ابولا هستیم - این ویروس از ما جلوتر است",
+      "title_en": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "summary": "نرخ عفونت بالا است و این نگرانی را افزایش می دهد که مقامات در تلاش برای مقابله با این بیماری هستند.",
+      "summary_fa": "نرخ عفونت بالا است و این نگرانی را افزایش می دهد که مقامات در تلاش برای مقابله با این بیماری هستند.",
+      "summary_en": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 10 Aug 2026 17:50:29 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f26a52e7dde2e8f02b204af7eb62f4d4",
+      "title": "CrowdStrike و Palo Alto پس از کنفرانس سایبری Black Hat که تهدیدات هوش مصنوعی رو به افزایش را روشن می کند رکورد زدند.",
+      "title_fa": "CrowdStrike و Palo Alto پس از کنفرانس سایبری Black Hat که تهدیدات هوش مصنوعی رو به افزایش را روشن می کند رکورد زدند.",
+      "title_en": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+      "summary": "کنفرانس سالانه کلاه سیاه صنعت، تقاضا برای ابزارهای امنیت سایبری مبتنی بر هوش مصنوعی را تجدید کرد.",
+      "summary_fa": "کنفرانس سالانه کلاه سیاه صنعت، تقاضا برای ابزارهای امنیت سایبری مبتنی بر هوش مصنوعی را تجدید کرد.",
+      "summary_en": "The industry's annual Black Hat conference renewed demand for AI-powered cybersecurity tools",
+      "link": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 17:49:27 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "342eb6fcf5805b5e92048b8e09aebdae",
+      "title": "اوکراین در نبرد آسمان به کمک بیشتری نیاز دارد",
+      "title_fa": "اوکراین در نبرد آسمان به کمک بیشتری نیاز دارد",
+      "title_en": "Ukraine needs more help in the battle of the sky",
+      "summary": "کیف برای مقاومت در برابر حملات موشکی بالستیک روسیه کمبود رهگیر دارد",
+      "summary_fa": "کیف برای مقاومت در برابر حملات موشکی بالستیک روسیه کمبود رهگیر دارد",
+      "summary_en": "Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks",
+      "link": "https://www.ft.com/content/63718844-91f6-46c9-beae-fc3906f4dbb4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 10 Aug 2026 17:32:10 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33e41ff5-3636-491c-854b-9f78903687ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "503855eb2b405144376105e92cff3365",
       "title": "زمین لرزه 7.4 ریشتری در کلمبیا دست کم 73 کشته بر جای گذاشت",
       "title_fa": "زمین لرزه 7.4 ریشتری در کلمبیا دست کم 73 کشته بر جای گذاشت",
@@ -119703,6 +119934,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cb8bd0b30329369c757954543f2d7521",
+      "title": "فوتبال باشگاهی فلسطین در ماه سپتامبر پس از تعلیق جنگ غزه از سر گرفته می شود",
+      "title_fa": "فوتبال باشگاهی فلسطین در ماه سپتامبر پس از تعلیق جنگ غزه از سر گرفته می شود",
+      "title_en": "Palestinian club football to restart in September after Gaza war suspension",
+      "summary": "لیگ های ورزشی فلسطین از جمله فوتبال حرفه ای به دلیل جنگ نسل کشی اسرائیل علیه فلسطینی ها متوقف شد.",
+      "summary_fa": "لیگ های ورزشی فلسطین از جمله فوتبال حرفه ای به دلیل جنگ نسل کشی اسرائیل علیه فلسطینی ها متوقف شد.",
+      "summary_en": "Palestinian sports leagues, including professional football, were halted due to Israel's genocidal war on Palestinians.",
+      "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 17:30:36 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -120546,6 +120798,27 @@
       }
     },
     {
+      "id": "8d3568a1d01f5212626635f5787604cf",
+      "title": "حداقل 73 کشته بر اثر زمین لرزه بزرگ کلمبیا و همسایگان آن تایید شده است",
+      "title_fa": "حداقل 73 کشته بر اثر زمین لرزه بزرگ کلمبیا و همسایگان آن تایید شده است",
+      "title_en": "At least 73 confirmed dead after major earthquake rocks Colombia and neighbours",
+      "summary": "سازمان زمین شناسی کلمبیا شدت این زمین لرزه را 6.6 ریشتر و همتای آمریکایی آن USGS آن را 7.4 اعلام کرده است.",
+      "summary_fa": "سازمان زمین شناسی کلمبیا شدت این زمین لرزه را 6.6 ریشتر و همتای آمریکایی آن USGS آن را 7.4 اعلام کرده است.",
+      "summary_en": "The Colombian geological service put the magnitude of the quake at 6.6 while its American counterpart USGS put it at 7.4.",
+      "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 10 Aug 2026 15:42:57 +0200",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "130e8122f27b7d44c83a35b306e6d17c",
       "title": "زمین لرزه 7.4 ریشتری در کلمبیا حداقل 20 کشته بر جای گذاشت",
       "title_fa": "زمین لرزه 7.4 ریشتری در کلمبیا حداقل 20 کشته بر جای گذاشت",
@@ -121054,6 +121327,27 @@
       "title": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 47 کشته بر جای گذاشت",
       "title_fa": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 47 کشته بر جای گذاشت",
       "title_en": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
+      "summary": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
+      "summary_fa": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
+      "summary_en": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 14:57:08 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e08e40e7b55403751c8ede65ec720d0e",
+      "title": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 69 کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 69 کشته بر جای گذاشت",
+      "title_en": "Earthquake with 7.4 magnitude hits Colombia, killing at least 69",
       "summary": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
       "summary_fa": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
       "summary_en": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
@@ -161951,6 +162245,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ff388f02832ce7dfd5af18d12d20c3e",
+      "title": "از رویداد راه‌اندازی سخت‌افزار پیکسل ۲۰۲۶ گوگل چه انتظاری داریم؟",
+      "title_fa": "از رویداد راه‌اندازی سخت‌افزار پیکسل ۲۰۲۶ گوگل چه انتظاری داریم؟",
+      "title_en": "What to expect from Google’s 2026 Pixel hardware launch event",
+      "summary": "آن زمان از سال است: در روز چهارشنبه، گوگل قرار است میزبان رویداد سالانه عرضه سخت افزار Made by Google برای گجت های پیکسل باشد. خود گوگل قبلاً گوشی‌های هوشمند جدید پیکسل را به سبک اسلب و تاشو معرفی کرده است، اما فاش شده همچنین نشان می‌دهد که این شرکت می‌تواند ساعت‌های به‌روز شده، رنگی جدید برای هدفون‌های آشنا و شاید یک برند را معرفی کند.",
+      "summary_fa": "آن زمان از سال است: در روز چهارشنبه، گوگل قرار است میزبان رویداد سالانه عرضه سخت افزار Made by Google برای گجت های پیکسل باشد. خود گوگل قبلاً گوشی‌های هوشمند جدید پیکسل را به سبک اسلب و تاشو معرفی کرده است، اما فاش شده همچنین نشان می‌دهد که این شرکت می‌تواند ساعت‌های به‌روز شده، رنگی جدید برای هدفون‌های آشنا و شاید یک برند را معرفی کند.",
+      "summary_en": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand […]",
+      "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+      "source": "The Verge",
+      "published_at": "2026-08-10T13:30:00-04:00",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ff1705901e382f0c6258bd823433eb8e",
+      "title": "یوتیوب کسب درآمد در یوتیوب را سخت تر می کند",
+      "title_fa": "یوتیوب کسب درآمد در یوتیوب را سخت تر می کند",
+      "title_en": "YouTube is making it harder to earn money on YouTube",
+      "summary": "از اول فوریه 2027، سازندگانی که می‌خواهند از طریق برنامه شریک YouTube (YPP) از کانال خود کسب درآمد کنند، به حداقل 1000 مشترک و 8000 ساعت تماشای واجد شرایط در سال گذشته یا 20 میلیون بازدید واجد شرایط از Shorts در 90 روز گذشته نیاز دارند. این یک جهش قابل توجه از نیاز فعلی YouTube به 1000 مشترک با […]",
+      "summary_fa": "از اول فوریه 2027، سازندگانی که می‌خواهند از طریق برنامه شریک YouTube (YPP) از کانال خود کسب درآمد کنند، به حداقل 1000 مشترک و 8000 ساعت تماشای واجد شرایط در سال گذشته یا 20 میلیون بازدید واجد شرایط از Shorts در 90 روز گذشته نیاز دارند. این یک جهش قابل توجه از نیاز فعلی YouTube به 1000 مشترک با […]",
+      "summary_en": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a sizeable jump from YouTube's current requirement of 1,000 subscribers with […]",
+      "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+      "source": "The Verge",
+      "published_at": "2026-08-10T13:26:46-04:00",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
