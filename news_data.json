@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-10 19:36:34",
-  "total_count": 8310,
+  "last_update": "2026-08-10 20:21:32",
+  "total_count": 8326,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -119622,6 +119622,27 @@
       }
     },
     {
+      "id": "38522fe9fc8e43bdbb6eca394b41e69d",
+      "title": "زلنسکی می گوید روسیه در حال آماده شدن برای استقرار نیروهای بیشتر کره شمالی در خاک خود است",
+      "title_fa": "زلنسکی می گوید روسیه در حال آماده شدن برای استقرار نیروهای بیشتر کره شمالی در خاک خود است",
+      "title_en": "Russia preparing to station more North Korean troops on its territory, Zelenskyy says",
+      "summary": "در آخر هفته، زلنسکی گفت تصمیم گرفته شده است که 30 تا 50 هزار نفر از کره شمالی در خاک روسیه مستقر شوند. او توضیح نداد که چگونه این ارقام را به دست آورده است.",
+      "summary_fa": "در آخر هفته، زلنسکی گفت تصمیم گرفته شده است که 30 تا 50 هزار نفر از کره شمالی در خاک روسیه مستقر شوند. او توضیح نداد که چگونه این ارقام را به دست آورده است.",
+      "summary_en": "At the weekend, Zelenskyy said a decision had been taken for 30,000-50,000 North Koreans to be deployed on Russian soil. He did not explain how he obtained the figures.",
+      "link": "http://www.euronews.com/my-europe/2026/08/10/russia-preparing-to-station-more-north-korean-troops-on-its-territory-zelenskyy-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 10 Aug 2026 21:55:30 +0200",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "3c06ca15f4b4c17aa08a55089bf44052",
       "title": "تاد بلانچ به عنوان دادستان کل ایالات متحده سوگند یاد کرد پس از کبودی دعوای تاییدیه",
       "title_fa": "تاد بلانچ به عنوان دادستان کل ایالات متحده سوگند یاد کرد پس از کبودی دعوای تاییدیه",
@@ -119685,6 +119706,69 @@
       }
     },
     {
+      "id": "ea90a1120846d17038bb674a1c56c565",
+      "title": "EBay ممکن است از تصاحب GameStop طفره رود - اما یک پیچ جدید در حماسه رایان کوهن وجود دارد",
+      "title_fa": "EBay ممکن است از تصاحب GameStop طفره رود - اما یک پیچ جدید در حماسه رایان کوهن وجود دارد",
+      "title_en": "EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga",
+      "summary": "بلومبرگ می گوید که GameStop می تواند پیشنهاد همکاری با eBay را به روشی غیر از ادغام ارائه دهد. برخی از تحلیلگران تردید دارند که آیا eBay از این نوع معامله سود زیادی می برد.",
+      "summary_fa": "بلومبرگ می گوید که GameStop می تواند پیشنهاد همکاری با eBay را به روشی غیر از ادغام ارائه دهد. برخی از تحلیلگران تردید دارند که آیا eBay از این نوع معامله سود زیادی می برد.",
+      "summary_en": "Bloomberg says GameStop could propose collaborating with eBay in some way other than a merger. Some analysts doubt whether eBay would benefit much from that sort of deal.",
+      "link": "https://www.marketwatch.com/story/ebay-may-dodge-a-gamestop-takeover-but-theres-a-new-twist-in-the-ryan-cohen-saga-d779b753?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 20:17:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-60456696",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "89efabac659abc4295d033e13fbe61e4",
+      "title": "ترامپ دستور محدود کردن واکسن های دوران کودکی و تقسیم واکسن های MMR را امضا می کند",
+      "title_fa": "ترامپ دستور محدود کردن واکسن های دوران کودکی و تقسیم واکسن های MMR را امضا می کند",
+      "title_en": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "دولت ترامپ توصیه می کند که واکسن سرخک، اوریون و سرخجه را در سه واکسن مختلف که در بازدیدهای جداگانه تجویز می شود، جدا کنید.",
+      "summary_fa": "دولت ترامپ توصیه می کند که واکسن سرخک، اوریون و سرخجه را در سه واکسن مختلف که در بازدیدهای جداگانه تجویز می شود، جدا کنید.",
+      "summary_en": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 10 Aug 2026 20:16:34 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5647/live/b36560e0-94f5-11f1-9181-85140b8ce01b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8babdaa8aea655970fb7d579aa0a26b3",
+      "title": "بوئینگ شرکت های تابعه eVTOL را می فروشد و در آرچر سهام می گیرد",
+      "title_fa": "بوئینگ شرکت های تابعه eVTOL را می فروشد و در آرچر سهام می گیرد",
+      "title_en": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+      "summary": "بوئینگ در ازای سهمی در استارتاپ eVTOL، سه شرکت تابعه خود را به Archer Aviation می فروشد.",
+      "summary_fa": "بوئینگ در ازای سهمی در استارتاپ eVTOL، سه شرکت تابعه خود را به Archer Aviation می فروشد.",
+      "summary_en": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the eVTOL startup.",
+      "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 20:11:09 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d2d0bcbaf211cc05ef62f686ead3f748",
       "title": "رهبر سئوتا پس از هجوم گسترده مهاجران از مراکش، خواهان بازداشتگاه مهاجران است",
       "title_fa": "رهبر سئوتا پس از هجوم گسترده مهاجران از مراکش، خواهان بازداشتگاه مهاجران است",
@@ -119699,6 +119783,216 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "31e8f61972699540779216c0bd44a424",
+      "title": "سهام اسپیس ایکس مجدداً رشد کرد و برای اولین بار در هفته های گذشته به بالای 135 دلار رسید",
+      "title_fa": "سهام اسپیس ایکس مجدداً رشد کرد و برای اولین بار در هفته های گذشته به بالای 135 دلار رسید",
+      "title_en": "SpaceX stock rebounds, closing above $135 IPO price for first time in weeks",
+      "summary": "اسپیس ایکس در گزارش درآمد سه ماهه دوم هفته گذشته خود درآمدی بهتر از حد انتظار داشت.",
+      "summary_fa": "اسپیس ایکس در گزارش درآمد سه ماهه دوم هفته گذشته خود درآمدی بهتر از حد انتظار داشت.",
+      "summary_en": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+      "link": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 20:08:55 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17420b2d0b28869960ee6cd3c3c57f4a",
+      "title": "سوپرقایق زاکربرگ کانال اضطراری را نادیده گرفت و نتوانست به قایق سرگردان کمک کند",
+      "title_fa": "سوپرقایق زاکربرگ کانال اضطراری را نادیده گرفت و نتوانست به قایق سرگردان کمک کند",
+      "title_en": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+      "summary": "قایق تفریحی و کشتی پشتیبانی زاکربرگ در گوش دادن به فراخوان گارد ساحلی کند بودند.",
+      "summary_fa": "قایق تفریحی و کشتی پشتیبانی زاکربرگ در گوش دادن به فراخوان گارد ساحلی کند بودند.",
+      "summary_en": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
+      "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 20:01:15 +0000",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2190858040-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d098ebb176a78f19c8c9ad495a6b1f9a",
+      "title": "خبر خوب برای گاوهای بازار سهام: رشد درآمد شرکت‌ها دیگر صرفاً توسط فناوری هدایت نمی‌شود",
+      "title_fa": "خبر خوب برای گاوهای بازار سهام: رشد درآمد شرکت‌ها دیگر صرفاً توسط فناوری هدایت نمی‌شود",
+      "title_en": "Good news for stock-market bulls: Corporate earnings growth is no longer being driven just by tech",
+      "summary": "برای سال‌ها، موتور درآمد S&P 500 تنها یک محرک داشت: Magnificent Seven. در این سه ماهه، بقیه بازار شروع به کشیدن وزن خود کرده است.",
+      "summary_fa": "برای سال‌ها، موتور درآمد S&P 500 تنها یک محرک داشت: Magnificent Seven. در این سه ماهه، بقیه بازار شروع به کشیدن وزن خود کرده است.",
+      "summary_en": "For years, the S&P 500’s earnings engine had only one driver: the Magnificent Seven. This quarter, the rest of the market has started pulling its weight.",
+      "link": "https://www.marketwatch.com/story/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech-ddac973b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 20:00:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-48617111",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48ca911d68629ac9259f62ffb0f57a3a",
+      "title": "زلزله کلمبیا آبلاردو د لا اسپریلا، رئیس جمهور جدید آن را در معرض آزمایش قرار داد",
+      "title_fa": "زلزله کلمبیا آبلاردو د لا اسپریلا، رئیس جمهور جدید آن را در معرض آزمایش قرار داد",
+      "title_en": "Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test",
+      "summary": "آبلاردو د لا اسپریلا تا زمان تحلیف خود در روز جمعه هرگز منصب دولتی نداشت. اکنون، او در راس یک واکنش فاجعه بزرگ قرار دارد.",
+      "summary_fa": "آبلاردو د لا اسپریلا تا زمان تحلیف خود در روز جمعه هرگز منصب دولتی نداشت. اکنون، او در راس یک واکنش فاجعه بزرگ قرار دارد.",
+      "summary_en": "Abelardo De La Espriella had never held public office until his inauguration on Friday. Now, he is at the helm of a major disaster response.",
+      "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 19:59:29 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10colombia-quake-colombia-background-tlmp/10colombia-quake-colombia-background-tlmp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c4b5cea25834324c5d9cb368ffac2e5",
+      "title": "تصاویری از کلمبیای زلزله زده منتشر می شود",
+      "title_fa": "تصاویری از کلمبیای زلزله زده منتشر می شود",
+      "title_en": "Images Emerge From Quake-Battered Colombia",
+      "summary": "قوی ترین زلزله در یک دهه در منطقه ساحل اقیانوس آرام رخ داد و بیش از 100 نفر را کشت.",
+      "summary_fa": "قوی ترین زلزله در یک دهه در منطقه ساحل اقیانوس آرام رخ داد و بیش از 100 نفر را کشت.",
+      "summary_en": "The most powerful temblor in a decade struck in a Pacific Coast region, killing over 100 people.",
+      "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 19:56:34 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10Int-Colombia-Quake-Photos-01-zhtw/10Int-Colombia-Quake-Photos-01-zhtw-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "87eeb551eb1864bd158b28596574dc62",
+      "title": "این ابزار جیبی به کاهش زمان صفحه نمایش ویرایشگر ما کمک کرد - و در فروش است",
+      "title_fa": "این ابزار جیبی به کاهش زمان صفحه نمایش ویرایشگر ما کمک کرد - و در فروش است",
+      "title_en": "This pocket-sized gadget helped cut down our editor's screen time - and it's on sale",
+      "summary": "آجر می تواند زمان نمایش شما را کاهش دهد و برای مدت محدودی در فروش است.",
+      "summary_fa": "آجر می تواند زمان نمایش شما را کاهش دهد و برای مدت محدودی در فروش است.",
+      "summary_en": "Brick can curb your screen time, and it's on sale for a limited time.",
+      "link": "https://www.zdnet.com/article/brick-back-to-school-deal/",
+      "source": "ZDNet",
+      "published_at": "Mon, 10 Aug 2026 19:50:28 GMT",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "284d4718815ebe61c9450488739a46c7",
+      "title": "روسیه تنها حزب مخالف جنگ در اوکراین را از رای گیری پارلمان منع می کند",
+      "title_fa": "روسیه تنها حزب مخالف جنگ در اوکراین را از رای گیری پارلمان منع می کند",
+      "title_en": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+      "summary": "حزب ناسیونالیست رودینا که طرفدار کرملین است، حزب یابلوکو را به دریافت حمایت اعلام نشده از مبارزات انتخاباتی متهم کرد.",
+      "summary_fa": "حزب ناسیونالیست رودینا که طرفدار کرملین است، حزب یابلوکو را به دریافت حمایت اعلام نشده از مبارزات انتخاباتی متهم کرد.",
+      "summary_en": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 19:47:13 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "bb277a46423ce3d2cf50b97a6b77fee1",
+      "title": "وزارت خارجه آمریکا: دولت ترامپ بیش از 175000 ویزا را لغو کرده است",
+      "title_fa": "وزارت خارجه آمریکا: دولت ترامپ بیش از 175000 ویزا را لغو کرده است",
+      "title_en": "Trump administration has revoked over 175,000 visas: US State Department",
+      "summary": "این وزارت گفت که بیشتر لغو روادید ناشی از برخوردهای مجری قانون شامل فعالیت های مجرمانه است.",
+      "summary_fa": "این وزارت گفت که بیشتر لغو روادید ناشی از برخوردهای مجری قانون شامل فعالیت های مجرمانه است.",
+      "summary_en": "Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 19:46:34 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f899250e620722f8ae7319eec4630a9d",
+      "title": "این تغییر Nvidia می تواند خبر خوبی برای Micron باشد",
+      "title_fa": "این تغییر Nvidia می تواند خبر خوبی برای Micron باشد",
+      "title_en": "This Nvidia change could spell good news for Micron",
+      "summary": "یک تحلیلگر می گوید که اقدام انویدیا برای کاهش برخی از قابلیت های تراشه می تواند منجر به افزایش مصرف حافظه با پهنای باند بالا شود.",
+      "summary_fa": "یک تحلیلگر می گوید که اقدام انویدیا برای کاهش برخی از قابلیت های تراشه می تواند منجر به افزایش مصرف حافظه با پهنای باند بالا شود.",
+      "summary_en": "An analyst says that Nvidia’s move to downgrade some chip capabilities could end up boosting consumption of high-bandwidth memory.",
+      "link": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 19:42:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-63646093",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc38c419219f0f64be9887dc8a30b0b4",
+      "title": "چگونه طرفداران «هری پاتر» از قبر دابی در برابر کابل برق بریتانیا-ایرلند محافظت کردند",
+      "title_fa": "چگونه طرفداران «هری پاتر» از قبر دابی در برابر کابل برق بریتانیا-ایرلند محافظت کردند",
+      "title_en": "How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable",
+      "summary": "در اینجا دابی، یک جن آزاد نهفته است. هیچ کابل برق در چشم نخواهد بود.",
+      "summary_fa": "در اینجا دابی، یک جن آزاد نهفته است. هیچ کابل برق در چشم نخواهد بود.",
+      "summary_en": "Here lies Dobby, a free elf. There will be no electricity cables in sight.",
+      "link": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 19:35:01 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10xp-dobby-qkpm/10xp-dobby-qkpm-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -119766,6 +120060,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "db567643e7df79b92d0bb6a9223182be",
+      "title": "نانسی میس، نماینده کنگره آمریکا، مقامات مسلمان را تهدیدی علیه آمریکا خواند",
+      "title_fa": "نانسی میس، نماینده کنگره آمریکا، مقامات مسلمان را تهدیدی علیه آمریکا خواند",
+      "title_en": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+      "summary": "نانسی میس، نماینده آمریکا، پس از پیروزی عبدالالسید در میشیگان، با عمر خیمنز، خبرنگار CNN بر سر اظهارات اسلام هراسانه درگیر شد.",
+      "summary_fa": "نانسی میس، نماینده آمریکا، پس از پیروزی عبدالالسید در میشیگان، با عمر خیمنز، خبرنگار CNN بر سر اظهارات اسلام هراسانه درگیر شد.",
+      "summary_en": "US Rep. Nancy Mace clashed with CNN's Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 19:30:29 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36baa64504048729ca7e0bb2393c84c3",
+      "title": "با افزایش شک و تردید واشنگتن و رسیدن تهران به توافق هرمز، قیمت نفت آمریکا به بالای 82 دلار رسید",
+      "title_fa": "با افزایش شک و تردید واشنگتن و رسیدن تهران به توافق هرمز، قیمت نفت آمریکا به بالای 82 دلار رسید",
+      "title_en": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+      "summary": "در حالی که معامله‌گران سیگنال‌های متفاوت از سوی ایالات متحده و ایران را ارزیابی می‌کنند، در میان نگرانی‌ها مبنی بر اینکه توافقی برای باز کردن تنگه هرمز ممکن است به این زودی‌ها محقق نشود، قیمت نفت افزایش یافت.",
+      "summary_fa": "در حالی که معامله‌گران سیگنال‌های متفاوت از سوی ایالات متحده و ایران را ارزیابی می‌کنند، در میان نگرانی‌ها مبنی بر اینکه توافقی برای باز کردن تنگه هرمز ممکن است به این زودی‌ها محقق نشود، قیمت نفت افزایش یافت.",
+      "summary_en": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+      "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 19:26:30 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
