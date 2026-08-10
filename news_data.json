@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-10 21:10:32",
-  "total_count": 8340,
+  "last_update": "2026-08-10 21:59:42",
+  "total_count": 8361,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -119664,6 +119664,27 @@
       }
     },
     {
+      "id": "ddedd962feb9f4fc5ffc820fee3acacc",
+      "title": "من ویژگی جدید کمک هزینه Google Wallet را امتحان کردم و فرزندم قبلاً کارت نقدی خود را کنار گذاشته بود",
+      "title_fa": "من ویژگی جدید کمک هزینه Google Wallet را امتحان کردم و فرزندم قبلاً کارت نقدی خود را کنار گذاشته بود",
+      "title_en": "I tried Google Wallet's new allowance feature, and my kid already ditched their debit card",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The new feature lets you send money to your children without them needing a card or separate account.",
+      "link": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
+      "source": "ZDNet",
+      "published_at": "Mon, 10 Aug 2026 21:57:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "38522fe9fc8e43bdbb6eca394b41e69d",
       "title": "زلنسکی می گوید روسیه در حال آماده شدن برای استقرار نیروهای بیشتر کره شمالی در خاک خود است",
       "title_fa": "زلنسکی می گوید روسیه در حال آماده شدن برای استقرار نیروهای بیشتر کره شمالی در خاک خود است",
@@ -119682,6 +119703,195 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "5bba99e33d0e4a8a8694bfb9913ef3f2",
+      "title": "ترکیه برای پیشبرد روند صلح با P.K.K حرکت می کند.",
+      "title_fa": "ترکیه برای پیشبرد روند صلح با P.K.K حرکت می کند.",
+      "title_en": "Turkey Moves to Advance Peace Process With P.K.K.",
+      "summary": "دولت قانونی را تصویب کرد که ممکن است گام مهمی در جهت پایان دادن به نبرد چندین دهه یک گروه غیرقانونی با دولت ترکیه باشد.",
+      "summary_fa": "دولت قانونی را تصویب کرد که ممکن است گام مهمی در جهت پایان دادن به نبرد چندین دهه یک گروه غیرقانونی با دولت ترکیه باشد.",
+      "summary_en": "The government adopted a law that might prove a significant step toward ending an outlawed group’s decades-long battle with the Turkish state.",
+      "link": "https://www.nytimes.com/2026/08/10/world/europe/turkey-law-pkk-peace-framework.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 21:51:30 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-turkey-pkk-jfgz/10int-turkey-pkk-jfgz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3598dfc999fdbad1b62e1342ca5f0948",
+      "title": "ترامپ مدیا 238 میلیون دلار زیان سه ماهه دوم را با کاهش کریپتو به ثبت رسانده است",
+      "title_fa": "ترامپ مدیا 238 میلیون دلار زیان سه ماهه دوم را با کاهش کریپتو به ثبت رسانده است",
+      "title_en": "Trump Media posts $238 million second-quarter loss as crypto declines",
+      "summary": "TMTG گفت که بیش از 10 قرارداد مشتری را برای Truth API امضا کرده است، سرویسی که دسترسی سریع‌تری به پست‌های رئیس‌جمهور دونالد ترامپ ارائه می‌دهد.",
+      "summary_fa": "TMTG گفت که بیش از 10 قرارداد مشتری را برای Truth API امضا کرده است، سرویسی که دسترسی سریع‌تری به پست‌های رئیس‌جمهور دونالد ترامپ ارائه می‌دهد.",
+      "summary_en": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
+      "link": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 21:48:14 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6d8ae485024be918d038c04299259a4a",
+      "title": "زلزله کلمبیا برادران نوجوان ونزوئلایی را از خانه جدیدشان بیرون کرد",
+      "title_fa": "زلزله کلمبیا برادران نوجوان ونزوئلایی را از خانه جدیدشان بیرون کرد",
+      "title_en": "Colombia Quake Chases Teenage Venezuelan Brothers From Their New Home",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "A pair of brothers who lost their mother and other family members in Venezuela and were profiled by The New York Times have now survived deadly quakes in two countries.",
+      "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-venezuela-brothers.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 21:47:14 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10colombia-quake-venzuela-siblings-tfbl/10colombia-quake-venzuela-siblings-tfbl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2e0b9f947aa9643147b729e01e34853",
+      "title": "ترامپ دستوری را امضا می‌کند که واکسن‌ها را قطع می‌کند، واکسن‌هایی را که وجود ندارند تبلیغ می‌کند",
+      "title_fa": "ترامپ دستوری را امضا می‌کند که واکسن‌ها را قطع می‌کند، واکسن‌هایی را که وجود ندارند تبلیغ می‌کند",
+      "title_en": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+      "summary": "ترامپ به دروغ ادعا کرد واکسن MMR «کاملاً کشنده» است و واکسن ها را با اوتیسم مرتبط دانست.",
+      "summary_fa": "ترامپ به دروغ ادعا کرد واکسن MMR «کاملاً کشنده» است و واکسن ها را با اوتیسم مرتبط دانست.",
+      "summary_en": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
+      "link": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 21:42:56 +0000",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8caef85775309c00abe1e6e0f7ed90a6",
+      "title": "چانی می‌گوید: سیاست استرالیا زنده: سخنان لابی قمار «از دهان نخست‌وزیر بیرون می‌آید». RBA برای حفظ نرخ بهره",
+      "title_fa": "چانی می‌گوید: سیاست استرالیا زنده: سخنان لابی قمار «از دهان نخست‌وزیر بیرون می‌آید». RBA برای حفظ نرخ بهره",
+      "title_en": "Australia politics live: gambling lobby’s talking points ‘coming out the PM’s mouth’, Chaney says; RBA tipped to hold interest rates",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today’s news liveGet our breaking news email, free app or daily news podcast‘He did not mean it’ Gallagher dragged into melon-gateKaty Gallagher has also been asked to weigh in on the PM’s melon comments – you can see a hint of exasperation in her face as she’s asked on channel nine.I accept that he did not intend those comments to be made the way that some media are reporting them, it’s an important relationship. He has a good relationship with the Japanese.There are other factors that influence the housing market, including the interest rate increases that we have seen over the last few months … the Treasury advice to us was that house prices would continue to grow slightly slower. Our focus on the housing market is making those tax changes so that first home buyers can get into the housing market, but also focusing on supply to make sure we’re building enough houses for people to buy. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 10 Aug 2026 21:39:19 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5ea138a0a9b2f3954ca5581a4e655c902b58860e/714_279_5510_4409/master/5510.jpg?width=140&quality=85&auto=format&fit=max&s=602b24d8731dd74793c660adea51a2af",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "859b32e477debf632cda02d493991221",
+      "title": "Rocket Lab برنامه های بزرگی را فاش می کند، اما سهام آن با درآمدهای مختلط کاهش می یابد",
+      "title_fa": "Rocket Lab برنامه های بزرگی را فاش می کند، اما سهام آن با درآمدهای مختلط کاهش می یابد",
+      "title_en": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+      "summary": "این شرکت به دنبال گسترش دامنه فعالیت خود در اروپا و افزایش حجم معوقه خود است.",
+      "summary_fa": "این شرکت به دنبال گسترش دامنه فعالیت خود در اروپا و افزایش حجم معوقه خود است.",
+      "summary_en": "The company is looking to expand its reach in Europe and building up its backlog.",
+      "link": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 21:37:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-29972515",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9048eaeac7bc21fec7f5d811c0a88fe5",
+      "title": "وال استریت فکر می کند تورم تحت کنترل است. اینجاست که چرا سرمایه گذاران نباید آن را بخرند.",
+      "title_fa": "وال استریت فکر می کند تورم تحت کنترل است. اینجاست که چرا سرمایه گذاران نباید آن را بخرند.",
+      "title_en": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
+      "summary": "عمو سام برای فرار از بحران بدهی امروز به تورم و نه فقط رشد اقتصادی نیاز دارد.",
+      "summary_fa": "عمو سام برای فرار از بحران بدهی امروز به تورم و نه فقط رشد اقتصادی نیاز دارد.",
+      "summary_en": "Uncle Sam needs inflation, not just economic growth, to escape today’s debt crisis.",
+      "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 21:32:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-70960671",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c76e1a6cf1f998849f00b745ab6ff9f7",
+      "title": "رهبر ایران با انتصابات بالا کنترل خود را بیشتر می کند",
+      "title_fa": "رهبر ایران با انتصابات بالا کنترل خود را بیشتر می کند",
+      "title_en": "Iran’s supreme leader tightens grip with top appointments",
+      "summary": "مجموعه ای از اقدامات نظامی ارشد و رژیم در حالی انجام می شود که تهران لفاظی های خود را در مورد معامله با آمریکا سخت تر می کند",
+      "summary_fa": "مجموعه ای از اقدامات نظامی ارشد و رژیم در حالی انجام می شود که تهران لفاظی های خود را در مورد معامله با آمریکا سخت تر می کند",
+      "summary_en": "A raft of senior military and regime moves come as Tehran hardens its rhetoric over deal with US",
+      "link": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 10 Aug 2026 21:30:27 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F233760e8-3ab7-48dc-aad0-ef4f6dcb4d22.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "a56e2c65b9a07f4848477d93a73e0348",
+      "title": "برنهام در تلاش برای رونق دادن به خیابان‌های مرتفع با ویپ‌ها و فروشگاه‌های شرط‌بندی سرکوب می‌کند",
+      "title_fa": "برنهام در تلاش برای رونق دادن به خیابان‌های مرتفع با ویپ‌ها و فروشگاه‌های شرط‌بندی سرکوب می‌کند",
+      "title_en": "Burnham to crack down on vape and betting shops in bid to boost high streets",
+      "summary": "به شوراها برای محدود کردن خرده فروشان ناخواسته و \"بازگرداندن مراکز شهرها به زندگی\" اختیارات بیشتری داده خواهد شد.",
+      "summary_fa": "به شوراها برای محدود کردن خرده فروشان ناخواسته و \"بازگرداندن مراکز شهرها به زندگی\" اختیارات بیشتری داده خواهد شد.",
+      "summary_en": "Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’",
+      "link": "https://www.ft.com/content/7db64d6d-9615-42d3-b53b-03b115080bba?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 10 Aug 2026 21:30:08 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F88ee3f9c-19ca-4d2b-91d6-806b6c255a02.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -119706,6 +119916,111 @@
       }
     },
     {
+      "id": "deace9f4f515321580938163cb5096c8",
+      "title": "اروپا پس از رکوردشکنی دما برای موج گرمای دیگری آماده می شود",
+      "title_fa": "اروپا پس از رکوردشکنی دما برای موج گرمای دیگری آماده می شود",
+      "title_en": "Europe braces for another heatwave after record-breaking temperatures",
+      "summary": "هشدار گرمای شدید در بریتانیا و فرانسه با پیش‌بینی دمای هوا در این هفته به اواسط 30 درجه سانتیگراد صادر شد.",
+      "summary_fa": "هشدار گرمای شدید در بریتانیا و فرانسه با پیش‌بینی دمای هوا در این هفته به اواسط 30 درجه سانتیگراد صادر شد.",
+      "summary_en": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 21:29:32 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "3e986972686e70b1e07d8d4638a2d621",
+      "title": "توسعه دهنده Cold Iron Studios نسخه ابری بازی 60 دلاری را بدون بازپرداخت تعطیل می کند",
+      "title_fa": "توسعه دهنده Cold Iron Studios نسخه ابری بازی 60 دلاری را بدون بازپرداخت تعطیل می کند",
+      "title_en": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+      "summary": "یادآوری خطرات مالکیت دیجیتال.",
+      "summary_fa": "یادآوری خطرات مالکیت دیجیتال.",
+      "summary_en": "A reminder of the perils of digital ownership.",
+      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 21:26:38 +0000",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "994bc0a46537eba5067e97c23b34e463",
+      "title": "آتش سوزی های جنگلی در سراسر اندونزی می سوزد، زیرا مقامات ال نینو را علت آن ذکر می کنند",
+      "title_fa": "آتش سوزی های جنگلی در سراسر اندونزی می سوزد، زیرا مقامات ال نینو را علت آن ذکر می کنند",
+      "title_en": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+      "summary": "هزاران آتش نشان و ده ها هلیکوپتر با آتش سوزی های فزاینده در سراسر اندونزی مبارزه می کنند.",
+      "summary_fa": "هزاران آتش نشان و ده ها هلیکوپتر با آتش سوزی های فزاینده در سراسر اندونزی مبارزه می کنند.",
+      "summary_en": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 21:15:41 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "7690ecbf83cbc5d848ecb4e8e186ad63",
+      "title": "ترکیه لایحه عفو هزاران جنگجوی پ ک ک را تصویب کرد",
+      "title_fa": "ترکیه لایحه عفو هزاران جنگجوی پ ک ک را تصویب کرد",
+      "title_en": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+      "summary": "متن بازگشت به زندگی غیرنظامی را برای برخی از مبارزان حزب کارگران کردستان که سلاح های خود را زمین می گذارند پیش بینی می کند.",
+      "summary_fa": "متن بازگشت به زندگی غیرنظامی را برای برخی از مبارزان حزب کارگران کردستان که سلاح های خود را زمین می گذارند پیش بینی می کند.",
+      "summary_en": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 21:14:16 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "f431b994d70d3dbb0161af5f6ef7b736",
+      "title": "من به دنبال خرید خانه در سنگاپور به عنوان سرمایه گذاری بودم. به این دلیل است که من این کار را نکردم - با وجود نرخ وام مسکن 2٪.",
+      "title_fa": "من به دنبال خرید خانه در سنگاپور به عنوان سرمایه گذاری بودم. به این دلیل است که من این کار را نکردم - با وجود نرخ وام مسکن 2٪.",
+      "title_en": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.",
+      "summary": "نرخ بهره وام مسکن در سنگاپور کمتر از 2 درصد است در حالی که در ژاپن حدود 1 درصد یا حتی کمتر است. این در تضاد کامل با نرخ وام مسکن در آمریکا و استرالیا است که به طور متوسط ​​بیش از 6 درصد است.",
+      "summary_fa": "نرخ بهره وام مسکن در سنگاپور کمتر از 2 درصد است در حالی که در ژاپن حدود 1 درصد یا حتی کمتر است. این در تضاد کامل با نرخ وام مسکن در آمریکا و استرالیا است که به طور متوسط ​​بیش از 6 درصد است.",
+      "summary_en": "Home-loan interest rates in Singapore are less than 2%, while in Japan they’re around 1% or even lower. That’s in stark contrast to mortgage rates in America and Australia, which are over 6% on average.",
+      "link": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 21:14:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-477798",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "de8fd9afabe7074adb98aaabf0b9584b",
       "title": "انویدیا 500 میلیارد دلار برای تامین مالی در نظر گرفته است زیرا جنسن هوانگ، مدیرعامل این شرکت به CNBC می‌گوید تراشه‌های او دارایی قابل سرمایه‌گذاری هستند.",
       "title_fa": "انویدیا 500 میلیارد دلار برای تامین مالی در نظر گرفته است زیرا جنسن هوانگ، مدیرعامل این شرکت به CNBC می‌گوید تراشه‌های او دارایی قابل سرمایه‌گذاری هستند.",
@@ -119719,6 +120034,69 @@
       "date_iso": "2026-08-10",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "153ea1e87b8280687ef93340661e32f2",
+      "title": "پرواز کانادا به دلیل امتناع کودک از بستن کمربند ایمنی لغو شد",
+      "title_fa": "پرواز کانادا به دلیل امتناع کودک از بستن کمربند ایمنی لغو شد",
+      "title_en": "Canada flight cancelled after child refuses to wear seat belt",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 10 Aug 2026 21:06:27 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "001fdb96ad5e0a90f4f481331f81a38e",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "US President Donald Trump maintains that his relationship with Israel's PM Benjamin Netanyahu is still good.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 21:03:53 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "0908aa9f4eed41340201ddfb0ea312ed",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "US appeals court says social media addiction lawsuits can proceed",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety",
+      "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 21:02:06 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -119769,6 +120147,27 @@
       }
     },
     {
+      "id": "bb31d26dd9189711f51e080a96b37104",
+      "title": "زمین لرزه بزرگ کلمبیا را لرزاند و حداقل 111 کشته برجای گذاشت",
+      "title_fa": "زمین لرزه بزرگ کلمبیا را لرزاند و حداقل 111 کشته برجای گذاشت",
+      "title_en": "Major Quake Hits Colombia, Killing at Least 111",
+      "summary": "گروه‌های نجات و افراد عادی به جستجوی بازماندگان پرداختند و احتمال افزایش تعداد کشته‌ها وجود داشت. رئیس جمهور گفت که بیش از 1500 خانه آسیب دیده است.",
+      "summary_fa": "گروه‌های نجات و افراد عادی به جستجوی بازماندگان پرداختند و احتمال افزایش تعداد کشته‌ها وجود داشت. رئیس جمهور گفت که بیش از 1500 خانه آسیب دیده است.",
+      "summary_en": "Rescue crews and regular people searched for survivors, and the death toll was likely to rise. More than 1,500 homes were damaged, the president said.",
+      "link": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 20:58:00 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-colombia-quake-1-mcpb/10int-colombia-quake-1-mcpb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aeafc526d84873d86c5645838b82bb90",
       "title": "روزنامه نگاری و Paywalls",
       "title_fa": "روزنامه نگاری و Paywalls",
@@ -119787,6 +120186,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4f092910a356c0ff0bda7dea24b43afa",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Trump to demand compensation for Tehran’s ‘conflicts’",
+      "summary": "دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید از ایران برای افرادی که در جنگ آمریکا با ایران کشته یا زخمی شده‌اند، غرامت می‌خواهد.",
+      "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید از ایران برای افرادی که در جنگ آمریکا با ایران کشته یا زخمی شده‌اند، غرامت می‌خواهد.",
+      "summary_en": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 20:55:21 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -163358,6 +163778,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f733506dd59629c385263dd4c9c614d4",
+      "title": "شارژر مسافرتی Anker تقریبا در هر کشوری کار می کند و تا 20 دلار کاهش می یابد",
+      "title_fa": "شارژر مسافرتی Anker تقریبا در هر کشوری کار می کند و تا 20 دلار کاهش می یابد",
+      "title_en": "Anker&#8217;s travel charger works in almost any country and is down to $20",
+      "summary": "اگر سفری بین المللی دارید، آداپتور برای شارژ نگه داشتن گوشی، هدفون، پاوربانک و سایر وسایل ضروری است. آداپتور Nano Travel Anker یکی از انتخاب‌های ما از راهنمای ما برای بهترین گجت‌ها برای سفر تابستانی است زیرا می‌تواند تا پنج دستگاه را همزمان شارژ کند، اما به اندازه کافی کوچک است […]",
+      "summary_fa": "اگر سفری بین المللی دارید، آداپتور برای شارژ نگه داشتن گوشی، هدفون، پاوربانک و سایر وسایل ضروری است. آداپتور Nano Travel Anker یکی از انتخاب‌های ما از راهنمای ما برای بهترین گجت‌ها برای سفر تابستانی است زیرا می‌تواند تا پنج دستگاه را همزمان شارژ کند، اما به اندازه کافی کوچک است […]",
+      "summary_en": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it’s small enough […]",
+      "link": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-10T17:18:15-04:00",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
