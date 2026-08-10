@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-10 16:36:12",
-  "total_count": 8246,
+  "last_update": "2026-08-10 17:34:44",
+  "total_count": 8269,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -119622,6 +119622,27 @@
       }
     },
     {
+      "id": "53ffec1c25b68e9c06b0d6492350b040",
+      "title": "دولت بریتانیا می گوید که خشکسالی در «تقریباً سه چهارم» انگلستان اعلام شده است",
+      "title_fa": "دولت بریتانیا می گوید که خشکسالی در «تقریباً سه چهارم» انگلستان اعلام شده است",
+      "title_en": "Drought declared in 'almost three-quarters' of England, UK government says",
+      "summary": "بریتانیا همچنین با پنجمین موج گرما در تابستان 2026 مواجه بود که شاهد شکستن چندین رکورد دما بود.",
+      "summary_fa": "بریتانیا همچنین با پنجمین موج گرما در تابستان 2026 مواجه بود که شاهد شکستن چندین رکورد دما بود.",
+      "summary_en": "Britain was also facing its fifth heatwave of the 2026 summer that has seen multiple temperature records being broken.",
+      "link": "http://www.euronews.com/my-europe/2026/08/10/drought-declared-in-almost-three-quarters-of-england-uk-government-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 10 Aug 2026 18:57:43 +0200",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "0321c9bda5addd68f008fce545757deb",
       "title": "بریتانیایی ها پیشتاز هزینه ها هستند، اما میانگین هزینه های گردشگران در پرتغال کاهش می یابد",
       "title_fa": "بریتانیایی ها پیشتاز هزینه ها هستند، اما میانگین هزینه های گردشگران در پرتغال کاهش می یابد",
@@ -119664,6 +119685,111 @@
       }
     },
     {
+      "id": "503855eb2b405144376105e92cff3365",
+      "title": "زمین لرزه 7.4 ریشتری در کلمبیا دست کم 73 کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه 7.4 ریشتری در کلمبیا دست کم 73 کشته بر جای گذاشت",
+      "title_en": "7.4-magnitude earthquake in Colombia kills at least 73",
+      "summary": "این زلزله که اندکی پس از ساعت 7:30 صبح سواحل کلمبیا در اقیانوس آرام را درنوردید، در اکوادور، پاناما و ونزوئلا نیز احساس شد.",
+      "summary_fa": "این زلزله که اندکی پس از ساعت 7:30 صبح سواحل کلمبیا در اقیانوس آرام را درنوردید، در اکوادور، پاناما و ونزوئلا نیز احساس شد.",
+      "summary_en": "The temblor, which struck Colombia’s Pacific coast shortly after 7:30 a.m., was also felt in Ecuador, Panama and Venezuela.",
+      "link": "https://www.washingtonpost.com/world/2026/08/10/74-magnitude-earthquake-colombia-kills-least-20/",
+      "source": "Washington Post",
+      "published_at": "Mon, 10 Aug 2026 17:31:53 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8ed30ca5a53afd8be20cf04eb2440e8b",
+      "title": "به روز رسانی زنده: زلزله قدرتمند 7.4 کلمبیا را گرفت و ده ها نفر را کشت",
+      "title_fa": "به روز رسانی زنده: زلزله قدرتمند 7.4 کلمبیا را گرفت و ده ها نفر را کشت",
+      "title_en": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing Dozens",
+      "summary": "این زمین لرزه چندین شهر بزرگ از جمله بوگوتا، کالی و مدلین را لرزاند. دست کم 69 نفر جان خود را از دست داده اند و به نظر می رسد با ادامه جستجوی ساختمان های آسیب دیده توسط امدادگران، تعداد تلفات افزایش یابد.",
+      "summary_fa": "این زمین لرزه چندین شهر بزرگ از جمله بوگوتا، کالی و مدلین را لرزاند. دست کم 69 نفر جان خود را از دست داده اند و به نظر می رسد با ادامه جستجوی ساختمان های آسیب دیده توسط امدادگران، تعداد تلفات افزایش یابد.",
+      "summary_en": "The quake shook several major cities, including Bogotá, Cali and Medellín. At least 69 people have died, and the death toll appeared likely to rise as rescuers continued to search damaged buildings.",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "source": "NY Times",
+      "published_at": "Mon, 10 Aug 2026 17:27:24 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-colombia-quake-hjvt/10int-colombia-quake-hjvt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c16410ff6aa5872687e1d32f96273033",
+      "title": "غول های وال استریت با انویدیا در یک قرارداد مالی 500 میلیارد دلاری با هوش مصنوعی شریک می شوند",
+      "title_fa": "غول های وال استریت با انویدیا در یک قرارداد مالی 500 میلیارد دلاری با هوش مصنوعی شریک می شوند",
+      "title_en": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+      "summary": "آپولو، بلک استون و گلدمن ساکس از جمله گروه هایی هستند که با سازنده تراشه برای افزایش سرمایه برای رونق مرکز داده همکاری می کنند.",
+      "summary_fa": "آپولو، بلک استون و گلدمن ساکس از جمله گروه هایی هستند که با سازنده تراشه برای افزایش سرمایه برای رونق مرکز داده همکاری می کنند.",
+      "summary_en": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
+      "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 10 Aug 2026 17:22:31 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10faa962-82e1-4125-807f-66318b139a94.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "94e0ce3ac4367b83d83a8633abf65457",
+      "title": "آرچر حملات با بوئینگ در آخرین تلاش برای تغییر هوانوردی از طریق هوش مصنوعی معامله می کند",
+      "title_fa": "آرچر حملات با بوئینگ در آخرین تلاش برای تغییر هوانوردی از طریق هوش مصنوعی معامله می کند",
+      "title_en": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+      "summary": "پس از موافقت این شرکت با خرید سه واحد تجاری از بوئینگ، سهام Archer Aviation در حال افزایش است.",
+      "summary_fa": "پس از موافقت این شرکت با خرید سه واحد تجاری از بوئینگ، سهام Archer Aviation در حال افزایش است.",
+      "summary_en": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
+      "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 17:22:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-89848402",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1acd37f9293d16bf8712d41ea96f59e2",
+      "title": "بیش از 70 کشته و ریزش ساختمان در پی زلزله 7.4 ریشتری کلمبیا - آخرین اخبار",
+      "title_fa": "بیش از 70 کشته و ریزش ساختمان در پی زلزله 7.4 ریشتری کلمبیا - آخرین اخبار",
+      "title_en": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+      "summary": "شهردار الخاندرو ادر گفت که بیش از دوازده ساختمان پس از زلزله فروریخت، که همچنین باعث تخلیه شد، پس از فروریختن بیش از دوجین ساختمان، مردم همچنان در کالی، یکی از بزرگترین شهرهای کلمبیا، گیر افتاده اند. وی افزود که شهر از مقامات بوگوتا و مدلین خواسته است تا تیم های بلایای طبیعی را برای حمایت از تلاش های امداد و نجات اعزام کنند. ادامه مطلب...",
+      "summary_fa": "شهردار الخاندرو ادر گفت که بیش از دوازده ساختمان پس از زلزله فروریخت، که همچنین باعث تخلیه شد، پس از فروریختن بیش از دوجین ساختمان، مردم همچنان در کالی، یکی از بزرگترین شهرهای کلمبیا، گیر افتاده اند. وی افزود که شهر از مقامات بوگوتا و مدلین خواسته است تا تیم های بلایای طبیعی را برای حمایت از تلاش های امداد و نجات اعزام کنند. ادامه مطلب...",
+      "summary_en": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuationsPeople remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "source": "The Guardian",
+      "published_at": "Mon, 10 Aug 2026 17:19:33 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e69966377a5fb5d9366de0a4bc74959c781a50c1/0_241_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=d25d910349df220a7bfa2046655f3e38",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7a93efddd8a33267790c1a9ec74607d1",
       "title": "خشم جاده ای: کدام کشورها تهاجمی ترین رانندگان را دارند؟",
       "title_fa": "خشم جاده ای: کدام کشورها تهاجمی ترین رانندگان را دارند؟",
@@ -119677,6 +119803,90 @@
       "date_iso": "2026-08-10",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "74560c1f302cedf1dcb87870571a3ff8",
+      "title": "بیش از 70 کشته در پی زلزله قدرتمند غرب کلمبیا",
+      "title_fa": "بیش از 70 کشته در پی زلزله قدرتمند غرب کلمبیا",
+      "title_en": "More than 70 dead after powerful earthquake strikes western Colombia",
+      "summary": "زمین لرزه 7.4 ریشتری ریزش کرد و به ساختمان ها در چندین شهر بزرگ از جمله زمین لرزه کالی و پریرا کلمبیا آسیب جدی وارد کرد - آخرین به روز رسانی ها بیش از 70 نفر پس از زلزله قوی غرب کلمبیا، ریزش و آسیب شدید به ساختمان ها در شهرهای بزرگ از جمله Cali و Pereira کلمبیا جان خود را از دست دادند. زمین لرزه ای به بزرگی 7.4 ریشتر ساعت 7:34 صبح روز دوشنبه به وقت محلی (13:34 BST) با مرکز آن در بخش غربی Choco به وقوع پیوست. همچنین در کشور همسایه ونزوئلا احساس شد که هنوز هم در اثر زلزله دوگانه مرگبار در 24 ژوئن در حال چرخش است. ادامه مطلب...",
+      "summary_fa": "زمین لرزه 7.4 ریشتری ریزش کرد و به ساختمان ها در چندین شهر بزرگ از جمله زمین لرزه کالی و پریرا کلمبیا آسیب جدی وارد کرد - آخرین به روز رسانی ها بیش از 70 نفر پس از زلزله قوی غرب کلمبیا، ریزش و آسیب شدید به ساختمان ها در شهرهای بزرگ از جمله Cali و Pereira کلمبیا جان خود را از دست دادند. زمین لرزه ای به بزرگی 7.4 ریشتر ساعت 7:34 صبح روز دوشنبه به وقت محلی (13:34 BST) با مرکز آن در بخش غربی Choco به وقوع پیوست. همچنین در کشور همسایه ونزوئلا احساس شد که هنوز هم در اثر زلزله دوگانه مرگبار در 24 ژوئن در حال چرخش است. ادامه مطلب...",
+      "summary_en": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and PereiraColombia earthquake live – latest updatesMore than 70 people have died after a powerful earthquake struck western Colombia, collapsing and severely damaging buildings in major cities including Cali and Pereira.The US and Colombian geological surveys reported that a 7.4-magnitude earthquake struck at 7.34am local time (13.34 BST) on Monday, with its epicentre in the western department of Chocó. It was also felt in neighbouring Venezuela, which is still reeling from a deadly double earthquake on 24 June. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+      "source": "The Guardian",
+      "published_at": "Mon, 10 Aug 2026 17:10:54 GMT",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/18957e6c34be30efa7537d3518bf9de153e9b7e7/96_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f03cb21758e8e706a5cbff5815ac9f46",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e270638c8ab2676bf988dea47352915e",
+      "title": "آیا فورد تب ماشین ارزان شده است؟ ظاهراً یک کراس اوور 25 هزار دلاری در راه است.",
+      "title_fa": "آیا فورد تب ماشین ارزان شده است؟ ظاهراً یک کراس اوور 25 هزار دلاری در راه است.",
+      "title_en": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+      "summary": "به فروشندگان فورد در مورد مدل جدید Escape گفته شد. یکی از آنها لوبیاها را ریخت.",
+      "summary_fa": "به فروشندگان فورد در مورد مدل جدید Escape گفته شد. یکی از آنها لوبیاها را ریخت.",
+      "summary_en": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
+      "link": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 17:07:47 +0000",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a68d4f72eade1651b2a2290214a5e7ca",
+      "title": "رئیس جمهور ایران: خامنه ای در سلامت کامل است",
+      "title_fa": "رئیس جمهور ایران: خامنه ای در سلامت کامل است",
+      "title_en": "Iran’s president says Khamenei is in ‘perfect health’",
+      "summary": "مسعود پزشکیان، رئیس‌جمهور ایران می‌گوید آیت‌الله مجتبی خامنه‌ای رهبر انقلاب پیام «وحدت و انسجام» داشتند.",
+      "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران می‌گوید آیت‌الله مجتبی خامنه‌ای رهبر انقلاب پیام «وحدت و انسجام» داشتند.",
+      "summary_en": "Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 17:05:01 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "89e94733ba746f302d188c7cdd30180f",
+      "title": "زمین لرزه کلمبیا زنده: زمین لرزه 7.4 ریشتری در نزدیکی بوگوتا رخ داد. 69 کشته",
+      "title_fa": "زمین لرزه کلمبیا زنده: زمین لرزه 7.4 ریشتری در نزدیکی بوگوتا رخ داد. 69 کشته",
+      "title_en": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
+      "summary": "مقامات می گویند که دست کم 69 نفر در این زمین لرزه کشته شده اند و تعدادی هنوز زیر آوار مانده اند.",
+      "summary_fa": "مقامات می گویند که دست کم 69 نفر در این زمین لرزه کشته شده اند و تعدادی هنوز زیر آوار مانده اند.",
+      "summary_en": "Officials say at least 69 people have been killed in the quake, with some still trapped under rubble.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 17:00:41 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -119706,6 +119916,90 @@
       }
     },
     {
+      "id": "1da85cd2b0b666aa292cde7ba6d895fd",
+      "title": "من ویژگی جدید کمک هزینه Google Wallet را امتحان کردم و فرزندم قبلاً کارت نقدی خود را کنار گذاشته است",
+      "title_fa": "من ویژگی جدید کمک هزینه Google Wallet را امتحان کردم و فرزندم قبلاً کارت نقدی خود را کنار گذاشته است",
+      "title_en": "I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card",
+      "summary": "این ویژگی جدید به شما امکان می دهد بدون نیاز به کارت یا حساب جداگانه برای فرزندان خود پول ارسال کنید.",
+      "summary_fa": "این ویژگی جدید به شما امکان می دهد بدون نیاز به کارت یا حساب جداگانه برای فرزندان خود پول ارسال کنید.",
+      "summary_en": "The new feature lets you send money to your children without them needing a card or separate account.",
+      "link": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
+      "source": "ZDNet",
+      "published_at": "Mon, 10 Aug 2026 16:50:37 GMT",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bf113bf7e0715b582a26577decb86219",
+      "title": "عکس: زمین لرزه ای به بزرگی 7.4 ریشتر غرب کلمبیا را لرزاند",
+      "title_fa": "عکس: زمین لرزه ای به بزرگی 7.4 ریشتر غرب کلمبیا را لرزاند",
+      "title_en": "Photos: 7.4-magnitude earthquake rocks western Colombia",
+      "summary": "زمین لرزه قوی بیش از 47 نفر را کشت و ساختمان ها را در غرب کلمبیا واژگون کرد.",
+      "summary_fa": "زمین لرزه قوی بیش از 47 نفر را کشت و ساختمان ها را در غرب کلمبیا واژگون کرد.",
+      "summary_en": "A powerful earthquake kills more than 47 people and topples buildings across western Colombia.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 16:48:50 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17cc86f14ed44a0b4b6bb5340fb07051",
+      "title": "حفاظت از قانون ورزش کالج که در ماه آینده به رأی گذاشته می شود: معنای آن برای نقل و انتقالات و هزینه های تیم چیست",
+      "title_fa": "حفاظت از قانون ورزش کالج که در ماه آینده به رأی گذاشته می شود: معنای آن برای نقل و انتقالات و هزینه های تیم چیست",
+      "title_en": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
+      "summary": "در اینجا نحوه محافظت از ورزش کالج می تواند بر اقتصاد ورزش کالج تأثیر بگذارد.",
+      "summary_fa": "در اینجا نحوه محافظت از ورزش کالج می تواند بر اقتصاد ورزش کالج تأثیر بگذارد.",
+      "summary_en": "Here’s how the Protect College Sports Act could impact the economics of college sports.",
+      "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 16:48:00 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-80172973",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d494dbe86e2818be575bbe8c49a76998",
+      "title": "بر اساس پیش‌بینی بازارها، گزارش مهم CPI روز چهارشنبه، تورم رام‌تر را نشان خواهد داد",
+      "title_fa": "بر اساس پیش‌بینی بازارها، گزارش مهم CPI روز چهارشنبه، تورم رام‌تر را نشان خواهد داد",
+      "title_en": "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
+      "summary": "شانس روز دوشنبه در پلتفرم پیش‌بینی بازار Kalshi، تورم رام‌تر و شانس کمی برای فراتر رفتن از اجماع اقتصاددانان در ماه جولای را نشان می‌دهد.",
+      "summary_fa": "شانس روز دوشنبه در پلتفرم پیش‌بینی بازار Kalshi، تورم رام‌تر و شانس کمی برای فراتر رفتن از اجماع اقتصاددانان در ماه جولای را نشان می‌دهد.",
+      "summary_en": "Monday's odds on prediction market platform Kalshi show tamer inflation and little chance of exceeding economists' consensus for July.",
+      "link": "https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 16:42:04 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9fb73ae27ed90b9c2dbc0bccecf55519",
       "title": "خروجی انرژی خورشیدی در هنگام کسوف کاهش می یابد",
       "title_fa": "خروجی انرژی خورشیدی در هنگام کسوف کاهش می یابد",
@@ -119720,6 +120014,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb79f846061ed1d10d449dd3a4719349",
+      "title": "مزارع تیلور محصولات جالاپینو را برای سالمونلا در بحبوحه شیوع سیکلوسپورا فراخوان می‌کند.",
+      "title_fa": "مزارع تیلور محصولات جالاپینو را برای سالمونلا در بحبوحه شیوع سیکلوسپورا فراخوان می‌کند.",
+      "title_en": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
+      "summary": "فراخوان محصولات jalapeño شامل 26 ایالت، خرده فروشان عمده، انواع غذاها می شود.",
+      "summary_fa": "فراخوان محصولات jalapeño شامل 26 ایالت، خرده فروشان عمده، انواع غذاها می شود.",
+      "summary_en": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
+      "link": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 16:37:08 +0000",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-1152x648.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -119748,6 +120063,27 @@
       }
     },
     {
+      "id": "5d9dc84d530c36d8300bf4b5a88ae885",
+      "title": "سه دلیل که رئیس مشترک بانکداری و بازارهای جهانی گلدمن می گوید سرمایه گذاری باقی بماند",
+      "title_fa": "سه دلیل که رئیس مشترک بانکداری و بازارهای جهانی گلدمن می گوید سرمایه گذاری باقی بماند",
+      "title_en": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+      "summary": "آشوک وارادان از گلدمن ساکس به سه دلیل برای دیدگاه سازنده خود اشاره کرد.",
+      "summary_fa": "آشوک وارادان از گلدمن ساکس به سه دلیل برای دیدگاه سازنده خود اشاره کرد.",
+      "summary_en": "Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.",
+      "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 16:36:44 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3fe551a19181c66be7634b352f68fb83",
       "title": "تلاش آتش نشانان برای خاموش کردن سه آتش سوزی جنگلی در جنوب غربی اسپانیا",
       "title_fa": "تلاش آتش نشانان برای خاموش کردن سه آتش سوزی جنگلی در جنوب غربی اسپانیا",
@@ -119766,6 +120102,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "fe411e459f8a5038aaa6ab0322fa2d57",
+      "title": "WHO می گوید شیوع ابولا در جمهوری دموکراتیک کنگو ماه ها قبل از اعلام رسمی آن آغاز شد",
+      "title_fa": "WHO می گوید شیوع ابولا در جمهوری دموکراتیک کنگو ماه ها قبل از اعلام رسمی آن آغاز شد",
+      "title_en": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
+      "summary": "WHO گفت که موارد اولیه این بیماری به اشتباه به مالاریا و تیفوئید نسبت داده می شد.",
+      "summary_fa": "WHO گفت که موارد اولیه این بیماری به اشتباه به مالاریا و تیفوئید نسبت داده می شد.",
+      "summary_en": "Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 16:28:34 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "56ccc1b0b33dec9b58c498bb44a98089",
+      "title": "واکنش فلسطینی ها به رد طرح غزه توسط اسرائیل",
+      "title_fa": "واکنش فلسطینی ها به رد طرح غزه توسط اسرائیل",
+      "title_en": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+      "summary": "بیانیه نتانیاهو تردیدها در مورد آرامش پایدار بدون عقب نشینی، بازسازی و تضمین اسرائیل را تقویت کرده است.",
+      "summary_fa": "بیانیه نتانیاهو تردیدها در مورد آرامش پایدار بدون عقب نشینی، بازسازی و تضمین اسرائیل را تقویت کرده است.",
+      "summary_en": "Netanyahu's declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.",
+      "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 16:24:13 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -119951,6 +120329,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "66eeb978fb59e41f635ea2d55aa01945",
+      "title": "چرا ما آخرین معامله بوئینگ را دوست داریم - به علاوه، چه انتظاری از این سهام سلامت رو به رشد داریم",
+      "title_fa": "چرا ما آخرین معامله بوئینگ را دوست داریم - به علاوه، چه انتظاری از این سهام سلامت رو به رشد داریم",
+      "title_en": "Why we like Boeing's latest deal — plus, what to expect from this rebounding health stock",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/08/10/we-like-boeings-archer-deal-plus-what-to-expect-from-this-health-stock.html",
+      "source": "CNBC",
+      "published_at": "Mon, 10 Aug 2026 15:59:14 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -120634,6 +121033,27 @@
       "title": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و حداقل 20 کشته برجای گذاشت",
       "title_fa": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و حداقل 20 کشته برجای گذاشت",
       "title_en": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+      "summary": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
+      "summary_fa": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
+      "summary_en": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
+      "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 10 Aug 2026 14:57:08 +0000",
+      "date_iso": "2026-08-10",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "756929bdfec661abd65aa445f1b11818",
+      "title": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 47 کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه ای به بزرگی 7.4 ریشتر کلمبیا را لرزاند و دست کم 47 کشته بر جای گذاشت",
+      "title_en": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
       "summary": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
       "summary_fa": "تیم های اورژانس همچنان در حال ارزیابی تاثیر زمین لرزه ای هستند که در سراسر منطقه احساس شد.",
       "summary_en": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
@@ -121904,6 +122324,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/bb9b7b40-94b0-11f1-afe9-fb1a837ec5d9.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1191bbd54e38584086bddc914437f8a3",
+      "title": "اهرم پنهان ابر مقیاس کننده های هوش مصنوعی چقدر بزرگ است؟",
+      "title_fa": "اهرم پنهان ابر مقیاس کننده های هوش مصنوعی چقدر بزرگ است؟",
+      "title_en": "Just how big is the hidden leverage of AI hyperscalers?",
+      "summary": "خیلی",
+      "summary_fa": "خیلی",
+      "summary_en": "Very",
+      "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+      "source": "Financial Times",
+      "published_at": "Mon, 10 Aug 2026 12:27:47 GMT",
+      "date_iso": "2026-08-10",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F138a75f2-1f7d-4b67-8003-1eec7e025aec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -161601,6 +162042,27 @@
       }
     },
     {
+      "id": "1bcb9f77ca7751082da037760fb078e2",
+      "title": "وقتی هدفون ها به هوش مصنوعی تبدیل شوند چه اتفاقی برای Bose می افتد؟",
+      "title_fa": "وقتی هدفون ها به هوش مصنوعی تبدیل شوند چه اتفاقی برای Bose می افتد؟",
+      "title_en": "What happens to Bose when headphones become AI?",
+      "summary": "امروز، من با لیلا اسنایدر، مدیر عامل Bose صحبت می کنم. شما مطمئناً Bose را می شناسید - این یکی از معروف ترین مارک ها در تمام فناوری مصرف کننده است. این شرکت 60 سال پیش شروع به فروش بلندگوها به مصرف کنندگان کرد و تمرکز آن بر تحقیق و توسعه باعث شده است که در هر دو زمینه پیشرو باشد.",
+      "summary_fa": "امروز، من با لیلا اسنایدر، مدیر عامل Bose صحبت می کنم. شما مطمئناً Bose را می شناسید - این یکی از معروف ترین مارک ها در تمام فناوری مصرف کننده است. این شرکت 60 سال پیش شروع به فروش بلندگوها به مصرف کنندگان کرد و تمرکز آن بر تحقیق و توسعه باعث شده است که در هر دو زمینه پیشرو باشد.",
+      "summary_en": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both […]",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "source": "The Verge",
+      "published_at": "2026-08-10T10:00:00-04:00",
+      "date_iso": "2026-08-10",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "99cb7570ca4ea99057b4c979f8cf24e2",
       "title": "بوئینگ استارت آپ های تاکسی هوایی خود را به آرچر اویشن می فروشد",
       "title_fa": "بوئینگ استارت آپ های تاکسی هوایی خود را به آرچر اویشن می فروشد",
@@ -161724,6 +162186,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "af40543982a77fae9609d5c80fbed880",
+      "title": "کجا غلغلک هستی؟ محققان این احساس را در میان فرهنگ ها ترسیم می کنند",
+      "title_fa": "کجا غلغلک هستی؟ محققان این احساس را در میان فرهنگ ها ترسیم می کنند",
+      "title_en": "Where are you ticklish? Researchers map the sensation across cultures",
+      "summary": "طبیعت، انتشار آنلاین: 10 آگوست 2026; doi:10.1038/d41586-026-02493-6افراد با پیشینه فرهنگی چینی، هلندی و یونانی همان \"نقاط داغ\" را روی بدن دارند. و غلغلک در مناطقی که به ندرت لمس می شوند قوی تر است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 10 آگوست 2026; doi:10.1038/d41586-026-02493-6افراد با پیشینه فرهنگی چینی، هلندی و یونانی همان \"نقاط داغ\" را روی بدن دارند. و غلغلک در مناطقی که به ندرت لمس می شوند قوی تر است.",
+      "summary_en": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02493-6People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.",
+      "link": "https://www.nature.com/articles/d41586-026-02493-6",
+      "source": "Nature",
+      "published_at": "2026-08-10 17:34",
+      "date_iso": "2026-08-10",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
