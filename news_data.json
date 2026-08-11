@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-11 18:09:33",
-  "total_count": 8783,
+  "last_update": "2026-08-11 19:20:53",
+  "total_count": 8809,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -42785,6 +42785,69 @@
       }
     },
     {
+      "id": "355798522f657882a7aae8d1f92d90a1",
+      "title": "چگونه و چه زمانی باران شهابی Perseid را مشاهده کنیم (اوت 2026)",
+      "title_fa": "چگونه و چه زمانی باران شهابی Perseid را مشاهده کنیم (اوت 2026)",
+      "title_en": "How and When to View the Perseid Meteor Shower (August 2026)",
+      "summary": "Perseids بین 12 و 13 آگوست به اوج خود می رسد. در اینجا آمده است که چه ساعتی و کجا می توانید بهترین منظره را داشته باشید و چرا سال 2026 یک سال استثنایی خواهد بود.",
+      "summary_fa": "Perseids بین 12 و 13 آگوست به اوج خود می رسد. در اینجا آمده است که چه ساعتی و کجا می توانید بهترین منظره را داشته باشید و چرا سال 2026 یک سال استثنایی خواهد بود.",
+      "summary_en": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
+      "link": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
+      "source": "Wired",
+      "published_at": "Tue, 11 Aug 2026 19:15:40 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "32c8cd92779dd43b6f90188cb4a6e29d",
+      "title": "لبنان گامی برمی دارد تا اولین کشور عربی شود که مجازات اعدام را لغو می کند",
+      "title_fa": "لبنان گامی برمی دارد تا اولین کشور عربی شود که مجازات اعدام را لغو می کند",
+      "title_en": "Lebanon takes step to become first Arab country to abolish death penalty",
+      "summary": "این لایحه حبس ابد با کار شاقه را بالاترین مجازاتی است که می توان اعمال کرد.",
+      "summary_fa": "این لایحه حبس ابد با کار شاقه را بالاترین مجازاتی است که می توان اعمال کرد.",
+      "summary_en": "The bill would make life sentence with hard labor the highest penalty that can be imposed.",
+      "link": "https://www.washingtonpost.com/world/2026/08/11/lebanon-takes-step-become-first-arab-country-abolish-death-penalty/",
+      "source": "Washington Post",
+      "published_at": "Tue, 11 Aug 2026 19:15:00 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e00311a69a59395b055d0f6babe5d017",
+      "title": "محاکمه قتل لوئیجی مانژیونه با هیئت منصفه ناشناس و سرریز صندلی",
+      "title_fa": "محاکمه قتل لوئیجی مانژیونه با هیئت منصفه ناشناس و سرریز صندلی",
+      "title_en": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "summary": "قاضی ناظر بر محاکمه قتل دولتی قوانینی را برای دسترسی عمومی تعیین کرده است، اما سؤالات دیگری در مورد پرونده پرمخاطب باقی می ماند.",
+      "summary_fa": "قاضی ناظر بر محاکمه قتل دولتی قوانینی را برای دسترسی عمومی تعیین کرده است، اما سؤالات دیگری در مورد پرونده پرمخاطب باقی می ماند.",
+      "summary_en": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 19:12:54 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/b3fcc830-95a0-11f1-a036-eb7cd99c5268.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "dedf11af9a05e250f77e54ff5c6e81af",
       "title": "امواج گرما در فرانسه: آیا آسایش حرارتی به یک معیار جدید تبدیل می شود؟",
       "title_fa": "امواج گرما در فرانسه: آیا آسایش حرارتی به یک معیار جدید تبدیل می شود؟",
@@ -42806,6 +42869,27 @@
       }
     },
     {
+      "id": "75b3127755bb462587154e9aece20e1c",
+      "title": "امدادگران با 180 کشته در زلزله کلمبیا به دنبال نجات یافتگان هستند",
+      "title_fa": "امدادگران با 180 کشته در زلزله کلمبیا به دنبال نجات یافتگان هستند",
+      "title_en": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "summary": "کلمبیا روز سه‌شنبه پس‌لرزه‌های متعددی را تجربه کرد، زیرا تلاش‌ها برای نجات بازماندگان محبوس در آوار و ساختمان‌ها ادامه داشت.",
+      "summary_fa": "کلمبیا روز سه‌شنبه پس‌لرزه‌های متعددی را تجربه کرد، زیرا تلاش‌ها برای نجات بازماندگان محبوس در آوار و ساختمان‌ها ادامه داشت.",
+      "summary_en": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 19:09:52 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69cb/live/7fca1ff0-95b8-11f1-b16a-9d1bd99de52e.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "832fdee2f3658ffd6be88f02e3e18333",
       "title": "خورشید گرفتگی: در فرانسه، عینک های محافظ در تقاضای زیادی هستند",
       "title_fa": "خورشید گرفتگی: در فرانسه، عینک های محافظ در تقاضای زیادی هستند",
@@ -42824,6 +42908,342 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "06298d1d009b70d228d493478513219b",
+      "title": "یونسکو می گوید 2.4 میلیون دختر افغان از دسترسی به تحصیلات بیشتر محروم هستند",
+      "title_fa": "یونسکو می گوید 2.4 میلیون دختر افغان از دسترسی به تحصیلات بیشتر محروم هستند",
+      "title_en": "UNESCO says 2.4 million Afghan girls denied access to further education",
+      "summary": "یونسکو می گوید این رقم تا سال 2030 به چهار میلیون نفر می رسد مگر اینکه طالبان سیاست خود را تغییر دهد.",
+      "summary_fa": "یونسکو می گوید این رقم تا سال 2030 به چهار میلیون نفر می رسد مگر اینکه طالبان سیاست خود را تغییر دهد.",
+      "summary_en": "UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:59:42 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "661bc549066d58761a4a5a69d323a9a4",
+      "title": "ونزوئلا و اسرائیل روابط کنسولی خود را با گرم شدن روابط احیا کردند",
+      "title_fa": "ونزوئلا و اسرائیل روابط کنسولی خود را با گرم شدن روابط احیا کردند",
+      "title_en": "Venezuela and Israel restore consular ties as relations warm",
+      "summary": "علیرغم قطع روابط دیپلماتیک با اسرائیل در سال 2009، کاراکاس به دنبال ربوده شدن مادورو، همسویی خود را تغییر داده است.",
+      "summary_fa": "علیرغم قطع روابط دیپلماتیک با اسرائیل در سال 2009، کاراکاس به دنبال ربوده شدن مادورو، همسویی خود را تغییر داده است.",
+      "summary_en": "Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:58:33 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "1f90953a1411b3047b428dc1e55b7e0d",
+      "title": "براد لایت‌کپ، مدیر اجرایی قدیمی OpenAI، با ادامه فعالیت‌های جدید در آزمایشگاه هوش مصنوعی، کار را ترک می‌کند",
+      "title_fa": "براد لایت‌کپ، مدیر اجرایی قدیمی OpenAI، با ادامه فعالیت‌های جدید در آزمایشگاه هوش مصنوعی، کار را ترک می‌کند",
+      "title_en": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+      "summary": "براد لایت‌کپ، مدیر قدیمی OpenAI، روز سه‌شنبه جدایی خود را اعلام کرد، که آخرین مورد از یک سری تغییرات اخیر رهبری در شرکت است.",
+      "summary_fa": "براد لایت‌کپ، مدیر قدیمی OpenAI، روز سه‌شنبه جدایی خود را اعلام کرد، که آخرین مورد از یک سری تغییرات اخیر رهبری در شرکت است.",
+      "summary_en": "Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the company.",
+      "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 18:55:16 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f531a3557c6821c7e8c6a612f98001b0",
+      "title": "محاصره شدید غزه باعث افزایش قیمت ها می شود",
+      "title_fa": "محاصره شدید غزه باعث افزایش قیمت ها می شود",
+      "title_en": "Tightened blockade on Gaza causes prices to soar",
+      "summary": "در حالی که اسرائیل محاصره غزه را تشدید می کند، فندک ها و هواکش ها به ستون فقرات انرژی در نوار تبدیل شده اند.",
+      "summary_fa": "در حالی که اسرائیل محاصره غزه را تشدید می کند، فندک ها و هواکش ها به ستون فقرات انرژی در نوار تبدیل شده اند.",
+      "summary_en": "As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:45:26 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "fa5f15f245d1d3b95169abc0e264d753",
+      "title": "تامین اجتماعی لیست شرایط را به 314 بیماری برای درخواست سریعتر ازکارافتادگی گسترش می دهد",
+      "title_fa": "تامین اجتماعی لیست شرایط را به 314 بیماری برای درخواست سریعتر ازکارافتادگی گسترش می دهد",
+      "title_en": "Social Security expands list of conditions to 314 illnesses for faster disability claims",
+      "summary": "فهرست \"کمک هزینه های دلسوز\" در نظر گرفتن مزایا را سرعت می بخشد.",
+      "summary_fa": "فهرست \"کمک هزینه های دلسوز\" در نظر گرفتن مزایا را سرعت می بخشد.",
+      "summary_en": "The “compassionate allowances” list speeds consideration for benefits.",
+      "link": "https://www.marketwatch.com/story/social-security-expands-list-of-conditions-to-314-illnesses-for-faster-disability-claims-b1883c2d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 18:40:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-94199573",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34b33f51614adaba038ed8a6b8125607",
+      "title": "تحلیلگران می گویند که انویدیا ترس عمده بازار در مورد هوش مصنوعی را کاهش داده است",
+      "title_fa": "تحلیلگران می گویند که انویدیا ترس عمده بازار در مورد هوش مصنوعی را کاهش داده است",
+      "title_en": "Nvidia just soothed a major market fear about AI, analysts say",
+      "summary": "به گفته BofA و Morgan Stanley، مشارکت های جدید انویدیا با بازیگران مالی به کاهش نگرانی ها در مورد ارتباط تنگاتنگ این شرکت با مشتریان خود کمک می کند.",
+      "summary_fa": "به گفته BofA و Morgan Stanley، مشارکت های جدید انویدیا با بازیگران مالی به کاهش نگرانی ها در مورد ارتباط تنگاتنگ این شرکت با مشتریان خود کمک می کند.",
+      "summary_en": "Nvidia’s new partnerships with financial players help mitigate concerns that the company is too tightly linked to its customers, according to BofA and Morgan Stanley.",
+      "link": "https://www.marketwatch.com/story/nvidia-just-soothed-a-major-market-fear-about-ai-analysts-say-9ec6fa85?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 18:36:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-95940565",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e07efef281c085ef213375113c69d809",
+      "title": "گزارش تورم چهارشنبه باید برای فدرال رزرو یک معامله بزرگ باشد. در اینجا چیزی است که باید انتظار داشت",
+      "title_fa": "گزارش تورم چهارشنبه باید برای فدرال رزرو یک معامله بزرگ باشد. در اینجا چیزی است که باید انتظار داشت",
+      "title_en": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+      "summary": "انتظار می‌رود که شاخص قیمت مصرف‌کننده در ماه جولای تنها افزایش ملایمی را نشان دهد.",
+      "summary_fa": "انتظار می‌رود که شاخص قیمت مصرف‌کننده در ماه جولای تنها افزایش ملایمی را نشان دهد.",
+      "summary_en": "The consumer price index is expected to show only a modest increase for July.",
+      "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 18:34:41 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "04055d88db6fe6aa8c761948375108cf",
+      "title": "قاضی سابق توسط اوربان به عنوان رئیس جمهور مجارستان برکنار شد",
+      "title_fa": "قاضی سابق توسط اوربان به عنوان رئیس جمهور مجارستان برکنار شد",
+      "title_en": "Former judge removed by Orbán elected Hungarian president",
+      "summary": "از زمان روی کار آمدن در اوایل ماه مه، دولت جدید مجارستان هیچ زمانی را برای از بین بردن میراث ویکتور اوربان از دست نداده است.",
+      "summary_fa": "از زمان روی کار آمدن در اوایل ماه مه، دولت جدید مجارستان هیچ زمانی را برای از بین بردن میراث ویکتور اوربان از دست نداده است.",
+      "summary_en": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
+      "link": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 18:34:39 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ba/live/772d0f60-959a-11f1-976a-4934d54b5403.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9520c28ad7ec6d54093778e27ede8eec",
+      "title": "مدیر عامل پارامونت ممکن است به دلیل توقف ادغام، عملیات را از کالیفرنیا حذف کند",
+      "title_fa": "مدیر عامل پارامونت ممکن است به دلیل توقف ادغام، عملیات را از کالیفرنیا حذف کند",
+      "title_en": "Paramount CEO may remove operations from California over stalled merger",
+      "summary": "بر اساس گزارش ها، دیوید الیسون، مدیر عامل پارامونت، در مورد خروج ایالت کالیفرنیا در صورتی که ایالت آمریکا با مذاکرات موافقت نکند، هشدار داد.",
+      "summary_fa": "بر اساس گزارش ها، دیوید الیسون، مدیر عامل پارامونت، در مورد خروج ایالت کالیفرنیا در صورتی که ایالت آمریکا با مذاکرات موافقت نکند، هشدار داد.",
+      "summary_en": "Paramount's CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.",
+      "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:34:31 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "692b67fc60eab008c2ea45eeb6d86a52",
+      "title": "\"در نهایت عدالت\": واکنش مردم سوریه به حکم اعدام اسد",
+      "title_fa": "\"در نهایت عدالت\": واکنش مردم سوریه به حکم اعدام اسد",
+      "title_en": "‘Justice at last’: Syrians react to Assad death sentence",
+      "summary": "مردم سوریه پس از آن که دادگاهی بشار اسد رئیس جمهور مخلوع را به طور غیابی به اعدام محکوم کرد، گرد هم آمدند تا جشن بگیرند.",
+      "summary_fa": "مردم سوریه پس از آن که دادگاهی بشار اسد رئیس جمهور مخلوع را به طور غیابی به اعدام محکوم کرد، گرد هم آمدند تا جشن بگیرند.",
+      "summary_en": "Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:32:42 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "674b74fe286eb375b348ba4bab8378fc",
+      "title": "ریزش معدن در آفریقای جنوبی 14 معدنچی مظنون به مرگ را گرفت",
+      "title_fa": "ریزش معدن در آفریقای جنوبی 14 معدنچی مظنون به مرگ را گرفت",
+      "title_en": "South Africa mine collapse kills 14 suspected illegal miners",
+      "summary": "حداقل 14 معدنچی مظنون غیرقانونی بر اثر ریزش یک معدن در آفریقای جنوبی کشته و هشت نفر مجروح شدند.",
+      "summary_fa": "حداقل 14 معدنچی مظنون غیرقانونی بر اثر ریزش یک معدن در آفریقای جنوبی کشته و هشت نفر مجروح شدند.",
+      "summary_en": "At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:31:54 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49163c51ebea32dbb357941dc7e9a888",
+      "title": "راهنمای خرید EV مورد استفاده: نسخه 30000 دلاری",
+      "title_fa": "راهنمای خرید EV مورد استفاده: نسخه 30000 دلاری",
+      "title_en": "Used EV buying guide: The $30,000 edition",
+      "summary": "بسته به مدل، ممکن است صدها مورد برای انتخاب داشته باشید—یا فقط یکی.",
+      "summary_fa": "بسته به مدل، ممکن است صدها مورد برای انتخاب داشته باشید—یا فقط یکی.",
+      "summary_en": "Depending on the model, you might have hundreds to choose from—or just one.",
+      "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 18:31:53 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/electric-piggy-bank-30k-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e8d8a66c48e63b86f8578258821395e",
+      "title": "گردشگران به ایسلند می‌روند تا شاهد خورشید گرفتگی کامل نادر باشند",
+      "title_fa": "گردشگران به ایسلند می‌روند تا شاهد خورشید گرفتگی کامل نادر باشند",
+      "title_en": "Tourists rush to Iceland to witness rare total solar eclipse",
+      "summary": "ایسلند خود را برای یک خورشید گرفتگی کامل با صدها بازدید کننده در این کشور آماده می کند.",
+      "summary_fa": "ایسلند خود را برای یک خورشید گرفتگی کامل با صدها بازدید کننده در این کشور آماده می کند.",
+      "summary_en": "Iceland is preparing for a total solar eclipse with hundreds of visitors expected in the country.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:22:14 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fc7639accfafe951b2e5a87e07140ade",
+      "title": "گروه های حقوق بشر چالش حقوقی جدیدی را برای کمپین ترامپ علیه دیوان کیفری بین المللی آغاز کردند",
+      "title_fa": "گروه های حقوق بشر چالش حقوقی جدیدی را برای کمپین ترامپ علیه دیوان کیفری بین المللی آغاز کردند",
+      "title_en": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "summary": "سازمان های برجسته متهم به تحریم علیه دادگاه بین المللی حقوق اساسی را زیر پا گذاشته و مانع از کار آنها می شود.",
+      "summary_fa": "سازمان های برجسته متهم به تحریم علیه دادگاه بین المللی حقوق اساسی را زیر پا گذاشته و مانع از کار آنها می شود.",
+      "summary_en": "Prominent organisation charge sanctions against international tribunal trample consitutional rights, hinder their work.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:18:44 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb20c640eaeaefa6a645ba6af2c4f242",
+      "title": "ترامپ به بلوک فدرال نگاه می‌کند که می‌گوید مالیات بر پایه نیویورک «باید متوقف شود».",
+      "title_fa": "ترامپ به بلوک فدرال نگاه می‌کند که می‌گوید مالیات بر پایه نیویورک «باید متوقف شود».",
+      "title_en": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
+      "summary": "ترامپ در پستی در Truth Social مالیات مقرون به صرفه ممدانی را «آزمایش سیاسی خطرناکی در نیویورک» خواند که شهر و ایالت را ویران خواهد کرد.",
+      "summary_fa": "ترامپ در پستی در Truth Social مالیات مقرون به صرفه ممدانی را «آزمایش سیاسی خطرناکی در نیویورک» خواند که شهر و ایالت را ویران خواهد کرد.",
+      "summary_en": "Trump in a Truth Social post called Mamdani's pied-à-terre tax a \"dangerous political 'experiment' in New York will destroy\" the city and state.",
+      "link": "https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 18:10:10 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c4953f0e2d694c257c2e6892ba8119a5",
+      "title": "با راه اندازی قراردادهای آتی CME، قدرت محاسباتی هوش مصنوعی در حال تبدیل شدن به یک کلاس دارایی قابل معامله است",
+      "title_fa": "با راه اندازی قراردادهای آتی CME، قدرت محاسباتی هوش مصنوعی در حال تبدیل شدن به یک کلاس دارایی قابل معامله است",
+      "title_en": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
+      "summary": "این صرافی با Silicon Data همکاری می کند تا دو قرارداد آتی محاسباتی را در 5 اکتبر معرفی کند که در انتظار بررسی نظارتی است.",
+      "summary_fa": "این صرافی با Silicon Data همکاری می کند تا دو قرارداد آتی محاسباتی را در 5 اکتبر معرفی کند که در انتظار بررسی نظارتی است.",
+      "summary_en": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
+      "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 18:09:08 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -42925,6 +43345,48 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2287552371-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d77d2e0de6930ff159685b3177ad8921",
+      "title": "دادگاه عالی برزیل به بررسی پرونده هایی می پردازد که می تواند حمایت های آمازون را تضعیف کند",
+      "title_fa": "دادگاه عالی برزیل به بررسی پرونده هایی می پردازد که می تواند حمایت های آمازون را تضعیف کند",
+      "title_en": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
+      "summary": "این احکام می تواند بر حقوق بومیان زمین، کشاورزی سویا و حفاظت از محیط زیست در سراسر جنگل های آمازون تأثیر بگذارد.",
+      "summary_fa": "این احکام می تواند بر حقوق بومیان زمین، کشاورزی سویا و حفاظت از محیط زیست در سراسر جنگل های آمازون تأثیر بگذارد.",
+      "summary_en": "The rulings could affect Indigenous land rights, soya farming and environmental safeguards across the Amazon rainforest.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 18:00:01 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6883da1dd61260ca8beae63c53b4fb7a",
+      "title": "دادگاه سوریه بشار اسد و عاطف نجیب را به اعدام محکوم کرد",
+      "title_fa": "دادگاه سوریه بشار اسد و عاطف نجیب را به اعدام محکوم کرد",
+      "title_en": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
+      "summary": "بشار اسد رئیس جمهور سابق سوریه، برادرش ماهر اسد و عاطف نجیب پسر عمویش به اعدام محکوم شدند.",
+      "summary_fa": "بشار اسد رئیس جمهور سابق سوریه، برادرش ماهر اسد و عاطف نجیب پسر عمویش به اعدام محکوم شدند.",
+      "summary_en": "Syria’s ex-president Bashar al-Assad, his brother Maher al-Assad and cousin Atef Najib have been sentenced to death",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 17:59:50 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -43517,6 +43979,27 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "b84f1f1471b518b5b0975c55172a2ada",
+      "title": "با افزایش تعداد قربانیان زلزله کلمبیا به حداقل 181 نفر، امدادگران در جستجوی بازماندگان هستند.",
+      "title_fa": "با افزایش تعداد قربانیان زلزله کلمبیا به حداقل 181 نفر، امدادگران در جستجوی بازماندگان هستند.",
+      "title_en": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "summary": "یکی از امدادگران در کالی گفت: «ما صدای جیغ آنها را شنیدیم.",
+      "summary_fa": "یکی از امدادگران در کالی گفت: «ما صدای جیغ آنها را شنیدیم.",
+      "summary_en": "“We heard them screaming,” said one rescuer in Cali, where rescuers face a race against time to find the living.",
+      "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 16:31:58 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/11int-colombia-quakes/11int-colombia-quakes-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -127644,6 +128127,27 @@
       }
     },
     {
+      "id": "2f003cd170052e544cd2861f7263564a",
+      "title": "اکنون زنده: راس اسکات در مورد جنبش Stop Killing Games صحبت می کند",
+      "title_fa": "اکنون زنده: راس اسکات در مورد جنبش Stop Killing Games صحبت می کند",
+      "title_en": "Live now: Ross Scott discusses the Stop Killing Games movement",
+      "summary": "بحث ما به صورت زنده در 11 اوت در ساعت 2:30 بعد از ظهر به وقت شرقی برگزار می شود.",
+      "summary_fa": "بحث ما به صورت زنده در 11 اوت در ساعت 2:30 بعد از ظهر به وقت شرقی برگزار می شود.",
+      "summary_en": "Our discussion takes place live on August 11 at 2:30 pm ET.",
+      "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 10 Aug 2026 22:23:43 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "770b28ec3f6c325da45d1ad2f49bdf3a",
       "title": "به روز رسانی زنده زلزله کلمبیا: بیش از 100 کشته و فروریختن ساختمان ها پس از زلزله 7.4 ریشتری",
       "title_fa": "به روز رسانی زنده زلزله کلمبیا: بیش از 100 کشته و فروریختن ساختمان ها پس از زلزله 7.4 ریشتری",
@@ -171989,6 +172493,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1a86058fbdee61c055fa783fa53d9687",
+      "title": "Threads اکنون یک برنامه VR دارد",
+      "title_fa": "Threads اکنون یک برنامه VR دارد",
+      "title_en": "Threads has a VR app now",
+      "summary": "این شرکت روز سه شنبه اعلام کرد متا یک برنامه Threads را برای هدست های متا کوئست VR راه اندازی کرده است. این راه اندازی به دنبال آن است که متا ماه گذشته این برنامه را به عینک های Ray-Ban Display AR خود آورد و اخبار اخیر مبنی بر اینکه پلتفرم از مرز 500 میلیون کاربر فعال ماهانه عبور کرده است. به نظر یک برنامه کاملاً کامل است. متا می گوید که […]",
+      "summary_fa": "این شرکت روز سه شنبه اعلام کرد متا یک برنامه Threads را برای هدست های متا کوئست VR راه اندازی کرده است. این راه اندازی به دنبال آن است که متا ماه گذشته این برنامه را به عینک های Ray-Ban Display AR خود آورد و اخبار اخیر مبنی بر اینکه پلتفرم از مرز 500 میلیون کاربر فعال ماهانه عبور کرده است. به نظر یک برنامه کاملاً کامل است. متا می گوید که […]",
+      "summary_en": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that […]",
+      "link": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "source": "The Verge",
+      "published_at": "2026-08-11T15:10:14-04:00",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd63c49b0bfb023575cb914ba3ba5e53",
+      "title": "سرویس پخش رایگان Google اکنون به شما امکان می دهد نمایش ها و فیلم ها را برای تماشا انتخاب کنید",
+      "title_fa": "سرویس پخش رایگان Google اکنون به شما امکان می دهد نمایش ها و فیلم ها را برای تماشا انتخاب کنید",
+      "title_en": "Google’s free streaming service now lets you pick shows and movies to watch",
+      "summary": "Google TV Freeplay، سرویس پخش رایگان و تبلیغاتی این شرکت، اکنون از ویدیوی درخواستی پشتیبانی می کند. به‌جای تنظیم کانال‌های همیشه روشن Google TV Freeplay، اکنون می‌توانید از بین بیش از 10000 نمایش و فیلم انتخاب کنید تا هر زمان که بخواهید تماشا کنید. طبق گفته گوگل، این به روز رسانی عناوینی مانند Lady Bird، Seventeen Again و Hell's Kitchen را معرفی می کند.",
+      "summary_fa": "Google TV Freeplay، سرویس پخش رایگان و تبلیغاتی این شرکت، اکنون از ویدیوی درخواستی پشتیبانی می کند. به‌جای تنظیم کانال‌های همیشه روشن Google TV Freeplay، اکنون می‌توانید از بین بیش از 10000 نمایش و فیلم انتخاب کنید تا هر زمان که بخواهید تماشا کنید. طبق گفته گوگل، این به روز رسانی عناوینی مانند Lady Bird، Seventeen Again و Hell's Kitchen را معرفی می کند.",
+      "summary_en": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want. The update introduces titles like Lady Bird, Seventeen Again, and Hell's Kitchen, according to Google's […]",
+      "link": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
+      "source": "The Verge",
+      "published_at": "2026-08-11T14:35:16-04:00",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
