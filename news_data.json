@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-11 11:28:41",
-  "total_count": 8587,
+  "last_update": "2026-08-11 12:25:46",
+  "total_count": 8611,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -42869,6 +42869,69 @@
       }
     },
     {
+      "id": "fe52248d68151fb2b76e4f49d70f5e23",
+      "title": "تغییرات وارش در دستورالعمل پیشروی توسط یک بانک مرکزی آزمایش شد - و در اینجا اتفاق افتاد",
+      "title_fa": "تغییرات وارش در دستورالعمل پیشروی توسط یک بانک مرکزی آزمایش شد - و در اینجا اتفاق افتاد",
+      "title_en": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
+      "summary": "کتاب بازی پس از سال 2008 کانادا، خطرات نوسانات فدرال رزرو بدون راهنمایی وارش را نشان می دهد.",
+      "summary_fa": "کتاب بازی پس از سال 2008 کانادا، خطرات نوسانات فدرال رزرو بدون راهنمایی وارش را نشان می دهد.",
+      "summary_en": "Canada’s post-2008 playbook shows the volatility risks of Warsh’s no-guidance Fed.",
+      "link": "https://www.marketwatch.com/story/warshs-changes-to-forward-guidance-were-tried-by-one-central-bank-and-heres-what-happened-c7a5c743?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 12:16:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-70960671",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d403794ad8a07db994ccc8f4b5a235d",
+      "title": "بازدهی خزانه داری تغییر چندانی نکرده است زیرا سرمایه گذاران منتظر داده های تورم هستند",
+      "title_fa": "بازدهی خزانه داری تغییر چندانی نکرده است زیرا سرمایه گذاران منتظر داده های تورم هستند",
+      "title_en": "Treasury yields are little changed as investors await inflation data",
+      "summary": "بازدهی خزانه‌داری آمریکا در روز سه‌شنبه افزایش یافت زیرا سرمایه‌گذاران در انتظار انتشار داده‌های تورم ماه جولای در بحبوحه تنش‌های ادامه دار ایران هستند.",
+      "summary_fa": "بازدهی خزانه‌داری آمریکا در روز سه‌شنبه افزایش یافت زیرا سرمایه‌گذاران در انتظار انتشار داده‌های تورم ماه جولای در بحبوحه تنش‌های ادامه دار ایران هستند.",
+      "summary_en": "U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.",
+      "link": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 12:15:54 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "2f6d3f451b3fee797fa8badfe4defe0f",
+      "title": "قیمت نفت ایالات متحده در حدود 82 دلار در نوسان است زیرا معامله گران سیگنال های متناقض در مورد معامله تنگه هرمز را بررسی می کنند.",
+      "title_fa": "قیمت نفت ایالات متحده در حدود 82 دلار در نوسان است زیرا معامله گران سیگنال های متناقض در مورد معامله تنگه هرمز را بررسی می کنند.",
+      "title_en": "U.S. oil price hovers around $82 as traders weigh conflicting signals on Strait of Hormuz deal",
+      "summary": "پس از آنکه دونالد ترامپ رئیس جمهور آمریکا خواستار پرداخت غرامت از ایران به آمریکا شد، نفت آمریکا در اوایل روز گذشته تا 3 درصد افزایش یافت.",
+      "summary_fa": "پس از آنکه دونالد ترامپ رئیس جمهور آمریکا خواستار پرداخت غرامت از ایران به آمریکا شد، نفت آمریکا در اوایل روز گذشته تا 3 درصد افزایش یافت.",
+      "summary_en": "U.S. oil had risen as much as 3% earlier in the day after President Donald Trump demanded that Iran pay reparations to the U.S.",
+      "link": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 12:15:44 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "e41e793ffdbbae34a87a0ba92ab2eddb",
       "title": "آیا در خوابیدن در هتل ها مشکل دارید؟ به همین دلیل است - و چه کاری می توانید برای مبارزه با آن انجام دهید",
       "title_fa": "آیا در خوابیدن در هتل ها مشکل دارید؟ به همین دلیل است - و چه کاری می توانید برای مبارزه با آن انجام دهید",
@@ -42883,6 +42946,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b10de445daee8a09117497793c32014",
+      "title": "\"بازار آشکارا در آتش است\": آیا برای پرداخت وام خودروی خود باید 1000 دلار از حساب کارگزاری خود بگیرم؟",
+      "title_fa": "\"بازار آشکارا در آتش است\": آیا برای پرداخت وام خودروی خود باید 1000 دلار از حساب کارگزاری خود بگیرم؟",
+      "title_en": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "summary": "\"من کنجکاو هستم که آیا یک نقطه ضعف وجود دارد.\"",
+      "summary_fa": "\"من کنجکاو هستم که آیا یک نقطه ضعف وجود دارد.\"",
+      "summary_en": "“I’m curious whether there’s a downside.”",
+      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 12:15:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-56530103",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -42953,6 +43037,90 @@
       }
     },
     {
+      "id": "5e9c8093308d202b91c584a990316824",
+      "title": "مرحله نهایی رای گیری در کشمیر تحت مدیریت پاکستان، علیرغم محدودیت امنیتی",
+      "title_fa": "مرحله نهایی رای گیری در کشمیر تحت مدیریت پاکستان، علیرغم محدودیت امنیتی",
+      "title_en": "Final phase of voting in Pakistan-administered Kashmir, despite security fe",
+      "summary": "مرحله نهایی رای گیری در کشمیر تحت مدیریت پاکستان، علیرغم نگرانی های امنیتی",
+      "summary_fa": "مرحله نهایی رای گیری در کشمیر تحت مدیریت پاکستان، علیرغم نگرانی های امنیتی",
+      "summary_en": "Final phase of voting in Pakistan-administered Kashmir, despite security fears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 12:08:08 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26587dda8e5863a4a095e3e08fa13d8f",
+      "title": "وزیر خارجه اسپانیا می‌گوید «آخرین نفر» به مراکش بازگردانده می‌شوند و از مهاجران می‌خواهد «دیگر جانشان را به خطر نیندازند» - اروپا زنده است",
+      "title_fa": "وزیر خارجه اسپانیا می‌گوید «آخرین نفر» به مراکش بازگردانده می‌شوند و از مهاجران می‌خواهد «دیگر جانشان را به خطر نیندازند» - اروپا زنده است",
+      "title_en": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "summary": "خوزه مانوئل آلبارس پیش از این از سئوتا بازدید کرد زیرا اصرار داشت که مادرید همه آن را تحت کنترل دارد. خوزه مانوئل آلبارس، وزیر امور خارجه اسپانیا، اوایل امروز از سئوتا بازدید کرد، زیرا او تاکید کرد که مادرید علیرغم \"بی نظیرترین و پیچیده ترین\" ترتیبات مرزی آنجا تحت کنترل است. ادامه مطلب...",
+      "summary_fa": "خوزه مانوئل آلبارس پیش از این از سئوتا بازدید کرد زیرا اصرار داشت که مادرید همه آن را تحت کنترل دارد. خوزه مانوئل آلبارس، وزیر امور خارجه اسپانیا، اوایل امروز از سئوتا بازدید کرد، زیرا او تاکید کرد که مادرید علیرغم \"بی نظیرترین و پیچیده ترین\" ترتیبات مرزی آنجا تحت کنترل است. ادامه مطلب...",
+      "summary_en": "José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under controlSpanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there.He said Spain was in direct dialogue with the Moroccan authorities on how to prevent another border crisis. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Tue, 11 Aug 2026 12:06:24 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/762c4e27b37244ec11a6983c789013b8ed0e5063/2693_791_2821_2257/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=3b3a465bcc7b13164e19cb101d96b786",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "cad68c64e5d725def4f5b3be584e8b04",
+      "title": "چه چیزی را در مسابقات اولیه پرمخاطب ویسکانسین تماشا کنید",
+      "title_fa": "چه چیزی را در مسابقات اولیه پرمخاطب ویسکانسین تماشا کنید",
+      "title_en": "What to watch in Wisconsin’s high-stakes primary",
+      "summary": "دموکرات های ایالات متحده پس از میشیگان با آزمون دیگری روبرو هستند زیرا رای دهندگان نامزدهای فرماندار و کنگره را انتخاب می کنند.",
+      "summary_fa": "دموکرات های ایالات متحده پس از میشیگان با آزمون دیگری روبرو هستند زیرا رای دهندگان نامزدهای فرماندار و کنگره را انتخاب می کنند.",
+      "summary_en": "US Democrats face another test after Michigan as voters choose nominees for governor and Congress.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 12:05:54 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ff835e9dbfeb9e527344075ff6930c9",
+      "title": "سوریه اسد رئیس جمهور پیشین را به جرم جنایت علیه بشریت به اعدام محکوم کرد",
+      "title_fa": "سوریه اسد رئیس جمهور پیشین را به جرم جنایت علیه بشریت به اعدام محکوم کرد",
+      "title_en": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+      "summary": "رئیس جمهور سابق در جریان جنگ داخلی این کشور به جنایت علیه بشریت محکوم شد که اولین حکم از زمان فرار او به روسیه در سال 2024 بود.",
+      "summary_fa": "رئیس جمهور سابق در جریان جنگ داخلی این کشور به جنایت علیه بشریت محکوم شد که اولین حکم از زمان فرار او به روسیه در سال 2024 بود.",
+      "summary_en": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
+      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 12:04:26 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "e2b77470d6b58f1d45b85fe03d877d69",
       "title": "آخرین بولتن اخبار | 11 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 11 آگوست 2026 - ظهر",
@@ -42971,6 +43139,90 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "86b45b70a4eb3faa95b0c840a5888cf0",
+      "title": "شرکت محصولات کودک Frida در حال گسترش به مراقبت شخصی کودکان است",
+      "title_fa": "شرکت محصولات کودک Frida در حال گسترش به مراقبت شخصی کودکان است",
+      "title_en": "Baby products company Frida is expanding into kids’ personal care",
+      "summary": "شرکت محصولات کودک فریدا دسته جدیدی از اقلام مراقبت شخصی را برای کودکان راه اندازی کرده است که به بازار رو به رشد و فضایی که عمدتاً استفاده نشده است، راه اندازی می کند.",
+      "summary_fa": "شرکت محصولات کودک فریدا دسته جدیدی از اقلام مراقبت شخصی را برای کودکان راه اندازی کرده است که به بازار رو به رشد و فضایی که عمدتاً استفاده نشده است، راه اندازی می کند.",
+      "summary_en": "Baby products company Frida is launching a new category of personal care items for kids, tapping into a growing market and largely untapped space.",
+      "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 12:00:02 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f7b29ef53da56df9341689985f243036",
+      "title": "با افزایش تلفات زمین لرزه قدرتمند کلمبیا، امدادگران برای یافتن بازماندگان تلاش می کنند.",
+      "title_fa": "با افزایش تلفات زمین لرزه قدرتمند کلمبیا، امدادگران برای یافتن بازماندگان تلاش می کنند.",
+      "title_en": "Rescuers scramble to find survivors as death toll rises in Colombia’s powerful earthquake",
+      "summary": "سگ‌ها و پهپادها برای جستجوی افراد گرفتار در زیر ساختمان‌های فروریخته مستقر شده‌اند و مقامات محلی حداقل 150 کشته بر اثر شدیدترین زمین‌لرزه این کشور در یک دهه اخیر را گزارش کرده‌اند.",
+      "summary_fa": "سگ‌ها و پهپادها برای جستجوی افراد گرفتار در زیر ساختمان‌های فروریخته مستقر شده‌اند و مقامات محلی حداقل 150 کشته بر اثر شدیدترین زمین‌لرزه این کشور در یک دهه اخیر را گزارش کرده‌اند.",
+      "summary_en": "Dogs and drones have been deployed to search for those trapped under collapsed buildings, with local authorities reporting at least 150 deaths from the nation's strongest earthquake in a decade.",
+      "link": "https://www.washingtonpost.com/world/2026/08/11/colombia-rescuers-scramble-find-survivors-earthquake-death-toll-rises/",
+      "source": "Washington Post",
+      "published_at": "Tue, 11 Aug 2026 11:50:18 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad3562ba0b200af3b869350769b4e18f",
+      "title": "دادگاه سوریه بشار اسد را غیابی به اعدام محکوم کرد",
+      "title_fa": "دادگاه سوریه بشار اسد را غیابی به اعدام محکوم کرد",
+      "title_en": "Syrian court sentences Bashar al-Assad to death in absentia",
+      "summary": "دادگاه سوریه بشار اسد را غیابی به اعدام محکوم کرد",
+      "summary_fa": "دادگاه سوریه بشار اسد را غیابی به اعدام محکوم کرد",
+      "summary_en": "Syrian court sentences Bashar al-Assad to death in absentia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 11:46:21 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2259030c5163234bbb5f7cd6f019cdfe",
+      "title": "همانطور که لومنتوم برای کسب درآمد آماده می شود، این نشانه ای است که تجارت نوری در حال بازگشت است",
+      "title_fa": "همانطور که لومنتوم برای کسب درآمد آماده می شود، این نشانه ای است که تجارت نوری در حال بازگشت است",
+      "title_en": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back",
+      "summary": "یک ETF با مضمون فوتونیک در اولین روز معاملاتی خود تقاضای بهتری نسبت به یک ETF حافظه محبوب در همان نقطه از چرخه عمر خود داشت.",
+      "summary_fa": "یک ETF با مضمون فوتونیک در اولین روز معاملاتی خود تقاضای بهتری نسبت به یک ETF حافظه محبوب در همان نقطه از چرخه عمر خود داشت.",
+      "summary_en": "A photonics-themed ETF saw better demand in its first trading day than a popular memory ETF did at the same point in its life cycle.",
+      "link": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 11:46:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-93320117",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -42995,6 +43247,27 @@
       }
     },
     {
+      "id": "290e3274ee3a057b59227abd59b5c9f8",
+      "title": "رتبه بندی بهترین ماسک ها و دستگاه های LED درمانی با نور قرمز در سال 2026",
+      "title_fa": "رتبه بندی بهترین ماسک ها و دستگاه های LED درمانی با نور قرمز در سال 2026",
+      "title_en": "Ranking the Best Red-Light Therapy Masks and LED Devices of 2026",
+      "summary": "ماسک‌های درمانی با نور قرمز را امتحان کردم و با افراد حرفه‌ای مشورت کردم تا بفهمم کدام‌یک ارزش ولخرجی را دارند.",
+      "summary_fa": "ماسک‌های درمانی با نور قرمز را امتحان کردم و با افراد حرفه‌ای مشورت کردم تا بفهمم کدام‌یک ارزش ولخرجی را دارند.",
+      "summary_en": "I tried the red-light therapy masks flooding my feed and consulted with professionals to find out which ones are worth the splurge.",
+      "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
+      "source": "Wired",
+      "published_at": "Tue, 11 Aug 2026 11:31:00 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "227609ce9ef3baac3dfa89119484f618",
       "title": "امنیت در مرز: چگونه دستور کار امنیتی بر سیاست مهاجرت اتحادیه اروپا تسلط یافت",
       "title_fa": "امنیت در مرز: چگونه دستور کار امنیتی بر سیاست مهاجرت اتحادیه اروپا تسلط یافت",
@@ -43016,10 +43289,136 @@
       }
     },
     {
+      "id": "b0327f7d95f190e59386efe093963af9",
+      "title": "\"سطح جدید خطر\": حوادث هواپیماهای بدون سرنشین اروپا را در بحبوحه جنگ روسیه و اوکراین می ترساند",
+      "title_fa": "\"سطح جدید خطر\": حوادث هواپیماهای بدون سرنشین اروپا را در بحبوحه جنگ روسیه و اوکراین می ترساند",
+      "title_en": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+      "summary": "پس از سقوط یک پهپاد در آلمان، ترس از عملیات مشکوک روسیه در سراسر اروپا افزایش یافت.",
+      "summary_fa": "پس از سقوط یک پهپاد در آلمان، ترس از عملیات مشکوک روسیه در سراسر اروپا افزایش یافت.",
+      "summary_en": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 11:30:48 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "4ab6ffa7910c2192078984f8444a4640",
+      "title": "حمله جدید Pass-ta-key همه چیزهایی را که ما در مورد کلیدهای عبور نمی دانستیم آشکار می کند",
+      "title_fa": "حمله جدید Pass-ta-key همه چیزهایی را که ما در مورد کلیدهای عبور نمی دانستیم آشکار می کند",
+      "title_en": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "summary": "چرا برنامه های رمز عبور با ویندوز متفاوت از سایر سیستم عامل ها رفتار می کنند؟",
+      "summary_fa": "چرا برنامه های رمز عبور با ویندوز متفاوت از سایر سیستم عامل ها رفتار می کنند؟",
+      "summary_en": "Why passkey apps treat Windows differently than other operating systems.",
+      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 11:30:08 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d33976f6620ac5b64714f1db61751d5c",
+      "title": "آینده نیروهای حافظ صلح جنوب لبنان در آستانه خروج تدریجی یونیفل نامشخص است",
+      "title_fa": "آینده نیروهای حافظ صلح جنوب لبنان در آستانه خروج تدریجی یونیفل نامشخص است",
+      "title_en": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
+      "summary": "ماموریت های صلح آتی ممکن است به طور قابل توجهی کاهش یابد و شکاف های امنیتی را به خطر بیندازد، زیرا راه حل های سیاسی گریزان مانده است.",
+      "summary_fa": "ماموریت های صلح آتی ممکن است به طور قابل توجهی کاهش یابد و شکاف های امنیتی را به خطر بیندازد، زیرا راه حل های سیاسی گریزان مانده است.",
+      "summary_en": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 11:28:53 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f9a22466b63e0dbfe4365aef2dba683d",
+      "title": "هفته نامه فلسطین: نتانیاهو از نقشه راه غزه محافظت می کند",
+      "title_fa": "هفته نامه فلسطین: نتانیاهو از نقشه راه غزه محافظت می کند",
+      "title_en": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+      "summary": "حملات در غزه در این هفته به شدت کاهش یافت، حتی زمانی که نتانیاهو علناً طرح صلح 15 ماده‌ای ترامپ را رد کرد.",
+      "summary_fa": "حملات در غزه در این هفته به شدت کاهش یافت، حتی زمانی که نتانیاهو علناً طرح صلح 15 ماده‌ای ترامپ را رد کرد.",
+      "summary_en": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 11:28:05 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "fde020956b63d5596a248bdf40ddca4f",
+      "title": "یک نوزاد در میان نجات یافتگان به دلیل بیم ناپدید شدن صدها نفر پس از زلزله کلمبیا",
+      "title_fa": "یک نوزاد در میان نجات یافتگان به دلیل بیم ناپدید شدن صدها نفر پس از زلزله کلمبیا",
+      "title_en": "Baby among those rescued as hundreds feared missing after Colombia quake",
+      "summary": "زمین لرزه ای به بزرگی 7.4 ریشتر غرب کلمبیا را ویران کرد و 132 کشته برجای گذاشت، ساختمان ها ویران شد و صدها نفر مفقود شدند.",
+      "summary_fa": "زمین لرزه ای به بزرگی 7.4 ریشتر غرب کلمبیا را ویران کرد و 132 کشته برجای گذاشت، ساختمان ها ویران شد و صدها نفر مفقود شدند.",
+      "summary_en": "A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 11:26:18 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "0b83dd1952b35a65d004b24c17ce3376",
       "title": "جاده ها، آب و برج های مخابراتی می توانند هیاهوی هوش مصنوعی را شکست دهند. این مدیر صندوق سهام زیرساخت را برای خرید در حال حاضر علامت گذاری می کند.",
       "title_fa": "جاده ها، آب و برج های مخابراتی می توانند هیاهوی هوش مصنوعی را شکست دهند. این مدیر صندوق سهام زیرساخت را برای خرید در حال حاضر علامت گذاری می کند.",
       "title_en": "Roads, water and telecom towers can beat the AI hype. This fund manager flags the infrastructure stocks to buy now.",
+      "summary": "برتراند کلیکت، مدیر پورتفولیوی لازارد می‌گوید ارزش شرکت‌های زیرساختی بیشتر از تبلیغات هوش مصنوعی است که گاهی اوقات به آنها مرتبط می‌شود.",
+      "summary_fa": "برتراند کلیکت، مدیر پورتفولیوی لازارد می‌گوید ارزش شرکت‌های زیرساختی بیشتر از تبلیغات هوش مصنوعی است که گاهی اوقات به آنها مرتبط می‌شود.",
+      "summary_en": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.",
+      "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 11:18:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-36642300",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ffc82d114efd2fa1218760ee3333a2fb",
+      "title": "این مدیر صندوق، تبلیغات هوش مصنوعی را تنظیم می کند تا سهام زیرساخت را برای خرید در حال حاضر پرچم گذاری کند. به جاده ها، آب و برج های مخابراتی فکر کنید.",
+      "title_fa": "این مدیر صندوق، تبلیغات هوش مصنوعی را تنظیم می کند تا سهام زیرساخت را برای خرید در حال حاضر پرچم گذاری کند. به جاده ها، آب و برج های مخابراتی فکر کنید.",
+      "title_en": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
       "summary": "برتراند کلیکت، مدیر پورتفولیوی لازارد می‌گوید ارزش شرکت‌های زیرساختی بیشتر از تبلیغات هوش مصنوعی است که گاهی اوقات به آنها مرتبط می‌شود.",
       "summary_fa": "برتراند کلیکت، مدیر پورتفولیوی لازارد می‌گوید ارزش شرکت‌های زیرساختی بیشتر از تبلیغات هوش مصنوعی است که گاهی اوقات به آنها مرتبط می‌شود.",
       "summary_en": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.",
@@ -43289,6 +43688,27 @@
       }
     },
     {
+      "id": "629b2c37c5f9a7245f096b272ea5414e",
+      "title": "این 11 سهم متوسط ​​در حال حاضر در میان خبرنامه های سرمایه گذاری محبوب هستند، اما نه به دلیل ارزش گذاری های بازار شیرین.",
+      "title_fa": "این 11 سهم متوسط ​​در حال حاضر در میان خبرنامه های سرمایه گذاری محبوب هستند، اما نه به دلیل ارزش گذاری های بازار شیرین.",
+      "title_en": "These 11 midcaps are popular right now among investment newsletters but not because of sweet-spot market valuations",
+      "summary": "بزرگتر از کلاهک های کوچک. کوچکتر از کلاهک های بزرگ. آیا آنها، همانطور که در افسانه، \"درست\" هستند؟",
+      "summary_fa": "بزرگتر از کلاهک های کوچک. کوچکتر از کلاهک های بزرگ. آیا آنها، همانطور که در افسانه، \"درست\" هستند؟",
+      "summary_en": "Bigger than small caps. Smaller than large caps. Are they, as in the fairytale, “just right”?",
+      "link": "https://www.marketwatch.com/story/these-11-midcaps-are-popular-right-now-among-investment-newsletters-but-not-because-of-their-market-valuations-a0bf0fbb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 10:30:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-268382",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "30deb9148ec60de0e7f12894c24b1114",
       "title": "ایلان ماسک، سام آلتمن و اشتباه خواندن داستان های علمی تخیلی",
       "title_fa": "ایلان ماسک، سام آلتمن و اشتباه خواندن داستان های علمی تخیلی",
@@ -43338,6 +43758,27 @@
       "summary": "نخست وزیر دولت شرق لیبی کشته شدن سرلشکر فوزی المنصوری را محکوم کرد.",
       "summary_fa": "نخست وزیر دولت شرق لیبی کشته شدن سرلشکر فوزی المنصوری را محکوم کرد.",
       "summary_en": "Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 10:25:50 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0835827e0143b423cf5c9043fedcb940",
+      "title": "رئیس اطلاعات ارتش شرق لیبی در انفجار خودروی بمب گذاری شده کشته شد",
+      "title_fa": "رئیس اطلاعات ارتش شرق لیبی در انفجار خودروی بمب گذاری شده کشته شد",
+      "title_en": "East Libya military intelligence chief killed in car bomb blast",
+      "summary": "نخست وزیر دولت شرق لیبی کشته شدن سرلشکر فوزی المنصوری را محکوم کرد.",
+      "summary_fa": "نخست وزیر دولت شرق لیبی کشته شدن سرلشکر فوزی المنصوری را محکوم کرد.",
+      "summary_en": "Prime minister of the eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
       "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Tue, 11 Aug 2026 10:25:50 +0000",
@@ -44616,6 +45057,27 @@
       "title": "گزارش ها: تهدید ایران باعث فرار مخفیانه ترامپ از ترکیه شد",
       "title_fa": "گزارش ها: تهدید ایران باعث فرار مخفیانه ترامپ از ترکیه شد",
       "title_en": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+      "summary": "طبق گزارش‌ها، ترامپ بدون اطلاع رسانه‌ها و برخی از کارکنان کاخ سفید، از سبد غذا برای تعویض هواپیما استفاده کرد.",
+      "summary_fa": "طبق گزارش‌ها، ترامپ بدون اطلاع رسانه‌ها و برخی از کارکنان کاخ سفید، از سبد غذا برای تعویض هواپیما استفاده کرد.",
+      "summary_en": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 08:18:08 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "2b918009b3d2be2df77e7b62150c0b85",
+      "title": "ترامپ برای جلوگیری از تهدید ایران از ترکیه \"فرار مخفیانه\" گرفت",
+      "title_fa": "ترامپ برای جلوگیری از تهدید ایران از ترکیه \"فرار مخفیانه\" گرفت",
+      "title_en": "Trump took ‘secret flight’ from Turkiye to avoid Iran ‘threat’",
       "summary": "طبق گزارش‌ها، ترامپ بدون اطلاع رسانه‌ها و برخی از کارکنان کاخ سفید، از سبد غذا برای تعویض هواپیما استفاده کرد.",
       "summary_fa": "طبق گزارش‌ها، ترامپ بدون اطلاع رسانه‌ها و برخی از کارکنان کاخ سفید، از سبد غذا برای تعویض هواپیما استفاده کرد.",
       "summary_en": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
@@ -168333,6 +168795,48 @@
       "published_at": "2026-08-11T07:00:00-04:00",
       "date_iso": "2026-08-11",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "692700b27dadee72a635b6633af3eedb",
+      "title": "هفت نکته برای خروجی زیبا از آزمایشگاه",
+      "title_fa": "هفت نکته برای خروجی زیبا از آزمایشگاه",
+      "title_en": "Seven tips for a graceful lab exit",
+      "summary": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02452-1 انتقال شغل چالش برانگیز است، اما ارتباط و برنامه ریزی خوب کمک خواهد کرد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02452-1 انتقال شغل چالش برانگیز است، اما ارتباط و برنامه ریزی خوب کمک خواهد کرد.",
+      "summary_en": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02452-1Job transitions are challenging, but good communication and planning will help.",
+      "link": "https://www.nature.com/articles/d41586-026-02452-1",
+      "source": "Nature",
+      "published_at": "2026-08-11 12:25",
+      "date_iso": "2026-08-11",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "646aec36f41d8a4d8b298053e3e78a9a",
+      "title": "خورشید گرفتگی فرصت نادری را برای حل معماهای میدان مغناطیسی خورشید ارائه می دهد",
+      "title_fa": "خورشید گرفتگی فرصت نادری را برای حل معماهای میدان مغناطیسی خورشید ارائه می دهد",
+      "title_en": "Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries",
+      "summary": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02142-yمحققان برای مشاهده خورشید گرفتگی در 12 اوت به اسپانیا و ایسلند سفر خواهند کرد تا به سوالاتی در مورد تاج خورشیدی پاسخ دهند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02142-yمحققان برای مشاهده خورشید گرفتگی در 12 اوت به اسپانیا و ایسلند سفر خواهند کرد تا به سوالاتی در مورد تاج خورشیدی پاسخ دهند.",
+      "summary_en": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02142-yResearchers will travel to Spain and Iceland to observe the solar eclipse on 12 August, hoping to answer questions about the solar corona.",
+      "link": "https://www.nature.com/articles/d41586-026-02142-y",
+      "source": "Nature",
+      "published_at": "2026-08-11 12:25",
+      "date_iso": "2026-08-11",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
