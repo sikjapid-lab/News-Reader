@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-11 16:09:47",
-  "total_count": 8742,
+  "last_update": "2026-08-11 17:13:51",
+  "total_count": 8760,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -42890,6 +42890,27 @@
       }
     },
     {
+      "id": "c8f76c3519a85ff518ca8fc7baaf30b1",
+      "title": "براد لایت‌کپ، مدیر قدیمی OpenAI، با ادامه فعالیت‌های جدید در آزمایشگاه هوش مصنوعی، کار را ترک می‌کند",
+      "title_fa": "براد لایت‌کپ، مدیر قدیمی OpenAI، با ادامه فعالیت‌های جدید در آزمایشگاه هوش مصنوعی، کار را ترک می‌کند",
+      "title_en": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+      "summary": "",
+      "summary_fa": "",
+      "summary_en": "",
+      "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 17:04:28 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f89105074c2d16aad350bda73468b11c",
       "title": "این پلت فرم جدید رزرو هتل، امتیازهای VIP را بدون طرح وفاداری معمولی وعده می دهد",
       "title_fa": "این پلت فرم جدید رزرو هتل، امتیازهای VIP را بدون طرح وفاداری معمولی وعده می دهد",
@@ -42911,6 +42932,69 @@
       }
     },
     {
+      "id": "f60429492e8bc2eea1c1898d5a7d34e1",
+      "title": "پی اس جی در مقابل استون ویلا: سوپر جام یوفا - پیش بینی، ترکیب، تیم ها",
+      "title_fa": "پی اس جی در مقابل استون ویلا: سوپر جام یوفا - پیش بینی، ترکیب، تیم ها",
+      "title_en": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
+      "summary": "پرده سنتی فصل لیگ فوتبال اروپا، پاری سن ژرمن را مقابل استون ویلا قرار می دهد.",
+      "summary_fa": "پرده سنتی فصل لیگ فوتبال اروپا، پاری سن ژرمن را مقابل استون ویلا قرار می دهد.",
+      "summary_en": "The traditional curtain raiser for Europe's football league season pits Paris Saint-Germain against Aston Villa.",
+      "link": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 16:55:34 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "28a9135ac07fb85eb0388b3f32472338",
+      "title": "یک توسعه دهنده Word 1.1a را از سال 1990 برای اجرا در ویندوز 11 دریافت کرد - خودتان آن را امتحان کنید",
+      "title_fa": "یک توسعه دهنده Word 1.1a را از سال 1990 برای اجرا در ویندوز 11 دریافت کرد - خودتان آن را امتحان کنید",
+      "title_en": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+      "summary": "آرزوی یک نسخه ساده و قدیمی مایکروسافت ورد را بدون تمام زنگ ها، سوت ها و هوش مصنوعی دارید؟ یکی از توسعه دهندگان موفق شد Word 1.1a را برای اجرا در ویندوز امروزی ترغیب کند.",
+      "summary_fa": "آرزوی یک نسخه ساده و قدیمی مایکروسافت ورد را بدون تمام زنگ ها، سوت ها و هوش مصنوعی دارید؟ یکی از توسعه دهندگان موفق شد Word 1.1a را برای اجرا در ویندوز امروزی ترغیب کند.",
+      "summary_en": "Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today's Windows.",
+      "link": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
+      "source": "ZDNet",
+      "published_at": "Tue, 11 Aug 2026 16:55:09 GMT",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ab734006b9710321128db51d6e695a43",
+      "title": "مدیرعامل Invitation Homes می‌گوید ممنوعیت خرید خانه‌های سازمانی قیمت‌ها را پایین می‌آورد، اما نه بلافاصله",
+      "title_fa": "مدیرعامل Invitation Homes می‌گوید ممنوعیت خرید خانه‌های سازمانی قیمت‌ها را پایین می‌آورد، اما نه بلافاصله",
+      "title_en": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
+      "summary": "مدیر عامل بزرگ‌ترین صاحبخانه اجاره‌ای کشور گفت قانون جدید ممنوعیت ورود سرمایه‌گذاران بزرگ به بازار، قیمت‌ها را در بلندمدت کاهش می‌دهد.",
+      "summary_fa": "مدیر عامل بزرگ‌ترین صاحبخانه اجاره‌ای کشور گفت قانون جدید ممنوعیت ورود سرمایه‌گذاران بزرگ به بازار، قیمت‌ها را در بلندمدت کاهش می‌دهد.",
+      "summary_en": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
+      "link": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 16:54:38 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bab5cc84b1f3e8217b5bc97c107fce93",
       "title": "رودخانه پو ایتالیا کم آب می شود زیرا خشکسالی مزارع و منابع آب را تهدید می کند",
       "title_fa": "رودخانه پو ایتالیا کم آب می شود زیرا خشکسالی مزارع و منابع آب را تهدید می کند",
@@ -42924,6 +43008,48 @@
       "date_iso": "2026-08-11",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d293e71c5f5e5ed6f6fec7b8b36939b5",
+      "title": "ترامپ به دلیل فشار برای محدود کردن شهروندی حق تولد با شکایت روبرو است",
+      "title_fa": "ترامپ به دلیل فشار برای محدود کردن شهروندی حق تولد با شکایت روبرو است",
+      "title_en": "Trump faces lawsuit over push to limit birthright citizenship",
+      "summary": "علیرغم حکم قبلی دیوان عالی، ترامپ به دنبال رویکرد جدیدی برای محدود کردن این رویه قدیمی بوده است.",
+      "summary_fa": "علیرغم حکم قبلی دیوان عالی، ترامپ به دنبال رویکرد جدیدی برای محدود کردن این رویه قدیمی بوده است.",
+      "summary_en": "Despite previous Supreme Court ruling, Trump has sought new approach to limit the longstanding practice.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 16:53:39 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "15f62c05601504be09365f8eaeb98e07",
+      "title": "ترامپ می خواهد واکسن MMR را تقسیم کند. کارشناسان می گویند که بعید است - و با عواقبی همراه است",
+      "title_fa": "ترامپ می خواهد واکسن MMR را تقسیم کند. کارشناسان می گویند که بعید است - و با عواقبی همراه است",
+      "title_en": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
+      "summary": "پزشکان و دیگر متخصصان می گویند که تقسیم واکسن سرخک، اوریون و سرخجه پایه علمی ندارد و بعید است که از روی زمین خارج شود.",
+      "summary_fa": "پزشکان و دیگر متخصصان می گویند که تقسیم واکسن سرخک، اوریون و سرخجه پایه علمی ندارد و بعید است که از روی زمین خارج شود.",
+      "summary_en": "Doctors and other experts say that splitting the measles, mumps and rubella shot has no scientific basis and is unlikely to get off the ground.",
+      "link": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 16:50:04 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -43037,6 +43163,27 @@
       }
     },
     {
+      "id": "6f14417288156f1194674932abf9c633",
+      "title": "ردیابی گرمای شدید ساعتی باعث می شود تغییرات آب و هوایی حتی بدتر به نظر برسد",
+      "title_fa": "ردیابی گرمای شدید ساعتی باعث می شود تغییرات آب و هوایی حتی بدتر به نظر برسد",
+      "title_en": "Tracking extreme heat by the hour makes climate change seem even worse",
+      "summary": "ساعات گرم تابستان می تواند در دهه های آینده سه برابر شود.",
+      "summary_fa": "ساعات گرم تابستان می تواند در دهه های آینده سه برابر شود.",
+      "summary_en": "Hot hours of summer could triple in the coming decades.",
+      "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 16:26:38 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1410976365-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b3bd0a2013b9bf004482e22219b2a9ac",
       "title": "گرمای شدید «بانک‌های پنیر» ایتالیا را تحت فشار قرار می‌دهد، جایی که پارمیجانو از وام‌های کشاورزی حمایت می‌کند",
       "title_fa": "گرمای شدید «بانک‌های پنیر» ایتالیا را تحت فشار قرار می‌دهد، جایی که پارمیجانو از وام‌های کشاورزی حمایت می‌کند",
@@ -43055,6 +43202,111 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "fa13c3bd471c6760a5a1d23dc40ac167",
+      "title": "Cramer: اینتل ممکن است چیزی در آستین خود داشته باشد. فشار مالی انویدیا \"به طرز چشمگیری مثبت\" است",
+      "title_fa": "Cramer: اینتل ممکن است چیزی در آستین خود داشته باشد. فشار مالی انویدیا \"به طرز چشمگیری مثبت\" است",
+      "title_en": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
+      "summary": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_fa": "باشگاه سرمایه‌گذاری «جلسه صبح» خود را هر روز هفته در ساعت 10:20 صبح به وقت شرقی برگزار می‌کند.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 16:21:35 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3353fcf61f8d578a49c3a058a212ff8c",
+      "title": "لوئیجی مانژیونه در دادگاه ظاهر می شود زیرا سوالاتی در مورد پرونده قبل از محاکمه قتل باقی می ماند",
+      "title_fa": "لوئیجی مانژیونه در دادگاه ظاهر می شود زیرا سوالاتی در مورد پرونده قبل از محاکمه قتل باقی می ماند",
+      "title_en": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "summary": "وکلای مانژیونه هنوز استراتژی دفاعی خود را اعلام نکرده اند، در حالی که دادستان ها بر سر شواهد در حال نبرد هستند.",
+      "summary_fa": "وکلای مانژیونه هنوز استراتژی دفاعی خود را اعلام نکرده اند، در حالی که دادستان ها بر سر شواهد در حال نبرد هستند.",
+      "summary_en": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 16:12:35 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373d/live/ab56d9d0-9589-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2bed3c537874f16bf20e1034a860a58",
+      "title": "پس از اینکه چین متا را مجبور به لغو قرارداد 2 میلیارد دلاری کرد، مانوس به عنوان یک شرکت مستقل باز خواهد گشت",
+      "title_fa": "پس از اینکه چین متا را مجبور به لغو قرارداد 2 میلیارد دلاری کرد، مانوس به عنوان یک شرکت مستقل باز خواهد گشت",
+      "title_en": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+      "summary": "در دسامبر گذشته، متا اعلام کرد که قصد دارد مانوس را به مبلغ 2 میلیارد دلار خریداری کند که آخرین تلاشش برای تقویت استراتژی هوش مصنوعی است.",
+      "summary_fa": "در دسامبر گذشته، متا اعلام کرد که قصد دارد مانوس را به مبلغ 2 میلیارد دلار خریداری کند که آخرین تلاشش برای تقویت استراتژی هوش مصنوعی است.",
+      "summary_en": "Last December, Meta said it planned to acquire Manus for $2 billion, its latest effort to shore up its AI strategy.",
+      "link": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 16:12:27 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "846c1f27950b785c810902b611cbca56",
+      "title": "استارلینک ماسک دارای دوبرابر مشترکین است، اما جریان اصلی همچنان مقصدی دور از دسترس برای سرویس اینترنت ماهواره ای است.",
+      "title_fa": "استارلینک ماسک دارای دوبرابر مشترکین است، اما جریان اصلی همچنان مقصدی دور از دسترس برای سرویس اینترنت ماهواره ای است.",
+      "title_en": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
+      "summary": "اینها شرایطی هستند که در آن انتخاب راه‌اندازی Starlink با استفاده از SpaceX بر روی فیبر، کابل و 5G ممکن است منطقی باشد.",
+      "summary_fa": "اینها شرایطی هستند که در آن انتخاب راه‌اندازی Starlink با استفاده از SpaceX بر روی فیبر، کابل و 5G ممکن است منطقی باشد.",
+      "summary_en": "These are the circumstances in which choosing a SpaceX-operated Starlink setup over fiber, cable and 5G may make financial sense.",
+      "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 16:11:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-08204030",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "45c0db160f32731090e05354990c91fc",
+      "title": "تماشا کنید: جزر و مد زباله رودخانه فیلیپین را پوشانده است",
+      "title_fa": "تماشا کنید: جزر و مد زباله رودخانه فیلیپین را پوشانده است",
+      "title_en": "Watch: Tide of rubbish blankets Philippines river",
+      "summary": "کارگران در مانیل از میان رودخانه عبور کردند و زباله‌هایی را که در روزهای بارانی شدید در آن شسته می‌شد جمع‌آوری کردند.",
+      "summary_fa": "کارگران در مانیل از میان رودخانه عبور کردند و زباله‌هایی را که در روزهای بارانی شدید در آن شسته می‌شد جمع‌آوری کردند.",
+      "summary_en": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
+      "link": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 16:10:55 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc01/live/2275cc00-959f-11f1-b2ab-0dd01740f9f6.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -43114,6 +43366,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c58af88b06609ec62edb511c9b25efd0",
+      "title": "قبل از سفر کانتینری ترامپ، روسای جمهور دیگر برنامه های سفر پرخطر را پنهان کردند",
+      "title_fa": "قبل از سفر کانتینری ترامپ، روسای جمهور دیگر برنامه های سفر پرخطر را پنهان کردند",
+      "title_en": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
+      "summary": "پرزیدنت ترامپ در ماه گذشته بخشی از فریبکاری مفصلی بود که سوار یک جت شد قبل از اینکه به هواپیمای دیگر منتقل شود.",
+      "summary_fa": "پرزیدنت ترامپ در ماه گذشته بخشی از فریبکاری مفصلی بود که سوار یک جت شد قبل از اینکه به هواپیمای دیگر منتقل شود.",
+      "summary_en": "President Trump was part of a particularly elaborate deception last month, boarding one jet before being spirited away to another.",
+      "link": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 16:03:08 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11xp-secret-plane-zvfg/11xp-secret-plane-zvfg-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -43965,6 +44238,27 @@
       "title": "ده پلیس و 17 \"راهزن\" در آتش سوزی در شمال غربی نیجریه کشته شدند",
       "title_fa": "ده پلیس و 17 \"راهزن\" در آتش سوزی در شمال غربی نیجریه کشته شدند",
       "title_en": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "summary": "پلیس می گوید که 17 عضو مظنون باند و دو غیرنظامی نیز در ایالت کبی کشته شدند.",
+      "summary_fa": "پلیس می گوید که 17 عضو مظنون باند و دو غیرنظامی نیز در ایالت کبی کشته شدند.",
+      "summary_en": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 14:44:10 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "37ed60a4c9ca6d65e1d9067d966767cc",
+      "title": "ده پلیس و 17 \"راهزن\" در درگیری با آتش در شمال غربی نیجریه کشته شدند",
+      "title_fa": "ده پلیس و 17 \"راهزن\" در درگیری با آتش در شمال غربی نیجریه کشته شدند",
+      "title_en": "Ten police and 17 ‘bandits’ killed in firefight in northwestern Nigeria",
       "summary": "پلیس می گوید که 17 عضو مظنون باند و دو غیرنظامی نیز در ایالت کبی کشته شدند.",
       "summary_fa": "پلیس می گوید که 17 عضو مظنون باند و دو غیرنظامی نیز در ایالت کبی کشته شدند.",
       "summary_en": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
@@ -48301,6 +48595,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4d9f5fd9dd610c4f92bec78831924674",
+      "title": "چگونه سرمایه گذاران 400 میلیارد دلاری AstraZeneca را از بین بردند",
+      "title_fa": "چگونه سرمایه گذاران 400 میلیارد دلاری AstraZeneca را از بین بردند",
+      "title_en": "How investors killed AstraZeneca’s $400bn megadeal",
+      "summary": "پیوند با رقیب آمریکایی بریستول مایرز نشان دهنده بازگشت به ادغام بزرگ داروها بود",
+      "summary_fa": "پیوند با رقیب آمریکایی بریستول مایرز نشان دهنده بازگشت به ادغام بزرگ داروها بود",
+      "summary_en": "Tie-up with US rival Bristol Myers would have marked return to big pharma mergers",
+      "link": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 11 Aug 2026 05:59:41 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b577711-f0ec-4bbe-84da-a5466d224c95.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -171462,6 +171777,69 @@
       "published_at": "2026-08-11T07:00:00-04:00",
       "date_iso": "2026-08-11",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36d6705edeb00b66848c2ab7077e988f",
+      "title": "حمل و نقل در رودخانه‌ها با آب و هوای شگفت‌آوری همراه است",
+      "title_fa": "حمل و نقل در رودخانه‌ها با آب و هوای شگفت‌آوری همراه است",
+      "title_en": "Shipping on rivers packs a surprisingly large climate punch",
+      "summary": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02431-6افزایش ترافیک در آبراه های داخلی می تواند فرصتی برای کاهش انتشار گازهای گلخانه ای باشد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02431-6افزایش ترافیک در آبراه های داخلی می تواند فرصتی برای کاهش انتشار گازهای گلخانه ای باشد.",
+      "summary_en": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02431-6Growing traffic on inland waterways could offer an opportunity for cutting emissions.",
+      "link": "https://www.nature.com/articles/d41586-026-02431-6",
+      "source": "Nature",
+      "published_at": "2026-08-11 17:13",
+      "date_iso": "2026-08-11",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7575f345f9b10853c85178176ebe4328",
+      "title": "واکسن‌های HIV سلول‌های ایمنی کمیاب را برای ساخت آنتی‌بادی‌های خنثی‌کننده هدایت می‌کنند",
+      "title_fa": "واکسن‌های HIV سلول‌های ایمنی کمیاب را برای ساخت آنتی‌بادی‌های خنثی‌کننده هدایت می‌کنند",
+      "title_en": "HIV vaccines guide rare immune cells to make broadly neutralizing antibodies",
+      "summary": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02374-yسه مطالعه روی پستانداران غیر انسانی نشان می دهد که واکسن های طراحی شده استراتژیک می توانند جمعیتی از سلول های B را برای تولید آنتی بادی های موثر علیه HIV ایجاد کنند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02374-yسه مطالعه روی پستانداران غیر انسانی نشان می دهد که واکسن های طراحی شده استراتژیک می توانند جمعیتی از سلول های B را برای تولید آنتی بادی های موثر علیه HIV ایجاد کنند.",
+      "summary_en": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02374-yThree studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.",
+      "link": "https://www.nature.com/articles/d41586-026-02374-y",
+      "source": "Nature",
+      "published_at": "2026-08-11 17:13",
+      "date_iso": "2026-08-11",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec5236b3a8c70b99dd84609d94671c1c",
+      "title": "NIH بودجه برای تحقیقات در مورد اثرات بهداشتی سیاست عمومی را محدود می کند",
+      "title_fa": "NIH بودجه برای تحقیقات در مورد اثرات بهداشتی سیاست عمومی را محدود می کند",
+      "title_en": "NIH limits funding for research on the health effects of public policy",
+      "summary": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02489-2 آژانس زیست پزشکی ایالات متحده دیگر سیاست گذاران را به عنوان \"ماموریت مرتبط\" نمی داند و ده ها کمک مالی را در هاله ای از ابهام می گذارد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 11 آگوست 2026; doi:10.1038/d41586-026-02489-2 آژانس زیست پزشکی ایالات متحده دیگر سیاست گذاران را به عنوان \"ماموریت مرتبط\" نمی داند و ده ها کمک مالی را در هاله ای از ابهام می گذارد.",
+      "summary_en": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02489-2US biomedical agency no longer considers policymakers as ‘mission relevant’, leaving dozens of grants in limbo.",
+      "link": "https://www.nature.com/articles/d41586-026-02489-2",
+      "source": "Nature",
+      "published_at": "2026-08-11 17:13",
+      "date_iso": "2026-08-11",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
