@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-11 20:09:00",
-  "total_count": 8818,
+  "last_update": "2026-08-11 21:05:01",
+  "total_count": 8840,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -42743,6 +42743,27 @@
       }
     },
     {
+      "id": "8bb6ae9b1460e67ff8737316e37648aa",
+      "title": "آلیاکساندر میلینکویچ، سیاستمدار و دانشمند مخالف بلاروس در سن 79 سالگی درگذشت.",
+      "title_fa": "آلیاکساندر میلینکویچ، سیاستمدار و دانشمند مخالف بلاروس در سن 79 سالگی درگذشت.",
+      "title_en": "Belarusian opposition politician and scientist Aliaksandr Milinkevich dies at 79",
+      "summary": "برنده سابق جایزه ساخاروف در سال 2006 با آلیاکساندر لوکاشنکا برای ریاست جمهوری بلاروس رقابت کرد.",
+      "summary_fa": "برنده سابق جایزه ساخاروف در سال 2006 با آلیاکساندر لوکاشنکا برای ریاست جمهوری بلاروس رقابت کرد.",
+      "summary_en": "The former Sakharov Prize laureate ran against Aliaksandr Lukashenka for the Belarusian presidency in 2006.",
+      "link": "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79",
+      "source": "EuroNews",
+      "published_at": "Tue, 11 Aug 2026 22:47:22 +0200",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "a1b8ce09ca2ead04afc9eea20db70325",
       "title": "کشتی با 95 سرنشین در دریاچه کاریبا در زیمبابوه واژگون شد",
       "title_fa": "کشتی با 95 سرنشین در دریاچه کاریبا در زیمبابوه واژگون شد",
@@ -42756,6 +42777,426 @@
       "date_iso": "2026-08-11",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "52c6094f2ee8155e6d6701738a9ccfba",
+      "title": "چرا طرح تامین مالی 500 میلیارد دلاری جنسن هوانگ با هوش مصنوعی با خطر بزرگی از جانب چین مواجه است",
+      "title_fa": "چرا طرح تامین مالی 500 میلیارد دلاری جنسن هوانگ با هوش مصنوعی با خطر بزرگی از جانب چین مواجه است",
+      "title_en": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "summary": "جنسن هوانگ، مدیرعامل انویدیا، پردازنده‌های گرافیکی را به عنوان وثیقه بلندمدت برای باز کردن سرمایه ۵۰۰ میلیارد دلاری ارائه می‌کند. سوال اینجاست که تراشه های او با چه سرعتی مستهلک می شوند؟",
+      "summary_fa": "جنسن هوانگ، مدیرعامل انویدیا، پردازنده‌های گرافیکی را به عنوان وثیقه بلندمدت برای باز کردن سرمایه ۵۰۰ میلیارد دلاری ارائه می‌کند. سوال اینجاست که تراشه های او با چه سرعتی مستهلک می شوند؟",
+      "summary_en": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
+      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 21:01:13 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "089c46efa3e5475b57bf7b641f1b8cfa",
+      "title": "Chrome از آنچه ممکن است بهترین محافظت در برابر تصاحب حساب‌ها باشد استفاده می‌کند",
+      "title_fa": "Chrome از آنچه ممکن است بهترین محافظت در برابر تصاحب حساب‌ها باشد استفاده می‌کند",
+      "title_en": "Chrome adopts what may be the best protection yet against account takeovers",
+      "summary": "اعتبار جلسه متصل به دستگاه، یک شکل فزاینده متداول تصاحب حساب را خنثی می کند.",
+      "summary_fa": "اعتبار جلسه متصل به دستگاه، یک شکل فزاینده متداول تصاحب حساب را خنثی می کند.",
+      "summary_en": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 20:59:52 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0d20b19ad29cf26c33db7fddf0805301",
+      "title": "سهام CoreWeave 12٪ افزایش می یابد زیرا درآمد با افزایش تقاضای زیرساخت هوش مصنوعی دو برابر می شود",
+      "title_fa": "سهام CoreWeave 12٪ افزایش می یابد زیرا درآمد با افزایش تقاضای زیرساخت هوش مصنوعی دو برابر می شود",
+      "title_en": "CoreWeave stock pops 12% as revenue doubles on accelerating AI infrastructure demand",
+      "summary": "درآمد CoreWeave با ادامه رونق هوش مصنوعی در حال افزایش است، اما این شرکت همچنین با بدهی 35 میلیارد دلاری مواجه است.",
+      "summary_fa": "درآمد CoreWeave با ادامه رونق هوش مصنوعی در حال افزایش است، اما این شرکت همچنین با بدهی 35 میلیارد دلاری مواجه است.",
+      "summary_en": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+      "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 20:59:12 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be6eb1d2c929f7d70c095f1ad1093ce0",
+      "title": "آمریکا می‌گوید بالگرد موشک‌هایی شلیک کرده تا کشتی‌هایی را که در حال شکستن محاصره ایران هستند، از کار بیاندازند",
+      "title_fa": "آمریکا می‌گوید بالگرد موشک‌هایی شلیک کرده تا کشتی‌هایی را که در حال شکستن محاصره ایران هستند، از کار بیاندازند",
+      "title_en": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "summary": "فرماندهی مرکزی ایالات متحده می گوید هلیکوپتر آن به موتورخانه یک کشتی باری با پرچم پاناما در خلیج عمان برخورد کرد.",
+      "summary_fa": "فرماندهی مرکزی ایالات متحده می گوید هلیکوپتر آن به موتورخانه یک کشتی باری با پرچم پاناما در خلیج عمان برخورد کرد.",
+      "summary_en": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 20:55:54 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7a9c3b1f5101967172429bda403eb9af",
+      "title": "چگونه با هوش مصنوعی بروشورهایی بسازیم که مردم از آنها متنفر نباشند: 8 نکته (و پیام) که واقعا کار می کنند",
+      "title_fa": "چگونه با هوش مصنوعی بروشورهایی بسازیم که مردم از آنها متنفر نباشند: 8 نکته (و پیام) که واقعا کار می کنند",
+      "title_en": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+      "summary": "بیشتر بروشورهای هوش مصنوعی هنوز درهم و برهم هستند، اما اعلان‌های درست می‌توانند تفاوت را ایجاد کنند.",
+      "summary_fa": "بیشتر بروشورهای هوش مصنوعی هنوز درهم و برهم هستند، اما اعلان‌های درست می‌توانند تفاوت را ایجاد کنند.",
+      "summary_en": "Most AI flyers are still a mess, but the right prompts can make all the difference.",
+      "link": "https://www.zdnet.com/article/how-to-make-generate-ai-flyer-tips-prompts-that-work/",
+      "source": "ZDNet",
+      "published_at": "Tue, 11 Aug 2026 20:53:19 GMT",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9989044b4cbd29a94764f21106c89396",
+      "title": "جنرال موتورز برای جلوگیری از مشکلات زنجیره تامین، قراردادی به ارزش 4.5 میلیارد دلار برای قطعات منعقد کرده است",
+      "title_fa": "جنرال موتورز برای جلوگیری از مشکلات زنجیره تامین، قراردادی به ارزش 4.5 میلیارد دلار برای قطعات منعقد کرده است",
+      "title_en": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+      "summary": "این قرارداد به دنبال سال ها مشکلات زنجیره تامین جهانی خودرو برای جنرال موتورز و سایر شرکت ها صورت می گیرد.",
+      "summary_fa": "این قرارداد به دنبال سال ها مشکلات زنجیره تامین جهانی خودرو برای جنرال موتورز و سایر شرکت ها صورت می گیرد.",
+      "summary_en": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+      "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 20:43:59 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "417630a55aeb71083535eb59a6f68e15",
+      "title": "کاوا رشد فروش را گزارش می دهد حتی اگر برخی از مشتریان از کاهو دوری کنند",
+      "title_fa": "کاوا رشد فروش را گزارش می دهد حتی اگر برخی از مشتریان از کاهو دوری کنند",
+      "title_en": "Cava reports sales growth even as some customers steer clear of lettuce",
+      "summary": "Cava Group می‌گوید برخی از رستوران‌ها سفارش‌های خود را تغییر داده‌اند تا از کاهو اجتناب کنند، اما این زنجیره سریع و معمولی هنوز هم توانسته است با وجود تابستانی که ترس از ایمنی مواد غذایی بر صنعت رستوران‌ها تاثیر گذاشته، رشد فروش داشته باشد.",
+      "summary_fa": "Cava Group می‌گوید برخی از رستوران‌ها سفارش‌های خود را تغییر داده‌اند تا از کاهو اجتناب کنند، اما این زنجیره سریع و معمولی هنوز هم توانسته است با وجود تابستانی که ترس از ایمنی مواد غذایی بر صنعت رستوران‌ها تاثیر گذاشته، رشد فروش داشته باشد.",
+      "summary_en": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
+      "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 20:41:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-72726916",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "43dfe8e820310e4758dfe46fdf29a61d",
+      "title": "در داخل سرویس مخفی \"پوسته بازی\" برای پنهان کردن روسای جمهور ایالات متحده در دید آشکار",
+      "title_fa": "در داخل سرویس مخفی \"پوسته بازی\" برای پنهان کردن روسای جمهور ایالات متحده در دید آشکار",
+      "title_en": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "summary": "عملیات فریبکاری پیچیده و فریب اغلب برای فریب دادن تهدیدهای احتمالی برای رئیس جمهور ایالات متحده استفاده می شود.",
+      "summary_fa": "عملیات فریبکاری پیچیده و فریب اغلب برای فریب دادن تهدیدهای احتمالی برای رئیس جمهور ایالات متحده استفاده می شود.",
+      "summary_en": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 20:39:42 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c31/live/13972cd0-95c0-11f1-a556-013790f38050.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "90c52a2fd941a8ccc26ae5559110815c",
+      "title": "وزیر کشور پاکستان در تهران در بحبوحه مذاکرات برای بازگشایی هرمز",
+      "title_fa": "وزیر کشور پاکستان در تهران در بحبوحه مذاکرات برای بازگشایی هرمز",
+      "title_en": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+      "summary": "محسن نقوی وزیر کشور پاکستان با عباس عراقچی وزیر امور خارجه ایران در تهران دیدار و گفتگو کرد.",
+      "summary_fa": "محسن نقوی وزیر کشور پاکستان با عباس عراقچی وزیر امور خارجه ایران در تهران دیدار و گفتگو کرد.",
+      "summary_en": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:35:50 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "a28afc0ce21764dd37fee9f41e1c4296",
+      "title": "کسوف کامل",
+      "title_fa": "کسوف کامل",
+      "title_en": "Total Eclipse",
+      "summary": "اگر در اروپا هستید، برای خیره شدن به آسمان آماده شوید. اما نه بدون عینک مناسب.",
+      "summary_fa": "اگر در اروپا هستید، برای خیره شدن به آسمان آماده شوید. اما نه بدون عینک مناسب.",
+      "summary_en": "If you’re in Europe, get ready to gaze at the sky. But not without the right glasses.",
+      "link": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 20:35:26 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12int-theworld-solar-eclipse-promo/12int-theworld-solar-eclipse-promo-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "04badf190b4ebd66055854d9bc726ccc",
+      "title": "اخراج از ایالات متحده، محبوس در زندانی در آفریقا",
+      "title_fa": "اخراج از ایالات متحده، محبوس در زندانی در آفریقا",
+      "title_en": "Deported from the U.S., Trapped in a Prison in Africa",
+      "summary": "روبرتو مسکورا، یک مهاجر کوبایی که از سال 1980 در ایالات متحده زندگی می کند و در سال 1996 دوران محکومیت خود را به پایان رساند، سال گذشته توسط ICE دستگیر و به زندانی در اسواتینی، کشوری در آفریقا فرستاده شد که او هرگز نامی از آن نشنیده بود. پس از یک اعتصاب غذا، مسکورا تلفنی به دست آورد و با نیکلاس کیسی از مجله نیویورک تایمز صحبت کرد تا آنچه را که در آنجا اتفاق می افتد به اشتراک بگذارد.",
+      "summary_fa": "روبرتو مسکورا، یک مهاجر کوبایی که از سال 1980 در ایالات متحده زندگی می کند و در سال 1996 دوران محکومیت خود را به پایان رساند، سال گذشته توسط ICE دستگیر و به زندانی در اسواتینی، کشوری در آفریقا فرستاده شد که او هرگز نامی از آن نشنیده بود. پس از یک اعتصاب غذا، مسکورا تلفنی به دست آورد و با نیکلاس کیسی از مجله نیویورک تایمز صحبت کرد تا آنچه را که در آنجا اتفاق می افتد به اشتراک بگذارد.",
+      "summary_en": "Roberto Mosquera, a Cuban immigrant who has lived in the U.S. since 1980 and completed a prison sentence in 1996, was arrested by ICE last year and sent to a prison in Eswatini, a country in Africa he’d never heard of. After a hunger strike, Mosquera obtained a phone and talked with Nicholas Casey of The New York Times Magazine, to share what is happening there.",
+      "link": "https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 20:35:14 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9f8435b8a42e86c823cd3263b044dc05",
+      "title": "با افزایش نگرانی‌های مربوط به هزینه‌های هوش مصنوعی، سهام اوراکل ضربه خورده است",
+      "title_fa": "با افزایش نگرانی‌های مربوط به هزینه‌های هوش مصنوعی، سهام اوراکل ضربه خورده است",
+      "title_en": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+      "summary": "به عقیده یکی از تحلیلگران، عدم شفافیت در مورد برنامه‌های هزینه‌های آینده هوش مصنوعی اوراکل، سرمایه‌گذاران را در حاشیه نگه می‌دارد.",
+      "summary_fa": "به عقیده یکی از تحلیلگران، عدم شفافیت در مورد برنامه‌های هزینه‌های آینده هوش مصنوعی اوراکل، سرمایه‌گذاران را در حاشیه نگه می‌دارد.",
+      "summary_en": "A lack of clarity around Oracle’s future AI spending plans is keeping investors on the sidelines, one analyst believes.",
+      "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 11 Aug 2026 20:32:00 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-32079769",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68c4ef40e7b42a2b70100f92d403f45d",
+      "title": "در چادرهای غزه، بیوه ها به تنهایی با سخت ترین واقعیت های جنگ روبرو می شوند",
+      "title_fa": "در چادرهای غزه، بیوه ها به تنهایی با سخت ترین واقعیت های جنگ روبرو می شوند",
+      "title_en": "In Gaza’s tents, widows face war’s harshest realities alone",
+      "summary": "زنان بیوه در غزه به تنهایی تحت آوارگی مبارزه می کنند، که زیر بار فقدان، ناامنی و نبردهای روزانه برای بقا هستند.",
+      "summary_fa": "زنان بیوه در غزه به تنهایی تحت آوارگی مبارزه می کنند، که زیر بار فقدان، ناامنی و نبردهای روزانه برای بقا هستند.",
+      "summary_en": "Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:30:11 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "53634ef52c95325f39a3907e508133d1",
+      "title": "با تبدیل شدن دریای سرخ یمن به منطقه جنگی، ماهیگیران با خطرات مرگباری روبرو هستند",
+      "title_fa": "با تبدیل شدن دریای سرخ یمن به منطقه جنگی، ماهیگیران با خطرات مرگباری روبرو هستند",
+      "title_en": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+      "summary": "بسیاری از ماهیگیران یمنی تجارت را رها کرده اند و به دنبال معیشت امن تر هستند زیرا دریای سرخ بسیار خطرناک شده است.",
+      "summary_fa": "بسیاری از ماهیگیران یمنی تجارت را رها کرده اند و به دنبال معیشت امن تر هستند زیرا دریای سرخ بسیار خطرناک شده است.",
+      "summary_en": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.",
+      "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:29:34 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5a42ad9a8dee69db6d46566de49018fb",
+      "title": "متا نمی تواند جلوی محاکمه شدن دعوای 1.4 تریلیون دلاری ایالت ها را بگیرد",
+      "title_fa": "متا نمی تواند جلوی محاکمه شدن دعوای 1.4 تریلیون دلاری ایالت ها را بگیرد",
+      "title_en": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "summary": "قضات به متا می گویند که بخش 230 دفاعی را ارائه می دهد، نه مصونیت از دعوا.",
+      "summary_fa": "قضات به متا می گویند که بخش 230 دفاعی را ارائه می دهد، نه مصونیت از دعوا.",
+      "summary_en": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 20:27:16 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d08b4264180a91fef7751a467f11296",
+      "title": "آیا خوردن کاهو هنوز بی خطر است؟",
+      "title_fa": "آیا خوردن کاهو هنوز بی خطر است؟",
+      "title_en": "Is It Safe to Eat Lettuce Yet?",
+      "summary": "یکی از استادان ایمنی مواد غذایی به WIRED می‌گوید: «این محصول خارج از بازار است، بنابراین من فکر می‌کنم خطر ابتلا به سیکلوسپورا از نظر خوردن کاهو کاملاً کمتر است.",
+      "summary_fa": "یکی از استادان ایمنی مواد غذایی به WIRED می‌گوید: «این محصول خارج از بازار است، بنابراین من فکر می‌کنم خطر ابتلا به سیکلوسپورا از نظر خوردن کاهو کاملاً کمتر است.",
+      "summary_en": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
+      "link": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+      "source": "Wired",
+      "published_at": "Tue, 11 Aug 2026 20:26:01 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d53d5bbb91f5d37549a52b2219df2efb",
+      "title": "اسرائیل خانه فلسطینی های کشته شده در حمله شهرک نشینان را ویران کرد",
+      "title_fa": "اسرائیل خانه فلسطینی های کشته شده در حمله شهرک نشینان را ویران کرد",
+      "title_en": "Israel demolishes home of Palestinian killed during settler attack",
+      "summary": "فیلم لحظه انفجار خانه فاروق رمضان، مرد فلسطینی را که در ماه ژوئیه کشته شد، توسط نیروهای اسرائیلی نشان می دهد.",
+      "summary_fa": "فیلم لحظه انفجار خانه فاروق رمضان، مرد فلسطینی را که در ماه ژوئیه کشته شد، توسط نیروهای اسرائیلی نشان می دهد.",
+      "summary_en": "Video shows the moment Israeli forces blow up the home of Farouk Ramadan, a Palestinian man who was killed in July.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:18:51 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4e56431bacbf87c8530e3b074567663e",
+      "title": "شمار قربانیان ابولا در جمهوری دموکراتیک کنگو از 2000 نفر گذشت",
+      "title_fa": "شمار قربانیان ابولا در جمهوری دموکراتیک کنگو از 2000 نفر گذشت",
+      "title_en": "DR Congo Ebola death toll surpasses 2,000",
+      "summary": "شیوع ابولا در جمهوری دموکراتیک کنگو به سرعت در حال گسترش است و تعداد قربانیان از 2000 نفر فراتر رفته است.",
+      "summary_fa": "شیوع ابولا در جمهوری دموکراتیک کنگو به سرعت در حال گسترش است و تعداد قربانیان از 2000 نفر فراتر رفته است.",
+      "summary_en": "DR Congo's Ebola outbreak is spreading rapidly, with the death toll surpassing 2,000.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:15:26 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b28695635500c246eb1d86b74cc6ad1",
+      "title": "ترامپ نسبت به حکومت «جهادگرایان» در واشنگتن هشدار می دهد که دموکرات ها در حال حرکت هستند",
+      "title_fa": "ترامپ نسبت به حکومت «جهادگرایان» در واشنگتن هشدار می دهد که دموکرات ها در حال حرکت هستند",
+      "title_en": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
+      "summary": "دونالد ترامپ نامزدهای دموکرات ایالات متحده را در اظهاراتی تحریک آمیز در دفتر بیضی شکل «جهادی» می نامد.",
+      "summary_fa": "دونالد ترامپ نامزدهای دموکرات ایالات متحده را در اظهاراتی تحریک آمیز در دفتر بیضی شکل «جهادی» می نامد.",
+      "summary_en": "Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:11:53 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "f6d07f56465d386108426ae6ddc82f4e",
+      "title": "جستجو برای بازماندگان پس از زلزله کلمبیا در حال انجام است",
+      "title_fa": "جستجو برای بازماندگان پس از زلزله کلمبیا در حال انجام است",
+      "title_en": "Search for survivors underway in Colombia’s earthquake aftermath",
+      "summary": "امدادگران در جستجوی بازماندگان در غرب کلمبیا در آنچه قوی‌ترین زمین‌لرزه این کشور در قرن اخیر خوانده می‌شود.",
+      "summary_fa": "امدادگران در جستجوی بازماندگان در غرب کلمبیا در آنچه قوی‌ترین زمین‌لرزه این کشور در قرن اخیر خوانده می‌شود.",
+      "summary_en": "Rescuers search for survivors in western Colombia in what is called the country’s strongest earthquake this century.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/search-for-survivors-underway-in-colombias-earthquake-aftermath?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 20:06:54 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -42782,6 +43223,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42c80269ee4a3011e73cd4dbac6da33f",
+      "title": "شلیک ارتش ایالات متحده به کشتی باری که به گفته آنها به دنبال شکستن محاصره ایران است",
+      "title_fa": "شلیک ارتش ایالات متحده به کشتی باری که به گفته آنها به دنبال شکستن محاصره ایران است",
+      "title_en": "US military fires on cargo vessel it said sought to break Iran blockade",
+      "summary": "CENTCOM می گوید در حالی که دیپلماسی ایالات متحده و ایران متوقف شده است، هلیکوپتر به سمت موتورخانه Vela Nova با پرچم پاناما شلیک کرد.",
+      "summary_fa": "CENTCOM می گوید در حالی که دیپلماسی ایالات متحده و ایران متوقف شده است، هلیکوپتر به سمت موتورخانه Vela Nova با پرچم پاناما شلیک کرد.",
+      "summary_en": "CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 19:58:12 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
