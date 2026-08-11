@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-11 19:20:53",
-  "total_count": 8809,
+  "last_update": "2026-08-11 20:09:00",
+  "total_count": 8818,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -42743,6 +42743,48 @@
       }
     },
     {
+      "id": "a1b8ce09ca2ead04afc9eea20db70325",
+      "title": "کشتی با 95 سرنشین در دریاچه کاریبا در زیمبابوه واژگون شد",
+      "title_fa": "کشتی با 95 سرنشین در دریاچه کاریبا در زیمبابوه واژگون شد",
+      "title_en": "Ferry capsizes on Lake Kariba in Zimbabwe with 95 people on board",
+      "summary": "گفته می شود که مردم محلی از کشتی برای رسیدن از مناطق روستایی منطقه به شهر کاریبا، که در سمت شمالی دریاچه کاریبا، نزدیک به مرز زامبیا است، استفاده می کنند.",
+      "summary_fa": "گفته می شود که مردم محلی از کشتی برای رسیدن از مناطق روستایی منطقه به شهر کاریبا، که در سمت شمالی دریاچه کاریبا، نزدیک به مرز زامبیا است، استفاده می کنند.",
+      "summary_en": "Locals are said to use the ferry to get from rural parts of the region to the town of Kariba, which is on the north side of Lake Kariba, close to the border with Zambia.",
+      "link": "http://www.euronews.com/2026/08/11/ferry-capsizes-on-lake-kariba-in-zimbabwe-with-95-people-on-board",
+      "source": "EuroNews",
+      "published_at": "Tue, 11 Aug 2026 21:37:20 +0200",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3787ae91fc036d31ce57af5325443eec",
+      "title": "پس از صدور دستورالعمل سودآور، هدف قیمت خود را در Cardinal Health افزایش می دهیم",
+      "title_fa": "پس از صدور دستورالعمل سودآور، هدف قیمت خود را در Cardinal Health افزایش می دهیم",
+      "title_en": "We're lifting our price target on Cardinal Health after issuing rosy profit guidance",
+      "summary": "سه ماهه کاملاً تمیز نبود، اما سودآوری قوی از همه مهمتر است.",
+      "summary_fa": "سه ماهه کاملاً تمیز نبود، اما سودآوری قوی از همه مهمتر است.",
+      "summary_en": "The quarter wasn't totally clean, but strong profitability matters the most.",
+      "link": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
+      "source": "CNBC",
+      "published_at": "Tue, 11 Aug 2026 20:05:46 GMT",
+      "date_iso": "2026-08-11",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "542e58fcf5f340267335e0bfe5d59309",
       "title": "از آنجایی که دریاچه ماگیوره کم آب می شود، سوئیس وارد عمل می شود زیرا ایتالیا با کمبود فزاینده آب مواجه است",
       "title_fa": "از آنجایی که دریاچه ماگیوره کم آب می شود، سوئیس وارد عمل می شود زیرا ایتالیا با کمبود فزاینده آب مواجه است",
@@ -42756,6 +42798,69 @@
       "date_iso": "2026-08-11",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1d098e3d99bc9f03c7cfa404e3c7ae7",
+      "title": "Gemini به سریع‌ترین محصول گوگل تبدیل می‌شود که تا به حال به تعداد کاربران یک میلیاردی رسیده است",
+      "title_fa": "Gemini به سریع‌ترین محصول گوگل تبدیل می‌شود که تا به حال به تعداد کاربران یک میلیاردی رسیده است",
+      "title_en": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "اما آیا جهش جمینی از انتشار مدل های کند جان سالم به در می برد؟",
+      "summary_fa": "اما آیا جهش جمینی از انتشار مدل های کند جان سالم به در می برد؟",
+      "summary_en": "But will Gemini's surge survive slowing model releases?",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 11 Aug 2026 19:48:12 +0000",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a720d48b3a5d3fc4f6b9d174556540a6",
+      "title": "روسیه یک تفنگدار سابق دریایی بیمار را که از سال 2022 زندانی بود آزاد کرد",
+      "title_fa": "روسیه یک تفنگدار سابق دریایی بیمار را که از سال 2022 زندانی بود آزاد کرد",
+      "title_en": "Russia releases ailing former Marine imprisoned since 2022",
+      "summary": "رابرت گیلمن و مادرش روز سه شنبه در هواپیمای بازگشت به واشنگتن بودند.",
+      "summary_fa": "رابرت گیلمن و مادرش روز سه شنبه در هواپیمای بازگشت به واشنگتن بودند.",
+      "summary_en": "Robert Gilman and his mother were on a plane back to Washington on Tuesday.",
+      "link": "https://www.washingtonpost.com/world/2026/08/11/former-us-marine-robert-gilman-released-russian-prison/",
+      "source": "Washington Post",
+      "published_at": "Tue, 11 Aug 2026 19:35:35 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "28c13346b09a83394790ad4e5a0f901c",
+      "title": "جستجو برای بازماندگان پس از زلزله کلمبیا",
+      "title_fa": "جستجو برای بازماندگان پس از زلزله کلمبیا",
+      "title_en": "Searching for Survivors After Colombia’s Earthquake",
+      "summary": "گزارشگر ما در کلمبیا، ژنوو گلاتسکی، شاهد جستجوی بازماندگان پس از ریزش یک ساختمان مسکونی پنج طبقه در شهر کالی در اثر زلزله است.",
+      "summary_fa": "گزارشگر ما در کلمبیا، ژنوو گلاتسکی، شاهد جستجوی بازماندگان پس از ریزش یک ساختمان مسکونی پنج طبقه در شهر کالی در اثر زلزله است.",
+      "summary_en": "Our Colombia-based reporter Genevieve Glatsky witnesses the search for survivors after a five-story apartment building in the city of Cali collapsed in an earthquake.",
+      "link": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html",
+      "source": "NY Times",
+      "published_at": "Tue, 11 Aug 2026 19:34:51 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -42782,6 +42887,48 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "a3051ee1578f95e821f5adae4a511105",
+      "title": "حوثی ها در اولین حمله مرگبار پس از آغاز جنگ ایران شش نفر را کشتند",
+      "title_fa": "حوثی ها در اولین حمله مرگبار پس از آغاز جنگ ایران شش نفر را کشتند",
+      "title_en": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "summary": "نماینده ایران می گوید در حالی که تنش ها بر سر جنگ ایالات متحده و ایران همچنان بالاست، یک کشتی با تجهیزات نظامی سعودی را در دریای سرخ مورد اصابت قرار داده است.",
+      "summary_fa": "نماینده ایران می گوید در حالی که تنش ها بر سر جنگ ایالات متحده و ایران همچنان بالاست، یک کشتی با تجهیزات نظامی سعودی را در دریای سرخ مورد اصابت قرار داده است.",
+      "summary_en": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 11 Aug 2026 19:27:17 GMT",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a4/live/92d8c9e0-95bb-11f1-a556-013790f38050.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "528545f2971d5fa18a160204446ea550",
+      "title": "تصادف کامیون در مصر 18 کشته برجای گذاشت که بسیاری از آنها کودک کار بودند",
+      "title_fa": "تصادف کامیون در مصر 18 کشته برجای گذاشت که بسیاری از آنها کودک کار بودند",
+      "title_en": "Truck crash in Egypt kills 18, many of them child labourers",
+      "summary": "برخورد دو وانت بار در اسماعیلیه مصر 18 کشته بر جای گذاشت که اکثراً کودکان کار کشاورزی بودند.",
+      "summary_fa": "برخورد دو وانت بار در اسماعیلیه مصر 18 کشته بر جای گذاشت که اکثراً کودکان کار کشاورزی بودند.",
+      "summary_en": "Two pick-up trucks collide in Ismailia, Egypt, leaving 18 dead, mostly children working as agricultural labourers.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 11 Aug 2026 19:21:32 +0000",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -42898,6 +43045,27 @@
       "summary_fa": "چهارشنبه 12 آگوست، خورشید گرفتگی در بخش هایی از اروپا قابل مشاهده خواهد بود. رویداد مورد انتظار نیاز به محافظت از چشم دارد و مغازه‌های فروش عینک از قبل شلوغ هستند.",
       "summary_en": "This Wednesday 12 August, a solar eclipse will be visible across parts of Europe. The eagerly awaited event requires eye protection, and shops selling viewing glasses are already crowded.",
       "link": "http://www.euronews.com/2026/08/11/solar-eclipse-in-france-protective-glasses-in-high-demand",
+      "source": "EuroNews",
+      "published_at": "Tue, 11 Aug 2026 19:03:36 +0200",
+      "date_iso": "2026-08-11",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "5526a4a14641493e784a8e6f43c26f2c",
+      "title": "خورشید گرفتگی: عینک های محافظ در سرتاسر فرانسه کمبود دارند",
+      "title_fa": "خورشید گرفتگی: عینک های محافظ در سرتاسر فرانسه کمبود دارند",
+      "title_en": "Solar eclipse: protective glasses in short supply across France",
+      "summary": "چهارشنبه 12 آگوست، خورشید گرفتگی در بخش هایی از اروپا قابل مشاهده خواهد بود. رویداد موردانتظار به این معنی است که مغازه‌هایی که عینک‌های محافظ می‌فروشند در حال غرق شدن هستند.",
+      "summary_fa": "چهارشنبه 12 آگوست، خورشید گرفتگی در بخش هایی از اروپا قابل مشاهده خواهد بود. رویداد موردانتظار به این معنی است که مغازه‌هایی که عینک‌های محافظ می‌فروشند در حال غرق شدن هستند.",
+      "summary_en": "On Wednesday 12 August, a solar eclipse will be visible in parts of Europe. The much-anticipated event means shops selling protective glasses are being overrun.",
+      "link": "http://www.euronews.com/2026/08/11/solar-eclipse-protective-glasses-in-short-supply-across-france",
       "source": "EuroNews",
       "published_at": "Tue, 11 Aug 2026 19:03:36 +0200",
       "date_iso": "2026-08-11",
@@ -172493,6 +172661,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1cacb6bc3778b606da444fb8a0995c04",
+      "title": "ChatGPT و Gemini هر دو به تازگی از یک میلیارد کاربر عبور کرده اند",
+      "title_fa": "ChatGPT و Gemini هر دو به تازگی از یک میلیارد کاربر عبور کرده اند",
+      "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "برای چهاردهمین بار، یک محصول گوگل به یک میلیارد کاربر رسید. ساندار پیچای، مدیر عامل گوگل در X پست کرد که هر ماه یک میلیارد نفر از Gemini استفاده می کنند و Gemini سریع ترین محصول گوگل است که تا به حال رشد کرده است. یک میلیارد کاربر یک نقطه عطف بزرگ است، اما گوگل اولین اپلیکیشن هوش مصنوعی نیست که به آن دست یافته است. ChatGPT OpenAI […]",
+      "summary_fa": "برای چهاردهمین بار، یک محصول گوگل به یک میلیارد کاربر رسید. ساندار پیچای، مدیر عامل گوگل در X پست کرد که هر ماه یک میلیارد نفر از Gemini استفاده می کنند و Gemini سریع ترین محصول گوگل است که تا به حال رشد کرده است. یک میلیارد کاربر یک نقطه عطف بزرگ است، اما گوگل اولین اپلیکیشن هوش مصنوعی نیست که به آن دست یافته است. ChatGPT OpenAI […]",
+      "summary_en": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "published_at": "2026-08-11T15:41:42-04:00",
+      "date_iso": "2026-08-11",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
