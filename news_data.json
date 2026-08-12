@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-12 20:11:58",
-  "total_count": 9436,
+  "last_update": "2026-08-12 21:05:53",
+  "total_count": 9457,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -20314,6 +20314,27 @@
       }
     },
     {
+      "id": "34c15135cf377069c735575302f36692",
+      "title": "ترامپ می گوید کارولین لیویت، سخنگوی کاخ سفید در پایان ماه از سمت خود کنار می رود",
+      "title_fa": "ترامپ می گوید کارولین لیویت، سخنگوی کاخ سفید در پایان ماه از سمت خود کنار می رود",
+      "title_en": "White House press secretary Karoline Leavitt to leave role at end of month, Trump says",
+      "summary": "کناره گیری لیویت در حالی صورت می گیرد که ترامپ به طور پیوسته با کاهش تعداد نظرسنجی ها مواجه است و حزب جمهوری خواه در انتخابات میان دوره ای نوامبر با خطر شکست مواجه است.",
+      "summary_fa": "کناره گیری لیویت در حالی صورت می گیرد که ترامپ به طور پیوسته با کاهش تعداد نظرسنجی ها مواجه است و حزب جمهوری خواه در انتخابات میان دوره ای نوامبر با خطر شکست مواجه است.",
+      "summary_en": "Leavitt's departure comes as Trump faces steadily sinking poll numbers and the Republican Party risks defeat in the November midterm elections.",
+      "link": "http://www.euronews.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave-role-at-end-of-month-trump-says",
+      "source": "EuroNews",
+      "published_at": "Wed, 12 Aug 2026 21:58:11 +0200",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9cf335f76951d4eb5e91cdc26432e52d",
       "title": "خورشید گرفتگی 12 اوت هزاران گردشگر را به قلعه گورماز در سوریا می آورد",
       "title_fa": "خورشید گرفتگی 12 اوت هزاران گردشگر را به قلعه گورماز در سوریا می آورد",
@@ -20332,6 +20353,363 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "6ed7be6c62f9802798af3bac59cb21e6",
+      "title": "محتوای Twitch برای سال‌ها هوش مصنوعی آمازون را آموزش داده است، اما کاربران می‌توانند از هم اکنون انصراف دهند",
+      "title_fa": "محتوای Twitch برای سال‌ها هوش مصنوعی آمازون را آموزش داده است، اما کاربران می‌توانند از هم اکنون انصراف دهند",
+      "title_en": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "پلتفرم استریمینگ می‌گوید محتوای تولید شده توسط کاربر «ممکن است برای بهبودهای مدل هوش مصنوعی نسل آینده استفاده شود».",
+      "summary_fa": "پلتفرم استریمینگ می‌گوید محتوای تولید شده توسط کاربر «ممکن است برای بهبودهای مدل هوش مصنوعی نسل آینده استفاده شود».",
+      "summary_en": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "date_iso": "2026-08-12",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b2c9fb900b96aa019c8e66a723ab808",
+      "title": "کاخ سفید سیاست هوش مصنوعی خود را گسترش می دهد",
+      "title_fa": "کاخ سفید سیاست هوش مصنوعی خود را گسترش می دهد",
+      "title_en": "The White House Is Going to Expand Its AI Policy",
+      "summary": "منابع به WIRED می‌گویند که مدل‌های باز ممکن است به زودی به یک چارچوب هوش مصنوعی به‌روز اضافه شوند، زیرا کاخ سفید همچنان با نحوه تنظیم یک فناوری که سعی کرده است آن را تنظیم نکند، دست و پنجه نرم می‌کند.",
+      "summary_fa": "منابع به WIRED می‌گویند که مدل‌های باز ممکن است به زودی به یک چارچوب هوش مصنوعی به‌روز اضافه شوند، زیرا کاخ سفید همچنان با نحوه تنظیم یک فناوری که سعی کرده است آن را تنظیم نکند، دست و پنجه نرم می‌کند.",
+      "summary_en": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "source": "Wired",
+      "published_at": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "date_iso": "2026-08-12",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1caf6ae3d115f07a2e5f82f8c2e72e90",
+      "title": "ثروتمندان آمریکایی با افزایش 25 درصدی نرخ بلیت هواپیما نسبت به سال گذشته، اقتصاد سفر را تقویت می کنند",
+      "title_fa": "ثروتمندان آمریکایی با افزایش 25 درصدی نرخ بلیت هواپیما نسبت به سال گذشته، اقتصاد سفر را تقویت می کنند",
+      "title_en": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
+      "summary": "هزینه بلیط هواپیما طی سال گذشته افزایش یافته است، اما تقاضای مصرف کنندگان در این فصل سفر تابستانی هنوز کاهش نیافته است.",
+      "summary_fa": "هزینه بلیط هواپیما طی سال گذشته افزایش یافته است، اما تقاضای مصرف کنندگان در این فصل سفر تابستانی هنوز کاهش نیافته است.",
+      "summary_en": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
+      "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 12 Aug 2026 20:59:00 GMT",
+      "date_iso": "2026-08-12",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-06649723",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "451fdefb5e92869c2fccd0b630c98702",
+      "title": "سیاست استرالیا زنده: غول‌های فناوری برای پرداخت هزینه محتوای خبری با قانون روبرو هستند. استرالیا به درخواست ایران برای پایان دادن به مجازات اعدام می‌پیوندد",
+      "title_fa": "سیاست استرالیا زنده: غول‌های فناوری برای پرداخت هزینه محتوای خبری با قانون روبرو هستند. استرالیا به درخواست ایران برای پایان دادن به مجازات اعدام می‌پیوندد",
+      "title_en": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
+      "summary": "انتظار می رود لایحه چانه زنی خبری پس از توافق حزب کارگر و ائتلاف بر سر شرایطی که شرکت های فناوری را مجبور به مشارکت در رسانه ها می کند، به تصویب مجلس برسد. اخبار امروز را به صورت زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید استرالیا به محکومیت استفاده از مجازات اعدام توسط ایران می پیوندد استرالیا به بیش از 30 کشور از جمله فرانسه، بریتانیا و کانادا در محکومیت استفاده ایران از مجازات اعدام پیوسته است و در بیانیه ای مشترک گفته است که «جمهوری اسلامی معترضان را اعدام می کند». ادامه مطلب...",
+      "summary_fa": "انتظار می رود لایحه چانه زنی خبری پس از توافق حزب کارگر و ائتلاف بر سر شرایطی که شرکت های فناوری را مجبور به مشارکت در رسانه ها می کند، به تصویب مجلس برسد. اخبار امروز را به صورت زنده دنبال کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید استرالیا به محکومیت استفاده از مجازات اعدام توسط ایران می پیوندد استرالیا به بیش از 30 کشور از جمله فرانسه، بریتانیا و کانادا در محکومیت استفاده ایران از مجازات اعدام پیوسته است و در بیانیه ای مشترک گفته است که «جمهوری اسلامی معترضان را اعدام می کند». ادامه مطلب...",
+      "summary_en": "News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets. Follow today’s news live Get our breaking news email, free app or daily news podcastAustralia joins condemnation of Iran’s use of capital punishmentAustralia has joined more than 30 nations, including France, the United Kingdom and Canada, in condemning Iran’s use of capital punishment, saying in a joint statement the Islamic republic was executing protesters to “silence dissent”. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 12 Aug 2026 20:58:02 GMT",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ec0143d4c2fce2026e21e2ed2755ed8d4e092997/0_0_2816_2253/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=a446e970a82db77a50aff87a8171631a",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4109bc7228316a5909280a36987da7dc",
+      "title": "در حالی که فلز زرد به قوی ترین سطح در 2 ماه اخیر رسیده است، سرمایه گذاران به دنبال افزایش قیمت طلا هستند",
+      "title_fa": "در حالی که فلز زرد به قوی ترین سطح در 2 ماه اخیر رسیده است، سرمایه گذاران به دنبال افزایش قیمت طلا هستند",
+      "title_en": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
+      "summary": "طلا در روز چهارشنبه به بالاترین حد دو ماهه خود رسید و سرمایه گذارانی که تابستان را در انتظار افتتاحیه گذرانده بودند، اکنون در پی افزایشی هستند که بسیاری امیدوارند هنوز جا برای اجرا داشته باشد.",
+      "summary_fa": "طلا در روز چهارشنبه به بالاترین حد دو ماهه خود رسید و سرمایه گذارانی که تابستان را در انتظار افتتاحیه گذرانده بودند، اکنون در پی افزایشی هستند که بسیاری امیدوارند هنوز جا برای اجرا داشته باشد.",
+      "summary_en": "Gold settled at a two-month high on Wednesday, and investors who spent the summer waiting for an opening are now chasing a rally that many hope still has room to run.",
+      "link": "https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 12 Aug 2026 20:58:00 GMT",
+      "date_iso": "2026-08-12",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-87331378",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c59bdebeaf6d87495fed32adc739bf0",
+      "title": "سالگرد ناخوشایند افغانستان",
+      "title_fa": "سالگرد ناخوشایند افغانستان",
+      "title_en": "Afghanistan’s Unhappy Anniversary",
+      "summary": "پنج سال پس از حکومت تندرو خود، طالبان خود را در داخل و خارج در بحران می بینند.",
+      "summary_fa": "پنج سال پس از حکومت تندرو خود، طالبان خود را در داخل و خارج در بحران می بینند.",
+      "summary_en": "Five years into their hard-line rule, the Taliban find themselves in crisis at home and abroad.",
+      "link": "https://www.nytimes.com/2026/08/12/world/afghanistan-taliban-anniversary-eclipse-lakers.html",
+      "source": "NY Times",
+      "published_at": "Wed, 12 Aug 2026 20:57:41 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-theworld-afghanistan-taliban-promo/13int-theworld-afghanistan-taliban-promo-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62e6079822549cb36a58ee7b7b0d6a31",
+      "title": "ICE قصد دارد ماموران را به دستکش هایی مجهز کند که می توانند شوک الکتریکی ایجاد کنند",
+      "title_fa": "ICE قصد دارد ماموران را به دستکش هایی مجهز کند که می توانند شوک الکتریکی ایجاد کنند",
+      "title_en": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "summary": "آژانس مهاجرت ایالات متحده 20 میلیون دلار برای دستکش هایی هزینه می کند که شوک الکتریکی شدیدی ایجاد می کند که هدف آن وادار کردن افراد به رعایت قوانین است.",
+      "summary_fa": "آژانس مهاجرت ایالات متحده 20 میلیون دلار برای دستکش هایی هزینه می کند که شوک الکتریکی شدیدی ایجاد می کند که هدف آن وادار کردن افراد به رعایت قوانین است.",
+      "summary_en": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 12 Aug 2026 20:57:13 GMT",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c247d59c6e2f77c6b1001218e98628d4",
+      "title": "آیا سوریه می تواند عدالت انتقالی را اجرا کند؟",
+      "title_fa": "آیا سوریه می تواند عدالت انتقالی را اجرا کند؟",
+      "title_en": "Can Syria deliver transitional justice?",
+      "summary": "دادگاهی بشار اسد، رهبر سابق برکنار شده و دیگران را به صورت غیابی به اعدام محکوم کرد.",
+      "summary_fa": "دادگاهی بشار اسد، رهبر سابق برکنار شده و دیگران را به صورت غیابی به اعدام محکوم کرد.",
+      "summary_en": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:53:26 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5b76314eb0b51b959c435cbb17865820",
+      "title": "سهام سیسکو علیرغم درآمدها سقوط کرد، درآمد شکست خورد",
+      "title_fa": "سهام سیسکو علیرغم درآمدها سقوط کرد، درآمد شکست خورد",
+      "title_en": "Cisco's stock drops despite earnings, revenue beat",
+      "summary": "اگرچه نتایج سه ماهه سیسکو بالاتر از برآوردها بود، اما به اندازه کافی خوب نبودند تا وال استریت را راضی کنند.",
+      "summary_fa": "اگرچه نتایج سه ماهه سیسکو بالاتر از برآوردها بود، اما به اندازه کافی خوب نبودند تا وال استریت را راضی کنند.",
+      "summary_en": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
+      "link": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+      "source": "CNBC",
+      "published_at": "Wed, 12 Aug 2026 20:51:07 GMT",
+      "date_iso": "2026-08-12",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c72ffb931dd36117196859f562875aa",
+      "title": "خورشید گرفتگی 2026 اروپا را در عکس ها و فیلم ها ببینید",
+      "title_fa": "خورشید گرفتگی 2026 اروپا را در عکس ها و فیلم ها ببینید",
+      "title_en": "See the 2026 European Solar Eclipse, in Photos and Videos",
+      "summary": "از ایسلند تا اسپانیا، نمایش آسمانی بازدیدکنندگان را به دور و بر خود جلب کرد.",
+      "summary_fa": "از ایسلند تا اسپانیا، نمایش آسمانی بازدیدکنندگان را به دور و بر خود جلب کرد.",
+      "summary_en": "From Iceland to Spain, the celestial show drew visitors far and wide.",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+      "source": "NY Times",
+      "published_at": "Wed, 12 Aug 2026 20:33:51 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12xp-eclipse-visual-stack-promo-thgl/12xp-eclipse-visual-stack-promo-thgl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "eefbe3ffc3a93a015d5b68247837e381",
+      "title": "سهام سربراس پس از دومین گزارش سود پس از عرضه اولیه سهام، 14 درصد سقوط کرد",
+      "title_fa": "سهام سربراس پس از دومین گزارش سود پس از عرضه اولیه سهام، 14 درصد سقوط کرد",
+      "title_en": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+      "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "published_at": "Wed, 12 Aug 2026 20:28:48 GMT",
+      "date_iso": "2026-08-12",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cae7be38f55b45800fd17d851aa2f076",
+      "title": "اسرائیل قول داده است که نیروهای خود را در لبنان، غزه و سوریه نگه دارد",
+      "title_fa": "اسرائیل قول داده است که نیروهای خود را در لبنان، غزه و سوریه نگه دارد",
+      "title_en": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+      "summary": "اسرائیل کاتز، وزیر دفاع اسرائیل گفته است که اسرائیل \"به هیچ عنوان\" نیروهای خود را خارج نخواهد کرد.",
+      "summary_fa": "اسرائیل کاتز، وزیر دفاع اسرائیل گفته است که اسرائیل \"به هیچ عنوان\" نیروهای خود را خارج نخواهد کرد.",
+      "summary_en": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:26:07 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "38fe08f1f9a31d776a7186e63156f21b",
+      "title": "شکایت از ترامپ به دلیل طرح \"وقیحانه\" برای فروش دسترسی Truth Social API به قیمت 100 هزار دلار در ماه",
+      "title_fa": "شکایت از ترامپ به دلیل طرح \"وقیحانه\" برای فروش دسترسی Truth Social API به قیمت 100 هزار دلار در ماه",
+      "title_en": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "summary": "ترامپ با Truth API «دسترسی اولویت‌دار به اخباری را که خودش تولید می‌کند می‌فروشد».",
+      "summary_fa": "ترامپ با Truth API «دسترسی اولویت‌دار به اخباری را که خودش تولید می‌کند می‌فروشد».",
+      "summary_en": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 12 Aug 2026 20:20:52 +0000",
+      "date_iso": "2026-08-12",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c5fa79df8e7e734698ac95a1bd6f647b",
+      "title": "عکس: خورشید گرفتگی بخش هایی از اروپا را در تاریکی فرو می برد",
+      "title_fa": "عکس: خورشید گرفتگی بخش هایی از اروپا را در تاریکی فرو می برد",
+      "title_en": "Photos: Solar eclipse plunges parts of Europe into darkness",
+      "summary": "خورشید گرفتگی کامل از ایسلند، بریتانیا و بخش‌هایی از قاره اروپا عبور کرد و جمعیتی را به تماشای این رویداد کشاند.",
+      "summary_fa": "خورشید گرفتگی کامل از ایسلند، بریتانیا و بخش‌هایی از قاره اروپا عبور کرد و جمعیتی را به تماشای این رویداد کشاند.",
+      "summary_en": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:16:10 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "27519ead836bdfe3c39c3b302ca0de69",
+      "title": "CoreWeave با یک مورد کلیدی در تجارت هوش مصنوعی مقابله می کند. معنی آن برای سهام مرکز داده ما چیست",
+      "title_fa": "CoreWeave با یک مورد کلیدی در تجارت هوش مصنوعی مقابله می کند. معنی آن برای سهام مرکز داده ما چیست",
+      "title_en": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "summary": "CoreWeave شاهد تقاضای زیادی برای تراشه‌های انویدیا شش ساله است که به توجیه تمام ظرفیت فعلی هوش مصنوعی کمک می‌کند.",
+      "summary_fa": "CoreWeave شاهد تقاضای زیادی برای تراشه‌های انویدیا شش ساله است که به توجیه تمام ظرفیت فعلی هوش مصنوعی کمک می‌کند.",
+      "summary_en": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+      "link": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+      "source": "CNBC",
+      "published_at": "Wed, 12 Aug 2026 20:16:05 GMT",
+      "date_iso": "2026-08-12",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "838d1710b443ced220c50339627e681d",
+      "title": "\"پلاتفورمکش\" فلسطین: فعالان تلاش می کنند تا در متا شنیده شوند",
+      "title_fa": "\"پلاتفورمکش\" فلسطین: فعالان تلاش می کنند تا در متا شنیده شوند",
+      "title_en": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
+      "summary": "گزارش NGO 7amleh، دانشگاه اوترخت، 3520 مورد نقض حقوق دیجیتال علیه فلسطینیان را تجزیه و تحلیل می کند.",
+      "summary_fa": "گزارش NGO 7amleh، دانشگاه اوترخت، 3520 مورد نقض حقوق دیجیتال علیه فلسطینیان را تجزیه و تحلیل می کند.",
+      "summary_en": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:15:38 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6af618988ee92e51551a30885d0b3027",
+      "title": "بهترین راه برای جلوگیری از اسهال کاهو؟ این باغ سرپوشیده",
+      "title_fa": "بهترین راه برای جلوگیری از اسهال کاهو؟ این باغ سرپوشیده",
+      "title_en": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+      "summary": "Lettuce Grow، یکی از باغ های سرپوشیده مورد علاقه من، به شما امکان می دهد سبزیجات سالاد خود را با خیال راحت در اتاق نشیمن خود پرورش دهید. و در حال حاضر 20 درصد تخفیف دارد.",
+      "summary_fa": "Lettuce Grow، یکی از باغ های سرپوشیده مورد علاقه من، به شما امکان می دهد سبزیجات سالاد خود را با خیال راحت در اتاق نشیمن خود پرورش دهید. و در حال حاضر 20 درصد تخفیف دارد.",
+      "summary_en": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
+      "source": "Wired",
+      "published_at": "Wed, 12 Aug 2026 20:14:30 +0000",
+      "date_iso": "2026-08-12",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -20390,6 +20768,48 @@
       "date_iso": "2026-08-12",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7415dcd0cd39e4c84cf784f81bba5f22",
+      "title": "ترامپ اعلام کرد که کارولین لیویت از سمت معاونت مطبوعاتی کاخ سفید کناره گیری می کند",
+      "title_fa": "ترامپ اعلام کرد که کارولین لیویت از سمت معاونت مطبوعاتی کاخ سفید کناره گیری می کند",
+      "title_en": "Trump reveals Karoline Leavitt to step down as White House press secretary",
+      "summary": "به گفته ترامپ، لیویت پس از به دنیا آوردن فرزند دوم، نقش خود را ترک می کند تا زمان بیشتری را با خانواده بگذراند.",
+      "summary_fa": "به گفته ترامپ، لیویت پس از به دنیا آوردن فرزند دوم، نقش خود را ترک می کند تا زمان بیشتری را با خانواده بگذراند.",
+      "summary_en": "Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:05:01 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c265fca5dc4c1c00b28e05ac08adeda1",
+      "title": "جاش کوشنر، باب ایگر، لس آنجلس لیکرز را با قیمت رکورد 12.5 میلیارد دلار خریداری کردند",
+      "title_fa": "جاش کوشنر، باب ایگر، لس آنجلس لیکرز را با قیمت رکورد 12.5 میلیارد دلار خریداری کردند",
+      "title_en": "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
+      "summary": "فروش میلیاردر مارک والتر از لیکرز NBA یک ارزش گذاری رکوردشکنی برای یک مجموعه ورزشی در آمریکای شمالی است.",
+      "summary_fa": "فروش میلیاردر مارک والتر از لیکرز NBA یک ارزش گذاری رکوردشکنی برای یک مجموعه ورزشی در آمریکای شمالی است.",
+      "summary_en": "Billionaire Mark Walter's sale of the NBA's Lakers is a record-breaking valuation for a North American sports franchise.",
+      "link": "https://www.aljazeera.com/sports/2026/8/12/josh-kushner-bob-iger-buying-los-angeles-lakers-for-record-12-5bn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 12 Aug 2026 20:04:24 +0000",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -21361,6 +21781,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "ca46ddd5b15f79203b9ba0be57224f78",
+      "title": "خورشید گرفتگی در اولین رویداد مشابه در یک قرن اخیر بخش هایی از اسپانیا را در تاریکی مطلق فرو می برد",
+      "title_fa": "خورشید گرفتگی در اولین رویداد مشابه در یک قرن اخیر بخش هایی از اسپانیا را در تاریکی مطلق فرو می برد",
+      "title_en": "Solar eclipse plunges parts of Spain into total darkness in first such event in a century",
+      "summary": "این خسوف که اولین بار در سرزمین اصلی اروپا از سال 2006 بود، همچنین سایه خود را در بخش هایی از گرینلند انداخت و از جنوب تا قسمتی از ایسلند را خفه کرد و سپس از اقیانوس اطلس به سمت شمال اسپانیا عبور کرد.",
+      "summary_fa": "این خسوف که اولین بار در سرزمین اصلی اروپا از سال 2006 بود، همچنین سایه خود را در بخش هایی از گرینلند انداخت و از جنوب تا قسمتی از ایسلند را خفه کرد و سپس از اقیانوس اطلس به سمت شمال اسپانیا عبور کرد.",
+      "summary_en": "The eclipse, a first in mainland Europe since 2006, also cast its shadow through parts of Greenland, racing south to smother part of Iceland before arcing across the Atlantic Ocean towards northern Spain.",
+      "link": "http://www.euronews.com/my-europe/2026/08/12/eye-on-the-sky-millions-across-europe-hope-to-catch-glimpse-of-rare-total-eclipse",
+      "source": "EuroNews",
+      "published_at": "Wed, 12 Aug 2026 18:04:46 +0200",
+      "date_iso": "2026-08-12",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
