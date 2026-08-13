@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 16:11:58",
-  "total_count": 9864,
+  "last_update": "2026-08-13 17:15:34",
+  "total_count": 9898,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93206,6 +93206,90 @@
       }
     },
     {
+      "id": "71f6c5f4920b12afcd0b6748dc818aa3",
+      "title": "بازماندگان از وحشت غرق شدن کشتی زیمبابوه می گویند که پلیس می گوید تعداد کشته ها به 46 نفر رسیده است.",
+      "title_fa": "بازماندگان از وحشت غرق شدن کشتی زیمبابوه می گویند که پلیس می گوید تعداد کشته ها به 46 نفر رسیده است.",
+      "title_en": "Survivors tell of horror of Zimbabwe ferry sinking as police say death toll hits 46",
+      "summary": "کشتی دولتی مملو از بار، پیوندی حیاتی برای روستاییان و تاجران ماهی در اطراف دریاچه وسیع کاریبا، روز سه‌شنبه در یکی از بدترین بلایای قایق‌های مسافربری کشور در آب‌های متلاطم واژگون شد.",
+      "summary_fa": "کشتی دولتی مملو از بار، پیوندی حیاتی برای روستاییان و تاجران ماهی در اطراف دریاچه وسیع کاریبا، روز سه‌شنبه در یکی از بدترین بلایای قایق‌های مسافربری کشور در آب‌های متلاطم واژگون شد.",
+      "summary_en": "The overloaded government ferry, a vital link for villagers and fish traders around the vast Lake Kariba, overturned in choppy waters on Tuesday in one of the country's worst passenger boat disasters.",
+      "link": "http://www.euronews.com/2026/08/13/survivors-tell-of-horror-of-zimbabwe-ferry-sinking-as-police-say-death-toll-hits-46",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 18:57:26 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f2a471abe06795fb9d7f7312fb83aa2c",
+      "title": "پلیس ایتالیا می گوید انفجار کارخانه مهمات در نزدیکی رم را به لرزه درآورد",
+      "title_fa": "پلیس ایتالیا می گوید انفجار کارخانه مهمات در نزدیکی رم را به لرزه درآورد",
+      "title_en": "Explosion rocks ammunition factory near Rome, Italian police say",
+      "summary": "رسانه های ایتالیایی گزارش دادند که تلفات جانی نداشته است و خبرگزاری AGI می گوید کارکنان در مناطق امن این مرکز پناه گرفته اند.",
+      "summary_fa": "رسانه های ایتالیایی گزارش دادند که تلفات جانی نداشته است و خبرگزاری AGI می گوید کارکنان در مناطق امن این مرکز پناه گرفته اند.",
+      "summary_en": "Italian media reported that there were no casualties, with the AGI news agency saying employees sheltered in secure areas at the facility.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/explosion-rocks-ammunition-factory-near-rome-italian-police-say",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 18:34:20 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "343ed12d33750885e41a86c5854dee27",
+      "title": "فوران اتنا وارد هفتمین روز پدیده ای می شود که از دهه 1970 مشاهده نشده است",
+      "title_fa": "فوران اتنا وارد هفتمین روز پدیده ای می شود که از دهه 1970 مشاهده نشده است",
+      "title_en": "Etna eruption enters seventh day in phenomenon unseen since the 1970s",
+      "summary": "یورونیوز نظرات کارشناسان و راهنمایان محلی را در مورد طول غیرمعمول فوران و اقدامات احتیاطی برای تماشای ایمن آن جمع آوری کرده است.",
+      "summary_fa": "یورونیوز نظرات کارشناسان و راهنمایان محلی را در مورد طول غیرمعمول فوران و اقدامات احتیاطی برای تماشای ایمن آن جمع آوری کرده است.",
+      "summary_en": "Euronews has gathered the views of experts and local guides on the unusual length of the eruption and on the precautions to take to watch it safely.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/etna-eruption-enters-seventh-day-in-phenomenon-unseen-since-the-1970s",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 18:10:27 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55f50b7976b82b1da3b679c571087aa3",
+      "title": "آخرین بولتن اخبار | 13 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 13 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 13th, 2026 – Evening",
+      "summary": "در 13 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 13 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "d44bdaf244baf8e2330e08f6f5c08aef",
       "title": "در پاریس، گردشگران به طور فزاینده ای دوچرخه را برای کاوش در شهر انتخاب می کنند",
       "title_fa": "در پاریس، گردشگران به طور فزاینده ای دوچرخه را برای کاوش در شهر انتخاب می کنند",
@@ -93214,6 +93298,27 @@
       "summary_fa": "در خیابان‌های پاریس، دوچرخه‌ها بیشتر و بیشتر می‌شود و گردشگران با آن کار زیادی دارند: تورهای دوچرخه‌سواری در سال‌های اخیر رونق گرفته است.",
       "summary_en": "On the streets of Paris, there are more and more bicycles, and tourists have a lot to do with it: bike tours have boomed in recent years.",
       "link": "http://www.euronews.com/travel/2026/08/13/in-paris-tourists-increasingly-choose-bikes-to-explore-the-city",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:54:14 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "0d27c6ecb603f9509b01a510f46c6b2f",
+      "title": "در پاریس، گردشگران به طور فزاینده ای دوچرخه سواری را برای کاوش در شهر انتخاب می کنند",
+      "title_fa": "در پاریس، گردشگران به طور فزاینده ای دوچرخه سواری را برای کاوش در شهر انتخاب می کنند",
+      "title_en": "In Paris, tourists increasingly choose cycling to explore the city",
+      "summary": "در خیابان‌های پاریس، دوچرخه‌ها به طور فزاینده‌ای رایج هستند و گردشگران نقش مهمی را ایفا می‌کنند. تورهای دوچرخه سواری با راهنما در سال های اخیر رونق گرفته است.",
+      "summary_fa": "در خیابان‌های پاریس، دوچرخه‌ها به طور فزاینده‌ای رایج هستند و گردشگران نقش مهمی را ایفا می‌کنند. تورهای دوچرخه سواری با راهنما در سال های اخیر رونق گرفته است.",
+      "summary_en": "On Paris's streets, bicycles are increasingly common, and tourists play a big part. Guided bike tours have boomed in recent years.",
+      "link": "http://www.euronews.com/travel/2026/08/13/in-paris-tourists-increasingly-choose-cycling-to-explore-the-city",
       "source": "EuroNews",
       "published_at": "Thu, 13 Aug 2026 17:54:14 +0200",
       "date_iso": "2026-08-13",
@@ -93311,6 +93416,27 @@
       }
     },
     {
+      "id": "0456b74cafc78469e2d7eca151c99491",
+      "title": "خروج قطار از ریل در نزدیکی شهر Lewes در شرق ساسکس، بریتانیا",
+      "title_fa": "خروج قطار از ریل در نزدیکی شهر Lewes در شرق ساسکس، بریتانیا",
+      "title_en": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+      "summary": "سرویس‌های اورژانس گفتند روز پنجشنبه در صحنه خروج قطار از ریل در نزدیکی Lewes در شرق ساسکس مشغول کار بودند.",
+      "summary_fa": "سرویس‌های اورژانس گفتند روز پنجشنبه در صحنه خروج قطار از ریل در نزدیکی Lewes در شرق ساسکس مشغول کار بودند.",
+      "summary_en": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 17:10:31 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-train-tvpw/13int-uk-train-tvpw-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "962fe2c4b2660d4bae92c5d115221ccd",
       "title": "بروکسل از فرش غول پیکر گل با الهام از شاهکار هوکوسای رونمایی کرد",
       "title_fa": "بروکسل از فرش غول پیکر گل با الهام از شاهکار هوکوسای رونمایی کرد",
@@ -93329,6 +93455,90 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "31ec5d753786d1624404db77de44c2f2",
+      "title": "موج گرمای اروپا زنده: بریتانیا شاهد دمای 38.1 درجه سانتی گراد، گرم ترین روز سال 2026 است. یونان پس از وزش بادهای شدید با آتش سوزی های جنگلی مبارزه می کند",
+      "title_fa": "موج گرمای اروپا زنده: بریتانیا شاهد دمای 38.1 درجه سانتی گراد، گرم ترین روز سال 2026 است. یونان پس از وزش بادهای شدید با آتش سوزی های جنگلی مبارزه می کند",
+      "title_en": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
+      "summary": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_fa": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_en": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.It’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield. Continue reading...",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 17:08:44 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/28002c94b965f2d20d8d0e3d27566bd16c249300/576_0_6400_5120/master/6400.jpg?width=140&quality=85&auto=format&fit=max&s=a690619f2c158e5486b4366a76b70987",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "c2797eab59b5699e5134c8bdc12f8985",
+      "title": "انرژی برتر برای بقیه سال... از جمله بازی قدرت پشت متری",
+      "title_fa": "انرژی برتر برای بقیه سال... از جمله بازی قدرت پشت متری",
+      "title_en": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
+      "summary": "ما با مدیر عامل یک شرکت پیشرو در روند قدرت \"پشت متر\" گفتگو می کنیم.",
+      "summary_fa": "ما با مدیر عامل یک شرکت پیشرو در روند قدرت \"پشت متر\" گفتگو می کنیم.",
+      "summary_en": "We have a conversation with the CEO of a company leading the trend of 'behind-the-meter' power.",
+      "link": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 17:08:24 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "03580b6b7188e3a560b527405fc1fd8f",
+      "title": "تماس صوتی Gemini در Android Auto همچنان من را ناکام می‌کند - و Google تا سپتامبر فرصت دارد تا آن را برطرف کند",
+      "title_fa": "تماس صوتی Gemini در Android Auto همچنان من را ناکام می‌کند - و Google تا سپتامبر فرصت دارد تا آن را برطرف کند",
+      "title_en": "Gemini voice calling on Android Auto keeps failing me - and Google has until September to fix it",
+      "summary": "با خاموش شدن دستیار گوگل در پاییز امسال، به لطف Gemini، کاربران اندروید با تماس صوتی ضعیفی مواجه خواهند شد.",
+      "summary_fa": "با خاموش شدن دستیار گوگل در پاییز امسال، به لطف Gemini، کاربران اندروید با تماس صوتی ضعیفی مواجه خواهند شد.",
+      "summary_en": "With Google Assistant shutting down this fall, Android users will be left with inferior voice calling, thanks to Gemini.",
+      "link": "https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing-google-must-fix-by-september/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 17:07:04 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c00f123aa7694c864ecd0989fc44849",
+      "title": "چرا سپتامبر بدترین ماه سال برای بورس است؟",
+      "title_fa": "چرا سپتامبر بدترین ماه سال برای بورس است؟",
+      "title_en": "Why September is the worst month of the year for the stock market",
+      "summary": "معرفی لاته با ادویه کدو تنبل به منوها به معنای نزدیک شدن به پایان تابستان همراه با حالات مثبت است.",
+      "summary_fa": "معرفی لاته با ادویه کدو تنبل به منوها به معنای نزدیک شدن به پایان تابستان همراه با حالات مثبت است.",
+      "summary_en": "The introduction of pumpkin-spice lattes to menus means the end of summer is approaching, along with positive vibes",
+      "link": "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 17:06:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-88456022",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -93353,6 +93563,216 @@
       }
     },
     {
+      "id": "2d4532dd3d9a2242adac4e3174f495bb",
+      "title": "شرایط ناو هواپیمابر ایالات متحده در دریا برای بیش از 250 روز هشدارها را افزایش می دهد",
+      "title_fa": "شرایط ناو هواپیمابر ایالات متحده در دریا برای بیش از 250 روز هشدارها را افزایش می دهد",
+      "title_en": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "گزارش‌هایی مبنی بر کمبود مواد غذایی، خرابی لوله‌کشی و سایر آسیب‌های احتمالی در کشتی USS Abraham Lincoln که از نوامبر در دریا بوده، وجود دارد.",
+      "summary_fa": "گزارش‌هایی مبنی بر کمبود مواد غذایی، خرابی لوله‌کشی و سایر آسیب‌های احتمالی در کشتی USS Abraham Lincoln که از نوامبر در دریا بوده، وجود دارد.",
+      "summary_en": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 17:01:50 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e07224683b5f9e1666b9cc4d40e500a",
+      "title": "منابع می گویند که کریشنا رائو، مدیر مالی آنتروپیک، جلسات اولیه عرضه اولیه سهام با سرمایه گذاران را رهبری می کند و در مورد ارزش گذاری صحبتی نکرده است.",
+      "title_fa": "منابع می گویند که کریشنا رائو، مدیر مالی آنتروپیک، جلسات اولیه عرضه اولیه سهام با سرمایه گذاران را رهبری می کند و در مورد ارزش گذاری صحبتی نکرده است.",
+      "title_en": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "summary": "کریشنا رائو، مدیر مالی آنتروپیک، جلسات اولیه سرمایه‌گذاران را رهبری می‌کند، که بر موضوعات تصویری بزرگ مانند مدل‌های هوش مصنوعی کلود، مدیریت و موارد دیگر تمرکز کرده‌اند.",
+      "summary_fa": "کریشنا رائو، مدیر مالی آنتروپیک، جلسات اولیه سرمایه‌گذاران را رهبری می‌کند، که بر موضوعات تصویری بزرگ مانند مدل‌های هوش مصنوعی کلود، مدیریت و موارد دیگر تمرکز کرده‌اند.",
+      "summary_en": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
+      "link": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 17:00:49 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8b93e17e48b228058fdd3df9dbbbdf44",
+      "title": "گوگل Gemini 3.7 Flash را تنها سه هفته پس از انتشار قبلی معرفی کرد",
+      "title_fa": "گوگل Gemini 3.7 Flash را تنها سه هفته پس از انتشار قبلی معرفی کرد",
+      "title_en": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash فقط 3 هفته پیش عرضه شد، اما گوگل می گوید 3.7 دارای \"پیشرفت های قابل توجهی\" است.",
+      "summary_fa": "Gemini 3.6 Flash فقط 3 هفته پیش عرضه شد، اما گوگل می گوید 3.7 دارای \"پیشرفت های قابل توجهی\" است.",
+      "summary_en": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "774b8f005aa76d9fdf2c7408c3da7ed7",
+      "title": "نزدیک به 100 کودک به عنوان بزرگسال تحت توافقنامه مهاجرت بریتانیا و فرانسه بازداشت شده اند",
+      "title_fa": "نزدیک به 100 کودک به عنوان بزرگسال تحت توافقنامه مهاجرت بریتانیا و فرانسه بازداشت شده اند",
+      "title_en": "Nearly 100 children detained as adults under UK-France migration deal",
+      "summary": "ارقام در نامه‌ای مهم به وزارت کشور از سوی سازمانی که برای بررسی دقیق بازداشتگاه‌ها منصوب شده است درج شده است، طبق قرارداد شبانه محمود با فرانسه \"یک در یک، یک خارج\"، نزدیک به 100 کودک به اشتباه شناسایی و به عنوان بزرگسال بازداشت شده اند. کارکنان وزارت کشور گفتند که از 304 مورد مناقشه سنی، 3 - 9٪ از موارد اختلاف سنی بیش از 9 ماه یا بیش از 1 ماه بوده است. در نهایت مشخص شد که صغیر هستند. قرار است کودکان از این طرح مستثنی شوند، در حالی که سیاست دولت، بازداشت مهاجرتی کودکان بدون همراه را به 24 ساعت محدود می‌کند. بیش از شش ماه در انتظار اخراج بودند، علیرغم اینکه قرار بود تا 28 روز در بازداشت بمانند، تنها در موارد استثنایی، برای انتقال به فرانسه آماده می‌شدند. سفر کرد، که به گفته او \"تاثیرات مخرب خاصی داشت\". ادامه مطلب...",
+      "summary_fa": "ارقام در نامه‌ای مهم به وزارت کشور از سوی سازمانی که برای بررسی دقیق بازداشتگاه‌ها منصوب شده است درج شده است، طبق قرارداد شبانه محمود با فرانسه \"یک در یک، یک خارج\"، نزدیک به 100 کودک به اشتباه شناسایی و به عنوان بزرگسال بازداشت شده اند. کارکنان وزارت کشور گفتند که از 304 مورد مناقشه سنی، 3 - 9٪ از موارد اختلاف سنی بیش از 9 ماه یا بیش از 1 ماه بوده است. در نهایت مشخص شد که صغیر هستند. قرار است کودکان از این طرح مستثنی شوند، در حالی که سیاست دولت، بازداشت مهاجرتی کودکان بدون همراه را به 24 ساعت محدود می‌کند. بیش از شش ماه در انتظار اخراج بودند، علیرغم اینکه قرار بود تا 28 روز در بازداشت بمانند، تنها در موارد استثنایی، برای انتقال به فرانسه آماده می‌شدند. سفر کرد، که به گفته او \"تاثیرات مخرب خاصی داشت\". ادامه مطلب...",
+      "summary_en": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana Mahmood’s “one in, one out” deal with France, the Guardian can disclose.Home Office staff said that of 304 age-disputed cases arising from the scheme over nine months, 94 – or 31% – were ultimately found to be minors. Children are supposed to be excluded from the scheme, while government policy limits immigration detention of unaccompanied children to 24 hours.had been awaiting deportation for more than six months, despite being supposed be held for up to 28 days only “in exceptional cases”.were being readied for removal to France despite having TB or requiring hospital treatment.faced removal after being separated from family members with whom they had travelled, which she said had a “particularly damaging impact”. Continue reading...",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 17:00:03 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c8d33092f56cceeeb43ef3066fa8cc720aa0d024/0_0_4128_3304/master/4128.jpg?width=140&quality=85&auto=format&fit=max&s=35ca43d629bf783c695b1765529f9983",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "e3a93b25ae88374f7ad5681e008ea29e",
+      "title": "سهام ساندیس در حال افزایش است. در اینجا اهداف جدیدی هستند که وال استریت هیجان انگیز هستند.",
+      "title_fa": "سهام ساندیس در حال افزایش است. در اینجا اهداف جدیدی هستند که وال استریت هیجان انگیز هستند.",
+      "title_en": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "summary": "این شرکت تراشه‌های حافظه به تازگی پیش‌بینی‌های رشد درآمد خود را تا پایان دهه ارائه کرده است و ساندیس انتظار دارد با گذشت سال‌ها سودآوری بالای خود را حفظ کند.",
+      "summary_fa": "این شرکت تراشه‌های حافظه به تازگی پیش‌بینی‌های رشد درآمد خود را تا پایان دهه ارائه کرده است و ساندیس انتظار دارد با گذشت سال‌ها سودآوری بالای خود را حفظ کند.",
+      "summary_en": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 16:58:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-75636714",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "753e5d3905a348c3ed30da3d240b55b4",
+      "title": "رئيس درآمد OpenAI، دنيس لباسر، دومين جدايي بزرگ اجرايي در چند روز گذشته است",
+      "title_fa": "رئيس درآمد OpenAI، دنيس لباسر، دومين جدايي بزرگ اجرايي در چند روز گذشته است",
+      "title_en": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+      "summary": "خروج ناگهانی دنیس لباسر می‌تواند ضربه بزرگی به OpenAI باشد، زیرا در حال پیگیری یک عرضه اولیه عمومی پرفروش است.",
+      "summary_fa": "خروج ناگهانی دنیس لباسر می‌تواند ضربه بزرگی به OpenAI باشد، زیرا در حال پیگیری یک عرضه اولیه عمومی پرفروش است.",
+      "summary_en": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
+      "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 16:56:01 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a390b882005ba038a47ca96c1875ac4e",
+      "title": "ایر ایندیا همه خلبانان را برای مواد ممنوعه آزمایش می کند",
+      "title_fa": "ایر ایندیا همه خلبانان را برای مواد ممنوعه آزمایش می کند",
+      "title_en": "Air India to test all pilots for banned substances",
+      "summary": "این اتفاق پس از آن رخ می دهد که یکی از هواپیماهای آن هفته گذشته به طور ناگهانی ارتفاع را از دست داد و تعدادی از مسافران مجروح شدند.",
+      "summary_fa": "این اتفاق پس از آن رخ می دهد که یکی از هواپیماهای آن هفته گذشته به طور ناگهانی ارتفاع را از دست داد و تعدادی از مسافران مجروح شدند.",
+      "summary_en": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
+      "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 16:52:15 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/c940eb70-9732-11f1-bdbf-1b7b2a4a87a1.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e22d923679b1a4441be71e236e32ba4e",
+      "title": "وکلای مانژیون با دادستان‌های فدرال در بحبوحه گزارش‌هایی مبنی بر توافق در دادگاه دیدار خواهند کرد",
+      "title_fa": "وکلای مانژیون با دادستان‌های فدرال در بحبوحه گزارش‌هایی مبنی بر توافق در دادگاه دیدار خواهند کرد",
+      "title_en": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "summary": "Mangione با دو جنایت تعقیب و گریز فدرال روبرو است که حداکثر مجازات آنها حبس ابد بدون آزادی مشروط است.",
+      "summary_fa": "Mangione با دو جنایت تعقیب و گریز فدرال روبرو است که حداکثر مجازات آنها حبس ابد بدون آزادی مشروط است.",
+      "summary_en": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 16:45:06 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0854/live/f4140030-972d-11f1-bbb3-ebc49f706d46.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "30b02c5c4092a03d2ebbbfa8df7c35dc",
+      "title": "رزمایش مشترک دریایی چین و اندونزی خشم تایوان را برانگیخت",
+      "title_fa": "رزمایش مشترک دریایی چین و اندونزی خشم تایوان را برانگیخت",
+      "title_en": "China and Indonesia’s joint naval drills anger Taiwan",
+      "summary": "رسانه های دولتی چین تصاویری از رزمایش دریایی مشترک با اندونزی در آب های شرق تایوان منتشر کردند.",
+      "summary_fa": "رسانه های دولتی چین تصاویری از رزمایش دریایی مشترک با اندونزی در آب های شرق تایوان منتشر کردند.",
+      "summary_en": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 16:44:27 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "9753ed57554018deda4d048051fa6348",
+      "title": "گزارش‌های مربوط به تلاش ملوانان آمریکایی در خاورمیانه برای پریدن از کشتی، اعتراضات را برانگیخت",
+      "title_fa": "گزارش‌های مربوط به تلاش ملوانان آمریکایی در خاورمیانه برای پریدن از کشتی، اعتراضات را برانگیخت",
+      "title_en": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+      "summary": "سناتورهای آمریکایی خواستار تحقیق هستند زیرا یو اس اس لینکلن در بحبوحه جنگ علیه ایران، دوره طولانی بدون توقف بندرگاهی را پشت سر گذاشته است.",
+      "summary_fa": "سناتورهای آمریکایی خواستار تحقیق هستند زیرا یو اس اس لینکلن در بحبوحه جنگ علیه ایران، دوره طولانی بدون توقف بندرگاهی را پشت سر گذاشته است.",
+      "summary_en": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 16:44:15 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "7362bd518f7817369c6541d4f7df87eb",
       "title": "اینها بهترین شهرهای اروپا برای تعطیلات آخر هفته هستند - و لهستان بر پنج شهر برتر برتری دارد",
       "title_fa": "اینها بهترین شهرهای اروپا برای تعطیلات آخر هفته هستند - و لهستان بر پنج شهر برتر برتری دارد",
@@ -93371,6 +93791,111 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "fd0a841389932d79867670949f177e0c",
+      "title": "آیا اقتصاد روسیه با وجود جنگ با ایران در حال ترک خوردن است؟",
+      "title_fa": "آیا اقتصاد روسیه با وجود جنگ با ایران در حال ترک خوردن است؟",
+      "title_en": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "summary": "افزایش کسری بودجه و حملات اوکراین اقتصاد روسیه را مورد آزمایش قرار می دهد، حتی در شرایطی که جنگ در خاورمیانه درآمدهای نفتی را افزایش می دهد.",
+      "summary_fa": "افزایش کسری بودجه و حملات اوکراین اقتصاد روسیه را مورد آزمایش قرار می دهد، حتی در شرایطی که جنگ در خاورمیانه درآمدهای نفتی را افزایش می دهد.",
+      "summary_en": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 16:40:42 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "3b1e052a5be5d32191db4b963d0be270",
+      "title": "Topos Azteca، یک گروه نجات داوطلب مکزیکی، در تلاش‌های نجات پس از زلزله کلمبیا کمک می‌کند.",
+      "title_fa": "Topos Azteca، یک گروه نجات داوطلب مکزیکی، در تلاش‌های نجات پس از زلزله کلمبیا کمک می‌کند.",
+      "title_en": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
+      "summary": "Topos Azteca، یک گروه نجات داوطلب مکزیکی که در سرتاسر جهان کار می کند و پس از حملات 11 سپتامبر به آنها کمک کرد، پس از جستجوی بازماندگان در ونزوئلا به کلمبیا رسید.",
+      "summary_fa": "Topos Azteca، یک گروه نجات داوطلب مکزیکی که در سرتاسر جهان کار می کند و پس از حملات 11 سپتامبر به آنها کمک کرد، پس از جستجوی بازماندگان در ونزوئلا به کلمبیا رسید.",
+      "summary_en": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
+      "link": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 16:37:30 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df7bf66a69648b5459fb24fb483f3fca",
+      "title": "قطار مسافربری در نزدیکی لویس در شرق ساسکس از ریل خارج شد",
+      "title_fa": "قطار مسافربری در نزدیکی لویس در شرق ساسکس از ریل خارج شد",
+      "title_en": "Passenger train derails near Lewes in East Sussex",
+      "summary": "پلیس حمل و نقل بریتانیا می گوید که امدادگران و خدمات آتش نشانی پس از خروج از ریل در محل هستند",
+      "summary_fa": "پلیس حمل و نقل بریتانیا می گوید که امدادگران و خدمات آتش نشانی پس از خروج از ریل در محل هستند",
+      "summary_en": "British Transport Police say paramedics and fire service are on site following the derailment",
+      "link": "https://www.ft.com/content/3b67ce5d-3f1a-41a8-8d87-7356876ede14?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 16:34:22 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb1bb19b-2ab9-4ec8-845e-b6131ecef84b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d0a586515a64aa6d8a2b28a33c509d37",
+      "title": "گفته می شود که برنامه مخفی سیا در پشت حملات مرموز به قایق های گالاپاگوس بوده است",
+      "title_fa": "گفته می شود که برنامه مخفی سیا در پشت حملات مرموز به قایق های گالاپاگوس بوده است",
+      "title_en": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
+      "summary": "داده های پرواز نشان می دهد که یک هواپیمای تجسسی از السالوادور به سمت قایق های ماهیگیری قبل از حمله پهپادها پرواز کرد.",
+      "summary_fa": "داده های پرواز نشان می دهد که یک هواپیمای تجسسی از السالوادور به سمت قایق های ماهیگیری قبل از حمله پهپادها پرواز کرد.",
+      "summary_en": "A surveillance plane flew from El Salvador toward the fishing boats before drones attacked, flight data shows.",
+      "link": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 16:29:48 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fbf832455b15c593f0088c5ce6b4d94e",
+      "title": "پوتین با بازدید از جزایری که توسط اتحاد جماهیر شوروی در جنگ جهانی دوم تصرف شده بود، ژاپن را عصبانی کرد",
+      "title_fa": "پوتین با بازدید از جزایری که توسط اتحاد جماهیر شوروی در جنگ جهانی دوم تصرف شده بود، ژاپن را عصبانی کرد",
+      "title_en": "Putin angers Japan with visit to islands seized by Soviet Union in WWII",
+      "summary": "نخست وزیر سانائه تاکایچی گفت که سفر رهبر روسیه به احساسات مردم ژاپن جریحه دار می شود و احساسات ضد روسی در کشورش را تشدید می کند.",
+      "summary_fa": "نخست وزیر سانائه تاکایچی گفت که سفر رهبر روسیه به احساسات مردم ژاپن جریحه دار می شود و احساسات ضد روسی در کشورش را تشدید می کند.",
+      "summary_en": "Prime Minister Sanae Takaichi said the Russian leader's visit “wounds the feelings” of the Japanese people and further hardens anti-Russian sentiment in her country.",
+      "link": "https://www.washingtonpost.com/world/2026/08/13/putin-angers-japan-with-visit-islands-seized-by-soviet-union-wwii/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 16:17:42 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -93395,10 +93920,52 @@
       }
     },
     {
+      "id": "0e9f8c8f10f2b39b7678f449c8a9dd58",
+      "title": "رومانی تنها نیروگاه هسته ای خود را تعطیل می کند زیرا گرما باعث کاهش شدید سطح رودخانه دانوب می شود",
+      "title_fa": "رومانی تنها نیروگاه هسته ای خود را تعطیل می کند زیرا گرما باعث کاهش شدید سطح رودخانه دانوب می شود",
+      "title_en": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "کارخانه سرناوودا که 20 درصد برق رومانی را تولید می کند، انتظار نمی رود ظرف 10 روز آینده راه اندازی مجدد شود.",
+      "summary_fa": "کارخانه سرناوودا که 20 درصد برق رومانی را تولید می کند، انتظار نمی رود ظرف 10 روز آینده راه اندازی مجدد شود.",
+      "summary_en": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "eae2b9801497980497a4d9f7a3d19543",
       "title": "مجارستان از طرح جدید «پاکسازی» رونمایی می کند در حالی که دولت اولین گام ها را برای بازگشایی بودجه های مسدود شده اتحادیه اروپا برمی دارد.",
       "title_fa": "مجارستان از طرح جدید «پاکسازی» رونمایی می کند در حالی که دولت اولین گام ها را برای بازگشایی بودجه های مسدود شده اتحادیه اروپا برمی دارد.",
       "title_en": "Hungary unveils new 'clean up' plan as governemnt takes first steps to unlocking frozen EU funds",
+      "summary": "بوداپست فهرستی از فعالان اقتصادی را که به دلیل تخلفات اقتصادی قبلی از مناقصه عمومی منع شده‌اند، حفظ می‌کند و به تعهد اتحادیه اروپا برای بازگرداندن دسترسی خود به بودجه حیاتی عمل می‌کند.",
+      "summary_fa": "بوداپست فهرستی از فعالان اقتصادی را که به دلیل تخلفات اقتصادی قبلی از مناقصه عمومی منع شده‌اند، حفظ می‌کند و به تعهد اتحادیه اروپا برای بازگرداندن دسترسی خود به بودجه حیاتی عمل می‌کند.",
+      "summary_en": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
+      "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 16:03:26 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "719c1332e4d958ba7344f6fe0ede2dcd",
+      "title": "مجارستان از طرح جدید \"پاکسازی\" رونمایی می کند زیرا دولت گام های جدیدی برای بازگشایی بودجه های مسدود شده اتحادیه اروپا برداشته است.",
+      "title_fa": "مجارستان از طرح جدید \"پاکسازی\" رونمایی می کند زیرا دولت گام های جدیدی برای بازگشایی بودجه های مسدود شده اتحادیه اروپا برداشته است.",
+      "title_en": "Hungary unveils new 'clean up' plan as governemnt takes new steps to unlocking frozen EU funds",
       "summary": "بوداپست فهرستی از فعالان اقتصادی را که به دلیل تخلفات اقتصادی قبلی از مناقصه عمومی منع شده‌اند، حفظ می‌کند و به تعهد اتحادیه اروپا برای بازگرداندن دسترسی خود به بودجه حیاتی عمل می‌کند.",
       "summary_fa": "بوداپست فهرستی از فعالان اقتصادی را که به دلیل تخلفات اقتصادی قبلی از مناقصه عمومی منع شده‌اند، حفظ می‌کند و به تعهد اتحادیه اروپا برای بازگرداندن دسترسی خود به بودجه حیاتی عمل می‌کند.",
       "summary_en": "Budapest will keep a list of economic operators who are barred from public tenders due to prior economic offences, fulfilling an EU obligation to restoring its access to critical funding.",
@@ -93479,6 +94046,27 @@
       }
     },
     {
+      "id": "f46507bab85c872fd9415b5d7d7cd321",
+      "title": "ایالات متحده بیش از 40 کشور را به کمک به چین برای جلوگیری از تعرفه های ترامپ متهم می کند",
+      "title_fa": "ایالات متحده بیش از 40 کشور را به کمک به چین برای جلوگیری از تعرفه های ترامپ متهم می کند",
+      "title_en": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
+      "summary": "کاخ سفید می گوید که کانادا، ژاپن، اتحادیه اروپا و سایرین امکان فرار از مالیات 60 میلیارد دلاری را از طریق «کلاهبرداری حمل و نقل» فراهم می کنند.",
+      "summary_fa": "کاخ سفید می گوید که کانادا، ژاپن، اتحادیه اروپا و سایرین امکان فرار از مالیات 60 میلیارد دلاری را از طریق «کلاهبرداری حمل و نقل» فراهم می کنند.",
+      "summary_en": "White House says Canada, Japan, EU and others enabling the evasion of levies for $60bn in trade via ‘transshipment scam’",
+      "link": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 15:55:56 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02c08ea3-a59f-40cb-a525-23a52d6493b3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "f236d7762d04b9406f56c5948f08a7f7",
       "title": "دولت بریتانیا در نظر دارد به کشاورزان آسیب دیده از خشکسالی کمک کند",
       "title_fa": "دولت بریتانیا در نظر دارد به کشاورزان آسیب دیده از خشکسالی کمک کند",
@@ -93497,6 +94085,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "e91bc23c728199324164416a41afb16c",
+      "title": "هیچیلهما رئیس جمهور زامبیا در حالی که به دنبال دور دوم ریاست جمهوری است رای می دهد",
+      "title_fa": "هیچیلهما رئیس جمهور زامبیا در حالی که به دنبال دور دوم ریاست جمهوری است رای می دهد",
+      "title_en": "Zambian president Hichilema votes as he seeks second term",
+      "summary": "هاکاینده هیچیلما، رئیس جمهور زامبیا، در لوزاکا، پایتخت این کشور، رای خود را به صندوق انداخت تا برای دومین بار نامزد شود.",
+      "summary_fa": "هاکاینده هیچیلما، رئیس جمهور زامبیا، در لوزاکا، پایتخت این کشور، رای خود را به صندوق انداخت تا برای دومین بار نامزد شود.",
+      "summary_en": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 15:51:52 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -93623,6 +94232,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "9b7e9e94204ce642e2149a25e43d98aa",
+      "title": "پارک های خرده فروشی تهدید واقعی برای خیابان های بریتانیا هستند",
+      "title_fa": "پارک های خرده فروشی تهدید واقعی برای خیابان های بریتانیا هستند",
+      "title_en": "Retail parks are the real threat to the British high street",
+      "summary": "مجتمع‌های تجاری در فضای باز دارای ویژگی‌های داغ هستند، با سوپرمارکت‌ها، فروشگاه‌ها و زنجیره‌های تخفیف‌دار برای اتاق",
+      "summary_fa": "مجتمع‌های تجاری در فضای باز دارای ویژگی‌های داغ هستند، با سوپرمارکت‌ها، فروشگاه‌ها و زنجیره‌های تخفیف‌دار برای اتاق",
+      "summary_en": "Outdoor commercial complexes are hot property, with supermarkets, stores and discount chains elbowing for room",
+      "link": "https://www.ft.com/content/36ec3c60-43b4-4c94-9a7b-8b5dba798ee8",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 15:37:18 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f837375-958b-43d2-8cd7-ad19c4859a28.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -94589,6 +95219,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d009f0141c6cc8ad566fc4c4c3800335",
+      "title": "در نمودارها: مدارس خصوصی در روز نتایج سطح A نسبت به رقبای ایالتی برتری دارند",
+      "title_fa": "در نمودارها: مدارس خصوصی در روز نتایج سطح A نسبت به رقبای ایالتی برتری دارند",
+      "title_en": "In charts: Private schools widen lead over state rivals on A-level results day",
+      "summary": "تعداد فزاینده ای از دانش آموزان در حال تحصیل در رشته های اقتصاد، سیاست و ریاضیات بیشتر هستند",
+      "summary_fa": "تعداد فزاینده ای از دانش آموزان در حال تحصیل در رشته های اقتصاد، سیاست و ریاضیات بیشتر هستند",
+      "summary_en": "A growing number of students are taking economics, politics and further maths",
+      "link": "https://www.ft.com/content/c8b5605f-209c-4513-9111-1ccc00f3a07e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 13:49:28 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F70f77419-ba9e-499b-a385-b50cb0a13dfd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -96307,6 +96958,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5cd7b53527d2183df2fc0e6b39719d11",
+      "title": "مردی در ماموریت ساختن قابل زندگی ترین شهر هند",
+      "title_fa": "مردی در ماموریت ساختن قابل زندگی ترین شهر هند",
+      "title_en": "The Man on a Mission to Build India’s Most Livable City",
+      "summary": "وزیر ارشد آندرا پرادش 25000 کارگر دارد که پایتخت رویایی خود را با آبراه ها، مسیرهای دوچرخه سواری و یک مرکز فناوری \"کوانتوم ولی\" می سازند.",
+      "summary_fa": "وزیر ارشد آندرا پرادش 25000 کارگر دارد که پایتخت رویایی خود را با آبراه ها، مسیرهای دوچرخه سواری و یک مرکز فناوری \"کوانتوم ولی\" می سازند.",
+      "summary_en": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 10:17:15 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-india-city-phlq/13int-india-city-phlq-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -192359,6 +193031,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "165f82d90c792d47d938160b5f9d079d",
+      "title": "2K استودیوی جدیدی را راه اندازی می کند تا &#8216;فرانچایز ورزشی بلاک باستر بعدی خود&#8217;",
+      "title_fa": "2K استودیوی جدیدی را راه اندازی می کند تا &#8216;فرانچایز ورزشی بلاک باستر بعدی خود&#8217;",
+      "title_en": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "summary": "طبق یک پست لینکدین، 2K در حال راه اندازی یک استودیوی جدید بازی سازی AAA به نام Small Axe Studios است که هدفی بلندپروازانه دارد: ساخت «فرانچایز ورزشی پرفروش بعدی» این شرکت. این پست به صراحت نمی گوید که این بازی جدید روی چه ورزشی تمرکز خواهد کرد. اما تصویری که در پست قرار داده شده است نشان می دهد که به نظر می رسد […]",
+      "summary_fa": "طبق یک پست لینکدین، 2K در حال راه اندازی یک استودیوی جدید بازی سازی AAA به نام Small Axe Studios است که هدفی بلندپروازانه دارد: ساخت «فرانچایز ورزشی پرفروش بعدی» این شرکت. این پست به صراحت نمی گوید که این بازی جدید روی چه ورزشی تمرکز خواهد کرد. اما تصویری که در پست قرار داده شده است نشان می دهد که به نظر می رسد […]",
+      "summary_en": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a […]",
+      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "source": "The Verge",
+      "published_at": "2026-08-13T12:38:15-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "936395028fcb1d30d4821f913f5cf53f",
+      "title": "فتوم EV 28000 دلاری فورد پس از تعمیرات اساسی 2 میلیارد دلاری کارخانه به تولید نزدیک می شود",
+      "title_fa": "فتوم EV 28000 دلاری فورد پس از تعمیرات اساسی 2 میلیارد دلاری کارخانه به تولید نزدیک می شود",
+      "title_en": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "summary": "فورد امروز گفت که نسل بعدی خودروی الکتریکی آن - که اخیراً فتوم نامیده شده است - در سه ماهه اول سال 2027 در کارخانه مونتاژ لوئیزویل این خودروساز که اخیراً تعمیرات اساسی شده است، تولید خواهد شد. اولین فتومز نمونه اولیه خواهد بود و تیم فورد در لوئیزویل در حال حاضر در مرحله پیش‌ابزارسازی سطح تولید در تاسیساتی که اخیراً تغییر یافته است. کارگران کارخانه […]",
+      "summary_fa": "فورد امروز گفت که نسل بعدی خودروی الکتریکی آن - که اخیراً فتوم نامیده شده است - در سه ماهه اول سال 2027 در کارخانه مونتاژ لوئیزویل این خودروساز که اخیراً تعمیرات اساسی شده است، تولید خواهد شد. اولین فتومز نمونه اولیه خواهد بود و تیم فورد در لوئیزویل در حال حاضر در مرحله پیش‌ابزارسازی سطح تولید در تاسیساتی که اخیراً تغییر یافته است. کارگران کارخانه […]",
+      "summary_en": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers […]",
+      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "source": "The Verge",
+      "published_at": "2026-08-13T12:23:18-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
