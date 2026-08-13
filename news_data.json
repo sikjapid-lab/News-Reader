@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 09:35:18",
-  "total_count": 9666,
+  "last_update": "2026-08-13 10:42:39",
+  "total_count": 9702,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -20416,6 +20416,27 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "b7a45a1c26ccd0a0e1dd01a76b2d5771",
+      "title": "مدیر عامل Novo Nordisk از شکایت علیه الی لیلی دفاع می کند: \"رقابت باید منصفانه باشد\"",
+      "title_fa": "مدیر عامل Novo Nordisk از شکایت علیه الی لیلی دفاع می کند: \"رقابت باید منصفانه باشد\"",
+      "title_en": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
+      "summary": "مدیر عامل Novo Nordisk از تصمیم این شرکت برای شکایت از رقیب Eli Lilly به دلیل تبلیغات داروی کاهش وزن آن دفاع کرد.",
+      "summary_fa": "مدیر عامل Novo Nordisk از تصمیم این شرکت برای شکایت از رقیب Eli Lilly به دلیل تبلیغات داروی کاهش وزن آن دفاع کرد.",
+      "summary_en": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
+      "link": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
+      "source": "CNBC",
+      "published_at": "Wed, 12 Aug 2026 22:53:21 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -93164,6 +93185,132 @@
       }
     },
     {
+      "id": "f08c6ab01f881b18dfd3aeae1eb8a9e6",
+      "title": "کسوف را از دست داده اید؟ برای دیدن «کسوف قرن» در سال 2027 به کجا سفر کنید",
+      "title_fa": "کسوف را از دست داده اید؟ برای دیدن «کسوف قرن» در سال 2027 به کجا سفر کنید",
+      "title_en": "Missed the eclipse? Here’s where to travel to see 2027’s ‘eclipse of the century’",
+      "summary": "جبل الطارق، ماربلا و لامپدوزا همگی در مسیر کلیت برای کسوف در 2 اوت 2027 قرار دارند.",
+      "summary_fa": "جبل الطارق، ماربلا و لامپدوزا همگی در مسیر کلیت برای کسوف در 2 اوت 2027 قرار دارند.",
+      "summary_en": "Gibraltar, Marbella and Lampedusa all lie in the path of totality for the eclipse on 2 August, 2027.",
+      "link": "http://www.euronews.com/travel/2026/08/13/missed-the-eclipse-heres-where-to-travel-to-see-2027s-eclipse-of-the-century",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 12:38:51 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "2cc33ad75346fad88ded789c8623dac5",
+      "title": "توپ های برفی و مخازن: چگونه تجهیزات زمستانی استراحتگاه های سوئیس می توانند به خاموش کردن آتش سوزی های جنگلی کمک کنند",
+      "title_fa": "توپ های برفی و مخازن: چگونه تجهیزات زمستانی استراحتگاه های سوئیس می توانند به خاموش کردن آتش سوزی های جنگلی کمک کنند",
+      "title_en": "Snow cannons and reservoirs: How Swiss resorts' winter equipment could help put out wildfires",
+      "summary": "کیلومترها لوله های آب زیرزمینی می تواند بعد از ماه های زمستان مفید باشد زیرا خطر آتش سوزی حتی در مکان هایی مانند سوئیس افزایش می یابد.",
+      "summary_fa": "کیلومترها لوله های آب زیرزمینی می تواند بعد از ماه های زمستان مفید باشد زیرا خطر آتش سوزی حتی در مکان هایی مانند سوئیس افزایش می یابد.",
+      "summary_en": "Kilometres of underground water pipes could prove useful beyond the winter months as the risk of wildfires grows even in places like Switzerland.",
+      "link": "http://www.euronews.com/2026/08/13/snow-cannons-and-reservoirs-how-swiss-resorts-winter-equipment-could-help-put-out-wildfire",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 12:35:50 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cbe44ac03932c12ce14fed8e1400db4e",
+      "title": "Truth API چیست؟ خوراک 100 هزار دلاری که ترامپ را به شکایت کشاند",
+      "title_fa": "Truth API چیست؟ خوراک 100 هزار دلاری که ترامپ را به شکایت کشاند",
+      "title_en": "What is Truth API? The $100,000 feed that has landed Trump a lawsuit",
+      "summary": "دو سازمان مطبوعاتی از دادگاه فدرال منهتن خواسته‌اند تا Truth API را تعطیل کند، سرویسی که در ماه جاری راه اندازی شد و به شرکت‌های وال استریت دسترسی سریع‌تر به پست‌های Truth Social دونالد ترامپ، رئیس‌جمهور ایالات متحده را تا سقف 100000 دلار در ماه می‌فروشد.",
+      "summary_fa": "دو سازمان مطبوعاتی از دادگاه فدرال منهتن خواسته‌اند تا Truth API را تعطیل کند، سرویسی که در ماه جاری راه اندازی شد و به شرکت‌های وال استریت دسترسی سریع‌تر به پست‌های Truth Social دونالد ترامپ، رئیس‌جمهور ایالات متحده را تا سقف 100000 دلار در ماه می‌فروشد.",
+      "summary_en": "Two press organisations have asked a Manhattan federal court to shut down Truth API, the service launched this month that sells Wall Street firms faster access to US President Donald Trump's Truth Social posts for up to $100,000 a month.",
+      "link": "http://www.euronews.com/business/2026/08/13/what-is-truth-api-the-100000-feed-that-has-landed-trump-a-lawsuit",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 12:28:11 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "db1852284d8d6df54f3652834922e694",
+      "title": "نایجل فاراژ، رهبر اصلاحات بریتانیا و کنت بینفیس در نظرسنجی زودهنگام در بریتانیا به مصاف یکدیگر رفتند.",
+      "title_fa": "نایجل فاراژ، رهبر اصلاحات بریتانیا و کنت بینفیس در نظرسنجی زودهنگام در بریتانیا به مصاف یکدیگر رفتند.",
+      "title_en": "Reform UK leader Nigel Farage and Count Binface go head-to-head in snap UK poll",
+      "summary": "شعبه های رای گیری حدود ساعت 7 صبح باز شد و تا ساعت 10:00 شب بسته خواهد شد و شمارش آرا بلافاصله آغاز می شود و انتظار می رود نتیجه اوایل روز جمعه اعلام شود.",
+      "summary_fa": "شعبه های رای گیری حدود ساعت 7 صبح باز شد و تا ساعت 10:00 شب بسته خواهد شد و شمارش آرا بلافاصله آغاز می شود و انتظار می رود نتیجه اوایل روز جمعه اعلام شود.",
+      "summary_en": "Polling stations opened around 7:00 am and will close by 10:00 pm, with counting beginning immediately and a result expected early Friday.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/reform-uk-leader-nigel-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 12:07:42 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "07643ba2280b9ca375200b25863f1a0d",
+      "title": "آخرین بولتن اخبار | 13 آگوست 2026 - ظهر",
+      "title_fa": "آخرین بولتن اخبار | 13 آگوست 2026 - ظهر",
+      "title_en": "Latest news bulletin | August 13th, 2026 – Midday",
+      "summary": "در 13 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 13 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 13th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 12:00:16 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "f7c437c26272567e04f7611ad8b6eb96",
+      "title": "finfluencers TikTok: مشاوره مالی به سرمایه گذاران جوان چقدر قابل اعتماد است؟",
+      "title_fa": "finfluencers TikTok: مشاوره مالی به سرمایه گذاران جوان چقدر قابل اعتماد است؟",
+      "title_en": "TikTok's finfluencers: How reliable is the financial advice reaching young investors?",
+      "summary": "در میان دریایی از نکات مشکوک، جوانان به طور فزاینده ای برای دریافت اطلاعات مالی و مشاوره به رسانه های اجتماعی روی می آورند. کارشناسان می گویند چه علائم هشدار دهنده ای است که باید مراقب آنها بود؟",
+      "summary_fa": "در میان دریایی از نکات مشکوک، جوانان به طور فزاینده ای برای دریافت اطلاعات مالی و مشاوره به رسانه های اجتماعی روی می آورند. کارشناسان می گویند چه علائم هشدار دهنده ای است که باید مراقب آنها بود؟",
+      "summary_en": "Young people are increasingly turning to social media for financial information and advice, amid a sea of dubious tips. What do experts say are the warning signs to watch out for?",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/tiktoks-finfluencers-how-reliable-is-the-financial-advice-reaching-young-investors",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 11:47:56 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e10bdc76e956f76eeb333f420835ba4d",
       "title": "املاک تاریخی والبون مورد علاقه دوران دوران در حال حاضر برای فروش است",
       "title_fa": "املاک تاریخی والبون مورد علاقه دوران دوران در حال حاضر برای فروش است",
@@ -93199,6 +93346,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cd13f0e241061c149cadcedd8570afde",
+      "title": "کاربران Twitch خشمگین شدند زیرا آمازون از محتوای آنها برای آموزش هوش مصنوعی در ویژگی انصراف استفاده می کند",
+      "title_fa": "کاربران Twitch خشمگین شدند زیرا آمازون از محتوای آنها برای آموزش هوش مصنوعی در ویژگی انصراف استفاده می کند",
+      "title_en": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "summary": "کاربران پلتفرم پخش جریانی محبوب از اجازه دادن به آمازون برای استفاده از داده های آنها به صورت پیش فرض انتقاد کردند.",
+      "summary_fa": "کاربران پلتفرم پخش جریانی محبوب از اجازه دادن به آمازون برای استفاده از داده های آنها به صورت پیش فرض انتقاد کردند.",
+      "summary_en": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 10:39:02 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -93248,6 +93416,90 @@
       }
     },
     {
+      "id": "3c5f1cc69618882642c9eb42386be294",
+      "title": "پرواز درجه یک ارزان‌تر می‌شود - اگر برایتان مهم نیست که برخی از امتیازات را کنار بگذارید",
+      "title_fa": "پرواز درجه یک ارزان‌تر می‌شود - اگر برایتان مهم نیست که برخی از امتیازات را کنار بگذارید",
+      "title_en": "Flying first class is getting cheaper — if you don’t mind giving up some perks",
+      "summary": "زمانی که خطوط هوایی در حال حرکت برای ایجاد چندین ردیف از ممتازترین صندلی‌های خود هستند، «کلاس اول پایه» اینجا است.",
+      "summary_fa": "زمانی که خطوط هوایی در حال حرکت برای ایجاد چندین ردیف از ممتازترین صندلی‌های خود هستند، «کلاس اول پایه» اینجا است.",
+      "summary_en": "‘Basic first class’ is here as airlines move to create multiple tiers of their most premium seats.",
+      "link": "https://www.marketwatch.com/story/flying-first-class-is-getting-cheaper-if-you-dont-mind-giving-up-some-perks-76035942?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 10:30:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-18606331",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34104303f72775153dfed408e3e030f4",
+      "title": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
+      "title_fa": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
+      "title_en": "Cisco stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
+      "summary": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
+      "summary_fa": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
+      "summary_en": "Analysts say a focus on the artificial-intelligence ‘supercycle’ could pressure gross margins.",
+      "link": "https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 10:28:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02582341",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dcfecddb0920f5ff752239f9d6d79432",
+      "title": "راسل وستبروک پس از 18 فصل از NBA خداحافظی کرد",
+      "title_fa": "راسل وستبروک پس از 18 فصل از NBA خداحافظی کرد",
+      "title_en": "Russell Westbrook announces NBA retirement after 18 seasons",
+      "summary": "وستبروک، با ارزش ترین بازیکن سابق NBA، رکورد بیشترین تریپل دابل در تاریخ لیگ را در اختیار دارد.",
+      "summary_fa": "وستبروک، با ارزش ترین بازیکن سابق NBA، رکورد بیشترین تریپل دابل در تاریخ لیگ را در اختیار دارد.",
+      "summary_en": "Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 10:25:39 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bdc30d22fcb9813106df62a7e0f54297",
+      "title": "در موج گرما، اسکیزوفرنی بسیار کشنده تر از هر شرایط پزشکی دیگری است.",
+      "title_fa": "در موج گرما، اسکیزوفرنی بسیار کشنده تر از هر شرایط پزشکی دیگری است.",
+      "title_en": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
+      "summary": "افراد مبتلا به اسکیزوفرنی با طوفان کاملی از خطرات در یک سیاره گرمتر مواجه هستند.",
+      "summary_fa": "افراد مبتلا به اسکیزوفرنی با طوفان کاملی از خطرات در یک سیاره گرمتر مواجه هستند.",
+      "summary_en": "People with schizophrenia face a perfect storm of dangers on a hotter planet.",
+      "link": "https://www.wired.com/story/heat-wave-schizophrenia/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 10:16:33 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e75acf5e1630902d2aa566242b0ed9ea",
       "title": "تورم در اسپانیا در ماه ژوئیه به 3.6 درصد رسیده است که بدترین نرخ از می 2024 است",
       "title_fa": "تورم در اسپانیا در ماه ژوئیه به 3.6 درصد رسیده است که بدترین نرخ از می 2024 است",
@@ -93266,6 +93518,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afd9da9ce072e9c3611fd83080037b40",
+      "title": "تورم در اسپانیا در ماه جولای به 3.6 درصد رسید که بدترین نرخ طی دو سال گذشته است",
+      "title_fa": "تورم در اسپانیا در ماه جولای به 3.6 درصد رسید که بدترین نرخ طی دو سال گذشته است",
+      "title_en": "Inflation in Spain rises to 3.6% in July, the worst rate in over two years",
+      "summary": "اسپانیا پنج ماه متوالی تورم سالانه بالای 3 درصد را ثبت کرده است که ناشی از گرانی برق و سوخت است، زیرا بسته شدن جزئی تنگه هرمز ادامه دارد. در ماه ژوئیه، قیمت برق به 100 یورو در هر مگاوات ساعت رسید که بالاترین رقم سال به سال از سال 2022 است.",
+      "summary_fa": "اسپانیا پنج ماه متوالی تورم سالانه بالای 3 درصد را ثبت کرده است که ناشی از گرانی برق و سوخت است، زیرا بسته شدن جزئی تنگه هرمز ادامه دارد. در ماه ژوئیه، قیمت برق به 100 یورو در هر مگاوات ساعت رسید که بالاترین رقم سال به سال از سال 2022 است.",
+      "summary_en": "Spain has logged five months in a row of annual inflation above 3%, driven by costlier electricity and fuel as the partial closure of the Strait of Hormuz persists. In July, power prices top €100 per MWh, the highest year-on-year figure since 2022.",
+      "link": "http://www.euronews.com/business/2026/08/13/inflation-in-spain-rises-in-july-to-36-worst-rate-since-may-2024",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 10:16:11 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "533bb1cda4437d40296065c49f4f1a46",
+      "title": "\"او ناامید است\": مادر دوستم درگذشت. آیا او می تواند از بردن خانواده به خانه Medicaid جلوگیری کند؟",
+      "title_fa": "\"او ناامید است\": مادر دوستم درگذشت. آیا او می تواند از بردن خانواده به خانه Medicaid جلوگیری کند؟",
+      "title_en": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "summary": "او با شرکت وام مسکن تماس گرفته است، اما آنها در مورد وام مسکن بحث نمی کنند.",
+      "summary_fa": "او با شرکت وام مسکن تماس گرفته است، اما آنها در مورد وام مسکن بحث نمی کنند.",
+      "summary_en": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 10:15:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-66270404",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "15990943ace25d687f7097f507bc7e0d",
+      "title": "در تصاویر: بهترین خورشید گرفتگی اروپا از سال 1999 تاکنون",
+      "title_fa": "در تصاویر: بهترین خورشید گرفتگی اروپا از سال 1999 تاکنون",
+      "title_en": "In pictures: Europe's best solar eclipse since 1999",
+      "summary": "خورشید گرفتگی کامل در 12 اوت از ایسلند و اسپانیا عبور کرد، در حالی که بسیاری از اروپا شاهد یک خسوف جزئی بودند و مشاغل از تقاضا سود بردند.",
+      "summary_fa": "خورشید گرفتگی کامل در 12 اوت از ایسلند و اسپانیا عبور کرد، در حالی که بسیاری از اروپا شاهد یک خسوف جزئی بودند و مشاغل از تقاضا سود بردند.",
+      "summary_en": "A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.",
+      "link": "https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 10:06:50 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -93311,6 +93626,48 @@
       }
     },
     {
+      "id": "9430f736a7884acb1961c49679905879",
+      "title": "خورشید، دریا و بمب در اودسا",
+      "title_fa": "خورشید، دریا و بمب در اودسا",
+      "title_en": "Sun, sea and bombs in Odesa",
+      "summary": "در شهر بندری که به‌خاطر سواحل و تفریحات شبانه‌اش شناخته می‌شود، حملات روس‌ها راه نجات صادرات را خفه می‌کنند",
+      "summary_fa": "در شهر بندری که به‌خاطر سواحل و تفریحات شبانه‌اش شناخته می‌شود، حملات روس‌ها راه نجات صادرات را خفه می‌کنند",
+      "summary_en": "In the port city known for its beaches and nightlife, Russian attacks are choking off an export lifeline",
+      "link": "https://www.ft.com/content/d0464e03-c3fd-4e8b-9ffa-573762e97e16?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 10:00:04 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff71c04c4-dd9a-424b-9f6d-dd9e486c5512.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "69bbfa69c4e773a919b73a8b76f797fb",
+      "title": "5 بهترین تبلت اندرویدی در سال 2026: سامسونگ، TCL، آمازون و موارد دیگر",
+      "title_fa": "5 بهترین تبلت اندرویدی در سال 2026: سامسونگ، TCL، آمازون و موارد دیگر",
+      "title_en": "5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More",
+      "summary": "چه به یک مرکز سرگرمی قابل حمل و در اطراف خانه نیاز داشته باشید یا یک لپ تاپ کامل جایگزین، اینها بهترین تبلت های اندرویدی هستند.",
+      "summary_fa": "چه به یک مرکز سرگرمی قابل حمل و در اطراف خانه نیاز داشته باشید یا یک لپ تاپ کامل جایگزین، اینها بهترین تبلت های اندرویدی هستند.",
+      "summary_en": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
+      "link": "https://www.wired.com/story/the-best-android-tablets/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 10:00:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "35ce601db986633d2c33dc252a2a1862",
       "title": "افزایش ویروس نیل غربی در یونان با مرکز زمین لرزه آتیکا",
       "title_fa": "افزایش ویروس نیل غربی در یونان با مرکز زمین لرزه آتیکا",
@@ -93325,6 +93682,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5a4ef5248a0828f4c90a0a735a7b5a1d",
+      "title": "چیزی که باعث این تغییر سریع می شود زیرا بازار نزولی کره جنوبی دوباره به یک گاو نر تبدیل می شود",
+      "title_fa": "چیزی که باعث این تغییر سریع می شود زیرا بازار نزولی کره جنوبی دوباره به یک گاو نر تبدیل می شود",
+      "title_en": "What is driving the rapid shift as South Korea’s bear market turns back into a bull",
+      "summary": "بهبود در سهام کره‌ای مدیون عوامل فنی است، زیرا موقعیت‌های خرید خرده‌فروشی منحل شد، اما از سوی دیگر از عوامل بنیادی حمایت می‌شود - یعنی رشد پررونق درآمد.",
+      "summary_fa": "بهبود در سهام کره‌ای مدیون عوامل فنی است، زیرا موقعیت‌های خرید خرده‌فروشی منحل شد، اما از سوی دیگر از عوامل بنیادی حمایت می‌شود - یعنی رشد پررونق درآمد.",
+      "summary_en": "The recovery in Korean equities owes much to technical factors as retail long positions were liquidated, but it’s also backed by fundamentals – namely booming earnings growth",
+      "link": "https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 09:57:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-09678699",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -93353,6 +93731,69 @@
       }
     },
     {
+      "id": "d362e2820ebb45a8fde7773a40d28c3c",
+      "title": "\"Lauf\" و \"minceur\": کلماتی که باعث شد یک نوجوان 13 ساله اهل ملبورن قهرمان جهان شود.",
+      "title_fa": "\"Lauf\" و \"minceur\": کلماتی که باعث شد یک نوجوان 13 ساله اهل ملبورن قهرمان جهان شود.",
+      "title_en": "‘Lauf’ and ‘minceur’: the words that made a 13-year-old from Melbourne a world Scrabble champion",
+      "summary": "دینت فرناندو – که در ماه فوریه با خانواده‌اش به استرالیا نقل مکان کرد – می‌گوید فقط باید کلمه را بیابد و بازی کند – این همه است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید زبان اول دینت فرناندو انگلیسی نیست و او تنها شش ماه پیش به ملبورن آمد – اما قبلاً ادعا می‌کرد که باید یک عنوان بین‌المللی اسکربل را با یک استرالیایی به دست آورد. مسابقات اسکربل قهرمانی جوانان جهان در سال 2026 در نایروبی پایتخت کنیا در آخر هفته برگزار شد و سومین نماینده استرالیا در تاریخ مسابقات شد که این جایزه را دریافت می کند. ادامه مطلب...",
+      "summary_fa": "دینت فرناندو – که در ماه فوریه با خانواده‌اش به استرالیا نقل مکان کرد – می‌گوید فقط باید کلمه را بیابد و بازی کند – این همه است. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید زبان اول دینت فرناندو انگلیسی نیست و او تنها شش ماه پیش به ملبورن آمد – اما قبلاً ادعا می‌کرد که باید یک عنوان بین‌المللی اسکربل را با یک استرالیایی به دست آورد. مسابقات اسکربل قهرمانی جوانان جهان در سال 2026 در نایروبی پایتخت کنیا در آخر هفته برگزار شد و سومین نماینده استرالیا در تاریخ مسابقات شد که این جایزه را دریافت می کند. ادامه مطلب...",
+      "summary_en": "Dineth Fernando – who moved to Australia with his family in February – says he just needed to ‘find the word and play – that’s all’Get our breaking news email, free app or daily news podcastDineth Fernando’s first language isn’t English and he only arrived in Melbourne six months ago – but already he’s claimed an international Scrabble title with an Australian flag draped around his shoulders.The 13-year-old won the 2026 world youth Scrabble championships in the Kenyan capital of Nairobi over the weekend, becoming the third Australian representative in the competition’s history to take out the prize. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/13/lauf-and-minceur-the-words-that-made-a-13-year-old-from-melbourne-a-world-scrabble-champion",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 09:55:09 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5099a97ada7bd45026287931bd471577fd54831d/1660_351_1294_1036/master/1294.jpg?width=140&quality=85&auto=format&fit=max&s=7d6d5e7c50ddac388603dc3b128910e2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3bbfd1533705d34f63038eff96a0c980",
+      "title": "بریتانیا از توقیف نفتکش ناوگان سایه پس از تهدید پوتین دفاع می کند",
+      "title_fa": "بریتانیا از توقیف نفتکش ناوگان سایه پس از تهدید پوتین دفاع می کند",
+      "title_en": "UK defends seizing shadow fleet tanker after Putin threat",
+      "summary": "دولت بریتانیا می‌گوید که طبق قانون «کشتی‌های ناوگان سایه‌بان را مختل و بازدارنده می‌کند».",
+      "summary_fa": "دولت بریتانیا می‌گوید که طبق قانون «کشتی‌های ناوگان سایه‌بان را مختل و بازدارنده می‌کند».",
+      "summary_en": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 09:52:30 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "ec3b2e634544200d8efb200ee4a8cd72",
+      "title": "زندگی و از دست دادن به عنوان اولین پاسخ دهنده در جنوب لبنان",
+      "title_fa": "زندگی و از دست دادن به عنوان اولین پاسخ دهنده در جنوب لبنان",
+      "title_en": "Life and loss as a first responder in southern Lebanon",
+      "summary": "فیلم جدید الجزیره با رئیس دفاع مدنی در صور، بزرگترین شهر جنوب لبنان صحبت می کند.",
+      "summary_fa": "فیلم جدید الجزیره با رئیس دفاع مدنی در صور، بزرگترین شهر جنوب لبنان صحبت می کند.",
+      "summary_en": "A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon's largest city.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:51:30 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a4430940d762febe11dbbbc1449ef1a2",
       "title": "تایم لپس خورشید گرفتگی جزئی از رصدخانه سلطنتی گرینویچ مشاهده شد",
       "title_fa": "تایم لپس خورشید گرفتگی جزئی از رصدخانه سلطنتی گرینویچ مشاهده شد",
@@ -93371,6 +93812,132 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "لندن"
+      }
+    },
+    {
+      "id": "3f9902646b79b24e89fdfc4773ac6d07",
+      "title": "پسااستعماری در آسیای جنوب شرقی چگونه است؟",
+      "title_fa": "پسااستعماری در آسیای جنوب شرقی چگونه است؟",
+      "title_en": "What postcolonialism looks like in Southeast Asia",
+      "summary": "جمال الشایال از AJ هیئتی از دانشگاهیان و رهبران چهار کشور را تعدیل می کند",
+      "summary_fa": "جمال الشایال از AJ هیئتی از دانشگاهیان و رهبران چهار کشور را تعدیل می کند",
+      "summary_en": "AJ's Jamal Elshayyal moderates a panel of academics and leaders from four countries",
+      "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:46:22 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2dcb69c28910712895d398afea78faf4",
+      "title": "فرودگاه کره جنوبی در بحبوحه جنگ ایران شلوغ ترین فرودگاه جهان برای ترافیک جهانی شده است",
+      "title_fa": "فرودگاه کره جنوبی در بحبوحه جنگ ایران شلوغ ترین فرودگاه جهان برای ترافیک جهانی شده است",
+      "title_en": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+      "summary": "فرودگاه اینچئون در نیمه اول سال 2026، 38.39 میلیون مسافر بین‌المللی داشته است، زیرا ترافیک از قطب‌های خاورمیانه منحرف شده است. فرودگاه اینچئون کره جنوبی به شلوغ‌ترین فرودگاه جهان برای مسافران بین‌المللی تبدیل شده است که بخشی از آن به دلیل اختلال در خاورمیانه ناشی از جنگ ایران است. فرودگاه، دروازه‌های اصلی کره جنوبی، در حدود 483 کیلومتری غربی 38.39 میلیون مسافر بین المللی در نیمه اول سال 2026، بر اساس ارقام اولیه گردآوری شده توسط شورای بین المللی فرودگاه ها (ACI)، سازمان تجارت جهانی فرودگاه ها. ادامه مطلب...",
+      "summary_fa": "فرودگاه اینچئون در نیمه اول سال 2026، 38.39 میلیون مسافر بین‌المللی داشته است، زیرا ترافیک از قطب‌های خاورمیانه منحرف شده است. فرودگاه اینچئون کره جنوبی به شلوغ‌ترین فرودگاه جهان برای مسافران بین‌المللی تبدیل شده است که بخشی از آن به دلیل اختلال در خاورمیانه ناشی از جنگ ایران است. فرودگاه، دروازه‌های اصلی کره جنوبی، در حدود 483 کیلومتری غربی 38.39 میلیون مسافر بین المللی در نیمه اول سال 2026، بر اساس ارقام اولیه گردآوری شده توسط شورای بین المللی فرودگاه ها (ACI)، سازمان تجارت جهانی فرودگاه ها. ادامه مطلب...",
+      "summary_en": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 09:45:56 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/31460cef73bb388b13c5b1eaa9fd2a4f2c50c104/528_0_4672_3739/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=8fdefafbe506ac679ab4f3a2d5e23230",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b0155365df2361e50a8058f1f0fd85f6",
+      "title": "اعتراض ژاپن در حالی که پوتین روسیه از جزایر مورد مناقشه کوریل بازدید می کند",
+      "title_fa": "اعتراض ژاپن در حالی که پوتین روسیه از جزایر مورد مناقشه کوریل بازدید می کند",
+      "title_en": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
+      "summary": "نخست‌وزیر ژاپن می‌گوید بازدید پوتین از زنجیره جزایر اقیانوس آرام که در سال 1945 توسط اتحاد جماهیر شوروی تصرف شد، \"غیرقابل قبول\" است.",
+      "summary_fa": "نخست‌وزیر ژاپن می‌گوید بازدید پوتین از زنجیره جزایر اقیانوس آرام که در سال 1945 توسط اتحاد جماهیر شوروی تصرف شد، \"غیرقابل قبول\" است.",
+      "summary_en": "Japanese PM says Putin's visit to the Pacific island chain, seized by the Soviet Union in 1945, is 'unacceptable'.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:43:38 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "e5ce718585d30fd67345da73627a4a35",
+      "title": "یک کشتی کانتینری با پرچم سنگاپور به ساحل رودخانه در هند سقوط کرد",
+      "title_fa": "یک کشتی کانتینری با پرچم سنگاپور به ساحل رودخانه در هند سقوط کرد",
+      "title_en": "Singapore-flagged container ship crashes into riverbank in India",
+      "summary": "یک کشتی کانتینری با پرچم سنگاپور به ساحل رودخانه هوگلی در شرق هند سقوط کرد.",
+      "summary_fa": "یک کشتی کانتینری با پرچم سنگاپور به ساحل رودخانه هوگلی در شرق هند سقوط کرد.",
+      "summary_en": "A Singapore-flagged container ship crashed into a bank of the Hooghly River in eastern India.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:42:18 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3649132a0af735e44e87df6ff6ff0034",
+      "title": "چین چگونه زو رونگجی، نخست وزیری که نظرش را بیان کرد، به یاد می آورد",
+      "title_fa": "چین چگونه زو رونگجی، نخست وزیری که نظرش را بیان کرد، به یاد می آورد",
+      "title_en": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+      "summary": "ادای احترام به نخست‌وزیر سابق، سبک روحیه‌اش و تلاش‌های او برای ادغام چین در تجارت جهانی، برخلاف سخت‌گیری دوران شی، را یادآور شد.",
+      "summary_fa": "ادای احترام به نخست‌وزیر سابق، سبک روحیه‌اش و تلاش‌های او برای ادغام چین در تجارت جهانی، برخلاف سخت‌گیری دوران شی، را یادآور شد.",
+      "summary_en": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 09:40:32 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-china-premier-01-hjtf/13int-china-premier-01-hjtf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "f8411ebe1ee87084d07ef986960b69df",
+      "title": "10 بهترین تشک خنک کننده برای افراد گرم خواب (2026)",
+      "title_fa": "10 بهترین تشک خنک کننده برای افراد گرم خواب (2026)",
+      "title_en": "The 10 Best Cooling Mattresses for Hot Sleepers (2026)",
+      "summary": "هیچ چیز سریعتر از گرم شدن بیش از حد یک خواب عالی را خراب نمی کند. ما روی تعداد بی‌شماری تشک خنک‌کننده خوابیدیم تا بفهمیم کدام تشک گرما را بهتر از بین می‌برد.",
+      "summary_fa": "هیچ چیز سریعتر از گرم شدن بیش از حد یک خواب عالی را خراب نمی کند. ما روی تعداد بی‌شماری تشک خنک‌کننده خوابیدیم تا بفهمیم کدام تشک گرما را بهتر از بین می‌برد.",
+      "summary_en": "Nothing ruins a great night of sleep faster than getting too hot. We slept on a myriad of cooling mattresses to find which ones drew the heat away best.",
+      "link": "https://www.wired.com/gallery/best-cooling-mattress/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 09:35:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -93416,6 +93983,27 @@
       }
     },
     {
+      "id": "efb158a5e5d9e0663c7d9ac28e72d9a1",
+      "title": "نیروهای یمنی می گویند که در میان تشدید تنش ها، حمله حوثی ها در تعز دفع شد",
+      "title_fa": "نیروهای یمنی می گویند که در میان تشدید تنش ها، حمله حوثی ها در تعز دفع شد",
+      "title_en": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+      "summary": "پس از اینکه دولت یمن اعلام کرد در حال حمله به مواضع حوثی ها است، تشدید نظامی برای روزها ادامه دارد.",
+      "summary_fa": "پس از اینکه دولت یمن اعلام کرد در حال حمله به مواضع حوثی ها است، تشدید نظامی برای روزها ادامه دارد.",
+      "summary_en": "Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:30:24 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b557797da0a2fd052a8f8d260fd475cc",
       "title": "ظاهراً کارگران CBP از پایگاه‌های داده دولتی برای جاسوسی از مدیران ارشد، خرده‌گیرها و همکاران استفاده می‌کنند.",
       "title_fa": "ظاهراً کارگران CBP از پایگاه‌های داده دولتی برای جاسوسی از مدیران ارشد، خرده‌گیرها و همکاران استفاده می‌کنند.",
@@ -93430,6 +94018,90 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "43fe935c1edec3e30cc02efafdf9d077",
+      "title": "لالیگا: آنچه باید قبل از فصل جدید فوتبال 2026-27 بدانید",
+      "title_fa": "لالیگا: آنچه باید قبل از فصل جدید فوتبال 2026-27 بدانید",
+      "title_en": "La Liga: What to know ahead of new 2026-27 football season",
+      "summary": "پیش بینی ها، اخبار و آخرین نقل و انتقالات در آستانه فصل جدید لالیگا، با تجدید رقابت بارسلونا و رئال مادرید برای عنوان قهرمانی.",
+      "summary_fa": "پیش بینی ها، اخبار و آخرین نقل و انتقالات در آستانه فصل جدید لالیگا، با تجدید رقابت بارسلونا و رئال مادرید برای عنوان قهرمانی.",
+      "summary_en": "Predictions, news and transfer latest ahead of the new La Liga season, as Barcelona and Real Madrid renew title rivalry.",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:29:46 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "50d6f72a125e536ea2fe8e6bcb2fa13c",
+      "title": "اینفانتینو فیفا با حمایت شش فدراسیون عربی از جمله قطر و مراکش",
+      "title_fa": "اینفانتینو فیفا با حمایت شش فدراسیون عربی از جمله قطر و مراکش",
+      "title_en": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+      "summary": "این مقام ارشد فوتبال با حمایت بیشتر از ریاست‌جمهوری خود پس از رد شدن پیشنهاد سرمایه‌گذاری خصوصی در بازی، تقویت شد.",
+      "summary_fa": "این مقام ارشد فوتبال با حمایت بیشتر از ریاست‌جمهوری خود پس از رد شدن پیشنهاد سرمایه‌گذاری خصوصی در بازی، تقویت شد.",
+      "summary_en": "Football's top official boosted by further support for his presidency after proposed private investment in game nixed.",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:18:44 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1e6cfdeb3cbb656a5b39d071af52f769",
+      "title": "فعالان طرفدار فلسطین رنگ قرمز را روی شرکت دفاعی دانمارکی می‌مالند",
+      "title_fa": "فعالان طرفدار فلسطین رنگ قرمز را روی شرکت دفاعی دانمارکی می‌مالند",
+      "title_en": "Pro-Palestine activists smear red paint on Danish defence company",
+      "summary": "فعالان طرفدار فلسطین رنگ قرمز را روی شرکت دفاعی دانمارکی می‌مالند",
+      "summary_fa": "فعالان طرفدار فلسطین رنگ قرمز را روی شرکت دفاعی دانمارکی می‌مالند",
+      "summary_en": "Pro-Palestine activists smear red paint on Danish defence company",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 09:18:11 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eea73b2d04b8016081817e16de588f23",
+      "title": "مدیر عامل شرکت به CNBC گفت: بزرگترین جواهرساز جهان با وجود کاهش قیمت نقره روی پلاتین شرط بندی می کند.",
+      "title_fa": "مدیر عامل شرکت به CNBC گفت: بزرگترین جواهرساز جهان با وجود کاهش قیمت نقره روی پلاتین شرط بندی می کند.",
+      "title_en": "World’s largest jeweler bets on platinum despite falling silver prices, CEO tells CNBC",
+      "summary": "پاندورا در حال پیشروی با جواهرات با روکش پلاتین است زیرا به دنبال کاهش قرار گرفتن در معرض قیمت های نوسان نقره علیرغم کاهش اخیر این فلز است.",
+      "summary_fa": "پاندورا در حال پیشروی با جواهرات با روکش پلاتین است زیرا به دنبال کاهش قرار گرفتن در معرض قیمت های نوسان نقره علیرغم کاهش اخیر این فلز است.",
+      "summary_en": "Pandora is moving ahead with platinum-plated jewelry as it seeks to reduce its exposure to volatile silver prices despite the metal's recent decline.",
+      "link": "https://www.cnbc.com/2026/08/13/pandora-platinum-plated-jewelry-silver-prices.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 09:17:52 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -93575,6 +94247,27 @@
       "published_at": "Thu, 13 Aug 2026 09:00:43 GMT",
       "date_iso": "2026-08-13",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea8a8926f8298f296803211e33e01925",
+      "title": "نگاهی به ساخت 720 میلیارد دلاری SK Hynix با هوش مصنوعی که کره جنوبی را در اختیار گرفته است.",
+      "title_fa": "نگاهی به ساخت 720 میلیارد دلاری SK Hynix با هوش مصنوعی که کره جنوبی را در اختیار گرفته است.",
+      "title_en": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+      "summary": "SK Hynix، سازنده پیشرو حافظه با پهنای باند بالا، 720 میلیارد دلار را به کارخانه های حافظه اختصاص می دهد تا تقاضای هوش مصنوعی را برآورده کند. ما یک نگاه اول منحصر به فرد داشتیم.",
+      "summary_fa": "SK Hynix، سازنده پیشرو حافظه با پهنای باند بالا، 720 میلیارد دلار را به کارخانه های حافظه اختصاص می دهد تا تقاضای هوش مصنوعی را برآورده کند. ما یک نگاه اول منحصر به فرد داشتیم.",
+      "summary_en": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
+      "link": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 09:00:01 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
@@ -93744,6 +94437,48 @@
       "date_iso": "2026-08-13",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "488904bfda0bd8f8520449e433e50d60",
+      "title": "قیمت نفت کاهش می یابد زیرا سرمایه گذاران کاهش تقاضا را در برابر تنش های خاورمیانه ارزیابی می کنند",
+      "title_fa": "قیمت نفت کاهش می یابد زیرا سرمایه گذاران کاهش تقاضا را در برابر تنش های خاورمیانه ارزیابی می کنند",
+      "title_en": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+      "summary": "قیمت‌های آتی نفت در اوایل صبح چهارشنبه پس از افزایش قیمت‌ها در شبانه‌روز عقب‌نشینی کردند.",
+      "summary_fa": "قیمت‌های آتی نفت در اوایل صبح چهارشنبه پس از افزایش قیمت‌ها در شبانه‌روز عقب‌نشینی کردند.",
+      "summary_en": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+      "link": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 08:43:23 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "1b4e9d41480c3ed8ec89a53b91b70148",
+      "title": "در حالی که وال استریت منتظر داده های تورم عمده فروشی است، بازدهی خزانه داری کاهش می یابد",
+      "title_fa": "در حالی که وال استریت منتظر داده های تورم عمده فروشی است، بازدهی خزانه داری کاهش می یابد",
+      "title_en": "Treasury yields dip as Wall Street awaits wholesale inflation data",
+      "summary": "بازده اسکناس 10 ساله خزانه داری ایالات متحده - معیار کلیدی برای استقراض دولت ایالات متحده - بیش از یک واحد کاهش یافت و به 4.674 درصد رسید.",
+      "summary_fa": "بازده اسکناس 10 ساله خزانه داری ایالات متحده - معیار کلیدی برای استقراض دولت ایالات متحده - بیش از یک واحد کاهش یافت و به 4.674 درصد رسید.",
+      "summary_en": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell over one basis point to 4.674%.",
+      "link": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 08:40:17 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -95639,6 +96374,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "33dc6a35c18052e91e7f4b849a1a746c",
+      "title": "هزینه کل آموزش خصوصی یک کودک در بریتانیا به 216000 پوند افزایش می یابد",
+      "title_fa": "هزینه کل آموزش خصوصی یک کودک در بریتانیا به 216000 پوند افزایش می یابد",
+      "title_en": "Total cost of privately educating a child in the UK rises to £216,000",
+      "summary": "شهریه برای دانش آموزان شبانه روزی کمی سریعتر از دانش آموزان روزانه افزایش یافت و به حدود 440000 پوند رسید.",
+      "summary_fa": "شهریه برای دانش آموزان شبانه روزی کمی سریعتر از دانش آموزان روزانه افزایش یافت و به حدود 440000 پوند رسید.",
+      "summary_en": "Fees for boarding pupils rose slightly faster than day pupils to nearly £440,000",
+      "link": "https://www.ft.com/content/091b214d-231b-414a-8f3e-9ef9fc021926?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 04:00:23 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b5f93f1-b0df-4b0e-a256-1752209c3ee3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
