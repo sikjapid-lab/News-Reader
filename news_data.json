@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 19:28:29",
-  "total_count": 9930,
+  "last_update": "2026-08-13 20:07:11",
+  "total_count": 9946,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93206,6 +93206,27 @@
       }
     },
     {
+      "id": "230f8740921892abe4c6de9e75a3c64e",
+      "title": "ویتنام بیش از یک تن عاج مخفی را کشف کرد که به طور غیرقانونی از آفریقا حمل شده بود",
+      "title_fa": "ویتنام بیش از یک تن عاج مخفی را کشف کرد که به طور غیرقانونی از آفریقا حمل شده بود",
+      "title_en": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
+      "summary": "اکثر تجارت عاج فیل ها و سایر حیوانات در معرض خطر توسط توافق نامه بین المللی تحت CITES ممنوع است، معاهده ای که تقریباً همه کشورهای عضو سازمان ملل متحد آن را امضا می کنند.",
+      "summary_fa": "اکثر تجارت عاج فیل ها و سایر حیوانات در معرض خطر توسط توافق نامه بین المللی تحت CITES ممنوع است، معاهده ای که تقریباً همه کشورهای عضو سازمان ملل متحد آن را امضا می کنند.",
+      "summary_en": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
+      "link": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 21:59:30 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a27b66895ddd8d529afb67eb8f39f8e8",
       "title": "شیوع ابولا به ششمین استان جمهوری دموکراتیک کنگو و نگرانی از سرایت آن به سودان جنوبی افزایش یافته است",
       "title_fa": "شیوع ابولا به ششمین استان جمهوری دموکراتیک کنگو و نگرانی از سرایت آن به سودان جنوبی افزایش یافته است",
@@ -93248,6 +93269,237 @@
       }
     },
     {
+      "id": "19567b1ec985bd0d4250483f9c7e5d6d",
+      "title": "سهام روز کاری بهترین روز در 10 سال گذشته را در گزارش تصاحب سیلوور لیک ثبت کرد",
+      "title_fa": "سهام روز کاری بهترین روز در 10 سال گذشته را در گزارش تصاحب سیلوور لیک ثبت کرد",
+      "title_en": "Workday shares post best day in 10 years on Silver Lake takeover report",
+      "summary": "سرمایه گذاران روز کاری نسبت به چشم انداز این که هوش مصنوعی مدل کسب و کار آن را مختل کند، به شدت نگران بوده اند",
+      "summary_fa": "سرمایه گذاران روز کاری نسبت به چشم انداز این که هوش مصنوعی مدل کسب و کار آن را مختل کند، به شدت نگران بوده اند",
+      "summary_en": "Workday investors have been on edge over the prospect of AI disrupting its business model",
+      "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 20:05:56 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e325ddac465da400b4a73736081e403",
+      "title": "پس از اینکه آمریکا اعلام کرد صادرات نفت خام از طریق تنگه هرمز نزدیک به 9 میلیون بشکه در روز است، قیمت نفت کاهش یافت.",
+      "title_fa": "پس از اینکه آمریکا اعلام کرد صادرات نفت خام از طریق تنگه هرمز نزدیک به 9 میلیون بشکه در روز است، قیمت نفت کاهش یافت.",
+      "title_en": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day",
+      "summary": "قیمت‌های آتی نفت در اوایل صبح چهارشنبه پس از افزایش قیمت‌ها در شبانه‌روز عقب‌نشینی کردند.",
+      "summary_fa": "قیمت‌های آتی نفت در اوایل صبح چهارشنبه پس از افزایش قیمت‌ها در شبانه‌روز عقب‌نشینی کردند.",
+      "summary_en": "Oil futures retreated early Wednesday morning after prices rose overnight.",
+      "link": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 20:05:16 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "db83ace2b5f2542033378052160ea00d",
+      "title": "رئیس جمهور جدید از ترامپ خواست تا کمپین مرگبار مبارزه با مواد مخدر را به کلمبیا بیاورد",
+      "title_fa": "رئیس جمهور جدید از ترامپ خواست تا کمپین مرگبار مبارزه با مواد مخدر را به کلمبیا بیاورد",
+      "title_en": "New president asks Trump to bring deadly antidrug campaign to Colombia",
+      "summary": "این کشور آمریکای جنوبی بزرگترین تولید کننده کوکائین در جهان است.",
+      "summary_fa": "این کشور آمریکای جنوبی بزرگترین تولید کننده کوکائین در جهان است.",
+      "summary_en": "The South American nation is the world’s largest producer of cocaine.",
+      "link": "https://www.washingtonpost.com/world/2026/08/14/new-president-asks-trump-bring-deadly-antidrug-campaign-colombia/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 20:00:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72e55e2c1a41c5f1685f8f4ea87f0408",
+      "title": "دادگاه تجارت بسته شدن شکاف «دمینی» توسط ترامپ را تأیید کرد",
+      "title_fa": "دادگاه تجارت بسته شدن شکاف «دمینی» توسط ترامپ را تأیید کرد",
+      "title_en": "Trade court upholds Trump's closure of 'de minimis' loophole",
+      "summary": "پرزیدنت دونالد ترامپ در یک پست اجتماعی حقیقت، ادامه تعطیلی معافیت مینیممی را به عنوان یک \"پیروزی بزرگ\" جشن گرفت.",
+      "summary_fa": "پرزیدنت دونالد ترامپ در یک پست اجتماعی حقیقت، ادامه تعطیلی معافیت مینیممی را به عنوان یک \"پیروزی بزرگ\" جشن گرفت.",
+      "summary_en": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
+      "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 19:56:06 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "23a8b9f20d5046bdd0b47bec18165bac",
+      "title": "متوسط ​​وام خودرو در حال حاضر 785 دلار در ماه است - و تقریباً 6 سال طول می کشد",
+      "title_fa": "متوسط ​​وام خودرو در حال حاضر 785 دلار در ماه است - و تقریباً 6 سال طول می کشد",
+      "title_en": "The average car loan is now $785 a month — and lasts for almost 6 years",
+      "summary": "آمریکایی ها در سه ماهه گذشته رکورد ۲۱۱ میلیارد دلاری را برای پرداخت هزینه خودروهای خود وام گرفتند.",
+      "summary_fa": "آمریکایی ها در سه ماهه گذشته رکورد ۲۱۱ میلیارد دلاری را برای پرداخت هزینه خودروهای خود وام گرفتند.",
+      "summary_en": "Americans borrowed a record $211 billion to pay for their cars last quarter.",
+      "link": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 19:54:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-85630920",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e5ec79ffdfc6893a0a90c2813552f368",
+      "title": "ثروتمندان آمریکایی با افزایش ۲۵ درصدی قیمت بلیط هواپیما نسبت به سال گذشته، اقتصاد سفر را تقویت می کنند",
+      "title_fa": "ثروتمندان آمریکایی با افزایش ۲۵ درصدی قیمت بلیط هواپیما نسبت به سال گذشته، اقتصاد سفر را تقویت می کنند",
+      "title_en": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+      "summary": "هزینه بلیط هواپیما طی سال گذشته افزایش یافته است، اما تقاضای مصرف کنندگان در این فصل سفر تابستانی هنوز کاهش نیافته است.",
+      "summary_fa": "هزینه بلیط هواپیما طی سال گذشته افزایش یافته است، اما تقاضای مصرف کنندگان در این فصل سفر تابستانی هنوز کاهش نیافته است.",
+      "summary_en": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
+      "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 19:51:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-81880851",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8f8b9235ab58f5b7bebbbda59b632cd9",
+      "title": "شرکت های امنیتی خصوصی به زودی اجازه هک مجرمان سایبری خارج از کشور را خواهند داشت",
+      "title_fa": "شرکت های امنیتی خصوصی به زودی اجازه هک مجرمان سایبری خارج از کشور را خواهند داشت",
+      "title_en": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "یادداشت ترامپ اولین بار است که دولت به بخش خصوصی اجازه انجام حملات سایبری را می دهد.",
+      "summary_fa": "یادداشت ترامپ اولین بار است که دولت به بخش خصوصی اجازه انجام حملات سایبری را می دهد.",
+      "summary_en": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 19:38:58 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e24778f61254472cadf343412d1207c",
+      "title": "شهرک نشینان اسرائیلی پس از اخراج، محاصره کرانه باختری را از سر گرفتند",
+      "title_fa": "شهرک نشینان اسرائیلی پس از اخراج، محاصره کرانه باختری را از سر گرفتند",
+      "title_en": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "summary": "ناکامی ارتش در دور نگه داشتن افراط گرایان از دو خانواده فلسطینی محبوس در خانه هایشان در کرانه باختری، آشوب حاکم بر سرزمین های اشغالی توسط اسرائیل را آشکار کرد.",
+      "summary_fa": "ناکامی ارتش در دور نگه داشتن افراط گرایان از دو خانواده فلسطینی محبوس در خانه هایشان در کرانه باختری، آشوب حاکم بر سرزمین های اشغالی توسط اسرائیل را آشکار کرد.",
+      "summary_en": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
+      "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 19:38:40 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "a874ce60f1d436dda8d61b1494bfa347",
+      "title": "نیروهای رژیم صهیونیستی به خانواده ها دستور دادند تا خانه های خود را در قصره تخلیه کنند",
+      "title_fa": "نیروهای رژیم صهیونیستی به خانواده ها دستور دادند تا خانه های خود را در قصره تخلیه کنند",
+      "title_en": "Israeli forces order families to evacuate homes in Qusra",
+      "summary": "نیروهای رژیم صهیونیستی به خانواده‌های فلسطینی در کرانه باختری اشغالی دستور دادند خانه‌های خود را در قصره تخلیه کنند.",
+      "summary_fa": "نیروهای رژیم صهیونیستی به خانواده‌های فلسطینی در کرانه باختری اشغالی دستور دادند خانه‌های خود را در قصره تخلیه کنند.",
+      "summary_en": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 19:36:15 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "0fadf419443227d871ad2bd40d250084",
+      "title": "تیم کوک اپل به همراه هوارد لوتنیک در افتتاح کارخانه تولیدی هیوستون",
+      "title_fa": "تیم کوک اپل به همراه هوارد لوتنیک در افتتاح کارخانه تولیدی هیوستون",
+      "title_en": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+      "summary": "در حالی که تیم کوک قرار است از سمت مدیرعاملی اپل کناره گیری کند، نگاهی اجمالی به آنچه ممکن است به عنوان رئیس هیئت مدیره انجام دهد را ارائه می دهد.",
+      "summary_fa": "در حالی که تیم کوک قرار است از سمت مدیرعاملی اپل کناره گیری کند، نگاهی اجمالی به آنچه ممکن است به عنوان رئیس هیئت مدیره انجام دهد را ارائه می دهد.",
+      "summary_en": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
+      "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 19:33:11 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a5da9127e52f48944806492dbeb581f3",
+      "title": "ال نینو با شروع اولیه",
+      "title_fa": "ال نینو با شروع اولیه",
+      "title_en": "Early-Onset El Niño",
+      "summary": "به نظر می رسد اختلال آب و هوای جهانی تلفات می زند، و اوج آن هنوز ممکن است ماه ها باقی بماند.",
+      "summary_fa": "به نظر می رسد اختلال آب و هوای جهانی تلفات می زند، و اوج آن هنوز ممکن است ماه ها باقی بماند.",
+      "summary_en": "The global weather disrupter appears to be taking a toll, and its peak could still be months away.",
+      "link": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 19:28:24 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "93c4d5541aae8363168e92158a078b99",
       "title": "روز کاری 18 درصد افزایش یافت، معاملات چندین بار به دلیل گزارش تصاحب سیلو لیک متوقف شد",
       "title_fa": "روز کاری 18 درصد افزایش یافت، معاملات چندین بار به دلیل گزارش تصاحب سیلو لیک متوقف شد",
@@ -93258,6 +93510,69 @@
       "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
       "source": "CNBC",
       "published_at": "Thu, 13 Aug 2026 19:24:15 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "14601e8495e254a2dc6847293ea8b589",
+      "title": "زلزله کلمبیا: بیمارستان ها برای نجات جان انسان ها در میان خسارات گسترده سازگار می شوند",
+      "title_fa": "زلزله کلمبیا: بیمارستان ها برای نجات جان انسان ها در میان خسارات گسترده سازگار می شوند",
+      "title_en": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
+      "summary": "زلزله به بیمارستان‌های کالی آسیب می‌زند و کارکنان پزشکی را مجبور می‌کند تا بیماران بحرانی را در اولویت قرار دهند، زیرا تیم‌های امدادی بی‌وقفه کار می‌کنند.",
+      "summary_fa": "زلزله به بیمارستان‌های کالی آسیب می‌زند و کارکنان پزشکی را مجبور می‌کند تا بیماران بحرانی را در اولویت قرار دهند، زیرا تیم‌های امدادی بی‌وقفه کار می‌کنند.",
+      "summary_en": "Earthquake damages Cali's hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 19:23:35 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5088bface36fcd1d8374d46355c64ca5",
+      "title": "کرامر: چگونه کلمات حکمت آمیز ژن هکمن به من کمک می کند تا با اشتباهات سرمایه گذاری صلح کنم",
+      "title_fa": "کرامر: چگونه کلمات حکمت آمیز ژن هکمن به من کمک می کند تا با اشتباهات سرمایه گذاری صلح کنم",
+      "title_en": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
+      "summary": "این گزیده ای از نشست ماهانه اوت باشگاه سرمایه گذاری CNBC است که پنجشنبه برگزار شد.",
+      "summary_fa": "این گزیده ای از نشست ماهانه اوت باشگاه سرمایه گذاری CNBC است که پنجشنبه برگزار شد.",
+      "summary_en": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
+      "link": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 19:23:24 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a665d268a294957967bcff9f6a755860",
+      "title": "مربی زنان UConn Geno Auriemma می گوید WNBA باید تمرکز خود را از بحث تراجنسیتی ها تغییر دهد.",
+      "title_fa": "مربی زنان UConn Geno Auriemma می گوید WNBA باید تمرکز خود را از بحث تراجنسیتی ها تغییر دهد.",
+      "title_en": "UConn women's coach Geno Auriemma says WNBA should shift focus away from transgender debate",
+      "summary": "Geno Auriemma گفت WNBA باید توجه را از بحث ورزشکاران ترنسجندر منحرف کند و بیشتر روی بسکتبال تمرکز کند.",
+      "summary_fa": "Geno Auriemma گفت WNBA باید توجه را از بحث ورزشکاران ترنسجندر منحرف کند و بیشتر روی بسکتبال تمرکز کند.",
+      "summary_en": "Geno Auriemma said the WNBA should steer attention away from the transgender athlete debate and focus more on basketball.",
+      "link": "https://www.cnbc.com/2026/08/13/uconn-coach-geno-auriemma-wnba-trans-debate.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 19:20:01 GMT",
       "date_iso": "2026-08-13",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
@@ -193640,6 +193955,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "78fb6c07ecd8afde23337157194412ba",
+      "title": "OpenAI دومین مدیر اجرایی خود را در این هفته از دست می دهد",
+      "title_fa": "OpenAI دومین مدیر اجرایی خود را در این هفته از دست می دهد",
+      "title_en": "OpenAI is losing its second executive this week",
+      "summary": "یکی دیگر از مدیران OpenAI در حال ترک است. او در یادداشت تیمی که در لینکدین ارسال شد، گفت: دنیس لباسر که در ماه دسامبر پس از خدمت به عنوان مدیر عامل Slack به عنوان مدیر درآمد OpenAI به OpenAI پیوست، در «هفته‌های آینده» برای «پیگیری فرصت‌های دیگر» ترک خواهد کرد. دالی راجیک، رئیس و مدیر ارشد اجرایی Wiz، مدیریت […]",
+      "summary_fa": "یکی دیگر از مدیران OpenAI در حال ترک است. او در یادداشت تیمی که در لینکدین ارسال شد، گفت: دنیس لباسر که در ماه دسامبر پس از خدمت به عنوان مدیر عامل Slack به عنوان مدیر درآمد OpenAI به OpenAI پیوست، در «هفته‌های آینده» برای «پیگیری فرصت‌های دیگر» ترک خواهد کرد. دالی راجیک، رئیس و مدیر ارشد اجرایی Wiz، مدیریت […]",
+      "summary_en": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "published_at": "2026-08-13T15:28:39-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
