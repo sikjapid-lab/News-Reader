@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 11:34:23",
-  "total_count": 9722,
+  "last_update": "2026-08-13 12:30:42",
+  "total_count": 9750,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93185,6 +93185,90 @@
       }
     },
     {
+      "id": "aa8641d74fe59e759219fbf61bff7633",
+      "title": "حمله هواپیمای بدون سرنشین روسیه به قطار مسافربری در منطقه اودسا اوکراین دو کشته برجای گذاشت",
+      "title_fa": "حمله هواپیمای بدون سرنشین روسیه به قطار مسافربری در منطقه اودسا اوکراین دو کشته برجای گذاشت",
+      "title_en": "Russian drone attack on passenger train in Ukraine's Odesa region kills two people",
+      "summary": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
+      "summary_fa": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
+      "summary_en": "The latest attack comes as the United Nations recorded a record-number of civilian deaths in Ukraine in July, the highest monthly toll since May 2022.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/russian-drone-attack-on-passenger-train-in-ukraines-odesa-region-kills-two-people",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 14:15:37 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "f4b7627efe8e3618938ee71d2b14d070",
+      "title": "آذربایجان روی انار به عنوان صادرات بزرگ بعدی خود شرط بندی می کند",
+      "title_fa": "آذربایجان روی انار به عنوان صادرات بزرگ بعدی خود شرط بندی می کند",
+      "title_en": "Azerbaijan bets on the pomegranate as its next big export",
+      "summary": "آذربایجان با صادرات 48.2 میلیون یورویی و بیش از 200 گونه کشت شده، انار را، میوه ای با 2000 سال سابقه فرهنگی، به یک برند جهانی تبدیل می کند و آن را در رقابت مستقیم با ایران، ترکیه و اسپانیا قرار می دهد.",
+      "summary_fa": "آذربایجان با صادرات 48.2 میلیون یورویی و بیش از 200 گونه کشت شده، انار را، میوه ای با 2000 سال سابقه فرهنگی، به یک برند جهانی تبدیل می کند و آن را در رقابت مستقیم با ایران، ترکیه و اسپانیا قرار می دهد.",
+      "summary_en": "Azerbaijan is turning pomegranates, a fruit with 2,000 years of cultural history, into a global brand, with €48.2 million in exports and more than 200 cultivated varieties putting it in direct competition with Iran, Turkey and Spain",
+      "link": "http://www.euronews.com/business/2026/08/13/azerbaijan-bets-on-the-pomegranate-as-its-next-big-export",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 14:14:53 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "bee2d0a1789fb025e5f3d7209bf5081e",
+      "title": "فرانسه ایران را به \"خونریزی\" در مورد استفاده از مجازات اعدام متهم می کند",
+      "title_fa": "فرانسه ایران را به \"خونریزی\" در مورد استفاده از مجازات اعدام متهم می کند",
+      "title_en": "France accues Iran of 'bloodshed' over use of death penalty",
+      "summary": "پس از صدور بیانیه ای در محکومیت استفاده ایران از مجازات اعدام، تنش بین دیپلمات های ارشد بالا گرفت. پاریس تهران را به \"خونریزی\" متهم کرد و ایران موضع فرانسه را \"نفاق آشکار\" خواند.",
+      "summary_fa": "پس از صدور بیانیه ای در محکومیت استفاده ایران از مجازات اعدام، تنش بین دیپلمات های ارشد بالا گرفت. پاریس تهران را به \"خونریزی\" متهم کرد و ایران موضع فرانسه را \"نفاق آشکار\" خواند.",
+      "summary_en": "After a statement condemning Iran's use of the death penalty, tensions rose between senior diplomats. Paris accused Tehran of 'bloodshed' and Iran called France's stance 'blatant hypocrisy.'",
+      "link": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 14:03:14 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "5b45918d9c34829b3a1dd08b88f07aa2",
+      "title": "فیلم منتخب یورونیوز فرهنگ: «پایان خیابان بلوط» - شرمسار ساختن فرانچایز دنیای ژوراسیک",
+      "title_fa": "فیلم منتخب یورونیوز فرهنگ: «پایان خیابان بلوط» - شرمسار ساختن فرانچایز دنیای ژوراسیک",
+      "title_en": "Euronews Culture's Film of the Week: 'The End Of Oak Street' - Putting the Jurassic World franchise to shame",
+      "summary": "یک رویداد کیهانی اسرارآمیز، خیابان اوک را از حومه دهه 80 تا دوران ماقبل تاریخ ریشه کن می کند... این شگفتی پرفروش تابستان است.",
+      "summary_fa": "یک رویداد کیهانی اسرارآمیز، خیابان اوک را از حومه دهه 80 تا دوران ماقبل تاریخ ریشه کن می کند... این شگفتی پرفروش تابستان است.",
+      "summary_en": "A mysterious cosmic event uproots Oak Street from 80s suburbia to prehistoric times... It's the blockbuster surprise of the summer.",
+      "link": "http://www.euronews.com/culture/2026/08/13/euronews-cultures-film-of-the-week-the-end-of-oak-street-putting-the-jurassic-world-franch",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 13:40:26 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "02f0e98a07b98b290c9fa070867d899c",
       "title": "محسن رضایی، رئیس جدید امنیت ایران با اعلامیه قرمز اینترپل کیست؟",
       "title_fa": "محسن رضایی، رئیس جدید امنیت ایران با اعلامیه قرمز اینترپل کیست؟",
@@ -93416,6 +93500,174 @@
       }
     },
     {
+      "id": "c37513a3e9b5ad5f550dc66e07e7024c",
+      "title": "پرچین گله بز: چگونه Susquehanna و Kalshi به این شرکت کمک می کنند تا تغییر در قانون کالیفرنیا را جبران کند",
+      "title_fa": "پرچین گله بز: چگونه Susquehanna و Kalshi به این شرکت کمک می کنند تا تغییر در قانون کالیفرنیا را جبران کند",
+      "title_en": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
+      "summary": "یک تجارت گله‌داری بز که با هزینه‌های دستمزد بالاتر مواجه بود، به پلتفرم پیش‌بینی بازار Kalshi روی آورد تا هزینه‌های احتمالی را جبران کند و کمک کند.",
+      "summary_fa": "یک تجارت گله‌داری بز که با هزینه‌های دستمزد بالاتر مواجه بود، به پلتفرم پیش‌بینی بازار Kalshi روی آورد تا هزینه‌های احتمالی را جبران کند و کمک کند.",
+      "summary_en": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
+      "link": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:27:31 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "673b7ad97f8bfe4e9361af9c4243bec3",
+      "title": "کاهش فشار تورم، درآمد سربراس، کاهش ترافیک هرمز و موارد دیگر در Morning Squawk",
+      "title_fa": "کاهش فشار تورم، درآمد سربراس، کاهش ترافیک هرمز و موارد دیگر در Morning Squawk",
+      "title_en": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
+      "summary": "در اینجا پنج نکته کلیدی وجود دارد که سرمایه گذاران برای شروع روز معاملاتی باید بدانند.",
+      "summary_fa": "در اینجا پنج نکته کلیدی وجود دارد که سرمایه گذاران برای شروع روز معاملاتی باید بدانند.",
+      "summary_en": "Here are five key things investors need to know to start the trading day.",
+      "link": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:21:27 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5a45e6c98563e4f17e56a8a9dbd27041",
+      "title": "\"قانون 20%\" پشت طرح جورگوس تستیس برای نوع جدیدی از دفتر خانوادگی",
+      "title_fa": "\"قانون 20%\" پشت طرح جورگوس تستیس برای نوع جدیدی از دفتر خانوادگی",
+      "title_en": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
+      "summary": "دفاتر خانواده طوری ساخته شده اند که با پول خود صبور باشند. جورج تستیس نیست.",
+      "summary_fa": "دفاتر خانواده طوری ساخته شده اند که با پول خود صبور باشند. جورج تستیس نیست.",
+      "summary_en": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+      "link": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:20:46 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc575890a1adacaa0c3e0a8f2768342d",
+      "title": "ناظر حمل و نقل در حال تحقیق در مورد دیگری در فرودگاه سیدنی است",
+      "title_fa": "ناظر حمل و نقل در حال تحقیق در مورد دیگری در فرودگاه سیدنی است",
+      "title_en": "Transport watchdog investigates another near miss at Sydney airport",
+      "summary": "دو هواپیما در روز یکشنبه در باند فرودگاه نزدیک به برخورد شدند - ساعت‌ها پس از یک تصادف نزدیک - در هفته‌های اخیر در مجموع سه مورد را به‌دست آوردند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید سازمان دیده‌بان ایمنی حمل‌ونقل در حال بررسی یک برخورد نزدیک دیگر بین دو هواپیما در فرودگاه سیدنی است - حادثه‌ای که در همان روز اتفاق افتاد که اخبار ملی را ایجاد کرد و نگرانی‌هایی را در مورد ترافیک هوایی استرالیا ایجاد کرد. که در حال بررسی دومین \"تهاجم باند\" در روز یکشنبه 9 اوت بود. ادامه مطلب...",
+      "summary_fa": "دو هواپیما در روز یکشنبه در باند فرودگاه نزدیک به برخورد شدند - ساعت‌ها پس از یک تصادف نزدیک - در هفته‌های اخیر در مجموع سه مورد را به‌دست آوردند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید سازمان دیده‌بان ایمنی حمل‌ونقل در حال بررسی یک برخورد نزدیک دیگر بین دو هواپیما در فرودگاه سیدنی است - حادثه‌ای که در همان روز اتفاق افتاد که اخبار ملی را ایجاد کرد و نگرانی‌هایی را در مورد ترافیک هوایی استرالیا ایجاد کرد. که در حال بررسی دومین \"تهاجم باند\" در روز یکشنبه 9 اوت بود. ادامه مطلب...",
+      "summary_en": "Two planes came close to collision on the runway on Sunday – hours after another near miss – making a total of three in recent weeksGet our breaking news email, free app or daily news podcastThe transport safety watchdog is investigating a another near-collision between two planes at Sydney airport – an incident that occurred on the same day as one that made national news and raised concerns about air traffic control.The Australian Transport Safety Bureau (ATSB) said on Thursday night that it was investigating a second “runway incursion” on Sunday 9 August. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 12:19:36 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d1af052c5d2e0e125b2c73d1797b059cd6fd25b5/232_0_1838_1472/master/1838.jpg?width=140&quality=85&auto=format&fit=max&s=6e369ccd64bb8c31ec73ccb3ea3ffa8f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3074f40a2413eece46b77c530b173089",
+      "title": "قوانین جدید فدرال می تواند به سود سپرده وام مسکن برای برخی از صاحبان خانه پایان دهد. دولت ها برای مسدود کردن آنها شکایت می کنند",
+      "title_fa": "قوانین جدید فدرال می تواند به سود سپرده وام مسکن برای برخی از صاحبان خانه پایان دهد. دولت ها برای مسدود کردن آنها شکایت می کنند",
+      "title_en": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
+      "summary": "یک دادخواست جدید قوانینی را که اخیراً از سوی تنظیم‌کننده‌های بانکی فدرال صادر شده است، به چالش می‌کشد که قوانین ایالتی را که بانک‌ها را ملزم به پرداخت سود به حساب‌های امانی می‌کند، منع می‌کند.",
+      "summary_fa": "یک دادخواست جدید قوانینی را که اخیراً از سوی تنظیم‌کننده‌های بانکی فدرال صادر شده است، به چالش می‌کشد که قوانین ایالتی را که بانک‌ها را ملزم به پرداخت سود به حساب‌های امانی می‌کند، منع می‌کند.",
+      "summary_en": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
+      "link": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:15:02 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c90dbed82054a2442baaec63da93704c",
+      "title": "رونق هوش مصنوعی فقط باعث افزایش سهام نیست، بلکه بازار ارز خارجی را نیز به حرکت در می آورد",
+      "title_fa": "رونق هوش مصنوعی فقط باعث افزایش سهام نیست، بلکه بازار ارز خارجی را نیز به حرکت در می آورد",
+      "title_en": "The AI boom is not just driving stocks — it’s also moving the foreign-exchange market",
+      "summary": "تفاوت نرخ بهره، روند تورم و تراز تجاری معمولاً به عنوان محرک‌های حرکت ارز در نظر گرفته می‌شود - اما به طور فزاینده‌ای، محرک‌های بازار ارز شرکت‌هایی هستند که به دنبال گسترش پیشنهادات خود در زمینه هوش مصنوعی هستند.",
+      "summary_fa": "تفاوت نرخ بهره، روند تورم و تراز تجاری معمولاً به عنوان محرک‌های حرکت ارز در نظر گرفته می‌شود - اما به طور فزاینده‌ای، محرک‌های بازار ارز شرکت‌هایی هستند که به دنبال گسترش پیشنهادات خود در زمینه هوش مصنوعی هستند.",
+      "summary_en": "Interest-rate differentials, inflation trends and trade balances are usually thought of as drivers of foreign-exchange movement — but increasingly, the drivers in the currency market are companies looking to expand their offerings in artificial intelligence.",
+      "link": "https://www.marketwatch.com/story/the-ai-boom-is-not-just-driving-stocks-its-also-moving-the-foreign-exchange-market-275d2f74?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 12:11:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-59922456",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea75166bfe90c57a6af6b8887781d61a",
+      "title": "موج گرمای اروپا زنده: دمای هوای 40 درجه سانتیگراد در اسپانیا پیش بینی می شود. هشدار نادر برای \"گرمای شدید\" در سراسر انگلیس گسترش یافت",
+      "title_fa": "موج گرمای اروپا زنده: دمای هوای 40 درجه سانتیگراد در اسپانیا پیش بینی می شود. هشدار نادر برای \"گرمای شدید\" در سراسر انگلیس گسترش یافت",
+      "title_en": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+      "summary": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_fa": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_en": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.It’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield. Continue reading...",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 12:10:05 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c8ac626264763f988ad635ecde75279c8b213b8d/889_0_2886_2309/master/2886.jpg?width=140&quality=85&auto=format&fit=max&s=21952f333de41ec00d98bafccd689e56",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "db695a258ae5463e46772d200861f900",
+      "title": "جنگ ایران خطر توقف سریع ترین اقتصاد G7 را به همراه دارد",
+      "title_fa": "جنگ ایران خطر توقف سریع ترین اقتصاد G7 را به همراه دارد",
+      "title_en": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "summary": "اقتصاد بریتانیا در حال نشان دادن نشانه‌های بیشتری از بازگشتی است که مدت‌ها در انتظار آن بودیم، اما این تصویر با پیامدهای جنگ ایران و قیمت بالای انرژی پیچیده‌تر شده است.",
+      "summary_fa": "اقتصاد بریتانیا در حال نشان دادن نشانه‌های بیشتری از بازگشتی است که مدت‌ها در انتظار آن بودیم، اما این تصویر با پیامدهای جنگ ایران و قیمت بالای انرژی پیچیده‌تر شده است.",
+      "summary_en": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "link": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:09:54 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "db1852284d8d6df54f3652834922e694",
       "title": "نایجل فاراژ، رهبر اصلاحات بریتانیا و کنت بینفیس در نظرسنجی زودهنگام در بریتانیا به مصاف یکدیگر رفتند.",
       "title_fa": "نایجل فاراژ، رهبر اصلاحات بریتانیا و کنت بینفیس در نظرسنجی زودهنگام در بریتانیا به مصاف یکدیگر رفتند.",
@@ -93434,6 +93686,48 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "00216021b89ff8c11cf0c3a90c50ec64",
+      "title": "75 درصد از توسعه دهندگانی که من مورد بررسی قرار دادم، Claude Code را ترجیح می دهند - در اینجا دلیلی است که آنها آن را به Codex انتخاب می کنند",
+      "title_fa": "75 درصد از توسعه دهندگانی که من مورد بررسی قرار دادم، Claude Code را ترجیح می دهند - در اینجا دلیلی است که آنها آن را به Codex انتخاب می کنند",
+      "title_en": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
+      "summary": "از 138 توسعه‌دهنده‌ای که من مورد بررسی قرار دادم، سه نفر از کلود کد استفاده می‌کنند. در اینجا چیزی است که آنها می گویند در جریان کار کدگذاری روزانه هوش مصنوعی اهمیت دارد.",
+      "summary_fa": "از 138 توسعه‌دهنده‌ای که من مورد بررسی قرار دادم، سه نفر از کلود کد استفاده می‌کنند. در اینجا چیزی است که آنها می گویند در جریان کار کدگذاری روزانه هوش مصنوعی اهمیت دارد.",
+      "summary_en": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
+      "link": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 12:06:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c9f07a329391dab3fffd44849da81f7",
+      "title": "بهترین قاب‌های Samsung Galaxy S26 (2026): S26، S26+ و S26 Ultra",
+      "title_fa": "بهترین قاب‌های Samsung Galaxy S26 (2026): S26، S26+ و S26 Ultra",
+      "title_en": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+      "summary": "با این قاب ها و محافظ های صفحه از گوشی سامسونگ خود محافظت کنید.",
+      "summary_fa": "با این قاب ها و محافظ های صفحه از گوشی سامسونگ خود محافظت کنید.",
+      "summary_en": "Protect your Samsung phone with these cases and screen protectors.",
+      "link": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 12:05:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -93458,6 +93752,69 @@
       }
     },
     {
+      "id": "eebcf598f72b6e27398484fb2bacdd3b",
+      "title": "دموکرات‌ها از ترامپ می‌خواهند مدیران سهام را افشا کند و درباره معاملات مشکوک توضیح دهد",
+      "title_fa": "دموکرات‌ها از ترامپ می‌خواهند مدیران سهام را افشا کند و درباره معاملات مشکوک توضیح دهد",
+      "title_en": "Democrats demand Trump reveal stock managers, explain suspicious trades",
+      "summary": "وارن و گارسیا گفتند که به دنبال پاسخی از ترامپ برای اطلاع رسانی درباره قوانین احتمالی برای منع روسای جمهور از مالکیت سهام فردی هستند.",
+      "summary_fa": "وارن و گارسیا گفتند که به دنبال پاسخی از ترامپ برای اطلاع رسانی درباره قوانین احتمالی برای منع روسای جمهور از مالکیت سهام فردی هستند.",
+      "summary_en": "Warren and Garcia said they sought answers from Trump to inform their work on potential legislation to ban presidents from owning individual stocks.",
+      "link": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f3406d3811083c06b40539d91a0b02eb",
+      "title": "پنج نمودار که هزینه بالای زندگی در بریتانیا را توضیح می دهد",
+      "title_fa": "پنج نمودار که هزینه بالای زندگی در بریتانیا را توضیح می دهد",
+      "title_en": "Five charts that explain the high cost of living in the UK",
+      "summary": "اندی برنهام، نخست وزیر بریتانیا در یک تور سراسری برای گوش دادن به \"نگرانی های مالی\" مردم است.",
+      "summary_fa": "اندی برنهام، نخست وزیر بریتانیا در یک تور سراسری برای گوش دادن به \"نگرانی های مالی\" مردم است.",
+      "summary_en": "UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:57:23 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "5b5ea0ff0a15d18b0f903ddf3231e225",
+      "title": "مذاکرات ایران و آمریکا در بن بست - آخرین خبر چیست؟",
+      "title_fa": "مذاکرات ایران و آمریکا در بن بست - آخرین خبر چیست؟",
+      "title_en": "US-Iran talks in deadlock – what’s the latest?",
+      "summary": "ایالات متحده و ایران به بن بست خود در تنگه هرمز ادامه می دهند، زیرا میانجی ها تلاش می کنند مذاکرات را ترغیب کنند.",
+      "summary_fa": "ایالات متحده و ایران به بن بست خود در تنگه هرمز ادامه می دهند، زیرا میانجی ها تلاش می کنند مذاکرات را ترغیب کنند.",
+      "summary_en": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:56:40 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "f7c437c26272567e04f7611ad8b6eb96",
       "title": "finfluencers TikTok: مشاوره مالی به سرمایه گذاران جوان چقدر قابل اعتماد است؟",
       "title_fa": "finfluencers TikTok: مشاوره مالی به سرمایه گذاران جوان چقدر قابل اعتماد است؟",
@@ -93479,6 +93836,90 @@
       }
     },
     {
+      "id": "2885d21f42ae4309f01ea736dc59c19a",
+      "title": "واکنش زلزله کلمبیا دولت جدید راست افراطی را آزمایش می کند",
+      "title_fa": "واکنش زلزله کلمبیا دولت جدید راست افراطی را آزمایش می کند",
+      "title_en": "Colombia earthquake response tests new far-right government",
+      "summary": "فاجعه، رئیس جمهور آبلاردو د لا اسپریلا و دولتش را در تلاش برای یافتن بازماندگان و ارائه کمک، آزمایش می کند.",
+      "summary_fa": "فاجعه، رئیس جمهور آبلاردو د لا اسپریلا و دولتش را در تلاش برای یافتن بازماندگان و ارائه کمک، آزمایش می کند.",
+      "summary_en": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:39:46 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4b652c93174e68d723925dad002fbae",
+      "title": "بیش از 135 میلیون نفر در اروپا دمای بیش از 35 درجه سانتیگراد دارند",
+      "title_fa": "بیش از 135 میلیون نفر در اروپا دمای بیش از 35 درجه سانتیگراد دارند",
+      "title_en": "More than 135 million people in Europe set for temperatures over 35C",
+      "summary": "اروپا سریعترین قاره در جهان است که در حال گرم شدن است و در برخی نقاط برای مقابله با هوای گرم مجهز نیست.",
+      "summary_fa": "اروپا سریعترین قاره در جهان است که در حال گرم شدن است و در برخی نقاط برای مقابله با هوای گرم مجهز نیست.",
+      "summary_en": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:38:39 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "e44c8c47ef2d3f15edc76aa9f8872e42",
+      "title": "Android اکنون می‌تواند برای اشتراک‌گذاری برای اطلاعات تماس، عکس‌ها و موارد دیگر ضربه بزنید - کدام تلفن‌ها ابتدا آن را دریافت می‌کنند",
+      "title_fa": "Android اکنون می‌تواند برای اشتراک‌گذاری برای اطلاعات تماس، عکس‌ها و موارد دیگر ضربه بزنید - کدام تلفن‌ها ابتدا آن را دریافت می‌کنند",
+      "title_en": "Android can now tap to share for contact info, photos, and more - which phones get it first",
+      "summary": "فرآیند ارسال فایل برای شخصی یا به اشتراک گذاری اطلاعات شما در اندروید بسیار ساده تر شده است.",
+      "summary_fa": "فرآیند ارسال فایل برای شخصی یا به اشتراک گذاری اطلاعات شما در اندروید بسیار ساده تر شده است.",
+      "summary_en": "The process of sending someone a file or sharing your information on Android just got a lot simpler.",
+      "link": "https://www.zdnet.com/article/android-tap-to-share-feature/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 11:35:07 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2c0fa61e695dcfe1e1cdf288f89f71da",
+      "title": "اسرائیل آوارهای غزه را برای \"پنهان کردن نسل کشی\" و \"نقشه از نو ترسیم\" می کند.",
+      "title_fa": "اسرائیل آوارهای غزه را برای \"پنهان کردن نسل کشی\" و \"نقشه از نو ترسیم\" می کند.",
+      "title_en": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+      "summary": "گروه های حقوق بشر می گویند که اسرائیل آوارهای غزه را دور می کند تا شواهد جنایات جنگی را از بین ببرد و چشم انداز آن را غیرقابل زندگی کند.",
+      "summary_fa": "گروه های حقوق بشر می گویند که اسرائیل آوارهای غزه را دور می کند تا شواهد جنایات جنگی را از بین ببرد و چشم انداز آن را غیرقابل زندگی کند.",
+      "summary_en": "Israel carts away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+      "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:29:32 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "e10bdc76e956f76eeb333f420835ba4d",
       "title": "املاک تاریخی والبون مورد علاقه دوران دوران در حال حاضر برای فروش است",
       "title_fa": "املاک تاریخی والبون مورد علاقه دوران دوران در حال حاضر برای فروش است",
@@ -93497,6 +93938,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ad3269260346c2207d488fd56f1a24b6",
+      "title": "فولام در مالاگا در تکرار دوستانه اعتراض نهایی سنگال AFCON حرکت کرد",
+      "title_fa": "فولام در مالاگا در تکرار دوستانه اعتراض نهایی سنگال AFCON حرکت کرد",
+      "title_en": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
+      "summary": "بازی دوستانه فولام در مالاگا با خروج تیم لیگ برتری پیش از ضربات پنالتی به شدت متشنج شد.",
+      "summary_fa": "بازی دوستانه فولام در مالاگا با خروج تیم لیگ برتری پیش از ضربات پنالتی به شدت متشنج شد.",
+      "summary_en": "Fulham's friendly in Malaga turned sour as the Premier League club walked off ahead of a penalty shootout.",
+      "link": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:16:29 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1025e21f3b310cc8e75033c46c666e57",
+      "title": "سازمان ملل: تلفات غیرنظامیان در اوکراین در ماه ژوئیه به بالاترین سطح از می 2022 رسیده است",
+      "title_fa": "سازمان ملل: تلفات غیرنظامیان در اوکراین در ماه ژوئیه به بالاترین سطح از می 2022 رسیده است",
+      "title_en": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "summary": "هیئت نظارت بر حقوق بشر سازمان ملل اعلام کرد که در ماه ژوئیه حداقل 437 غیرنظامی در اوکراین کشته و 2610 نفر زخمی شدند.",
+      "summary_fa": "هیئت نظارت بر حقوق بشر سازمان ملل اعلام کرد که در ماه ژوئیه حداقل 437 غیرنظامی در اوکراین کشته و 2610 نفر زخمی شدند.",
+      "summary_en": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 11:14:35 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
       }
     },
     {
@@ -93542,10 +94025,52 @@
       }
     },
     {
+      "id": "a5ab231a3e4f92ddde8d68ea65b58673",
+      "title": "گروه Canary Wharf دفتر SocGen را به مبلغ 625 میلیون پوند به فروش می رساند",
+      "title_fa": "گروه Canary Wharf دفتر SocGen را به مبلغ 625 میلیون پوند به فروش می رساند",
+      "title_en": "Canary Wharf Group sells SocGen office in £625mn deal",
+      "summary": "شرکت عامل پشت منطقه لندن 1-5 خیابان بانک را به سرمایه گذاران خود بروکفیلد و سازمان سرمایه گذاری قطر فروخته است.",
+      "summary_fa": "شرکت عامل پشت منطقه لندن 1-5 خیابان بانک را به سرمایه گذاران خود بروکفیلد و سازمان سرمایه گذاری قطر فروخته است.",
+      "summary_en": "Operating company behind London district has sold 1-5 Bank Street to its own investors Brookfield and the Qatar Investment Authority",
+      "link": "https://www.ft.com/content/382b1d01-8bfe-4933-a460-819bbc32eb59?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 11:10:18 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3672dde8-0182-49e2-a0a6-55b121395c43.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
       "id": "2a44fd95404d637ee44715ba93d17cbe",
       "title": "واترمارک جدید کلود Scarlet Letter نامرئی است — در حال حاضر",
       "title_fa": "واترمارک جدید کلود Scarlet Letter نامرئی است — در حال حاضر",
       "title_en": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "summary": "این علامت هر چیزی را که کلود پردازش کرده است، نشان می‌دهد، حتی نوشته‌های انسانی که فقط ویرایش شده است.",
+      "summary_fa": "این علامت هر چیزی را که کلود پردازش کرده است، نشان می‌دهد، حتی نوشته‌های انسانی که فقط ویرایش شده است.",
+      "summary_en": "The mark flags anything Claude processed, even human writing it only edited.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "755d69dfb5ddd6f096170256a8d7073b",
+      "title": "واترمارک جدید کلود Scarlet Letter در حال حاضر نامرئی است",
+      "title_fa": "واترمارک جدید کلود Scarlet Letter در حال حاضر نامرئی است",
+      "title_en": "Claude's new Scarlet Letter watermark is invisible—for now",
       "summary": "این علامت هر چیزی را که کلود پردازش کرده است، نشان می‌دهد، حتی نوشته‌های انسانی که فقط ویرایش شده است.",
       "summary_fa": "این علامت هر چیزی را که کلود پردازش کرده است، نشان می‌دهد، حتی نوشته‌های انسانی که فقط ویرایش شده است.",
       "summary_en": "The mark flags anything Claude processed, even human writing it only edited.",
@@ -93710,6 +94235,27 @@
       }
     },
     {
+      "id": "68aed621f95ce399203387f1cb9f1261",
+      "title": "تاکایچی از سفر پوتین به جزایر مورد مناقشه اقیانوس آرام انتقاد کرد",
+      "title_fa": "تاکایچی از سفر پوتین به جزایر مورد مناقشه اقیانوس آرام انتقاد کرد",
+      "title_en": "Takaichi slams Putin’s visit to disputed Pacific islands",
+      "summary": "نخست وزیر ژاپن اولین سفر رئیس جمهور روسیه به جزایر کوریل را سرزنش کرد",
+      "summary_fa": "نخست وزیر ژاپن اولین سفر رئیس جمهور روسیه به جزایر کوریل را سرزنش کرد",
+      "summary_en": "Japan’s prime minister rebukes Russian president’s first-ever trip to Kuril Islands",
+      "link": "https://www.ft.com/content/1545729c-d9c0-431b-a045-eb71cdd0c261?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 10:47:04 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc19084ab-cce2-40c3-a876-099e79fcce45.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "b2657f5a7e034af1bb7847c0dbf08281",
       "title": "یوروویژن برای جلوگیری از میزبانی کشورهای در حال جنگ: این به چه معناست؟",
       "title_fa": "یوروویژن برای جلوگیری از میزبانی کشورهای در حال جنگ: این به چه معناست؟",
@@ -93840,6 +94386,27 @@
       "title": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
       "title_fa": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
       "title_en": "Cisco stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
+      "summary": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
+      "summary_fa": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
+      "summary_en": "Analysts say a focus on the artificial-intelligence ‘supercycle’ could pressure gross margins.",
+      "link": "https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 10:28:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02582341",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "882820dcf13037d580e8e0ad8bb527e1",
+      "title": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
+      "title_fa": "سهام سیسکو به دلیل نگرانی های حاشیه سقوط کرد. این چیزی است که تحلیلگران وال استریت می گویند.",
+      "title_en": "Cisco’s stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
       "summary": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
       "summary_fa": "تحلیلگران می گویند تمرکز بر \"ابر چرخه\" هوش مصنوعی می تواند بر حاشیه سود ناخالص فشار بیاورد.",
       "summary_en": "Analysts say a focus on the artificial-intelligence ‘supercycle’ could pressure gross margins.",
@@ -189839,6 +190406,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f2813464afe9901601a9e91bc7accf0c",
+      "title": "چگونه وقتی یک مؤسس زن هستید، کسب و کار علمی خود را موفق کنید",
+      "title_fa": "چگونه وقتی یک مؤسس زن هستید، کسب و کار علمی خود را موفق کنید",
+      "title_en": "How to make your science business succeed when you’re a female founder",
+      "summary": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-01904-y مفروضات جنسیتی و فرهنگ مردسالار می تواند جذب سرمایه گذاری برای شرکت هایی را که راه اندازی می کنند برای زنان دشوارتر کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-01904-y مفروضات جنسیتی و فرهنگ مردسالار می تواند جذب سرمایه گذاری برای شرکت هایی را که راه اندازی می کنند برای زنان دشوارتر کند.",
+      "summary_en": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-ySexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up.",
+      "link": "https://www.nature.com/articles/d41586-026-01904-y",
+      "source": "Nature",
+      "published_at": "2026-08-13 12:30",
+      "date_iso": "2026-08-13",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
