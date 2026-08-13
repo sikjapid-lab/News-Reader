@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 22:53:58",
-  "total_count": 9999,
+  "last_update": "2026-08-13 23:40:02",
+  "total_count": 10001,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93203,6 +93203,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "3fa61f02c8a3f01de40ce68337426989",
+      "title": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
+      "title_fa": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
+      "title_en": "Engine Blade Hit Window on Jet When Man Was Partly Sucked Outside, Report Says",
+      "summary": "هیئت ملی ایمنی حمل و نقل گفت که بقایای یک پرنده و پرهای آن را روی یک موتور شکسته پیدا کرده است.",
+      "summary_fa": "هیئت ملی ایمنی حمل و نقل گفت که بقایای یک پرنده و پرهای آن را روی یک موتور شکسته پیدا کرده است.",
+      "summary_en": "The National Transportation Safety Board said it had found a bird’s remains and feathers on a broken engine.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 23:20:32 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13xp-plane-investigation-plane-zpml/13xp-plane-investigation-plane-zpml-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -194942,6 +194963,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b73990d9d40501f8d27c3773d3abb09c",
+      "title": "اپل و Epic بر سر اینکه اپل چقدر باید از خریدهای خارج از اپ استور دریافت کند، بحث می کنند",
+      "title_fa": "اپل و Epic بر سر اینکه اپل چقدر باید از خریدهای خارج از اپ استور دریافت کند، بحث می کنند",
+      "title_en": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "اپل در یک پرونده جدید در مناقشه حقوقی طولانی مدت خود با Epic Games ساختاری را پیشنهاد کرده است که به آن امکان می دهد هزینه خریدهای دیجیتالی انجام شده از طریق پیوندهای خارجی را که از سیستم خرید درون برنامه ای این شرکت استفاده نمی کنند، دریافت کند. Epic قبلاً پاسخ داده است و گفته است که درخواست اپل \"بسیار خارج از محدوده\" […]",
+      "summary_fa": "اپل در یک پرونده جدید در مناقشه حقوقی طولانی مدت خود با Epic Games ساختاری را پیشنهاد کرده است که به آن امکان می دهد هزینه خریدهای دیجیتالی انجام شده از طریق پیوندهای خارجی را که از سیستم خرید درون برنامه ای این شرکت استفاده نمی کنند، دریافت کند. Epic قبلاً پاسخ داده است و گفته است که درخواست اپل \"بسیار خارج از محدوده\" […]",
+      "summary_en": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the […]",
+      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "source": "The Verge",
+      "published_at": "2026-08-13T19:13:24-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
