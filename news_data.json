@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 15:12:22",
-  "total_count": 9826,
+  "last_update": "2026-08-13 16:11:58",
+  "total_count": 9864,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -20836,6 +20836,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f3a6fb68f77bfa5f8a235c33fe3746f0",
+      "title": "سوئیچ هواپیمای ترامپ در مقایسه با پنهان کاری پوتین رنگ پریده است",
+      "title_fa": "سوئیچ هواپیمای ترامپ در مقایسه با پنهان کاری پوتین رنگ پریده است",
+      "title_en": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
+      "summary": "دخیل پرزیدنت ترامپ در ایر فورس وان در مقایسه با رازداری پیرامون رئیس جمهور روسیه که توجه او به امنیت در سال های اخیر به اوج های جدیدی رسیده است، کمرنگ است.",
+      "summary_fa": "دخیل پرزیدنت ترامپ در ایر فورس وان در مقایسه با رازداری پیرامون رئیس جمهور روسیه که توجه او به امنیت در سال های اخیر به اوج های جدیدی رسیده است، کمرنگ است.",
+      "summary_en": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+      "link": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+      "source": "NY Times",
+      "published_at": "Wed, 12 Aug 2026 21:37:33 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/12dc-trump-putin-top-zwgc/12dc-trump-putin-top-zwgc-mediumSquareAt3X-v2.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -93185,6 +93206,132 @@
       }
     },
     {
+      "id": "d44bdaf244baf8e2330e08f6f5c08aef",
+      "title": "در پاریس، گردشگران به طور فزاینده ای دوچرخه را برای کاوش در شهر انتخاب می کنند",
+      "title_fa": "در پاریس، گردشگران به طور فزاینده ای دوچرخه را برای کاوش در شهر انتخاب می کنند",
+      "title_en": "In Paris, tourists increasingly choose bikes to explore the city",
+      "summary": "در خیابان‌های پاریس، دوچرخه‌ها بیشتر و بیشتر می‌شود و گردشگران با آن کار زیادی دارند: تورهای دوچرخه‌سواری در سال‌های اخیر رونق گرفته است.",
+      "summary_fa": "در خیابان‌های پاریس، دوچرخه‌ها بیشتر و بیشتر می‌شود و گردشگران با آن کار زیادی دارند: تورهای دوچرخه‌سواری در سال‌های اخیر رونق گرفته است.",
+      "summary_en": "On the streets of Paris, there are more and more bicycles, and tourists have a lot to do with it: bike tours have boomed in recent years.",
+      "link": "http://www.euronews.com/travel/2026/08/13/in-paris-tourists-increasingly-choose-bikes-to-explore-the-city",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:54:14 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "eae70c223c50951572b4dad7ea21b33a",
+      "title": "زلنسکی می گوید که اوکراین به 5 درصد از سهام پاتریوت آمریکا فقط برای پشت سر گذاشتن زمستان نیاز دارد",
+      "title_fa": "زلنسکی می گوید که اوکراین به 5 درصد از سهام پاتریوت آمریکا فقط برای پشت سر گذاشتن زمستان نیاز دارد",
+      "title_en": "Ukraine needs 5% of US Patriot stocks just to get through winter, Zelenskyy says",
+      "summary": "ولودیمیر زلنسکی گفت که کیف در حال حاضر تنها 1 درصد از موشک های رهگیر مورد نیاز خود را از واشنگتن دریافت می کند، زیرا حملات روسیه همچنان از دفاع هوایی این کشور پیشی می گیرد.",
+      "summary_fa": "ولودیمیر زلنسکی گفت که کیف در حال حاضر تنها 1 درصد از موشک های رهگیر مورد نیاز خود را از واشنگتن دریافت می کند، زیرا حملات روسیه همچنان از دفاع هوایی این کشور پیشی می گیرد.",
+      "summary_en": "Volodymyr Zelenskyy said Kyiv currently receives only 1% of the interceptor missiles it needs from Washington, as Russian strikes continue to outpace the country's air defences.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/ukraine-needs-5-of-us-patriot-stocks-just-to-get-through-winter-zelenskyy-says",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:48:43 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "4069114b3cdee04e27abcac1366cc2d5",
+      "title": "مردم از ساحل به دلیل اشک های آتش سوزی از طریق نقطه محبوب توریستی یونان تخلیه شدند",
+      "title_fa": "مردم از ساحل به دلیل اشک های آتش سوزی از طریق نقطه محبوب توریستی یونان تخلیه شدند",
+      "title_en": "People evacuated from beach as wildfire tears through popular Greek tourist hotspot",
+      "summary": "در مجموع 110 آتش نشان به همراه سه تیم از واحد عملیات جنگل ویژه دوم EMODE و 33 ماشین آتش نشانی در عملیات اطفای حریق شرکت دارند.",
+      "summary_fa": "در مجموع 110 آتش نشان به همراه سه تیم از واحد عملیات جنگل ویژه دوم EMODE و 33 ماشین آتش نشانی در عملیات اطفای حریق شرکت دارند.",
+      "summary_en": "A total of 110 firefighters are taking part in the firefighting operation, along with three teams from the 2nd EMODE Special Forest Operations Unit and 33 fire engines.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/people-evacuated-from-beach-as-wildfire-tears-through-popular-greek-tourist-hotspot",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:39:46 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a8c719d6d694df0a1b2f7579ad626ab",
+      "title": "در انفجار بندر روتردام در پالایشگاه گونور یک کشته و چندین زخمی برجای گذاشت",
+      "title_fa": "در انفجار بندر روتردام در پالایشگاه گونور یک کشته و چندین زخمی برجای گذاشت",
+      "title_en": "One dead, several injured in Rotterdam port blast at Gunvor refinery",
+      "summary": "هلند در حال بررسی انفجاری در بندر روتردام است که در آن یک نفر کشته و چندین نفر زخمی شدند. این انفجار حدود ساعت 11:30 صبح در یک تاسیسات نفتی در بخش صنعتی یوروپورت بزرگترین بندر اروپا رخ داد.",
+      "summary_fa": "هلند در حال بررسی انفجاری در بندر روتردام است که در آن یک نفر کشته و چندین نفر زخمی شدند. این انفجار حدود ساعت 11:30 صبح در یک تاسیسات نفتی در بخش صنعتی یوروپورت بزرگترین بندر اروپا رخ داد.",
+      "summary_en": "The Netherlands is investigating an explosion at the port of Rotterdam that killed one person and injured several others on Thursday, 13 August. The blast happened at about 11:30 a.m. at an oil facility in the Europoort industrial section of Europe’s largest port.",
+      "link": "http://www.euronews.com/video/2026/08/13/one-dead-several-injured-in-rotterdam-port-blast-at-gunvor-refinery",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:31:09 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "85923d355bff3a510515f5cbb3cb3a5b",
+      "title": "مسکو می گوید بمب پنهان شده در سطل زباله، افسر روس را در سواستوپل اشغالی کشته است",
+      "title_fa": "مسکو می گوید بمب پنهان شده در سطل زباله، افسر روس را در سواستوپل اشغالی کشته است",
+      "title_en": "Bomb hidden in bin kills Russian officer in occupied Sevastopol, Moscow says",
+      "summary": "گزارش‌های رسانه‌ها از مرد کشته‌شده به‌عنوان فراری نیروی دریایی اوکراینی نام می‌برند که فرماندهی زیردریایی موشک کالیبر برای ناوگان دریای سیاه مسکو را برعهده داشت.",
+      "summary_fa": "گزارش‌های رسانه‌ها از مرد کشته‌شده به‌عنوان فراری نیروی دریایی اوکراینی نام می‌برند که فرماندهی زیردریایی موشک کالیبر برای ناوگان دریای سیاه مسکو را برعهده داشت.",
+      "summary_en": "Media reports named the dead man as a Ukrainian navy defector who went on to command a Kalibr missile submarine for Moscow's Black Sea Fleet.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/bomb-hidden-in-bin-kills-russian-officer-in-occupied-sevastopol-moscow-says",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:15:39 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "962fe2c4b2660d4bae92c5d115221ccd",
+      "title": "بروکسل از فرش غول پیکر گل با الهام از شاهکار هوکوسای رونمایی کرد",
+      "title_fa": "بروکسل از فرش غول پیکر گل با الهام از شاهکار هوکوسای رونمایی کرد",
+      "title_en": "Brussels unveils giant flower carpet inspired by Hokusai masterpiece",
+      "summary": "بروکسل Grand Place تاریخی خود را با استفاده از حدود 500000 گل محمدی با بیش از 1300 متر مربع سنگفرش به یک نسخه گلی غول پیکر از موج بزرگ ژاپن در نزدیکی کاناگاوا تبدیل کرده است.",
+      "summary_fa": "بروکسل Grand Place تاریخی خود را با استفاده از حدود 500000 گل محمدی با بیش از 1300 متر مربع سنگفرش به یک نسخه گلی غول پیکر از موج بزرگ ژاپن در نزدیکی کاناگاوا تبدیل کرده است.",
+      "summary_en": "Brussels has transformed its historic Grand Place into a giant floral version of Japan’s Great Wave off Kanagawa, using around 500,000 dahlias laid out over 1,300 square metres of cobblestones.",
+      "link": "http://www.euronews.com/video/2026/08/13/brussels-unveils-giant-flower-carpet-inspired-by-hokusai-masterpiece",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 17:09:07 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "531d9052fefcec0d52498e2ad934d2b7",
       "title": "نخست‌وزیر تاسک می‌گوید لهستان توطئه بی‌سابقه روسیه برای کشتن یک شهروند اوکراینی-آمریکایی را در یکی از کشورهای ناتو خنثی می‌کند.",
       "title_fa": "نخست‌وزیر تاسک می‌گوید لهستان توطئه بی‌سابقه روسیه برای کشتن یک شهروند اوکراینی-آمریکایی را در یکی از کشورهای ناتو خنثی می‌کند.",
@@ -93269,6 +93416,27 @@
       }
     },
     {
+      "id": "bdc3773ce3078513638c8a5c310bb861",
+      "title": "این تلویزیون Micro RGB رقیب مدل‌های OLED گران‌تر است - و من آن را توصیه می‌کنم، مخصوصاً در فروش",
+      "title_fa": "این تلویزیون Micro RGB رقیب مدل‌های OLED گران‌تر است - و من آن را توصیه می‌کنم، مخصوصاً در فروش",
+      "title_en": "This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale",
+      "summary": "سامسونگ R95H با یک پنل کاملاً جدید Micro RGB ساخته شده است که رنگ و کنتراست واقعاً چشمگیر را ارائه می دهد.",
+      "summary_fa": "سامسونگ R95H با یک پنل کاملاً جدید Micro RGB ساخته شده است که رنگ و کنتراست واقعاً چشمگیر را ارائه می دهد.",
+      "summary_en": "The Samsung R95H is built with an all-new Micro RGB panel that delivers truly impressive color and contrast.",
+      "link": "https://www.zdnet.com/article/samsung-r95h-micro-rgb-deal-best-buy/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 16:00:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f8822cd7ac4ddd0ffa6e668d77a2acf7",
       "title": "Byway یک دوره آنلاین رایگان راه اندازی می کند تا به شما در برنامه ریزی سفر ریلی در سراسر اروپا کمک کند",
       "title_fa": "Byway یک دوره آنلاین رایگان راه اندازی می کند تا به شما در برنامه ریزی سفر ریلی در سراسر اروپا کمک کند",
@@ -93287,6 +93455,69 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "99a981c082863f8b3764c94b8f8ea810",
+      "title": "حقیقت دردناک دقیقاً نحوه عملکرد دستکش های شوک جدید ICE",
+      "title_fa": "حقیقت دردناک دقیقاً نحوه عملکرد دستکش های شوک جدید ICE",
+      "title_en": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
+      "summary": "ICE میلیون‌ها دلار را صرف دستکش‌های شوک می‌کند که برای غلبه بر افراد از طریق درد شدید و موضعی طراحی شده‌اند.",
+      "summary_fa": "ICE میلیون‌ها دلار را صرف دستکش‌های شوک می‌کند که برای غلبه بر افراد از طریق درد شدید و موضعی طراحی شده‌اند.",
+      "summary_en": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
+      "link": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 15:57:12 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f236d7762d04b9406f56c5948f08a7f7",
+      "title": "دولت بریتانیا در نظر دارد به کشاورزان آسیب دیده از خشکسالی کمک کند",
+      "title_fa": "دولت بریتانیا در نظر دارد به کشاورزان آسیب دیده از خشکسالی کمک کند",
+      "title_en": "UK government considers aid for drought-hit farmers",
+      "summary": "در حالی که بریتانیا با پنجمین موج گرمای سال خود مواجه است، مناطق روستایی با شرایط تنبیهی مواجه می شوند",
+      "summary_fa": "در حالی که بریتانیا با پنجمین موج گرمای سال خود مواجه است، مناطق روستایی با شرایط تنبیهی مواجه می شوند",
+      "summary_en": "Countryside battles punishing conditions as Britain faces its fifth heatwave of the year",
+      "link": "https://www.ft.com/content/09c1ed51-8e69-4e39-bab3-392e1e9f9f6b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 15:54:08 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb20283d1-9234-42a4-9947-c6a66d2d6e3e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "da023c3da78b759c9cb20448dba67e89",
+      "title": "عفو رئیس جمهور برای جاسوس فرانسوی متهم به کودتای مالی",
+      "title_fa": "عفو رئیس جمهور برای جاسوس فرانسوی متهم به کودتای مالی",
+      "title_en": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "summary": "فرانسه هنوز در مورد عفو یان وزیلیه اظهار نظری نکرده و قبلاً این اتهامات را \"بی اساس\" خوانده است.",
+      "summary_fa": "فرانسه هنوز در مورد عفو یان وزیلیه اظهار نظری نکرده و قبلاً این اتهامات را \"بی اساس\" خوانده است.",
+      "summary_en": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 15:50:49 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d647/live/3b219a60-9728-11f1-808c-532494fd22c7.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -93311,6 +93542,48 @@
       }
     },
     {
+      "id": "95e02c890478b061bf9e916071044820",
+      "title": "با رسیدن موج گرمای پنجم تابستان به اوج خود، بریتانیا گرم ترین روز سال را ثبت کرد",
+      "title_fa": "با رسیدن موج گرمای پنجم تابستان به اوج خود، بریتانیا گرم ترین روز سال را ثبت کرد",
+      "title_en": "UK records hottest day of the year as fifth summer heatwave reaches peak",
+      "summary": "دمای باغ‌های کیو در لندن به 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا می‌رسد که قاره‌ای در زیر گنبد گرما گرفتار شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
+      "summary_fa": "دمای باغ‌های کیو در لندن به 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا می‌رسد که قاره‌ای در زیر گنبد گرما گرفتار شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
+      "summary_en": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat domeEurope heatwave – latest updatesThe UK has recorded its hottest day of the year so far with a provisional temperature of 38.1C in southern England as Europe sweltered under a major heat dome.As temperatures on the continent approached 40C at the peak of the summer’s fifth heatwave, the thermometer at Kew Gardens in west London surpassed the previous high of 38C on 28 June, the Met Office said. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:48:53 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c0e013e0b0f2e0cd419f3fa880b11e723b2ac6fe/540_0_3990_3192/master/3990.jpg?width=140&quality=85&auto=format&fit=max&s=3dcfe6971db7e026101c8754f4123d35",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "75f892da9eb8009534e46ce0d8c5aa33",
+      "title": "این سهام غیرتکنولوژیکی می‌توانند برای سال‌ها از هوش مصنوعی استفاده کنند",
+      "title_fa": "این سهام غیرتکنولوژیکی می‌توانند برای سال‌ها از هوش مصنوعی استفاده کنند",
+      "title_en": "These nontech stocks can ride the AI build-out for years",
+      "summary": "هزینه‌های هنگفت در مراکز داده و زیرساخت‌های هوش مصنوعی می‌تواند به نفع شرکت‌های «HALO» باشد: دارایی‌های سخت، قدیمی بودن کم.",
+      "summary_fa": "هزینه‌های هنگفت در مراکز داده و زیرساخت‌های هوش مصنوعی می‌تواند به نفع شرکت‌های «HALO» باشد: دارایی‌های سخت، قدیمی بودن کم.",
+      "summary_en": "Massive spending on data centers and AI infrastructure can benefit “HALO” companies: hard assets, low obsolescence.",
+      "link": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 13 Aug 2026 15:48:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-44242364",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "11c833de0a55cf235d937852d7bfe7ca",
       "title": "اصلاحات اساسی واکسن ترامپ می تواند بی اعتمادی را تقویت کند و اروپا را در برابر ظهور مجدد بیماری آسیب پذیر کند",
       "title_fa": "اصلاحات اساسی واکسن ترامپ می تواند بی اعتمادی را تقویت کند و اروپا را در برابر ظهور مجدد بیماری آسیب پذیر کند",
@@ -93332,6 +93605,216 @@
       }
     },
     {
+      "id": "711a244db0925e893d11040a3a55b0db",
+      "title": "ارتش ایالات متحده تقریباً 25 درصد از پهپادهای ریپر خود را از دست داده است زیرا جنگ ایران زرادخانه خود را تخلیه می کند.",
+      "title_fa": "ارتش ایالات متحده تقریباً 25 درصد از پهپادهای ریپر خود را از دست داده است زیرا جنگ ایران زرادخانه خود را تخلیه می کند.",
+      "title_en": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal",
+      "summary": "این هواپیماها که هر کدام تا 50 میلیون دلار قیمت دارند، در اطراف تنگه هرمز به شدت مورد استفاده قرار گرفته اند - اما آنها اهداف نسبتا آسانی برای ایران و نیروهای نیابتی آن هستند.",
+      "summary_fa": "این هواپیماها که هر کدام تا 50 میلیون دلار قیمت دارند، در اطراف تنگه هرمز به شدت مورد استفاده قرار گرفته اند - اما آنها اهداف نسبتا آسانی برای ایران و نیروهای نیابتی آن هستند.",
+      "summary_en": "The aircraft, which cost up to $50 million each, have seen heavy use around the Strait of Hormuz — but they are relatively easy targets for Iran and its proxies.",
+      "link": "https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 15:39:43 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "9fd6fb38b610323fce3ffd30f26aeabd",
+      "title": "شخصی پس از استفاده از مه‌شکن برای بیدار کردن خرس قطبی در خواب جریمه شد",
+      "title_fa": "شخصی پس از استفاده از مه‌شکن برای بیدار کردن خرس قطبی در خواب جریمه شد",
+      "title_en": "Person fined after using foghorn to wake sleeping polar bear",
+      "summary": "بر اساس مقررات محلی در منطقه، \"مزاحمت، جذب یا تعقیب بی مورد خرس قطبی ممنوع است\".",
+      "summary_fa": "بر اساس مقررات محلی در منطقه، \"مزاحمت، جذب یا تعقیب بی مورد خرس قطبی ممنوع است\".",
+      "summary_en": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 15:30:57 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/7dbeac50-9728-11f1-808c-532494fd22c7.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "36edf6fe37d790491e336d0a323aa23f",
+      "title": "من ساعت های هوشمند اولترا سامسونگ و اپل را به مدت 3 هفته پوشیدم - برنامه ها تفاوت را ایجاد کردند",
+      "title_fa": "من ساعت های هوشمند اولترا سامسونگ و اپل را به مدت 3 هفته پوشیدم - برنامه ها تفاوت را ایجاد کردند",
+      "title_en": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+      "summary": "اپل واچ اولترا 3 و سامسونگ گلکسی واچ اولترا 2 ساعت های هوشمند مقاومی هستند که دارای ویژگی های مشابه هستند، اما یکی از آنها برجسته است.",
+      "summary_fa": "اپل واچ اولترا 3 و سامسونگ گلکسی واچ اولترا 2 ساعت های هوشمند مقاومی هستند که دارای ویژگی های مشابه هستند، اما یکی از آنها برجسته است.",
+      "summary_en": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 15:30:00 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2e006ae301bfa5cab8cf2472b3598be2",
+      "title": "موج گرمای اروپا زنده: بریتانیا شاهد دمای 38.1 درجه سانتی گراد، گرم ترین روز سال 2026 است. یونان با بادهای شدید می جنگد که باعث ترس از آتش سوزی می شود",
+      "title_fa": "موج گرمای اروپا زنده: بریتانیا شاهد دمای 38.1 درجه سانتی گراد، گرم ترین روز سال 2026 است. یونان با بادهای شدید می جنگد که باعث ترس از آتش سوزی می شود",
+      "title_en": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles gale force winds, sparking fears about wildfires",
+      "summary": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_fa": "یکی از مشاوران علمی سابق دولت بریتانیا هشدار داد در میان گرمای «شکستنده» که هنوز هم بدتر از آن در راه است، متد دفتر به‌تازگی به‌روزرسانی دمای سراسر بریتانیا را ارائه کرده است، با چندین ایستگاه در حال حاضر دمای بالاتر از 30 درجه سانتی‌گراد - و حتی ساعت 11 صبح هم نیست. دمای هوا در Wych Cross 30.4 درجه سانتی‌گراد، در چارلی‌وود 30.30 درجه سانتی‌گراد است. ادامه مطلب...",
+      "summary_en": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am.It’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield. Continue reading...",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:27:55 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/28002c94b965f2d20d8d0e3d27566bd16c249300/576_0_6400_5120/master/6400.jpg?width=140&quality=85&auto=format&fit=max&s=a690619f2c158e5486b4366a76b70987",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "c302bf43cfaa9b1acbb6872dbc7821fa",
+      "title": "آیا با تشدید حملات حوثی ها، جنگ همه جانبه در یمن دوباره شعله ور خواهد شد؟",
+      "title_fa": "آیا با تشدید حملات حوثی ها، جنگ همه جانبه در یمن دوباره شعله ور خواهد شد؟",
+      "title_en": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+      "summary": "تحلیلگران می گویند با افزایش حملات حوثی ها، عربستان سعودی در حال تقویت موقعیت خود با متحدان منطقه ای است.",
+      "summary_fa": "تحلیلگران می گویند با افزایش حملات حوثی ها، عربستان سعودی در حال تقویت موقعیت خود با متحدان منطقه ای است.",
+      "summary_en": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 15:27:52 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "53c68fa93e26567adf091bb39d7b2cb2",
+      "title": "چگونه یک پروژه حفاری نفت در ایالات متحده گرینلند را تکان می دهد",
+      "title_fa": "چگونه یک پروژه حفاری نفت در ایالات متحده گرینلند را تکان می دهد",
+      "title_en": "How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland",
+      "summary": "یک شرکت نفتی ایالات متحده می گوید ممکن است در آستانه یک کشف بزرگ در گرینلند باشد. این پیشنهاد در زمان دشواری برای جزیره قطب شمال ارائه می شود و مردم محلی در برابر آن صف آرایی می کنند.",
+      "summary_fa": "یک شرکت نفتی ایالات متحده می گوید ممکن است در آستانه یک کشف بزرگ در گرینلند باشد. این پیشنهاد در زمان دشواری برای جزیره قطب شمال ارائه می شود و مردم محلی در برابر آن صف آرایی می کنند.",
+      "summary_en": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 15:26:36 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b52a88f7338a2ff71b6a868c74cdd4f3",
+      "title": "حراج های هفته اتومبیل مونتری با کمک خریداران جوان می تواند به رکورد 500 میلیون دلار برسد",
+      "title_fa": "حراج های هفته اتومبیل مونتری با کمک خریداران جوان می تواند به رکورد 500 میلیون دلار برسد",
+      "title_en": "Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+      "summary": "نسل جدیدی از هزاره‌ها و ژنرال Zers بازار کلکسیون‌ها را از بچه‌های پررونق می‌گیرند و در هفته خودروی مونتری سوپراسپرت‌های مدرن پیشنهاد می‌دهند.",
+      "summary_fa": "نسل جدیدی از هزاره‌ها و ژنرال Zers بازار کلکسیون‌ها را از بچه‌های پررونق می‌گیرند و در هفته خودروی مونتری سوپراسپرت‌های مدرن پیشنهاد می‌دهند.",
+      "summary_en": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
+      "link": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 15:19:31 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1e0eb283cf3163c9e6753a13cbef332f",
+      "title": "خوانندگان گاردین تجربه خود را از خورشید گرفتگی به اشتراک می گذارند: «کلندر بهترین عملکرد را داشت!»",
+      "title_fa": "خوانندگان گاردین تجربه خود را از خورشید گرفتگی به اشتراک می گذارند: «کلندر بهترین عملکرد را داشت!»",
+      "title_en": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
+      "summary": "خوانندگان منظره خیره‌کننده و روح اجتماعی این غذای کمیاب آسمانی را به یاد می‌آورند - و وسایل دست ساز که آن را دیدند عصر چهارشنبه، میلیون‌ها نفر در اروپا یک خورشید گرفتگی نادر را تماشا کردند. از برخی از آنها خواستیم عکس ها و تجربیات خود را از این غذای آسمانی به اشتراک بگذارند. \n در اینجا برخی از پاسخ های آنها آورده شده است. ادامه مطلب...",
+      "summary_fa": "خوانندگان منظره خیره‌کننده و روح اجتماعی این غذای کمیاب آسمانی را به یاد می‌آورند - و وسایل دست ساز که آن را دیدند عصر چهارشنبه، میلیون‌ها نفر در اروپا یک خورشید گرفتگی نادر را تماشا کردند. از برخی از آنها خواستیم عکس ها و تجربیات خود را از این غذای آسمانی به اشتراک بگذارند. \n در اینجا برخی از پاسخ های آنها آورده شده است. ادامه مطلب...",
+      "summary_en": "Readers recall the breathtaking sight and community spirit of the rare celestial treat – and the handmade contraptions they saw it throughOn Wednesday evening, millions of people in Europe watched a rare solar eclipse. We asked some of them to share their photographs and experiences of this celestial treat. \n Here are some of their responses. Continue reading...",
+      "link": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:19:13 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2515dc3b3f947cb8d57a0809e08e92d73c2412c0/0_411_900_719/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=5139aa45297d372b73b6644a36202f9d",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "aaa7433f178800b32ee7de743b485783",
+      "title": "شما از DND استفاده می‌کنید: 5 تنظیمات قدرتمند Do Not Disturb که امروز می‌توانید روی آیفون خود امتحان کنید",
+      "title_fa": "شما از DND استفاده می‌کنید: 5 تنظیمات قدرتمند Do Not Disturb که امروز می‌توانید روی آیفون خود امتحان کنید",
+      "title_en": "You're using DND all wrong: 5 powerful Do Not Disturb settings to try on your iPhone today",
+      "summary": "DND بسیار بیشتر از راهی برای بی صدا کردن تلفن شما است.",
+      "summary_fa": "DND بسیار بیشتر از راهی برای بی صدا کردن تلفن شما است.",
+      "summary_en": "DND is so much more than a way to silence your phone.",
+      "link": "https://www.zdnet.com/article/iphone-do-not-disturb-tips/",
+      "source": "ZDNet",
+      "published_at": "Thu, 13 Aug 2026 15:18:33 GMT",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3767b83a9cb13bac8de327bfef40288f",
+      "title": "شیوع سریع ابولا در جمهوری دموکراتیک کنگو به استان ششم سرایت کرد",
+      "title_fa": "شیوع سریع ابولا در جمهوری دموکراتیک کنگو به استان ششم سرایت کرد",
+      "title_en": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "مردی در Bas-Uele پس از سفر از Haut-Uele جان خود را از دست داد، همانطور که رئیس WHO می گوید شیوع بیماری در مسیر مرگبارترین است. مقامات گفتند که شیوع ابولا در جمهوری دموکراتیک کنگو به ششمین استان گسترش یافته است، یک روز پس از اینکه رئیس سازمان بهداشت جهانی گفت شیوع این بیماری در مسیر فراتر رفتن از مرگبارترین و بیش از 10 کشته در تاریخ است که بیش از 10 سال پیش شیوع پیدا کرد. مردم. ژان کاسیا، مدیر کل CDC آفریقا، گفت که یک مورد مرگ در استان باس اوله که قبلاً تحت تأثیر قرار نگرفته بود، ثبت شده است. کاسیا گفت که این مرد از ایسیرو، در استان هاوت-اوله، به بوتا، پایتخت باس اوله سفر کرده بود و در آنجا جان باخت. ادامه مطلب...",
+      "summary_fa": "مردی در Bas-Uele پس از سفر از Haut-Uele جان خود را از دست داد، همانطور که رئیس WHO می گوید شیوع بیماری در مسیر مرگبارترین است. مقامات گفتند که شیوع ابولا در جمهوری دموکراتیک کنگو به ششمین استان گسترش یافته است، یک روز پس از اینکه رئیس سازمان بهداشت جهانی گفت شیوع این بیماری در مسیر فراتر رفتن از مرگبارترین و بیش از 10 کشته در تاریخ است که بیش از 10 سال پیش شیوع پیدا کرد. مردم. ژان کاسیا، مدیر کل CDC آفریقا، گفت که یک مورد مرگ در استان باس اوله که قبلاً تحت تأثیر قرار نگرفته بود، ثبت شده است. کاسیا گفت که این مرد از ایسیرو، در استان هاوت-اوله، به بوتا، پایتخت باس اوله سفر کرده بود و در آنجا جان باخت. ادامه مطلب...",
+      "summary_en": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which erupted more than a decade ago and killed more than 11,000 people.Jean Kaseya, the director general of Africa CDC, said a death had been recorded in the previously unaffected Bas-Uele province. Kaseya said the man had travelled from Isiro, in Haut-Uele province, to Buta, the capital of Bas-Uele, where he died. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:17:13 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/7cdf83c55d79a96a161395d5c73576671830d88a/31_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=69ea3d0c862b6a5b0a713ec4ccab78d2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "46a0ca8121ba558e6f850fb845117873",
       "title": "یک نقطه سخت کوچک اولین علامت سرطان سینه لوسی دیویس بود. چه چیز دیگری را باید بررسی کنید؟",
       "title_fa": "یک نقطه سخت کوچک اولین علامت سرطان سینه لوسی دیویس بود. چه چیز دیگری را باید بررسی کنید؟",
@@ -93345,6 +93828,27 @@
       "date_iso": "2026-08-13",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6d94099149d4e49fa710f4c70c179288",
+      "title": "حزب عدالت و توسعه ترکیه 25 ساله شد: سفری برای تغییر و تجدید",
+      "title_fa": "حزب عدالت و توسعه ترکیه 25 ساله شد: سفری برای تغییر و تجدید",
+      "title_en": "Turkiye’s AK Party turns 25: A journey of change and renewal",
+      "summary": "در یک ربع قرن، این حزب دموکراسی را تقویت کرد، توسعه را پیش برد و جایگاه جهانی ترکیه را ارتقا داد.",
+      "summary_fa": "در یک ربع قرن، این حزب دموکراسی را تقویت کرد، توسعه را پیش برد و جایگاه جهانی ترکیه را ارتقا داد.",
+      "summary_en": "In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.",
+      "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 15:07:42 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -93434,6 +93938,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1ece1e958b2535675c614b45c4500218",
+      "title": "یکی از کارکنان یک ملت متهم به اینکه خود را به عنوان سازنده محتوای چپ در ویدیوهای \"مخفی\" معرفی کرده است",
+      "title_fa": "یکی از کارکنان یک ملت متهم به اینکه خود را به عنوان سازنده محتوای چپ در ویدیوهای \"مخفی\" معرفی کرده است",
+      "title_en": "One Nation staffer accused of posing as leftwing content creator in ‘undercover’ videos",
+      "summary": "اختصاصی: ویدیوهایی که در راهپیمایی‌های ضد One Nation فیلم‌برداری شده‌اند، در صفحات اجتماعی حزب پست شده‌اند و به نظر می‌رسد توسط Pauline Hanson تأیید شده‌اند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صاحبان یک صفحه رسانه اجتماعی مترقی، One Nation را متهم کرده‌اند که در تظاهرات ضد پائولین هانسون جعل هویت آنها را متهم کرده‌اند. ویدئوهایی با یک مجری مرد جوان که در تظاهرات چپ‌ها شرکت می‌کند. در این کلیپ ها - که در صفحات متعلق به One Nation و Hanson در اینستاگرام، TikTok و X منتشر شده است - یکی از کارکنان حزب در مصاحبه های فیلمبرداری شده به دنبال شرمساری معترضان است. ادامه مطلب...",
+      "summary_fa": "اختصاصی: ویدیوهایی که در راهپیمایی‌های ضد One Nation فیلم‌برداری شده‌اند، در صفحات اجتماعی حزب پست شده‌اند و به نظر می‌رسد توسط Pauline Hanson تأیید شده‌اند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید صاحبان یک صفحه رسانه اجتماعی مترقی، One Nation را متهم کرده‌اند که در تظاهرات ضد پائولین هانسون جعل هویت آنها را متهم کرده‌اند. ویدئوهایی با یک مجری مرد جوان که در تظاهرات چپ‌ها شرکت می‌کند. در این کلیپ ها - که در صفحات متعلق به One Nation و Hanson در اینستاگرام، TikTok و X منتشر شده است - یکی از کارکنان حزب در مصاحبه های فیلمبرداری شده به دنبال شرمساری معترضان است. ادامه مطلب...",
+      "summary_en": "Exclusive: The videos, filmed at anti-One Nation rallies, were posted to party’s social pages and appear to be endorsed by Pauline HansonGet our breaking news email, free app or daily news podcastThe owners of a progressive social media page have accused One Nation of impersonating them at anti-Pauline Hanson rallies while shooting a series of “undercover” videos.Hanson’s party has recently published a string of videos with a young male host attending leftwing protests. In the clips – published on pages owned by One Nation and Hanson on Instagram, TikTok and X – a party staffer seeks to embarrass protesters in filmed interviews. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:00:04 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/808d514f436a60e03dfe1df68fcef0decee4c2f4/0_238_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=b07fc97ebde02b434fe98e0d98e37f16",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a55be5deacaf92f3e83a829f6527e9be",
+      "title": "آیا در استرالیا Buy Now Pay Later رونق به پایان رسیده است؟",
+      "title_fa": "آیا در استرالیا Buy Now Pay Later رونق به پایان رسیده است؟",
+      "title_en": "Is Australia’s Buy Now Pay Later boom at an end?",
+      "summary": "چندین شرکت قول دادند که بازار اعتبار مصرف کننده را با ارائه فوری خریدهای خود به مصرف کنندگان و بعداً صورتحساب، مختل کنند. جواب داد؟ ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنیدAfterpay هرگز در استرالیا سود نکرده است. ماه گذشته، میلیون‌ها دلار برای تصاحب ورزشگاه المپیک سیدنی هزینه کرد. این شرکت می‌گوید Afterpay Arena اولین مکانی خواهد بود که استرالیایی‌ها می‌توانند «اکنون خرید کنند، بعداً پرداخت کنند» برای بلیط رویداد، کالا، شام و حتی الکل. ادامه مطلب...",
+      "summary_fa": "چندین شرکت قول دادند که بازار اعتبار مصرف کننده را با ارائه فوری خریدهای خود به مصرف کنندگان و بعداً صورتحساب، مختل کنند. جواب داد؟ ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنیدAfterpay هرگز در استرالیا سود نکرده است. ماه گذشته، میلیون‌ها دلار برای تصاحب ورزشگاه المپیک سیدنی هزینه کرد. این شرکت می‌گوید Afterpay Arena اولین مکانی خواهد بود که استرالیایی‌ها می‌توانند «اکنون خرید کنند، بعداً پرداخت کنند» برای بلیط رویداد، کالا، شام و حتی الکل. ادامه مطلب...",
+      "summary_en": "Several firms promised to disrupt the consumer credit market by offering consumers their purchases instantly and the bill later. Did it work?Get our breaking news email, free app or daily news podcastAfterpay has never turned a profit in Australia. Last month, it spent millions to take over a Sydney Olympic Park arena.The company says Afterpay Arena will be the first venue where Australians can “buy now, pay later” for their event tickets, merchandise, dinner and even alcohol. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:00:03 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/93ba4f010cbb2ff266008dca62fa83e025d94378/1444_2554_6252_5002/master/6252.jpg?width=140&quality=85&auto=format&fit=max&s=54d29d8c7f31fd763911c9ef5a38006f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9fa378a2104f2906132679a074df58bc",
+      "title": "ایران می گوید تنگه هرمز تحت کنترلش است، ادعاهای ترامپ را رد می کند",
+      "title_fa": "ایران می گوید تنگه هرمز تحت کنترلش است، ادعاهای ترامپ را رد می کند",
+      "title_en": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+      "summary": "ایران بر تنگه هرمز کنترل کامل دارد و ادعای تسلط آمریکا بر این آبراه استراتژیک را به چالش می کشد.",
+      "summary_fa": "ایران بر تنگه هرمز کنترل کامل دارد و ادعای تسلط آمریکا بر این آبراه استراتژیک را به چالش می کشد.",
+      "summary_en": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 14:59:42 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -93714,6 +94281,27 @@
       "title": "حمله هواپیمای بدون سرنشین روسیه به قطار مسافربری در منطقه اودسا اوکراین دو کشته برجای گذاشت",
       "title_fa": "حمله هواپیمای بدون سرنشین روسیه به قطار مسافربری در منطقه اودسا اوکراین دو کشته برجای گذاشت",
       "title_en": "Russian drone attack on passenger train in Ukraine's Odesa region kills two people",
+      "summary": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
+      "summary_fa": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
+      "summary_en": "The latest attack comes as the United Nations recorded a record-number of civilian deaths in Ukraine in July, the highest monthly toll since May 2022.",
+      "link": "http://www.euronews.com/my-europe/2026/08/13/russian-drone-attack-on-passenger-train-in-ukraines-odesa-region-kills-two-people",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 14:15:37 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "1e7ad68a44117651519a722c8ecb7d89",
+      "title": "نیروهای روسیه به دومین قطار مسافربری در منطقه اودسا اوکراین حمله کردند",
+      "title_fa": "نیروهای روسیه به دومین قطار مسافربری در منطقه اودسا اوکراین حمله کردند",
+      "title_en": "Russian forces strike second passenger train in Ukraine's Odesa region",
       "summary": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
       "summary_fa": "آخرین حمله در حالی صورت می‌گیرد که سازمان ملل در ماه ژوئیه رکورد کشته شدن غیرنظامیان در اوکراین را به ثبت رساند که بالاترین آمار ماهانه از ماه می 2022 است.",
       "summary_en": "The latest attack comes as the United Nations recorded a record-number of civilian deaths in Ukraine in July, the highest monthly toll since May 2022.",
@@ -94158,6 +94746,27 @@
       "summary": "وکیل والتر لاویتولا می گوید قصد حمله برای تقویت امنیت خبرنگار تحقیقی سیگفریدو رانوچی یک تاجر ایتالیایی اعتراف کرده است که طراح یک حمله بمب در خانه سیگفریدو رانوچی، روزنامه نگار برجسته تحقیقی بوده است و مدعی است که هدف از این حمله تقویت حفاظت امنیتی او بوده است. سرجیو کولا وکیل تاجر به رسانه های ایتالیایی گفت که رای پس از دستگیری در اوایل هفته جاری در ارتباط با این پرونده به بازرسان اعتراف کرد. ادامه مطلب...",
       "summary_fa": "وکیل والتر لاویتولا می گوید قصد حمله برای تقویت امنیت خبرنگار تحقیقی سیگفریدو رانوچی یک تاجر ایتالیایی اعتراف کرده است که طراح یک حمله بمب در خانه سیگفریدو رانوچی، روزنامه نگار برجسته تحقیقی بوده است و مدعی است که هدف از این حمله تقویت حفاظت امنیتی او بوده است. سرجیو کولا وکیل تاجر به رسانه های ایتالیایی گفت که رای پس از دستگیری در اوایل هفته جاری در ارتباط با این پرونده به بازرسان اعتراف کرد. ادامه مطلب...",
       "summary_en": "Valter Lavitola’s lawyer says he had intended attack to boost security for investigative reporter Sigfrido RanucciAn Italian businessman has admitted to masterminding a bomb attack at the home of Sigfrido Ranucci, a prominent investigative journalist, claiming it was intended to boost his security protection.Valter Lavitola, who was friends with Ranucci, the host of Report, an investigative programme aired by the state broadcaster, Rai, made the confession to investigators after his arrest earlier this week in connection with the case, the businessman’s lawyer, Sergio Cola, told the Italian media. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 13:26:52 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2c6d39c7cd0f2f6d7be34d852a9de339c5634107/243_0_2398_1918/master/2398.jpg?width=140&quality=85&auto=format&fit=max&s=da7702d033156acfeb185016de2c3446",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1b8171089ffdbe79138798d07cd7cfc",
+      "title": "تاجر ایتالیایی اعتراف کرد که سازماندهی حمله بمبی را \"برای تقویت امنیت دوست\" انجام داده است",
+      "title_fa": "تاجر ایتالیایی اعتراف کرد که سازماندهی حمله بمبی را \"برای تقویت امنیت دوست\" انجام داده است",
+      "title_en": "Italian businessman admits organising bomb attack ‘to boost friend’s security’",
+      "summary": "والتر لاویتولا به طراح بمب در خانه خبرنگار تحقیقی سیگفریدو رانوچی اعتراف کرد تاجر ایتالیایی اعتراف کرد که طراح یک بمب گذاری در خانه سیگفریدو رانوچی، روزنامه نگار برجسته تحقیقی بوده است و مدعی است که هدف از آن تقویت حفاظت امنیتی او بوده است. سرجیو کولا، وکیل تاجر، به رسانه‌های ایتالیایی گفت، رای پس از دستگیری در اوایل این هفته در ارتباط با این پرونده، به بازرسان اعتراف کرد. ادامه مطلب...",
+      "summary_fa": "والتر لاویتولا به طراح بمب در خانه خبرنگار تحقیقی سیگفریدو رانوچی اعتراف کرد تاجر ایتالیایی اعتراف کرد که طراح یک بمب گذاری در خانه سیگفریدو رانوچی، روزنامه نگار برجسته تحقیقی بوده است و مدعی است که هدف از آن تقویت حفاظت امنیتی او بوده است. سرجیو کولا، وکیل تاجر، به رسانه‌های ایتالیایی گفت، رای پس از دستگیری در اوایل این هفته در ارتباط با این پرونده، به بازرسان اعتراف کرد. ادامه مطلب...",
+      "summary_en": "Valter Lavitola has confessed to masterminding bombing at home of investigative reporter Sigfrido RanucciAn Italian businessman has admitted to masterminding a bomb attack at the home of Sigfrido Ranucci, a prominent investigative journalist, claiming it was intended to boost his security protection.Valter Lavitola, who was friends with Ranucci, the host of Report, an investigative programme aired by the state broadcaster, Rai, made the confession to investigators after his arrest earlier this week in connection with the case, the businessman’s lawyer, Sergio Cola, told the Italian media. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/aug/13/italian-businessman-valter-lavitola-bomb-attack-journalist-friend-sigfrido-ranucci",
       "source": "The Guardian",
       "published_at": "Thu, 13 Aug 2026 13:26:52 GMT",
@@ -97945,6 +98554,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a27fa23ddc86cf9063885c5b890415f",
+      "title": "10 بهترین تشک خنک کننده برای افراد گرم خواب (2026)",
+      "title_fa": "10 بهترین تشک خنک کننده برای افراد گرم خواب (2026)",
+      "title_en": "The 10 Best Cooling Mattresses for Hot Sleepers (2026)",
+      "summary": "هیچ چیز سریعتر از گرم شدن بیش از حد یک خواب عالی را خراب نمی کند. ما روی تعداد بی‌شماری تشک خنک‌کننده خوابیدیم تا بفهمیم کدام تشک گرما را بهتر از بین می‌برد.",
+      "summary_fa": "هیچ چیز سریعتر از گرم شدن بیش از حد یک خواب عالی را خراب نمی کند. ما روی تعداد بی‌شماری تشک خنک‌کننده خوابیدیم تا بفهمیم کدام تشک گرما را بهتر از بین می‌برد.",
+      "summary_en": "Nothing ruins a great night of sleep faster than getting too hot. We slept on a myriad of cooling mattresses to find which ones drew the heat away best.",
+      "link": "https://www.wired.com/gallery/the-best-cooling-mattresses-for-hot-sleepers-1/",
+      "source": "Wired",
+      "published_at": "Thu, 13 Aug 2026 05:35:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -191736,6 +192366,90 @@
       }
     },
     {
+      "id": "fd431971079723ad867fe41f2e3d75a8",
+      "title": "متا غربالگری هوش مصنوعی را برای شناسایی کلاهبرداری های واتس اپ اضافه می کند",
+      "title_fa": "متا غربالگری هوش مصنوعی را برای شناسایی کلاهبرداری های واتس اپ اضافه می کند",
+      "title_en": "Meta adds AI screening to detect WhatsApp scams",
+      "summary": "متا در حال راه اندازی یک ویژگی اختیاری Scam Alert در واتس اپ است که از یادگیری ماشینی روی دستگاه برای پرچم گذاری پیام های مشکوک استفاده می کند. در اوایل سال جاری، متا همچنین تشخیص کلاهبرداری را برای درخواست‌های پیوند دستگاه در واتس‌اپ راه‌اندازی کرد. ویژگی جدید Scam Alert که در نسخه بتا محدود عرضه می‌شود، هشداری را به کاربران نشان می‌دهد اگر چت به نظر می‌رسد […]",
+      "summary_fa": "متا در حال راه اندازی یک ویژگی اختیاری Scam Alert در واتس اپ است که از یادگیری ماشینی روی دستگاه برای پرچم گذاری پیام های مشکوک استفاده می کند. در اوایل سال جاری، متا همچنین تشخیص کلاهبرداری را برای درخواست‌های پیوند دستگاه در واتس‌اپ راه‌اندازی کرد. ویژگی جدید Scam Alert که در نسخه بتا محدود عرضه می‌شود، هشداری را به کاربران نشان می‌دهد اگر چت به نظر می‌رسد […]",
+      "summary_en": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like […]",
+      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "source": "The Verge",
+      "published_at": "2026-08-13T12:10:06-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f07a1b3d5560f9430e5ca51af3f4c9b7",
+      "title": "Corvette Grand Sport X عملکرد پورشه 911 را با کسری از قیمت ارائه می دهد",
+      "title_fa": "Corvette Grand Sport X عملکرد پورشه 911 را با کسری از قیمت ارائه می دهد",
+      "title_en": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
+      "summary": "رانندگی من با کوروت گرند اسپورت X 2027 در زیر ابرهای سیاه روغنی آغاز شد، جلوی آب و هوای سیل آسا که تسلط خود را بر منهتن رها می کند - شروعی بد برای هر خودروی اسپورت پرقدرت. باران سنگفرش غرقابی را فرو ریخت، همانطور که مسیر را برای جاده‌های مرد کوهستانی Catskills انتخاب کردم، سپس به Long Island و New […]",
+      "summary_fa": "رانندگی من با کوروت گرند اسپورت X 2027 در زیر ابرهای سیاه روغنی آغاز شد، جلوی آب و هوای سیل آسا که تسلط خود را بر منهتن رها می کند - شروعی بد برای هر خودروی اسپورت پرقدرت. باران سنگفرش غرقابی را فرو ریخت، همانطور که مسیر را برای جاده‌های مرد کوهستانی Catskills انتخاب کردم، سپس به Long Island و New […]",
+      "summary_en": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New […]",
+      "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
+      "source": "The Verge",
+      "published_at": "2026-08-13T12:00:00-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7b37ba987b94b8bf41bc04fe4cec7192",
+      "title": "سونو سعی دارد بیشتر شبیه یک ابزار تولید موسیقی واقعی باشد",
+      "title_fa": "سونو سعی دارد بیشتر شبیه یک ابزار تولید موسیقی واقعی باشد",
+      "title_en": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno استودیو 2.0 را با ارتقاءهای قابل توجهی منتشر می کند که آن را به یک ایستگاه کاری صوتی دیجیتال واقعی (DAW) نزدیک می کند، نه یک ویرایشگر صوتی بدون نیاز به ویژگی های هوش مصنوعی. بزرگترین افزونه بدون شک پشتیبانی از MIDI است. Suno می‌گوید که MIDI درخواستی‌ترین ویژگی آن بود و اساساً پیش‌نیاز هر DAW مدرن است. متاسفانه، […]",
+      "summary_fa": "Suno استودیو 2.0 را با ارتقاءهای قابل توجهی منتشر می کند که آن را به یک ایستگاه کاری صوتی دیجیتال واقعی (DAW) نزدیک می کند، نه یک ویرایشگر صوتی بدون نیاز به ویژگی های هوش مصنوعی. بزرگترین افزونه بدون شک پشتیبانی از MIDI است. Suno می‌گوید که MIDI درخواستی‌ترین ویژگی آن بود و اساساً پیش‌نیاز هر DAW مدرن است. متاسفانه، […]",
+      "summary_en": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "source": "The Verge",
+      "published_at": "2026-08-13T12:00:00-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d7ccacf3d33a1d564ad1a1bcf6d51aad",
+      "title": "من به داخل فیلمی که با هوش مصنوعی تولید شده بود نگاه کردم و بهترین قسمت ها همه انسان بودند",
+      "title_fa": "من به داخل فیلمی که با هوش مصنوعی تولید شده بود نگاه کردم و بهترین قسمت ها همه انسان بودند",
+      "title_en": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "سه نفر از بچه‌های انگلیسی سرگیجه را تصور کنید که در یک میخانه کثیف در جایی در لندن، در مورد تبدیل شدن به ستاره‌های بزرگ خیال‌پردازی می‌کنند. پسرها را در حال غوغا کردن و تلاش برای یکی کردن تصورات ایده آل یکدیگر از آینده با یک سری از فانتزی های پر زرق و برق که در آن شهرت آنها منجر به دسترسی به […]",
+      "summary_fa": "سه نفر از بچه‌های انگلیسی سرگیجه را تصور کنید که در یک میخانه کثیف در جایی در لندن، در مورد تبدیل شدن به ستاره‌های بزرگ خیال‌پردازی می‌کنند. پسرها را در حال غوغا کردن و تلاش برای یکی کردن تصورات ایده آل یکدیگر از آینده با یک سری از فانتزی های پر زرق و برق که در آن شهرت آنها منجر به دسترسی به […]",
+      "summary_en": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to […]",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "source": "The Verge",
+      "published_at": "2026-08-13T11:30:00-04:00",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
       "id": "4b3d32531592f0573682ffad18d47edd",
       "title": "این لوگوی جدید اینستاگرام است",
       "title_fa": "این لوگوی جدید اینستاگرام است",
@@ -191937,6 +192651,90 @@
       "published_at": "2026-08-13T09:00:00-04:00",
       "date_iso": "2026-08-13",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "02ec13fc5a93b142cf15504a4fea1e07",
+      "title": "تصحیح نویسنده: مکانیسم ساختاری مهار cGAS توسط نوکلئوزوم",
+      "title_fa": "تصحیح نویسنده: مکانیسم ساختاری مهار cGAS توسط نوکلئوزوم",
+      "title_en": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "summary": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/s41586-026-10959-w تصحیح نویسنده: مکانیسم ساختاری مهار cGAS توسط نوکلئوزوم",
+      "summary_fa": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/s41586-026-10959-w تصحیح نویسنده: مکانیسم ساختاری مهار cGAS توسط نوکلئوزوم",
+      "summary_en": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-wAuthor Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "source": "Nature",
+      "published_at": "2026-08-13 16:11",
+      "date_iso": "2026-08-13",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6439c607e106f01d13932575ce14ae7a",
+      "title": "آیا واترمارک‌های نامرئی Anthropic می‌توانند «شیب هوش مصنوعی» را مهار کنند؟ محققان همچنان شک دارند",
+      "title_fa": "آیا واترمارک‌های نامرئی Anthropic می‌توانند «شیب هوش مصنوعی» را مهار کنند؟ محققان همچنان شک دارند",
+      "title_en": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "summary": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-02503-7مدل های جدید کلود متن را واترمارک می کنند و تصاویر را به عنوان تولید شده توسط هوش مصنوعی نشان می دهند، زیرا Anthropic به مقررات هوش مصنوعی اتحادیه اروپا پاسخ می دهد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-02503-7مدل های جدید کلود متن را واترمارک می کنند و تصاویر را به عنوان تولید شده توسط هوش مصنوعی نشان می دهند، زیرا Anthropic به مقررات هوش مصنوعی اتحادیه اروپا پاسخ می دهد.",
+      "summary_en": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations.",
+      "link": "https://www.nature.com/articles/d41586-026-02503-7",
+      "source": "Nature",
+      "published_at": "2026-08-13 16:11",
+      "date_iso": "2026-08-13",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e3df5664e3a1c01682c197198d40dd65",
+      "title": "آیا واکسن آنفولانزای mRNA بهتر از یک واکسن فصلی معمولی عمل می کند؟ آنچه علم می گوید",
+      "title_fa": "آیا واکسن آنفولانزای mRNA بهتر از یک واکسن فصلی معمولی عمل می کند؟ آنچه علم می گوید",
+      "title_en": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "summary": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-02502-8 واکسن جدید تایید شده مدرنا می تواند به سازندگان اجازه دهد تا به گونه های در حال تغییر آنفولانزا سریعتر واکنش نشان دهند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 13 آگوست 2026; doi:10.1038/d41586-026-02502-8 واکسن جدید تایید شده مدرنا می تواند به سازندگان اجازه دهد تا به گونه های در حال تغییر آنفولانزا سریعتر واکنش نشان دهند.",
+      "summary_en": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02502-8Moderna’s newly approved vaccine could allow manufacturers to respond more rapidly to changing influenza strains.",
+      "link": "https://www.nature.com/articles/d41586-026-02502-8",
+      "source": "Nature",
+      "published_at": "2026-08-13 16:11",
+      "date_iso": "2026-08-13",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d7ee6595eec8b9532bcb5baa25acdbab",
+      "title": "پادزهر خود مار زنگی می تواند از انسان نیز محافظت کند",
+      "title_fa": "پادزهر خود مار زنگی می تواند از انسان نیز محافظت کند",
+      "title_en": "Rattlesnakes’ own antivenom could protect humans too",
+      "summary": "طبیعت، انتشار آنلاین: 12 آگوست 2026; doi:10.1038/d41586-026-02461-0 مخلوطی از پروتئین ها در خون مار می تواند از مرگ موش هایی که با دوز کشنده زهر تزریق شده اند جلوگیری کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 12 آگوست 2026; doi:10.1038/d41586-026-02461-0 مخلوطی از پروتئین ها در خون مار می تواند از مرگ موش هایی که با دوز کشنده زهر تزریق شده اند جلوگیری کند.",
+      "summary_en": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02461-0A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom.",
+      "link": "https://www.nature.com/articles/d41586-026-02461-0",
+      "source": "Nature",
+      "published_at": "2026-08-13 16:11",
+      "date_iso": "2026-08-13",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
