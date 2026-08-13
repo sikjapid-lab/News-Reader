@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 17:15:34",
-  "total_count": 9898,
+  "last_update": "2026-08-13 18:12:10",
+  "total_count": 9909,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93206,6 +93206,27 @@
       }
     },
     {
+      "id": "611bb56b1e3faaa40d8b94ad020f01fc",
+      "title": "ویکتور کایوت می میرد: زندگی غیرممکن است که محدود به موسیقی، کمیک و فیلم شود",
+      "title_fa": "ویکتور کایوت می میرد: زندگی غیرممکن است که محدود به موسیقی، کمیک و فیلم شود",
+      "title_en": "Víctor Coyote dies: a life impossible to confine to music, comics and film",
+      "summary": "ویکتور کایوت، نام هنری ویکتور ماریا آپاریسیو آبوندانسیا، روز پنجشنبه در گالیسیا در یک تصادف دوچرخه سواری درگذشت. او 67 ساله بود و چهار دهه فعالیت حرفه ای در موسیقی، کمیک، فیلم و موزیک ویدیو را پشت سر گذاشت.",
+      "summary_fa": "ویکتور کایوت، نام هنری ویکتور ماریا آپاریسیو آبوندانسیا، روز پنجشنبه در گالیسیا در یک تصادف دوچرخه سواری درگذشت. او 67 ساله بود و چهار دهه فعالیت حرفه ای در موسیقی، کمیک، فیلم و موزیک ویدیو را پشت سر گذاشت.",
+      "summary_en": "Víctor Coyote, stage name of Víctor María Aparicio Abundancia, died on Thursday in Galicia in a cycling accident. He was 67 and left behind a four-decade career spanning music, comics, film and music videos.",
+      "link": "http://www.euronews.com/culture/2026/08/13/victor-coyote-dies-a-life-impossible-to-confine-to-music-comics-and-film",
+      "source": "EuroNews",
+      "published_at": "Thu, 13 Aug 2026 19:16:49 +0200",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "71f6c5f4920b12afcd0b6748dc818aa3",
       "title": "بازماندگان از وحشت غرق شدن کشتی زیمبابوه می گویند که پلیس می گوید تعداد کشته ها به 46 نفر رسیده است.",
       "title_fa": "بازماندگان از وحشت غرق شدن کشتی زیمبابوه می گویند که پلیس می گوید تعداد کشته ها به 46 نفر رسیده است.",
@@ -93262,6 +93283,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2aba14a0ae12b6c938cdaab37470dd06",
+      "title": "کارشناسان می‌گویند گله «نمی‌تواند راه خود را از مشکل پلیس استالکر پیدا کند».",
+      "title_fa": "کارشناسان می‌گویند گله «نمی‌تواند راه خود را از مشکل پلیس استالکر پیدا کند».",
+      "title_en": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "summary": "دسته جمعی برای قفل کردن پلیس هایی که پیشین ها را تعقیب می کنند، اما آژانس ها هنوز هم می توانند سوء استفاده را پنهان کنند.",
+      "summary_fa": "دسته جمعی برای قفل کردن پلیس هایی که پیشین ها را تعقیب می کنند، اما آژانس ها هنوز هم می توانند سوء استفاده را پنهان کنند.",
+      "summary_en": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 18:10:14 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -93332,6 +93374,69 @@
       }
     },
     {
+      "id": "6c993b3f2abc8460e47a61f6df3e30bd",
+      "title": "صاحبان حیوانات خانگی می گویند که قطع شدن تغذیه هوشمند حیوانات خانگی منجر به عدم تغذیه حیوانات پشمالو شده است",
+      "title_fa": "صاحبان حیوانات خانگی می گویند که قطع شدن تغذیه هوشمند حیوانات خانگی منجر به عدم تغذیه حیوانات پشمالو شده است",
+      "title_en": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "summary": "\"من اعتمادم رو از دست دادم...\"",
+      "summary_fa": "\"من اعتمادم رو از دست دادم...\"",
+      "summary_en": "\"I've lost trust ...\"",
+      "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 17:53:53 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PDP-AF105-Carousel-07-1152x648.webp",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a440c4eb6f94589ac6c49db1bd2e3d6",
+      "title": "در اینجا یک به روز رسانی سریع در مورد 32 سهام ما، شامل 5 مورد دلخواه Cramer برای خرید آمده است.",
+      "title_fa": "در اینجا یک به روز رسانی سریع در مورد 32 سهام ما، شامل 5 مورد دلخواه Cramer برای خرید آمده است.",
+      "title_en": "Here's a rapid-fire update on our 32-stock portfolio, including Cramer's 5 favorites to buy",
+      "summary": "سهام مورد علاقه جیم کرامر در حال حاضر شامل سه تراشه ساز و یک غول حمل و نقل است.",
+      "summary_fa": "سهام مورد علاقه جیم کرامر در حال حاضر شامل سه تراشه ساز و یک غول حمل و نقل است.",
+      "summary_en": "Jim Cramer's favorite stocks right now include a trio of chipmakers and a transportation giant.",
+      "link": "https://www.cnbc.com/2026/08/13/heres-a-rapid-fire-update-on-our-32-stock-portfolio-including-cramers-5-favorites-to-buy.html",
+      "source": "CNBC",
+      "published_at": "Thu, 13 Aug 2026 17:53:51 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5f3a98bbd7c565c194612510a48ee2b7",
+      "title": "پلیس اکوادور 1000 پوند کوکائین حاوی تصویر ارلینگ هالند ستاره فوتبال را کشف و ضبط کرد.",
+      "title_fa": "پلیس اکوادور 1000 پوند کوکائین حاوی تصویر ارلینگ هالند ستاره فوتبال را کشف و ضبط کرد.",
+      "title_en": "Ecuadorian police seize 1,000 pounds of cocaine bearing image of soccer star Erling Haaland",
+      "summary": "تصاویر سیاستمداران و افراد مشهور اغلب توسط کارتل های مواد مخدر برای علامت گذاری محصولات خود، حمل و نقل آسان و بازتاب کیفیت استفاده می شود.",
+      "summary_fa": "تصاویر سیاستمداران و افراد مشهور اغلب توسط کارتل های مواد مخدر برای علامت گذاری محصولات خود، حمل و نقل آسان و بازتاب کیفیت استفاده می شود.",
+      "summary_en": "Images of politicians and celebrities are often used by drug cartels to mark their products, ease transportation and reflect quality.",
+      "link": "https://www.washingtonpost.com/world/2026/08/13/ecuadorian-police-seize-1000-pounds-cocaine-bearing-image-soccer-star-erling-haaland/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 17:50:00 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "eae70c223c50951572b4dad7ea21b33a",
       "title": "زلنسکی می گوید که اوکراین به 5 درصد از سهام پاتریوت آمریکا فقط برای پشت سر گذاشتن زمستان نیاز دارد",
       "title_fa": "زلنسکی می گوید که اوکراین به 5 درصد از سهام پاتریوت آمریکا فقط برای پشت سر گذاشتن زمستان نیاز دارد",
@@ -93353,6 +93458,27 @@
       }
     },
     {
+      "id": "d8c789151305b84e1737a8cc701e28da",
+      "title": "دیده‌بان حقوق بشر می‌گوید که دولت ترامپ اجرای حقوق مدنی فدرال را «لغز» کرده است",
+      "title_fa": "دیده‌بان حقوق بشر می‌گوید که دولت ترامپ اجرای حقوق مدنی فدرال را «لغز» کرده است",
+      "title_en": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+      "summary": "یک گزارش جدید نشان می‌دهد که آژانس‌های اصلی فدرال نظارت بر قوانین حقوق مدنی در سطح ملی را متوقف کرده‌اند.",
+      "summary_fa": "یک گزارش جدید نشان می‌دهد که آژانس‌های اصلی فدرال نظارت بر قوانین حقوق مدنی در سطح ملی را متوقف کرده‌اند.",
+      "summary_en": "A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 17:46:18 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4069114b3cdee04e27abcac1366cc2d5",
       "title": "مردم از ساحل به دلیل اشک های آتش سوزی از طریق نقطه محبوب توریستی یونان تخلیه شدند",
       "title_fa": "مردم از ساحل به دلیل اشک های آتش سوزی از طریق نقطه محبوب توریستی یونان تخلیه شدند",
@@ -93367,6 +93493,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "74a25ee89d89f173899425a799b6b466",
+      "title": "لوگوی جدید اینستاگرام تجسم کاملی از شیب هوش مصنوعی است",
+      "title_fa": "لوگوی جدید اینستاگرام تجسم کاملی از شیب هوش مصنوعی است",
+      "title_en": "The new Instagram logo is the perfect embodiment of AI slop",
+      "summary": "نظر: برخی از اظهارات در مورد علامت کلمه جدید به طور تصادفی کاملاً افتضاح است.",
+      "summary_fa": "نظر: برخی از اظهارات در مورد علامت کلمه جدید به طور تصادفی کاملاً افتضاح است.",
+      "summary_en": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "Ars Technica",
+      "published_at": "Thu, 13 Aug 2026 17:32:10 +0000",
+      "date_iso": "2026-08-13",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark.png",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -93395,6 +93542,27 @@
       }
     },
     {
+      "id": "868d186e6aea13a0740f7b6496b25a2e",
+      "title": "شیوع ابولا در جمهوری دموکراتیک کنگو به استان ششم سرایت کرد",
+      "title_fa": "شیوع ابولا در جمهوری دموکراتیک کنگو به استان ششم سرایت کرد",
+      "title_en": "DR Congo Ebola outbreak spreads to a sixth province",
+      "summary": "بر اساس آمارهای دولتی، شیوع ابولا از حدود 4566 مورد ثبت شده در جمهوری دموکراتیک کنگو 2128 نفر را کشته است.",
+      "summary_fa": "بر اساس آمارهای دولتی، شیوع ابولا از حدود 4566 مورد ثبت شده در جمهوری دموکراتیک کنگو 2128 نفر را کشته است.",
+      "summary_en": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 17:18:01 +0000",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "85923d355bff3a510515f5cbb3cb3a5b",
       "title": "مسکو می گوید بمب پنهان شده در سطل زباله، افسر روس را در سواستوپل اشغالی کشته است",
       "title_fa": "مسکو می گوید بمب پنهان شده در سطل زباله، افسر روس را در سواستوپل اشغالی کشته است",
@@ -93409,6 +93577,48 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "9aab452a3bf6c59dde7e827ef454e3d6",
+      "title": "هوش مصنوعی حفره های بزرگی را در امنیت سایبری باز کرده است",
+      "title_fa": "هوش مصنوعی حفره های بزرگی را در امنیت سایبری باز کرده است",
+      "title_en": "AI has opened up big holes in cyber security",
+      "summary": "برای جلوگیری از استفاده از فناوری به عنوان یک سلاح مخرب بسیار دیر شده است، بنابراین سرمایه گذاری بزرگ در دفاع ضروری است.",
+      "summary_fa": "برای جلوگیری از استفاده از فناوری به عنوان یک سلاح مخرب بسیار دیر شده است، بنابراین سرمایه گذاری بزرگ در دفاع ضروری است.",
+      "summary_en": "It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed",
+      "link": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 13 Aug 2026 17:14:07 GMT",
+      "date_iso": "2026-08-13",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8ddfdd1-6cd5-4f24-b07c-61fbcc4108d4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cdc78c5173e040786756014274d36a90",
+      "title": "پیشنهاد اوکراین به روسیه برای توقف حملات به کشتی‌های غیرنظامی در دریای سیاه",
+      "title_fa": "پیشنهاد اوکراین به روسیه برای توقف حملات به کشتی‌های غیرنظامی در دریای سیاه",
+      "title_en": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
+      "summary": "گزارش‌ها حاکی از آن است که کی‌یف در تلاش برای بازگشایی کریدور مهم غلات، توافقی متقابل را پیشنهاد کرده است. رویترز گزارش می‌دهد که کی‌یف این پیشنهاد را از طریق یک شخص ثالث ارائه کرده است. این خبرگزاری افزود که مسکو هنوز واکنشی نشان نداده است. این آبراه شلوغ یک مسیر صادراتی کلیدی برای روسیه و اوکراین است که برای حمل غلات و سایر مواد غذایی حیاتی در سراسر جهان استفاده می شود. ادامه مطلب...",
+      "summary_fa": "گزارش‌ها حاکی از آن است که کی‌یف در تلاش برای بازگشایی کریدور مهم غلات، توافقی متقابل را پیشنهاد کرده است. رویترز گزارش می‌دهد که کی‌یف این پیشنهاد را از طریق یک شخص ثالث ارائه کرده است. این خبرگزاری افزود که مسکو هنوز واکنشی نشان نداده است. این آبراه شلوغ یک مسیر صادراتی کلیدی برای روسیه و اوکراین است که برای حمل غلات و سایر مواد غذایی حیاتی در سراسر جهان استفاده می شود. ادامه مطلب...",
+      "summary_en": "Kyiv reportedly suggested mutual agreement in attempt to reopen crucial grain corridor Ukraine has proposed a deal with Russia for both sides to halt their attacks on civilian ships in the Black Sea in an apparent attempt to reopen a crucial grain corridor, Reuters reports.Kyiv is said to have made the offer through a third party. Moscow has yet to respond, the news agency added. The busy waterway is a key export route for both Russia and Ukraine, used to transport grain and other vital foodstuffs worldwide. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 17:13:33 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4f39b05dc2e02dc24b685212c82673e1ecbdbd99/376_0_3991_3193/master/3991.jpg?width=140&quality=85&auto=format&fit=max&s=41b32dc678a5dd5a26f0a6b68d0d904a",
       "geo": {
         "lat": 55.7558,
         "lng": 37.6173,
@@ -94158,6 +94368,27 @@
       "summary": "دمای باغ‌های کیو در لندن به 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا می‌رسد که قاره‌ای در زیر گنبد گرما گرفتار شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
       "summary_fa": "دمای باغ‌های کیو در لندن به 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا می‌رسد که قاره‌ای در زیر گنبد گرما گرفتار شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
       "summary_en": "Kew Gardens in London hits 38.1C and 40C-plus expected in parts of Europe with continent trapped under heat domeEurope heatwave – latest updatesThe UK has recorded its hottest day of the year so far with a provisional temperature of 38.1C in southern England as Europe sweltered under a major heat dome.As temperatures on the continent approached 40C at the peak of the summer’s fifth heatwave, the thermometer at Kew Gardens in west London surpassed the previous high of 38C on 28 June, the Met Office said. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+      "source": "The Guardian",
+      "published_at": "Thu, 13 Aug 2026 15:48:53 GMT",
+      "date_iso": "2026-08-13",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c0e013e0b0f2e0cd419f3fa880b11e723b2ac6fe/540_0_3990_3192/master/3990.jpg?width=140&quality=85&auto=format&fit=max&s=3dcfe6971db7e026101c8754f4123d35",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "47e69574e436a40eca64f82baced5da2",
+      "title": "با رسیدن موج گرمای پنجم تابستان به اوج خود، بریتانیا گرم ترین روز سال را ثبت کرد",
+      "title_fa": "با رسیدن موج گرمای پنجم تابستان به اوج خود، بریتانیا گرم ترین روز سال را ثبت کرد",
+      "title_en": "UK records hottest day of year as fifth summer heatwave reaches peak",
+      "summary": "باغ‌های کیو در لندن با دمای 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا با قاره‌ای که در زیر گنبد گرما گرفتار شده است، ثبت شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن در روز پنجشنبه از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
+      "summary_fa": "باغ‌های کیو در لندن با دمای 38.1 درجه سانتی‌گراد و بیش از 40 درجه سانتی‌گراد در بخش‌هایی از اروپا با قاره‌ای که در زیر گنبد گرما گرفتار شده است، ثبت شده است. اداره هواشناسی گفت که پنجمین موج گرمای تابستان، دماسنج در باغ کیو در غرب لندن در روز پنجشنبه از بالاترین سطح قبلی یعنی 38 درجه سانتیگراد در 28 ژوئن فراتر رفت. ادامه مطلب...",
+      "summary_en": "Kew Gardens in London hits 38.1C and 40C-plus recorded in parts of Europe with continent trapped under heat domeEurope heatwave – latest updatesThe UK has recorded its hottest day of the year so far with a provisional temperature of 38.1C in southern England as Europe sweltered under a major heat dome.As temperatures on the continent surpassed 40C at the peak of the summer’s fifth heatwave, the thermometer at Kew Gardens in west London on Thursday surpassed the previous high of 38C on 28 June, the Met Office said. Continue reading...",
       "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
       "source": "The Guardian",
       "published_at": "Thu, 13 Aug 2026 15:48:53 GMT",
