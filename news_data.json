@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 22:35:20",
-  "total_count": 10462,
+  "last_update": "2026-08-14 22:57:31",
+  "total_count": 10463,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186857,6 +186857,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/db74c2bd4916bf32c469d847b07460e79d7b13ff/324_0_3556_2844/master/3556.jpg?width=140&quality=85&auto=format&fit=max&s=47da2af21992d0d7ae3bb32e40d55af3",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7a31c370370f7bec4e6ca7ea746becf5",
+      "title": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را فاش کرد",
+      "title_fa": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را فاش کرد",
+      "title_en": "Nvidia discloses $21bn stake in SpaceX",
+      "summary": "این پرونده پس از آن صورت می گیرد که ایلان ماسک از ترتیبات انحصاری برای تکمیل مراکز داده خود خبر داد",
+      "summary_fa": "این پرونده پس از آن صورت می گیرد که ایلان ماسک از ترتیبات انحصاری برای تکمیل مراکز داده خود خبر داد",
+      "summary_en": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centres",
+      "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 22:28:02 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F116f79c4-b712-471b-b46a-ace5e4d7dda4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
