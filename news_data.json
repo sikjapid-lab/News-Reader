@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 16:30:07",
-  "total_count": 10368,
+  "last_update": "2026-08-14 17:33:13",
+  "total_count": 10392,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186843,6 +186843,27 @@
       }
     },
     {
+      "id": "aa3ab05c666068822973ef8f95b5bcb6",
+      "title": "پلیس ایتالیا آثار هنری دزدیده شده رنوار، سزان و ماتیس را به ارزش میلیون ها پیدا می کند",
+      "title_fa": "پلیس ایتالیا آثار هنری دزدیده شده رنوار، سزان و ماتیس را به ارزش میلیون ها پیدا می کند",
+      "title_en": "Italian police recover stolen Renoir, Cézanne and Matisse artworks worth millions",
+      "summary": "این نقاشی‌ها توسط دزدان از ویلای بنیاد Magnani-Rocca در نزدیکی پارما در شمال ایتالیا، در دزدی کمتر از سه دقیقه گرفته شد.",
+      "summary_fa": "این نقاشی‌ها توسط دزدان از ویلای بنیاد Magnani-Rocca در نزدیکی پارما در شمال ایتالیا، در دزدی کمتر از سه دقیقه گرفته شد.",
+      "summary_en": "The paintings were taken by thieves from the villa of the Magnani-Rocca Foundation, near Parma in northern Italy, in a heist that lasted under three minutes.",
+      "link": "http://www.euronews.com/culture/2026/08/14/italian-police-recover-stolen-renoir-cezanne-and-matisse-artworks-worth-millions",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 18:51:23 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7d8f49da6346c6296c77e95ec1d50e23",
       "title": "آمریکا پس از سفر پوتین از حاکمیت ژاپن بر جزایر مورد مناقشه حمایت کرد",
       "title_fa": "آمریکا پس از سفر پوتین از حاکمیت ژاپن بر جزایر مورد مناقشه حمایت کرد",
@@ -186948,6 +186969,90 @@
       }
     },
     {
+      "id": "c04237d2c8297828a8d2a9bae591219a",
+      "title": "مردی که در دادگاه مشکوک به استفاده از هوش مصنوعی بود، درخواست‌هایی را در پرونده‌ها تزریق کرد تا تلاش کند پرونده را برنده شود",
+      "title_fa": "مردی که در دادگاه مشکوک به استفاده از هوش مصنوعی بود، درخواست‌هایی را در پرونده‌ها تزریق کرد تا تلاش کند پرونده را برنده شود",
+      "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "summary": "قاضی هشدار می‌دهد طرف‌های دعوی طرفدار از چت‌بات‌ها اشتباه استفاده می‌کنند و ناامید می‌شوند.",
+      "summary_fa": "قاضی هشدار می‌دهد طرف‌های دعوی طرفدار از چت‌بات‌ها اشتباه استفاده می‌کنند و ناامید می‌شوند.",
+      "summary_en": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 14 Aug 2026 17:26:53 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "94dd72f2c467032a7adc81e77047e181",
+      "title": "طرحی برای صرفه جویی در تامین اجتماعی شامل پرداخت بیشتر افراد ثروتمند بدون افزایش مزایا می شود",
+      "title_fa": "طرحی برای صرفه جویی در تامین اجتماعی شامل پرداخت بیشتر افراد ثروتمند بدون افزایش مزایا می شود",
+      "title_en": "A plan to save Social Security involves wealthy people paying more — without getting an increase in benefits",
+      "summary": "حذف سقف مالیات تنها یکی از پیشنهاداتی است که می تواند به تقویت مالی تامین اجتماعی کمک کند.",
+      "summary_fa": "حذف سقف مالیات تنها یکی از پیشنهاداتی است که می تواند به تقویت مالی تامین اجتماعی کمک کند.",
+      "summary_en": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.",
+      "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 17:20:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-21882129",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dae768c517eb1e78054895192a7a6e45",
+      "title": "قاضی ایالتی به کالشی دستور می دهد که شرط بندی های ورزشی و سایر شرط بندی ها را متوقف کند",
+      "title_fa": "قاضی ایالتی به کالشی دستور می دهد که شرط بندی های ورزشی و سایر شرط بندی ها را متوقف کند",
+      "title_en": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "summary": "به کالشی دستور توقف ارائه شرط بندی در واشنگتن، باید عملیات geofencing را انجام دهد.",
+      "summary_fa": "به کالشی دستور توقف ارائه شرط بندی در واشنگتن، باید عملیات geofencing را انجام دهد.",
+      "summary_en": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 14 Aug 2026 17:13:14 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "dffbe60f860139c19a735004ea514eb2",
+      "title": "دادگاه فرانسه ممنوعیت رسانه های اجتماعی ماکرون برای افراد زیر 15 سال را مسدود کرد",
+      "title_fa": "دادگاه فرانسه ممنوعیت رسانه های اجتماعی ماکرون برای افراد زیر 15 سال را مسدود کرد",
+      "title_en": "French court blocks Macron’s social media ban for under-15s",
+      "summary": "شورای قانون اساسی می‌گوید محدودیت‌ها آزادی بیان و حریم خصوصی را نقض می‌کند، زیرا رئیس‌جمهور متعهد به اصلاح قوانین است دادگاه عالی فرانسه ممنوعیت دسترسی به رسانه‌های اجتماعی را برای افراد زیر 15 سال مسدود کرده است و حکم می‌دهد که این ممنوعیت آزادی بیان و حریم خصوصی را نقض می‌کند. ادامه مطلب...",
+      "summary_fa": "شورای قانون اساسی می‌گوید محدودیت‌ها آزادی بیان و حریم خصوصی را نقض می‌کند، زیرا رئیس‌جمهور متعهد به اصلاح قوانین است دادگاه عالی فرانسه ممنوعیت دسترسی به رسانه‌های اجتماعی را برای افراد زیر 15 سال مسدود کرده است و حکم می‌دهد که این ممنوعیت آزادی بیان و حریم خصوصی را نقض می‌کند. ادامه مطلب...",
+      "summary_en": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislationFrance’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children’s use of social media. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 17:12:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/37d9d05fd3b13992e53c2a7f0210f723e9bc0a54/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d48ac485a44d0aa8c919e574f740994f",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
       "id": "aaec953547199c28df96d72998153d8f",
       "title": "آتش‌سوزی جنگلی کرواسی در نزدیکی اومیش به ساکنان آسیب می‌زند و سفر تعطیلات را مختل می‌کند",
       "title_fa": "آتش‌سوزی جنگلی کرواسی در نزدیکی اومیش به ساکنان آسیب می‌زند و سفر تعطیلات را مختل می‌کند",
@@ -186966,6 +187071,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ba699e9ac86fdf3a5bf2d82b7c1767cc",
+      "title": "سهام پهپادها به لطف تعرفه های جدید ترامپ در حال افزایش است",
+      "title_fa": "سهام پهپادها به لطف تعرفه های جدید ترامپ در حال افزایش است",
+      "title_en": "Drone stocks are soaring thanks to Trump’s new tariffs",
+      "summary": "رالی توسط سهام شرکت ماشین‌های غیرعادی هدایت می‌شود که قبلاً دونالد ترامپ جونیور را به عنوان مشاور معرفی کرده بود.",
+      "summary_fa": "رالی توسط سهام شرکت ماشین‌های غیرعادی هدایت می‌شود که قبلاً دونالد ترامپ جونیور را به عنوان مشاور معرفی کرده بود.",
+      "summary_en": "Rally is being led by shares of Unusual Machines, which previously disclosed Donald Trump Jr. as an adviser.",
+      "link": "https://www.marketwatch.com/story/drone-stocks-are-soaring-thanks-to-trumps-new-tariffs-895c6658?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 17:04:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-40595831",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e24e7d5cd037712bf17bf334dcfd3f04",
+      "title": "ایستگاه PBS از از دست دادن 50 ترابایت داده پس از شبح سازی توسط ارائه دهنده ذخیره سازی ابری می ترسد",
+      "title_fa": "ایستگاه PBS از از دست دادن 50 ترابایت داده پس از شبح سازی توسط ارائه دهنده ذخیره سازی ابری می ترسد",
+      "title_en": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "summary": "Iron Mountain به Ars گفت: «ما به داده های سخت افزار/سرورها دسترسی نداریم.",
+      "summary_fa": "Iron Mountain به Ars گفت: «ما به داده های سخت افزار/سرورها دسترسی نداریم.",
+      "summary_en": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 14 Aug 2026 17:03:54 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5e68a25fd914a013ad6d7ad53b6c3f41",
+      "title": "فعالان تلاش می کنند به فلسطینیان در خانه های تحت محاصره شهرک نشینان اسرائیلی کمک رسانی کنند",
+      "title_fa": "فعالان تلاش می کنند به فلسطینیان در خانه های تحت محاصره شهرک نشینان اسرائیلی کمک رسانی کنند",
+      "title_en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "summary": "دو خانواده چند روزی است که در خانه های خود در کرانه باختری اشغالی گیر افتاده اند.",
+      "summary_fa": "دو خانواده چند روزی است که در خانه های خود در کرانه باختری اشغالی گیر افتاده اند.",
+      "summary_en": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 17:03:17 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f4a/live/021031f0-97fa-11f1-870d-5d08c49babb2.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -186990,6 +187158,111 @@
       }
     },
     {
+      "id": "5309119df28f321d06485a215af928b4",
+      "title": "دیپلمات های بریتانیا دیگر پاداش سختی را برای اعزام به بوئنوس آیرس دریافت نمی کنند",
+      "title_fa": "دیپلمات های بریتانیا دیگر پاداش سختی را برای اعزام به بوئنوس آیرس دریافت نمی کنند",
+      "title_en": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "summary": "کارمندان دولت برای کار در شهرهای دشوار یا خطرناک در سراسر جهان، مستحق دریافت پول اضافی هستند.",
+      "summary_fa": "کارمندان دولت برای کار در شهرهای دشوار یا خطرناک در سراسر جهان، مستحق دریافت پول اضافی هستند.",
+      "summary_en": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 17:00:46 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3016/live/a7f45110-97fe-11f1-bc94-d3a8a062b873.png",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "d0f36f5fee09c3fece1bfb0c37c07894",
+      "title": "چرا از سلنا گومز شکایت می شود؟",
+      "title_fa": "چرا از سلنا گومز شکایت می شود؟",
+      "title_en": "Why is Selena Gomez being sued?",
+      "summary": "آنا گوئرا مور، خبرنگار بی‌بی‌سی به این موضوع می‌پردازد که چرا سرمایه‌گذارانی که از Wondermind Global حمایت می‌کنند مدعی هستند که ستاره پاپ به وعده‌هایش عمل نکرده است.",
+      "summary_fa": "آنا گوئرا مور، خبرنگار بی‌بی‌سی به این موضوع می‌پردازد که چرا سرمایه‌گذارانی که از Wondermind Global حمایت می‌کنند مدعی هستند که ستاره پاپ به وعده‌هایش عمل نکرده است.",
+      "summary_en": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
+      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 16:59:53 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/9e8057c0-97fc-11f1-9577-b1309b6ea3af.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a1007d0578466a9fba68f155810f7cfd",
+      "title": "لیورپول سهام اقلیت را به کنسرسیومی از جمله جف بزوس می فروشد",
+      "title_fa": "لیورپول سهام اقلیت را به کنسرسیومی از جمله جف بزوس می فروشد",
+      "title_en": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+      "summary": "کنسرسیوم هلدینگ 1892، به رهبری رئیس سابق QPR، آمیت باتیا، همچنین شامل صندوق ورزشی K5 بزوس است.",
+      "summary_fa": "کنسرسیوم هلدینگ 1892، به رهبری رئیس سابق QPR، آمیت باتیا، همچنین شامل صندوق ورزشی K5 بزوس است.",
+      "summary_en": "The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 16:59:41 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69f36dc2cd5694d4972c570d781f2b69",
+      "title": "در حالی که آتش سوزی های جنگلی در سراسر اروپا موج می زند، صدها نفر به ظن آتش سوزی در فرانسه دستگیر شدند",
+      "title_fa": "در حالی که آتش سوزی های جنگلی در سراسر اروپا موج می زند، صدها نفر به ظن آتش سوزی در فرانسه دستگیر شدند",
+      "title_en": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "summary": "یک نفر کشته و صدها نفر در کرواسی در اثر آتش‌سوزی در آلمان، یونان و اسپانیا تخلیه شدند، مقامات اعلام کردند که از ابتدای تابستان تقریباً 500 نفر به ظن شروع آتش‌سوزی در فرانسه دستگیر شده‌اند، زیرا آتش‌نشانان در 12 کشور اروپایی در حال مقابله با آتش‌سوزی‌های مهیب در میان یک آتش‌سوزی بی‌سابقه در یک تعطیلات بزرگ هستند. مقامات گفتند که در روز جمعه یک نفر کشته، 40 مجروح و 1200 نفر مجبور به تخلیه شدند، زیرا اتحادیه اروپا هشدار داده است که شرایط آتش سوزی \"بسیار شدید\" در سراسر این قاره گسترده شده است. ادامه مطلب...",
+      "summary_fa": "یک نفر کشته و صدها نفر در کرواسی در اثر آتش‌سوزی در آلمان، یونان و اسپانیا تخلیه شدند، مقامات اعلام کردند که از ابتدای تابستان تقریباً 500 نفر به ظن شروع آتش‌سوزی در فرانسه دستگیر شده‌اند، زیرا آتش‌نشانان در 12 کشور اروپایی در حال مقابله با آتش‌سوزی‌های مهیب در میان یک آتش‌سوزی بی‌سابقه در یک تعطیلات بزرگ هستند. مقامات گفتند که در روز جمعه یک نفر کشته، 40 مجروح و 1200 نفر مجبور به تخلیه شدند، زیرا اتحادیه اروپا هشدار داده است که شرایط آتش سوزی \"بسیار شدید\" در سراسر این قاره گسترده شده است. ادامه مطلب...",
+      "summary_en": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and SpainAlmost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave.A fire engulfed ⁠homes in a Croatian holiday resort on Friday, killing one person, injuring 40 and forcing 1,200 to evacuate, officials said, as the EU warned that pockets of “very extreme” wildfire conditions stretched across the continent. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 16:58:04 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4e74294d7fc12a4f6c823be60d68e8ff43d71b97/984_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=40fcf0dd5ba505158e68d69f898bc919",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "42e2d4b5c58a8b93d2721f706802e418",
+      "title": "Google Meet اکنون می‌تواند برای جلسات حضوری شما یادداشت‌برداری کند - نحوه عملکرد آن در اینجا آمده است",
+      "title_fa": "Google Meet اکنون می‌تواند برای جلسات حضوری شما یادداشت‌برداری کند - نحوه عملکرد آن در اینجا آمده است",
+      "title_en": "Google Meet can take notes for your in-person meetings now - here's how it works",
+      "summary": "نرم‌افزار جلسه مبتنی بر Gemini Google اکنون می‌تواند متنی را ذخیره کند، آن را به Google Drive ارسال کند و یک نسخه را برای شما ایمیل کند.",
+      "summary_fa": "نرم‌افزار جلسه مبتنی بر Gemini Google اکنون می‌تواند متنی را ذخیره کند، آن را به Google Drive ارسال کند و یک نسخه را برای شما ایمیل کند.",
+      "summary_en": "Google's Gemini-driven meeting software can now save a transcript, send it to Google Drive, and email you a copy.",
+      "link": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
+      "source": "ZDNet",
+      "published_at": "Fri, 14 Aug 2026 16:54:29 GMT",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d8178fbc4b80c272ec1b16a1726a75d2",
       "title": "میدان مرکزی بروکسل به فرش گلی غول‌پیکر با الهام از ژاپن تبدیل شد",
       "title_fa": "میدان مرکزی بروکسل به فرش گلی غول‌پیکر با الهام از ژاپن تبدیل شد",
@@ -187008,6 +187281,111 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "3200f69e5ca0ef4ad9ffe22415a3c802",
+      "title": "تحلیل: دولت اسرائیل نمی تواند خشونت شهرک نشینان کرانه باختری را رد کند",
+      "title_fa": "تحلیل: دولت اسرائیل نمی تواند خشونت شهرک نشینان کرانه باختری را رد کند",
+      "title_en": "Analysis: Israel’s government can’t disown West Bank settler violence",
+      "summary": "گروه های حقوق بشر هشدار می دهند که هدف از خشونت های شهرک نشینان و تحت رهبری دولت، آواره کردن فلسطینی ها و الحاق سرزمین های کرانه باختری اشغالی است.",
+      "summary_fa": "گروه های حقوق بشر هشدار می دهند که هدف از خشونت های شهرک نشینان و تحت رهبری دولت، آواره کردن فلسطینی ها و الحاق سرزمین های کرانه باختری اشغالی است.",
+      "summary_en": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 16:46:30 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "e19eed1942b182f37d7c1dc4935167d6",
+      "title": "لوئیجی مانژیونه به اتهامات فدرال به خاطر مرگ مدیر اجرایی UnitedHealthcare اعتراف کرد",
+      "title_fa": "لوئیجی مانژیونه به اتهامات فدرال به خاطر مرگ مدیر اجرایی UnitedHealthcare اعتراف کرد",
+      "title_en": "Luigi Mangione pleads guilty to federal charges over death of UnitedHealthcare CEO",
+      "summary": "فارغ التحصیل آیوی لیگ موضع خود را معکوس می کند در صورتی که تبدیل به میله برق آسا برای بحث در مورد سیستم مراقبت های بهداشتی ایالات متحده شود.",
+      "summary_fa": "فارغ التحصیل آیوی لیگ موضع خود را معکوس می کند در صورتی که تبدیل به میله برق آسا برای بحث در مورد سیستم مراقبت های بهداشتی ایالات متحده شود.",
+      "summary_en": "Ivy League graduate reverses stance in case that has become lightning rod for debate about US healthcare system",
+      "link": "https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 16:38:38 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd81afd1-1e63-4128-9469-37b7a26fab95.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "184dda5306c736ce01d4725391042a3e",
+      "title": "بعد از پیروزی میان دوره ای فاراژ در انتخابات آینده، اصلاحات راست افراطی بریتانیا چه می شود؟",
+      "title_fa": "بعد از پیروزی میان دوره ای فاراژ در انتخابات آینده، اصلاحات راست افراطی بریتانیا چه می شود؟",
+      "title_en": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "summary": "بعد از پیروزی میان دوره ای فاراژ در انتخابات آینده، اصلاحات راست افراطی بریتانیا چه می شود؟",
+      "summary_fa": "بعد از پیروزی میان دوره ای فاراژ در انتخابات آینده، اصلاحات راست افراطی بریتانیا چه می شود؟",
+      "summary_en": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 16:35:45 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "bd897a7ec0a151b7a78abdababa649da",
+      "title": "دادگاه عالی فرانسه ممنوعیت شبکه های اجتماعی برای افراد زیر 15 سال را مسدود کرد",
+      "title_fa": "دادگاه عالی فرانسه ممنوعیت شبکه های اجتماعی برای افراد زیر 15 سال را مسدود کرد",
+      "title_en": "France's top court blocks social media ban for under-15s",
+      "summary": "شورای قانون اساسی می گوید که آزادی بیان را نقض می کند - اما رئیس جمهور مکرون قول داد پیش نویس جدیدی را آماده کند.",
+      "summary_fa": "شورای قانون اساسی می گوید که آزادی بیان را نقض می کند - اما رئیس جمهور مکرون قول داد پیش نویس جدیدی را آماده کند.",
+      "summary_en": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 16:35:06 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f52/live/af679960-97f5-11f1-9577-b1309b6ea3af.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "accfadfff125579cd67cd25c8cdc32a5",
+      "title": "کارشناسان سیاست: اروپا در زمان پرتاب بین \"سنگ و مکان سخت\" گیر کرده است",
+      "title_fa": "کارشناسان سیاست: اروپا در زمان پرتاب بین \"سنگ و مکان سخت\" گیر کرده است",
+      "title_en": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "summary": "به نظر می رسد که اقتصاد استفاده مجدد از موشک بسیار خوب است.",
+      "summary_fa": "به نظر می رسد که اقتصاد استفاده مجدد از موشک بسیار خوب است.",
+      "summary_en": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+      "link": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 14 Aug 2026 16:29:21 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-1152x648.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -187042,6 +187420,27 @@
       "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
       "source": "CNBC",
       "published_at": "Fri, 14 Aug 2026 16:27:45 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6b6c1c7403c1812da69973807889dd15",
+      "title": "دادگاه حکم می‌کند که شرکت‌ها نمی‌توانند داروهای Gilead را از خارج از کشور وارد کنند که به برنامه‌های بهداشتی AFP ضربه وارد می‌کند",
+      "title_fa": "دادگاه حکم می‌کند که شرکت‌ها نمی‌توانند داروهای Gilead را از خارج از کشور وارد کنند که به برنامه‌های بهداشتی AFP ضربه وارد می‌کند",
+      "title_en": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
+      "summary": "یک دادگاه استیناف در ایالات متحده به نفع Gilead Sciences علیه شرکت‌هایی که به عنوان برنامه‌های تامین مالی جایگزین که داروها را از خارج وارد می‌کنند، حکم داده است.",
+      "summary_fa": "یک دادگاه استیناف در ایالات متحده به نفع Gilead Sciences علیه شرکت‌هایی که به عنوان برنامه‌های تامین مالی جایگزین که داروها را از خارج وارد می‌کنند، حکم داده است.",
+      "summary_en": "A U.S. appeals court has ruled in favor of Gilead Sciences against companies known as alternative funding programs that import medicines from overseas.",
+      "link": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 16:27:07 GMT",
       "date_iso": "2026-08-14",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
@@ -187477,6 +187876,27 @@
       "title": "دانشجوی بلژیکی در حین حفر فاضلاب به طلای 9 میلیون یورویی ضربه زد",
       "title_fa": "دانشجوی بلژیکی در حین حفر فاضلاب به طلای 9 میلیون یورویی ضربه زد",
       "title_en": "Belgian student strikes gold worth €9m while digging sewers",
+      "summary": "کوبی، 18 ساله، که در محل کارخانه آبجوسازی سابق در سینت-گیلیس-دندرموند کشف کرد، در ابتدا فکر کرد که ارزش آن سکه 1 یورو است. برای دانشجویی که در تابستان در یک سایت ساختمانی در بلژیک کار می کرد، \"پول در زهکشی\" معنایی کاملاً جدید پیدا کرده است: حفاری سنگرها برای یک سیستم فاضلاب، او به طور تصادفی به ارزش 9 یورو طلا برخورد کرد. (8 میلیون پوند). کوبی 18 ساله به شبکه خبری بلژیکی VTM گفت: \"ما ناگهان چیزی را دیدیم که در آنجا خوابیده است.\" \"ابتدا فکر کردم سکه های 1 یورو است. بنابراین شروع به کندن آنها کردیم. سپس یک شمش طلا دیدیم. معلوم شد که کمی بیشتر از آن چیزی بود که فکر می کردیم.\" ادامه مطلب...",
+      "summary_fa": "کوبی، 18 ساله، که در محل کارخانه آبجوسازی سابق در سینت-گیلیس-دندرموند کشف کرد، در ابتدا فکر کرد که ارزش آن سکه 1 یورو است. برای دانشجویی که در تابستان در یک سایت ساختمانی در بلژیک کار می کرد، \"پول در زهکشی\" معنایی کاملاً جدید پیدا کرده است: حفاری سنگرها برای یک سیستم فاضلاب، او به طور تصادفی به ارزش 9 یورو طلا برخورد کرد. (8 میلیون پوند). کوبی 18 ساله به شبکه خبری بلژیکی VTM گفت: \"ما ناگهان چیزی را دیدیم که در آنجا خوابیده است.\" \"ابتدا فکر کردم سکه های 1 یورو است. بنابراین شروع به کندن آنها کردیم. سپس یک شمش طلا دیدیم. معلوم شد که کمی بیشتر از آن چیزی بود که فکر می کردیم.\" ادامه مطلب...",
+      "summary_en": "Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coinsFor a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the trenches for a sewage system, he stumbled across a hidden trove of gold worth an estimated €9m (£8m).“We suddenly saw something lying there,” 18-year-old Kobe told the Belgian news network VTM. “At first I thought it was €1 coins. So we started digging them up. Then we saw a gold bar. It turned out to be a bit more than we thought.” Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 15:52:31 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/7eb63518f6279fdc52f36f5f952ab3afa02ae375/5_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=10c0cdb73bfd9d483bc734a027563aa2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2e4f0660b5317cb5f0f2685de1c58ab1",
+      "title": "دانشجوی بلژیکی در حین حفر فاضلاب جدید به طلای 9 میلیون یورویی ضربه زد",
+      "title_fa": "دانشجوی بلژیکی در حین حفر فاضلاب جدید به طلای 9 میلیون یورویی ضربه زد",
+      "title_en": "Belgian student strikes gold worth €9m while digging a new sewer",
       "summary": "کوبی، 18 ساله، که در محل کارخانه آبجوسازی سابق در سینت-گیلیس-دندرموند کشف کرد، در ابتدا فکر کرد که ارزش آن سکه 1 یورو است. برای دانشجویی که در تابستان در یک سایت ساختمانی در بلژیک کار می کرد، \"پول در زهکشی\" معنایی کاملاً جدید پیدا کرده است: حفاری سنگرها برای یک سیستم فاضلاب، او به طور تصادفی به ارزش 9 یورو طلا برخورد کرد. (8 میلیون پوند). کوبی 18 ساله به شبکه خبری بلژیکی VTM گفت: \"ما ناگهان چیزی را دیدیم که در آنجا خوابیده است.\" \"ابتدا فکر کردم سکه های 1 یورو است. بنابراین شروع به کندن آنها کردیم. سپس یک شمش طلا دیدیم. معلوم شد که کمی بیشتر از آن چیزی بود که فکر می کردیم.\" ادامه مطلب...",
       "summary_fa": "کوبی، 18 ساله، که در محل کارخانه آبجوسازی سابق در سینت-گیلیس-دندرموند کشف کرد، در ابتدا فکر کرد که ارزش آن سکه 1 یورو است. برای دانشجویی که در تابستان در یک سایت ساختمانی در بلژیک کار می کرد، \"پول در زهکشی\" معنایی کاملاً جدید پیدا کرده است: حفاری سنگرها برای یک سیستم فاضلاب، او به طور تصادفی به ارزش 9 یورو طلا برخورد کرد. (8 میلیون پوند). کوبی 18 ساله به شبکه خبری بلژیکی VTM گفت: \"ما ناگهان چیزی را دیدیم که در آنجا خوابیده است.\" \"ابتدا فکر کردم سکه های 1 یورو است. بنابراین شروع به کندن آنها کردیم. سپس یک شمش طلا دیدیم. معلوم شد که کمی بیشتر از آن چیزی بود که فکر می کردیم.\" ادامه مطلب...",
       "summary_en": "Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coinsFor a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the trenches for a sewage system, he stumbled across a hidden trove of gold worth an estimated €9m (£8m).“We suddenly saw something lying there,” 18-year-old Kobe told the Belgian news network VTM. “At first I thought it was €1 coins. So we started digging them up. Then we saw a gold bar. It turned out to be a bit more than we thought.” Continue reading...",
@@ -202404,6 +202824,48 @@
       }
     },
     {
+      "id": "db6662bec5f3c915ac84497c17f6576a",
+      "title": "مارک زاکربرگ یک Instagzam دارد",
+      "title_fa": "مارک زاکربرگ یک Instagzam دارد",
+      "title_en": "Mark Zuckerberg has an Instagzam",
+      "summary": "علامت کلمه اینستاگرام نمادین است. خوب، نمادین بود ظاهراً اینستاگرام فکر می‌کرد که قدیمی به نظر می‌رسد، بنابراین این شرکت یک نسخه جدید را در این هفته عرضه کرد. به نظر نمی رسد که علامت کلمه قدیمی اینستاگرام باشد. حتی دیگر به نظر نمی رسد که اینستاگرام را املا می کند. و ما نمی توانیم بفهمیم که چرا اینستاگرام تصمیم به انجام این کار گرفت. در این قسمت از […]",
+      "summary_fa": "علامت کلمه اینستاگرام نمادین است. خوب، نمادین بود ظاهراً اینستاگرام فکر می‌کرد که قدیمی به نظر می‌رسد، بنابراین این شرکت یک نسخه جدید را در این هفته عرضه کرد. به نظر نمی رسد که علامت کلمه قدیمی اینستاگرام باشد. حتی دیگر به نظر نمی رسد که اینستاگرام را املا می کند. و ما نمی توانیم بفهمیم که چرا اینستاگرام تصمیم به انجام این کار گرفت. در این قسمت از […]",
+      "summary_en": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of […]",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-08-14T12:54:16-04:00",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9f374b99815587a50febef812436ba56",
+      "title": "اکنون می توانید واترمارک های قابل مشاهده Google Gemini را خاموش کنید",
+      "title_fa": "اکنون می توانید واترمارک های قابل مشاهده Google Gemini را خاموش کنید",
+      "title_en": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "summary": "گوگل اکنون به شما این امکان را می دهد که واترمارک های قابل مشاهده را از تصاویر، ویدیوها و موسیقی های ساخته شده با ابزارهای هوش مصنوعی حذف کنید. با به‌روزرسانی، می‌توانید تنظیم جدید «واترمارک رسانه» را در Gemini و تولیدکننده ویدیوی هوش مصنوعی Google، Flow، غیرفعال کنید. وقتی خاموش شود، گوگل واترمارک «درخشش» را که در گوشه سمت راست پایین […]",
+      "summary_fa": "گوگل اکنون به شما این امکان را می دهد که واترمارک های قابل مشاهده را از تصاویر، ویدیوها و موسیقی های ساخته شده با ابزارهای هوش مصنوعی حذف کنید. با به‌روزرسانی، می‌توانید تنظیم جدید «واترمارک رسانه» را در Gemini و تولیدکننده ویدیوی هوش مصنوعی Google، Flow، غیرفعال کنید. وقتی خاموش شود، گوگل واترمارک «درخشش» را که در گوشه سمت راست پایین […]",
+      "summary_en": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of […]",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "published_at": "2026-08-14T12:39:32-04:00",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a3d4aab74eaee94397693d781c76ad8b",
       "title": "GOTY Clair Obscur: Expedition 33 2025 به 33 دلار کاهش یافت",
       "title_fa": "GOTY Clair Obscur: Expedition 33 2025 به 33 دلار کاهش یافت",
@@ -202429,6 +202891,27 @@
       "title": "CMF تعادل بین هدفون های گیره دار ارزان و خوب را ایجاد می کند",
       "title_fa": "CMF تعادل بین هدفون های گیره دار ارزان و خوب را ایجاد می کند",
       "title_en": "CMF hit the balance between cheap and good clip earbuds",
+      "summary": "هدفون های گیره ای تمرینی برای سازش هستند. این یک جنبه ذاتی از طراحی - و فیزیک آنها است. آنها می توانند برای افرادی که دوست ندارند چیزی در گوششان گیر کرده باشد، راحت تر باشند، اما پاسخ صوتی آسیب می بیند. آگاهی از محیط عالی است زیرا می توانید به راحتی صدای اطراف خود را بشنوید، به این معنی که صدای خود را بشنوید […]",
+      "summary_fa": "هدفون های گیره ای تمرینی برای سازش هستند. این یک جنبه ذاتی از طراحی - و فیزیک آنها است. آنها می توانند برای افرادی که دوست ندارند چیزی در گوششان گیر کرده باشد، راحت تر باشند، اما پاسخ صوتی آسیب می بیند. آگاهی از محیط عالی است زیرا می توانید به راحتی صدای اطراف خود را بشنوید، به این معنی که صدای خود را بشنوید […]",
+      "summary_en": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which means to hear your own […]",
+      "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+      "source": "The Verge",
+      "published_at": "2026-08-14T08:00:00-04:00",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f8149d7ad2c5c2cdeaf5557218eb4607",
+      "title": "هدفون های گیره ای CMF تعادل بین ارزان و خوب را ایجاد می کنند",
+      "title_fa": "هدفون های گیره ای CMF تعادل بین ارزان و خوب را ایجاد می کنند",
+      "title_en": "CMF&#8217;s clip earbuds hit the balance between cheap and good",
       "summary": "هدفون های گیره ای تمرینی برای سازش هستند. این یک جنبه ذاتی از طراحی - و فیزیک آنها است. آنها می توانند برای افرادی که دوست ندارند چیزی در گوششان گیر کرده باشد، راحت تر باشند، اما پاسخ صوتی آسیب می بیند. آگاهی از محیط عالی است زیرا می توانید به راحتی صدای اطراف خود را بشنوید، به این معنی که صدای خود را بشنوید […]",
       "summary_fa": "هدفون های گیره ای تمرینی برای سازش هستند. این یک جنبه ذاتی از طراحی - و فیزیک آنها است. آنها می توانند برای افرادی که دوست ندارند چیزی در گوششان گیر کرده باشد، راحت تر باشند، اما پاسخ صوتی آسیب می بیند. آگاهی از محیط عالی است زیرا می توانید به راحتی صدای اطراف خود را بشنوید، به این معنی که صدای خود را بشنوید […]",
       "summary_en": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which means to hear your own […]",
@@ -202542,6 +203025,27 @@
       "published_at": "2026-08-14T04:40:13-04:00",
       "date_iso": "2026-08-14",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2298a401db8acc1e5b488a182ad8638c",
+      "title": "تصحیح نویسنده: ایمنی ذاتی سلول از طریق انتقال بین سلولی cGAMP به سلول های اطراف گسترش می یابد.",
+      "title_fa": "تصحیح نویسنده: ایمنی ذاتی سلول از طریق انتقال بین سلولی cGAMP به سلول های اطراف گسترش می یابد.",
+      "title_en": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "summary": "طبیعت، انتشار آنلاین: 14 آگوست 2026; doi:10.1038/s41586-026-11023-3 تصحیح نویسنده: ایمنی ذاتی سلول از طریق انتقال بین سلولی cGAMP به سلول های اطراف گسترش می یابد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 14 آگوست 2026; doi:10.1038/s41586-026-11023-3 تصحیح نویسنده: ایمنی ذاتی سلول از طریق انتقال بین سلولی cGAMP به سلول های اطراف گسترش می یابد.",
+      "summary_en": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "link": "https://www.nature.com/articles/s41586-026-11023-3",
+      "source": "Nature",
+      "published_at": "2026-08-14 17:33",
+      "date_iso": "2026-08-14",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
