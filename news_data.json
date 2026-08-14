@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-13 23:40:02",
-  "total_count": 10001,
+  "last_update": "2026-08-14 00:43:56",
+  "total_count": 10009,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93206,6 +93206,27 @@
       }
     },
     {
+      "id": "94a41f5d019087e1c7d4e0e547a10698",
+      "title": "پس از 2 مرگ اهداکننده پلاسما، شرکت کلینیک های خود را در کانادا متوقف کرد",
+      "title_fa": "پس از 2 مرگ اهداکننده پلاسما، شرکت کلینیک های خود را در کانادا متوقف کرد",
+      "title_en": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+      "summary": "گریفولز، یک شرکت اسپانیایی، گفت که \"توجه بی اساس\" به تجارت پلاسمای خون خود در کانادا باعث شده است تا به طور موقت جمع آوری در 17 کلینیک را متوقف کند.",
+      "summary_fa": "گریفولز، یک شرکت اسپانیایی، گفت که \"توجه بی اساس\" به تجارت پلاسمای خون خود در کانادا باعث شده است تا به طور موقت جمع آوری در 17 کلینیک را متوقف کند.",
+      "summary_en": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
+      "link": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 23:41:27 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-canada-bjhg/13int-canada-bjhg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3fa61f02c8a3f01de40ce68337426989",
       "title": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
       "title_fa": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
@@ -93224,6 +93245,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79bc6889f66a1e8713751d2ed070d85e",
+      "title": "رئیس پلیس شهر غزه در حالی که اسرائیل به حملات مرگبار ادامه می دهد، کشته شد",
+      "title_fa": "رئیس پلیس شهر غزه در حالی که اسرائیل به حملات مرگبار ادامه می دهد، کشته شد",
+      "title_en": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "summary": "در آخرین حملات اسرائیل، جمال ابوکامیل، افسر پلیس در شهر غزه و یک نفر دیگر در خان یونس کشته شدند.",
+      "summary_fa": "در آخرین حملات اسرائیل، جمال ابوکامیل، افسر پلیس در شهر غزه و یک نفر دیگر در خان یونس کشته شدند.",
+      "summary_en": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+      "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 13 Aug 2026 23:09:15 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -186504,6 +186546,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "27825c6415cd546086a63cdfc03f6837",
+      "title": "اخبار استرالیا به صورت زنده: Westpac KPMG را به \"تغذیه قطره ای\" اطلاعات در مورد نشت های ادعایی متهم می کند. کانتاس به مسافرانی که به مدت دو شب در ژوهانسبورگ سرگردان مانده بودند، پول بازپرداخت می کند",
+      "title_fa": "اخبار استرالیا به صورت زنده: Westpac KPMG را به \"تغذیه قطره ای\" اطلاعات در مورد نشت های ادعایی متهم می کند. کانتاس به مسافرانی که به مدت دو شب در ژوهانسبورگ سرگردان مانده بودند، پول بازپرداخت می کند",
+      "title_en": "Australia news live: Westpac accuses KPMG of ‘drip feeding’ information on alleged leaks; Qantas refunds passengers stranded in Johannesburg for two nights",
+      "summary": "اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آنها مهم هستند. مشکل اعتیاد است و وقتی کسی اعتیاد دارد، اگر انگیزه هایی وجود داشته باشد که آن اعتیاد را تشویق کند، این چیز بدی است. هیچ ایرادی ندارد که مردم در روز شنبه نوبت بزنند... مشکل این است که اعتیاد باشد. ما توافق کردیم که این پروژه ای است که مزایایی برای ایالات متحده، استرالیا و بریتانیا دارد و ادامه خواهد داد. من همیشه در این گفتگوها منافع ملی استرالیا را مطرح می کنم. ادامه مطلب...",
+      "summary_fa": "اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آنها مهم هستند. مشکل اعتیاد است و وقتی کسی اعتیاد دارد، اگر انگیزه هایی وجود داشته باشد که آن اعتیاد را تشویق کند، این چیز بدی است. هیچ ایرادی ندارد که مردم در روز شنبه نوبت بزنند... مشکل این است که اعتیاد باشد. ما توافق کردیم که این پروژه ای است که مزایایی برای ایالات متحده، استرالیا و بریتانیا دارد و ادامه خواهد داد. من همیشه در این گفتگوها منافع ملی استرالیا را مطرح می کنم. ادامه مطلب...",
+      "summary_en": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAlbanese says gambling inducements are ‘over the top’Albanese said gambling inducements are “over the top and need to be wound back”.Look, we’re working constructively across the parliament to put in place these reforms. They are important.The problem is addiction and when someone has an addiction, if there are inducements that are encouraging that addiction, that’s a bad thing. There’s nothing wrong with people having a punt on a Saturday … the problem is if it’s an addiction.We agreed it was a project that is and will continue to deliver benefits for the United States, for Australia, and for the United Kingdom.I always put forward Australia’s national interest during these discussions. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 00:37:06 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/cd5b5dc8ed45f50d4027c1dd1f912507c69287a9/624_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=9d912c0d305b1300b665a6c1449b9590",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bb89bcb426131dff0ffdbfd6a0e63d04",
+      "title": "امارات ایران را به حمله به دو کشتی ADNOC در تنگه هرمز متهم کرد",
+      "title_fa": "امارات ایران را به حمله به دو کشتی ADNOC در تنگه هرمز متهم کرد",
+      "title_en": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+      "summary": "در این حمله که امارات متحده عربی آن را «دزدی دریایی» و تهدیدی برای امنیت انرژی جهانی خواند، هیچ آسیبی گزارش نشد.",
+      "summary_fa": "در این حمله که امارات متحده عربی آن را «دزدی دریایی» و تهدیدی برای امنیت انرژی جهانی خواند، هیچ آسیبی گزارش نشد.",
+      "summary_en": "No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 00:33:48 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "86d43bf715ed8f1f2047e0afb5ae072e",
+      "title": "از اپل تا فورد: چگونه نادیده گرفتن فناوری چینی برای شرکت های جهانی سخت تر می شود",
+      "title_fa": "از اپل تا فورد: چگونه نادیده گرفتن فناوری چینی برای شرکت های جهانی سخت تر می شود",
+      "title_en": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+      "summary": "شرکت های جهانی به طور فزاینده ای از فناوری چینی برای توانایی ها و مقیاس رو به رشد آن استفاده می کنند، حتی با وجود خطرات ژئوپلیتیکی.",
+      "summary_fa": "شرکت های جهانی به طور فزاینده ای از فناوری چینی برای توانایی ها و مقیاس رو به رشد آن استفاده می کنند، حتی با وجود خطرات ژئوپلیتیکی.",
+      "summary_en": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
+      "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 00:09:11 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2ab039f36adcbabea9bde3c94b052b2",
+      "title": "سازمان ملل هشدار داد یمن با بالاترین خطر بازگشت به جنگ از زمان آتش بس سال 2022 مواجه است",
+      "title_fa": "سازمان ملل هشدار داد یمن با بالاترین خطر بازگشت به جنگ از زمان آتش بس سال 2022 مواجه است",
+      "title_en": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+      "summary": "با شعله ور شدن درگیری ها در خطوط مقدم یمن در روزهای اخیر، تلفات غیرنظامی و نظامی گزارش شده است.",
+      "summary_fa": "با شعله ور شدن درگیری ها در خطوط مقدم یمن در روزهای اخیر، تلفات غیرنظامی و نظامی گزارش شده است.",
+      "summary_en": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 00:02:22 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ef0666cea8a886f4df141fcf0f497cb2",
+      "title": "این دستیار رایگان اندروید بزرگترین ناراحتی من در Gemini را برطرف می کند - و داده های من را خصوصی نگه می دارد",
+      "title_fa": "این دستیار رایگان اندروید بزرگترین ناراحتی من در Gemini را برطرف می کند - و داده های من را خصوصی نگه می دارد",
+      "title_en": "This free Android assistant fixes my biggest Gemini frustration - and keeps my data private",
+      "summary": "با توجه به اینکه گوگل دستیار را بازنشسته می کند، و Gemini دقیقاً جایگزینی نیست که بسیاری از ما می خواهیم، ​​Dicio گزینه خوبی است. یک شکار وجود دارد.",
+      "summary_fa": "با توجه به اینکه گوگل دستیار را بازنشسته می کند، و Gemini دقیقاً جایگزینی نیست که بسیاری از ما می خواهیم، ​​Dicio گزینه خوبی است. یک شکار وجود دارد.",
+      "summary_en": "With Google set to retire Assistant, and Gemini not exactly the replacement many of us want, Dicio is a solid option. There's one catch.",
+      "link": "https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/",
+      "source": "ZDNet",
+      "published_at": "Fri, 14 Aug 2026 00:00:45 GMT",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f57a7533646788b3bc48eac800848e20",
+      "title": "جنگ ایران زنده: آمریکا به محاصره دریایی نامحدود ایران چشم دوخته است",
+      "title_fa": "جنگ ایران زنده: آمریکا به محاصره دریایی نامحدود ایران چشم دوخته است",
+      "title_en": "Iran war live: US eyes indefinite Iran naval blockade",
+      "summary": "پیت هگزث، وزیر دفاع ایالات متحده می گوید که ایالات متحده می تواند محاصره خود علیه ایران را \"به طور نامحدود\" حفظ کند.",
+      "summary_fa": "پیت هگزث، وزیر دفاع ایالات متحده می گوید که ایالات متحده می تواند محاصره خود علیه ایران را \"به طور نامحدود\" حفظ کند.",
+      "summary_en": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran 'indefinitely'.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
