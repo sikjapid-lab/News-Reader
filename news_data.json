@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 21:42:41",
-  "total_count": 10453,
+  "last_update": "2026-08-14 22:01:29",
+  "total_count": 10457,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186885,6 +186885,48 @@
       }
     },
     {
+      "id": "cf350aa126c990f66a322a82b9b46f88",
+      "title": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را در پایان سه ماهه دوم فاش کرد",
+      "title_fa": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را در پایان سه ماهه دوم فاش کرد",
+      "title_en": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "summary": "سهام انویدیا در SpaceX که از طریق سرمایه گذاری در xAI به دست آمد، در پایان سه ماهه دوم حدود 21 میلیارد دلار ارزش داشت.",
+      "summary_fa": "سهام انویدیا در SpaceX که از طریق سرمایه گذاری در xAI به دست آمد، در پایان سه ماهه دوم حدود 21 میلیارد دلار ارزش داشت.",
+      "summary_en": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+      "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 21:45:19 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1195b21faf2e138eede4b01e61201074",
+      "title": "قانونگذاران شهر نیویورک بر «ممنوع کردن اسکن» در MSG تاکید کردند",
+      "title_fa": "قانونگذاران شهر نیویورک بر «ممنوع کردن اسکن» در MSG تاکید کردند",
+      "title_en": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+      "summary": "در یک کنفرانس مطبوعاتی خارج از مدیسون اسکوئر گاردن، سیاستمداران، نوازندگان و حامیان حریم خصوصی در مورد محدودیت‌های شدیدتر در مورد نحوه اعمال نظارت بیومتریک اماکن عمومی بحث کردند.",
+      "summary_fa": "در یک کنفرانس مطبوعاتی خارج از مدیسون اسکوئر گاردن، سیاستمداران، نوازندگان و حامیان حریم خصوصی در مورد محدودیت‌های شدیدتر در مورد نحوه اعمال نظارت بیومتریک اماکن عمومی بحث کردند.",
+      "summary_en": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 21:43:17 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b256212416c06faeae7c85e20fe06588",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -186940,6 +186982,27 @@
       "date_iso": "2026-08-14",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ada99d15afc70095abec352b6908692a",
+      "title": "جیسون آردی، پروفسور کمبریج متهم به سرقت ادبی، مرده پیدا شد",
+      "title_fa": "جیسون آردی، پروفسور کمبریج متهم به سرقت ادبی، مرده پیدا شد",
+      "title_en": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 21:34:18 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -187081,6 +187144,27 @@
       "summary": "پس از شکایت رئیس جمهور درباره مستند 6 ژانویه، شبکه می خواهد به جارد کوشنر، ایوانکا ترامپ و دونالد ترامپ جونیور خدمت کند. بی بی سی در تلاش است تا فرزندان دونالد ترامپ را در حالی که دفاع خود را علیه شکایت افترای رئیس جمهور با محوریت مستندی در مورد قیام 6 ژانویه تشکیل می دهد، احضار کند. داماد جارد کوشنر، با احضاریه برای شهادت و سوابق آنها در مورد وقایع 6 ژانویه 2021. به خواندن ادامه دهید...",
       "summary_fa": "پس از شکایت رئیس جمهور درباره مستند 6 ژانویه، شبکه می خواهد به جارد کوشنر، ایوانکا ترامپ و دونالد ترامپ جونیور خدمت کند. بی بی سی در تلاش است تا فرزندان دونالد ترامپ را در حالی که دفاع خود را علیه شکایت افترای رئیس جمهور با محوریت مستندی در مورد قیام 6 ژانویه تشکیل می دهد، احضار کند. داماد جارد کوشنر، با احضاریه برای شهادت و سوابق آنها در مورد وقایع 6 ژانویه 2021. به خواندن ادامه دهید...",
       "summary_en": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentaryThe BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection.In a motion filed Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021. Continue reading...",
+      "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 21:05:47 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c519726d2d851d677c5334018aad733b64b7db60/1132_104_3152_2521/master/3152.jpg?width=140&quality=85&auto=format&fit=max&s=4b43cc592cbf0420e7e7cee8db94689f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4d5e91050505f92b4c491ac610887774",
+      "title": "بی‌بی‌سی به دنبال احضار فرزندان و داماد ترامپ به دلیل افترا است",
+      "title_fa": "بی‌بی‌سی به دنبال احضار فرزندان و داماد ترامپ به دلیل افترا است",
+      "title_en": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "summary": "شبکه می‌خواهد به جارد کوشنر، ایوانکا ترامپ و دونالد ترامپ جونیور پس از شکایت رئیس‌جمهور در مورد مستند 6 ژانویه خدمت کند. بی‌بی‌سی در تلاش است تا فرزندان دونالد ترامپ را در حالی که دفاع خود را علیه شکایت افترای رئیس‌جمهور متمرکز بر مستندی در مورد شورش 6 ژانویه تشکیل می‌دهد، احضار کند. و داماد جرد کوشنر، با احضاریه برای شهادت و سوابق آنها در مورد رویدادهای 6 ژانویه 2021. به خواندن ادامه دهید...",
+      "summary_fa": "شبکه می‌خواهد به جارد کوشنر، ایوانکا ترامپ و دونالد ترامپ جونیور پس از شکایت رئیس‌جمهور در مورد مستند 6 ژانویه خدمت کند. بی‌بی‌سی در تلاش است تا فرزندان دونالد ترامپ را در حالی که دفاع خود را علیه شکایت افترای رئیس‌جمهور متمرکز بر مستندی در مورد شورش 6 ژانویه تشکیل می‌دهد، احضار کند. و داماد جرد کوشنر، با احضاریه برای شهادت و سوابق آنها در مورد رویدادهای 6 ژانویه 2021. به خواندن ادامه دهید...",
+      "summary_en": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentaryThe BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection.In a motion filed on Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021. Continue reading...",
       "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
       "source": "The Guardian",
       "published_at": "Fri, 14 Aug 2026 21:05:47 GMT",
