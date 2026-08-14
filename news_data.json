@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 17:33:13",
-  "total_count": 10392,
+  "last_update": "2026-08-14 18:30:19",
+  "total_count": 10407,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -94844,6 +94844,27 @@
       }
     },
     {
+      "id": "46c3adac690a5e37f18fbfa62708fd4c",
+      "title": "کاخ سفید می گوید بیش از 40 کشور به چین کمک می کنند تا از تعرفه ها طفره رود",
+      "title_fa": "کاخ سفید می گوید بیش از 40 کشور به چین کمک می کنند تا از تعرفه ها طفره رود",
+      "title_en": "White House says more than 40 nations help China dodge tariffs",
+      "summary": "گزارش جدید کاخ سفید می گوید چین میلیاردها دلار کالا از طریق کشورهای ثالث به آمریکا ارسال می کند تا از تعرفه های بالای ترامپ دور شود.",
+      "summary_fa": "گزارش جدید کاخ سفید می گوید چین میلیاردها دلار کالا از طریق کشورهای ثالث به آمریکا ارسال می کند تا از تعرفه های بالای ترامپ دور شود.",
+      "summary_en": "A new White House report says that China sends billions of dollars worth of goods to the U.S. via third countries in order to skirt Trump's high tariffs.",
+      "link": "https://www.washingtonpost.com/politics/2026/08/13/white-house-says-more-than-40-nations-help-china-dodge-tariffs/",
+      "source": "Washington Post",
+      "published_at": "Thu, 13 Aug 2026 18:45:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "6a6a322aca5bab3f0852412950221b82",
       "title": "اروپا در آخرین موج گرمای شدید غرق شده است",
       "title_fa": "اروپا در آخرین موج گرمای شدید غرق شده است",
@@ -186843,6 +186864,27 @@
       }
     },
     {
+      "id": "f23bdeac4a5a9f36c0f169ef9921e3dc",
+      "title": "لوئیجی مانژیونه اعتراف کرد که برایان تامپسون، مدیرعامل بخش بهداشت و درمان در دادگاه نیویورک تیراندازی کرده است.",
+      "title_fa": "لوئیجی مانژیونه اعتراف کرد که برایان تامپسون، مدیرعامل بخش بهداشت و درمان در دادگاه نیویورک تیراندازی کرده است.",
+      "title_en": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
+      "summary": "مانژیون در یک جلسه دادگاه فدرال منهتن که با عجله برنامه ریزی شده بود، ادعای خود را مطرح کرد و یکی از دو پرونده علیه او در ارتباط با مرگ تامپسون را حل کرد.",
+      "summary_fa": "مانژیون در یک جلسه دادگاه فدرال منهتن که با عجله برنامه ریزی شده بود، ادعای خود را مطرح کرد و یکی از دو پرونده علیه او در ارتباط با مرگ تامپسون را حل کرد.",
+      "summary_en": "Mangione entered the plea at a hastily scheduled hearing in Manhattan federal court, resolving one of two cases against him in connection with Thompson’s death.",
+      "link": "http://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 19:26:04 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aa3ab05c666068822973ef8f95b5bcb6",
       "title": "پلیس ایتالیا آثار هنری دزدیده شده رنوار، سزان و ماتیس را به ارزش میلیون ها پیدا می کند",
       "title_fa": "پلیس ایتالیا آثار هنری دزدیده شده رنوار، سزان و ماتیس را به ارزش میلیون ها پیدا می کند",
@@ -186857,6 +186899,27 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "38eda87c8c457e304d031e28f0bf99ae",
+      "title": "سهام ساندیس در حال افزایش بازگشت عمده خود است. این آخرین جرقه است.",
+      "title_fa": "سهام ساندیس در حال افزایش بازگشت عمده خود است. این آخرین جرقه است.",
+      "title_en": "Sandisk’s stock is extending its major rebound. This is the latest spark.",
+      "summary": "تحلیلگران روی اهداف مالی جدید شرکت ارزیابی مثبتی داشتند - کمک به افزایش رشدی که باعث افزایش بیش از 60 درصدی سهام از پایین ترین سطح اخیر آنها شده است.",
+      "summary_fa": "تحلیلگران روی اهداف مالی جدید شرکت ارزیابی مثبتی داشتند - کمک به افزایش رشدی که باعث افزایش بیش از 60 درصدی سهام از پایین ترین سطح اخیر آنها شده است.",
+      "summary_en": "Analysts weighed in positively on the company’s new financial targets — helping to further a rally that’s brought shares up more than 60% from their recent low point.",
+      "link": "https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 18:24:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-04029946",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -186882,6 +186945,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "2b347872fb1f5d5c1df4693040726f0d",
+      "title": "فاراج بریتانیایی در میان تحقیقات، صفحه‌ای از کتاب بازی ترامپ گرفته است",
+      "title_fa": "فاراج بریتانیایی در میان تحقیقات، صفحه‌ای از کتاب بازی ترامپ گرفته است",
+      "title_en": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
+      "summary": "نایجل فاراژ، رهبر اصلاحات بریتانیا که از پارلمان استعفا داد و در روز پنجشنبه کرسی خود را به دست آورد، همچنان در حالت تهاجمی باقی می ماند و می گوید که رأی دهندگان به اتهامات ناهنجاری مالی اهمیتی نمی دهند.",
+      "summary_fa": "نایجل فاراژ، رهبر اصلاحات بریتانیا که از پارلمان استعفا داد و در روز پنجشنبه کرسی خود را به دست آورد، همچنان در حالت تهاجمی باقی می ماند و می گوید که رأی دهندگان به اتهامات ناهنجاری مالی اهمیتی نمی دهند.",
+      "summary_en": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 18:19:38 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-farage-assess-1-wpvc/14int-farage-assess-1-wpvc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -186948,6 +187032,111 @@
       }
     },
     {
+      "id": "fad6f680bb9fec843837d7834a04a002",
+      "title": "اولین پرواز آزمایشی بزرگترین هواپیمای تمام الکتریکی تنها 5 دلار برق مصرف کرد",
+      "title_fa": "اولین پرواز آزمایشی بزرگترین هواپیمای تمام الکتریکی تنها 5 دلار برق مصرف کرد",
+      "title_en": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "summary": "هدف سرمایه گذاری تحت حمایت خطوط هوایی توسعه یک هواپیمای تجاری هیبریدی-الکتریکی است.",
+      "summary_fa": "هدف سرمایه گذاری تحت حمایت خطوط هوایی توسعه یک هواپیمای تجاری هیبریدی-الکتریکی است.",
+      "summary_en": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 14 Aug 2026 18:00:23 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c1e46696ae57fb7083edf1cd4d5db3d",
+      "title": "لامبورگینی از Revuelto SV، قدرتمندترین خودروی تولیدی خود رونمایی کرد",
+      "title_fa": "لامبورگینی از Revuelto SV، قدرتمندترین خودروی تولیدی خود رونمایی کرد",
+      "title_en": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "summary": "Revuelto SV لامبورگینی نسخه محدود V12 هیبریدی با بیش از 1050 اسب بخار قدرت، 0 تا 100 کیلومتر بر ساعت 2.4 ثانیه و قیمت اولیه 741172 دلار است.",
+      "summary_fa": "Revuelto SV لامبورگینی نسخه محدود V12 هیبریدی با بیش از 1050 اسب بخار قدرت، 0 تا 100 کیلومتر بر ساعت 2.4 ثانیه و قیمت اولیه 741172 دلار است.",
+      "summary_en": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
+      "link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 18:00:01 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dd9a329ceaae65e1318a2be108cf85f4",
+      "title": "دادستان ها می گویند پنج نفر در ارتباط با آثار دزدیده شده سزان، رنوار و ماتیس دستگیر شدند.",
+      "title_fa": "دادستان ها می گویند پنج نفر در ارتباط با آثار دزدیده شده سزان، رنوار و ماتیس دستگیر شدند.",
+      "title_en": "Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say",
+      "summary": "پلیس نظامی ایتالیا اعلام کرد که آثار هنری به ارزش 10 میلیون دلار پنج ماه پس از سرقت شبانه در نزدیکی پارما کشف شده است.",
+      "summary_fa": "پلیس نظامی ایتالیا اعلام کرد که آثار هنری به ارزش 10 میلیون دلار پنج ماه پس از سرقت شبانه در نزدیکی پارما کشف شده است.",
+      "summary_en": "The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.",
+      "link": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 17:58:32 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-italy-heist-kvwj/14int-italy-heist-kvwj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5925a2743ecac85dd8ec7b298b763ab6",
+      "title": "برنهام پس از یک هفته گرمای شدید، درباره بریتانیا هشدار داد",
+      "title_fa": "برنهام پس از یک هفته گرمای شدید، درباره بریتانیا هشدار داد",
+      "title_en": "Burnham warns of ‘tinderbox’ Britain after week of intense heat",
+      "summary": "نخست وزیر هنگام بررسی اقدامات بحث برانگیز برای کاهش اهداف فروش خودروهای الکتریکی و تایید میادین نفتی جدید از صحنه آتش سوزی بازدید می کند.",
+      "summary_fa": "نخست وزیر هنگام بررسی اقدامات بحث برانگیز برای کاهش اهداف فروش خودروهای الکتریکی و تایید میادین نفتی جدید از صحنه آتش سوزی بازدید می کند.",
+      "summary_en": "PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields",
+      "link": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 17:51:03 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f8926bb-68f5-42d8-a10c-8f6db425ef6e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c6f351f8f176e8febfd292eb7a30dfe0",
+      "title": "فکر می کنید الان نرخ بهره بالاست؟ این نمودارها دیدگاه متفاوتی را ارائه می دهند.",
+      "title_fa": "فکر می کنید الان نرخ بهره بالاست؟ این نمودارها دیدگاه متفاوتی را ارائه می دهند.",
+      "title_en": "Think interest rates are high now? These charts offers a different perspective.",
+      "summary": "همچنین در خواندن آخر هفته: 10 بازار مسکن قابل توجه، انتخاب سهام، و نبردهای بیمه سلامت.",
+      "summary_fa": "همچنین در خواندن آخر هفته: 10 بازار مسکن قابل توجه، انتخاب سهام، و نبردهای بیمه سلامت.",
+      "summary_en": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 17:51:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-48405375",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bcddc9287c08e03a7cb7918a942b17e4",
       "title": "فرانسه قانون کمک به مرگ را تایید می کند اما ممنوعیت رسانه های اجتماعی برای کودکان را لغو می کند",
       "title_fa": "فرانسه قانون کمک به مرگ را تایید می کند اما ممنوعیت رسانه های اجتماعی برای کودکان را لغو می کند",
@@ -186969,6 +187158,48 @@
       }
     },
     {
+      "id": "ba3e9085c955c7bf4d2af1a224e7f281",
+      "title": "لوئیجی مانژیونه در دادگاه فدرال به اتهام تعقیب مدیر عامل بیمه سلامت اعتراف کرد",
+      "title_fa": "لوئیجی مانژیونه در دادگاه فدرال به اتهام تعقیب مدیر عامل بیمه سلامت اعتراف کرد",
+      "title_en": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+      "summary": "لوئیجی مانگیونه، که متهم به قتل یکی از مدیران UnitedHealthcare است، پیش از برگزاری دادگاه قتل در نیویورک که قرار است ماه آینده آغاز شود، به اتهامات تعقیب و گریز فدرال اعتراف کرد.",
+      "summary_fa": "لوئیجی مانگیونه، که متهم به قتل یکی از مدیران UnitedHealthcare است، پیش از برگزاری دادگاه قتل در نیویورک که قرار است ماه آینده آغاز شود، به اتهامات تعقیب و گریز فدرال اعتراف کرد.",
+      "summary_en": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+      "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 17:40:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-83787222",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ce2e91c0feff6047a26bb4bee2311d0",
+      "title": "داشتن خانه بیش از حد ارزش گذاری شده است. در حال حاضر اجاره اغلب یک حرکت پولی بسیار بهتر است.",
+      "title_fa": "داشتن خانه بیش از حد ارزش گذاری شده است. در حال حاضر اجاره اغلب یک حرکت پولی بسیار بهتر است.",
+      "title_en": "Owning a home is overrated. Renting is now often a much better money move.",
+      "summary": "راه های بهتری برای فکر کردن به سرمایه گذاری نسبت به مالکیت خانه وجود دارد.",
+      "summary_fa": "راه های بهتری برای فکر کردن به سرمایه گذاری نسبت به مالکیت خانه وجود دارد.",
+      "summary_en": "There are better ways to think about investments than homeownership.",
+      "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 14 Aug 2026 17:30:00 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-42011908",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c04237d2c8297828a8d2a9bae591219a",
       "title": "مردی که در دادگاه مشکوک به استفاده از هوش مصنوعی بود، درخواست‌هایی را در پرونده‌ها تزریق کرد تا تلاش کند پرونده را برنده شود",
       "title_fa": "مردی که در دادگاه مشکوک به استفاده از هوش مصنوعی بود، درخواست‌هایی را در پرونده‌ها تزریق کرد تا تلاش کند پرونده را برنده شود",
@@ -186983,6 +187214,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "42296af2d07f80868ed20797010a2447",
+      "title": "لوئیجی مانژیونه تیراندازی به مدیرعامل UnitedHealthcare را پذیرفت",
+      "title_fa": "لوئیجی مانژیونه تیراندازی به مدیرعامل UnitedHealthcare را پذیرفت",
+      "title_en": "Luigi Mangione admits shooting UnitedHealthcare CEO",
+      "summary": "فارغ التحصیل Ivy League در پرونده فدرال که تبدیل به تیر برق برای بحث در مورد سیستم مراقبت های بهداشتی ایالات متحده شده است، گناهکار است.",
+      "summary_fa": "فارغ التحصیل Ivy League در پرونده فدرال که تبدیل به تیر برق برای بحث در مورد سیستم مراقبت های بهداشتی ایالات متحده شده است، گناهکار است.",
+      "summary_en": "Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system",
+      "link": "https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 17:25:52 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd81afd1-1e63-4128-9469-37b7a26fab95.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -187141,6 +187393,27 @@
       "title": "حداقل از هر 10 نفر در مراقبت های ویژه و هزاران نفر از آتش سوزی شدید در کرواسی فرار می کنند.",
       "title_fa": "حداقل از هر 10 نفر در مراقبت های ویژه و هزاران نفر از آتش سوزی شدید در کرواسی فرار می کنند.",
       "title_en": "At least people in 10 in intensive care and thousands flee intense wildfire in Croatia",
+      "summary": "نخست وزیر آندری پلنکوویچ در جریان بازدید از منطقه بر خطرات آتش سوزی تاکید کرد و از تلاش های آتش نشانان قدردانی کرد.",
+      "summary_fa": "نخست وزیر آندری پلنکوویچ در جریان بازدید از منطقه بر خطرات آتش سوزی تاکید کرد و از تلاش های آتش نشانان قدردانی کرد.",
+      "summary_en": "During a visit to the area Prime Minister Andrej Plenković stressed the dangers of the fire and praised the efforts of the firefighters.",
+      "link": "http://www.euronews.com/my-europe/2026/08/14/at-least-people-in-10-in-intensive-care-and-thousands-flee-intense-wildfire-in-croatia",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 17:01:39 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "54dbbb3118432fb51b4ebdd0a9560fd0",
+      "title": "حداقل 10 نفر در مراقبت های ویژه و هزاران نفر از آتش سوزی شدید در کرواسی فرار می کنند",
+      "title_fa": "حداقل 10 نفر در مراقبت های ویژه و هزاران نفر از آتش سوزی شدید در کرواسی فرار می کنند",
+      "title_en": "At least 10 people in intensive care and thousands flee intense wildfire in Croatia",
       "summary": "نخست وزیر آندری پلنکوویچ در جریان بازدید از منطقه بر خطرات آتش سوزی تاکید کرد و از تلاش های آتش نشانان قدردانی کرد.",
       "summary_fa": "نخست وزیر آندری پلنکوویچ در جریان بازدید از منطقه بر خطرات آتش سوزی تاکید کرد و از تلاش های آتش نشانان قدردانی کرد.",
       "summary_en": "During a visit to the area Prime Minister Andrej Plenković stressed the dangers of the fire and praised the efforts of the firefighters.",
@@ -188646,6 +188919,27 @@
         "lat": 31.5017,
         "lng": 34.4668,
         "name": "غزه"
+      }
+    },
+    {
+      "id": "cf5b7f1bd5d77286e56860801da2eb25",
+      "title": "امواج گرما موهبت بزرگ بشر برای نادیده گرفتن فاجعه را آشکار می کند",
+      "title_fa": "امواج گرما موهبت بزرگ بشر برای نادیده گرفتن فاجعه را آشکار می کند",
+      "title_en": "Heatwaves expose the great human gift for ignoring catastrophe",
+      "summary": "ما باید منتظر ماندن برای شکستن طلسم توسط شخص دیگری نباشیم",
+      "summary_fa": "ما باید منتظر ماندن برای شکستن طلسم توسط شخص دیگری نباشیم",
+      "summary_en": "We need to stop waiting for someone else to break the spell",
+      "link": "https://www.ft.com/content/63a28eea-9d73-487b-bb46-34530e215fce?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 14:46:18 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8e2a14d2-6de1-4e2d-bf9c-5794fff57b0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -202817,6 +203111,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76e13dd3c2cf0e0a94d8cbbb1e6502fa",
+      "title": "بهترین ویژگی دوربین جدید گوگل فقط برای سری پیکسل 11 است",
+      "title_fa": "بهترین ویژگی دوربین جدید گوگل فقط برای سری پیکسل 11 است",
+      "title_en": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "summary": "مسلماً جالب‌ترین ویژگی جدید عکس برای سری پیکسل 11، دوربین جدید گوگل است که داده‌های تصویر را در سطح سنسور به طور متفاوتی پردازش می‌کند تا عکس‌هایی تولید کند که ظاهر «گوشی هوشمند» را ندارند. نتیجه سبک‌های جدیدی مانند «Digi» است که از سبک عکس‌های گرفته شده توسط دوربین‌های دیجیتال قدیمی‌تر تقلید می‌کند. اما برای استفاده از […]",
+      "summary_fa": "مسلماً جالب‌ترین ویژگی جدید عکس برای سری پیکسل 11، دوربین جدید گوگل است که داده‌های تصویر را در سطح سنسور به طور متفاوتی پردازش می‌کند تا عکس‌هایی تولید کند که ظاهر «گوشی هوشمند» را ندارند. نتیجه سبک‌های جدیدی مانند «Digi» است که از سبک عکس‌های گرفته شده توسط دوربین‌های دیجیتال قدیمی‌تر تقلید می‌کند. اما برای استفاده از […]",
+      "summary_en": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use […]",
+      "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "source": "The Verge",
+      "published_at": "2026-08-14T13:34:14-04:00",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
