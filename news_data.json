@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 20:07:15",
-  "total_count": 10434,
+  "last_update": "2026-08-14 20:44:29",
+  "total_count": 10440,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186864,6 +186864,27 @@
       }
     },
     {
+      "id": "091e3a9c91bfa4fa83cd17bfff5ede1f",
+      "title": "سازمان خیریه مهاجران SOS Méditerranée می گوید 11 جسد در دریا در سواحل لیبی مشاهده شده است.",
+      "title_fa": "سازمان خیریه مهاجران SOS Méditerranée می گوید 11 جسد در دریا در سواحل لیبی مشاهده شده است.",
+      "title_en": "Migrant charity SOS Méditerranée says 11 bodies spotted in sea off Libya's coast",
+      "summary": "آژانس مرزی اتحادیه اروپا فرونتکس اعلام کرد که تعداد کل گذرگاه های مرزی غیرقانونی به اتحادیه اروپا در سال 2025 نسبت به سال قبل از آن 26 درصد کاهش یافته و به تقریباً 178000 رسیده است.",
+      "summary_fa": "آژانس مرزی اتحادیه اروپا فرونتکس اعلام کرد که تعداد کل گذرگاه های مرزی غیرقانونی به اتحادیه اروپا در سال 2025 نسبت به سال قبل از آن 26 درصد کاهش یافته و به تقریباً 178000 رسیده است.",
+      "summary_en": "The EU border agency Frontex said the total number of irregular border crossings into the European Union fell by 26% in 2025 from the previous year to almost 178,000.",
+      "link": "http://www.euronews.com/2026/08/14/migrant-charity-sos-mediterranee-says-11-bodies-spotted-in-sea-off-libyas-coast",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 22:05:30 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "b256212416c06faeae7c85e20fe06588",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -186906,6 +186927,27 @@
       }
     },
     {
+      "id": "fe9330a01fce0d9fbfa5673b299c0c23",
+      "title": "جیسون آردی، استاد سابق دانشگاه کمبریج در مرکز جرایم سرقت ادبی، جسد در خانه پیدا شد",
+      "title_fa": "جیسون آردی، استاد سابق دانشگاه کمبریج در مرکز جرایم سرقت ادبی، جسد در خانه پیدا شد",
+      "title_en": "Jason Arday, former Cambridge University professor at centre of plagiarism row, found dead at home",
+      "summary": "آردی زمانی که دانشگاه او را به عنوان جوان‌ترین استاد سیاه‌پوست خود در سال 2023 منصوب کرد، خبرساز شد، اما او از آن زمان با ادعاهای گلوله برفی مواجه شد که بخش‌هایی از پایان‌نامه دکترای خود را سرقت کرده است.",
+      "summary_fa": "آردی زمانی که دانشگاه او را به عنوان جوان‌ترین استاد سیاه‌پوست خود در سال 2023 منصوب کرد، خبرساز شد، اما او از آن زمان با ادعاهای گلوله برفی مواجه شد که بخش‌هایی از پایان‌نامه دکترای خود را سرقت کرده است.",
+      "summary_en": "Arday made headlines when the university appointed him as its youngest black professor in 2023 but he since faced snowballing claims he plagiarised parts of his PhD thesis.",
+      "link": "http://www.euronews.com/my-europe/2026/08/14/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-de",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 21:38:19 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bac0b66b941f17d96eea30cf657032e4",
       "title": "روسیه به کمبودهای جدید بنزین در بحبوحه حملات طولانی مدت اوکراین اعتراف کرد",
       "title_fa": "روسیه به کمبودهای جدید بنزین در بحبوحه حملات طولانی مدت اوکراین اعتراف کرد",
@@ -186924,6 +186966,69 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "67e20a8f24e4efb93bf1f715474488e6",
+      "title": "از آنجایی که ارتش در حمایت از فلسطینی ها ناکام است، رهبران اسرائیل با شهرک نشینان همدردی کردند",
+      "title_fa": "از آنجایی که ارتش در حمایت از فلسطینی ها ناکام است، رهبران اسرائیل با شهرک نشینان همدردی کردند",
+      "title_en": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
+      "summary": "وزیر دفاع کاتز از ارتش خواست که مسئولیت حفاظت از فلسطینی ها را پس از محاصره دو خانواده در کرانه باختری توسط شهرک نشینان خشن به پلیس بسپارد.",
+      "summary_fa": "وزیر دفاع کاتز از ارتش خواست که مسئولیت حفاظت از فلسطینی ها را پس از محاصره دو خانواده در کرانه باختری توسط شهرک نشینان خشن به پلیس بسپارد.",
+      "summary_en": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.",
+      "link": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 20:37:38 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-westbank-assess-lfzm/14int-westbank-assess-lfzm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "95a1bd8d9b67835e155fa26ee8e7fe69",
+      "title": "در آتش سوزی کرواسی ده ها زخمی و هزاران نفر تخلیه شدند",
+      "title_fa": "در آتش سوزی کرواسی ده ها زخمی و هزاران نفر تخلیه شدند",
+      "title_en": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "summary": "مقامات می گویند این آتش سوزی در نزدیکی شهر بندری اومیس یکی از بدترین آتش سوزی ها در تاریخ کرواسی است.",
+      "summary_fa": "مقامات می گویند این آتش سوزی در نزدیکی شهر بندری اومیس یکی از بدترین آتش سوزی ها در تاریخ کرواسی است.",
+      "summary_en": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 20:22:56 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1535/live/7141a7f0-9806-11f1-8f19-057f099340f6.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "343d57b7a32cb2c2a4387e4b4cf804f1",
+      "title": "آخرین گاو نقدی گلدمن تماماً در مورد تأمین مالی رونق زیرساخت های هوش مصنوعی است",
+      "title_fa": "آخرین گاو نقدی گلدمن تماماً در مورد تأمین مالی رونق زیرساخت های هوش مصنوعی است",
+      "title_en": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "summary": "انویدیا و اینتل اخیراً از این بانک استفاده کرده اند تا به آنها کمک کنند تا تقاضای فزاینده برای محاسبات را برآورده کنند.",
+      "summary_fa": "انویدیا و اینتل اخیراً از این بانک استفاده کرده اند تا به آنها کمک کنند تا تقاضای فزاینده برای محاسبات را برآورده کنند.",
+      "summary_en": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 20:05:57 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -186987,6 +187092,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "d8a66a6c3ba9957c0c0db1ade58ae28e",
+      "title": "پسر رئیس جمهور سابق مکزیک AMLO مدعی شد که ایالات متحده ویزای او را لغو کرده است",
+      "title_fa": "پسر رئیس جمهور سابق مکزیک AMLO مدعی شد که ایالات متحده ویزای او را لغو کرده است",
+      "title_en": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "summary": "ایالات متحده این لغو را که در بحبوحه سرکوب سیاستمداران مکزیکی به اتهام ارتباط با کارتل ها صورت می گیرد، تایید نکرده است.",
+      "summary_fa": "ایالات متحده این لغو را که در بحبوحه سرکوب سیاستمداران مکزیکی به اتهام ارتباط با کارتل ها صورت می گیرد، تایید نکرده است.",
+      "summary_en": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 19:44:43 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
