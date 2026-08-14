@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 03:15:22",
-  "total_count": 10026,
+  "last_update": "2026-08-14 05:09:49",
+  "total_count": 10066,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -93227,6 +93227,27 @@
       }
     },
     {
+      "id": "8d32bcafebd700828649cd8242f36afd",
+      "title": "گزارش می‌گوید تیغه موتور قبل از اینکه انسان تا حدی به بیرون مکیده شود، به شیشه جت برخورد کرد",
+      "title_fa": "گزارش می‌گوید تیغه موتور قبل از اینکه انسان تا حدی به بیرون مکیده شود، به شیشه جت برخورد کرد",
+      "title_en": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
+      "summary": "هیئت ملی ایمنی حمل و نقل گفت که بقایای یک پرنده و پرهای آن را روی یک موتور شکسته پیدا کرده است.",
+      "summary_fa": "هیئت ملی ایمنی حمل و نقل گفت که بقایای یک پرنده و پرهای آن را روی یک موتور شکسته پیدا کرده است.",
+      "summary_en": "The National Transportation Safety Board said it had found a bird’s remains and feathers on a broken engine.",
+      "link": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+      "source": "NY Times",
+      "published_at": "Thu, 13 Aug 2026 23:20:33 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13xp-plane-investigation-plane-zpml/13xp-plane-investigation-plane-zpml-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3fa61f02c8a3f01de40ce68337426989",
       "title": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
       "title_fa": "گزارش می‌گوید وقتی مرد تا حدی به بیرون مکیده شد، تیغه موتور به شیشه جت برخورد کرد",
@@ -93997,6 +94018,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69dbcd65ab144138e48c16743eb90cc5",
+      "title": "BBC Verify با زنی صحبت می کند که از مامور ICE فیلم گرفته است که اسلحه را به سمت او نشانه می رود",
+      "title_fa": "BBC Verify با زنی صحبت می کند که از مامور ICE فیلم گرفته است که اسلحه را به سمت او نشانه می رود",
+      "title_en": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "summary": "BBC Verify فیلم به اشتراک گذاشته شده توسط یک زن ویرجینیا را بررسی کرده است که در آن یک مامور ICE اسلحه خود را به سمت او نشانه رفته است.",
+      "summary_fa": "BBC Verify فیلم به اشتراک گذاشته شده توسط یک زن ویرجینیا را بررسی کرده است که در آن یک مامور ICE اسلحه خود را به سمت او نشانه رفته است.",
+      "summary_en": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 20:37:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcf/live/070284b0-9741-11f1-a7ab-8b30adf0800a.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -96629,6 +96671,27 @@
       }
     },
     {
+      "id": "cbf6317cb4cb68937d4342025ca824f2",
+      "title": "چه کسی می تواند جایگزین کارولین لیویت، سخنگوی کاخ سفید شود؟",
+      "title_fa": "چه کسی می تواند جایگزین کارولین لیویت، سخنگوی کاخ سفید شود؟",
+      "title_en": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "summary": "این کار مستلزم مدیریت یک رابطه پیچیده با رسانه ها است - و همچنین انتظارات بالای ترامپ.",
+      "summary_fa": "این کار مستلزم مدیریت یک رابطه پیچیده با رسانه ها است - و همچنین انتظارات بالای ترامپ.",
+      "summary_en": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 14:56:19 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9596/live/0b835a70-9758-11f1-9240-c70a29f1c818.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4325535fc9e9564143812e279725dd68",
       "title": "چهار ستاره هاکی کانادایی پس از تبرئه تجاوز جنسی به حالت تعلیق درآمدند",
       "title_fa": "چهار ستاره هاکی کانادایی پس از تبرئه تجاوز جنسی به حالت تعلیق درآمدند",
@@ -97403,6 +97466,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "8759fc4c6447b4220745802dd169e1dc",
+      "title": "«توجیه» یا «هیچ تجارتی وجود ندارد»؟ شهر مهمات تنسی که به ترامپ وفادار است اما در مورد ایران تقسیم شده است",
+      "title_fa": "«توجیه» یا «هیچ تجارتی وجود ندارد»؟ شهر مهمات تنسی که به ترامپ وفادار است اما در مورد ایران تقسیم شده است",
+      "title_en": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "summary": "از رای دهندگان در کینگ اسپورت، که محل استقرار کارخانه مهمات تامین کننده ارتش ایالات متحده است، بشنوید، زیرا تنش ها بر سر جنگ ایران جرقه بحث را برانگیخته است.",
+      "summary_fa": "از رای دهندگان در کینگ اسپورت، که محل استقرار کارخانه مهمات تامین کننده ارتش ایالات متحده است، بشنوید، زیرا تنش ها بر سر جنگ ایران جرقه بحث را برانگیخته است.",
+      "summary_en": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+      "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 13 Aug 2026 13:20:55 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/ae2701f0-9717-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -186549,6 +186633,720 @@
       }
     },
     {
+      "id": "0935a63625ec01691ab4cebcdda8fda7",
+      "title": "\"چالش واقعی پس از غروب خورشید شروع می شود\": موج گرمای اروپا خورشیدی را تا 17 درصد در روزهای گرم افزایش داد",
+      "title_fa": "\"چالش واقعی پس از غروب خورشید شروع می شود\": موج گرمای اروپا خورشیدی را تا 17 درصد در روزهای گرم افزایش داد",
+      "title_en": "‘The real challenge starts after sundown’: Europe’s heatwave boosted solar by up to 17% on hot days",
+      "summary": "بر اساس یک تحلیل جدید، افزایش انرژی خورشیدی به برآورده شدن تقاضای انرژی بیشتر از امواج گرمای سوزان اروپا کمک کرده است.",
+      "summary_fa": "بر اساس یک تحلیل جدید، افزایش انرژی خورشیدی به برآورده شدن تقاضای انرژی بیشتر از امواج گرمای سوزان اروپا کمک کرده است.",
+      "summary_en": "A surge in solar power has helped meet heightened power demand from Europe’s blistering heatwaves, according to a new analysis.",
+      "link": "http://www.euronews.com/2026/08/14/the-real-challenge-starts-after-sundown-europes-heatwave-boosted-solar-by-up-to-17-on-hot-",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 07:00:39 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "33067c255c88f29284bafae801d5e371",
+      "title": "فهرست سطل سفر شفق شمالی: سفرها و تجربیات منحصر به فرد برای رزرو در 2026-2027",
+      "title_fa": "فهرست سطل سفر شفق شمالی: سفرها و تجربیات منحصر به فرد برای رزرو در 2026-2027",
+      "title_en": "Northern Lights travel bucket list: Unique trips and experiences to book in 2026-2027",
+      "summary": "مشاهده شفق قطبی برای بسیاری از مسافران در صدر فهرست سطل است. در این راهنما، برخی از بهترین سفرها و تجربیات شفق شمالی را برای رزرو در سال‌های 2026 و 2027 انتخاب می‌کنیم.",
+      "summary_fa": "مشاهده شفق قطبی برای بسیاری از مسافران در صدر فهرست سطل است. در این راهنما، برخی از بهترین سفرها و تجربیات شفق شمالی را برای رزرو در سال‌های 2026 و 2027 انتخاب می‌کنیم.",
+      "summary_en": "Witnessing the Aurora Borealis is top of the bucket list for many travellers. In this guide, we pick out some of the best Northern Lights trips and experiences to book in 2026 and 2027.",
+      "link": "http://www.euronews.com/travel/2026/08/14/northern-lights-travel-bucket-list-unique-trips-and-experiences-to-book-in-2026-2027",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 07:00:05 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49601aeb255147422598d3123899f8d4",
+      "title": "دانشمندان نقشه می‌کشند که چگونه طراحی فضاپیما می‌تواند بر سلامت روان فضانوردان تأثیر بگذارد",
+      "title_fa": "دانشمندان نقشه می‌کشند که چگونه طراحی فضاپیما می‌تواند بر سلامت روان فضانوردان تأثیر بگذارد",
+      "title_en": "Scientists map how spacecraft design could affect astronauts’ mental health",
+      "summary": "آیا طراحی یک فضاپیما می تواند بر سلامت روان فضانوردان تأثیر بگذارد؟ دانشمندان نقشه‌برداری کرده‌اند که چگونه همه چیز از روشنایی و حریم خصوصی گرفته تا فضاهای مشترک می‌تواند رفاه را در ماموریت‌های طولانی به ماه و مریخ شکل دهد.",
+      "summary_fa": "آیا طراحی یک فضاپیما می تواند بر سلامت روان فضانوردان تأثیر بگذارد؟ دانشمندان نقشه‌برداری کرده‌اند که چگونه همه چیز از روشنایی و حریم خصوصی گرفته تا فضاهای مشترک می‌تواند رفاه را در ماموریت‌های طولانی به ماه و مریخ شکل دهد.",
+      "summary_en": "Could the design of a spacecraft affect astronauts’ mental health? Scientists have mapped how everything from lighting and privacy to shared spaces could shape wellbeing on long missions to the Moon and Mars.",
+      "link": "http://www.euronews.com/health/2026/08/14/scientists-map-how-spacecraft-design-could-affect-astronauts-mental-health",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 06:51:29 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e94365810e1318030a3fc3a8f1c2c35",
+      "title": "ترامپ به نیروی دریایی دستور داد تا به سیستم قدیمی پرتاب جت ها از ناوهای هواپیمابر بازگردد",
+      "title_fa": "ترامپ به نیروی دریایی دستور داد تا به سیستم قدیمی پرتاب جت ها از ناوهای هواپیمابر بازگردد",
+      "title_en": "Trump orders Navy to return to older system of launching jets off aircraft carriers",
+      "summary": "بر اساس دستورالعملی که روز پنجشنبه صادر شد، دستور جدید احتمالاً میلیاردها دلار هزینه خواهد داشت و پیشرفته‌ترین کشتی‌های نیروی دریایی را به سیستمی باز می‌گرداند که ملوان‌های بیشتری را به کار می‌گیرد و نگهداری آن دشوارتر است.",
+      "summary_fa": "بر اساس دستورالعملی که روز پنجشنبه صادر شد، دستور جدید احتمالاً میلیاردها دلار هزینه خواهد داشت و پیشرفته‌ترین کشتی‌های نیروی دریایی را به سیستمی باز می‌گرداند که ملوان‌های بیشتری را به کار می‌گیرد و نگهداری آن دشوارتر است.",
+      "summary_en": "According to a directive issued Thursday, the new mandate would likely cost billions of dollars and revert the Navy’s most advanced ships to a system that takes more sailors to operate and is more difficult to maintain.",
+      "link": "http://www.euronews.com/2026/08/14/trump-orders-navy-to-return-to-older-system-of-launching-jets-off-aircraft-carriers",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 06:43:07 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0184376ff41d34e63c5cc2908b223517",
+      "title": "خنکی جنگل سیاه: گردشگری در آلمان در سال 2026 افزایش می یابد",
+      "title_fa": "خنکی جنگل سیاه: گردشگری در آلمان در سال 2026 افزایش می یابد",
+      "title_en": "Black Forest coolcation: tourism in Germany surges in 2026",
+      "summary": "در اسپانیا و ایتالیا، جنگل سیاه یک مقصد بسیار محبوب برای تعطیلات است. اما آلمان با سایر بازدیدکنندگان رکورد متفاوتی را ثبت کرده است.",
+      "summary_fa": "در اسپانیا و ایتالیا، جنگل سیاه یک مقصد بسیار محبوب برای تعطیلات است. اما آلمان با سایر بازدیدکنندگان رکورد متفاوتی را ثبت کرده است.",
+      "summary_en": "In Spain and Italy, the Black Forest is an extremely popular holiday destination. But Germany has set a different record with other visitors.",
+      "link": "http://www.euronews.com/travel/2026/08/14/black-forest-coolcation-tourism-in-germany-surges-in-2026",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 06:40:23 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "65af11bd30fa7d23309440d6f08ef823",
+      "title": "کاخ سفید می گوید با طفره رفتن کشورها از تعرفه ها سالانه 19 تا 26 میلیارد دلار درآمد از دست می دهد.",
+      "title_fa": "کاخ سفید می گوید با طفره رفتن کشورها از تعرفه ها سالانه 19 تا 26 میلیارد دلار درآمد از دست می دهد.",
+      "title_en": "White House says it’s losing $19B-$26B a year in revenue as countries dodge tariffs",
+      "summary": "پیتر ناوارو، مشاور تجاری کاخ سفید در یک کنفرانس تلفنی به خبرنگاران گفت که چین در حال شستشوی صادرات خود از طریق بیش از 40 کشور است.",
+      "summary_fa": "پیتر ناوارو، مشاور تجاری کاخ سفید در یک کنفرانس تلفنی به خبرنگاران گفت که چین در حال شستشوی صادرات خود از طریق بیش از 40 کشور است.",
+      "summary_en": "Peter Navarro, the White House trade adviser, told reporters on a conference call that China is laundering its exports through more than 40 countries.",
+      "link": "http://www.euronews.com/2026/08/14/white-house-says-its-losing-19b-26b-a-year-in-revenue-as-countries-dodge-tariffs",
+      "source": "EuroNews",
+      "published_at": "Fri, 14 Aug 2026 06:18:31 +0200",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a23746cb6f7cd76b9d41128af3f73b05",
+      "title": "زنان افغان در پنج سال حکومت طالبان از زندگی عمومی پاک شدند",
+      "title_fa": "زنان افغان در پنج سال حکومت طالبان از زندگی عمومی پاک شدند",
+      "title_en": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
+      "summary": "کارشناسان می گویند که فرمان های محدود کننده حقوق زنان و دختران برای تحصیل، کار، مسافرت و عمل مستقل اکنون افغانستان را برای همیشه تهدید می کند.",
+      "summary_fa": "کارشناسان می گویند که فرمان های محدود کننده حقوق زنان و دختران برای تحصیل، کار، مسافرت و عمل مستقل اکنون افغانستان را برای همیشه تهدید می کند.",
+      "summary_en": "Decrees restricting the rights of women and girls to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.",
+      "link": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 05:08:36 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "201606334687e885fb80ba97717c9312",
+      "title": "چین روبات‌هایی ساخته است که می‌توانند به عقب برگردند – اما آیا می‌توانند درآمد کسب کنند؟",
+      "title_fa": "چین روبات‌هایی ساخته است که می‌توانند به عقب برگردند – اما آیا می‌توانند درآمد کسب کنند؟",
+      "title_en": "China built robots that can do backflips – but can they make money?",
+      "summary": "IPO Unitree اشتهای سرمایه گذاران را برای فناوری که هنوز در میان تشدید تنش های ژئوپلیتیکی قابلیت تجاری خود را ثابت نکرده است، ارزیابی می کند.",
+      "summary_fa": "IPO Unitree اشتهای سرمایه گذاران را برای فناوری که هنوز در میان تشدید تنش های ژئوپلیتیکی قابلیت تجاری خود را ثابت نکرده است، ارزیابی می کند.",
+      "summary_en": "Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.",
+      "link": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 05:00:47 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "c8f6053efd716832f513e5d657c83438",
+      "title": "چگونه یک تجارت ویژه مس به معیاری در زمان واقعی برای حرکت تعرفه بعدی ترامپ تبدیل شد",
+      "title_fa": "چگونه یک تجارت ویژه مس به معیاری در زمان واقعی برای حرکت تعرفه بعدی ترامپ تبدیل شد",
+      "title_en": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+      "summary": "افزایش قیمت مس بین دو بورس فلزی، معیاری از ریسک تعرفه ای آمریکا را به سرمایه گذاران ارائه می دهد.",
+      "summary_fa": "افزایش قیمت مس بین دو بورس فلزی، معیاری از ریسک تعرفه ای آمریکا را به سرمایه گذاران ارائه می دهد.",
+      "summary_en": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+      "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "source": "CNBC",
+      "published_at": "Fri, 14 Aug 2026 05:00:01 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6b451cbbded1130bd2c0391c7bcbde59",
+      "title": "کوپن خواب لیلا: تا 600 دلار در آگوست 2026 پس انداز کنید",
+      "title_fa": "کوپن خواب لیلا: تا 600 دلار در آگوست 2026 پس انداز کنید",
+      "title_en": "Layla Sleep Coupon: Save Up to $600 in August 2026",
+      "summary": "تنظیمات خواب خود را با جدیدترین کدهای تبلیغاتی Layla ارتقا دهید. در آگوست 2026 در تشک های قابل چرخش، بالش های مسی و پایه های قابل تنظیم صرفه جویی کنید.",
+      "summary_fa": "تنظیمات خواب خود را با جدیدترین کدهای تبلیغاتی Layla ارتقا دهید. در آگوست 2026 در تشک های قابل چرخش، بالش های مسی و پایه های قابل تنظیم صرفه جویی کنید.",
+      "summary_en": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in August 2026.",
+      "link": "https://www.wired.com/story/layla-sleep-coupon/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 05:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "99637b6af32c63e862e8f83f7a710304",
+      "title": "کدهای تبلیغاتی HelloFresh: 55٪ تخفیف برای آگوست 2026",
+      "title_fa": "کدهای تبلیغاتی HelloFresh: 55٪ تخفیف برای آگوست 2026",
+      "title_en": "HelloFresh Promo Codes: 55% Off for August 2026",
+      "summary": "با استفاده از کد کوپن HelloFresh در آگوست 2026 تا 55٪ تخفیف و جعبه های غذای رایگان دریافت کنید. بهترین کدها و تخفیف های ما را کشف کنید تا در وقت و هزینه خود صرفه جویی کنید.",
+      "summary_fa": "با استفاده از کد کوپن HelloFresh در آگوست 2026 تا 55٪ تخفیف و جعبه های غذای رایگان دریافت کنید. بهترین کدها و تخفیف های ما را کشف کنید تا در وقت و هزینه خود صرفه جویی کنید.",
+      "summary_en": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in August 2026. Discover our best codes and discounts to let you save time and money.",
+      "link": "https://www.wired.com/story/hellofresh-coupon/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 05:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76c69ca4b56ff4470bdac178943829cc",
+      "title": "کدهای تبلیغاتی Pura: 20 دلار تخفیف در اوت 2026",
+      "title_fa": "کدهای تبلیغاتی Pura: 20 دلار تخفیف در اوت 2026",
+      "title_en": "Pura Promo Codes: $20 Off August 2026",
+      "summary": "با کدهای تبلیغاتی فعال Pura، فضای خانه خود را با قیمتی کمتر تقویت کنید. صرفه جویی در پخش کننده های هوشمند، عطرهای انحصاری، و مشترک شدن و ذخیره پیشنهادها پیدا کنید.",
+      "summary_fa": "با کدهای تبلیغاتی فعال Pura، فضای خانه خود را با قیمتی کمتر تقویت کنید. صرفه جویی در پخش کننده های هوشمند، عطرهای انحصاری، و مشترک شدن و ذخیره پیشنهادها پیدا کنید.",
+      "summary_en": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
+      "link": "https://www.wired.com/story/pura-promo-code/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 05:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e4e1f84a78429501a18c6516aeb8ca93",
+      "title": "کدهای تبلیغاتی ایسر: 40 درصد تخفیف",
+      "title_fa": "کدهای تبلیغاتی ایسر: 40 درصد تخفیف",
+      "title_en": "Acer Promo Codes: 40% Off",
+      "summary": "از 40 درصد تخفیف برای بسته‌های لوازم جانبی گرفته تا تخفیف‌های تأییدشده دانشجویی و نظامی، در اینجا نحوه صرفه‌جویی در لپ‌تاپ‌ها و نمایشگرهای Predator، Nitro و Swift در Acer.com آمده است.",
+      "summary_fa": "از 40 درصد تخفیف برای بسته‌های لوازم جانبی گرفته تا تخفیف‌های تأییدشده دانشجویی و نظامی، در اینجا نحوه صرفه‌جویی در لپ‌تاپ‌ها و نمایشگرهای Predator، Nitro و Swift در Acer.com آمده است.",
+      "summary_en": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
+      "link": "https://www.wired.com/story/acer-promo-code/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 05:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a31efdbb97bf69211eb1039a8bf81db",
+      "title": "کد تبلیغاتی Babbel: تا 65٪ تخفیف در آگوست 2026",
+      "title_fa": "کد تبلیغاتی Babbel: تا 65٪ تخفیف در آگوست 2026",
+      "title_en": "Babbel Promo Code: Up to 65% Off in August 2026",
+      "summary": "با دوره های تخصصی تحت رهبری یک زبان جدید مسلط شوید. از کدهای کوپن تأیید شده Babbel ما استفاده کنید تا تا 65٪ در برنامه های دانشجویی و 60٪ در اشتراک های 6 ماهه صرفه جویی کنید.",
+      "summary_fa": "با دوره های تخصصی تحت رهبری یک زبان جدید مسلط شوید. از کدهای کوپن تأیید شده Babbel ما استفاده کنید تا تا 65٪ در برنامه های دانشجویی و 60٪ در اشتراک های 6 ماهه صرفه جویی کنید.",
+      "summary_en": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "link": "https://www.wired.com/story/babbel-promo-code/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 05:00:00 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fd68da76c1b75d15ee5913565199d931",
+      "title": "خبر زنده: براگ از ادعای خود عقب نشینی می کند استرالیایی های کم درآمد باید خانه های «زیر استاندارد» را بپذیرند. جان ستکا، رئیس سابق CFMEU متهم شد",
+      "title_fa": "خبر زنده: براگ از ادعای خود عقب نشینی می کند استرالیایی های کم درآمد باید خانه های «زیر استاندارد» را بپذیرند. جان ستکا، رئیس سابق CFMEU متهم شد",
+      "title_en": "News live: Bragg backtracks on claim low-income Australians should accept ‘sub-standard’ homes; former CFMEU boss John Setka charged",
+      "summary": "اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آنها مهم هستند. مشکل اعتیاد است و وقتی کسی اعتیاد دارد، اگر انگیزه هایی وجود داشته باشد که آن اعتیاد را تشویق کند، این چیز بدی است. هیچ ایرادی ندارد که مردم در روز شنبه نوبت بزنند... مشکل این است که اعتیاد باشد. ما توافق کردیم که این پروژه ای است که مزایایی برای ایالات متحده، استرالیا و بریتانیا دارد و ادامه خواهد داد. من همیشه در این گفتگوها منافع ملی استرالیا را مطرح می کنم. ادامه مطلب...",
+      "summary_fa": "اخبار امروز را به صورت زنده دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. آنها مهم هستند. مشکل اعتیاد است و وقتی کسی اعتیاد دارد، اگر انگیزه هایی وجود داشته باشد که آن اعتیاد را تشویق کند، این چیز بدی است. هیچ ایرادی ندارد که مردم در روز شنبه نوبت بزنند... مشکل این است که اعتیاد باشد. ما توافق کردیم که این پروژه ای است که مزایایی برای ایالات متحده، استرالیا و بریتانیا دارد و ادامه خواهد داد. من همیشه در این گفتگوها منافع ملی استرالیا را مطرح می کنم. ادامه مطلب...",
+      "summary_en": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAlbanese says gambling inducements are ‘over the top’Albanese said gambling inducements are “over the top and need to be wound back”.Look, we’re working constructively across the parliament to put in place these reforms. They are important.The problem is addiction and when someone has an addiction, if there are inducements that are encouraging that addiction, that’s a bad thing. There’s nothing wrong with people having a punt on a Saturday … the problem is if it’s an addiction.We agreed it was a project that is and will continue to deliver benefits for the United States, for Australia, and for the United Kingdom.I always put forward Australia’s national interest during these discussions. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 04:47:08 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/68215ef53d8016d813e13868cd0eaba73f602daa/260_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=7dfc6c1a174a09145af6064d19ebc279",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fcea577a437f5cfa6a505e07a7635689",
+      "title": "الجزیره با کنت بینفیس صحبت می کند در حالی که فاراژ مدعی پیروزی کلاکتون است",
+      "title_fa": "الجزیره با کنت بینفیس صحبت می کند در حالی که فاراژ مدعی پیروزی کلاکتون است",
+      "title_en": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
+      "summary": "جونا هال از الجزیره با کانت بینفیس کاندیدای پارلمان صحبت کرد، در حالی که آرا در کلاکتون شمارش می شد.",
+      "summary_fa": "جونا هال از الجزیره با کانت بینفیس کاندیدای پارلمان صحبت کرد، در حالی که آرا در کلاکتون شمارش می شد.",
+      "summary_en": "Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 04:38:50 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "13c47d2d3a985f75140b51d9491488f5",
+      "title": "عرضه آب برای سه ایالت ایالات متحده کاهش می یابد و دریاچه مید به پایین ترین سطح خود رسیده است",
+      "title_fa": "عرضه آب برای سه ایالت ایالات متحده کاهش می یابد و دریاچه مید به پایین ترین سطح خود رسیده است",
+      "title_en": "Water supply for three US states drips down, Lake Mead at record low",
+      "summary": "بزرگترین مخزن در ایالات متحده، واقع در مرز آریزونا و نوادا، به تازگی به پایین ترین سطح خود رسیده است.",
+      "summary_fa": "بزرگترین مخزن در ایالات متحده، واقع در مرز آریزونا و نوادا، به تازگی به پایین ترین سطح خود رسیده است.",
+      "summary_en": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 04:26:09 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec9f1bbc6e6c8758951ea2a8a571d7c2",
+      "title": "باران «بی‌سابقه» در ژاپن چهار کشته بر جای گذاشت و هزاران نفر در فرودگاه سرگردان شدند",
+      "title_fa": "باران «بی‌سابقه» در ژاپن چهار کشته بر جای گذاشت و هزاران نفر در فرودگاه سرگردان شدند",
+      "title_en": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport",
+      "summary": "دستور تخلیه 400000 نفر در پی بارش باران های سیل آسا در استان چیبا صادر شد زیرا خطر سیل با وجود کاهش بارندگی همچنان بالاست. دست کم چهار نفر در شرق ژاپن پس از باران شدید \"بی سابقه\" جان خود را از دست دادند که نزدیک به 7000 نفر را در فرودگاه ناریتا توکیو سرگردان کرد و هزاران ساختمان دولتی را مجبور به پناه دادن به ساختمان های دولتی کرد. استانی، شرق توکیو، پنجشنبه شب، هشدار رانش زمین و قطع برق را به همراه داشت. دستور تخلیه بیش از 400,000 نفر در چیبا و سایر مناطق صادر شد و حدود 45,000 خانه برق قطع شد، زیرا 115 میلی متر باران در ساعت می بارید، تقریباً همان مقداری که معمولاً برای کل ماه اوت ثبت می شد. ادامه مطلب...",
+      "summary_fa": "دستور تخلیه 400000 نفر در پی بارش باران های سیل آسا در استان چیبا صادر شد زیرا خطر سیل با وجود کاهش بارندگی همچنان بالاست. دست کم چهار نفر در شرق ژاپن پس از باران شدید \"بی سابقه\" جان خود را از دست دادند که نزدیک به 7000 نفر را در فرودگاه ناریتا توکیو سرگردان کرد و هزاران ساختمان دولتی را مجبور به پناه دادن به ساختمان های دولتی کرد. استانی، شرق توکیو، پنجشنبه شب، هشدار رانش زمین و قطع برق را به همراه داشت. دستور تخلیه بیش از 400,000 نفر در چیبا و سایر مناطق صادر شد و حدود 45,000 خانه برق قطع شد، زیرا 115 میلی متر باران در ساعت می بارید، تقریباً همان مقداری که معمولاً برای کل ماه اوت ثبت می شد. ادامه مطلب...",
+      "summary_en": "Evacuation orders issued for 400,000 as torrential rains hit Chiba prefecture as flooding risks remain high despite rainfall easing At least four people died in eastern Japan after “unprecedented” heavy rain that left nearly 7,000 stranded at Tokyo’s Narita airport, and forced thousands to take refuge in government buildings.The torrential rains hit Chiba prefecture, east of Tokyo, on Thursday night, triggering landslide warnings and power outages. Evacuation orders were issued for more than 400,000 people in Chiba and other areas, and about 45,000 homes lost power, as 115mm of rain fell hourly, approximately the same amount usually recorded for the whole month of August. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 04:14:17 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/17e68e19ed25b80e37efd7f163ec27d98dba3af4/284_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=e40693c8a0ee296c9b0ec63ff8630adb",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "3553adc9d0c8140fc751135345a4fdd6",
+      "title": "آیا العبید سودان الفاشر بعدی خواهد شد؟ چه باید بدانیم.",
+      "title_fa": "آیا العبید سودان الفاشر بعدی خواهد شد؟ چه باید بدانیم.",
+      "title_en": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
+      "summary": "تصرف العبید به نیروهای پشتیبانی سریع شبه نظامی اجازه می دهد تا کنترل خود را در غرب سودان که یک هدف استراتژیک مهم است، مستحکم کنند.",
+      "summary_fa": "تصرف العبید به نیروهای پشتیبانی سریع شبه نظامی اجازه می دهد تا کنترل خود را در غرب سودان که یک هدف استراتژیک مهم است، مستحکم کنند.",
+      "summary_en": "Taking El Obeid would allow the paramilitary Rapid Support Forces to consolidate its hold on western Sudan, a significant strategic goal.",
+      "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html",
+      "source": "NY Times",
+      "published_at": "Fri, 14 Aug 2026 04:01:06 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-sudan-1-mlfc/14int-sudan-1-mlfc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "56d2b2eb7fe8fc1f254ced3e9834f549",
+      "title": "جی پی مورگان به دلیل نگرانی های نظارتی، پولی مارکت را از بانک خارج کرد",
+      "title_fa": "جی پی مورگان به دلیل نگرانی های نظارتی، پولی مارکت را از بانک خارج کرد",
+      "title_en": "JPMorgan debanked Polymarket over regulatory concerns",
+      "summary": "بزرگترین بانک ایالات متحده به ایجاد روابط با پلت فرم پیش بینی ادامه داده است زیرا به دنبال ارزش گذاری 20 میلیارد دلاری است.",
+      "summary_fa": "بزرگترین بانک ایالات متحده به ایجاد روابط با پلت فرم پیش بینی ادامه داده است زیرا به دنبال ارزش گذاری 20 میلیارد دلاری است.",
+      "summary_en": "Largest US bank has continued to cultivate ties with prediction platform as it seeks $20bn valuation",
+      "link": "https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:23 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ec7721d-ec39-4777-bdcf-68b7e1755d8f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1cf24ead3b1cc37fd6d94a52339f7b26",
+      "title": "آتش‌سوزی جنگل‌های جدید چالشی برای خدمات آتش‌نشانی تحت فشار است",
+      "title_fa": "آتش‌سوزی جنگل‌های جدید چالشی برای خدمات آتش‌نشانی تحت فشار است",
+      "title_en": "New Forest blaze points to challenge for under-pressure fire services",
+      "summary": "کاهش تعداد آتش نشانان در انگلیس باعث می شود که تیپ ها به دلیل افزایش فراخوان های حادثه دچار مشکل شوند",
+      "summary_fa": "کاهش تعداد آتش نشانان در انگلیس باعث می شود که تیپ ها به دلیل افزایش فراخوان های حادثه دچار مشکل شوند",
+      "summary_en": "Drop in firefighter numbers in England leaves brigades stretched as incident call-outs rise",
+      "link": "https://www.ft.com/content/9c0fe32f-056e-4bdc-84b4-9d72d9da9d1c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:23 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7fed6cab-1da9-44bf-9a1b-798688a90e58.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c3b76ef43acd3f1776c5b87ee7b4f78",
+      "title": "برزیل شروع به بررسی گزینه های تلافی جویانه برای تعرفه های جدید ایالات متحده می کند",
+      "title_fa": "برزیل شروع به بررسی گزینه های تلافی جویانه برای تعرفه های جدید ایالات متحده می کند",
+      "title_en": "Brazil begins exploring retaliatory options to new US tariffs",
+      "summary": "برزیل هنوز تصمیم نگرفته است که آیا اقدامات تلافی جویانه را ادامه خواهد داد یا خیر، اما متعهد به دفاع از موضع خود است.",
+      "summary_fa": "برزیل هنوز تصمیم نگرفته است که آیا اقدامات تلافی جویانه را ادامه خواهد داد یا خیر، اما متعهد به دفاع از موضع خود است.",
+      "summary_en": "Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 04:00:20 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "471a4014ecf697158d20914d32cd8f69",
+      "title": "کمیسیون بهره وری دریافت که قرارداد GST دوران موریسون با WA یک اشتباه چند میلیارد دلاری است که باید معکوس شود.",
+      "title_fa": "کمیسیون بهره وری دریافت که قرارداد GST دوران موریسون با WA یک اشتباه چند میلیارد دلاری است که باید معکوس شود.",
+      "title_en": "Morrison-era GST deal with WA a multi-billion dollar mistake that should be reversed, Productivity Commission finds",
+      "summary": "گزارش موقت خواستار «تغییر شکل دادن» به توافقی که تنها به نفع استرالیای غربی بوده است، دارد، زیرا تقریباً به هیچ یک از اهداف خود دست نیافته است، وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ثروتمندترین ایالت کشور است. در یک گزارش موقت از بررسی قرارداد PC آمده است که اصلاحات - که توسط WA درخواست شده بود و در دولت موریسون سابق با حمایت حزب کارگر اجرا شد - تقریباً به هیچ یک از اهداف خود نرسیده و سیستم را کمتر عادلانه کرده است. ادامه مطلب...",
+      "summary_fa": "گزارش موقت خواستار «تغییر شکل دادن» به توافقی که تنها به نفع استرالیای غربی بوده است، دارد، زیرا تقریباً به هیچ یک از اهداف خود دست نیافته است، وبلاگ اخبار استرالیا را برای آخرین به‌روزرسانی‌ها دنبال کنید. ثروتمندترین ایالت کشور است. در یک گزارش موقت از بررسی قرارداد PC آمده است که اصلاحات - که توسط WA درخواست شده بود و در دولت موریسون سابق با حمایت حزب کارگر اجرا شد - تقریباً به هیچ یک از اهداف خود نرسیده و سیستم را کمتر عادلانه کرده است. ادامه مطلب...",
+      "summary_en": "Interim report calls for carve-up deal that has only benefited Western Australia to be ‘reshaped’ as it has achieved almost none of its objectivesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Productivity Commission (PC) has criticised the controversial GST deal with Western Australia as a costly mistake that should be reversed, saying tens of billions of dollars of taxpayer money has since gone to the country’s richest state.An interim report from a PC review of the deal said the reform – requested by WA and implemented under the former Morrison government with Labor’s support – had achieved almost none of its objectives and had made the system less equitable. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/14/morrison-era-gst-deal-western-australia-23bn-mistake-productivity-commission",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 04:00:19 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/9371a0a7b8c19d51d09fa730d686278e2db997c7/671_0_3329_2663/master/3329.jpg?width=140&quality=85&auto=format&fit=max&s=fbaf340980ed921d15836ee4c51dc8b7",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0d5927d16a583de1da17526a995c6552",
+      "title": "آتش سوزی های اندونزی اورانگوتان های نجات یافته از دست قاچاقچیان حیوانات را تهدید می کند",
+      "title_fa": "آتش سوزی های اندونزی اورانگوتان های نجات یافته از دست قاچاقچیان حیوانات را تهدید می کند",
+      "title_en": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+      "summary": "شعله های آتش ناشی از شرایط گرم، خشک و باد در فاصله چند متری مرکز توانبخشی کالیمانتان غربی اورانگوتان های نجات یافته از دست قاچاقچیان حیات وحش با تهدید جدیدی از رکورد تعداد آتش سوزی هایی که در هفته های اخیر در اندونزی رخ داده است، مواجه هستند. شعله های آتش در فاصله چند متری مرکز توانبخشی حیوانات در غرب کالیمانتان قرار گرفته است زیرا شرایط گرم، خشک و باد توسط بحران انسانی الدرینو تشدید شده است. ادامه مطلب...",
+      "summary_fa": "شعله های آتش ناشی از شرایط گرم، خشک و باد در فاصله چند متری مرکز توانبخشی کالیمانتان غربی اورانگوتان های نجات یافته از دست قاچاقچیان حیات وحش با تهدید جدیدی از رکورد تعداد آتش سوزی هایی که در هفته های اخیر در اندونزی رخ داده است، مواجه هستند. شعله های آتش در فاصله چند متری مرکز توانبخشی حیوانات در غرب کالیمانتان قرار گرفته است زیرا شرایط گرم، خشک و باد توسط بحران انسانی الدرینو تشدید شده است. ادامه مطلب...",
+      "summary_en": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centreOrangutans rescued from wildlife traffickers face a new threat from the record number of fires that have broken out in Indonesia in recent weeks.Flames have come within metres of an animal rehabilitation centre in West Kalimantan as hot, dry and windy conditions have been amplified by a powerful El Niño and the human-driven climate crisis. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 04:00:16 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/365918ec3179a84ff298260a75a2f84e0be35263/34_0_3960_3168/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=b36dbdcf7004485e56ce49e75cd6d4e3",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ede0a1763e198514d977c8dabb794698",
+      "title": "OpenAI و Anthropic در جنگ قیمت با افزایش رقبای چینی هوش مصنوعی",
+      "title_fa": "OpenAI و Anthropic در جنگ قیمت با افزایش رقبای چینی هوش مصنوعی",
+      "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "گروه‌های آمریکایی مدل‌های ارزان‌تری را پس از چالش‌های جدید برای جاه‌طلبی‌های تریلیون دلاری خود عرضه می‌کنند",
+      "summary_fa": "گروه‌های آمریکایی مدل‌های ارزان‌تری را پس از چالش‌های جدید برای جاه‌طلبی‌های تریلیون دلاری خود عرضه می‌کنند",
+      "summary_en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions",
+      "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7dc6c83d-3214-4c7f-affc-12eda029593e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ceaf600a2048ec388204e8d33c10ad88",
+      "title": "مایک اشلی در حالی که وارد صنعت لوکس می شود، قول «روح دانکرک» را می دهد",
+      "title_fa": "مایک اشلی در حالی که وارد صنعت لوکس می شود، قول «روح دانکرک» را می دهد",
+      "title_en": "Mike Ashley promises ‘Dunkirk spirit’ as he barrels into the luxury industry",
+      "summary": "میلیاردر خیابانی مدعی است که فریزر از روش‌های تخفیف‌دهی خود با افزایش قیمت هاروی نیکولز خارج شده است.",
+      "summary_fa": "میلیاردر خیابانی مدعی است که فریزر از روش‌های تخفیف‌دهی خود با افزایش قیمت هاروی نیکولز خارج شده است.",
+      "summary_en": "High street billionaire claims Frasers has moved on from its discounting ways as it swoops on Harvey Nichols",
+      "link": "https://www.ft.com/content/2f06eb04-beaf-40e6-b2cc-9eedd0df1748?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10d2c0c3-0fa2-4d34-999d-5036a0c93fa8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ebe827970f25025eb0b7bd084fb4b2b9",
+      "title": "پاکستان و بازی بزرگ جدید ریسک",
+      "title_fa": "پاکستان و بازی بزرگ جدید ریسک",
+      "title_en": "Pakistan and the new great game of Risk",
+      "summary": "اسلام آباد جاه طلبی های جسورانه ای برای ایفای نقش فعال تر در جهان دارد",
+      "summary_fa": "اسلام آباد جاه طلبی های جسورانه ای برای ایفای نقش فعال تر در جهان دارد",
+      "summary_en": "Islamabad has bold ambitions to play a more proactive role in the world",
+      "link": "https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72d05278-f088-43d8-8674-9b2b6af9e904.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49d07357203fdbffe6752a002940f959",
+      "title": "کاترل، دستیار فاراژ، حساب سری پولی مارکت داشت که روی پیروزی ترامپ شرط بندی می کرد",
+      "title_fa": "کاترل، دستیار فاراژ، حساب سری پولی مارکت داشت که روی پیروزی ترامپ شرط بندی می کرد",
+      "title_en": "Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory",
+      "summary": "مبالغ هنگفت مربوط به فعالیت‌های مالی یکی از نزدیک‌ترین معتمدان فاراژ است",
+      "summary_fa": "مبالغ هنگفت مربوط به فعالیت‌های مالی یکی از نزدیک‌ترین معتمدان فاراژ است",
+      "summary_en": "Large sums involved shine light on the financial activities of one of Farage’s closest confidants",
+      "link": "https://www.ft.com/content/4fccf8b5-5e32-4322-9435-d996a0273dff?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:14 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F41f933ec-8256-4590-9ec8-30857888b61a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "83335ec7d76c9cec6ca60c9477442240",
+      "title": "تلاش برای یافتن بهترین عسل جهان",
+      "title_fa": "تلاش برای یافتن بهترین عسل جهان",
+      "title_en": "The quest to find the world’s best honey",
+      "summary": "از زمان های قدیم، ترکیه به دنبال تولید بهترین و گران ترین محصول جهان بوده است",
+      "summary_fa": "از زمان های قدیم، ترکیه به دنبال تولید بهترین و گران ترین محصول جهان بوده است",
+      "summary_en": "Since ancient times, Turkey has sought to make the world’s finest and now most expensive product",
+      "link": "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:05 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc402ac6a-b170-4d5f-b50c-b86fad3226b5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "57e7778361d86f56f4a644292435048e",
+      "title": "غول سرمایه گذاری ایالات متحده T Rowe می گوید که سال ها طول می کشد تا جلوی جریان خروجی را بگیرد",
+      "title_fa": "غول سرمایه گذاری ایالات متحده T Rowe می گوید که سال ها طول می کشد تا جلوی جریان خروجی را بگیرد",
+      "title_en": "US investment giant T Rowe says it will take years to stem outflows",
+      "summary": "مبارزات شرکت چالشی را برای مدیران فعال در بحبوحه رقابت کم هزینه از نمایه سازی و ETF ها نشان می دهد.",
+      "summary_fa": "مبارزات شرکت چالشی را برای مدیران فعال در بحبوحه رقابت کم هزینه از نمایه سازی و ETF ها نشان می دهد.",
+      "summary_en": "Firm’s struggles illustrate challenge for active managers amid low-cost competition from indexing and ETFs",
+      "link": "https://www.ft.com/content/d0cf28db-bc8d-4fc1-85b6-7b59ab67a451?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 04:00:05 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff5fc9c39-8fe2-49c2-ac99-0fffdee0e14b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c74e2efc95f7d132b5b360099e5b31d",
+      "title": "ایرسرویس استرالیا می گوید که حادثه فرودگاه سیدنی مربوط به پروازهای ویرجین و کانتاس لازم نیست گزارش شود.",
+      "title_fa": "ایرسرویس استرالیا می گوید که حادثه فرودگاه سیدنی مربوط به پروازهای ویرجین و کانتاس لازم نیست گزارش شود.",
+      "title_en": "Sydney airport incident involving Virgin and Qantas flights didn’t have to be reported, Airservices Australia says",
+      "summary": "رئیس خدمات هوایی می گوید هواپیماها 1 کیلومتر از هم فاصله داشتند، بنابراین تهاجم باند فرودگاه \"شرایط گزارش اجباری را برآورده نمی کرد\" اما دفتر ایمنی \"نگران است\" برای آخرین به روز رسانی ها وبلاگ اخبار استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید سازمانی که آسمان استرالیا را مدیریت می کند، از تصمیم خود در هنگام گزارش نکردن یک حادثه ایمنی در فرودگاه Syneyrg دفاع کرده است. راب شارپ، مدیر اجرایی شرکت مشترک المنافع ایرسرویس استرالیا، گفت که با توجه به فاصله قابل توجه بین هواپیمای ویرجین و یک هواپیمای کانتاس که روز یکشنبه از باند روبروی آن عبور می کرد، باور نمی کرد که این حادثه به آستانه گزارش رسیده باشد. ادامه مطلب...",
+      "summary_fa": "رئیس خدمات هوایی می گوید هواپیماها 1 کیلومتر از هم فاصله داشتند، بنابراین تهاجم باند فرودگاه \"شرایط گزارش اجباری را برآورده نمی کرد\" اما دفتر ایمنی \"نگران است\" برای آخرین به روز رسانی ها وبلاگ اخبار استرالیا را دنبال کنید. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید سازمانی که آسمان استرالیا را مدیریت می کند، از تصمیم خود در هنگام گزارش نکردن یک حادثه ایمنی در فرودگاه Syneyrg دفاع کرده است. راب شارپ، مدیر اجرایی شرکت مشترک المنافع ایرسرویس استرالیا، گفت که با توجه به فاصله قابل توجه بین هواپیمای ویرجین و یک هواپیمای کانتاس که روز یکشنبه از باند روبروی آن عبور می کرد، باور نمی کرد که این حادثه به آستانه گزارش رسیده باشد. ادامه مطلب...",
+      "summary_en": "Airservices boss says planes remained 1km apart so runway incursion ‘didn’t meet mandatory reporting requirements’ but safety bureau is ‘concerned’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe organisation that manages Australian skies has defended its decision not to immediately report a fresh safety incident at Sydney airport when a Virgin plane aborted its take-off.The chief executive of the commonwealth-owned Airservices Australia, Rob Sharp, said he did not believe the incident met the reporting threshold given the substantial distance between the Virgin plane and a Qantas aircraft crossing the runway in front of it on Sunday. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/14/sydney-airport-virgin-qantas-flights-runway-saftey-incident-report",
+      "source": "The Guardian",
+      "published_at": "Fri, 14 Aug 2026 03:32:16 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/896f05a3c5b9be7f42623597bd18d38653e4b495/888_0_4424_3541/master/4424.jpg?width=140&quality=85&auto=format&fit=max&s=08b4b4841ccfb579ecc1435b247ffc6f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "25de6ff34fd3ddcc9f82217d9de09d5b",
+      "title": "مالی می گوید 82 سرباز اسیر توسط گروه های مسلح آزاد شده اند",
+      "title_fa": "مالی می گوید 82 سرباز اسیر توسط گروه های مسلح آزاد شده اند",
+      "title_en": "Mali says 82 soldiers captured by armed groups have been freed",
+      "summary": "ارتش مالی می گوید که این سربازان توسط طوارق و گروه های مسلح مرتبط با القاعده در منطقه شمالی اسیر بودند.",
+      "summary_fa": "ارتش مالی می گوید که این سربازان توسط طوارق و گروه های مسلح مرتبط با القاعده در منطقه شمالی اسیر بودند.",
+      "summary_en": "Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 03:24:54 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7f02c1b0a50280989f10b20a2f6e70d0",
+      "title": "لکه نفتی نفتکش حامل نفت خام روسیه به عمان رسید",
+      "title_fa": "لکه نفتی نفتکش حامل نفت خام روسیه به عمان رسید",
+      "title_en": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+      "summary": "چند هفته پس از غرق شدن کشتی، لکه نفتی نفتکش کارولین بزنگی به خط ساحلی عمان رسیده است.",
+      "summary_fa": "چند هفته پس از غرق شدن کشتی، لکه نفتی نفتکش کارولین بزنگی به خط ساحلی عمان رسیده است.",
+      "summary_en": "An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 03:20:09 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "1591094e5409ea544cd813d6baa5b0d5",
+      "title": "ایالات متحده می گوید ده ها کشور به چین کمک کردند تا از تعرفه های ترامپ طفره رود",
+      "title_fa": "ایالات متحده می گوید ده ها کشور به چین کمک کردند تا از تعرفه های ترامپ طفره رود",
+      "title_en": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "گزارش جدید ایالات متحده حاکی از آن است که چین کالاها را از طریق کشورهایی با تعرفه های پایین تر منتقل کرده است تا از تعرفه های بالاتر طفره رود.",
+      "summary_fa": "گزارش جدید ایالات متحده حاکی از آن است که چین کالاها را از طریق کشورهایی با تعرفه های پایین تر منتقل کرده است تا از تعرفه های بالاتر طفره رود.",
+      "summary_en": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 03:09:48 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "ad9d9b924c3d02f5189a92f65894207b",
       "title": "اخبار استرالیا زنده: جاسینتا آلن سیاست را ترک می کند. ایرسرویس می گوید: فاصله نزدیک فرودگاه سیدنی 1.3 کیلومتر \"قابل توجه\" بود.",
       "title_fa": "اخبار استرالیا زنده: جاسینتا آلن سیاست را ترک می کند. ایرسرویس می گوید: فاصله نزدیک فرودگاه سیدنی 1.3 کیلومتر \"قابل توجه\" بود.",
@@ -186563,6 +187361,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/96b068bec13e0f29386a5e1ed3c37a7fbdfcb478/2591_1028_2895_2316/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=0030830f036d25f7fa238422f2ad4015",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "35565de29d3beeb58c2a44b20b830991",
+      "title": "چرا انتخابات اوسون برای رای 2027 نیجریه اهمیت دارد؟",
+      "title_fa": "چرا انتخابات اوسون برای رای 2027 نیجریه اهمیت دارد؟",
+      "title_en": "Why Osun’s election matters for Nigeria’s 2027 vote",
+      "summary": "این نتیجه می تواند یک سیگنال اولیه از تغییر اتحادها و احساسات رای دهندگان قبل از رقابت های ریاست جمهوری باشد.",
+      "summary_fa": "این نتیجه می تواند یک سیگنال اولیه از تغییر اتحادها و احساسات رای دهندگان قبل از رقابت های ریاست جمهوری باشد.",
+      "summary_en": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 02:54:55 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -186588,6 +187407,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "7db40fb93e690fffd9135c909e042878",
+      "title": "یافته های جدید ماموریت خورشیدی هند، اسرار پایدار خورشید را روشن می کند",
+      "title_fa": "یافته های جدید ماموریت خورشیدی هند، اسرار پایدار خورشید را روشن می کند",
+      "title_en": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "summary": "چرا تاج خورشید میلیون ها درجه گرمتر از سطح آن است؟ و چگونه دمای بالای غیرقابل توضیح خود را حفظ می کند؟",
+      "summary_fa": "چرا تاج خورشید میلیون ها درجه گرمتر از سطح آن است؟ و چگونه دمای بالای غیرقابل توضیح خود را حفظ می کند؟",
+      "summary_en": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 02:13:27 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
