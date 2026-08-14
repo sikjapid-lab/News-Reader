@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 22:57:31",
-  "total_count": 10463,
+  "last_update": "2026-08-14 23:29:36",
+  "total_count": 10468,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186864,6 +186864,69 @@
       }
     },
     {
+      "id": "e2a9e4d179e38bc6a0abda1197df1734",
+      "title": "نخست وزیر لبنان با انتقاد حزب الله از توافق، خواستار جدول زمانی برای عقب نشینی اسرائیل شد.",
+      "title_fa": "نخست وزیر لبنان با انتقاد حزب الله از توافق، خواستار جدول زمانی برای عقب نشینی اسرائیل شد.",
+      "title_en": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+      "summary": "حزب الله از رویکرد بیروت انتقاد می کند و مقامات را متهم می کند که ارتش لبنان را در معرض خطرات و فشار اسرائیل قرار می دهند.",
+      "summary_fa": "حزب الله از رویکرد بیروت انتقاد می کند و مقامات را متهم می کند که ارتش لبنان را در معرض خطرات و فشار اسرائیل قرار می دهند.",
+      "summary_en": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 23:02:55 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "656f96efc181c50c236cfe416507e19b",
+      "title": "حمله حوثی‌ها به بندر چهار نفر را کشت که آتش‌بس با دولت یمن را نابود کرد",
+      "title_fa": "حمله حوثی‌ها به بندر چهار نفر را کشت که آتش‌بس با دولت یمن را نابود کرد",
+      "title_en": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "summary": "شش فروند موشک بالستیک حوثی ها به بندر المخا تحت کنترل دولت یمن اصابت کرد و حداقل چهار نفر را کشتند.",
+      "summary_fa": "شش فروند موشک بالستیک حوثی ها به بندر المخا تحت کنترل دولت یمن اصابت کرد و حداقل چهار نفر را کشتند.",
+      "summary_en": "Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 22:58:58 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afeb846e59db85182b26ab1da78140fd",
+      "title": "دولت یمن می گوید حمله حوثی ها به المخا دست کم چهار کشته بر جای گذاشت",
+      "title_fa": "دولت یمن می گوید حمله حوثی ها به المخا دست کم چهار کشته بر جای گذاشت",
+      "title_en": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+      "summary": "خصومت ها بین حوثی های مورد حمایت ایران و دولت شناخته شده بین المللی یمن در حال افزایش است.",
+      "summary_fa": "خصومت ها بین حوثی های مورد حمایت ایران و دولت شناخته شده بین المللی یمن در حال افزایش است.",
+      "summary_en": "Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 22:45:19 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "7a31c370370f7bec4e6ca7ea746becf5",
       "title": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را فاش کرد",
       "title_fa": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را فاش کرد",
@@ -187620,6 +187683,27 @@
       }
     },
     {
+      "id": "b9891767aad266c5fab6ff36e5cc3b5b",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "summary": "این جوان 28 ساله پس از اعتراف به اتهام تعقیب که منجر به مرگ شد، گفت: «من در منهتن به آقای تامپسون شلیک کردم و او مرد.",
+      "summary_fa": "این جوان 28 ساله پس از اعتراف به اتهام تعقیب که منجر به مرگ شد، گفت: «من در منهتن به آقای تامپسون شلیک کردم و او مرد.",
+      "summary_en": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 19:20:43 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a8085af93749dd868034a34c6cd64f6e",
       "title": "یک سیاستمدار برجسته مکزیکی می‌گوید که ایالات متحده ویزای او را لغو کرده است",
       "title_fa": "یک سیاستمدار برجسته مکزیکی می‌گوید که ایالات متحده ویزای او را لغو کرده است",
@@ -188247,6 +188331,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f98c5d3ade452637f92125451a985575",
+      "title": "ناو هواپیمابر ایالات متحده در راه نجات یو اس اس لینکلن پس از گزارش مشکلات در هواپیما",
+      "title_fa": "ناو هواپیمابر ایالات متحده در راه نجات یو اس اس لینکلن پس از گزارش مشکلات در هواپیما",
+      "title_en": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "summary": "بنا بر گزارش ها، هزاران ملوان در لینکلن با کمبود مواد غذایی و لوله کشی شکسته مواجه شده اند، و برخی به فکر پریدن از دریا هستند.",
+      "summary_fa": "بنا بر گزارش ها، هزاران ملوان در لینکلن با کمبود مواد غذایی و لوله کشی شکسته مواجه شده اند، و برخی به فکر پریدن از دریا هستند.",
+      "summary_en": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 17:36:27 GMT",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
