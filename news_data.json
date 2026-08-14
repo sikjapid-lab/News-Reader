@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 22:01:29",
-  "total_count": 10457,
+  "last_update": "2026-08-14 22:35:20",
+  "total_count": 10462,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186885,6 +186885,90 @@
       }
     },
     {
+      "id": "2e6a6b565224136be156a3b08dc40644",
+      "title": "جین استریت پس از فروپاشی سازمان آگاهی موقعیتی 15 میلیارد دلار آسیب دید",
+      "title_fa": "جین استریت پس از فروپاشی سازمان آگاهی موقعیتی 15 میلیارد دلار آسیب دید",
+      "title_en": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+      "summary": "شرکت تجاری مخفی وال استریت با شکست هوش مصنوعی ژوئیه پای اشتباهی زد",
+      "summary_fa": "شرکت تجاری مخفی وال استریت با شکست هوش مصنوعی ژوئیه پای اشتباهی زد",
+      "summary_en": "Secretive Wall Street trading firm wrongfooted by July AI rout",
+      "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 21:55:53 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd391508-bc64-401e-aae1-ffd08fc4c6ad.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c2f2284fcd596315835c4fbe6a1d8312",
+      "title": "ترامپ می گوید در بحبوحه جنگ با ایران، تنگه هرمز را «سرزمین» آمریکا اعلام خواهد کرد",
+      "title_fa": "ترامپ می گوید در بحبوحه جنگ با ایران، تنگه هرمز را «سرزمین» آمریکا اعلام خواهد کرد",
+      "title_en": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "summary": "کنترل بر این تنگه یک نقطه گیر در مذاکرات آتش بس در حال انجام بین آمریکا و ایران بوده است.",
+      "summary_fa": "کنترل بر این تنگه یک نقطه گیر در مذاکرات آتش بس در حال انجام بین آمریکا و ایران بوده است.",
+      "summary_en": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 21:50:46 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4e2da28f749f7cf34f87e96571a843d9",
+      "title": "آتش سوزی های جنگلی در سراسر اروپا موج می زند زیرا امواج گرما باعث افزایش دمای بی سابقه می شود",
+      "title_fa": "آتش سوزی های جنگلی در سراسر اروپا موج می زند زیرا امواج گرما باعث افزایش دمای بی سابقه می شود",
+      "title_en": "Wildfires rage across Europe as heatwaves drive record temperatures",
+      "summary": "آتش‌سوزی‌های جنگلی ناشی از گرمای بی‌سابقه اروپا را ویران کرده و حدود 500000 هکتار را سوزانده و هزاران نفر را مجبور به فرار کرده است.",
+      "summary_fa": "آتش‌سوزی‌های جنگلی ناشی از گرمای بی‌سابقه اروپا را ویران کرده و حدود 500000 هکتار را سوزانده و هزاران نفر را مجبور به فرار کرده است.",
+      "summary_en": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 21:50:35 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "2c0a261953667f045a8b0c46ced2c895",
+      "title": "سربازان اسرائیلی متهم به حمایت از شهرک نشینان «تروریست» در قصره شدند",
+      "title_fa": "سربازان اسرائیلی متهم به حمایت از شهرک نشینان «تروریست» در قصره شدند",
+      "title_en": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "summary": "سربازان اسرائیلی متهم به حمایت از شهرک نشینان «تروریست» در قصره شدند",
+      "summary_fa": "سربازان اسرائیلی متهم به حمایت از شهرک نشینان «تروریست» در قصره شدند",
+      "summary_en": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 21:45:20 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "cf350aa126c990f66a322a82b9b46f88",
       "title": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را در پایان سه ماهه دوم فاش کرد",
       "title_fa": "انویدیا 21 میلیارد دلار از سهام اسپیس ایکس را در پایان سه ماهه دوم فاش کرد",
@@ -188138,6 +188222,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.mktw.net/im-83787222",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bafc1048cc518ae005b3353d0067e513",
+      "title": "FDA یک ماه پس از ارتباط مزارع تیلور با شیوع سیکلوسپورا به مکزیک سفر می کند",
+      "title_fa": "FDA یک ماه پس از ارتباط مزارع تیلور با شیوع سیکلوسپورا به مکزیک سفر می کند",
+      "title_en": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "summary": "یک مقام ارشد FDA تأیید می‌کند که بازرسان در کارخانه فرآوری مزارع تیلور در محل حضور داشتند و قصد دارند در آینده در مزارع حضور داشته باشند.",
+      "summary_fa": "یک مقام ارشد FDA تأیید می‌کند که بازرسان در کارخانه فرآوری مزارع تیلور در محل حضور داشتند و قصد دارند در آینده در مزارع حضور داشته باشند.",
+      "summary_en": "Senior FDA official confirms that inspectors were on-site at the Taylor Farms processing facility and plan to be in the fields next.",
+      "link": "https://www.washingtonpost.com/health/2026/08/14/fda-mexico-month-after-linking-taylor-farms-cyclospora-outbreak/",
+      "source": "Washington Post",
+      "published_at": "Fri, 14 Aug 2026 17:36:09 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
