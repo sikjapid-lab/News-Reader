@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-14 20:44:29",
-  "total_count": 10440,
+  "last_update": "2026-08-14 21:10:33",
+  "total_count": 10444,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -186948,6 +186948,48 @@
       }
     },
     {
+      "id": "40a079a4c5d051f358f5dfb4aecba006",
+      "title": "فوران کوه اتنا و خاکستر آتشفشانی شلوغ ترین فرودگاه سیسیل را بسته است",
+      "title_fa": "فوران کوه اتنا و خاکستر آتشفشانی شلوغ ترین فرودگاه سیسیل را بسته است",
+      "title_en": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+      "summary": "پروازها حداقل تا بعدازظهر شنبه متوقف خواهد شد و صدها مسافر را سرگردان خواهد کرد.",
+      "summary_fa": "پروازها حداقل تا بعدازظهر شنبه متوقف خواهد شد و صدها مسافر را سرگردان خواهد کرد.",
+      "summary_en": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 21:03:07 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "958d5abded6c0c1370c9cd01a0bf118d",
+      "title": "اینفلوئنسر بزرگ بعدی این ربات 4 فوتی از چین است",
+      "title_fa": "اینفلوئنسر بزرگ بعدی این ربات 4 فوتی از چین است",
+      "title_en": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "summary": "Unitree G1 به عنوان یک ربات نسبتاً مقرون به صرفه که می تواند جمعیت را مجذوب خود کند، شهرت آنلاین پیدا کرده است. اما آیا هرگز می تواند یک شغل واقعی را حفظ کند؟",
+      "summary_fa": "Unitree G1 به عنوان یک ربات نسبتاً مقرون به صرفه که می تواند جمعیت را مجذوب خود کند، شهرت آنلاین پیدا کرده است. اما آیا هرگز می تواند یک شغل واقعی را حفظ کند؟",
+      "summary_en": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 20:59:03 +0000",
+      "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "bac0b66b941f17d96eea30cf657032e4",
       "title": "روسیه به کمبودهای جدید بنزین در بحبوحه حملات طولانی مدت اوکراین اعتراف کرد",
       "title_fa": "روسیه به کمبودهای جدید بنزین در بحبوحه حملات طولانی مدت اوکراین اعتراف کرد",
@@ -186966,6 +187008,48 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "c26a8a51f0b8eafd09c07f3c8b7129ec",
+      "title": "جسد جیسون آردی، استاد سابق کمبریج پیدا شد",
+      "title_fa": "جسد جیسون آردی، استاد سابق کمبریج پیدا شد",
+      "title_en": "Former Cambridge professor Jason Arday found dead",
+      "summary": "جوان‌ترین استاد سیاه‌پوست دانشگاه در پی اتهامات سرقت ادبی تحت نظارت قرار گرفته بود",
+      "summary_fa": "جوان‌ترین استاد سیاه‌پوست دانشگاه در پی اتهامات سرقت ادبی تحت نظارت قرار گرفته بود",
+      "summary_en": "University’s youngest-ever Black professor had been under scrutiny following plagiarism allegations",
+      "link": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 14 Aug 2026 20:54:24 GMT",
+      "date_iso": "2026-08-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b048975-2f5b-40a5-9521-fee5c781a1c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a0200508ae0a3ecf03ab51fa907a2884",
+      "title": "جسد استاد سابق کمبریج متهم به سرقت ادبی پیدا شد",
+      "title_fa": "جسد استاد سابق کمبریج متهم به سرقت ادبی پیدا شد",
+      "title_en": "Former Cambridge professor accused of plagiarism found dead",
+      "summary": "جسد جیسون آردی تنها یک هفته پس از استعفای او از دانشگاه کمبریج در جنوب لندن پیدا شد.",
+      "summary_fa": "جسد جیسون آردی تنها یک هفته پس از استعفای او از دانشگاه کمبریج در جنوب لندن پیدا شد.",
+      "summary_en": "Jason Arday's body was found in south London just a week after he resigned from the University of Cambridge.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 14 Aug 2026 20:46:40 +0000",
+      "date_iso": "2026-08-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
       }
     },
     {
