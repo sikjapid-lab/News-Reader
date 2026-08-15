@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 11:58:05",
-  "total_count": 10606,
+  "last_update": "2026-08-15 12:53:59",
+  "total_count": 10625,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,69 @@
       }
     },
     {
+      "id": "d14e1fe30b831f8e7787a5c450b203f3",
+      "title": "بیمارستان مادرید اولین پروتز متامتریال استخوان را ایجاد کرد و از قطع پا جلوگیری کرد",
+      "title_fa": "بیمارستان مادرید اولین پروتز متامتریال استخوان را ایجاد کرد و از قطع پا جلوگیری کرد",
+      "title_en": "Madrid hospital creates first bone metamaterial prosthesis, prevents leg amputation",
+      "summary": "بیمارستان Gregorio Marañón مادرید اولین پروتز استخوان متامتریال شخصی سازی شده در جهان را ایجاد کرده است که با موفقیت در یک فرد 38 ساله مبتلا به سارکوم تیبیا کاشته شد و از قطع شدن پا جلوگیری کرد.",
+      "summary_fa": "بیمارستان Gregorio Marañón مادرید اولین پروتز استخوان متامتریال شخصی سازی شده در جهان را ایجاد کرده است که با موفقیت در یک فرد 38 ساله مبتلا به سارکوم تیبیا کاشته شد و از قطع شدن پا جلوگیری کرد.",
+      "summary_en": "Madrid's Gregorio Marañón Hospital has created the world's first personalised metamaterial bone prosthesis, successfully implanted in a 38-year-old with tibial sarcoma, avoiding leg amputation.",
+      "link": "http://www.euronews.com/health/2026/08/15/madrid-hospital-creates-first-bone-metamaterial-prosthesis-prevents-leg-amputation",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 13:59:41 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e71aec3f2c7e87b5eaa89108872715d6",
+      "title": "برکشایر 17 میلیارد دلار به سهام آلفابت اضافه کرد",
+      "title_fa": "برکشایر 17 میلیارد دلار به سهام آلفابت اضافه کرد",
+      "title_en": "Berkshire adds $17 billion to Alphabet stake",
+      "summary": "آلفابت مادر گوگل اکنون سومین هولدینگ بزرگ در سبد سهام برکشایر هاتاوی است.",
+      "summary_fa": "آلفابت مادر گوگل اکنون سومین هولدینگ بزرگ در سبد سهام برکشایر هاتاوی است.",
+      "summary_en": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
+      "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 12:50:41 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "adc90f44226707b2ae106125caae49bd",
+      "title": "حداقل 38 کشته در پی زمین لرزه 7.7 ریشتری اندونزی",
+      "title_fa": "حداقل 38 کشته در پی زمین لرزه 7.7 ریشتری اندونزی",
+      "title_en": "At least 38 dead after 7.7-magnitude quake strikes Indonesia",
+      "summary": "این زمین لرزه حوالی ساعت 5 صبح به وقت محلی و مرکز آن در سواحل جزیره فلورس در مجمع الجزایر زلزله خیز رخ داد.",
+      "summary_fa": "این زمین لرزه حوالی ساعت 5 صبح به وقت محلی و مرکز آن در سواحل جزیره فلورس در مجمع الجزایر زلزله خیز رخ داد.",
+      "summary_en": "The earthquake took place around 5 a.m. local time and was centered off the coast of Flores Island in the quake-prone archipelago.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 12:41:56 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8b1504ae1ab4ccb41e61fef164625e3a",
       "title": "اوکراین می گوید به مرکز «موشک و فضایی» روسیه اصابت کرده است",
       "title_fa": "اوکراین می گوید به مرکز «موشک و فضایی» روسیه اصابت کرده است",
@@ -130691,6 +130754,132 @@
       }
     },
     {
+      "id": "86b46b1f1e80b27616dbd496bd3e4fe8",
+      "title": "بررسی ایمنی پس از برق گرفتگی نوجوان ایرلندی در حال دوش گرفتن در یونان",
+      "title_fa": "بررسی ایمنی پس از برق گرفتگی نوجوان ایرلندی در حال دوش گرفتن در یونان",
+      "title_en": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "summary": "الکس مک کی هنگام برداشتن سر دوش در حمام «در فضای باز و ابتدایی» در Kimolos جان خود را از دست داد مرگ یک نوجوان ایرلندی که هنگام دوش گرفتن در خانه تعطیلات در یونان دچار برق گرفتگی شد، منجر به درخواست‌ها برای بررسی دقیق‌تر وسایل خانه در اقامتگاه‌های توریستی شد. گفته می‌شود که الکس مک کی، 17 ساله، زمانی که سر دوش را برداشت و بلافاصله در حمام جان خود را از دست داد. ابتدایی» در کیمولوس. ادامه مطلب...",
+      "summary_fa": "الکس مک کی هنگام برداشتن سر دوش در حمام «در فضای باز و ابتدایی» در Kimolos جان خود را از دست داد مرگ یک نوجوان ایرلندی که هنگام دوش گرفتن در خانه تعطیلات در یونان دچار برق گرفتگی شد، منجر به درخواست‌ها برای بررسی دقیق‌تر وسایل خانه در اقامتگاه‌های توریستی شد. گفته می‌شود که الکس مک کی، 17 ساله، زمانی که سر دوش را برداشت و بلافاصله در حمام جان خود را از دست داد. ابتدایی» در کیمولوس. ادامه مطلب...",
+      "summary_en": "Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on KimolosThe death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodation.Alex McKee, 17, is said to have died instantly when picking up the showerhead in a bathroom described as “outdoor and rudimentary” on Kimolos. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 12:34:02 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4d1af1c7d6888db7ac35c6fcf0d90b70dd7a96f5/1159_0_4156_3328/master/4156.jpg?width=140&quality=85&auto=format&fit=max&s=42f651323c052d5dd01c60222e3f32f3",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9cf8df7b782e74990e6ce99e01042672",
+      "title": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 38 کشته برجای گذاشت",
+      "title_fa": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 38 کشته برجای گذاشت",
+      "title_en": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+      "summary": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_fa": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_en": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 12:31:55 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "21b6adc68de6b91ad57ba79d7f1493e7",
+      "title": "بین پول نقد بدون کسب درآمد، اوراق قرضه بلندمدت شکسته، اینها معاملات ایمنی بازار 2026 هستند.",
+      "title_fa": "بین پول نقد بدون کسب درآمد، اوراق قرضه بلندمدت شکسته، اینها معاملات ایمنی بازار 2026 هستند.",
+      "title_en": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
+      "summary": "سرمایه گذاران به سرمایه گذاری های کوتاه مدت مانند صندوق های اوراق قرضه فوق کوتاه در انتظار اصلاح بازار سهام و با شکسته شدن اوراق قرضه بلندمدت هجوم آورده اند.",
+      "summary_fa": "سرمایه گذاران به سرمایه گذاری های کوتاه مدت مانند صندوق های اوراق قرضه فوق کوتاه در انتظار اصلاح بازار سهام و با شکسته شدن اوراق قرضه بلندمدت هجوم آورده اند.",
+      "summary_en": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
+      "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 12:30:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "71aafb9a9cb3ba79652c87e06b42f1ec",
+      "title": "آپارتمان‌های باله آنقدر محبوب هستند که حتی برندهایی مانند Birkenstock و Crocs نیز از این روند سود می‌برند.",
+      "title_fa": "آپارتمان‌های باله آنقدر محبوب هستند که حتی برندهایی مانند Birkenstock و Crocs نیز از این روند سود می‌برند.",
+      "title_en": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+      "summary": "کفش‌های بالرین تا حدی به دلیل نوستالژی‌شان دوباره به سبک بازگشته‌اند - به‌علاوه خریداران Gen Z که حتی آن‌ها را با شورت دویدن ست می‌کنند.",
+      "summary_fa": "کفش‌های بالرین تا حدی به دلیل نوستالژی‌شان دوباره به سبک بازگشته‌اند - به‌علاوه خریداران Gen Z که حتی آن‌ها را با شورت دویدن ست می‌کنند.",
+      "summary_en": "Ballerina shoes are back in style thanks in part to nostalgia — plus Gen Z shoppers who are even pairing them with running shorts.",
+      "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 12:30:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-55318236",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a92bd96d5cda8ee77c70d9d3c1a11b0",
+      "title": "مقامات می گویند در حملات اسرائیل به جنوب لبنان یازده نفر کشته شدند",
+      "title_fa": "مقامات می گویند در حملات اسرائیل به جنوب لبنان یازده نفر کشته شدند",
+      "title_en": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 12:25:11 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "09b7349a1182cdec87733ad353c365ec",
+      "title": "با تغییر اروپا به سمت راست، پناهندگان افغان با آینده نامعلومی روبرو هستند",
+      "title_fa": "با تغییر اروپا به سمت راست، پناهندگان افغان با آینده نامعلومی روبرو هستند",
+      "title_en": "Afghan refugees face an uncertain future as Europe shifts to the right",
+      "summary": "با سقوط دولت سابق در کابل، هزاران افغان مجبور به ترک کشور و بسیاری از آنها به اروپا شدند.",
+      "summary_fa": "با سقوط دولت سابق در کابل، هزاران افغان مجبور به ترک کشور و بسیاری از آنها به اروپا شدند.",
+      "summary_en": "With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 12:14:30 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "2c2da1ffc0d178c7768b23743a19793a",
       "title": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
@@ -130709,6 +130898,132 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "2e3c30a4922640ddff763e0a7560c81c",
+      "title": "اوکراین با خالی ماندن پرتابگرهای پاتریوت آشکار شد",
+      "title_fa": "اوکراین با خالی ماندن پرتابگرهای پاتریوت آشکار شد",
+      "title_en": "Ukraine left exposed as Patriot launchers run empty",
+      "summary": "شتاب نظامی کیف در خطر است زیرا ذخایر رهگیر رو به کاهش است و این کشور را در برابر کمپین زمستانی روسیه آسیب پذیر می کند.",
+      "summary_fa": "شتاب نظامی کیف در خطر است زیرا ذخایر رهگیر رو به کاهش است و این کشور را در برابر کمپین زمستانی روسیه آسیب پذیر می کند.",
+      "summary_en": "Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign",
+      "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 15 Aug 2026 12:00:05 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3bfcf92-5ae6-44a1-8158-ed45a19ff757.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "c2dd8aacfaf0e9449ebd4607f82c3fde",
+      "title": "من تسلا FSD، سیستم‌های رانندگی «هندزفری» Rivian Autonomy+ را رانندگی کردم. در اینجا نحوه مقایسه آنها آمده است",
+      "title_fa": "من تسلا FSD، سیستم‌های رانندگی «هندزفری» Rivian Autonomy+ را رانندگی کردم. در اینجا نحوه مقایسه آنها آمده است",
+      "title_en": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+      "summary": "Rivian در تلاش است تا به قابلیت‌های «هندزفری» تسلا برسد، اما با نرده‌های ایمنی اضافی که شرکت ایلان ماسک ندارد.",
+      "summary_fa": "Rivian در تلاش است تا به قابلیت‌های «هندزفری» تسلا برسد، اما با نرده‌های ایمنی اضافی که شرکت ایلان ماسک ندارد.",
+      "summary_en": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+      "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c58cae7e57030a5cf17ba5a191f2ad23",
+      "title": "خودروهای تعریف شده با نرم افزار چقدر دوام می آورند؟ صنعت خودرو هنوز نمی داند",
+      "title_fa": "خودروهای تعریف شده با نرم افزار چقدر دوام می آورند؟ صنعت خودرو هنوز نمی داند",
+      "title_en": "How long will software-defined cars last? The auto industry doesn't know yet",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
+      "link": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 12:00:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7418fa3a975ac3ea067f0b00ebe0c171",
+      "title": "یک دهه نبردهای داخلی هوش مصنوعی بالاخره به گوگل رسید",
+      "title_fa": "یک دهه نبردهای داخلی هوش مصنوعی بالاخره به گوگل رسید",
+      "title_en": "A decade of internal AI battles is finally catching up to Google",
+      "summary": "DeepMind که در سال 2014 توسط گوگل خریداری شد، سنگ بنای استراتژی هوش مصنوعی این شرکت بوده است - و همچنین منبع مزمن اصطکاک سازمانی است.",
+      "summary_fa": "DeepMind که در سال 2014 توسط گوگل خریداری شد، سنگ بنای استراتژی هوش مصنوعی این شرکت بوده است - و همچنین منبع مزمن اصطکاک سازمانی است.",
+      "summary_en": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
+      "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 12:00:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-67567044",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06ad33fc7d05fa0ab6ffefe8442b2d72",
+      "title": "من 63 ساله هستم، یک CPA بازنشسته با 1.2 میلیون دلار 401 (k). آیا باید با تبدیل راث زحمت بکشم؟",
+      "title_fa": "من 63 ساله هستم، یک CPA بازنشسته با 1.2 میلیون دلار 401 (k). آیا باید با تبدیل راث زحمت بکشم؟",
+      "title_en": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "summary": "\"من انتظار ندارم که نرخ مالیات نهایی من در آینده تفاوت مادی داشته باشد.\"",
+      "summary_fa": "\"من انتظار ندارم که نرخ مالیات نهایی من در آینده تفاوت مادی داشته باشد.\"",
+      "summary_en": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 12:00:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-29587177",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "170a7aa17a19fd58d9c9e81d0aeda9d3",
+      "title": "برنهام خواستار \"تعمل\" در مورد مرگ جیسون آردی است",
+      "title_fa": "برنهام خواستار \"تعمل\" در مورد مرگ جیسون آردی است",
+      "title_en": "Burnham calls for ‘reflection’ over death of Jason Arday",
+      "summary": "خانواده جوان‌ترین استاد سیاه‌پوست کمبریج می‌گویند «کمپین اطلاعات نادرست» «بیش از حد» بود.",
+      "summary_fa": "خانواده جوان‌ترین استاد سیاه‌پوست کمبریج می‌گویند «کمپین اطلاعات نادرست» «بیش از حد» بود.",
+      "summary_en": "Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’",
+      "link": "https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 15 Aug 2026 11:45:46 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97744f4d-2e6d-4650-afad-bbd080b53971.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -131328,6 +131643,27 @@
       "summary": "نلی فلوریدا ریاما، معاون مدیر ژئوفیزیک در آژانس هواشناسی، اقلیم شناسی و ژئوفیزیک اندونزی، هشدار داد که در حالی که هشدار سونامی به پایان رسیده است، \"پس لرزه ها همچنان در حال وقوع هستند.\"",
       "summary_fa": "نلی فلوریدا ریاما، معاون مدیر ژئوفیزیک در آژانس هواشناسی، اقلیم شناسی و ژئوفیزیک اندونزی، هشدار داد که در حالی که هشدار سونامی به پایان رسیده است، \"پس لرزه ها همچنان در حال وقوع هستند.\"",
       "summary_en": "Nelly Florida Riama, a deputy director for geophysics at Indonesia's Meteorology, Climatology, and Geophysical Agency, warned that while the tsunami warning was over, \"aftershocks are still occurring.\"",
+      "link": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 09:46:18 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0da051a9c223e7a7fd8ca1edf0682f72",
+      "title": "زمین لرزه 7.7 ریشتری اندونزی را لرزاند و دست کم 40 کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه 7.7 ریشتری اندونزی را لرزاند و دست کم 40 کشته بر جای گذاشت",
+      "title_en": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 40",
+      "summary": "دومین زمین لرزه 6.9 ریشتری بعداً پماتانگ سیانتار در جزیره غربی سوماترا در عمق حدود 183 کیلومتری زمین را لرزاند. اولین زمین لرزه در عمق حدود 10 کیلومتری زمین رخ داد.",
+      "summary_fa": "دومین زمین لرزه 6.9 ریشتری بعداً پماتانگ سیانتار در جزیره غربی سوماترا در عمق حدود 183 کیلومتری زمین را لرزاند. اولین زمین لرزه در عمق حدود 10 کیلومتری زمین رخ داد.",
+      "summary_en": "A second 6.9-magnitude quake later hit Pematangsiantar on the western island of Sumatra, at a depth of around 183 km. The first quake hit at a depth of around 10 km.",
       "link": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
       "source": "EuroNews",
       "published_at": "Sat, 15 Aug 2026 09:46:18 +0200",
@@ -132839,6 +133175,27 @@
       "title_en": "America’s AI election",
       "summary": "جیل لپور در مورد اینکه چگونه مخالفت با مراکز داده در حال تغییر سیاست است - و آنچه تاریخ در مورد تنظیم فن آوری های جدید به ما می گوید",
       "summary_fa": "جیل لپور در مورد اینکه چگونه مخالفت با مراکز داده در حال تغییر سیاست است - و آنچه تاریخ در مورد تنظیم فن آوری های جدید به ما می گوید",
+      "summary_en": "Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies",
+      "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
+      "source": "Financial Times",
+      "published_at": "Sat, 15 Aug 2026 04:00:14 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7cea90e9-237d-4319-97d4-8352684d5244.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "40c3da4c7c7356d21653f44040db627e",
+      "title": "هوش مصنوعی در مقابل مردم",
+      "title_fa": "هوش مصنوعی در مقابل مردم",
+      "title_en": "AI vs the people",
+      "summary": "جیل لپور در مورد اینکه چگونه مخالفت با مراکز داده در حال تغییر سیاست است - و آنچه تاریخ در مورد تنظیم فناوری های جدید به ما می گوید",
+      "summary_fa": "جیل لپور در مورد اینکه چگونه مخالفت با مراکز داده در حال تغییر سیاست است - و آنچه تاریخ در مورد تنظیم فناوری های جدید به ما می گوید",
       "summary_en": "Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies",
       "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
       "source": "Financial Times",
@@ -207185,6 +207542,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a8691147856afa227be3886c1c97f016",
+      "title": "با Sony A7R VI به اوج دوربین می‌رسیم",
+      "title_fa": "با Sony A7R VI به اوج دوربین می‌رسیم",
+      "title_en": "We’re reaching peak camera with the Sony A7R VI",
+      "summary": "چندی پیش بود که عکاسی با دوربینی با وضوح فوق العاده بالا به معنای فداکاری جدی برای تمام آن مگاپیکسل ها بود. وارد A7R VI شوید. آخرین پرچمدار دوربین سونی با وضوح بالا یک هیولای 66.8 مگاپیکسلی است. علاوه بر رزولوشن متوسط ​​آن نسبت به آخرین نسل A7R V، از یک سنسور جدید و […]",
+      "summary_fa": "چندی پیش بود که عکاسی با دوربینی با وضوح فوق العاده بالا به معنای فداکاری جدی برای تمام آن مگاپیکسل ها بود. وارد A7R VI شوید. آخرین پرچمدار دوربین سونی با وضوح بالا یک هیولای 66.8 مگاپیکسلی است. علاوه بر رزولوشن متوسط ​​آن نسبت به آخرین نسل A7R V، از یک سنسور جدید و […]",
+      "summary_en": "It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In addition to its modest bump in resolution from the last-gen A7R V, it uses a new sensor and […]",
+      "link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+      "source": "The Verge",
+      "published_at": "2026-08-15T08:00:00-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "56e487e1b761d190d84318371e3afde9",
+      "title": "فیلم شگفت انگیز تابستانی که حتما باید دید",
+      "title_fa": "فیلم شگفت انگیز تابستانی که حتما باید دید",
+      "title_en": "The surprise must-see movie of the summer",
+      "summary": "سلام دوستان به نصب کننده شماره 140، راهنمای شما برای بهترین و پرطرفدارترین چیزها در جهان خوش آمدید. (اگر در اینجا تازه کار هستید، خوش آمدید، هیدراته کردن را فراموش نکنید، و همچنین می توانید تمام نسخه های قدیمی را در صفحه اصلی Installer بخوانید.) این هفته، من در مورد ویل فرل و فابریزیو رومانو و هدر کاکس ریچاردسون، […]",
+      "summary_fa": "سلام دوستان به نصب کننده شماره 140، راهنمای شما برای بهترین و پرطرفدارترین چیزها در جهان خوش آمدید. (اگر در اینجا تازه کار هستید، خوش آمدید، هیدراته کردن را فراموش نکنید، و همچنین می توانید تمام نسخه های قدیمی را در صفحه اصلی Installer بخوانید.) این هفته، من در مورد ویل فرل و فابریزیو رومانو و هدر کاکس ریچاردسون، […]",
+      "summary_en": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Will Ferrell and Fabrizio Romano and Heather Cox Richardson, […]",
+      "link": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+      "source": "The Verge",
+      "published_at": "2026-08-15T08:00:00-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
