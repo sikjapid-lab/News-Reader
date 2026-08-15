@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 20:48:05",
-  "total_count": 10716,
+  "last_update": "2026-08-15 21:08:31",
+  "total_count": 10718,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130670,6 +130670,27 @@
       }
     },
     {
+      "id": "392dfb0792ffd863e31e5261e1b06305",
+      "title": "کالیفرنیا با چندین آتش سوزی جنگلی مقابله می کند زیرا نیروی کار آتش نشان با فشار مواجه می شود",
+      "title_fa": "کالیفرنیا با چندین آتش سوزی جنگلی مقابله می کند زیرا نیروی کار آتش نشان با فشار مواجه می شود",
+      "title_en": "California tackles multiple wildfires as firefighter workforce faces strain",
+      "summary": "نیروی کار فدرال آتش نشانی سرزمین های وحشی که با حقوق کم و مشکلات زندگی مواجه است، با کاهش دوره ترامپ کنار می آید.",
+      "summary_fa": "نیروی کار فدرال آتش نشانی سرزمین های وحشی که با حقوق کم و مشکلات زندگی مواجه است، با کاهش دوره ترامپ کنار می آید.",
+      "summary_en": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 20:40:48 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b9b88e0aba1fbeea7e5d490ee3fc7073",
       "title": "گزارش ها می گویند مراکش ده ها مهاجر را که قصد عبور از سئوتا را داشتند، بازداشت کرده است",
       "title_fa": "گزارش ها می گویند مراکش ده ها مهاجر را که قصد عبور از سئوتا را داشتند، بازداشت کرده است",
@@ -131139,6 +131160,27 @@
       "summary": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا طوفان انتظار می رود باران و باد شدید را به زنجیره جزیره بیاورد.",
       "summary_fa": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا طوفان انتظار می رود باران و باد شدید را به زنجیره جزیره بیاورد.",
       "summary_en": "Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 17:27:57 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7326cd1da0ecaa19d47982dc03399ce",
+      "title": "طوفان لالا با نزدیک شدن به هاوایی به یک طوفان رده 1 تبدیل می شود",
+      "title_fa": "طوفان لالا با نزدیک شدن به هاوایی به یک طوفان رده 1 تبدیل می شود",
+      "title_en": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
+      "summary": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا انتظار می رود طوفان باران و باد شدید را به زنجیره جزیره بیاورد.",
+      "summary_fa": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا انتظار می رود طوفان باران و باد شدید را به زنجیره جزیره بیاورد.",
+      "summary_en": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain.",
       "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 15 Aug 2026 17:27:57 +0000",
