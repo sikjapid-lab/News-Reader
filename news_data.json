@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 19:11:13",
-  "total_count": 10702,
+  "last_update": "2026-08-15 19:36:31",
+  "total_count": 10705,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130642,6 +130642,69 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "743ca2a2243c61fa2e8075ef103f5525",
+      "title": "ایران می‌گوید قطر خلبان‌هایش را ماه‌ها پیش دستگیر کرده، ادعایی که قطر آن را رد می‌کند",
+      "title_fa": "ایران می‌گوید قطر خلبان‌هایش را ماه‌ها پیش دستگیر کرده، ادعایی که قطر آن را رد می‌کند",
+      "title_en": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+      "summary": "ایران گفت که این افراد از 2 مارس که جت های جنگنده آنها سرنگون شد در بازداشت بوده اند. دولت قطر این ادعاها را رد کرد.",
+      "summary_fa": "ایران گفت که این افراد از 2 مارس که جت های جنگنده آنها سرنگون شد در بازداشت بوده اند. دولت قطر این ادعاها را رد کرد.",
+      "summary_en": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denied the claims.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 19:28:19 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "356e5a9714c8d0d02d917b93aab73864",
+      "title": "مراکش ده‌ها مهاجر را که قصد عبور از سئوتا را داشتند، بازداشت کرد",
+      "title_fa": "مراکش ده‌ها مهاجر را که قصد عبور از سئوتا را داشتند، بازداشت کرد",
+      "title_en": "Morocco detains dozens of migrants trying to cross into Ceuta",
+      "summary": "در میان پیشنهادات رسانه های اجتماعی مبنی بر دومین گذرگاه دسته جمعی در روز شنبه، امنیت افزایش یافته بود.",
+      "summary_fa": "در میان پیشنهادات رسانه های اجتماعی مبنی بر دومین گذرگاه دسته جمعی در روز شنبه، امنیت افزایش یافته بود.",
+      "summary_en": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 19:16:40 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "146118579ba9ccf92beb3675b5c92f63",
+      "title": "شمار قربانیان فاجعه کشتی زیمبابوه به 69 نفر رسید",
+      "title_fa": "شمار قربانیان فاجعه کشتی زیمبابوه به 69 نفر رسید",
+      "title_en": "Death toll from Zimbabwe ferry disaster rises to 69",
+      "summary": "پلیس می گوید 23 جسد دیگر از دریاچه کاریبا پس از واژگونی کشتی مملو از بار در روز سه شنبه کشف شده است.",
+      "summary_fa": "پلیس می گوید 23 جسد دیگر از دریاچه کاریبا پس از واژگونی کشتی مملو از بار در روز سه شنبه کشف شده است.",
+      "summary_en": "Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 19:10:06 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
