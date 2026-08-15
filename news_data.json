@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 14:26:16",
-  "total_count": 10655,
+  "last_update": "2026-08-15 14:50:39",
+  "total_count": 10663,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130670,6 +130670,48 @@
       }
     },
     {
+      "id": "ab94ddddfd38cd1e559fc9568669b12e",
+      "title": "طبق گزارش ها، درآمد Anthropic در سه ماهه دوم به بیش از 11.5 میلیارد دلار افزایش یافته است",
+      "title_fa": "طبق گزارش ها، درآمد Anthropic در سه ماهه دوم به بیش از 11.5 میلیارد دلار افزایش یافته است",
+      "title_en": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+      "summary": "جهش در درآمد نشان دهنده رشد سریع سازنده چت بات کلود است که برای عرضه اولیه عمومی پرفروش بالقوه آماده می شود.",
+      "summary_fa": "جهش در درآمد نشان دهنده رشد سریع سازنده چت بات کلود است که برای عرضه اولیه عمومی پرفروش بالقوه آماده می شود.",
+      "summary_en": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+      "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 14:45:31 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f20276bd9a752ca06062c0f6f4f65da6",
+      "title": "AOC می گوید که برای فریز کردن تخمک هایش پس انداز کرده است. در اینجا هزینه این روش چقدر است",
+      "title_fa": "AOC می گوید که برای فریز کردن تخمک هایش پس انداز کرده است. در اینجا هزینه این روش چقدر است",
+      "title_en": "AOC says she's been saving up to freeze her eggs. Here's how much the procedure can cost",
+      "summary": "AOC هزینه انجماد تخمک های خود را برجسته می کند. در اینجا آنچه باید در مورد پوشش بیمه سلامت، قوانین ایالتی و مالیات های مرتبط با این فرآیند بدانید.",
+      "summary_fa": "AOC هزینه انجماد تخمک های خود را برجسته می کند. در اینجا آنچه باید در مورد پوشش بیمه سلامت، قوانین ایالتی و مالیات های مرتبط با این فرآیند بدانید.",
+      "summary_en": "AOC is highlighting the cost of freezing her eggs. Here's what to know about health insurance coverage, state laws and taxes associated with the process.",
+      "link": "https://www.cnbc.com/2026/08/15/aoc-egg-freezing-costs-insurance-taxes.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 14:35:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "736315bf9d380fa20709a52433e06200",
       "title": "بازارهای پیش‌بینی و شرط‌بندی ورزشی: چگونه این صرافی بریتانیا سعی دارد هر دو را در ایالات متحده انجام دهد",
       "title_fa": "بازارهای پیش‌بینی و شرط‌بندی ورزشی: چگونه این صرافی بریتانیا سعی دارد هر دو را در ایالات متحده انجام دهد",
@@ -130705,6 +130747,27 @@
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "75a74dab66ab6a74268d9a8c41572280",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Five injured, one critically, in shooting at Virginia State University",
+      "summary": "به گفته دانشگاه، چندین مظنون در این حادثه در ساعات اولیه روز شنبه شرکت داشتند.",
+      "summary_fa": "به گفته دانشگاه، چندین مظنون در این حادثه در ساعات اولیه روز شنبه شرکت داشتند.",
+      "summary_en": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 14:21:24 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0571/live/6894b170-98af-11f1-9a0b-ef36d15fc6b3.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -131909,6 +131972,48 @@
       }
     },
     {
+      "id": "b6051ff3d944ce3d14fea30d555fbe80",
+      "title": "دانشمندان با افزایش CO2، تغییر شگفت انگیزی را در خون انسان مشاهده کردند",
+      "title_fa": "دانشمندان با افزایش CO2، تغییر شگفت انگیزی را در خون انسان مشاهده کردند",
+      "title_en": "Scientists detect a surprising shift in human blood as CO2 rises",
+      "summary": "افزایش دی اکسید کربن در جو ممکن است اثری قابل اندازه گیری در بدن انسان بر جای بگذارد. محققان با تجزیه و تحلیل بیش از دو دهه داده های بهداشتی ایالات متحده دریافتند که سطح بی کربنات خون از سال 1999 حدود 7 درصد افزایش یافته است، در حالی که کلسیم و فسفر کاهش یافته است - تغییراتی که از نزدیک افزایش CO2 اتمسفر را دنبال می کند.",
+      "summary_fa": "افزایش دی اکسید کربن در جو ممکن است اثری قابل اندازه گیری در بدن انسان بر جای بگذارد. محققان با تجزیه و تحلیل بیش از دو دهه داده های بهداشتی ایالات متحده دریافتند که سطح بی کربنات خون از سال 1999 حدود 7 درصد افزایش یافته است، در حالی که کلسیم و فسفر کاهش یافته است - تغییراتی که از نزدیک افزایش CO2 اتمسفر را دنبال می کند.",
+      "summary_en": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7% since 1999, while calcium and phosphorus have declined—changes that closely track increasing atmospheric CO2.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 15 Aug 2026 10:39:32 EDT",
+      "date_iso": "2026-08-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93979f80256dca1fb712483436227be0",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "When gut microbes run low on fiber, they may start eating you",
+      "summary": "میکروب های روده به چیزی برای خوردن نیاز دارند و زمانی که فیبر محدود باشد، ممکن است شروع به مصرف پروتئین از پوشش مخاطی که از روده محافظت می کند، کنند. محققان دریافتند که فیبر می تواند این فرآیند را سرکوب کند، در حالی که پروتئین های گیاهی غیرقابل هضم به میکروب ها کمک می کند تا ترکیبات مفیدتری تولید کنند.",
+      "summary_fa": "میکروب های روده به چیزی برای خوردن نیاز دارند و زمانی که فیبر محدود باشد، ممکن است شروع به مصرف پروتئین از پوشش مخاطی که از روده محافظت می کند، کنند. محققان دریافتند که فیبر می تواند این فرآیند را سرکوب کند، در حالی که پروتئین های گیاهی غیرقابل هضم به میکروب ها کمک می کند تا ترکیبات مفیدتری تولید کنند.",
+      "summary_en": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 15 Aug 2026 10:30:28 EDT",
+      "date_iso": "2026-08-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c5bfcdf54b7a699dac5f4f9aa8154328",
       "title": "Instapaper، برنامه اصلی Read-It-Later، به تازگی یک ارتقاء عظیم دریافت کرده است",
       "title_fa": "Instapaper، برنامه اصلی Read-It-Later، به تازگی یک ارتقاء عظیم دریافت کرده است",
@@ -131993,6 +132098,27 @@
       }
     },
     {
+      "id": "f9f6593479ec849d1ed07ca0661105e8",
+      "title": "یک فسیل 30 ساله استخوان های یک هیولای دریایی مرموز باستانی را پنهان می کرد",
+      "title_fa": "یک فسیل 30 ساله استخوان های یک هیولای دریایی مرموز باستانی را پنهان می کرد",
+      "title_en": "A 30-year-old fossil was hiding bones from a mysterious ancient sea monster",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Fossils collected in Osaka more than 30 years ago have revealed a surprise hiding in plain sight: four previously unrecognized bones from a giant Cretaceous mosasaur. Among them is the first confirmed premaxilla—the frontmost bone of the upper jaw—ever identified in a Japanese mosasaur fossil. Even more intriguing, parts of the skull show unusual anatomical features that don’t match known mosasaurs, raising the possibility that the remains belong to an entirely new species.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045555.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 15 Aug 2026 10:19:45 EDT",
+      "date_iso": "2026-08-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
       "id": "b1b90776da306620904cbf8997566cb8",
       "title": "در صحنه حمله مرگبار اسرائیل به خانه لبنان",
       "title_fa": "در صحنه حمله مرگبار اسرائیل به خانه لبنان",
@@ -132011,6 +132137,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "471c0521b85e0f6884927c5fc793161e",
+      "title": "مواد نگهدارنده رایج غذایی با افزایش مرگ و میر خودکشی در میان جوانان مرتبط است",
+      "title_fa": "مواد نگهدارنده رایج غذایی با افزایش مرگ و میر خودکشی در میان جوانان مرتبط است",
+      "title_en": "Common food preservative linked to rising suicide deaths among young people",
+      "summary": "یک ماده شیمیایی به طور گسترده ای در دسترس برای نگهداری مواد غذایی به عنوان یک عامل نگران کننده در افزایش مرگ و میر خودکشی در بریتانیا، به ویژه در میان جوانان و مردان ظاهر می شود. محققان می گویند که مقیاس ممکن است دست کم گرفته شود و خواستار محدودیت های فوری در دسترسی و اطلاعات مضر آنلاین هستند.",
+      "summary_fa": "یک ماده شیمیایی به طور گسترده ای در دسترس برای نگهداری مواد غذایی به عنوان یک عامل نگران کننده در افزایش مرگ و میر خودکشی در بریتانیا، به ویژه در میان جوانان و مردان ظاهر می شود. محققان می گویند که مقیاس ممکن است دست کم گرفته شود و خواستار محدودیت های فوری در دسترسی و اطلاعات مضر آنلاین هستند.",
+      "summary_en": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling for urgent restrictions on access and harmful online information.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 15 Aug 2026 10:09:09 EDT",
+      "date_iso": "2026-08-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -132364,6 +132511,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c90/live/e1739b60-987d-11f1-a43c-2dc5e6bd5d94.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4410a09c33b49add3c6d372524b7501c",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "A 60-year-old theory about ants, bees and wasps may be wrong",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Scientists have long thought an unusual genetic system helped ants, bees, and wasps evolve their extraordinary social colonies. A massive new analysis suggests that genetics alone can’t explain it—and the real secret may lie in other traits unique to these insects.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045552.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 15 Aug 2026 09:25:46 EDT",
+      "date_iso": "2026-08-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
