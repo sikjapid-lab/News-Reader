@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 19:36:31",
-  "total_count": 10705,
+  "last_update": "2026-08-15 19:54:11",
+  "total_count": 10708,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130642,6 +130642,69 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8720e00c1da983d3764b2cccc2c516e5",
+      "title": "لیختن اشتاین قانون جانشینی را تغییر می دهد تا به زنان اجازه دهد تا بر تخت سلطنت برسند",
+      "title_fa": "لیختن اشتاین قانون جانشینی را تغییر می دهد تا به زنان اجازه دهد تا بر تخت سلطنت برسند",
+      "title_en": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "این اعلامیه در روز ملی این کشور اروپای مرکزی که تنها 44000 نفر جمعیت دارد، اعلام شد.",
+      "summary_fa": "این اعلامیه در روز ملی این کشور اروپای مرکزی که تنها 44000 نفر جمعیت دارد، اعلام شد.",
+      "summary_en": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 19:41:57 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "65ef30ae70cdc4eb2bee7d9435eb9cfa",
+      "title": "22 جسد دیگر پس از حادثه قایق زیمبابوه پیدا شد",
+      "title_fa": "22 جسد دیگر پس از حادثه قایق زیمبابوه پیدا شد",
+      "title_en": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+      "summary": "پلیس روز شنبه اعلام کرد که تعداد کشته شدگان به 68 نفر می رسد و 18 کودک در میان کشته شدگان واژگون شدن کشتی در دریاچه کاریبا هستند. پلیس روز شنبه اعلام کرد که 22 جسد دیگر پس از یک سانحه قایق در زیمبابوه پیدا شده است که تعداد کشته ها را به 68 نفر رساند. کشتی روز سه شنبه در دریاچه کاریبا در مرز با زامبیا واژگون شد. تحقیقات نشان داده است که در هنگام وزش باد شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
+      "summary_fa": "پلیس روز شنبه اعلام کرد که تعداد کشته شدگان به 68 نفر می رسد و 18 کودک در میان کشته شدگان واژگون شدن کشتی در دریاچه کاریبا هستند. پلیس روز شنبه اعلام کرد که 22 جسد دیگر پس از یک سانحه قایق در زیمبابوه پیدا شده است که تعداد کشته ها را به 68 نفر رساند. کشتی روز سه شنبه در دریاچه کاریبا در مرز با زامبیا واژگون شد. تحقیقات نشان داده است که در هنگام وزش باد شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
+      "summary_en": "Death toll now stands at 68, with 18 children being among the killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it went over during heavy winds. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 19:39:07 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "65eb543de639f578ebd5559e832a6797",
+      "title": "کشف 10 میلیون دلار طلا که در زیر کارخانه آبجوسازی سابق بلژیک دفن شده بود",
+      "title_fa": "کشف 10 میلیون دلار طلا که در زیر کارخانه آبجوسازی سابق بلژیک دفن شده بود",
+      "title_en": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+      "summary": "مته یک کارگر ساختمانی در طول یک پروژه نوسازی در شرق فلاندر به طلا برخورد کرد و جستجو برای صاحبان ثروت پنهان شده را آغاز کرد.",
+      "summary_fa": "مته یک کارگر ساختمانی در طول یک پروژه نوسازی در شرق فلاندر به طلا برخورد کرد و جستجو برای صاحبان ثروت پنهان شده را آغاز کرد.",
+      "summary_en": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 19:36:28 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/world/15Belgium-gold/15Belgium-gold-mediumSquareAt3X.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
