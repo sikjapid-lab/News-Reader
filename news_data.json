@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 03:20:29",
-  "total_count": 10484,
+  "last_update": "2026-08-15 04:02:11",
+  "total_count": 10485,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130662,6 +130662,27 @@
       "date_iso": "2026-08-15",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d42ab13c5ce6efda8a9f787afa31771d",
+      "title": "هند هشتادمین روز استقلال را با نمایش نظامی جشن می گیرد",
+      "title_fa": "هند هشتادمین روز استقلال را با نمایش نظامی جشن می گیرد",
+      "title_en": "India marks 80th Independence Day with military display",
+      "summary": "هند هشتادمین روز استقلال خود را در قلعه تاریخی سرخ دهلی جشن گرفت.",
+      "summary_fa": "هند هشتادمین روز استقلال خود را در قلعه تاریخی سرخ دهلی جشن گرفت.",
+      "summary_en": "India marked its 80th Independence Day at Delhi’s historic Red Fort.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 03:39:06 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
