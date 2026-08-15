@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 13:30:06",
-  "total_count": 10636,
+  "last_update": "2026-08-15 13:55:10",
+  "total_count": 10643,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "b8184f7d7c584d8202847ae273ff0e1e",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Wildfires continue to devastate Europe as thousands are forced to flee their homes",
+      "summary": "اورسولا فون در لاین، رئیس کمیسیون اتحادیه اروپا بعدازظهر شنبه گفت که اروپا در \"هشدار آتش سوزی شدید\" قرار دارد و فشار فزاینده ای بر کشورهای اروپای شرقی وجود دارد.",
+      "summary_fa": "اورسولا فون در لاین، رئیس کمیسیون اتحادیه اروپا بعدازظهر شنبه گفت که اروپا در \"هشدار آتش سوزی شدید\" قرار دارد و فشار فزاینده ای بر کشورهای اروپای شرقی وجود دارد.",
+      "summary_en": "EU Commission President Ursula von der Leyen said on Saturday afternoon that Europe was on \"high wildfire alert\" and that there was increasing pressure on Eastern European nations.",
+      "link": "http://www.euronews.com/my-europe/2026/08/15/wildfires-continue-to-devastate-europe-as-thousands-are-forced-to-flee-their-homes",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 15:30:37 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "d14e1fe30b831f8e7787a5c450b203f3",
       "title": "بیمارستان مادرید اولین پروتز متامتریال استخوان را ایجاد کرد و از قطع پا جلوگیری کرد",
       "title_fa": "بیمارستان مادرید اولین پروتز متامتریال استخوان را ایجاد کرد و از قطع پا جلوگیری کرد",
@@ -130667,6 +130688,90 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "81bfc662793284a46494590836f48c10",
+      "title": "لوئیجی مانژیونه در دادگاه فدرال به اتهام تعقیب مدیر عامل بیمه سلامت اعتراف کرد. این می تواند بر پرونده ایالت تأثیر بگذارد.",
+      "title_fa": "لوئیجی مانژیونه در دادگاه فدرال به اتهام تعقیب مدیر عامل بیمه سلامت اعتراف کرد. این می تواند بر پرونده ایالت تأثیر بگذارد.",
+      "title_en": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state’s case.",
+      "summary": "لوئیجی مانگیونه، که متهم به قتل یکی از مدیران UnitedHealthcare است، پیش از برگزاری دادگاه قتل در نیویورک که قرار است ماه آینده آغاز شود، به اتهامات تعقیب و گریز فدرال اعتراف کرد.",
+      "summary_fa": "لوئیجی مانگیونه، که متهم به قتل یکی از مدیران UnitedHealthcare است، پیش از برگزاری دادگاه قتل در نیویورک که قرار است ماه آینده آغاز شود، به اتهامات تعقیب و گریز فدرال اعتراف کرد.",
+      "summary_en": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+      "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 13:51:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-83787222",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c2175a53bef818d66b0b643796b8f07",
+      "title": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 47 کشته برجای گذاشت",
+      "title_fa": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 47 کشته برجای گذاشت",
+      "title_en": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "summary": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_fa": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_en": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 13:35:57 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "294fbf16395dae4c92164c473c7e8613",
+      "title": "زلزله شدید در شرق اندونزی ده ها کشته برجای گذاشت",
+      "title_fa": "زلزله شدید در شرق اندونزی ده ها کشته برجای گذاشت",
+      "title_en": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "زمین لرزه اوایل روز شنبه منطقه فلورس را لرزاند و هزاران نفر را از ترس سونامی به ارتفاع 7.7 ریشتر برانگیخت. زمین لرزه ای به بزرگی 7.7 ریشتر که شرق اندونزی را لرزاند، دست کم 40 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد وقوع جنگ لرزه ای مرگبار بوده است. حداقل 235 پس لرزه از جمله یکی به بزرگی 6.1 رخ داده است. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_fa": "زمین لرزه اوایل روز شنبه منطقه فلورس را لرزاند و هزاران نفر را از ترس سونامی به ارتفاع 7.7 ریشتر برانگیخت. زمین لرزه ای به بزرگی 7.7 ریشتر که شرق اندونزی را لرزاند، دست کم 40 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد وقوع جنگ لرزه ای مرگبار بوده است. حداقل 235 پس لرزه از جمله یکی به بزرگی 6.1 رخ داده است. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_en": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunamiA 7.7-magnitude earthquake that struck eastern Indonesia, has killed at least 40 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events.Authorities issued a tsunami warning, which has since been lifted, but there were at least 235 aftershocks, including one of magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 13:33:35 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "833e59c985c776854c9bf4d5a95ed100",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "summary": "وزارت بهداشت لبنان گفت چند کودک در یک حمله شبانه کشته شدند که یکی از مرگبارترین حملات در چند ماه اخیر است. ارتش اسرائیل گفته است که زیرساخت های حزب الله را هدف قرار داده است.",
+      "summary_fa": "وزارت بهداشت لبنان گفت چند کودک در یک حمله شبانه کشته شدند که یکی از مرگبارترین حملات در چند ماه اخیر است. ارتش اسرائیل گفته است که زیرساخت های حزب الله را هدف قرار داده است.",
+      "summary_en": "The Lebanese health ministry said several children were killed in a strike overnight, one of the deadliest attacks in months. Israel’s military said it was targeting Hezbollah infrastructure.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 13:28:12 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -130817,6 +130922,27 @@
       }
     },
     {
+      "id": "6f27ce7cf2c1da4896f8e761db428c45",
+      "title": "اصلاحات ماری جوانا به عنوان یک موضوع انتخابات میان دوره ای در هر دو طرف در حال ظهور است",
+      "title_fa": "اصلاحات ماری جوانا به عنوان یک موضوع انتخابات میان دوره ای در هر دو طرف در حال ظهور است",
+      "title_en": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+      "summary": "با نزدیک شدن سریع میان دوره ای ماه نوامبر، اصلاح حشیش یک مسئله است. در بین رای دهندگان محبوبیت دارد، اما قدرت آن در تغییر جهت انتخابات نامشخص است.",
+      "summary_fa": "با نزدیک شدن سریع میان دوره ای ماه نوامبر، اصلاح حشیش یک مسئله است. در بین رای دهندگان محبوبیت دارد، اما قدرت آن در تغییر جهت انتخابات نامشخص است.",
+      "summary_en": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+      "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "source": "CNBC",
+      "published_at": "Sat, 15 Aug 2026 13:00:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "851a9ab223ee71e71c17a276123445e0",
       "title": "تورم هوش مصنوعی فشار بیشتری بر فدرال رزرو وارد می کند. آیا نرخ بهره بالاتر می تواند بعدی باشد؟",
       "title_fa": "تورم هوش مصنوعی فشار بیشتری بر فدرال رزرو وارد می کند. آیا نرخ بهره بالاتر می تواند بعدی باشد؟",
@@ -130844,6 +130970,27 @@
       "title_en": "Five wounded in shooting at Virginia State University",
       "summary": "پلیس قربانیان تیراندازی را در نزدیکی محل اقامت دانشگاه پیدا کرد.",
       "summary_fa": "پلیس قربانیان تیراندازی را در نزدیکی محل اقامت دانشگاه پیدا کرد.",
+      "summary_en": "Police found the gunshot victims near the university's residence halls.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 12:57:08 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "08f60609ef60135aa7b07d1c623e6aae",
+      "title": "پنج نفر در تیراندازی در دانشگاه ایالتی ویرجینیا زخمی شدند، چندین مظنون",
+      "title_fa": "پنج نفر در تیراندازی در دانشگاه ایالتی ویرجینیا زخمی شدند، چندین مظنون",
+      "title_en": "Five wounded in shooting at Virginia State University, multiple suspects",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary_en": "Police found the gunshot victims near the university's residence halls.",
       "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
       "source": "Al Jazeera",
