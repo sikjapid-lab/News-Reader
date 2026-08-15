@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 15:11:52",
-  "total_count": 10671,
+  "last_update": "2026-08-15 15:37:38",
+  "total_count": 10674,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130688,6 +130688,69 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "e94bfc33ec950432b91578a57b46e4e1",
+      "title": "یک سوری محکوم در اتریش به اتهام سوء استفاده از جنگ داخلی در سوریه بازداشت شد",
+      "title_fa": "یک سوری محکوم در اتریش به اتهام سوء استفاده از جنگ داخلی در سوریه بازداشت شد",
+      "title_en": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 15:28:28 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "7853d73dacfac280dfa9fb1e4cd3e598",
+      "title": "فتنه به سرود: زندگی بسیاری از شعارهای آزادی در تظاهرات جوانان هند",
+      "title_fa": "فتنه به سرود: زندگی بسیاری از شعارهای آزادی در تظاهرات جوانان هند",
+      "title_en": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+      "summary": "یک دهه پیش، رهبران دانشجویی به دلیل فریاد زدن \"آزادی\" به معنای آزادی زندانی شدند.",
+      "summary_fa": "یک دهه پیش، رهبران دانشجویی به دلیل فریاد زدن \"آزادی\" به معنای آزادی زندانی شدند.",
+      "summary_en": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
+      "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 15:25:51 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "068d31e8839f028f29f93a4d439f8231",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "How blind football is helping women overcome barriers in Mexico",
+      "summary": "مکزیک اولین تیم فوتبال زنان نابینای خود را برای شرکت در یک تورنمنت بین المللی می فرستد. بازیکنان نمی توانند صبر کنند.",
+      "summary_fa": "مکزیک اولین تیم فوتبال زنان نابینای خود را برای شرکت در یک تورنمنت بین المللی می فرستد. بازیکنان نمی توانند صبر کنند.",
+      "summary_en": "Mexico is sending its first blind women's football team to compete in an international tournament. Players cannot wait.",
+      "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 15:15:45 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
