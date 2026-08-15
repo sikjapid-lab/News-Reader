@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 07:56:14",
-  "total_count": 10545,
+  "last_update": "2026-08-15 08:36:39",
+  "total_count": 10546,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130772,6 +130772,27 @@
         "lat": 31.5017,
         "lng": 34.4668,
         "name": "غزه"
+      }
+    },
+    {
+      "id": "0ffac13f103834b7729249934a95b4f5",
+      "title": "زلزله 7.7 ریشتری در اندونزی حداقل 20 کشته برجای گذاشت",
+      "title_fa": "زلزله 7.7 ریشتری در اندونزی حداقل 20 کشته برجای گذاشت",
+      "title_en": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+      "summary": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_fa": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_en": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 08:21:01 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
