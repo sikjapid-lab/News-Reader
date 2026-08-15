@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 09:57:18",
-  "total_count": 10570,
+  "last_update": "2026-08-15 10:30:46",
+  "total_count": 10579,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "2c2da1ffc0d178c7768b23743a19793a",
+      "title": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
+      "title_fa": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
+      "title_en": "Latest news bulletin | August 15th, 2026 – Midday",
+      "summary": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 12:00:16 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "e682200d29f72091ff794e38e0030e62",
       "title": "تماشا کنید: هرج و مرج با زلزله قدرتمند اندونزی",
       "title_fa": "تماشا کنید: هرج و مرج با زلزله قدرتمند اندونزی",
@@ -130663,6 +130684,153 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ab444f021d680fdf1ad353c39a48223b",
+      "title": "زمین لرزه 7.7 ریشتری شرق اندونزی را لرزاند و دست کم 38 کشته بر جای گذاشت.",
+      "title_fa": "زمین لرزه 7.7 ریشتری شرق اندونزی را لرزاند و دست کم 38 کشته بر جای گذاشت.",
+      "title_en": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+      "summary": "زمین لرزه کم عمق اوایل روز شنبه منطقه فلورس اندونزی را لرزاند و هزاران نفر را به جستجوی مناطق مرتفع تر برانگیخت. زمین لرزه قوی 7.7 ریشتری اوایل روز شنبه شرق اندونزی را لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد زمین لرزه های مرگبار بود. ده ها پس لرزه از جمله یک پس لرزه به بزرگی 6.1 بود. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_fa": "زمین لرزه کم عمق اوایل روز شنبه منطقه فلورس اندونزی را لرزاند و هزاران نفر را به جستجوی مناطق مرتفع تر برانگیخت. زمین لرزه قوی 7.7 ریشتری اوایل روز شنبه شرق اندونزی را لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد زمین لرزه های مرگبار بود. ده ها پس لرزه از جمله یک پس لرزه به بزرگی 6.1 بود. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_en": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher groundA powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes.Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 10:24:36 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "f5e430083875ce33212423de1eebfc02",
+      "title": "خاموش کردن روشن",
+      "title_fa": "خاموش کردن روشن",
+      "title_en": "Quit Lit",
+      "summary": "دلایل خوبی برای رها کردن کتاب‌هایی وجود دارد که از آن‌ها لذت نمی‌بریم، اما توجه ضعیف ما ممکن است باعث شود که خیلی زود از آنها استفاده کنیم.",
+      "summary_fa": "دلایل خوبی برای رها کردن کتاب‌هایی وجود دارد که از آن‌ها لذت نمی‌بریم، اما توجه ضعیف ما ممکن است باعث شود که خیلی زود از آنها استفاده کنیم.",
+      "summary_en": "There are good reasons to abandon books we’re not enjoying, but our attenuated attention might lead us to tap out too early.",
+      "link": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 10:08:58 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f710cab2621d69f5a8283435bbbd5c38",
+      "title": "بررسی باغ هوشمند داخلی Auk Mini 2: Better Where It Counts",
+      "title_fa": "بررسی باغ هوشمند داخلی Auk Mini 2: Better Where It Counts",
+      "title_en": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+      "summary": "Auk’s Mini 2 با چراغ‌های بهتر، طراحی شیک‌تر و رنگ‌های جدید سرگرم‌کننده نسبت به مدل اصلی بهبود یافته است.",
+      "summary_fa": "Auk’s Mini 2 با چراغ‌های بهتر، طراحی شیک‌تر و رنگ‌های جدید سرگرم‌کننده نسبت به مدل اصلی بهبود یافته است.",
+      "summary_en": "Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
+      "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+      "source": "Wired",
+      "published_at": "Sat, 15 Aug 2026 10:01:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "4ab630f102bc1b10e91bf0828fb5a540",
+      "title": "فضایی برای بلندگوهای قفسه کتاب ندارید؟ Victrola Soundstage به خوبی زیر صفحه گردان من قرار دارد",
+      "title_fa": "فضایی برای بلندگوهای قفسه کتاب ندارید؟ Victrola Soundstage به خوبی زیر صفحه گردان من قرار دارد",
+      "title_en": "No space for bookshelf speakers? The Victrola Soundstage sits neatly under my turntable",
+      "summary": "Victrola Soundstage برای کسانی که می خواهند سیستم وینیل خود را به جای بیرون بسازند، با تعداد زیادی اتصالات دیجیتال و آنالوگ برای هر نوع شنونده ای ایده آل است.",
+      "summary_fa": "Victrola Soundstage برای کسانی که می خواهند سیستم وینیل خود را به جای بیرون بسازند، با تعداد زیادی اتصالات دیجیتال و آنالوگ برای هر نوع شنونده ای ایده آل است.",
+      "summary_en": "The Victrola Soundstage is ideal for those who want to build their vinyl system up rather than out, with plenty of digital and analog connections for every kind of listener.",
+      "link": "https://www.zdnet.com/article/victrola-soundstage-review/",
+      "source": "ZDNet",
+      "published_at": "Sat, 15 Aug 2026 10:00:42 GMT",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2e9f442539efd08fb5cd2afd089bb420",
+      "title": "کمپ های تابستانی با وجود موانع، تلاش می کنند بخشی از زندگی کانادایی باقی بمانند",
+      "title_fa": "کمپ های تابستانی با وجود موانع، تلاش می کنند بخشی از زندگی کانادایی باقی بمانند",
+      "title_en": "Summer Camps Strive to Stay Part of Canadian Life, Despite Hurdles",
+      "summary": "یک سنت دیرینه برای بسیاری از کودکان و نوجوانان در سراسر کشور، اردوهای شبانه با موانع مالی و فرهنگی با گزش تورم و تغییر روند والدینی روبرو هستند.",
+      "summary_fa": "یک سنت دیرینه برای بسیاری از کودکان و نوجوانان در سراسر کشور، اردوهای شبانه با موانع مالی و فرهنگی با گزش تورم و تغییر روند والدینی روبرو هستند.",
+      "summary_en": "Long a tradition for many kids and teenagers across the country, overnight camps are facing financial and cultural hurdles as inflation bites and parenting trends shift.",
+      "link": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 10:00:07 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34b3a96c54dddd229e17b805d15378f7",
+      "title": "مقامات می گویند که ناامیدی از ترامپ در میان متحدان آمریکا در خلیج فارس افزایش می یابد",
+      "title_fa": "مقامات می گویند که ناامیدی از ترامپ در میان متحدان آمریکا در خلیج فارس افزایش می یابد",
+      "title_en": "Frustration with Trump grows among U.S.’s Persian Gulf allies, officials say",
+      "summary": "به گفته مقامات عرب و غربی، رهبران کشورهای خلیج نگرانند که رئیس جمهور قادر به مدیریت دیپلماسی لازم برای تامین صلح با ایران نیست.",
+      "summary_fa": "به گفته مقامات عرب و غربی، رهبران کشورهای خلیج نگرانند که رئیس جمهور قادر به مدیریت دیپلماسی لازم برای تامین صلح با ایران نیست.",
+      "summary_en": "Gulf leaders worry the president is unable to manage the diplomacy necessary to secure peace with Iran, according to Arab and Western officials.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 10:00:01 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "ebd8276050d1afba0a5b7034f25d0b77",
+      "title": "Zyzz اصلی Looksmaxxer بود. ظهور و مرگ نابهنگام او بیش از هر زمان دیگری مرتبط است",
+      "title_fa": "Zyzz اصلی Looksmaxxer بود. ظهور و مرگ نابهنگام او بیش از هر زمان دیگری مرتبط است",
+      "title_en": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+      "summary": "یک مستند جدید اپل به بررسی زندگی عزیز «زیز» شاورشیان می پردازد که در عصری قبل از اینفلوئنسرها به شهرت اینترنتی رسید و سپس در سال 2011 در سن 22 سالگی درگذشت.",
+      "summary_fa": "یک مستند جدید اپل به بررسی زندگی عزیز «زیز» شاورشیان می پردازد که در عصری قبل از اینفلوئنسرها به شهرت اینترنتی رسید و سپس در سال 2011 در سن 22 سالگی درگذشت.",
+      "summary_en": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+      "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+      "source": "Wired",
+      "published_at": "Sat, 15 Aug 2026 10:00:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -131367,6 +131535,27 @@
       "title": "اینفانتینو فیفا در نتیجه فروش جام جهانی از جولیانی حمایت می کند",
       "title_fa": "اینفانتینو فیفا در نتیجه فروش جام جهانی از جولیانی حمایت می کند",
       "title_en": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+      "summary": "اندرو جولیانی، پسر رودی جولیانی، شهردار سابق نیویورک، به منتقدان جیانی اینفانتینو، رئیس فیفا می گوید: «این فقط سیاست است».",
+      "summary_fa": "اندرو جولیانی، پسر رودی جولیانی، شهردار سابق نیویورک، به منتقدان جیانی اینفانتینو، رئیس فیفا می گوید: «این فقط سیاست است».",
+      "summary_en": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 07:27:59 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2854063844b10994c5f2b139cc0d01d8",
+      "title": "اینفانتینو فیفا از جولیانی رئیس کاخ سفید در جام جهانی حمایت می‌کند",
+      "title_fa": "اینفانتینو فیفا از جولیانی رئیس کاخ سفید در جام جهانی حمایت می‌کند",
+      "title_en": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
       "summary": "اندرو جولیانی، پسر رودی جولیانی، شهردار سابق نیویورک، به منتقدان جیانی اینفانتینو، رئیس فیفا می گوید: «این فقط سیاست است».",
       "summary_fa": "اندرو جولیانی، پسر رودی جولیانی، شهردار سابق نیویورک، به منتقدان جیانی اینفانتینو، رئیس فیفا می گوید: «این فقط سیاست است».",
       "summary_en": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.",
