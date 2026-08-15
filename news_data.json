@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 11:20:08",
-  "total_count": 10598,
+  "last_update": "2026-08-15 11:40:53",
+  "total_count": 10605,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130691,6 +130691,69 @@
       }
     },
     {
+      "id": "b453ec84e1b31ef1269b3b960d6fd5e4",
+      "title": "این روش قدیمی برای سرمایه گذاری پول بهتر از همیشه است - حتی در عصر هوش مصنوعی و مگا-IPOs",
+      "title_fa": "این روش قدیمی برای سرمایه گذاری پول بهتر از همیشه است - حتی در عصر هوش مصنوعی و مگا-IPOs",
+      "title_en": "This old-school way of investing money is better than ever — even in the age of AI and mega-IPOs",
+      "summary": "\"نسبت طلایی\" برای ساخت سبد - 60٪ سهام، 40٪ اوراق قرضه - دوباره کار می کند، اما پس از چند تغییر،",
+      "summary_fa": "\"نسبت طلایی\" برای ساخت سبد - 60٪ سهام، 40٪ اوراق قرضه - دوباره کار می کند، اما پس از چند تغییر،",
+      "summary_en": "The “golden ratio” for portfolio construction — 60% stocks, 40% bonds — works again, but after a few tweaks,",
+      "link": "https://www.marketwatch.com/story/this-old-school-way-of-investing-money-is-better-than-ever-even-in-the-age-of-ai-and-mega-ipos-3e1142f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 11:30:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-86474821",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c69aaac043b8df87b56d29f1ce491f7e",
+      "title": "آیا چین به دنبال کپی برداری از محاصره تنگه هرمز ایران در اطراف تایوان است؟",
+      "title_fa": "آیا چین به دنبال کپی برداری از محاصره تنگه هرمز ایران در اطراف تایوان است؟",
+      "title_en": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "summary": "تایوان مدتهاست که برای تهاجم نظامی چین آماده شده است، اما جنگ در ایران و اوکراین تهدیدهای بالقوه جدیدی را آشکار می کند.",
+      "summary_fa": "تایوان مدتهاست که برای تهاجم نظامی چین آماده شده است، اما جنگ در ایران و اوکراین تهدیدهای بالقوه جدیدی را آشکار می کند.",
+      "summary_en": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 11:30:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "51066adfa187192208c33df0896ea60c",
+      "title": "مودی تهدید کرد که «نکسال های روشنفکر» را در سخنرانی روز استقلال هدف قرار خواهد داد",
+      "title_fa": "مودی تهدید کرد که «نکسال های روشنفکر» را در سخنرانی روز استقلال هدف قرار خواهد داد",
+      "title_en": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "summary": "نخست‌وزیر هند گفت که شورش ناکسالیت‌های تحت تأثیر مائوئیست تا حد زیادی از بین رفته است، اما حامیان ایدئولوژیک آن همچنان تهدید هستند.",
+      "summary_fa": "نخست‌وزیر هند گفت که شورش ناکسالیت‌های تحت تأثیر مائوئیست تا حد زیادی از بین رفته است، اما حامیان ایدئولوژیک آن همچنان تهدید هستند.",
+      "summary_en": "The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 11:27:11 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e682200d29f72091ff794e38e0030e62",
       "title": "تماشا کنید: هرج و مرج با زلزله قدرتمند اندونزی",
       "title_fa": "تماشا کنید: هرج و مرج با زلزله قدرتمند اندونزی",
@@ -130704,6 +130767,48 @@
       "date_iso": "2026-08-15",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d2a2b3e1f253f27fcf69343d3138f0b",
+      "title": "نخست‌وزیر لبنان گفت: هفت نفر در حمله رژیم صهیونیستی به جنوب لبنان کشته شدند",
+      "title_fa": "نخست‌وزیر لبنان گفت: هفت نفر در حمله رژیم صهیونیستی به جنوب لبنان کشته شدند",
+      "title_en": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "summary": "رسانه های دولتی گزارش می دهند که در میان کشته شدگان حمله به انصار سه کودک و دو زن نیز دیده می شوند.",
+      "summary_fa": "رسانه های دولتی گزارش می دهند که در میان کشته شدگان حمله به انصار سه کودک و دو زن نیز دیده می شوند.",
+      "summary_en": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 11:24:24 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "74c1b60d42e2beef0869d7c84259a6ad",
+      "title": "پیامدهای زلزله مرگبار اندونزی",
+      "title_fa": "پیامدهای زلزله مرگبار اندونزی",
+      "title_en": "Aftermath of deadly Indonesia earthquake",
+      "summary": "در پی زمین لرزه 7.7 ریشتری در جزیره فلورس اندونزی ده ها نفر کشته شدند.",
+      "summary_fa": "در پی زمین لرزه 7.7 ریشتری در جزیره فلورس اندونزی ده ها نفر کشته شدند.",
+      "summary_en": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 11:19:56 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -130992,6 +131097,27 @@
       "summary": "زمین لرزه کم عمق اوایل روز شنبه منطقه فلورس اندونزی را لرزاند و هزاران نفر را به جستجوی مناطق مرتفع تر برانگیخت. زمین لرزه قوی 7.7 ریشتری اوایل روز شنبه شرق اندونزی را لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد زمین لرزه های مرگبار بود. ده ها پس لرزه از جمله یک پس لرزه به بزرگی 6.1 بود. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
       "summary_fa": "زمین لرزه کم عمق اوایل روز شنبه منطقه فلورس اندونزی را لرزاند و هزاران نفر را به جستجوی مناطق مرتفع تر برانگیخت. زمین لرزه قوی 7.7 ریشتری اوایل روز شنبه شرق اندونزی را لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که مستعد زمین لرزه های مرگبار بود. ده ها پس لرزه از جمله یک پس لرزه به بزرگی 6.1 بود. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
       "summary_en": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher groundA powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes.Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 10:24:36 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8e186c85e7f3c4228eab36d269321262",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d1137182c2460257d993239e757ba464",
+      "title": "زمین لرزه قدرتمند در شرق اندونزی دست کم 38 کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه قدرتمند در شرق اندونزی دست کم 38 کشته بر جای گذاشت",
+      "title_en": "Powerful earthquake kills at least 38 in eastern Indonesia",
+      "summary": "زمین لرزه بامداد روز شنبه منطقه فلورس را لرزاند و هزاران نفر را از ترس سونامی به دنبال مکان های بالاتر برانگیخت. زمین لرزه ای به بزرگی 7.7 ریشتر شرق اندونزی را بامداد روز شنبه لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که از زمان وقوع جنگ های لرزه ای مرگبار بوده است. برداشته شد، اما ده ها پس لرزه از جمله یکی به بزرگی 6.1 رخ داده است. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_fa": "زمین لرزه بامداد روز شنبه منطقه فلورس را لرزاند و هزاران نفر را از ترس سونامی به دنبال مکان های بالاتر برانگیخت. زمین لرزه ای به بزرگی 7.7 ریشتر شرق اندونزی را بامداد روز شنبه لرزاند و دست کم 38 کشته برجای گذاشت و باعث وحشت گسترده و فروریختن ساختمان ها و خانه ها در منطقه ای شد که از زمان وقوع جنگ های لرزه ای مرگبار بوده است. برداشته شد، اما ده ها پس لرزه از جمله یکی به بزرگی 6.1 رخ داده است. مقامات اندونزیایی گفتند که پایش هیچ تغییر قابل توجهی در سطح دریا نشان نداد که بتواند نشان دهنده وقوع سونامی باشد. ادامه مطلب...",
+      "summary_en": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunamiA 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events.Authorities issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one of magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
       "source": "The Guardian",
       "published_at": "Sat, 15 Aug 2026 10:24:36 GMT",
@@ -131913,6 +132039,27 @@
       "title": "با تشدید حملات اسرائیل، هفت نفر در جنوب لبنان کشته شدند",
       "title_fa": "با تشدید حملات اسرائیل، هفت نفر در جنوب لبنان کشته شدند",
       "title_en": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "summary": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
+      "summary_fa": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
+      "summary_en": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 07:18:13 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "fc323f46670e15f92dcf7af8d90587e1",
+      "title": "حملات اسرائیل در جنوب لبنان با تشدید حملات 9 کشته برجای گذاشت",
+      "title_fa": "حملات اسرائیل در جنوب لبنان با تشدید حملات 9 کشته برجای گذاشت",
+      "title_en": "Israeli strikes kill nine in southern Lebanon as attacks intensify",
       "summary": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
       "summary_fa": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
       "summary_en": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
