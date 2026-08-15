@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 17:48:51",
-  "total_count": 10691,
+  "last_update": "2026-08-15 18:08:48",
+  "total_count": 10694,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130691,6 +130691,27 @@
       }
     },
     {
+      "id": "677ad85d06b0a158684d8a280252d9d8",
+      "title": "آتش نشانان با آتش سوزی جنگلی در منطقه حفاظت شده طبیعی بلژیک مبارزه می کنند",
+      "title_fa": "آتش نشانان با آتش سوزی جنگلی در منطقه حفاظت شده طبیعی بلژیک مبارزه می کنند",
+      "title_en": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "summary": "آتش سوزی در پارک بزرگ به عنوان بدترین آتش سوزی کشور در سال های اخیر توصیف شده است.",
+      "summary_fa": "آتش سوزی در پارک بزرگ به عنوان بدترین آتش سوزی کشور در سال های اخیر توصیف شده است.",
+      "summary_en": "The fire burning through the major park was described as the country's worst in recent years.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 17:47:42 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "fb716a9c4bd0340280a962e80ee1d2f1",
       "title": "پلیس می گوید پس از تیراندازی پنج نفر در دانشگاه ایالتی ویرجینیا، چندین مظنون آزاد شدند",
       "title_fa": "پلیس می گوید پس از تیراندازی پنج نفر در دانشگاه ایالتی ویرجینیا، چندین مظنون آزاد شدند",
@@ -130709,6 +130730,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0a25c7ff62abcf8a6e452d8e15011b59",
+      "title": "انتظار می رود طوفان استوایی لالا با نزدیک شدن به هاوایی تقویت شود",
+      "title_fa": "انتظار می رود طوفان استوایی لالا با نزدیک شدن به هاوایی تقویت شود",
+      "title_en": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "summary": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا طوفان انتظار می رود باران و باد شدید را به زنجیره جزیره بیاورد.",
+      "summary_fa": "مقامات به ساکنان هشدار می دهند که اقدامات احتیاطی را انجام دهند زیرا طوفان انتظار می رود باران و باد شدید را به زنجیره جزیره بیاورد.",
+      "summary_en": "Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 17:27:57 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f877df9416f771b9f1f6a53378d1df21",
+      "title": "واکنش برنهام نخست وزیر بریتانیا به مرگ استاد سابق کمبریج",
+      "title_fa": "واکنش برنهام نخست وزیر بریتانیا به مرگ استاد سابق کمبریج",
+      "title_en": "UK PM Burnham reacts to death of former Cambridge professor",
+      "summary": "جیسون آردی روز جمعه جسد پیدا شد، تنها چند روز پس از استعفای خود در میان بررسی های شدید بر روی کار آکادمیک او.",
+      "summary_fa": "جیسون آردی روز جمعه جسد پیدا شد، تنها چند روز پس از استعفای خود در میان بررسی های شدید بر روی کار آکادمیک او.",
+      "summary_en": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 17:19:12 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
