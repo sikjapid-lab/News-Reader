@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 23:10:46",
-  "total_count": 10732,
+  "last_update": "2026-08-15 23:36:06",
+  "total_count": 10734,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "73eba21420d84133c006f38a533cdfd2",
+      "title": "کلمبیا از ترامپ می‌خواهد که تعرفه‌های گمرکی را به دلیل عقب‌ماندن این کشور از زلزله متوقف کند",
+      "title_fa": "کلمبیا از ترامپ می‌خواهد که تعرفه‌های گمرکی را به دلیل عقب‌ماندن این کشور از زلزله متوقف کند",
+      "title_en": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+      "summary": "انتظار می رود بازسازی پس از زلزله حدود 6.4 میلیارد دلار هزینه داشته باشد، اما کلمبیا از تعرفه های جدید ایالات متحده آسیب دیده است.",
+      "summary_fa": "انتظار می رود بازسازی پس از زلزله حدود 6.4 میلیارد دلار هزینه داشته باشد، اما کلمبیا از تعرفه های جدید ایالات متحده آسیب دیده است.",
+      "summary_en": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 23:04:47 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "294d0c87ad03554e40c08249f5f4859d",
       "title": "اخبار استرالیا زنده: پائولین هانسون مخالف خرید عمده اسلحه است که در پی حمله تروریستی بوندی توافق شده است",
       "title_fa": "اخبار استرالیا زنده: پائولین هانسون مخالف خرید عمده اسلحه است که در پی حمله تروریستی بوندی توافق شده است",
@@ -130779,6 +130800,27 @@
       "title": "مرگ تکان دهنده محقق سیاه پوست در کمبریج - و فراتر از آن - طنین انداز شد",
       "title_fa": "مرگ تکان دهنده محقق سیاه پوست در کمبریج - و فراتر از آن - طنین انداز شد",
       "title_en": "Shocking death of Black scholar reverberates at Cambridge —  and well beyond",
+      "summary": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
+      "summary_fa": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
+      "summary_en": "The death of Jason Arday, 41, came a little more than a week after he resigned from his post at the university amid accusations of plagiarism that ignited a culture-war firestorm.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 21:36:18 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "1122b8074e87037f8fe0d5508f64fe76",
+      "title": "مرگ تکان دهنده استاد سابق در کمبریج - و فراتر از آن - طنین انداز شد",
+      "title_fa": "مرگ تکان دهنده استاد سابق در کمبریج - و فراتر از آن - طنین انداز شد",
+      "title_en": "Shocking death of former professor reverberates at Cambridge — and well beyond",
       "summary": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
       "summary_fa": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
       "summary_en": "The death of Jason Arday, 41, came a little more than a week after he resigned from his post at the university amid accusations of plagiarism that ignited a culture-war firestorm.",
