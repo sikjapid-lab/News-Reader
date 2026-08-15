@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 15:37:38",
-  "total_count": 10674,
+  "last_update": "2026-08-15 15:56:43",
+  "total_count": 10675,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130667,6 +130667,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "32c38d0aa9f22ddd306a7771cae638cb",
+      "title": "اوکراین کارخانه بزرگ موشک سازی روسیه را با موشک های کروز هدف قرار داد",
+      "title_fa": "اوکراین کارخانه بزرگ موشک سازی روسیه را با موشک های کروز هدف قرار داد",
+      "title_en": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "summary": "موشک های فلامینگو استفاده شد. دستاورد خوبی بود.",
+      "summary_fa": "موشک های فلامینگو استفاده شد. دستاورد خوبی بود.",
+      "summary_en": "\"Flamingo missiles were used. A good achievement.\"",
+      "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 15 Aug 2026 15:46:05 +0000",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
