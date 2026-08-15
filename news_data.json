@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 18:47:51",
-  "total_count": 10700,
+  "last_update": "2026-08-15 19:11:13",
+  "total_count": 10702,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "4a23919fc820bc3c98630c4149c8c15c",
+      "title": "فکر می کنید الان نرخ بهره بالاست؟ این نمودارها دیدگاه متفاوتی را ارائه می دهند.",
+      "title_fa": "فکر می کنید الان نرخ بهره بالاست؟ این نمودارها دیدگاه متفاوتی را ارائه می دهند.",
+      "title_en": "Think interest rates are high now? These charts offer a different perspective.",
+      "summary": "همچنین در خواندن آخر هفته: 10 بازار مسکن قابل توجه، انتخاب سهام و نبردهای بیمه سلامت.",
+      "summary_fa": "همچنین در خواندن آخر هفته: 10 بازار مسکن قابل توجه، انتخاب سهام و نبردهای بیمه سلامت.",
+      "summary_en": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 15 Aug 2026 19:01:00 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-48405375",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "74eca46b0c1a32672f11ab1e3f6bb4dc",
       "title": "لالیگا: نکات کلیدی رئال مادرید در آستانه فصل جدید 2026-27",
       "title_fa": "لالیگا: نکات کلیدی رئال مادرید در آستانه فصل جدید 2026-27",
@@ -133194,6 +133215,27 @@
       "title": "تهران: پس از هشدار ترامپ، تنگه هرمز «ایرانی خواهد ماند».",
       "title_fa": "تهران: پس از هشدار ترامپ، تنگه هرمز «ایرانی خواهد ماند».",
       "title_en": "Tehran: Strait of Hormuz 'will remain Iranian' after Trump warning",
+      "summary": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
+      "summary_fa": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
+      "summary_en": "Speaking in New York on Friday, Trump, with a chuckle, said: \"Pretty soon I'll be declaring the Hormuz Strait a territory of the United States.\"",
+      "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 09:04:58 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0892167b100848bd45ae3e8362ad11ad",
+      "title": "پس از اظهار نظر ترامپ در مورد اعلام تنگه هرمز، تهران می گوید «ایرانی می ماند»",
+      "title_fa": "پس از اظهار نظر ترامپ در مورد اعلام تنگه هرمز، تهران می گوید «ایرانی می ماند»",
+      "title_en": "After Trump comment on declaring Strait of Hormuz US territory, Tehran says it 'will remain Iranian'",
       "summary": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
       "summary_fa": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
       "summary_en": "Speaking in New York on Friday, Trump, with a chuckle, said: \"Pretty soon I'll be declaring the Hormuz Strait a territory of the United States.\"",
