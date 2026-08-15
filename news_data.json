@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 16:33:08",
-  "total_count": 10681,
+  "last_update": "2026-08-15 16:56:19",
+  "total_count": 10684,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130709,6 +130709,69 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4ed6b1bf0204a607d7aad9e7b2591ba6",
+      "title": "در پی زلزله ۷.۷ ریشتری اندونزی دست کم ۴۷ نفر کشته شدند",
+      "title_fa": "در پی زلزله ۷.۷ ریشتری اندونزی دست کم ۴۷ نفر کشته شدند",
+      "title_en": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
+      "summary": "این زمین لرزه حوالی ساعت 5 صبح و مرکز آن در سواحل جزیره فلورس در مجمع الجزایر زلزله خیز رخ داد.",
+      "summary_fa": "این زمین لرزه حوالی ساعت 5 صبح و مرکز آن در سواحل جزیره فلورس در مجمع الجزایر زلزله خیز رخ داد.",
+      "summary_en": "The earthquake took place around 5 a.m. and was centered off the coast of Flores Island in the quake-prone archipelago.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 16:42:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f603a63d7c0b89cd2f376ff3f092f017",
+      "title": "در پی آتش‌سوزی جنگلی در سواحل کرواسی، یک کشته و ده‌ها مجروح شدند",
+      "title_fa": "در پی آتش‌سوزی جنگلی در سواحل کرواسی، یک کشته و ده‌ها مجروح شدند",
+      "title_en": "One killed, dozens injured after wildfire hits Croatian coast",
+      "summary": "در پی وقوع آتش سوزی شدید در یک شهر ساحلی در کرواسی، حداقل یک نفر کشته و حدود 42 نفر دیگر زخمی شدند.",
+      "summary_fa": "در پی وقوع آتش سوزی شدید در یک شهر ساحلی در کرواسی، حداقل یک نفر کشته و حدود 42 نفر دیگر زخمی شدند.",
+      "summary_en": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 16:33:05 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ac55d37f92fe4d3134c4e0b4b288f5cb",
+      "title": "البرهان سودان متعهد به مصونیت گفت و گو شد و بازگشت همدی را رد کرد",
+      "title_fa": "البرهان سودان متعهد به مصونیت گفت و گو شد و بازگشت همدی را رد کرد",
+      "title_en": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+      "summary": "البرهان متعهد شد که برای شرکت کنندگان در گفتگوی ملی سودان مصونیت موقت و حمایت های قانونی داشته باشد.",
+      "summary_fa": "البرهان متعهد شد که برای شرکت کنندگان در گفتگوی ملی سودان مصونیت موقت و حمایت های قانونی داشته باشد.",
+      "summary_en": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 16:17:43 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
