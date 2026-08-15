@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 21:35:09",
-  "total_count": 10724,
+  "last_update": "2026-08-15 21:55:21",
+  "total_count": 10728,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130670,6 +130670,69 @@
       }
     },
     {
+      "id": "93be07c5856fac51beb52ace09c56a48",
+      "title": "امدادگران در جستجوی بازماندگان زلزله قدرتمند اندونزی هستند",
+      "title_fa": "امدادگران در جستجوی بازماندگان زلزله قدرتمند اندونزی هستند",
+      "title_en": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "مقامات می گویند ارزیابی سریع تاثیر زلزله ای که صدها ساختمان را ویران کرد و 47 نفر را کشت، در حال انجام است.",
+      "summary_fa": "مقامات می گویند ارزیابی سریع تاثیر زلزله ای که صدها ساختمان را ویران کرد و 47 نفر را کشت، در حال انجام است.",
+      "summary_en": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 21:49:12 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48e5724f9d457de70475143c033b80f0",
+      "title": "ایالت استرالیا پس از حمله به ساحل بوندی، خرید اسلحه را آغاز می کند",
+      "title_fa": "ایالت استرالیا پس از حمله به ساحل بوندی، خرید اسلحه را آغاز می کند",
+      "title_en": "Australian state to launch gun buyback after Bondi Beach attack",
+      "summary": "نیو ساوت ولز، جایی که حمله رخ داد، به صاحبان اسلحه پول نقد می دهد تا سلاح های گرم خود را کنار بگذارند.",
+      "summary_fa": "نیو ساوت ولز، جایی که حمله رخ داد، به صاحبان اسلحه پول نقد می دهد تا سلاح های گرم خود را کنار بگذارند.",
+      "summary_en": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 21:41:43 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "94b7d83759f2bffcc7bb4bf583cea1d0",
+      "title": "مرگ تکان دهنده محقق سیاه پوست در کمبریج - و فراتر از آن - طنین انداز شد",
+      "title_fa": "مرگ تکان دهنده محقق سیاه پوست در کمبریج - و فراتر از آن - طنین انداز شد",
+      "title_en": "Shocking death of Black scholar reverberates at Cambridge —  and well beyond",
+      "summary": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
+      "summary_fa": "مرگ جیسون آردی، 41 ساله، کمی بیش از یک هفته پس از استعفای وی از سمت خود در دانشگاه به دلیل اتهام سرقت ادبی رخ داد که آتش طوفان جنگ فرهنگی را برانگیخت.",
+      "summary_en": "The death of Jason Arday, 41, came a little more than a week after he resigned from his post at the university amid accusations of plagiarism that ignited a culture-war firestorm.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 21:36:18 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "9a3be500bbdfe6fd8cad555e8d2150ba",
       "title": "هاوایی برای اولین بار پس از 34 سال برای اولین بار توسط طوفان مستقیم مورد اصابت قرار می گیرد",
       "title_fa": "هاوایی برای اولین بار پس از 34 سال برای اولین بار توسط طوفان مستقیم مورد اصابت قرار می گیرد",
@@ -130929,6 +130992,27 @@
       "summary": "پلیس روز شنبه اعلام کرد که تعداد کشته شدگان به 68 نفر می رسد و 18 کودک در میان کشته شدگان واژگون شدن کشتی در دریاچه کاریبا هستند. پلیس روز شنبه اعلام کرد که 22 جسد دیگر پس از یک سانحه قایق در زیمبابوه پیدا شده است که تعداد کشته ها را به 68 نفر رساند. کشتی روز سه شنبه در دریاچه کاریبا در مرز با زامبیا واژگون شد. تحقیقات نشان داده است که در هنگام وزش باد شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
       "summary_fa": "پلیس روز شنبه اعلام کرد که تعداد کشته شدگان به 68 نفر می رسد و 18 کودک در میان کشته شدگان واژگون شدن کشتی در دریاچه کاریبا هستند. پلیس روز شنبه اعلام کرد که 22 جسد دیگر پس از یک سانحه قایق در زیمبابوه پیدا شده است که تعداد کشته ها را به 68 نفر رساند. کشتی روز سه شنبه در دریاچه کاریبا در مرز با زامبیا واژگون شد. تحقیقات نشان داده است که در هنگام وزش باد شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
       "summary_en": "Death toll now stands at 68, with 18 children being among the killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it went over during heavy winds. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 19:39:07 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c8b9c7441e2ca4d9a1995f915dd7740",
+      "title": "تعداد قربانیان حادثه قایق زیمبابوه به 68 نفر رسید و 22 جسد دیگر پیدا شدند",
+      "title_fa": "تعداد قربانیان حادثه قایق زیمبابوه به 68 نفر رسید و 22 جسد دیگر پیدا شدند",
+      "title_en": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "پلیس روز شنبه اعلام کرد: هجده کودک در میان افرادی که پس از واژگونی کشتی در دریاچه کاریبا جان خود را از دست دادند، 22 جسد دیگر پس از تصادف قایق در زیمبابوه پیدا شد و تعداد کشته شدگان به 68 نفر رسید. کشتی روز سه شنبه در دریاچه کاریبا، در مرز با زامبیا واژگون شد. تحقیقات نشان می‌دهد که در هنگام وزش بادهای شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
+      "summary_fa": "پلیس روز شنبه اعلام کرد: هجده کودک در میان افرادی که پس از واژگونی کشتی در دریاچه کاریبا جان خود را از دست دادند، 22 جسد دیگر پس از تصادف قایق در زیمبابوه پیدا شد و تعداد کشته شدگان به 68 نفر رسید. کشتی روز سه شنبه در دریاچه کاریبا، در مرز با زامبیا واژگون شد. تحقیقات نشان می‌دهد که در هنگام وزش بادهای شدید بیش از حد بارگذاری شده است. ادامه مطلب...",
+      "summary_en": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
       "source": "The Guardian",
       "published_at": "Sat, 15 Aug 2026 19:39:07 GMT",
