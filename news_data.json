@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 15:56:43",
-  "total_count": 10675,
+  "last_update": "2026-08-15 16:33:08",
+  "total_count": 10681,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,48 @@
       }
     },
     {
+      "id": "3cf53e6ca1ca84d104e9d4b9b658dffd",
+      "title": "خانواده دانشگاه فقید جیسون آردی \"کمپین آزار و اذیت\" علیه او را محکوم می کنند",
+      "title_fa": "خانواده دانشگاه فقید جیسون آردی \"کمپین آزار و اذیت\" علیه او را محکوم می کنند",
+      "title_en": "Deceased academic Jason Arday's family decries 'campaign of harassment' against him",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The academic was found dead a week after he quit his role as Cambridge University professor and Jesus College fellow after allegations he had plagiarised parts of his PhD thesis and embellished his life achievements.",
+      "link": "http://www.euronews.com/culture/2026/08/15/deceased-academic-jason-ardays-family-decries-campaign-of-harassment-against-him",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 18:03:41 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "60af755d2df4b54f8a971b0e19f56622",
+      "title": "آخرین بولتن اخبار | 15 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 15 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 15th, 2026 – Evening",
+      "summary": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "75d4f901b105b1a194297636f1b5046a",
       "title": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که به کشته شدن 11 تن منجر شد، پیام روشنی درباره مذاکرات است",
       "title_fa": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که به کشته شدن 11 تن منجر شد، پیام روشنی درباره مذاکرات است",
@@ -130662,6 +130704,48 @@
       "date_iso": "2026-08-15",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "37eb7fc3067ee1f363133c81f2fa009b",
+      "title": "اوکراین به شبکه استارلینک روسیه حمله می کند، مسکو بسته تسلیحاتی را دنبال می کند",
+      "title_fa": "اوکراین به شبکه استارلینک روسیه حمله می کند، مسکو بسته تسلیحاتی را دنبال می کند",
+      "title_en": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+      "summary": "اوکراین از موشک های فلامینگو تولید داخل برای هدف قرار دادن اهداف در منطقه سامارا در جنوب غربی روسیه استفاده کرد.",
+      "summary_fa": "اوکراین از موشک های فلامینگو تولید داخل برای هدف قرار دادن اهداف در منطقه سامارا در جنوب غربی روسیه استفاده کرد.",
+      "summary_en": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia's southwestern Samara region.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 15:50:06 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "c01203ced1330ed1138c2ba9d1dd5a78",
+      "title": "شهرک نشینان اسرائیلی خانواده های فلسطینی را در کرانه باختری اشغالی محاصره کردند",
+      "title_fa": "شهرک نشینان اسرائیلی خانواده های فلسطینی را در کرانه باختری اشغالی محاصره کردند",
+      "title_en": "Israeli settlers besiege Palestinian families in occupied West Bank",
+      "summary": "سه خانواده فلسطینی می گویند نزدیک به یک هفته است که در داخل خانه های خود در کرانه باختری اشغالی گیر افتاده اند.",
+      "summary_fa": "سه خانواده فلسطینی می گویند نزدیک به یک هفته است که در داخل خانه های خود در کرانه باختری اشغالی گیر افتاده اند.",
+      "summary_en": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 15:48:07 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 31.0461,
@@ -190896,6 +190980,27 @@
       }
     },
     {
+      "id": "36cde9f4d16176414235443d06712ba9",
+      "title": "نویسنده The Polygamist می گوید که زنان خود را در موفقیت او در نتفلیکس منعکس می کنند",
+      "title_fa": "نویسنده The Polygamist می گوید که زنان خود را در موفقیت او در نتفلیکس منعکس می کنند",
+      "title_en": "The Polygamist's author says women see themselves reflected in her Netflix hit",
+      "summary": "سو نیاتی، رمان‌نویس زیمبابوه‌ای، اولین رمان خود را سرمایه‌گذاری کرد و اکنون می‌پرسد چه کسی اصلاً می‌تواند بنویسد.",
+      "summary_fa": "سو نیاتی، رمان‌نویس زیمبابوه‌ای، اولین رمان خود را سرمایه‌گذاری کرد و اکنون می‌پرسد چه کسی اصلاً می‌تواند بنویسد.",
+      "summary_en": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 23:17:22 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebb/live/44b13670-91a2-11f1-964d-6f76397ea067.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "11579a92f79b2824372458961c6584ec",
       "title": "بسیاری از کانادایی ها ایالات متحده را تحریم می کنند، بنابراین به جای آن به اینجا سفر می کنند",
       "title_fa": "بسیاری از کانادایی ها ایالات متحده را تحریم می کنند، بنابراین به جای آن به اینجا سفر می کنند",
@@ -196787,6 +196892,27 @@
       "source": "Wired",
       "published_at": "Fri, 14 Aug 2026 10:00:00 +0000",
       "date_iso": "2026-08-14",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "61f074223b500e313e2656ac9ffc40d0",
+      "title": "در هفته مغز WIRED",
+      "title_fa": "در هفته مغز WIRED",
+      "title_en": "Inside WIRED’s Brain Week",
+      "summary": "در پنج داستان، ما به برخی از جذاب ترین جنبه های هوش انسان (و حیوان) نگاه می کنیم. از تحقیقات جدید اختاپوس گرفته تا دانشمندانی که از سلول‌های انسانی برای تامین انرژی رایانه‌ها استفاده می‌کنند تا درمان جدید امیدوارکننده برای اعتیاد، علم شناختی هوشمندتر می‌شود.",
+      "summary_fa": "در پنج داستان، ما به برخی از جذاب ترین جنبه های هوش انسان (و حیوان) نگاه می کنیم. از تحقیقات جدید اختاپوس گرفته تا دانشمندانی که از سلول‌های انسانی برای تامین انرژی رایانه‌ها استفاده می‌کنند تا درمان جدید امیدوارکننده برای اعتیاد، علم شناختی هوشمندتر می‌شود.",
+      "summary_en": "In five stories, we look at some of the most fascinating aspects of human (and animal) intelligence. From new octopus research, to the scientists using human cells to power computers, to a promising new treatment for addiction, cognitive science is getting smarter.",
+      "link": "https://www.wired.com/galaxy-brain/",
+      "source": "Wired",
+      "published_at": "Fri, 14 Aug 2026 10:00:00 +0000",
+      "date_iso": "2026-08-15",
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
