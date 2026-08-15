@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 05:04:23",
-  "total_count": 10503,
+  "last_update": "2026-08-15 05:37:19",
+  "total_count": 10516,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "b503c53b5cbfb541df7b3969cfd755e1",
+      "title": "جمعیت در مون بلان: آیا پیاده روی به زودی نیاز به رزرو دارد؟",
+      "title_fa": "جمعیت در مون بلان: آیا پیاده روی به زودی نیاز به رزرو دارد؟",
+      "title_en": "Crowds at Mont Blanc: will hiking soon require reservations?",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The Tour du Mont-Blanc is one of Europe’s most popular long-distance hiking routes, a 170-kilometre circuit through France, Italy and Switzerland that some 80,000 people walk each year, creating mounting problems.",
+      "link": "http://www.euronews.com/travel/2026/08/15/crowds-at-mont-blanc-will-hiking-soon-require-reservations",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 07:30:02 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "22a6edd9c8aea7196e4334e0f684cac0",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -130667,6 +130688,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "67585a475ae14d369ed4893c84bee5c0",
+      "title": "آخرین بولتن اخبار | 15 آگوست 2026 - صبح",
+      "title_fa": "آخرین بولتن اخبار | 15 آگوست 2026 - صبح",
+      "title_en": "Latest news bulletin | August 15th, 2026 – Morning",
+      "summary": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 15 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 07:00:33 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
       }
     },
     {
@@ -130709,6 +130751,153 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "3a3894d23c9ecde669eec7e242a56e0f",
+      "title": "چگونه یک پناهنده سودانی در اردوگاه چاد معلم شد",
+      "title_fa": "چگونه یک پناهنده سودانی در اردوگاه چاد معلم شد",
+      "title_en": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "summary": "صحرا که به دلیل جنگ سودان آواره شده است، اکنون یک مدرسه پناهندگان را اداره می کند که در آن آموزش به کودکان ایمنی و امید می دهد.",
+      "summary_fa": "صحرا که به دلیل جنگ سودان آواره شده است، اکنون یک مدرسه پناهندگان را اداره می کند که در آن آموزش به کودکان ایمنی و امید می دهد.",
+      "summary_en": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 05:14:40 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f5099b23829253d663b341e69c48dd8d",
+      "title": "مناظر سوخته اروپا پس از موج گرمای تابستان از فضا دیده می شود",
+      "title_fa": "مناظر سوخته اروپا پس از موج گرمای تابستان از فضا دیده می شود",
+      "title_en": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "summary": "BBC Verify تاثیر خشکسالی و گرمای شدید را بر رودخانه‌ها، مزارع و کوه‌های اروپای غربی بررسی می‌کند.",
+      "summary_fa": "BBC Verify تاثیر خشکسالی و گرمای شدید را بر رودخانه‌ها، مزارع و کوه‌های اروپای غربی بررسی می‌کند.",
+      "summary_en": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 05:01:13 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "d5421fc638f1736f345011ddfb76da0f",
+      "title": "نگرانی ها از افزایش روابط جهانی با طالبان در افغانستان افزایش می یابد",
+      "title_fa": "نگرانی ها از افزایش روابط جهانی با طالبان در افغانستان افزایش می یابد",
+      "title_en": "Concerns grow over increased global ties with Taliban in Afghanistan",
+      "summary": "مبارزان بیم آن دارند که تماس‌های دیپلماتیک عمیق‌تر تقاضاها برای بهبود حقوق بشر را تضعیف کند طالبان در افغانستان تلاش‌های دیپلماتیک را برای پایان دادن به انزوای خود آغاز کرده‌اند، زیرا قدرت‌های بزرگ منطقه‌ای و بین‌المللی آمادگی خود را برای تعامل بیشتر با رژیم سرکوبگر علیرغم نقض سیستماتیک حقوق بشر نشان می‌دهند. قدرت را در سال 2021 در کابل پس از 20 سال جنگ وحشیانه شورشیان به دست گرفت. ادامه مطلب...",
+      "summary_fa": "مبارزان بیم آن دارند که تماس‌های دیپلماتیک عمیق‌تر تقاضاها برای بهبود حقوق بشر را تضعیف کند طالبان در افغانستان تلاش‌های دیپلماتیک را برای پایان دادن به انزوای خود آغاز کرده‌اند، زیرا قدرت‌های بزرگ منطقه‌ای و بین‌المللی آمادگی خود را برای تعامل بیشتر با رژیم سرکوبگر علیرغم نقض سیستماتیک حقوق بشر نشان می‌دهند. قدرت را در سال 2021 در کابل پس از 20 سال جنگ وحشیانه شورشیان به دست گرفت. ادامه مطلب...",
+      "summary_en": "Campaigners fear deeper diplomatic contacts are undermining demands for improvements in human rights The Taliban in Afghanistan have launched a diplomatic effort to end their isolation as major regional and international powers show a readiness to engage more closely with the repressive regime despite its systematic human rights abuses.Five years after the Taliban took power, an increasing number of countries are renewing ties or scaling up diplomatic contacts with the hardline Islamists, who seized power in Kabul in 2021 after 20 years of brutal insurgent warfare. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 05:00:49 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a00bb7fceb915e0108c0489f2a825134df963bfa/233_0_2333_1867/master/2333.jpg?width=140&quality=85&auto=format&fit=max&s=a3a161bca8aa1578475140cd019dc592",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a684408d895c7ebb3a398bf27e6d10c",
+      "title": "\"قلب من به میلیون ها قطعه می شکند\": ادای احترام احساسی به کومانجی کوچولو در مراسم خاکسپاری آلیس اسپرینگز",
+      "title_fa": "\"قلب من به میلیون ها قطعه می شکند\": ادای احترام احساسی به کومانجی کوچولو در مراسم خاکسپاری آلیس اسپرینگز",
+      "title_en": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
+      "summary": "صدها نفر برای خداحافظی با دختر پنج ساله‌ای که گفته می‌شود در آوریل به قتل رسید، گرد هم آمدند. هشدار: این داستان حاوی ارجاعاتی به بومیان استرالیایی است که مرده‌اند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. یک سرویس تشییع جنازه کوچک برای کومانجی لیتل بیبی با حضور صدها نفر از مردم بهار و صدها نفر از مردم بهار و اطرافیان ما شرکت کرده‌اند. جمعیت با پوشیدن تی شرت هایی که چهره این دختر پنج ساله را نشان می داد، روز شنبه در زیر آسمان خاکستری پایتخت مرکز قرمز تجمع کردند. ادامه مطلب...",
+      "summary_fa": "صدها نفر برای خداحافظی با دختر پنج ساله‌ای که گفته می‌شود در آوریل به قتل رسید، گرد هم آمدند. هشدار: این داستان حاوی ارجاعاتی به بومیان استرالیایی است که مرده‌اند. ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. یک سرویس تشییع جنازه کوچک برای کومانجی لیتل بیبی با حضور صدها نفر از مردم بهار و صدها نفر از مردم بهار و اطرافیان ما شرکت کرده‌اند. جمعیت با پوشیدن تی شرت هایی که چهره این دختر پنج ساله را نشان می داد، روز شنبه در زیر آسمان خاکستری پایتخت مرکز قرمز تجمع کردند. ادامه مطلب...",
+      "summary_en": "Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in AprilWarning: This story contains references to Indigenous Australians who have diedGet our breaking news email, free app or daily news podcastA sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds.Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under grey skies in the red centre capital on Saturday. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 04:58:20 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/372ea1b2ce13adbf835ee67de609738e088051dc/114_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=0029f4a25a4b30afd1c8b32efda99d6f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72eed6314ff173a05407fbafd27c879b",
+      "title": "مراکش در بحبوحه درخواست ها برای عبور گسترده مهاجران، امنیت سئوتا را تقویت می کند",
+      "title_fa": "مراکش در بحبوحه درخواست ها برای عبور گسترده مهاجران، امنیت سئوتا را تقویت می کند",
+      "title_en": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 04:54:53 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc153b4d91aa0e782a6844bf04cd45a2",
+      "title": "زمین لرزه 7.7 ریشتری در اندونزی",
+      "title_fa": "زمین لرزه 7.7 ریشتری در اندونزی",
+      "title_en": "On the ground in Indonesia following 7.7 magnitude earthquake",
+      "summary": "زمین لرزه ای به بزرگی 7.7 ریشتر بامداد روز شنبه شرق اندونزی را لرزاند و دست کم پنج کشته بر جای گذاشت.",
+      "summary_fa": "زمین لرزه ای به بزرگی 7.7 ریشتر بامداد روز شنبه شرق اندونزی را لرزاند و دست کم پنج کشته بر جای گذاشت.",
+      "summary_en": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 04:49:47 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "efe81419614a297f1539682fd2c00828",
+      "title": "تایوان بودجه دفاعی را پس از تأخیر بی سابقه تصویب می کند و بودجه پهپادها را حفظ می کند",
+      "title_fa": "تایوان بودجه دفاعی را پس از تأخیر بی سابقه تصویب می کند و بودجه پهپادها را حفظ می کند",
+      "title_en": "Taiwan passes defence budget after record delay, retains drone funding",
+      "summary": "پارلمان تایوان به بن بست پایان می دهد و از تأمین مالی برنامه حیاتی هواپیماهای بدون سرنشین در بحبوحه افزایش تنش های بین تنگه ای با پکن اطمینان حاصل می کند.",
+      "summary_fa": "پارلمان تایوان به بن بست پایان می دهد و از تأمین مالی برنامه حیاتی هواپیماهای بدون سرنشین در بحبوحه افزایش تنش های بین تنگه ای با پکن اطمینان حاصل می کند.",
+      "summary_en": "Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.",
+      "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 04:44:14 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "پکن"
       }
     },
     {
@@ -130768,6 +130957,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "58127523bcfd9b5c606ba0ea0f5e389b",
+      "title": "در پی زلزله ۷.۷ ریشتری اندونزی پنج نفر کشته شدند",
+      "title_fa": "در پی زلزله ۷.۷ ریشتری اندونزی پنج نفر کشته شدند",
+      "title_en": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "summary": "زمین لرزه بامداد شنبه در جزیره فلورس در شرق این کشور رخ داد.",
+      "summary_fa": "زمین لرزه بامداد شنبه در جزیره فلورس در شرق این کشور رخ داد.",
+      "summary_en": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 04:12:55 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -131132,6 +131342,27 @@
       }
     },
     {
+      "id": "9dd4467525a1c201c1d9034baa4e7815",
+      "title": "زمین لرزه 7.7 ریشتری اندونزی حداقل پنج کشته بر جای گذاشت",
+      "title_fa": "زمین لرزه 7.7 ریشتری اندونزی حداقل پنج کشته بر جای گذاشت",
+      "title_en": "At least five killed as magnitude 7.7 quake hits Indonesia",
+      "summary": "انتظار می رود با ادامه تلاش تیم های اورژانس جستجو و نجات، تعداد کشته ها بیشتر شود.",
+      "summary_fa": "انتظار می رود با ادامه تلاش تیم های اورژانس جستجو و نجات، تعداد کشته ها بیشتر شود.",
+      "summary_en": "The death toll is expected to climb further as emergency teams continue search and rescue efforts.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 01:36:04 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "bbd132f4c62912ec0d4f2eecbaf9e8dd",
       "title": "مانژیون به دلیل اینکه قتل قطبی کننده مدیر عامل به مرحله جدیدی می رسد، به گناه خود اعتراف می کند",
       "title_fa": "مانژیون به دلیل اینکه قتل قطبی کننده مدیر عامل به مرحله جدیدی می رسد، به گناه خود اعتراف می کند",
@@ -131272,6 +131503,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3af92725ac974fe8bb2375ceace5b645",
+      "title": "آزمایش حشیش گزارش شده توسط خلبان ایر ایندیا: چه چیزی می تواند و چه چیزی نمی تواند به محققان بگوید",
+      "title_fa": "آزمایش حشیش گزارش شده توسط خلبان ایر ایندیا: چه چیزی می تواند و چه چیزی نمی تواند به محققان بگوید",
+      "title_en": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+      "summary": "یک آزمایش حشیش مثبت گزارش شده که شامل خلبان ایر ایندیا می‌شود، سؤالاتی را در مورد اینکه چنین نتیجه‌ای واقعاً می‌تواند به محققین بگوید، ایجاد می‌کند.",
+      "summary_fa": "یک آزمایش حشیش مثبت گزارش شده که شامل خلبان ایر ایندیا می‌شود، سؤالاتی را در مورد اینکه چنین نتیجه‌ای واقعاً می‌تواند به محققین بگوید، ایجاد می‌کند.",
+      "summary_en": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators.",
+      "link": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 00:01:44 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4f/live/345d95b0-97b1-11f1-bf42-fbbc01ed1ca6.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -187575,6 +187827,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "957460de1394e64c0660ef08927aaada",
+      "title": "خالق The Polygamist می گوید که زنان خود را در موفقیت او در نتفلیکس منعکس می کنند",
+      "title_fa": "خالق The Polygamist می گوید که زنان خود را در موفقیت او در نتفلیکس منعکس می کنند",
+      "title_en": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+      "summary": "سو نیاتی، رمان‌نویس زیمبابوه‌ای، اولین رمان خود را سرمایه‌گذاری کرد و اکنون می‌پرسد چه کسی اصلاً می‌تواند بنویسد.",
+      "summary_fa": "سو نیاتی، رمان‌نویس زیمبابوه‌ای، اولین رمان خود را سرمایه‌گذاری کرد و اکنون می‌پرسد چه کسی اصلاً می‌تواند بنویسد.",
+      "summary_en": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all.",
+      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 14 Aug 2026 23:17:22 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebb/live/44b13670-91a2-11f1-964d-6f76397ea067.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
