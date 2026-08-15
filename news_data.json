@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 08:36:39",
-  "total_count": 10546,
+  "last_update": "2026-08-15 09:02:01",
+  "total_count": 10550,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130733,6 +130733,69 @@
       }
     },
     {
+      "id": "0ea34b74a3fed9b3ef121d4049573fa4",
+      "title": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 38 کشته برجای گذاشت",
+      "title_fa": "زمین لرزه 7.7 ریشتری در اندونزی دست کم 38 کشته برجای گذاشت",
+      "title_en": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "summary": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_fa": "عملیات جستجو و نجات برای یافتن بازماندگان در فلورس، جزیره ای در شرق اندونزی در حال انجام است.",
+      "summary_en": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 08:52:55 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1cd84b1f7e8d5db29e5ba6062d40cfc0",
+      "title": "مرگ پروفسور سوالات سختی را برای کمبریج در مورد مسابقه و استخدام پشت سر گذاشت",
+      "title_fa": "مرگ پروفسور سوالات سختی را برای کمبریج در مورد مسابقه و استخدام پشت سر گذاشت",
+      "title_en": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "summary": "جیسون آردی، جوان‌ترین استاد سیاه‌پوست مدرسه، روز جمعه جسد پیدا شد. مدرسه یک سری هشدارها در مورد داستان زندگی و کار او را نادیده گرفت.",
+      "summary_fa": "جیسون آردی، جوان‌ترین استاد سیاه‌پوست مدرسه، روز جمعه جسد پیدا شد. مدرسه یک سری هشدارها در مورد داستان زندگی و کار او را نادیده گرفت.",
+      "summary_en": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 08:50:20 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9052b5b9b521ff403a8417df395401a8",
+      "title": "ونوس ویلیامز با خروج از اوپن سینسیناتی به 13 بازی باخت تنیس دست یافت.",
+      "title_fa": "ونوس ویلیامز با خروج از اوپن سینسیناتی به 13 بازی باخت تنیس دست یافت.",
+      "title_en": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+      "summary": "برنده هفت دوره گرند اسلم ونوس ویلیامز در دور اول مسابقات آزاد سینسیناتی با نتیجه 6-2 و 6-2 توسط امیلیانا آرانگو شکست خورد.",
+      "summary_fa": "برنده هفت دوره گرند اسلم ونوس ویلیامز در دور اول مسابقات آزاد سینسیناتی با نتیجه 6-2 و 6-2 توسط امیلیانا آرانگو شکست خورد.",
+      "summary_en": "Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 08:32:07 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "8f06efbfd84d86f77e2c54f11ce82d97",
       "title": "ویروس‌های روده در حال توسعه ترفندهای جدیدی برای غلبه بر باکتری‌ها هستند - و می‌توانند به مبارزه با ابر میکروب‌ها کمک کنند",
       "title_fa": "ویروس‌های روده در حال توسعه ترفندهای جدیدی برای غلبه بر باکتری‌ها هستند - و می‌توانند به مبارزه با ابر میکروب‌ها کمک کنند",
@@ -130751,6 +130814,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e0433a7728c502ec4efd8b42b514832f",
+      "title": "زنان بزرگترین پروژه رودخانه هند را فراموش کرد",
+      "title_fa": "زنان بزرگترین پروژه رودخانه هند را فراموش کرد",
+      "title_en": "The women India’s biggest river project forgot",
+      "summary": "از آنجایی که سد کن-بتوا هزاران نفر را آواره می کند، حمایت های قانونی در مورد غرامت نادیده گرفته می شود.",
+      "summary_fa": "از آنجایی که سد کن-بتوا هزاران نفر را آواره می کند، حمایت های قانونی در مورد غرامت نادیده گرفته می شود.",
+      "summary_en": "As the Ken-Betwa dam displaces thousands, legal protections on compensation are being ignored.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 08:22:09 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
