@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 23:36:06",
-  "total_count": 10734,
+  "last_update": "2026-08-15 23:56:13",
+  "total_count": 10736,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130642,6 +130642,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "323931aab5b80beb34a1c659c57f9fde",
+      "title": "دولت یمن می گوید حملات حوثی ها به مناطق مسکونی در مأرب حمله کردند",
+      "title_fa": "دولت یمن می گوید حملات حوثی ها به مناطق مسکونی در مأرب حمله کردند",
+      "title_en": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+      "summary": "وزارت اطلاعات یمن حملات به مارب را به‌عنوان «تشدید تنش» محکوم می‌کند که جان انسان‌ها را تهدید می‌کند و رنج را افزایش می‌دهد.",
+      "summary_fa": "وزارت اطلاعات یمن حملات به مارب را به‌عنوان «تشدید تنش» محکوم می‌کند که جان انسان‌ها را تهدید می‌کند و رنج را افزایش می‌دهد.",
+      "summary_en": "Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 23:27:10 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b9da258185be63db9483c8a23569e8fe",
+      "title": "گزارش ها حاکی از آن است که حداقل پنج نفر در اثر سیل در ایالت ایندیانا آمریکا کشته شده اند",
+      "title_fa": "گزارش ها حاکی از آن است که حداقل پنج نفر در اثر سیل در ایالت ایندیانا آمریکا کشته شده اند",
+      "title_en": "At least five reported dead amid flooding in US state of Indiana",
+      "summary": "فرماندار ایالت ایندیانا می گوید که دولت آمریکا پس از یک هفته بارندگی شدید قول کمک داده است.",
+      "summary_fa": "فرماندار ایالت ایندیانا می گوید که دولت آمریکا پس از یک هفته بارندگی شدید قول کمک داده است.",
+      "summary_en": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 23:19:34 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
