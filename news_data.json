@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 17:25:58",
-  "total_count": 10689,
+  "last_update": "2026-08-15 17:48:51",
+  "total_count": 10691,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130688,6 +130688,48 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "fb716a9c4bd0340280a962e80ee1d2f1",
+      "title": "پلیس می گوید پس از تیراندازی پنج نفر در دانشگاه ایالتی ویرجینیا، چندین مظنون آزاد شدند",
+      "title_fa": "پلیس می گوید پس از تیراندازی پنج نفر در دانشگاه ایالتی ویرجینیا، چندین مظنون آزاد شدند",
+      "title_en": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "summary": "پلیس در حدود ساعت 01:28 به وقت محلی (05:28 به وقت گرینویچ) روز شنبه به گزارش‌هایی مبنی بر تیراندازی در خارج از خانه‌های مسکونی پاسخ داد.",
+      "summary_fa": "پلیس در حدود ساعت 01:28 به وقت محلی (05:28 به وقت گرینویچ) روز شنبه به گزارش‌هایی مبنی بر تیراندازی در خارج از خانه‌های مسکونی پاسخ داد.",
+      "summary_en": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 15 Aug 2026 17:42:36 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed3d6b21832349a14b9a97f5941473b1",
+      "title": "جسدی در رومانی پیدا شد که گمان می رود کوهنورد بریتانیایی جورج اسمیت گم شده باشد",
+      "title_fa": "جسدی در رومانی پیدا شد که گمان می رود کوهنورد بریتانیایی جورج اسمیت گم شده باشد",
+      "title_en": "Body found in Romania believed to be missing British hiker George Smyth",
+      "summary": "پلیس انگلیس گفت: پس از اطلاع پلیس آون و سامرست، خانواده ای به دانشجوی 18 ساله زمین شناسی دانشگاه بریستول ادای احترام کردند. پلیس انگلیس گفت: جورج اسمیت، دانشجوی زمین شناسی در دانشگاه بریستول، در ماه نوامبر ناپدید شد. ادامه مطلب...",
+      "summary_fa": "پلیس انگلیس گفت: پس از اطلاع پلیس آون و سامرست، خانواده ای به دانشجوی 18 ساله زمین شناسی دانشگاه بریستول ادای احترام کردند. پلیس انگلیس گفت: جورج اسمیت، دانشجوی زمین شناسی در دانشگاه بریستول، در ماه نوامبر ناپدید شد. ادامه مطلب...",
+      "summary_en": "Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset policeA body has been found in the search for an 18-year-old British man who went missing last year while hiking in Romania, UK police said.George Smyth, a geology student at the University of Bristol, went missing in November. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "source": "The Guardian",
+      "published_at": "Sat, 15 Aug 2026 17:14:38 GMT",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4516aec85e490feead66b84befd7985ae5d7c615/0_26_586_469/master/586.jpg?width=140&quality=85&auto=format&fit=max&s=7e0de11731e30d14518cc78fadfb6c16",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
