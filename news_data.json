@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 10:30:46",
-  "total_count": 10579,
+  "last_update": "2026-08-15 10:53:51",
+  "total_count": 10585,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "8b1504ae1ab4ccb41e61fef164625e3a",
+      "title": "اوکراین می گوید به مرکز «موشک و فضایی» روسیه اصابت کرده است",
+      "title_fa": "اوکراین می گوید به مرکز «موشک و فضایی» روسیه اصابت کرده است",
+      "title_en": "Ukraine says it has struck Russian 'rocket and space' centre",
+      "summary": "به گفته زلنسکی، حملات بیشتری به پایگاه هوایی ساواسلیکا - که اوکراین گفته است هواپیماهای مورد استفاده برای حملات موشکی قرار داشت - و یک تاسیسات نفتی در اوست-لوگا انجام شد.",
+      "summary_fa": "به گفته زلنسکی، حملات بیشتری به پایگاه هوایی ساواسلیکا - که اوکراین گفته است هواپیماهای مورد استفاده برای حملات موشکی قرار داشت - و یک تاسیسات نفتی در اوست-لوگا انجام شد.",
+      "summary_en": "Additional strikes were carried out on Savasleyka air base - which Ukraine said housed aircraft used for missile attacks - and an oil facility in Ust-Luga, per Zelenskyy.",
+      "link": "http://www.euronews.com/my-europe/2026/08/15/ukraine-says-it-has-struck-russian-rocket-and-space-centre",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 12:39:04 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "2c2da1ffc0d178c7768b23743a19793a",
       "title": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
       "title_fa": "آخرین بولتن اخبار | 15 آگوست 2026 - ظهر",
@@ -130691,6 +130712,69 @@
       }
     },
     {
+      "id": "0042b19e8ade3cbe1568df70c5c2ab93",
+      "title": "آرسنال مقابل منچسترسیتی: Community Shield – پیش بینی، ترکیب، تیم ها",
+      "title_fa": "آرسنال مقابل منچسترسیتی: Community Shield – پیش بینی، ترکیب، تیم ها",
+      "title_en": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+      "summary": "آرسنال، قهرمان لیگ برتر و منچسترسیتی، دارنده جام حذفی، آماده می شوند تا با نزدیک شدن به فصل لیگ برتر انگلیس، ضربات خود را جبران کنند.",
+      "summary_fa": "آرسنال، قهرمان لیگ برتر و منچسترسیتی، دارنده جام حذفی، آماده می شوند تا با نزدیک شدن به فصل لیگ برتر انگلیس، ضربات خود را جبران کنند.",
+      "summary_en": "Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 10:43:09 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c5bfcdf54b7a699dac5f4f9aa8154328",
+      "title": "Instapaper، برنامه اصلی Read-It-Later، به تازگی یک ارتقاء عظیم دریافت کرده است",
+      "title_fa": "Instapaper، برنامه اصلی Read-It-Later، به تازگی یک ارتقاء عظیم دریافت کرده است",
+      "title_en": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+      "summary": "فونت‌های جدید، سفارشی‌سازی بهتر و طرح‌بندی کاملاً جدید، همگی ارزش پاک کردن حساب Instapaper خود را دارند.",
+      "summary_fa": "فونت‌های جدید، سفارشی‌سازی بهتر و طرح‌بندی کاملاً جدید، همگی ارزش پاک کردن حساب Instapaper خود را دارند.",
+      "summary_en": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+      "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+      "source": "Wired",
+      "published_at": "Sat, 15 Aug 2026 10:30:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7b890997e1a7b29a51689ef7c9a14151",
+      "title": "6 بهترین لوازم جانبی اپل واچ برای ارتقاء ساعت (2026)",
+      "title_fa": "6 بهترین لوازم جانبی اپل واچ برای ارتقاء ساعت (2026)",
+      "title_en": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
+      "summary": "اینها لوازم جانبی اپل واچ هستند که توصیه می کنم به تنظیمات خود اضافه کنید.",
+      "summary_fa": "اینها لوازم جانبی اپل واچ هستند که توصیه می کنم به تنظیمات خود اضافه کنید.",
+      "summary_en": "These are the Apple Watch accessories I recommend adding to your setup.",
+      "link": "https://www.wired.com/story/best-apple-watch-accessories/",
+      "source": "Wired",
+      "published_at": "Sat, 15 Aug 2026 10:30:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ab444f021d680fdf1ad353c39a48223b",
       "title": "زمین لرزه 7.7 ریشتری شرق اندونزی را لرزاند و دست کم 38 کشته بر جای گذاشت.",
       "title_fa": "زمین لرزه 7.7 ریشتری شرق اندونزی را لرزاند و دست کم 38 کشته بر جای گذاشت.",
@@ -130709,6 +130793,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "b1b90776da306620904cbf8997566cb8",
+      "title": "در صحنه حمله مرگبار اسرائیل به خانه لبنان",
+      "title_fa": "در صحنه حمله مرگبار اسرائیل به خانه لبنان",
+      "title_en": "At scene of deadly Israeli strike on Lebanon home",
+      "summary": "حمله شبانه رژیم صهیونیستی به یک خانه خانوادگی در انصار در جنوب لبنان دست کم هفت کشته برجای گذاشت.",
+      "summary_fa": "حمله شبانه رژیم صهیونیستی به یک خانه خانوادگی در انصار در جنوب لبنان دست کم هفت کشته برجای گذاشت.",
+      "summary_en": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 10:18:40 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -132284,6 +132389,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "e57ef7e03f9e1d094c04d86d30b3de64",
+      "title": "چگونه برنهام می تواند مغازه های فرار مالیاتی بریتانیا را مهار کند",
+      "title_fa": "چگونه برنهام می تواند مغازه های فرار مالیاتی بریتانیا را مهار کند",
+      "title_en": "How Burnham can curb Britain’s tax-dodging shops",
+      "summary": "نخست وزیر یک ترفند ساده را در کمپین خود برای احیای خیابان های بزرگ از دست داده است: اجرای قوانین اساسی کسب و کار",
+      "summary_fa": "نخست وزیر یک ترفند ساده را در کمپین خود برای احیای خیابان های بزرگ از دست داده است: اجرای قوانین اساسی کسب و کار",
+      "summary_en": "The prime minister is missing a simple trick in his campaign to revive high streets: enforcing the basic laws of doing business",
+      "link": "https://www.ft.com/content/936c1856-a049-4d3e-be1c-7cd6269f6bcf",
+      "source": "Financial Times",
+      "published_at": "Sat, 15 Aug 2026 04:00:23 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3fa14ca3-964a-44f1-9cc0-545308532fa7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
