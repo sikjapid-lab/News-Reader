@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 21:55:21",
-  "total_count": 10728,
+  "last_update": "2026-08-15 22:25:54",
+  "total_count": 10730,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "fe9cc3f2178224b09340e22a532d3ed8",
+      "title": "چرا آخرین شیوع ابولا در حال بدتر شدن است؟",
+      "title_fa": "چرا آخرین شیوع ابولا در حال بدتر شدن است؟",
+      "title_en": "Why is the latest Ebola outbreak worsening?",
+      "summary": "انتشار ویروس در DRC سریعتر از تلاش های مهار",
+      "summary_fa": "انتشار ویروس در DRC سریعتر از تلاش های مهار",
+      "summary_en": "Virus spreading in DRC faster than containment efforts.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 22:00:42 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d80aa25e28799ccfdd67e02d03af7e31",
       "title": "بلندترین مجسمه مریم باکره اروپا در دهکده لهستانی رونمایی شد",
       "title_fa": "بلندترین مجسمه مریم باکره اروپا در دهکده لهستانی رونمایی شد",
@@ -209537,6 +209558,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76399de90cde1763f8ea2b1b26d9c152",
+      "title": "مت گرونینگ اجازه می‌دهد که Simpsons: Hit &#038; Run ممکن است بازگشتی داشته باشد",
+      "title_fa": "مت گرونینگ اجازه می‌دهد که Simpsons: Hit &#038; Run ممکن است بازگشتی داشته باشد",
+      "title_en": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+      "summary": "در D23، هنگامی که از مت گرونینگ در مورد پتانسیل ساخت دنباله‌ای بر بازی کلاسیک The Simpsons: Hit & Run پرسیده شد، قبل از اینکه مت سلمن، مجری فعلی برنامه اضافه کند، پاسخ داد: \"فکر می‌کنم بازی اصلی به شکلی بازمی‌گردد.\" لحن هر دوی آنها و زبان بدن نشان می دهد که […]",
+      "summary_fa": "در D23، هنگامی که از مت گرونینگ در مورد پتانسیل ساخت دنباله‌ای بر بازی کلاسیک The Simpsons: Hit & Run پرسیده شد، قبل از اینکه مت سلمن، مجری فعلی برنامه اضافه کند، پاسخ داد: \"فکر می‌کنم بازی اصلی به شکلی بازمی‌گردد.\" لحن هر دوی آنها و زبان بدن نشان می دهد که […]",
+      "summary_en": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that […]",
+      "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "source": "The Verge",
+      "published_at": "2026-08-15T17:56:13-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
