@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 14:50:39",
-  "total_count": 10663,
+  "last_update": "2026-08-15 15:11:52",
+  "total_count": 10671,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130649,6 +130649,27 @@
       }
     },
     {
+      "id": "75d4f901b105b1a194297636f1b5046a",
+      "title": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که به کشته شدن 11 تن منجر شد، پیام روشنی درباره مذاکرات است",
+      "title_fa": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که به کشته شدن 11 تن منجر شد، پیام روشنی درباره مذاکرات است",
+      "title_en": "Lebanon president says Israeli strikes that killed 11 send 'clear message' on negotiations",
+      "summary": "حزب الله در بیانیه ای در روز شنبه هشدار داد که حملات اخیر اسرائیل \"با پاسخ مناسب مواجه خواهد شد.\"",
+      "summary_fa": "حزب الله در بیانیه ای در روز شنبه هشدار داد که حملات اخیر اسرائیل \"با پاسخ مناسب مواجه خواهد شد.\"",
+      "summary_en": "In a statement on Saturday, Hezbollah warned that the latest Israeli attacks would \"be met with an appropriate response.\"",
+      "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 16:52:09 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "b8184f7d7c584d8202847ae273ff0e1e",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -130667,6 +130688,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "f20682fae69d299fe64bf5a51e433dbe",
+      "title": "ایران می گوید قطر سه خلبان خود را در اوایل جنگ با آمریکا به اسارت گرفته است.",
+      "title_fa": "ایران می گوید قطر سه خلبان خود را در اوایل جنگ با آمریکا به اسارت گرفته است.",
+      "title_en": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+      "summary": "ایران گفت که این افراد از 2 مارس که جت های جنگنده آنها سرنگون شد در بازداشت بوده اند. دولت قطر اظهار نظری نکرده است.",
+      "summary_fa": "ایران گفت که این افراد از 2 مارس که جت های جنگنده آنها سرنگون شد در بازداشت بوده اند. دولت قطر اظهار نظری نکرده است.",
+      "summary_en": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.",
+      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "source": "NY Times",
+      "published_at": "Sat, 15 Aug 2026 14:52:47 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -130704,6 +130746,27 @@
       "date_iso": "2026-08-15",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3113b221d5de89f0ed89a91edf1c2a8f",
+      "title": "جنگ بعدی یمن ممکن است متفاوت باشد",
+      "title_fa": "جنگ بعدی یمن ممکن است متفاوت باشد",
+      "title_en": "The next Yemen war might be different",
+      "summary": "هواپیماهای بدون سرنشین دیگر مزیتی برای یک طرف نیستند.",
+      "summary_fa": "هواپیماهای بدون سرنشین دیگر مزیتی برای یک طرف نیستند.",
+      "summary_en": "Drones are no longer the advantage for only one side.",
+      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 14:32:07 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -131846,6 +131909,27 @@
       }
     },
     {
+      "id": "a51cb3c07ff3817436e3f58116a0a75f",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Labour’s rental reforms disrupt student market and lengthen lettings process",
+      "summary": "قانون حقوق اجاره‌نشینان، دانشجویان بین‌المللی را از بازار مسکن محروم می‌کند در حالی که مستاجران احتمالی را به سمت اجاره مضاعف سوق می‌دهد.",
+      "summary_fa": "قانون حقوق اجاره‌نشینان، دانشجویان بین‌المللی را از بازار مسکن محروم می‌کند در حالی که مستاجران احتمالی را به سمت اجاره مضاعف سوق می‌دهد.",
+      "summary_en": "Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents",
+      "link": "https://www.ft.com/content/1c5f8995-ee2f-47cf-977b-69e65f0a8ccc",
+      "source": "Financial Times",
+      "published_at": "Sat, 15 Aug 2026 11:00:03 GMT",
+      "date_iso": "2026-08-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F534b1dec-5557-4894-b941-b391d3376041.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1b21e18121d644f0236571934a460f88",
       "title": "«هیندنبورگ فال» همچنان چشمک می زند. آیا سرمایه گذاران باید نگران سقوط بازار سهام باشند؟",
       "title_fa": "«هیندنبورگ فال» همچنان چشمک می زند. آیا سرمایه گذاران باید نگران سقوط بازار سهام باشند؟",
@@ -132263,6 +132347,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "c79687fd8fd1aab817bb536420326cea",
+      "title": "رقابت آمریکا و کانادا برای جلوگیری از تهدید ترامپ مبنی بر تعرفه های 50 درصدی برای توافق",
+      "title_fa": "رقابت آمریکا و کانادا برای جلوگیری از تهدید ترامپ مبنی بر تعرفه های 50 درصدی برای توافق",
+      "title_en": "U.S., Canada race for deal to avert Trump’s threat of 50 percent tariffs",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The tariffs are the latest exchange in a dispute that has disrupted the once harmonious — and nearly tariff-free — relationship over the past year.",
+      "link": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 10:00:01 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -133113,6 +133218,27 @@
       "summary": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
       "summary_fa": "مرگبارترین حمله اسرائیل در لبنان از زمان توافقات ژوئن به طور قابل توجهی باعث کاهش خصومت ها شد.",
       "summary_en": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 07:18:13 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "390be9ee305ec0d5bb7d8bda8116c008",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
+      "summary": "حزب الله هشدار داده است که حملات اسرائیل با \"پاسخ مناسب\" مواجه خواهد شد.",
+      "summary_fa": "حزب الله هشدار داده است که حملات اسرائیل با \"پاسخ مناسب\" مواجه خواهد شد.",
+      "summary_en": "Hezbollah has warned that Israel’s attacks would be met with an 'appropriate response'.",
       "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sat, 15 Aug 2026 07:18:13 +0000",
@@ -208256,6 +208382,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bf333d6e8b7e2a74d0cd8e54aad51c96",
+      "title": "نیت اسلون پاپ را روشن کرده و چارلی هاردینگ عاشق سبزیجات تازه و پدال‌های گیتار هستند.",
+      "title_fa": "نیت اسلون پاپ را روشن کرده و چارلی هاردینگ عاشق سبزیجات تازه و پدال‌های گیتار هستند.",
+      "title_en": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "summary": "همانطور که اگر به دلیل بیشتری برای دوست داشتن \"Call Me Maybe\" کارلی رای جپسن فراتر از کمال پاپ آن نیاز داشتید، همچنین طبق روایات، پیدایش Switched on Pop، یکی از بهترین پادکست های موسیقی موجود است. نیت اسلون و چارلی هاردینگ، دو مجری، آهنگ‌های پاپ را از تئوری پشت انتخاب‌های موسیقی‌شان جدا می‌کنند.",
+      "summary_fa": "همانطور که اگر به دلیل بیشتری برای دوست داشتن \"Call Me Maybe\" کارلی رای جپسن فراتر از کمال پاپ آن نیاز داشتید، همچنین طبق روایات، پیدایش Switched on Pop، یکی از بهترین پادکست های موسیقی موجود است. نیت اسلون و چارلی هاردینگ، دو مجری، آهنگ‌های پاپ را از تئوری پشت انتخاب‌های موسیقی‌شان جدا می‌کنند.",
+      "summary_en": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices […]",
+      "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "source": "The Verge",
+      "published_at": "2026-08-15T11:00:00-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2acdaa12c2659c97d7042077b601ed9e",
+      "title": "Star Wars: Ahsoka فصل 2 و Starfighter در D23 مورد تمسخر قرار می گیرند",
+      "title_fa": "Star Wars: Ahsoka فصل 2 و Starfighter در D23 مورد تمسخر قرار می گیرند",
+      "title_en": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+      "summary": "فصل دوم جنگ ستارگان: آهسوکا هنوز چند ماه دیگر باقی مانده است، اما لوکاس فیلم همچنان از این فرصت استفاده کرد و کمی آن را در D23 کنایه زد. این شرکت اولین تریلر فصل جدید را قبل از اولین نمایش خود در 20 ژانویه 2027 منتشر کرد. این کلیپ برداشتی تاریک تر و پر از جادوگری از جهان جنگ ستارگان را نشان می دهد، با گراندادمیرال […]",
+      "summary_fa": "فصل دوم جنگ ستارگان: آهسوکا هنوز چند ماه دیگر باقی مانده است، اما لوکاس فیلم همچنان از این فرصت استفاده کرد و کمی آن را در D23 کنایه زد. این شرکت اولین تریلر فصل جدید را قبل از اولین نمایش خود در 20 ژانویه 2027 منتشر کرد. این کلیپ برداشتی تاریک تر و پر از جادوگری از جهان جنگ ستارگان را نشان می دهد، با گراندادمیرال […]",
+      "summary_en": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral […]",
+      "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+      "source": "The Verge",
+      "published_at": "2026-08-15T10:58:27-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
