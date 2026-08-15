@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 16:56:19",
-  "total_count": 10684,
+  "last_update": "2026-08-15 17:25:58",
+  "total_count": 10689,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130712,6 +130712,27 @@
       }
     },
     {
+      "id": "39b6c3f3bcec4385a8f862bf65e6fa9d",
+      "title": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که ۱۱ کشته برجای گذاشت «پیام روشن» در مذاکرات است",
+      "title_fa": "رئیس‌جمهور لبنان می‌گوید حملات اسرائیل که ۱۱ کشته برجای گذاشت «پیام روشن» در مذاکرات است",
+      "title_en": "Israeli strikes that killed 11 send 'clear message' on negotiations, says Lebanese president",
+      "summary": "حزب الله در بیانیه ای در روز شنبه هشدار داد که حملات اخیر اسرائیل \"با پاسخ مناسب مواجه خواهد شد.\"",
+      "summary_fa": "حزب الله در بیانیه ای در روز شنبه هشدار داد که حملات اخیر اسرائیل \"با پاسخ مناسب مواجه خواهد شد.\"",
+      "summary_en": "In a statement on Saturday, Hezbollah warned that the latest Israeli attacks would \"be met with an appropriate response.\"",
+      "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 16:52:09 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "4ed6b1bf0204a607d7aad9e7b2591ba6",
       "title": "در پی زلزله ۷.۷ ریشتری اندونزی دست کم ۴۷ نفر کشته شدند",
       "title_fa": "در پی زلزله ۷.۷ ریشتری اندونزی دست کم ۴۷ نفر کشته شدند",
@@ -130725,6 +130746,27 @@
       "date_iso": "2026-08-15",
       "category": "سیاست",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f14aed0ffc020b7ff2e78cdd4da7275d",
+      "title": "اردوغان می گوید مصر می تواند به پیمان دفاعی ترکیه، عربستان و پاکستان بپیوندد",
+      "title_fa": "اردوغان می گوید مصر می تواند به پیمان دفاعی ترکیه، عربستان و پاکستان بپیوندد",
+      "title_en": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "summary": "رئیس جمهور ترکیه به الجزیره می گوید که توافقنامه اخیراً امضا شده برای اعضای جدید باز است زیرا او متعهد به ادامه حمایت می شود.",
+      "summary_fa": "رئیس جمهور ترکیه به الجزیره می گوید که توافقنامه اخیراً امضا شده برای اعضای جدید باز است زیرا او متعهد به ادامه حمایت می شود.",
+      "summary_en": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 16:39:52 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -132917,6 +132959,27 @@
       }
     },
     {
+      "id": "44557e4790155322addeb504a7748719",
+      "title": "تهران: پس از هشدار ترامپ، تنگه هرمز «ایرانی خواهد ماند».",
+      "title_fa": "تهران: پس از هشدار ترامپ، تنگه هرمز «ایرانی خواهد ماند».",
+      "title_en": "Tehran: Strait of Hormuz 'will remain Iranian' after Trump warning",
+      "summary": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
+      "summary_fa": "ترامپ روز جمعه در نیویورک با خنده گفت: به زودی تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.",
+      "summary_en": "Speaking in New York on Friday, Trump, with a chuckle, said: \"Pretty soon I'll be declaring the Hormuz Strait a territory of the United States.\"",
+      "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 09:04:58 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "fe407ab5e803b9cb6d582f95a5dcaee9",
       "title": "درخواست کانادا برای اخراج پیت هوکسترا سفیر ایالات متحده آغاز شد",
       "title_fa": "درخواست کانادا برای اخراج پیت هوکسترا سفیر ایالات متحده آغاز شد",
@@ -133103,6 +133166,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "6998330818ffb17f8562c5b66ecd2430",
+      "title": "پناهگاه نازی ها مانع طرح های مسکن برلین می شود",
+      "title_fa": "پناهگاه نازی ها مانع طرح های مسکن برلین می شود",
+      "title_en": "A Nazi bunker stands in the way of Berlin’s housing plans",
+      "summary": "طرحی برای ساخت آپارتمان‌ها بر فراز این پناهگاه بحث‌هایی را برانگیخته است که چگونه آلمان باید به تاریخ پیچیده‌اش در دوران آدولف هیتلر بپردازد.",
+      "summary_fa": "طرحی برای ساخت آپارتمان‌ها بر فراز این پناهگاه بحث‌هایی را برانگیخته است که چگونه آلمان باید به تاریخ پیچیده‌اش در دوران آدولف هیتلر بپردازد.",
+      "summary_en": "A plan to build apartments over the bunker is igniting debate on how Germany should address its complex history under Adolf Hitler.",
+      "link": "https://www.washingtonpost.com/world/2026/08/15/plan-build-apartments-over-nazi-bunker-reignites-debate-berlin/",
+      "source": "Washington Post",
+      "published_at": "Sat, 15 Aug 2026 09:00:00 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -208655,6 +208739,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dc24754f227d8b66e46a3bf070589948",
+      "title": "آلات موسیقی الکترونیک ارزان قیمت Elektron را نادیده نگیرید",
+      "title_fa": "آلات موسیقی الکترونیک ارزان قیمت Elektron را نادیده نگیرید",
+      "title_en": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "summary": "وقتی از من می‌پرسند که اگر می‌خواهید وارد ساخت موسیقی الکترونیک شوید، چه چیزی بخرید، من اغلب مدل‌های Electron's Model:Samples و Model:Cycles را پیشنهاد می‌کنم. آن‌ها مانند تجهیزات Teenage Engineering یا Telepathic Instruments Orchid سرفصل‌ها را نمی‌بینند، و حتی در مقایسه با ارائه‌های موسیقی پیشرفته‌تر و خاص‌تر این شرکت مانند Digitakt، Octatrack، […]",
+      "summary_fa": "وقتی از من می‌پرسند که اگر می‌خواهید وارد ساخت موسیقی الکترونیک شوید، چه چیزی بخرید، من اغلب مدل‌های Electron's Model:Samples و Model:Cycles را پیشنهاد می‌کنم. آن‌ها مانند تجهیزات Teenage Engineering یا Telepathic Instruments Orchid سرفصل‌ها را نمی‌بینند، و حتی در مقایسه با ارائه‌های موسیقی پیشرفته‌تر و خاص‌تر این شرکت مانند Digitakt، Octatrack، […]",
+      "summary_en": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, […]",
+      "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "source": "The Verge",
+      "published_at": "2026-08-15T13:00:00-04:00",
+      "date_iso": "2026-08-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
