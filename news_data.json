@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-15 02:28:28",
-  "total_count": 10481,
+  "last_update": "2026-08-15 03:20:29",
+  "total_count": 10484,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -130642,6 +130642,69 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/23895797e94e95e790326ff384b6f63cc5bd3e58/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=9b8b17d43122819bfd242af212e8756f",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "725352cb33e36fa9e49826891df6bd3e",
+      "title": "مرگ مرموز فیل ها در کنیا باعث می شود کارشناسان به دنبال پاسخ باشند",
+      "title_fa": "مرگ مرموز فیل ها در کنیا باعث می شود کارشناسان به دنبال پاسخ باشند",
+      "title_en": "Mysterious elephant deaths in Kenya leave experts searching for answers",
+      "summary": "حداقل 19 فیل از ژوئن در یک منطقه محبوب حیات وحش در جنوب کنیا مرده اند که تلفات محلی اکنون 20 نفر گزارش شده است. آزمایشات اولیه حاکی از مسمومیت با سیانید از آفت کش ها است، اما کارشناسان حیات وحش می گویند شواهد با همه علائمی که مشاهده کرده اند مطابقت ندارد.",
+      "summary_fa": "حداقل 19 فیل از ژوئن در یک منطقه محبوب حیات وحش در جنوب کنیا مرده اند که تلفات محلی اکنون 20 نفر گزارش شده است. آزمایشات اولیه حاکی از مسمومیت با سیانید از آفت کش ها است، اما کارشناسان حیات وحش می گویند شواهد با همه علائمی که مشاهده کرده اند مطابقت ندارد.",
+      "summary_en": "At least 19 elephants have died since June in a popular wildlife region of southern Kenya, with the local toll now reported at 20. Early tests have suggested cyanide poisoning from pesticides, but wildlife experts say the evidence does not fit all the symptoms they have observed.",
+      "link": "http://www.euronews.com/2026/08/15/mysterious-elephant-deaths-in-kenya-leave-experts-searching-for-answers",
+      "source": "EuroNews",
+      "published_at": "Sat, 15 Aug 2026 04:34:53 +0200",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "25dd55f5330e2ca0346689dbea3b93eb",
+      "title": "دیده‌بان حقوق بشر می‌گوید اجرای حقوق مدنی ایالات متحده در دوران ترامپ کاهش یافته است: چه باید دانست؟",
+      "title_fa": "دیده‌بان حقوق بشر می‌گوید اجرای حقوق مدنی ایالات متحده در دوران ترامپ کاهش یافته است: چه باید دانست؟",
+      "title_en": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "summary": "یک گزارش جدید نشان می‌دهد که چگونه آژانس‌های فدرال تعداد پرونده‌های حقوق مدنی را که با کاهش تعداد کارکنان دنبال می‌کنند، کاهش داده‌اند.",
+      "summary_fa": "یک گزارش جدید نشان می‌دهد که چگونه آژانس‌های فدرال تعداد پرونده‌های حقوق مدنی را که با کاهش تعداد کارکنان دنبال می‌کنند، کاهش داده‌اند.",
+      "summary_en": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 03:04:20 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d73723f8925762fa9dbe122b76a5f7df",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "US President Trump says he will declare Strait of Hormuz US territory",
+      "summary": "«دونالد ترامپ» رئیس‌جمهور آمریکا گفت که «به زودی» تنگه هرمز را یک قلمرو آمریکا اعلام خواهد کرد.",
+      "summary_fa": "«دونالد ترامپ» رئیس‌جمهور آمریکا گفت که «به زودی» تنگه هرمز را یک قلمرو آمریکا اعلام خواهد کرد.",
+      "summary_en": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 02:25:09 +0000",
+      "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
