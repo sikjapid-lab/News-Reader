@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 08:39:12",
-  "total_count": 10794,
+  "last_update": "2026-08-16 09:03:38",
+  "total_count": 10801,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117062,6 +117062,27 @@
       }
     },
     {
+      "id": "b18aeffbfdf786b3ef0a6788e75f71b6",
+      "title": "پلیس بریتانیا پس از نقض اطلاعات سوء استفاده جنسی از آل فاید عذرخواهی کرد",
+      "title_fa": "پلیس بریتانیا پس از نقض اطلاعات سوء استفاده جنسی از آل فاید عذرخواهی کرد",
+      "title_en": "UK police apologise after Al Fayed sex abuse data breach",
+      "summary": "آدرس ایمیل حدود 140 نفر که می گویند توسط صاحب هارودز مورد سوء استفاده قرار گرفته اند به دنبال یک \"خطای انسانی\" هنگام ارسال به روز رسانی ماهانه برای قربانیان فاش شده است.",
+      "summary_fa": "آدرس ایمیل حدود 140 نفر که می گویند توسط صاحب هارودز مورد سوء استفاده قرار گرفته اند به دنبال یک \"خطای انسانی\" هنگام ارسال به روز رسانی ماهانه برای قربانیان فاش شده است.",
+      "summary_en": "Email addresses of around 140 people who say they were abused by the owner of Harrods have been exposed following a 'human error' when sending a monthly update to victims.",
+      "link": "http://www.euronews.com/my-europe/2026/08/16/uk-police-databreach-alfayed",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 09:59:37 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "25d9be2e9c5ad67ac81c650340176590",
       "title": "ارتش می گوید مراکش از تلاش های جدید برای عبور از سئوتا جلوگیری می کند",
       "title_fa": "ارتش می گوید مراکش از تلاش های جدید برای عبور از سئوتا جلوگیری می کند",
@@ -117096,6 +117117,111 @@
       "date_iso": "2026-08-16",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8d6108676975f294381b923dc4340550",
+      "title": "تیراندازی در کنسولگری ایالات متحده در تورنتو شبکه اسلحه های اجاره ای یک محله را فاش کرد",
+      "title_fa": "تیراندازی در کنسولگری ایالات متحده در تورنتو شبکه اسلحه های اجاره ای یک محله را فاش کرد",
+      "title_en": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "summary": "تیراندازی در کنسولگری ایالات متحده، محله‌ای با گذشته‌ای آشفته را به مرکز یک پدیده جنایی در حال ظهور سوق داده است: اسلحه‌های جوان برای اجاره به‌عنوان کارگران گیگ در اقتصاد دنیای زیرزمینی.",
+      "summary_fa": "تیراندازی در کنسولگری ایالات متحده، محله‌ای با گذشته‌ای آشفته را به مرکز یک پدیده جنایی در حال ظهور سوق داده است: اسلحه‌های جوان برای اجاره به‌عنوان کارگران گیگ در اقتصاد دنیای زیرزمینی.",
+      "summary_en": "A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.",
+      "link": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 09:00:13 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-guns-promo/15int-canada-guns-lfvm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed482db6c925573ee33966fc5c81cb97",
+      "title": "دیگر توقف ترامپ در قاره آمریکا: ویزا",
+      "title_fa": "دیگر توقف ترامپ در قاره آمریکا: ویزا",
+      "title_en": "Trump’s Other Hold on the Americas: The Visa",
+      "summary": "به عنوان بخشی از رویکرد توسعه طلبانه خود به نیمکره غربی، دولت ترامپ در تلاش است تا تسلط خود را مجدداً تثبیت کند، ویزای ایالات متحده در یک زمان.",
+      "summary_fa": "به عنوان بخشی از رویکرد توسعه طلبانه خود به نیمکره غربی، دولت ترامپ در تلاش است تا تسلط خود را مجدداً تثبیت کند، ویزای ایالات متحده در یک زمان.",
+      "summary_en": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
+      "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 09:00:11 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-latam-visas-vbmq/00int-latam-visas-vbmq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "462caa151e047f792e61e5e59cf6afe7",
+      "title": "شیوع وبا بیش از 90 سال را در بزرگترین شهر میانمار بیمار کرد",
+      "title_fa": "شیوع وبا بیش از 90 سال را در بزرگترین شهر میانمار بیمار کرد",
+      "title_en": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+      "summary": "جنگ داخلی و حکومت نظامی سیستم مراقبت های بهداشتی میانمار را تضعیف کرده است، در حالی که باران های موسمی شدید خطر ابتلا به بیماری های ناشی از آب را افزایش داده است.",
+      "summary_fa": "جنگ داخلی و حکومت نظامی سیستم مراقبت های بهداشتی میانمار را تضعیف کرده است، در حالی که باران های موسمی شدید خطر ابتلا به بیماری های ناشی از آب را افزایش داده است.",
+      "summary_en": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
+      "link": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 08:44:45 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1f99c26afbdf9203568d92dd061de6d7",
+      "title": "عکس ها: موسیقی میهنی و پرچم ها به مناسبت سالگرد حکومت طالبان در کابل",
+      "title_fa": "عکس ها: موسیقی میهنی و پرچم ها به مناسبت سالگرد حکومت طالبان در کابل",
+      "title_en": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+      "summary": "در حالی که طالبان پنج سال از بازگشت به قدرت را جشن می گیرند، ازدحام جمعیت فضای کارناوال مانندی را در پایتخت افغانستان ایجاد می کند.",
+      "summary_fa": "در حالی که طالبان پنج سال از بازگشت به قدرت را جشن می گیرند، ازدحام جمعیت فضای کارناوال مانندی را در پایتخت افغانستان ایجاد می کند.",
+      "summary_en": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 08:40:34 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "85276ca741ca6316c0f146c8b4098bfa",
+      "title": "داگلاس رکورد جهانی شنای آزاد 50 متر را شکست و لدکی 800 متر را از دست داد.",
+      "title_fa": "داگلاس رکورد جهانی شنای آزاد 50 متر را شکست و لدکی 800 متر را از دست داد.",
+      "title_en": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+      "summary": "کتی لدکی، فوق ستاره شنای ایالات متحده توسط لنی پالیستر از صحنه خارج شد، در حالی که کیت داگلاس دو بار در 50 متر آزاد تاریخ ساز شد.",
+      "summary_fa": "کتی لدکی، فوق ستاره شنای ایالات متحده توسط لنی پالیستر از صحنه خارج شد، در حالی که کیت داگلاس دو بار در 50 متر آزاد تاریخ ساز شد.",
+      "summary_en": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 08:39:38 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -117196,6 +117322,27 @@
       "summary_fa": "تا 900 سال قدمت، تقریباً ده متر ضخامت، تنه آن هنوز یک طوق آهنی قدیمی را حمل می کند. Prangerlinde در Großpörthen، زاکسن-آنهالت، یک اثر طبیعی و تاریخی منحصر به فرد است.",
       "summary_en": "Up to 900 years old, almost ten metres thick, its trunk still carries an old iron collar. The Prangerlinde in Großpörthen, Saxony-Anhalt, is a unique natural and historical monument.",
       "link": "http://www.euronews.com/culture/2026/08/16/grossporthens-pillory-lime-900-year-old-tree-with-dark-history",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 08:10:34 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b7e9da799611eeb035a962df8d1cac5",
+      "title": "آهک نمدار گروسپورتن: درختی 900 ساله با تاریخ تلخ",
+      "title_fa": "آهک نمدار گروسپورتن: درختی 900 ساله با تاریخ تلخ",
+      "title_en": "Pillory linden of Großpörthen: 900-year-old tree with a grim history",
+      "summary": "پرانگرلیند در گروسپورتن، ساکسونی-آنهالت، با قدمتی 900 ساله و ضخامتی نزدیک به ده متر، هنوز یک یقه آهنی قدیمی را بر روی تنه خود دارد که یک اثر طبیعی و تاریخی منحصر به فرد است.",
+      "summary_fa": "پرانگرلیند در گروسپورتن، ساکسونی-آنهالت، با قدمتی 900 ساله و ضخامتی نزدیک به ده متر، هنوز یک یقه آهنی قدیمی را بر روی تنه خود دارد که یک اثر طبیعی و تاریخی منحصر به فرد است.",
+      "summary_en": "Up to 900 years old and nearly ten metres thick, the Prangerlinde in Großpörthen, Saxony-Anhalt, still bears an old iron collar on its trunk, a unique natural and historical monument.",
+      "link": "http://www.euronews.com/culture/2026/08/16/pillory-linden-of-grossporthen-900-year-old-tree-with-a-grim-history",
       "source": "EuroNews",
       "published_at": "Sun, 16 Aug 2026 08:10:34 +0200",
       "date_iso": "2026-08-16",
