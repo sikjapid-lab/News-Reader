@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 15:49:48",
-  "total_count": 10892,
+  "last_update": "2026-08-16 16:11:33",
+  "total_count": 10897,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,27 @@
       }
     },
     {
+      "id": "a5b4bd2eafcd112fb8b6e26b88df864f",
+      "title": "آخرین بولتن اخبار | 16 آگوست 2026 - عصر",
+      "title_fa": "آخرین بولتن اخبار | 16 آگوست 2026 - عصر",
+      "title_en": "Latest news bulletin | August 16th, 2026 – Evening",
+      "summary": "در 16 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_fa": "در 16 آگوست 2026 با مهم ترین داستان ها از سراسر اروپا و فراتر از آن آشنا شوید - آخرین اخبار، اخبار فوری، جهان، تجارت، سرگرمی، سیاست، فرهنگ، سفر.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this August 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 18:00:29 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "ac798e967b863cbdd6dc27698c727f46",
       "title": "مسابقه ای از پاهای کوتاه و شخصیت های بزرگ: کورگی ها ویلنیوس را تصرف می کنند",
       "title_fa": "مسابقه ای از پاهای کوتاه و شخصیت های بزرگ: کورگی ها ویلنیوس را تصرف می کنند",
@@ -117054,6 +117075,48 @@
       "date_iso": "2026-08-16",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "372dbba35c3ffe2dbf6fea94ee0625e7",
+      "title": "در حالی که هزاران نفر در سئوتا سرگردان مانده اند، مهاجران مراکشی دست به تحصن زدند",
+      "title_fa": "در حالی که هزاران نفر در سئوتا سرگردان مانده اند، مهاجران مراکشی دست به تحصن زدند",
+      "title_en": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+      "summary": "مهاجران مراکشی دو هفته پس از موج گسترده مهاجران در سئوتا تظاهرات کردند و خواستار پناهندگی شدند.",
+      "summary_fa": "مهاجران مراکشی دو هفته پس از موج گسترده مهاجران در سئوتا تظاهرات کردند و خواستار پناهندگی شدند.",
+      "summary_en": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 15:51:26 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "547bacd86ba8e455e29d14a8512c5bf4",
+      "title": "مسکو می گوید بزرگترین حمله پهپاد اوکراینی به روسیه، 822 پهپاد سرنگون شده است",
+      "title_fa": "مسکو می گوید بزرگترین حمله پهپاد اوکراینی به روسیه، 822 پهپاد سرنگون شده است",
+      "title_en": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "summary": "اوکراین صدها هواپیمای بدون سرنشین را در سراسر روسیه پرتاب کرد که منجر به کشته شدن حداقل شش نفر و حمله به مرکز لجستیکی Wildberries شد.",
+      "summary_fa": "اوکراین صدها هواپیمای بدون سرنشین را در سراسر روسیه پرتاب کرد که منجر به کشته شدن حداقل شش نفر و حمله به مرکز لجستیکی Wildberries شد.",
+      "summary_en": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 15:35:53 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 55.7558,
@@ -117132,6 +117195,27 @@
       "summary": "مبارزه بلژیک با بزرگترین آتش سوزی بیش از یک قرن اخیر به دلیل شعله های آتش در نزدیکی مرز آلمان و 600 نفر برای تخلیه دو نفر در آتش سوزی در جزیره سالامیس یونان جان خود را از دست دادند زیرا هواپیماهای آتش نشانی برای کمک به مهار بزرگترین آتش سوزی در بیش از یک قرن اخیر در بلژیک در آخرین موج آتش سوزی های جنگلی در اروپا درخواست شده بودند. سخنگوی آتش نشانی به خبرگزاری فرانسه گفت در جزیره. به صدها نفر دستور تخلیه داده شده است. ادامه مطلب...",
       "summary_fa": "مبارزه بلژیک با بزرگترین آتش سوزی بیش از یک قرن اخیر به دلیل شعله های آتش در نزدیکی مرز آلمان و 600 نفر برای تخلیه دو نفر در آتش سوزی در جزیره سالامیس یونان جان خود را از دست دادند زیرا هواپیماهای آتش نشانی برای کمک به مهار بزرگترین آتش سوزی در بیش از یک قرن اخیر در بلژیک در آخرین موج آتش سوزی های جنگلی در اروپا درخواست شده بودند. سخنگوی آتش نشانی به خبرگزاری فرانسه گفت در جزیره. به صدها نفر دستور تخلیه داده شده است. ادامه مطلب...",
       "summary_en": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuateTwo people have died in fires on the Greek island of Salamis as firefighting aircraft were called on to help tame the biggest blaze in Belgium in more than a century in the latest wave of wildfires in Europe.The bodies of two people were recovered from the Peristeria beach area of Salamis on Sunday after two fires broke out on the island, a fire department spokesperson told AFP. Hundreds of people have been ordered to evacuate. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+      "source": "The Guardian",
+      "published_at": "Sun, 16 Aug 2026 15:16:45 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/fcd89d83052701314ee0acb9d18809a32b1953c1/593_0_5933_4746/master/5933.jpg?width=140&quality=85&auto=format&fit=max&s=39a0f6fbdf14850ba27821c65d7f8953",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "130961ec0fc778d8c92e44c5bca7c93f",
+      "title": "آتش سوزی در جزایر یونان با فراخوان هلیکوپترها برای مهار آتش سوزی در بلژیک دو نفر را کشت",
+      "title_fa": "آتش سوزی در جزایر یونان با فراخوان هلیکوپترها برای مهار آتش سوزی در بلژیک دو نفر را کشت",
+      "title_en": "Greek island wildfire kills two people as helicopters called in to tackle Belgian blaze",
+      "summary": "مبارزه بلژیک با بزرگترین آتش سوزی بیش از یک قرن اخیر به دلیل شعله های آتش در نزدیکی مرز آلمان و 600 نفر برای تخلیه دو نفر در آتش سوزی در جزیره سالامیس یونان جان خود را از دست دادند، زیرا هواپیماهای آتش نشانی برای کمک به مهار بزرگترین آتش سوزی بیش از یک قرن اخیر در بلژیک در آخرین موج آتش سوزی جنگل های اروپا در اروپا درخواست شده بودند. یکی از سخنگویان آتش نشانی به خبرگزاری فرانسه گفت جزیره. به صدها نفر دستور تخلیه داده شده است. ادامه مطلب...",
+      "summary_fa": "مبارزه بلژیک با بزرگترین آتش سوزی بیش از یک قرن اخیر به دلیل شعله های آتش در نزدیکی مرز آلمان و 600 نفر برای تخلیه دو نفر در آتش سوزی در جزیره سالامیس یونان جان خود را از دست دادند، زیرا هواپیماهای آتش نشانی برای کمک به مهار بزرگترین آتش سوزی بیش از یک قرن اخیر در بلژیک در آخرین موج آتش سوزی جنگل های اروپا در اروپا درخواست شده بودند. یکی از سخنگویان آتش نشانی به خبرگزاری فرانسه گفت جزیره. به صدها نفر دستور تخلیه داده شده است. ادامه مطلب...",
+      "summary_en": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuateTwo people have died in fires on the Greek island of Salamis as firefighting aircraft were called on to help tame the biggest blaze in Belgium in more than a century in the latest wave of European wildfires.The bodies of two people were recovered from the Peristeria beach area of Salamis on Sunday after two fires broke out on the island, a fire department spokesperson told Agence France-Presse. Hundreds of people have been ordered to evacuate. Continue reading...",
       "link": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
       "source": "The Guardian",
       "published_at": "Sun, 16 Aug 2026 15:16:45 GMT",
@@ -118098,6 +118182,27 @@
       "summary": "به‌روزرسانی‌های Community Shield، از جمله ساخت، تجزیه و تحلیل و تفسیر متن زنده بازی را دنبال کنید.",
       "summary_fa": "به‌روزرسانی‌های Community Shield، از جمله ساخت، تجزیه و تحلیل و تفسیر متن زنده بازی را دنبال کنید.",
       "summary_en": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 11:00:00 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72862785cb0e5084e7f19e16e02b880d",
+      "title": "پخش زنده: آرسنال مقابل منچسترسیتی 3-0 – جامعه شیلد",
+      "title_fa": "پخش زنده: آرسنال مقابل منچسترسیتی 3-0 – جامعه شیلد",
+      "title_en": "LIVE: Arsenal vs Manchester City 3-0 – Community Shield",
+      "summary": "همه به روز رسانی ها در حالی که آرسنال به پیروزی 3-0 بر یک سیتی کم رنگ که برای اولین بار توسط سرمربی جدید مارسکا هدایت می شد، رسید.",
+      "summary_fa": "همه به روز رسانی ها در حالی که آرسنال به پیروزی 3-0 بر یک سیتی کم رنگ که برای اولین بار توسط سرمربی جدید مارسکا هدایت می شد، رسید.",
+      "summary_en": "All the updates as Arsenal cruised to a 3-0 win over a lacklustre City being led by new boss Maresca for the first time.",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 16 Aug 2026 11:00:00 +0000",
