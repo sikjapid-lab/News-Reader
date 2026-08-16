@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 12:10:43",
-  "total_count": 10854,
+  "last_update": "2026-08-16 13:02:24",
+  "total_count": 10862,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,27 @@
       }
     },
     {
+      "id": "b267daa38b6017a148219375c3fb763c",
+      "title": "مسابقه زشت ترین سگ جهان برنده سال 2026 خود را نشان می دهد",
+      "title_fa": "مسابقه زشت ترین سگ جهان برنده سال 2026 خود را نشان می دهد",
+      "title_en": "World’s Ugliest Dog contest crowns its 2026 winner",
+      "summary": "جینی لو، یک پاگ نجات یافته که اصالتاً اهل کره جنوبی است، برنده پنجاهمین مسابقه سالانه زشت ترین سگ جهان در سانتا روزا، کالیفرنیا شده است.",
+      "summary_fa": "جینی لو، یک پاگ نجات یافته که اصالتاً اهل کره جنوبی است، برنده پنجاهمین مسابقه سالانه زشت ترین سگ جهان در سانتا روزا، کالیفرنیا شده است.",
+      "summary_en": "Jinny Lu, a rescued pug originally from South Korea, has won the 50th annual World’s Ugliest Dog Contest in Santa Rosa, California.",
+      "link": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 14:27:48 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "54feb247ce806887df58bef84c241c6e",
       "title": "در مسابقه عجیب و غریب در ویلنیوس، کورگی ها مسابقه می دهند، پارس می کنند و لباس می پوشند",
       "title_fa": "در مسابقه عجیب و غریب در ویلنیوس، کورگی ها مسابقه می دهند، پارس می کنند و لباس می پوشند",
@@ -117059,6 +117080,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "41d5ccf779b8f316d63f1b445473c435",
+      "title": "دلیل واقعی بالا نرفتن قیمت نفت اینجاست",
+      "title_fa": "دلیل واقعی بالا نرفتن قیمت نفت اینجاست",
+      "title_en": "Here’s the real reason oil prices aren’t moving higher",
+      "summary": "قیمت نفت تا حد زیادی بالاتر نیست، زیرا جهان به اندازه گذشته نفت نمی‌خواهد - و مسلماً این داستان نگران‌کننده‌تر است.",
+      "summary_fa": "قیمت نفت تا حد زیادی بالاتر نیست، زیرا جهان به اندازه گذشته نفت نمی‌خواهد - و مسلماً این داستان نگران‌کننده‌تر است.",
+      "summary_en": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
+      "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sun, 16 Aug 2026 13:00:00 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-31533452",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c25215c2cdd93829a1edc64cafb9691",
+      "title": "طوفان لالا با تداوم وزش باد و باران شدید در هاوایی باعث جاری شدن سیل شد.",
+      "title_fa": "طوفان لالا با تداوم وزش باد و باران شدید در هاوایی باعث جاری شدن سیل شد.",
+      "title_en": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "summary": "مقامات می گویند که سیل ناگهانی ممکن است خانه ها را با مردم در مناطقی که بدترین آسیب دیده اند را با خود برده باشد.",
+      "summary_fa": "مقامات می گویند که سیل ناگهانی ممکن است خانه ها را با مردم در مناطقی که بدترین آسیب دیده اند را با خود برده باشد.",
+      "summary_en": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 12:53:43 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "92d253e4b113be21d63fc7de312ed9b9",
+      "title": "اصلاحات بریتانیا متعهد شد در صورت کسب قدرت، 50 میلیارد پوند از صورت حساب رفاهی را کاهش خواهد داد",
+      "title_fa": "اصلاحات بریتانیا متعهد شد در صورت کسب قدرت، 50 میلیارد پوند از صورت حساب رفاهی را کاهش خواهد داد",
+      "title_en": "Reform UK vows to cut £50bn from welfare bill if it wins power",
+      "summary": "رابرت جنریک می‌گوید سیستم مزایای فعلی «انحراف عجیبی از شفقت است»",
+      "summary_fa": "رابرت جنریک می‌گوید سیستم مزایای فعلی «انحراف عجیبی از شفقت است»",
+      "summary_en": "Robert Jenrick says current benefits system is ‘a strange perversion of compassion’",
+      "link": "https://www.ft.com/content/e34c097f-0f5d-49b8-8142-967842ba6c42?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 16 Aug 2026 12:39:36 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F257b4452-dce6-4311-8b16-dfc83c4e38af.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "3daf09d9f69980e6cf59f97790b4f9ed",
+      "title": "بزرگ‌ترین آتش‌سوزی جنگلی ثبت شده بلژیک به سمت مرز آلمان گسترش یافته است",
+      "title_fa": "بزرگ‌ترین آتش‌سوزی جنگلی ثبت شده بلژیک به سمت مرز آلمان گسترش یافته است",
+      "title_en": "Belgium’s largest wildfire on record spreads towards German border",
+      "summary": "بزرگترین آتش سوزی ثبت شده در بلژیک 600 نفر از ساکنان را مجبور به تخلیه با گسترش آتش به سمت شهرهای مرزی آلمان می کند.",
+      "summary_fa": "بزرگترین آتش سوزی ثبت شده در بلژیک 600 نفر از ساکنان را مجبور به تخلیه با گسترش آتش به سمت شهرهای مرزی آلمان می کند.",
+      "summary_en": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 12:35:31 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e97bfd0392f5ef74bf41ffeff903ab02",
+      "title": "بازی بی ثمر فاراژ در انتخابات میان دوره ای",
+      "title_fa": "بازی بی ثمر فاراژ در انتخابات میان دوره ای",
+      "title_en": "Farage’s fruitless by-election gambit",
+      "summary": "پیروزی در Clacton رهبر اصلاحات بریتانیا را قادر به طفره رفتن از سؤالات در مورد مسائل مالی نمی کند",
+      "summary_fa": "پیروزی در Clacton رهبر اصلاحات بریتانیا را قادر به طفره رفتن از سؤالات در مورد مسائل مالی نمی کند",
+      "summary_en": "Victory in Clacton will not enable Reform UK leader to dodge questions over finances",
+      "link": "https://www.ft.com/content/757c4938-614c-4829-9d8f-7320917e6753?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 16 Aug 2026 12:35:05 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e3b043a-029b-4053-ad12-7c871539a61b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "622184d79312faebdbf03477def9c171",
+      "title": "بازدید بی بی سی از بازار داغ کیف پس از حملات روسیه",
+      "title_fa": "بازدید بی بی سی از بازار داغ کیف پس از حملات روسیه",
+      "title_en": "BBC visits smouldering Kyiv market after Russian strikes",
+      "summary": "شش نفر در اعتصاب در بازار فروش صفحات دست دوم، پوستر، اسباب بازی و ابزار زخمی شدند.",
+      "summary_fa": "شش نفر در اعتصاب در بازار فروش صفحات دست دوم، پوستر، اسباب بازی و ابزار زخمی شدند.",
+      "summary_en": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 12:18:09 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -118151,6 +118298,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "2f72e94f6092755d05c7dfc81fc86795",
+      "title": "این داروی قلبی 10 درصدی بستری شدن در بیمارستان را تا 25 درصد کاهش می دهد.",
+      "title_fa": "این داروی قلبی 10 درصدی بستری شدن در بیمارستان را تا 25 درصد کاهش می دهد.",
+      "title_en": "This 10-cent heart drug cuts hospitalizations by 25%",
+      "summary": "یک داروی قلبی با قدمت چند صد ساله با هزینه کمتر از ده سنت در روز می تواند به دور نگه داشتن بیماران نارسایی قلبی از بیمارستان کمک کند. تحقیقات جدید نشان می‌دهد که دوز پایین دیگوکسین می‌تواند بستری شدن در بیمارستان با نارسایی قلبی را تا حدود ۲۵ درصد کاهش دهد و به طور بالقوه راه را برای بازگشت آن به عنوان یک درمان اصلی هموار کند.",
+      "summary_fa": "یک داروی قلبی با قدمت چند صد ساله با هزینه کمتر از ده سنت در روز می تواند به دور نگه داشتن بیماران نارسایی قلبی از بیمارستان کمک کند. تحقیقات جدید نشان می‌دهد که دوز پایین دیگوکسین می‌تواند بستری شدن در بیمارستان با نارسایی قلبی را تا حدود ۲۵ درصد کاهش دهد و به طور بالقوه راه را برای بازگشت آن به عنوان یک درمان اصلی هموار کند.",
+      "summary_en": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, potentially paving the way for its return as a major treatment.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 16 Aug 2026 08:22:32 EDT",
+      "date_iso": "2026-08-16",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
