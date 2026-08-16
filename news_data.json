@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 10:33:24",
-  "total_count": 10823,
+  "last_update": "2026-08-16 10:55:58",
+  "total_count": 10828,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117041,6 +117041,69 @@
       }
     },
     {
+      "id": "898b50362302f035438d0cbd80d6861a",
+      "title": "Google Pixel 11 Pro در مقابل Apple iPhone 17 Pro: چگونه پیکسل جدید با بزرگترین رقیب خود رقابت می کند",
+      "title_fa": "Google Pixel 11 Pro در مقابل Apple iPhone 17 Pro: چگونه پیکسل جدید با بزرگترین رقیب خود رقابت می کند",
+      "title_en": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: How the new Pixel competes with its biggest rival",
+      "summary": "من هر دو گوشی را تست کردم و یقه و گردن هستند. در اینجا جایی است که هر یک از آنها موفق می شوند (و جایی برای پیشرفت دارند).",
+      "summary_fa": "من هر دو گوشی را تست کردم و یقه و گردن هستند. در اینجا جایی است که هر یک از آنها موفق می شوند (و جایی برای پیشرفت دارند).",
+      "summary_en": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
+      "link": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+      "source": "ZDNet",
+      "published_at": "Sun, 16 Aug 2026 10:45:46 GMT",
+      "date_iso": "2026-08-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5cface425f6869c7843d9c4d3b2cf88c",
+      "title": "لیگ برتر: نکات کلیدی برای ورود به فصل جدید 2026-27",
+      "title_fa": "لیگ برتر: نکات کلیدی برای ورود به فصل جدید 2026-27",
+      "title_en": "Premier League: Key talking points heading into the new 2026-27 season",
+      "summary": "سیتی، لیورپول و چلسی چهره‌های جدیدی در میدان دارند زیرا آرسنال برای اولین بار در 90 سال تلاش می‌کند از عنوان قهرمانی دفاع کند.",
+      "summary_fa": "سیتی، لیورپول و چلسی چهره‌های جدیدی در میدان دارند زیرا آرسنال برای اولین بار در 90 سال تلاش می‌کند از عنوان قهرمانی دفاع کند.",
+      "summary_en": "City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 10:33:42 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "40af07c30b7ddd61a3db56d6cdde18b9",
+      "title": "دکتر از قطع کردن پای دختری در غزه بدون بیهوشی می گوید",
+      "title_fa": "دکتر از قطع کردن پای دختری در غزه بدون بیهوشی می گوید",
+      "title_en": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "summary": "ما دعا می کردیم که بیهوش شود.",
+      "summary_fa": "ما دعا می کردیم که بیهوش شود.",
+      "summary_en": "‘We were praying for her to faint’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 10:32:42 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
       "id": "c03ee55fd51f0f109e8d55fc505a8089",
       "title": "برای شروع برنامه ریزی برای دو خورشید گرفتگی بعدی هرگز زود نیست",
       "title_fa": "برای شروع برنامه ریزی برای دو خورشید گرفتگی بعدی هرگز زود نیست",
@@ -117070,6 +117133,27 @@
       "summary_fa": "ابزار نصب EasyDMG باعث می شود که دیگر هرگز نمادی را بکشید و رها نکنید.",
       "summary_en": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
       "link": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+      "source": "Wired",
+      "published_at": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "date_iso": "2026-08-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "54ee7c765448cc77723f07ecb8ca1d5b",
+      "title": "بررسی TerraMow V1000: به چمن خود کمی عشق نشان دهید",
+      "title_fa": "بررسی TerraMow V1000: به چمن خود کمی عشق نشان دهید",
+      "title_en": "TerraMow V1000 Review: Show Your Lawn Some Love",
+      "summary": "TerraMow V1000 با نقشه برداری خودکار، عملکرد Spot Mode و دوربین های هوش مصنوعی، بسته کامل است.",
+      "summary_fa": "TerraMow V1000 با نقشه برداری خودکار، عملکرد Spot Mode و دوربین های هوش مصنوعی، بسته کامل است.",
+      "summary_en": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+      "link": "https://www.wired.com/review/terramow-v1000/",
       "source": "Wired",
       "published_at": "Sun, 16 Aug 2026 10:30:00 +0000",
       "date_iso": "2026-08-16",
@@ -117381,6 +117465,27 @@
       "title": "مراکش از عبور صدها مهاجر به سئوتا جلوگیری می کند",
       "title_fa": "مراکش از عبور صدها مهاجر به سئوتا جلوگیری می کند",
       "title_en": "Morocco prevents hundreds of migrants from crossing into Ceuta",
+      "summary": "نیروهای امنیتی مراکش روز شنبه صدها مهاجر را که در نزدیکی کاستیلیخوس پنهان شده بودند، در تلاش برای رسیدن به سئوتا متلاشی کردند. این عملیات چند هفته پس از تلاش برای عبور دسته جمعی انجام می شود که منجر به کشته شدن 141 نفر شد.",
+      "summary_fa": "نیروهای امنیتی مراکش روز شنبه صدها مهاجر را که در نزدیکی کاستیلیخوس پنهان شده بودند، در تلاش برای رسیدن به سئوتا متلاشی کردند. این عملیات چند هفته پس از تلاش برای عبور دسته جمعی انجام می شود که منجر به کشته شدن 141 نفر شد.",
+      "summary_en": "Moroccan security forces on Saturday broke up hundreds of migrants who had been hiding near Castillejos in a bid to reach Ceuta. The operation comes weeks after the mass crossing attempt that left 141 people dead.",
+      "link": "http://www.euronews.com/my-europe/2026/08/16/morocco-prevents-new-attempts-to-cross-into-ceuta-army-says",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 09:24:46 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed084a15c86bce1dadaac0fd8ecef6b3",
+      "title": "مراکش از ورود صدها مهاجر به سئوتا اسپانیا جلوگیری می کند",
+      "title_fa": "مراکش از ورود صدها مهاجر به سئوتا اسپانیا جلوگیری می کند",
+      "title_en": "Morocco prevents hundreds of migrants from crossing into Spain's Ceuta",
       "summary": "نیروهای امنیتی مراکش روز شنبه صدها مهاجر را که در نزدیکی کاستیلیخوس پنهان شده بودند، در تلاش برای رسیدن به سئوتا متلاشی کردند. این عملیات چند هفته پس از تلاش برای عبور دسته جمعی انجام می شود که منجر به کشته شدن 141 نفر شد.",
       "summary_fa": "نیروهای امنیتی مراکش روز شنبه صدها مهاجر را که در نزدیکی کاستیلیخوس پنهان شده بودند، در تلاش برای رسیدن به سئوتا متلاشی کردند. این عملیات چند هفته پس از تلاش برای عبور دسته جمعی انجام می شود که منجر به کشته شدن 141 نفر شد.",
       "summary_en": "Moroccan security forces on Saturday broke up hundreds of migrants who had been hiding near Castillejos in a bid to reach Ceuta. The operation comes weeks after the mass crossing attempt that left 141 people dead.",
