@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 21:41:02",
-  "total_count": 10953,
+  "last_update": "2026-08-16 21:57:54",
+  "total_count": 10955,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,27 @@
       }
     },
     {
+      "id": "3e79549b56613b9e38565835b78fa46a",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "summary": "تصمیم او برای کاهش مشارکت پس از آن اتخاذ شد که اخیراً کره جنوبی از کمک به تلاش های جنگی او در ایران خودداری کرد.",
+      "summary_fa": "تصمیم او برای کاهش مشارکت پس از آن اتخاذ شد که اخیراً کره جنوبی از کمک به تلاش های جنگی او در ایران خودداری کرد.",
+      "summary_en": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 21:55:46 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "bc62e17b03bc3c970deffa0cadddc76d",
       "title": "فرمانده ایالات متحده پس از بازدید از USS Lincoln سلامت روان را در اولویت قرار می دهد",
       "title_fa": "فرمانده ایالات متحده پس از بازدید از USS Lincoln سلامت روان را در اولویت قرار می دهد",
@@ -117080,6 +117101,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "be1474e7b081581a330fe74a16d951c8",
+      "title": "انور ابراهیم: مالزی بین ابرقدرت ها",
+      "title_fa": "انور ابراهیم: مالزی بین ابرقدرت ها",
+      "title_en": "Anwar Ibrahim: Malaysia between the superpowers",
+      "summary": "انور ابراهیم، ​​نخست‌وزیر مالزی، در عدالت، تجارت، و قدرت متوسطی که ابرقدرت‌ها را به حساب می‌آورد، به سرنیواسان جین می‌پیوندد.",
+      "summary_fa": "انور ابراهیم، ​​نخست‌وزیر مالزی، در عدالت، تجارت، و قدرت متوسطی که ابرقدرت‌ها را به حساب می‌آورد، به سرنیواسان جین می‌پیوندد.",
+      "summary_en": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 21:23:03 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
