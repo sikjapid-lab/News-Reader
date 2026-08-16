@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 20:31:51",
-  "total_count": 10937,
+  "last_update": "2026-08-16 20:54:10",
+  "total_count": 10939,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117041,6 +117041,27 @@
       }
     },
     {
+      "id": "483bc1736c193060848902acbd500b48",
+      "title": "هیچ راه خروجی وجود ندارد",
+      "title_fa": "هیچ راه خروجی وجود ندارد",
+      "title_en": "No Way Out",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "The U.S. is building an archipelago of overseas detention sites where deportees are often held indefinitely without charge.",
+      "link": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 20:35:54 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/23/magazine/17int-theworld-eswatini-promo/17int-theworld-eswatini-promo-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "5bd95393f97014bc930aaea64b3cd2df",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -213821,6 +213842,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d73596cf4bd9448df1f7406ad1a3e154",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_en": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "summary": "جدایی... سخت است. این سطرهای آغازین میان‌آهنگی در انتهای DOOMED است! به نام \"در هر کیهانی اتفاق می افتد\". همچنین اساساً تز کل رکورد است. این یک مکاشفه بزرگ نیست، اما موضوعی است که به خوبی زیر پا گذاشته شده است که Open Mike Eagle موفق به استخراج طلای هنری می شود. موضوع عقاب معمولا شخصی است، […]",
+      "summary_fa": "جدایی... سخت است. این سطرهای آغازین میان‌آهنگی در انتهای DOOMED است! به نام \"در هر کیهانی اتفاق می افتد\". همچنین اساساً تز کل رکورد است. این یک مکاشفه بزرگ نیست، اما موضوعی است که به خوبی زیر پا گذاشته شده است که Open Mike Eagle موفق به استخراج طلای هنری می شود. موضوع عقاب معمولا شخصی است، […]",
+      "summary_en": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
+      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "source": "The Verge",
+      "published_at": "2026-08-16T16:31:37-04:00",
+      "date_iso": "2026-08-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
