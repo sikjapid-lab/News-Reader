@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 14:33:29",
-  "total_count": 10874,
+  "last_update": "2026-08-16 14:56:06",
+  "total_count": 10879,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,27 @@
       }
     },
     {
+      "id": "ac798e967b863cbdd6dc27698c727f46",
+      "title": "مسابقه ای از پاهای کوتاه و شخصیت های بزرگ: کورگی ها ویلنیوس را تصرف می کنند",
+      "title_fa": "مسابقه ای از پاهای کوتاه و شخصیت های بزرگ: کورگی ها ویلنیوس را تصرف می کنند",
+      "title_en": "A race of short legs and big personalities: corgis take over Vilnius",
+      "summary": "حدود 150 کورگی از 9 کشور در ویلنیوس برای یک روز مسابقه، لباس، مسابقه پارس کردن و سرگرمی های کرکی فراوان جمع شدند.",
+      "summary_fa": "حدود 150 کورگی از 9 کشور در ویلنیوس برای یک روز مسابقه، لباس، مسابقه پارس کردن و سرگرمی های کرکی فراوان جمع شدند.",
+      "summary_en": "Around 150 corgis from nine countries gathered in Vilnius for a day of racing, costumes, barking contests and plenty of fluffy fun.",
+      "link": "http://www.euronews.com/culture/2026/08/16/a-race-of-short-legs-and-big-personalities-corgis-take-over-vilnius",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 16:53:31 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "31c406ab4c29fbf67fb855550aa63ec2",
       "title": "12 نفر در روسیه و اوکراین پس از تبادل یک شبه حملات پهپادی و موشکی کشته شدند",
       "title_fa": "12 نفر در روسیه و اوکراین پس از تبادل یک شبه حملات پهپادی و موشکی کشته شدند",
@@ -117059,6 +117080,69 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "11576331d8f09909c07a9006489e9731",
+      "title": "سرقت هنری: 4 نقاشی آنتونلو دا مسینا که از سیسیل به سرقت رفته است",
+      "title_fa": "سرقت هنری: 4 نقاشی آنتونلو دا مسینا که از سیسیل به سرقت رفته است",
+      "title_en": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "summary": "این آثار، اثر آنتونلو دا مسینا، زمانی گرفته شد که شهر مسینا در سیسیل یک جشن مذهبی برگزار کرد.",
+      "summary_fa": "این آثار، اثر آنتونلو دا مسینا، زمانی گرفته شد که شهر مسینا در سیسیل یک جشن مذهبی برگزار کرد.",
+      "summary_en": "The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 14:40:05 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-italy-theft-HP-promp/16int-italy-theft-HP-promp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c4dca1ba4dcf27cdf8a06de3a075a77",
+      "title": "بن گویر خواستار کشتار شبانه فلسطینیان در غزه است",
+      "title_fa": "بن گویر خواستار کشتار شبانه فلسطینیان در غزه است",
+      "title_en": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+      "summary": "ایتامار بن گویر، وزیر امنیت ملی راست افراطی اسرائیل خواستار کشتار شبانه در غزه شده است.",
+      "summary_fa": "ایتامار بن گویر، وزیر امنیت ملی راست افراطی اسرائیل خواستار کشتار شبانه در غزه شده است.",
+      "summary_en": "Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 14:35:15 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "2b941df5c04ec33bf2fbb6ca3491cc68",
+      "title": "معبد یاسوکونی توکیو که با جنایات زمان جنگ ژاپن مرتبط است چیست؟",
+      "title_fa": "معبد یاسوکونی توکیو که با جنایات زمان جنگ ژاپن مرتبط است چیست؟",
+      "title_en": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+      "summary": "حدود 2.5 میلیون نفر، از جمله جنایتکاران جنگی ژاپنی که برای این کشور جنگیده اند، در یاسوکونی نگهداری می شوند.",
+      "summary_fa": "حدود 2.5 میلیون نفر، از جمله جنایتکاران جنگی ژاپنی که برای این کشور جنگیده اند، در یاسوکونی نگهداری می شوند.",
+      "summary_en": "About 2.5 million people, including Japanese war criminals who fought for the country, are enshrined at Yasukuni.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 14:29:18 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -117181,6 +117265,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6ff6c0d15f3e46523823a1a008e54136",
+      "title": "نقاشی های رنسانس آنتونلو دا مسینا از موزه سیسیل به سرقت رفت",
+      "title_fa": "نقاشی های رنسانس آنتونلو دا مسینا از موزه سیسیل به سرقت رفت",
+      "title_en": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "summary": "چهار اثر در طول تعطیلات عمومی، یک روز پس از کشف نقاشی‌های سزان، رنوار و ماتیس توسط پلیس ایتالیا، چهار اثر هنری استاد رنسانس قرن پانزدهم آنتونلو دا مسینا در یک تعطیلات ملی از موزه‌ای در شهر بندری مسینا در سیسیل به سرقت رفتند. توجه به لاوارا، یک فستیوال مذهبی بزرگ که در 15 اوت، زمانی که ایتالیا جشن ملی فروگوستو را جشن می‌گیرد، در شهر برگزار می‌شود. ادامه مطلب...",
+      "summary_fa": "چهار اثر در طول تعطیلات عمومی، یک روز پس از کشف نقاشی‌های سزان، رنوار و ماتیس توسط پلیس ایتالیا، چهار اثر هنری استاد رنسانس قرن پانزدهم آنتونلو دا مسینا در یک تعطیلات ملی از موزه‌ای در شهر بندری مسینا در سیسیل به سرقت رفتند. توجه به لاوارا، یک فستیوال مذهبی بزرگ که در 15 اوت، زمانی که ایتالیا جشن ملی فروگوستو را جشن می‌گیرد، در شهر برگزار می‌شود. ادامه مطلب...",
+      "summary_en": "Four works were taken during public holiday, the day after Italian police recovered paintings by Cézanne, Renoir and MatisseFour of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina.Thieves gained access to the Regional Museum of Messina, or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
+      "link": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+      "source": "The Guardian",
+      "published_at": "Sun, 16 Aug 2026 13:44:29 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/86c28cf5878430f183444c44545603edabeea737/0_28_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=c7b6077f1a9e45e0eee67ffcb4c6bd1c",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
