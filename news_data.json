@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 07:33:56",
-  "total_count": 10784,
+  "last_update": "2026-08-16 07:57:33",
+  "total_count": 10785,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117342,6 +117342,27 @@
       "summary": "وزارت دفاع رومانی منشاء این پهپاد را مشخص نکرد اما پیش از این روسیه را مسئول حوادث مشابه دانسته بود.",
       "summary_fa": "وزارت دفاع رومانی منشاء این پهپاد را مشخص نکرد اما پیش از این روسیه را مسئول حوادث مشابه دانسته بود.",
       "summary_en": "Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 04:54:33 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "6e3e15d98d81fb420e595d58d50d8142",
+      "title": "در حالی که روسیه کیف را بمباران می کند، اوکراین مسکو را هدف حمله هواپیماهای بدون سرنشین گسترده قرار می دهد",
+      "title_fa": "در حالی که روسیه کیف را بمباران می کند، اوکراین مسکو را هدف حمله هواپیماهای بدون سرنشین گسترده قرار می دهد",
+      "title_en": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+      "summary": "مقامات روسیه از سرنگونی 201 هواپیمای بدون سرنشین اوکراینی در منطقه مسکو در جریان تشدید درگیری ها در شبانه روز خبر دادند.",
+      "summary_fa": "مقامات روسیه از سرنگونی 201 هواپیمای بدون سرنشین اوکراینی در منطقه مسکو در جریان تشدید درگیری ها در شبانه روز خبر دادند.",
+      "summary_en": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
       "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Sun, 16 Aug 2026 04:54:33 +0000",
