@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 02:47:31",
-  "total_count": 10744,
+  "last_update": "2026-08-16 03:36:14",
+  "total_count": 10746,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117146,6 +117146,27 @@
       }
     },
     {
+      "id": "d130902e978dbe6145768481c307a034",
+      "title": "بی بی سی به دنبال احضار اعضا در دعوای پانوراما است",
+      "title_fa": "بی بی سی به دنبال احضار اعضا در دعوای پانوراما است",
+      "title_en": "BBC seeks to subpoena members in Panorama lawsuit",
+      "summary": "سخنگوی تیم حقوقی ترامپ در پاسخ به این درخواست که صدا و سیما را به \"به دنبال آزار و اذیت\" خانواده رئیس جمهور متهم کرده بود.",
+      "summary_fa": "سخنگوی تیم حقوقی ترامپ در پاسخ به این درخواست که صدا و سیما را به \"به دنبال آزار و اذیت\" خانواده رئیس جمهور متهم کرده بود.",
+      "summary_en": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 00:11:03 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2474ebf850c26d380d1d7559fcaf3018",
       "title": "زنده جنگ ایران: مذاکرات درباره تنگه هرمز ادامه دارد. اسرائیل ۱۱ نفر را در لبنان کشت",
       "title_fa": "زنده جنگ ایران: مذاکرات درباره تنگه هرمز ادامه دارد. اسرائیل ۱۱ نفر را در لبنان کشت",
@@ -209852,6 +209873,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://cdn.cnn.com/cnnnext/dam/assets/230402145738-airplane-phone-stock-restricted-super-169.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8ddb8ae1db0fc6854ceeae31c2a76d8a",
+      "title": "قیمت دوربین فوری کوچک Polaroid 72 دلار است و شامل یک بسته رایگان فیلم است",
+      "title_fa": "قیمت دوربین فوری کوچک Polaroid 72 دلار است و شامل یک بسته رایگان فیلم است",
+      "title_en": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+      "summary": "دوربین های گوشی های هوشمند راحت هستند، اما فاقد جذابیت دوربین های آنالوگ فوری هستند. اگر می‌خواهید نوستالژی انتظار برای یک عکس فوری را زنده کنید، آمازون نسل دوم دوربین فوری Polaroid Go را با یک بسته فیلم 16 عکس به قیمت 71.99 دلار (معمولاً 109.99 دلار) می‌فروشد. این کمترین قیمتی است که برای بسته نرم افزاری دیده ایم، […]",
+      "summary_fa": "دوربین های گوشی های هوشمند راحت هستند، اما فاقد جذابیت دوربین های آنالوگ فوری هستند. اگر می‌خواهید نوستالژی انتظار برای یک عکس فوری را زنده کنید، آمازون نسل دوم دوربین فوری Polaroid Go را با یک بسته فیلم 16 عکس به قیمت 71.99 دلار (معمولاً 109.99 دلار) می‌فروشد. این کمترین قیمتی است که برای بسته نرم افزاری دیده ایم، […]",
+      "summary_en": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, […]",
+      "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-08-15T23:00:00-04:00",
+      "date_iso": "2026-08-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
