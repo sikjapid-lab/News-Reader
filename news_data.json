@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 13:02:24",
-  "total_count": 10862,
+  "last_update": "2026-08-16 13:40:17",
+  "total_count": 10867,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,27 @@
       }
     },
     {
+      "id": "11408f0ba874ddfdce0e9d2a5c0efb6e",
+      "title": "اروپا همچنان به مبارزه با آتش سوزی های جنگلی ادامه می دهد زیرا بلژیک شاهد بزرگترین آتش سوزی ثبت شده در تاریخ است",
+      "title_fa": "اروپا همچنان به مبارزه با آتش سوزی های جنگلی ادامه می دهد زیرا بلژیک شاهد بزرگترین آتش سوزی ثبت شده در تاریخ است",
+      "title_en": "Europe continues to battle wildfires as Belgium sees biggest blaze in recorded history",
+      "summary": "حجم آتش سوزی در شرق بلژیک تا صبح یکشنبه طی 24 ساعت دو برابر شد. مکانیسم حفاظت مدنی اتحادیه اروپا روز شنبه با سه هلیکوپتر و دو هواپیمای بمباران آبی از سوئد، هلند و جمهوری چک فعال شد.",
+      "summary_fa": "حجم آتش سوزی در شرق بلژیک تا صبح یکشنبه طی 24 ساعت دو برابر شد. مکانیسم حفاظت مدنی اتحادیه اروپا روز شنبه با سه هلیکوپتر و دو هواپیمای بمباران آبی از سوئد، هلند و جمهوری چک فعال شد.",
+      "summary_en": "The fire in eastern Belgium doubled in size over 24 hours by Sunday morning. The EU Civil Protection Mechanism was activated on Saturday, with three helicopters and two water-bombing aircraft arriving from Sweden, the Netherlands and the Czech Republic.",
+      "link": "http://www.euronews.com/my-europe/2026/08/16/europe-continues-to-battle-wildfires-as-belgium-sees-biggest-blaze-in-recorded-history",
+      "source": "EuroNews",
+      "published_at": "Sun, 16 Aug 2026 14:56:54 +0200",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
       "id": "b267daa38b6017a148219375c3fb763c",
       "title": "مسابقه زشت ترین سگ جهان برنده سال 2026 خود را نشان می دهد",
       "title_fa": "مسابقه زشت ترین سگ جهان برنده سال 2026 خود را نشان می دهد",
@@ -117076,6 +117097,90 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "186905516690e0a1c8aec6b1be42b8e2",
+      "title": "چهار تابلوی نقاشی «فوق‌العاده» رنسانس از موزه ایتالیا به سرقت رفت",
+      "title_fa": "چهار تابلوی نقاشی «فوق‌العاده» رنسانس از موزه ایتالیا به سرقت رفت",
+      "title_en": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "summary": "این کارها یک شبه بدون ایجاد آلارم گرفته شده است که باعث ایجاد شک در مورد ضربه حرفه ای شده است.",
+      "summary_fa": "این کارها یک شبه بدون ایجاد آلارم گرفته شده است که باعث ایجاد شک در مورد ضربه حرفه ای شده است.",
+      "summary_en": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dfb3a0d9591dcb8153bcac9551117a68",
+      "title": "حوثی ها با تشدید درگیری های یمن حملات جدیدی را به المخا و مارب انجام می دهند",
+      "title_fa": "حوثی ها با تشدید درگیری های یمن حملات جدیدی را به المخا و مارب انجام می دهند",
+      "title_en": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "summary": "حملات موشکی و پهپادی حوثی به مأرب و المخا دست کم چهار کشته و هشت زخمی بر جای گذاشت.",
+      "summary_fa": "حملات موشکی و پهپادی حوثی به مأرب و المخا دست کم چهار کشته و هشت زخمی بر جای گذاشت.",
+      "summary_en": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 13:18:28 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e79e63b5294dde0163278857d4082907",
+      "title": "جدول زمانی: محاصره یک هفته ای قصره توسط شهرک نشینان اسرائیلی در کرانه باختری",
+      "title_fa": "جدول زمانی: محاصره یک هفته ای قصره توسط شهرک نشینان اسرائیلی در کرانه باختری",
+      "title_en": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+      "summary": "شهرک نشینان اسرائیلی خانه های فلسطینی ها را محاصره کرده و تدارکات را قطع کردند که منجر به اعلام منطقه نظامی شد.",
+      "summary_fa": "شهرک نشینان اسرائیلی خانه های فلسطینی ها را محاصره کرده و تدارکات را قطع کردند که منجر به اعلام منطقه نظامی شد.",
+      "summary_en": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 13:17:57 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "22795ad8c20466b14a8946b482a90a9a",
+      "title": "کشاورزان بریتانیایی برای مقابله با گرمای شدید به کمک بیشتری نیاز دارند",
+      "title_fa": "کشاورزان بریتانیایی برای مقابله با گرمای شدید به کمک بیشتری نیاز دارند",
+      "title_en": "British farmers need more help to cope with brutal heat",
+      "summary": "کمبود آب به یک واقعیت تاریک روزانه تبدیل شده است که بر محصولات کشاورزی، دام و دوام مزارع تأثیر می گذارد",
+      "summary_fa": "کمبود آب به یک واقعیت تاریک روزانه تبدیل شده است که بر محصولات کشاورزی، دام و دوام مزارع تأثیر می گذارد",
+      "summary_en": "Water shortages have become a dark daily reality affecting crops, livestock and the viability of farms",
+      "link": "https://www.ft.com/content/9dc2ffa4-d40f-4236-91f0-e1ba664040bd",
+      "source": "Financial Times",
+      "published_at": "Sun, 16 Aug 2026 13:06:10 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6e6c5a6-6f31-4c1f-9c69-29bb27e60bc5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
