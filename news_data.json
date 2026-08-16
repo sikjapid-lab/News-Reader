@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 19:40:47",
-  "total_count": 10928,
+  "last_update": "2026-08-16 19:57:24",
+  "total_count": 10932,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117054,6 +117054,90 @@
       "date_iso": "2026-08-16",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "60f4b94bff5927a113f1b6d5988eb6c5",
+      "title": "در پی وقوع دو آتش سوزی در جزیره یونان، دو کشته و صدها نفر تخلیه شدند",
+      "title_fa": "در پی وقوع دو آتش سوزی در جزیره یونان، دو کشته و صدها نفر تخلیه شدند",
+      "title_en": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 19:50:36 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/70fefcb0-9992-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a0ed82d3ccb6d67271319695de401988",
+      "title": "کوشنر برای پیشبرد طرح غزه ترامپ با حماس گفتگو می کند",
+      "title_fa": "کوشنر برای پیشبرد طرح غزه ترامپ با حماس گفتگو می کند",
+      "title_en": "Kushner Holds Talks With Hamas to Advance Trump Gaza Plan",
+      "summary": "به گفته چند مقام، مشاور رئیس جمهور با نمایندگان گروه مسلح فلسطینی در مصر دیدار کرد.",
+      "summary_fa": "به گفته چند مقام، مشاور رئیس جمهور با نمایندگان گروه مسلح فلسطینی در مصر دیدار کرد.",
+      "summary_en": "The president’s adviser met with representatives of the armed Palestinian group in Egypt, several officials said.",
+      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "NY Times",
+      "published_at": "Sun, 16 Aug 2026 19:46:26 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16trump-news-update-cvjg/16trump-news-update-cvjg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "f3267e301fe8e23285687d42b5c46bd6",
+      "title": "کوشنر با رهبران حماس در مصر دیدار می کند تا طرح غزه ترامپ را پیش ببرد",
+      "title_fa": "کوشنر با رهبران حماس در مصر دیدار می کند تا طرح غزه ترامپ را پیش ببرد",
+      "title_en": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 19:23:28 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "edf755b7acdb84d46605aa78c86ea519",
+      "title": "اردوغان خواستار بازگشایی تنگه هرمز در میان اختلالات نفتی شد",
+      "title_fa": "اردوغان خواستار بازگشایی تنگه هرمز در میان اختلالات نفتی شد",
+      "title_en": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_fa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_en": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 19:18:24 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
