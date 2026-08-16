@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 18:20:14",
-  "total_count": 10920,
+  "last_update": "2026-08-16 18:53:00",
+  "total_count": 10922,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117041,6 +117041,27 @@
       }
     },
     {
+      "id": "438867b4a47ff14aab8d4b9afebc4783",
+      "title": "پس از طوفان لالا که هاوایی را درنوردید، یک کشته، خانه‌ها را از بین برد",
+      "title_fa": "پس از طوفان لالا که هاوایی را درنوردید، یک کشته، خانه‌ها را از بین برد",
+      "title_en": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "عملیات جستجو و نجات پس از کنده شدن املاک از پایه آنها در حال انجام است.",
+      "summary_fa": "عملیات جستجو و نجات پس از کنده شدن املاک از پایه آنها در حال انجام است.",
+      "summary_en": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 18:46:12 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "34725a12928fbef84ad4582080e3bed7",
       "title": "مجله Vogue عکس های اختصاصی از عروسی رونالدو و جورجینا را منتشر کرد",
       "title_fa": "مجله Vogue عکس های اختصاصی از عروسی رونالدو و جورجینا را منتشر کرد",
@@ -117101,6 +117122,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "e472c0e4c5a639a0deac231e18083c7d",
+      "title": "به دلیل آب و هوای شدید، سیستم دفاع سیل لندن ممکن است خیلی زودتر از حد انتظار نیاز به تعویض داشته باشد",
+      "title_fa": "به دلیل آب و هوای شدید، سیستم دفاع سیل لندن ممکن است خیلی زودتر از حد انتظار نیاز به تعویض داشته باشد",
+      "title_en": "London’s flood defence may need replacing far sooner than expected due to extreme weather",
+      "summary": "مقامات ارشد دولتی هشدار دادند که ارتقای سد تیمز می تواند حداقل 20 میلیارد پوند هزینه داشته باشد",
+      "summary_fa": "مقامات ارشد دولتی هشدار دادند که ارتقای سد تیمز می تواند حداقل 20 میلیارد پوند هزینه داشته باشد",
+      "summary_en": "Thames Barrier upgrade could cost at least £20bn, senior government officials warn",
+      "link": "https://www.ft.com/content/0a2db2ce-b89f-4d2b-a93b-794e4e422141?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 16 Aug 2026 18:00:03 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F768d7282-f6ec-4652-8598-e58d58b42816.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
       }
     },
     {
