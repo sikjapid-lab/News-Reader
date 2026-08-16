@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 11:25:14",
-  "total_count": 10837,
+  "last_update": "2026-08-16 11:47:18",
+  "total_count": 10839,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117034,6 +117034,48 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "9e7cf530ec2d3cb7209df2e3d2c38700",
+      "title": "«گزینه‌های محدود» برای بسیاری از ایرانیان زیرا جنگ با آمریکا اقتصاد را خفه می‌کند",
+      "title_fa": "«گزینه‌های محدود» برای بسیاری از ایرانیان زیرا جنگ با آمریکا اقتصاد را خفه می‌کند",
+      "title_en": "‘Limited options’ for many Iranians as war with US chokes economy",
+      "summary": "میلیون ها ایرانی در تلاش هستند تا زندگی خود را تامین کنند زیرا جنگ با ایالات متحده اقتصاد را ویران می کند و قیمت ها را افزایش می دهد.",
+      "summary_fa": "میلیون ها ایرانی در تلاش هستند تا زندگی خود را تامین کنند زیرا جنگ با ایالات متحده اقتصاد را ویران می کند و قیمت ها را افزایش می دهد.",
+      "summary_en": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 11:38:50 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0bd22e32a7d8a588395fb50331ba705a",
+      "title": "از بلندترین مجسمه مریم باکره اروپا در روستاهای لهستان رونمایی شد",
+      "title_fa": "از بلندترین مجسمه مریم باکره اروپا در روستاهای لهستان رونمایی شد",
+      "title_en": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "summary": "این مجسمه بتنی 55.6 متری (182 فوت) سر و شانه بالاتر از مسیح نجات دهنده ریودوژاینیرو است.",
+      "summary_fa": "این مجسمه بتنی 55.6 متری (182 فوت) سر و شانه بالاتر از مسیح نجات دهنده ریودوژاینیرو است.",
+      "summary_en": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
       "geo": {
         "lat": 50.8503,
         "lng": 4.3517,
