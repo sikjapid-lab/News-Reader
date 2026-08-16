@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 01:42:19",
-  "total_count": 10740,
+  "last_update": "2026-08-16 02:47:31",
+  "total_count": 10744,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117020,6 +117020,69 @@
       }
     },
     {
+      "id": "ba75038817d695ad09f0501fc5f3813b",
+      "title": "خبرنگار الجزیره کافه ساحلی در غزه ای که دوست دارد باز می کند",
+      "title_fa": "خبرنگار الجزیره کافه ساحلی در غزه ای که دوست دارد باز می کند",
+      "title_en": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "summary": "هند خدری، روزنامه نگار فلسطینی، یک کافه ساحلی در غزه افتتاح کرده است، به این امید که بخشی از زندگی بسیار دوست داشتنی را در جنگ زنده کند.",
+      "summary_fa": "هند خدری، روزنامه نگار فلسطینی، یک کافه ساحلی در غزه افتتاح کرده است، به این امید که بخشی از زندگی بسیار دوست داشتنی را در جنگ زنده کند.",
+      "summary_en": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 02:26:54 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "04b4bff0b90d3170a67fce028d2b0aec",
+      "title": "شرکت سنگاپور امیدوار است که دسترسی به هوش مصنوعی از تامین مالی پروازهای بلند پرواز به هنگ کنگ جلوگیری کند",
+      "title_fa": "شرکت سنگاپور امیدوار است که دسترسی به هوش مصنوعی از تامین مالی پروازهای بلند پرواز به هنگ کنگ جلوگیری کند",
+      "title_en": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+      "summary": "روابط نزدیک با ایالات متحده و چین به این معنی است که آخرین مدل‌های هوش مصنوعی به راحتی در ایالت شهر قابل دسترسی هستند.",
+      "summary_fa": "روابط نزدیک با ایالات متحده و چین به این معنی است که آخرین مدل‌های هوش مصنوعی به راحتی در ایالت شهر قابل دسترسی هستند.",
+      "summary_en": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
+      "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 16 Aug 2026 01:52:17 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ffd684f-daef-40d9-9fc6-ddddfd18b8c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "ef24484e4dc631ef973f0865bf725d20",
+      "title": "با افزایش قیمت بنزین، دوچرخه های برقی در نیجریه جایگاه خود را افزایش می دهند",
+      "title_fa": "با افزایش قیمت بنزین، دوچرخه های برقی در نیجریه جایگاه خود را افزایش می دهند",
+      "title_en": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "summary": "سواران می گویند این سوئیچ به آنها کمک می کند تا هزینه های سوخت و نگهداری را کاهش دهند.",
+      "summary_fa": "سواران می گویند این سوئیچ به آنها کمک می کند تا هزینه های سوخت و نگهداری را کاهش دهند.",
+      "summary_en": "Riders say the switch is helping them cut fuel and maintenance costs.",
+      "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 01:43:57 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4d233300232e0b19c9e0fe0d9f72edcd",
       "title": "خبر زنده: نخست وزیر هشدار داد استرالیا بیشتر از زمان قتل عام پورت آرتور اسلحه دارد. درخواست ارین پترسون برای شروع این هفته",
       "title_fa": "خبر زنده: نخست وزیر هشدار داد استرالیا بیشتر از زمان قتل عام پورت آرتور اسلحه دارد. درخواست ارین پترسون برای شروع این هفته",
@@ -131059,6 +131122,27 @@
       "source": "Al Jazeera",
       "published_at": "Sat, 15 Aug 2026 20:55:29 +0000",
       "date_iso": "2026-08-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "20d3b3b30c33e52c04a66dad7e432fcc",
+      "title": "قطر ادعای تهران مبنی بر بازداشت خلبانان بمب افکن ایرانی را رد کرد",
+      "title_fa": "قطر ادعای تهران مبنی بر بازداشت خلبانان بمب افکن ایرانی را رد کرد",
+      "title_en": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
+      "summary": "ایران مدعی است که قطر سه خلبان را که در ماه مارس سرنگون شده اند نگهداری می کند. دوحه \"اظهارات گمراه کننده\" را محکوم می کند.",
+      "summary_fa": "ایران مدعی است که قطر سه خلبان را که در ماه مارس سرنگون شده اند نگهداری می کند. دوحه \"اظهارات گمراه کننده\" را محکوم می کند.",
+      "summary_en": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 15 Aug 2026 20:55:29 +0000",
+      "date_iso": "2026-08-16",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
