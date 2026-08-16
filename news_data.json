@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-16 13:40:17",
-  "total_count": 10867,
+  "last_update": "2026-08-16 14:00:43",
+  "total_count": 10869,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117118,6 +117118,48 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "efffe205786adf9069a64a81be6db10f",
+      "title": "نتایج یک رقابت مقدماتی کنگره کانکتیکات چه معنایی برای تامین اجتماعی دارد",
+      "title_fa": "نتایج یک رقابت مقدماتی کنگره کانکتیکات چه معنایی برای تامین اجتماعی دارد",
+      "title_en": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "summary": "جان لارسون، نماینده کانکتیکات، یکی از مدافعان گسترش امنیت اجتماعی، در رقابت مقدماتی دموکرات‌ها در روز سه‌شنبه برکنار شد.",
+      "summary_fa": "جان لارسون، نماینده کانکتیکات، یکی از مدافعان گسترش امنیت اجتماعی، در رقابت مقدماتی دموکرات‌ها در روز سه‌شنبه برکنار شد.",
+      "summary_en": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
+      "link": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+      "source": "CNBC",
+      "published_at": "Sun, 16 Aug 2026 13:30:01 GMT",
+      "date_iso": "2026-08-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "87195e1aba480790392908c9909a68b4",
+      "title": "بیمارانی که پس از زلزله آسیب رسانده به بیمارستان اندونزی در چادرها درمان شدند",
+      "title_fa": "بیمارانی که پس از زلزله آسیب رسانده به بیمارستان اندونزی در چادرها درمان شدند",
+      "title_en": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "summary": "بیمارانی که پس از زلزله آسیب رسانده به بیمارستان اندونزی در چادرها درمان شدند",
+      "summary_fa": "بیمارانی که پس از زلزله آسیب رسانده به بیمارستان اندونزی در چادرها درمان شدند",
+      "summary_en": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 16 Aug 2026 13:19:35 +0000",
+      "date_iso": "2026-08-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
