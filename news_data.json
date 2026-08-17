@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-17 11:04:15",
-  "total_count": 11140,
+  "last_update": "2026-08-17 11:36:33",
+  "total_count": 11160,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -160467,6 +160467,69 @@
       }
     },
     {
+      "id": "19f0898ed5f1138d2c671dcb4bd838dc",
+      "title": "چگونه از نیش کنه ها و بیماری هایی که در تابستان منتشر می کنند جلوگیری کنیم؟",
+      "title_fa": "چگونه از نیش کنه ها و بیماری هایی که در تابستان منتشر می کنند جلوگیری کنیم؟",
+      "title_en": "How to avoid tick bites and diseases they spread this summer",
+      "summary": "تابستان به معنای روزهای طولانی در فضای باز است - اما در بیشتر اروپا، به معنای فصل اوج کنه است. خبر خوب این است که چند عادت ساده می تواند خطر گاز گرفتن را به میزان قابل توجهی کاهش دهد.",
+      "summary_fa": "تابستان به معنای روزهای طولانی در فضای باز است - اما در بیشتر اروپا، به معنای فصل اوج کنه است. خبر خوب این است که چند عادت ساده می تواند خطر گاز گرفتن را به میزان قابل توجهی کاهش دهد.",
+      "summary_en": "Summer means long days outdoors — but across much of Europe, it also means peak tick season. The good news is that a few simple habits can substantially reduce the risk of being bitten.",
+      "link": "http://www.euronews.com/health/2026/08/17/how-to-avoid-tick-bites-and-diseases-they-spread-this-summer",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 13:31:19 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "59294980c3fb440eee999f60745f2d76",
+      "title": "«فردای بهتر»: دانش‌آموزان بریتانیا این فرصت را دارند که پایان ملیله بایو را بازنویسی کنند.",
+      "title_fa": "«فردای بهتر»: دانش‌آموزان بریتانیا این فرصت را دارند که پایان ملیله بایو را بازنویسی کنند.",
+      "title_en": "‘A better tomorrow’: UK schoolchildren get the chance to rewrite the ending of the Bayeux Tapestry",
+      "summary": "نزدیک به 1000 سال پس از ساخته شدن، ملیله بایو به انگلستان بازگشته است - و از دانش‌آموزان بریتانیایی خواسته می‌شود صحنه پایانی گمشده آن را تصور کنند.",
+      "summary_fa": "نزدیک به 1000 سال پس از ساخته شدن، ملیله بایو به انگلستان بازگشته است - و از دانش‌آموزان بریتانیایی خواسته می‌شود صحنه پایانی گمشده آن را تصور کنند.",
+      "summary_en": "Nearly 1,000 years after it was made, the Bayeux Tapestry is back in England – and UK schoolchildren are being asked to imagine its missing final scene.",
+      "link": "http://www.euronews.com/culture/2026/08/17/a-better-tomorrow-uk-schoolchildren-get-the-chance-to-rewrite-the-ending-of-the-bayeux-tap",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 13:09:41 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "34edc22a2c6031b8822110ecae40c24b",
+      "title": "طبق یافته های گزارش، مسافران غوطه وری فرهنگی را بر ماجراجویی و تجمل ترجیح می دهند",
+      "title_fa": "طبق یافته های گزارش، مسافران غوطه وری فرهنگی را بر ماجراجویی و تجمل ترجیح می دهند",
+      "title_en": "Travellers are prioritising cultural immersion over adventure and luxury, report finds",
+      "summary": "غوطه ور شدن فرهنگی از تجمل و ماجراجویی به عنوان اولویت سفر پیشی می گیرد، در حالی که هوش مصنوعی و رسانه های اجتماعی نحوه کشف و شخصی سازی تجربیات مسافران در خارج از کشور را تغییر می دهند.",
+      "summary_fa": "غوطه ور شدن فرهنگی از تجمل و ماجراجویی به عنوان اولویت سفر پیشی می گیرد، در حالی که هوش مصنوعی و رسانه های اجتماعی نحوه کشف و شخصی سازی تجربیات مسافران در خارج از کشور را تغییر می دهند.",
+      "summary_en": "Cultural immersion is overtaking luxury and adventure as a travel priority, while AI and social media reshape how travellers discover and personalise experiences abroad.",
+      "link": "http://www.euronews.com/travel/2026/08/17/travellers-are-prioritising-cultural-immersion-over-adventure-and-luxury-report-finds",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 13:03:23 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2ef0d490d44e82261cb68e35f04b493c",
       "title": "نانو ماده جدید اسپانیایی سطوح را تا 12.9 درجه سانتیگراد بدون برق خنک می کند",
       "title_fa": "نانو ماده جدید اسپانیایی سطوح را تا 12.9 درجه سانتیگراد بدون برق خنک می کند",
@@ -160614,6 +160677,27 @@
       }
     },
     {
+      "id": "65c0485cd2a17d46bcbf0465bedfb791",
+      "title": "چرا گلدمن ساکس فکر می کند فدرال رزرو در ماه سپتامبر نرخ بهره را افزایش نخواهد داد؟",
+      "title_fa": "چرا گلدمن ساکس فکر می کند فدرال رزرو در ماه سپتامبر نرخ بهره را افزایش نخواهد داد؟",
+      "title_en": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
+      "summary": "گلدمن انتظار دارد که فدرال رزرو در برابر هرگونه اطلاعات چشمگیر بایستد.",
+      "summary_fa": "گلدمن انتظار دارد که فدرال رزرو در برابر هرگونه اطلاعات چشمگیر بایستد.",
+      "summary_en": "Goldman expects that the Fed will stand pat — barring any dramatic data.",
+      "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 17 Aug 2026 11:33:00 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-10023964",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "0ecd2c9b9349b68aa14c750740625425",
       "title": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار در حراجی فروخته شد",
       "title_fa": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار در حراجی فروخته شد",
@@ -160635,6 +160719,27 @@
       }
     },
     {
+      "id": "998a2e5c88995ed2fafa51ca124f3b3f",
+      "title": "7 بهترین لپ تاپ ارزان برای خرید در سال 2026 (و برخی از آنها برای اجتناب از)",
+      "title_fa": "7 بهترین لپ تاپ ارزان برای خرید در سال 2026 (و برخی از آنها برای اجتناب از)",
+      "title_en": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
+      "summary": "از کروم‌بوک‌های شگفت‌آور 300 دلاری تا نوت‌بوک‌های ویندوزی عالی 650 دلاری و موارد دیگر، اینها بهترین لپ‌تاپ‌های مقرون به صرفه‌ای هستند که من آزمایش کرده‌ام.",
+      "summary_fa": "از کروم‌بوک‌های شگفت‌آور 300 دلاری تا نوت‌بوک‌های ویندوزی عالی 650 دلاری و موارد دیگر، اینها بهترین لپ‌تاپ‌های مقرون به صرفه‌ای هستند که من آزمایش کرده‌ام.",
+      "summary_en": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested.",
+      "link": "https://www.wired.com/gallery/best-cheap-laptops/",
+      "source": "Wired",
+      "published_at": "Mon, 17 Aug 2026 11:31:00 +0000",
+      "date_iso": "2026-08-17",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "160a8f6140f8f92face03e563739de4a",
       "title": "به دنبال یک فرار عاشقانه هستید؟ اکنون می توانید در یک برج آبی ویکتوریایی در Sandringham Estate اقامت کنید",
       "title_fa": "به دنبال یک فرار عاشقانه هستید؟ اکنون می توانید در یک برج آبی ویکتوریایی در Sandringham Estate اقامت کنید",
@@ -160648,6 +160753,90 @@
       "date_iso": "2026-08-17",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "978f8167a682172cf470f0ac510524e4",
+      "title": "علی بابا با مدل جدید لپ‌تاپ به چالش هوش مصنوعی متا پاسخ می‌دهد",
+      "title_fa": "علی بابا با مدل جدید لپ‌تاپ به چالش هوش مصنوعی متا پاسخ می‌دهد",
+      "title_en": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+      "summary": "علی بابا یک مدل هوش مصنوعی آماده لپ تاپ راه اندازی کرد و وزن قوی ترین مدل Qwen خود را منتشر کرد و رقابت خود را با متا در هوش مصنوعی وزن باز تشدید کرد.",
+      "summary_fa": "علی بابا یک مدل هوش مصنوعی آماده لپ تاپ راه اندازی کرد و وزن قوی ترین مدل Qwen خود را منتشر کرد و رقابت خود را با متا در هوش مصنوعی وزن باز تشدید کرد.",
+      "summary_en": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
+      "link": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+      "source": "CNBC",
+      "published_at": "Mon, 17 Aug 2026 11:24:23 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bbc76ab8a6ed4d813ab23b3f963e371d",
+      "title": "کوشنر فرستاده ترامپ پس از مذاکرات حماس درباره طرح صلح با نتانیاهو دیدار کرد",
+      "title_fa": "کوشنر فرستاده ترامپ پس از مذاکرات حماس درباره طرح صلح با نتانیاهو دیدار کرد",
+      "title_en": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "summary": "جرد کوشنر، داماد ترامپ، رئیس جمهور ایالات متحده، به دنبال جلب حمایت اسرائیل از طرح صلح غزه است که مورد حمایت ایالات متحده است.",
+      "summary_fa": "جرد کوشنر، داماد ترامپ، رئیس جمهور ایالات متحده، به دنبال جلب حمایت اسرائیل از طرح صلح غزه است که مورد حمایت ایالات متحده است.",
+      "summary_en": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 17 Aug 2026 11:16:31 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "b60fd1090240f146871619f311aabcc7",
+      "title": "آیا جهان در حال حاضر بیشتر از قبل دچار زلزله می شود؟",
+      "title_fa": "آیا جهان در حال حاضر بیشتر از قبل دچار زلزله می شود؟",
+      "title_en": "Is the world experiencing more earthquakes now than before?",
+      "summary": "الجزیره داده‌های یک دهه زلزله را بررسی می‌کند تا ببیند سال 2026 چگونه و نحوه و مکان وقوع زلزله را مقایسه می‌کند و توضیح می‌دهد.",
+      "summary_fa": "الجزیره داده‌های یک دهه زلزله را بررسی می‌کند تا ببیند سال 2026 چگونه و نحوه و مکان وقوع زلزله را مقایسه می‌کند و توضیح می‌دهد.",
+      "summary_en": "Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 11:09:18 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "615e96e21d184ff672174a540dff2e4a",
+      "title": "افزایش 5 درصدی انرژی ویستا پس از خرید میلیاردر، پیتر تیل، تولیدکننده نفت شیل آرژانتینی",
+      "title_fa": "افزایش 5 درصدی انرژی ویستا پس از خرید میلیاردر، پیتر تیل، تولیدکننده نفت شیل آرژانتینی",
+      "title_en": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+      "summary": "صندوق تامینی پیتر تیل، سهام ۷۶ میلیون دلاری شرکت نفت آرژانتینی ویستا انرژی را فاش کرد که باعث شد سهام آن در معاملات پیش از بازار افزایش یابد.",
+      "summary_fa": "صندوق تامینی پیتر تیل، سهام ۷۶ میلیون دلاری شرکت نفت آرژانتینی ویستا انرژی را فاش کرد که باعث شد سهام آن در معاملات پیش از بازار افزایش یابد.",
+      "summary_en": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
+      "link": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
+      "source": "CNBC",
+      "published_at": "Mon, 17 Aug 2026 11:05:58 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -160698,6 +160887,27 @@
       }
     },
     {
+      "id": "f54a0ca49b25c0756c8b8bc765efbebc",
+      "title": "اپراتورهای ماهواره به دلیل بدتر شدن بحران پرتاب در حالت وحشت هستند",
+      "title_fa": "اپراتورهای ماهواره به دلیل بدتر شدن بحران پرتاب در حالت وحشت هستند",
+      "title_en": "Satellite operators are in panic mode due to a worsening launch crisis",
+      "summary": "اگر موشک های فالکون پرواز را متوقف کنند چه اتفاقی می افتد؟",
+      "summary_fa": "اگر موشک های فالکون پرواز را متوقف کنند چه اتفاقی می افتد؟",
+      "summary_en": "What happens if the Falcon rockets stop flying?",
+      "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 17 Aug 2026 11:00:26 +0000",
+      "date_iso": "2026-08-17",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3d0d6e9347d6c981a2c9c4b5b550f80f",
       "title": "تلویزیون سه سال دیگر چگونه خواهد بود؟ رسانه های داخلی پیش بینی های خود را به اشتراک می گذارند",
       "title_fa": "تلویزیون سه سال دیگر چگونه خواهد بود؟ رسانه های داخلی پیش بینی های خود را به اشتراک می گذارند",
@@ -160711,6 +160921,48 @@
       "date_iso": "2026-08-17",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dbbb0ce0b65efef93786746c8dfd0c4c",
+      "title": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار به حراج گذاشته شد",
+      "title_fa": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار به حراج گذاشته شد",
+      "title_en": "Ferrari’s first EV auctioned off at record $40mn",
+      "summary": "قیمت حراج لوس رکوردی را برای یک خودروی جدید ایجاد می کند",
+      "summary_fa": "قیمت حراج لوس رکوردی را برای یک خودروی جدید ایجاد می کند",
+      "summary_en": "The Luce’s auction price sets a record for a new car",
+      "link": "https://www.ft.com/content/3cef717f-c231-420f-8405-0b2f9c416914?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 17 Aug 2026 10:58:04 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4571f10-35a8-4d2c-815a-446c92cfe7e3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ae277dba98a72fa0832c5986a532ca18",
+      "title": "بحران یو اس اس لینکلن: چگونه با استقرار ناوهای هواپیمابر گذشته مقایسه می شود",
+      "title_fa": "بحران یو اس اس لینکلن: چگونه با استقرار ناوهای هواپیمابر گذشته مقایسه می شود",
+      "title_en": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+      "summary": "بحران یو اس اس آبراهام لینکلن، تلفات استقرار طولانی مدت بر روحیه خدمه و آمادگی عملیاتی را برجسته می کند.",
+      "summary_fa": "بحران یو اس اس آبراهام لینکلن، تلفات استقرار طولانی مدت بر روحیه خدمه و آمادگی عملیاتی را برجسته می کند.",
+      "summary_en": "The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:57:49 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -160740,6 +160992,69 @@
       }
     },
     {
+      "id": "9394689bd15d291726bb6ad4daea3017",
+      "title": "دفتر بارزانی نخست وزیر کردستان عراق هدف حمله پهپادی قرار گرفت",
+      "title_fa": "دفتر بارزانی نخست وزیر کردستان عراق هدف حمله پهپادی قرار گرفت",
+      "title_en": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+      "summary": "پهپادهای انفجاری دفتر نخست وزیر کردستان عراق و اقامتگاه رئیس امنیت را هدف قرار دادند. تلفات جانی گزارش نشده است",
+      "summary_fa": "پهپادهای انفجاری دفتر نخست وزیر کردستان عراق و اقامتگاه رئیس امنیت را هدف قرار دادند. تلفات جانی گزارش نشده است",
+      "summary_en": "Explosive drones target Iraqi Kurdish PM's office and security chief's residence; no casualties reported.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:54:50 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6fb74c3e3706431998c035e5508a9ca9",
+      "title": "ازدحام معبد هند هفت نفر را کشت و ده ها نفر را مجروح کرد",
+      "title_fa": "ازدحام معبد هند هفت نفر را کشت و ده ها نفر را مجروح کرد",
+      "title_en": "Indian temple stampede kills seven people and injures dozens",
+      "summary": "بر اثر ازدحام جمعیت در معبد هندوها در شرق هند هفت نفر کشته و 19 نفر دیگر زخمی شدند.",
+      "summary_fa": "بر اثر ازدحام جمعیت در معبد هندوها در شرق هند هفت نفر کشته و 19 نفر دیگر زخمی شدند.",
+      "summary_en": "A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:54:40 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5558f8e5418923c1fbb9b82c5843c963",
+      "title": "آیا چین به قلمرو هند در آروناچال پرادش تجاوز می کند؟",
+      "title_fa": "آیا چین به قلمرو هند در آروناچال پرادش تجاوز می کند؟",
+      "title_en": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+      "summary": "هند و چین در یک مناقشه مرزی دیگر درگیر هستند که باعث خشم مردم محلی در ایالت شرقی آروناچال پرادش شده است.",
+      "summary_fa": "هند و چین در یک مناقشه مرزی دیگر درگیر هستند که باعث خشم مردم محلی در ایالت شرقی آروناچال پرادش شده است.",
+      "summary_en": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:51:49 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "fad7d72112c1c0bf9628b24b4b684501",
       "title": "تیلور از آلبانیایی ها می خواهد در ازای حمایت از لایحه NDIS، «مالیات ظالمانه» را لغو کنند",
       "title_fa": "تیلور از آلبانیایی ها می خواهد در ازای حمایت از لایحه NDIS، «مالیات ظالمانه» را لغو کنند",
@@ -160758,6 +161073,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "808ac4522680cbabfc5a4b92f52eff28",
+      "title": "تماشا کنید: سرآشپز جوان 16 ساله در حال پختن غذاهای لذیذ در غزه",
+      "title_fa": "تماشا کنید: سرآشپز جوان 16 ساله در حال پختن غذاهای لذیذ در غزه",
+      "title_en": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+      "summary": "یاسر ایاد، 16 ساله، با پختن غذاهای سنتی فلسطینی در غزه، به ستاره آشپزی در رسانه های اجتماعی تبدیل شده است.",
+      "summary_fa": "یاسر ایاد، 16 ساله، با پختن غذاهای سنتی فلسطینی در غزه، به ستاره آشپزی در رسانه های اجتماعی تبدیل شده است.",
+      "summary_en": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
+      "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:51:03 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
       }
     },
     {
@@ -161020,6 +161356,27 @@
       "summary": "پس از زلزله 7.7 ریشتری که روز شنبه استان نوسا تنگرا شرقی را لرزاند، هزاران نفر آواره هستند.",
       "summary_fa": "پس از زلزله 7.7 ریشتری که روز شنبه استان نوسا تنگرا شرقی را لرزاند، هزاران نفر آواره هستند.",
       "summary_en": "Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 10:14:28 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "ec18b1b1b11562b0dea243788683cde3",
+      "title": "هزاران نفر پس از زلزله مرگبار اندونزی در انتظار کمک هستند تا عملیات نجات در حال انجام باشد",
+      "title_fa": "هزاران نفر پس از زلزله مرگبار اندونزی در انتظار کمک هستند تا عملیات نجات در حال انجام باشد",
+      "title_en": "Thousands await aid after deadly Indonesia quake as rescue work under way",
+      "summary": "پس از زلزله ۷.۷ ریشتری که روز شنبه استان نوسا تنگگارا شرقی را لرزاند، هزاران نفر آواره هستند.",
+      "summary_fa": "پس از زلزله ۷.۷ ریشتری که روز شنبه استان نوسا تنگگارا شرقی را لرزاند، هزاران نفر آواره هستند.",
+      "summary_en": "Thousands remain displaced after a magnitude 7.7 earthquake struck East Nusa Tenggara province on Saturday.",
       "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Mon, 17 Aug 2026 10:14:28 +0000",
@@ -161794,6 +162151,27 @@
       "title": "کوشنر برای پیشبرد طرح ترامپ برای غزه با نتانیاهو دیدار می کند",
       "title_fa": "کوشنر برای پیشبرد طرح ترامپ برای غزه با نتانیاهو دیدار می کند",
       "title_en": "Kushner to meet Netanyahu to push Trump Gaza plan",
+      "summary": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
+      "summary_fa": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
+      "summary_en": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 08:13:04 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "0ba2a377ed8fa3269d2bbbd227459e4d",
+      "title": "کوشنر برای پیشبرد طرح ترامپ درباره غزه با نتانیاهو ملاقات کرد",
+      "title_fa": "کوشنر برای پیشبرد طرح ترامپ درباره غزه با نتانیاهو ملاقات کرد",
+      "title_en": "Kushner meets Netanyahu to push Trump Gaza plan",
       "summary": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
       "summary_fa": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
       "summary_en": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
@@ -217914,6 +218292,48 @@
       "published_at": "2026-08-17T03:00:00-04:00",
       "date_iso": "2026-08-17",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c5e2f4ab05ec360a2029834d0a2ba2f",
+      "title": "چرا سیستم های هوش مصنوعی به عنوان طراحان ابزارهای علمی جدید بسیار مفید هستند؟",
+      "title_fa": "چرا سیستم های هوش مصنوعی به عنوان طراحان ابزارهای علمی جدید بسیار مفید هستند؟",
+      "title_en": "Why AI systems are most useful as designers of new scientific tools",
+      "summary": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02529-xتاریخ نشان می‌دهد که پیشرفت‌ها اغلب توسط ابزارهای نوآورانه ایجاد می‌شوند و توانایی هوش مصنوعی برای کمک به طراحی آنها ممکن است مهم‌ترین مشارکت علمی آن باشد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02529-xتاریخ نشان می‌دهد که پیشرفت‌ها اغلب توسط ابزارهای نوآورانه ایجاد می‌شوند و توانایی هوش مصنوعی برای کمک به طراحی آنها ممکن است مهم‌ترین مشارکت علمی آن باشد.",
+      "summary_en": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02529-xHistory shows that breakthroughs are often sparked by innovative instruments, and AI’s ability to help design them might be its most important scientific contribution.",
+      "link": "https://www.nature.com/articles/d41586-026-02529-x",
+      "source": "Nature",
+      "published_at": "2026-08-17 11:36",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2030507b3698cdf8bef0375bfa02eb95",
+      "title": "گزارش روزانه: افزایش باستانی CO<sub>2</sub> به آنچه امروز می تواند رخ دهد اشاره می کند",
+      "title_fa": "گزارش روزانه: افزایش باستانی CO<sub>2</sub> به آنچه امروز می تواند رخ دهد اشاره می کند",
+      "title_en": "Daily briefing: Ancient rise in CO<sub>2</sub> hints at what could happen today",
+      "summary": "طبیعت، انتشار آنلاین: 14 آگوست 2026; doi:10.1038/d41586-026-02581-7 افزایش شدید دی اکسید کربن در حدود 56 میلیون سال پیش برای جنگل ها فاجعه بار بود. به علاوه، واکسن‌های آنفولانزای مبتنی بر mRNA در ایالات متحده تأیید شده‌اند و آنتروپیک قرار است واترمارک هوش مصنوعی را معرفی کند.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 14 آگوست 2026; doi:10.1038/d41586-026-02581-7 افزایش شدید دی اکسید کربن در حدود 56 میلیون سال پیش برای جنگل ها فاجعه بار بود. به علاوه، واکسن‌های آنفولانزای مبتنی بر mRNA در ایالات متحده تأیید شده‌اند و آنتروپیک قرار است واترمارک هوش مصنوعی را معرفی کند.",
+      "summary_en": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02581-7A sharp rise in carbon dioxide around 56 million years ago was catastrophic for forests. Plus, mRNA-based flu vaccines have been approved in the United States and Anthropic is to introduce an AI watermark.",
+      "link": "https://www.nature.com/articles/d41586-026-02581-7",
+      "source": "Nature",
+      "published_at": "2026-08-17 11:36",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
