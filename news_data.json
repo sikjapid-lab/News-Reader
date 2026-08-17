@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-17 11:36:33",
-  "total_count": 11160,
+  "last_update": "2026-08-17 11:58:36",
+  "total_count": 11167,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -160467,6 +160467,48 @@
       }
     },
     {
+      "id": "be2fabe3a97ddc404f4e07bb7f587a8c",
+      "title": "ارتش اوکراین می‌گوید اوکراین هفت تا از 10 انبار بزرگ خرده‌فروشی آنلاین روسی Wildberries را هدف قرار داده است",
+      "title_fa": "ارتش اوکراین می‌گوید اوکراین هفت تا از 10 انبار بزرگ خرده‌فروشی آنلاین روسی Wildberries را هدف قرار داده است",
+      "title_en": "Ukraine has hit seven of Russian online retailer Wildberries' 10 biggest warehouses, military says",
+      "summary": "به گفته وزارت دفاع کیف و موسسه مطالعات جنگ، کمپین حمله یک ماهه اوکراین علیه بزرگترین خرده‌فروش آنلاین روسیه، هفت مرکز لجستیکی آن را از بین برده است.",
+      "summary_fa": "به گفته وزارت دفاع کیف و موسسه مطالعات جنگ، کمپین حمله یک ماهه اوکراین علیه بزرگترین خرده‌فروش آنلاین روسیه، هفت مرکز لجستیکی آن را از بین برده است.",
+      "summary_en": "A month-long Ukrainian attack campaign against Russia's largest online retailer has knocked out seven of its ten biggest logistics hubs, according to Kyiv's defence ministry and the Institute for the Study of War.",
+      "link": "http://www.euronews.com/my-europe/2026/08/17/ukraine-has-hit-seven-of-russian-online-retailer-wildberries-10-biggest-warehouses-militar",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 13:51:57 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "082eb875a362436400dac48644d6a316",
+      "title": "اسب سواری: چگونه تصویر جورج واشنگتن از هوش مصنوعی ترامپ به طور نمادین نتیجه معکوس داشته است",
+      "title_fa": "اسب سواری: چگونه تصویر جورج واشنگتن از هوش مصنوعی ترامپ به طور نمادین نتیجه معکوس داشته است",
+      "title_en": "Horsing around: How Trump's AI George Washington image has symbolically backfired",
+      "summary": "آخرین تصویر ساخته شده توسط هوش مصنوعی دونالد ترامپ، که او را در حال اسب سواری در کنار جورج واشنگتن نشان می دهد، نتیجه معکوس داشته است زیرا بسیاری به اشتباه نمادین او در حال سوار شدن بر اسب سیاه در شرایط جوی فعلی اشاره کرده اند.",
+      "summary_fa": "آخرین تصویر ساخته شده توسط هوش مصنوعی دونالد ترامپ، که او را در حال اسب سواری در کنار جورج واشنگتن نشان می دهد، نتیجه معکوس داشته است زیرا بسیاری به اشتباه نمادین او در حال سوار شدن بر اسب سیاه در شرایط جوی فعلی اشاره کرده اند.",
+      "summary_en": "Donald Trump's latest AI-generated image, depicting him horse riding alongside George Washington, has backfired as many have pointed out the symbolic blunder of him riding a black horse in the current climate...",
+      "link": "http://www.euronews.com/culture/2026/08/17/horsing-around-how-trumps-ai-george-washington-image-has-symbolically-backfired",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 13:41:41 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
       "id": "19f0898ed5f1138d2c671dcb4bd838dc",
       "title": "چگونه از نیش کنه ها و بیماری هایی که در تابستان منتشر می کنند جلوگیری کنیم؟",
       "title_fa": "چگونه از نیش کنه ها و بیماری هایی که در تابستان منتشر می کنند جلوگیری کنیم؟",
@@ -160656,6 +160698,27 @@
       }
     },
     {
+      "id": "223a3226d918b61b43aa12c9f98345bd",
+      "title": "ترامپ تهدید کرد در صورت پایان یافتن آتش بس ایران و آمریکا، عمان را بمباران خواهد کرد.",
+      "title_fa": "ترامپ تهدید کرد در صورت پایان یافتن آتش بس ایران و آمریکا، عمان را بمباران خواهد کرد.",
+      "title_en": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+      "summary": "ترافیک کشتیرانی در تنگه هرمز به پایین ترین حد خود رسید زیرا آتش بس بین ایالات متحده و ایران در روز دوشنبه به پایان می رسد و هیچ توافقی در دست نیست.",
+      "summary_fa": "ترافیک کشتیرانی در تنگه هرمز به پایین ترین حد خود رسید زیرا آتش بس بین ایالات متحده و ایران در روز دوشنبه به پایان می رسد و هیچ توافقی در دست نیست.",
+      "summary_en": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Mon, 17 Aug 2026 11:55:48 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "74ff365a60a74f772a3d195a3951b892",
       "title": "با ناامید شدن داده های رشد، بازده اوراق قرضه 10 ساله ژاپن به بالاترین حد خود در 30 سال گذشته رسید.",
       "title_fa": "با ناامید شدن داده های رشد، بازده اوراق قرضه 10 ساله ژاپن به بالاترین حد خود در 30 سال گذشته رسید.",
@@ -160674,6 +160737,27 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "3591becb197f7fb3e7f1395974afb938",
+      "title": "Google Workspace به Gemini اجازه می‌دهد به طور پیش‌فرض به داده‌های شرکت شما دسترسی داشته باشد - چگونه آن را خاموش کنیم",
+      "title_fa": "Google Workspace به Gemini اجازه می‌دهد به طور پیش‌فرض به داده‌های شرکت شما دسترسی داشته باشد - چگونه آن را خاموش کنیم",
+      "title_en": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+      "summary": "در Google Workspace، Gemini به طور پیش فرض به Gmail، Docs، Calendar، Chat و موارد دیگر دسترسی دارد. در اینجا به دلیل اهمیت آن و نحوه غیرفعال کردن آن توسط مدیران می پردازیم.",
+      "summary_fa": "در Google Workspace، Gemini به طور پیش فرض به Gmail، Docs، Calendar، Chat و موارد دیگر دسترسی دارد. در اینجا به دلیل اهمیت آن و نحوه غیرفعال کردن آن توسط مدیران می پردازیم.",
+      "summary_en": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+      "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+      "source": "ZDNet",
+      "published_at": "Mon, 17 Aug 2026 11:38:51 GMT",
+      "date_iso": "2026-08-17",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -160758,6 +160842,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4ed571d523f88ad06227e5bc6455961",
+      "title": "ترامپ به آمریکا دستور داد تمرینات نظامی کره جنوبی را کاهش دهد",
+      "title_fa": "ترامپ به آمریکا دستور داد تمرینات نظامی کره جنوبی را کاهش دهد",
+      "title_en": "Trump orders US to scale back South Korea military drills",
+      "summary": "دونالد ترامپ به ارتش آمریکا دستور داده است که رزمایش های مشترک با کره جنوبی را کاهش دهد.",
+      "summary_fa": "دونالد ترامپ به ارتش آمریکا دستور داده است که رزمایش های مشترک با کره جنوبی را کاهش دهد.",
+      "summary_en": "Donald Trump has ordered the US military to scale back joint exercises with South Korea.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 11:29:00 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8bc385ee5a2bdccd82fddfe3fae240ba",
+      "title": "ترامپ تهدید کرد که اگر عمان را \"مداخله\" مذاکرات ایران و آمریکا کند، بمباران خواهد کرد",
+      "title_fa": "ترامپ تهدید کرد که اگر عمان را \"مداخله\" مذاکرات ایران و آمریکا کند، بمباران خواهد کرد",
+      "title_en": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations",
+      "summary": "این اظهارات در حالی مطرح می شود که کشور خلیج فارس در حال مذاکره با تهران بر سر ترتیبات موقت برای مدیریت تنگه هرمز بوده است.",
+      "summary_fa": "این اظهارات در حالی مطرح می شود که کشور خلیج فارس در حال مذاکره با تهران بر سر ترتیبات موقت برای مدیریت تنگه هرمز بوده است.",
+      "summary_en": "Remarks come as Gulf state has been in talks with Tehran over provisional arrangement to manage Strait of Hormuz",
+      "link": "https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070",
+      "source": "Financial Times",
+      "published_at": "Mon, 17 Aug 2026 11:25:49 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7af2238-f387-48c5-bef2-3a1e0c04d400.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -161650,6 +161776,27 @@
       "summary": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کمی دارند یا بدون آن هستند که هنوز واجد شرایط دریافت یارانه در بیمه درمانی خود هستند.",
       "summary_fa": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کمی دارند یا بدون آن هستند که هنوز واجد شرایط دریافت یارانه در بیمه درمانی خود هستند.",
       "summary_en": "“I see people who have a lot of money but little or no taxable income who still qualify for subsidies on their health insurance.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 17 Aug 2026 09:15:00 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-22076173",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d68796303950148351f67cd13ed3c02b",
+      "title": "پسر من کار نمی کند، اما 500 دلار برای بیمه درمانی قانون مراقبت مقرون به صرفه می پردازد. آیا این عادلانه است؟",
+      "title_fa": "پسر من کار نمی کند، اما 500 دلار برای بیمه درمانی قانون مراقبت مقرون به صرفه می پردازد. آیا این عادلانه است؟",
+      "title_en": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "summary": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کم یا بدون درآمد دارند که هنوز واجد شرایط دریافت یارانه های ACA Marketplace هستند.",
+      "summary_fa": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کم یا بدون درآمد دارند که هنوز واجد شرایط دریافت یارانه های ACA Marketplace هستند.",
+      "summary_en": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
       "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_at": "Mon, 17 Aug 2026 09:15:00 GMT",
