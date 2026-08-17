@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-17 09:10:06",
-  "total_count": 11093,
+  "last_update": "2026-08-17 09:58:22",
+  "total_count": 11113,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -160467,6 +160467,69 @@
       }
     },
     {
+      "id": "74ff365a60a74f772a3d195a3951b892",
+      "title": "با ناامید شدن داده های رشد، بازده اوراق قرضه 10 ساله ژاپن به بالاترین حد خود در 30 سال گذشته رسید.",
+      "title_fa": "با ناامید شدن داده های رشد، بازده اوراق قرضه 10 ساله ژاپن به بالاترین حد خود در 30 سال گذشته رسید.",
+      "title_en": "Japan's 10-year bond yield hits a 30-year high as growth data disappoints",
+      "summary": "بازده اوراق قرضه دولتی 10 ساله ژاپن روز دوشنبه به بالاترین سطح خود از سال 1996 رسید، زیرا داده های جدید نشان می دهد که چهارمین اقتصاد بزرگ جهان در سه ماهه دوم بسیار کندتر از انتظار رشد کرده است.",
+      "summary_fa": "بازده اوراق قرضه دولتی 10 ساله ژاپن روز دوشنبه به بالاترین سطح خود از سال 1996 رسید، زیرا داده های جدید نشان می دهد که چهارمین اقتصاد بزرگ جهان در سه ماهه دوم بسیار کندتر از انتظار رشد کرده است.",
+      "summary_en": "Japan's 10-year government bond yield climbed to its highest level since 1996 on Monday as fresh data showed the world's fourth-largest economy grew far more slowly than expected in the second quarter.",
+      "link": "http://www.euronews.com/business/2026/08/17/japans-10-year-bond-yield-hits-a-30-year-high-as-growth-data-disappoints",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 11:40:58 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "0ecd2c9b9349b68aa14c750740625425",
+      "title": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار در حراجی فروخته شد",
+      "title_fa": "اولین خودروی برقی فراری با قیمت رکورد 40 میلیون دلار در حراجی فروخته شد",
+      "title_en": "Ferrari’s first EV sells for record $40 million at auction",
+      "summary": "اولین خودروی برقی این خودروساز لوکس ایتالیایی، تنها چند ماه پس از رونمایی که با واکنش‌های شدید روبرو شد، رکورد فروش یک خودروی جدید در حراجی را به نام خود ثبت کرد.",
+      "summary_fa": "اولین خودروی برقی این خودروساز لوکس ایتالیایی، تنها چند ماه پس از رونمایی که با واکنش‌های شدید روبرو شد، رکورد فروش یک خودروی جدید در حراجی را به نام خود ثبت کرد.",
+      "summary_en": "The Italian luxury carmaker’s first electric car has set a record for a new vehicle sold at auction, just months after its unveiling drew backlash.",
+      "link": "http://www.euronews.com/business/2026/08/17/ferraris-first-ev-sells-for-record-40-million-at-auction",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 11:32:59 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "160a8f6140f8f92face03e563739de4a",
+      "title": "به دنبال یک فرار عاشقانه هستید؟ اکنون می توانید در یک برج آبی ویکتوریایی در Sandringham Estate اقامت کنید",
+      "title_fa": "به دنبال یک فرار عاشقانه هستید؟ اکنون می توانید در یک برج آبی ویکتوریایی در Sandringham Estate اقامت کنید",
+      "title_en": "Looking for a romantic escape? You can now stay in a Victorian water tower at Sandringham Estate",
+      "summary": "این سازه نئو بیزانسی دارای تراس روی پشت بام مشرف به املاک بزرگ و حومه شهر نورفولک وسیع‌تر است.",
+      "summary_fa": "این سازه نئو بیزانسی دارای تراس روی پشت بام مشرف به املاک بزرگ و حومه شهر نورفولک وسیع‌تر است.",
+      "summary_en": "The neo-Byzantine structure has a rooftop terrace overlooking the grand estate and wider Norfolk countryside.",
+      "link": "http://www.euronews.com/travel/2026/08/17/looking-for-a-romantic-escape-you-can-now-stay-in-a-victorian-water-tower-at-sandringham-e",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 11:29:17 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "3813416d2a0891f233b4f5e5d386a1d6",
       "title": "«مرد عنکبوتی: روز کاملاً جدید» هشتمین فیلم تاریخ شد که از مرز ۲ میلیارد دلار در باکس آفیس عبور کرد.",
       "title_fa": "«مرد عنکبوتی: روز کاملاً جدید» هشتمین فیلم تاریخ شد که از مرز ۲ میلیارد دلار در باکس آفیس عبور کرد.",
@@ -160614,6 +160677,27 @@
       }
     },
     {
+      "id": "14e7422b97bde1e32de98b5e9881884a",
+      "title": "روسیه بندر دانوب را پس از یکی از بزرگترین حملات هوایی اوکراین در جنگ هدف قرار داد",
+      "title_fa": "روسیه بندر دانوب را پس از یکی از بزرگترین حملات هوایی اوکراین در جنگ هدف قرار داد",
+      "title_en": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
+      "summary": "روسیه پس از حمله پهپادی بزرگ کیف به مسکو، به زیرساخت‌های بندری در منطقه اودسا اوکراین حمله کرد و به یک کشتی غیرنظامی با پرچم توگو در نزدیکی ازمیل آسیب رساند.",
+      "summary_fa": "روسیه پس از حمله پهپادی بزرگ کیف به مسکو، به زیرساخت‌های بندری در منطقه اودسا اوکراین حمله کرد و به یک کشتی غیرنظامی با پرچم توگو در نزدیکی ازمیل آسیب رساند.",
+      "summary_en": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
+      "link": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+      "source": "CNBC",
+      "published_at": "Mon, 17 Aug 2026 09:46:08 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "9b0591033e7dcdef2a97b02b9f550c43",
       "title": "آتش سوزی در اروپا: شهر مرزی آلمان تا حدودی تخلیه شد اما آتش فرانسه تثبیت شد",
       "title_fa": "آتش سوزی در اروپا: شهر مرزی آلمان تا حدودی تخلیه شد اما آتش فرانسه تثبیت شد",
@@ -160632,6 +160716,153 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "024372458d60a208e0483002dd06cffb",
+      "title": "کاهش دما در سراسر اروپا به دلیل بارش شدید باران در بخش‌هایی از بریتانیا",
+      "title_fa": "کاهش دما در سراسر اروپا به دلیل بارش شدید باران در بخش‌هایی از بریتانیا",
+      "title_en": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
+      "summary": "دمای هوا ممکن است بیش از 15 درجه سانتیگراد در مقایسه با پنجشنبه گذشته کاهش یابد زیرا از روز دوشنبه حرکت های سرد جلو می آید. امدادرسانی از گرمای بی امان سرانجام این هفته در سراسر اروپای غربی وارد می شود و شرایط ناآرام بیشتر احتمال بارش باران را به همراه دارد. پیش بینی می شود که دمای هوا به سمت نرمال فصلی بازگردد و حتی در برخی از مناطق بریتانیا تا پنجشنبه حدود 3 درجه سانتیگراد کمتر از حد نرمال خواهد بود. پس از چنین تابستان سوزان و با کاهش دمای بیش از 15 درجه سانتیگراد در مقایسه با گرمای پنجشنبه گذشته، ممکن است هوا به طرز شگفت انگیزی سرد باشد. نشانه هایی وجود دارد که نشان می دهد برخی از باران های قابل توجهی می تواند در جنوب بریتانیا در این هفته وجود داشته باشد، زیرا یک جبهه سرد از اقیانوس اطلس در دوشنبه شب به سه شنبه در حال حرکت است. از روز دوشنبه، بخش‌هایی از جنوب انگلستان 62 روز متوالی بدون بارندگی را تحمل کرده‌اند - این در ایستگاه هواشناسی Met Office در ویسلی، ساری مشاهده شده است. حتی آخرین بارندگی ثبت شده در اینجا در 16 ژوئن فقط 0.4 میلی متر بوده است. ادامه مطلب...",
+      "summary_fa": "دمای هوا ممکن است بیش از 15 درجه سانتیگراد در مقایسه با پنجشنبه گذشته کاهش یابد زیرا از روز دوشنبه حرکت های سرد جلو می آید. امدادرسانی از گرمای بی امان سرانجام این هفته در سراسر اروپای غربی وارد می شود و شرایط ناآرام بیشتر احتمال بارش باران را به همراه دارد. پیش بینی می شود که دمای هوا به سمت نرمال فصلی بازگردد و حتی در برخی از مناطق بریتانیا تا پنجشنبه حدود 3 درجه سانتیگراد کمتر از حد نرمال خواهد بود. پس از چنین تابستان سوزان و با کاهش دمای بیش از 15 درجه سانتیگراد در مقایسه با گرمای پنجشنبه گذشته، ممکن است هوا به طرز شگفت انگیزی سرد باشد. نشانه هایی وجود دارد که نشان می دهد برخی از باران های قابل توجهی می تواند در جنوب بریتانیا در این هفته وجود داشته باشد، زیرا یک جبهه سرد از اقیانوس اطلس در دوشنبه شب به سه شنبه در حال حرکت است. از روز دوشنبه، بخش‌هایی از جنوب انگلستان 62 روز متوالی بدون بارندگی را تحمل کرده‌اند - این در ایستگاه هواشناسی Met Office در ویسلی، ساری مشاهده شده است. حتی آخرین بارندگی ثبت شده در اینجا در 16 ژوئن فقط 0.4 میلی متر بوده است. ادامه مطلب...",
+      "summary_en": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves arrives from MondayRelief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled conditions bringing the chance of rain. Temperatures are expected to fall back towards the seasonal norm, with some parts of the UK even falling about 3C below normal by Thursday. After such a scorching summer, and with a temperature drop of more than 15C compared with last Thursday’s heat, it may feel surprisingly chilly.There are signs that some substantial rain could be on the cards for the south of the UK this week as a cold front moves in from the Atlantic on Monday night into Tuesday. As of Monday, parts of southern England had endured 62 consecutive days of no rainfall – this is observed at a Met Office weather station in Wisley, Surrey. Even the last recorded rainfall here on 16 June amounted to just 0.4mm. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 09:37:38 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b976ac36df6c886e0342e12493364554b3479870/988_0_4918_3935/master/4918.jpg?width=140&quality=85&auto=format&fit=max&s=c16e5b8ed784c8c68031ca7702fe47c0",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "83a6f81dbce2b8552be2f9215a0f420e",
+      "title": "مقامات انتخاباتی برای پیش بینی بازارها آماده می شوند تا در میان دوره ای هرج و مرج ایجاد کنند",
+      "title_fa": "مقامات انتخاباتی برای پیش بینی بازارها آماده می شوند تا در میان دوره ای هرج و مرج ایجاد کنند",
+      "title_en": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
+      "summary": "از تهدید برای ایمنی کارکنان نظرسنجی گرفته تا رای دهندگانی که نمی توانند بین شانس و نتایج تمایز قائل شوند، بازارهای پیش بینی در حال حاضر درگیر روند سیاسی هستند.",
+      "summary_fa": "از تهدید برای ایمنی کارکنان نظرسنجی گرفته تا رای دهندگانی که نمی توانند بین شانس و نتایج تمایز قائل شوند، بازارهای پیش بینی در حال حاضر درگیر روند سیاسی هستند.",
+      "summary_en": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process.",
+      "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
+      "source": "Wired",
+      "published_at": "Mon, 17 Aug 2026 09:30:00 +0000",
+      "date_iso": "2026-08-17",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cff1454b9b5cc29e8a6a8c8a56b7f9ff",
+      "title": "در حالی که نخست‌وزیر فرانسه در بازدید از منطقه آسیب‌دیده هو شد، بلژیک با آتش‌سوزی عظیم جنگل‌ها مقابله کرد - پخش زنده اروپا",
+      "title_fa": "در حالی که نخست‌وزیر فرانسه در بازدید از منطقه آسیب‌دیده هو شد، بلژیک با آتش‌سوزی عظیم جنگل‌ها مقابله کرد - پخش زنده اروپا",
+      "title_en": "Belgium tackles enormous wildfire as French PM booed on visit to affected region – Europe live",
+      "summary": "آتش‌سوزی جنگلی که تصور می‌شود بزرگ‌ترین در تاریخ بلژیک است، به مرز آلمان نزدیک‌تر شد و باعث تخلیه شد. آژانس هواشناسی IRM اعلام کرد در بلژیک بین 5 تا 9 میلی‌متر (0.2 تا 0.35 اینچ) باران در روز دوشنبه در High Fens پیش‌بینی شد، ذخیره‌گاه طبیعی در شرق این کشور از روز جمعه تا 20 دمای هوای محلی در حال سوختن بوده است. درجه سانتیگراد، هفته گذشته در اثر موج گرمایی که دمای بخشهایی از بلژیک را به 37 درجه سانتیگراد رساند، به 30 درجه سانتیگراد رسید. ادامه مطلب...",
+      "summary_fa": "آتش‌سوزی جنگلی که تصور می‌شود بزرگ‌ترین در تاریخ بلژیک است، به مرز آلمان نزدیک‌تر شد و باعث تخلیه شد. آژانس هواشناسی IRM اعلام کرد در بلژیک بین 5 تا 9 میلی‌متر (0.2 تا 0.35 اینچ) باران در روز دوشنبه در High Fens پیش‌بینی شد، ذخیره‌گاه طبیعی در شرق این کشور از روز جمعه تا 20 دمای هوای محلی در حال سوختن بوده است. درجه سانتیگراد، هفته گذشته در اثر موج گرمایی که دمای بخشهایی از بلژیک را به 37 درجه سانتیگراد رساند، به 30 درجه سانتیگراد رسید. ادامه مطلب...",
+      "summary_en": "Wildfire thought to be largest in Belgium’s history creeps closer to German border prompting evacuationsIn Belgium, weather agency IRM ‌said between 5 and 9 millimetres (0.2 to 0.35 inches) of rain was forecast on Monday in the High Fens, a nature reserve in the ‌east of the country which has been burning since Friday, Reuters reported.The local temperature was set to fall to about 20 degrees Celsius, having breached 30C last week in a heatwave that saw parts of Belgium hit temperatures of 37 C. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 09:25:46 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/902a884b82739148d0978fed325385172877cc0c/579_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f3e229dd551181e39192f8ea8a7082c",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "7237c346f0ee831f4529082a4c0fb1b8",
+      "title": "سرمایه‌گذار موسوم به \"خدای سهام هوش مصنوعی\" 56 درصد از دارایی خود را در این دو سهام قبل از انفجار داشت.",
+      "title_fa": "سرمایه‌گذار موسوم به \"خدای سهام هوش مصنوعی\" 56 درصد از دارایی خود را در این دو سهام قبل از انفجار داشت.",
+      "title_en": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up",
+      "summary": "در پایان نیمه اول سال 2026، در آستانه یک اصلاح بزرگ در این بخش، بیش از سه چهارم از صندوق آگاهی وضعیت فقط روی پنج سهم شرط بندی می کردند که همه آنها در اصل یک شرط بزرگ روی هوش مصنوعی بودند.",
+      "summary_fa": "در پایان نیمه اول سال 2026، در آستانه یک اصلاح بزرگ در این بخش، بیش از سه چهارم از صندوق آگاهی وضعیت فقط روی پنج سهم شرط بندی می کردند که همه آنها در اصل یک شرط بزرگ روی هوش مصنوعی بودند.",
+      "summary_en": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
+      "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 17 Aug 2026 09:22:00 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-61234746",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "44ab660fd0d15abd784eb5efa3e80f08",
+      "title": "Virgin Trains برای اجرای خدمات به اروپا در ضربه جدیدی به انحصار یورواستار اقدام می کند",
+      "title_fa": "Virgin Trains برای اجرای خدمات به اروپا در ضربه جدیدی به انحصار یورواستار اقدام می کند",
+      "title_en": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
+      "summary": "اپراتور مجوز دسترسی به مسیر را برای حداکثر 20 قطار رفت و برگشت روزانه از طریق تونل به پاریس، بروکسل و آمستردام در سال 2030 دریافت کرد Virgin Trains توسط تنظیم کننده راه آهن برای اجرای سرویس های جدید بین لندن و پاریس، بروکسل و آمستردام در سال 2030، در یک گام رو به جلو برای برنامه های خود برای شکستن مسیر مسافربری مونوپولی استار و The Cross-Office Road Cross-Office. (ORR) اعلام کرد که به شرکت سر ریچارد برانسون اجازه داده است تا 20 سرویس رفت و برگشت روزانه جدید را از طریق تونل مانش انجام دهد. ادامه مطلب...",
+      "summary_fa": "اپراتور مجوز دسترسی به مسیر را برای حداکثر 20 قطار رفت و برگشت روزانه از طریق تونل به پاریس، بروکسل و آمستردام در سال 2030 دریافت کرد Virgin Trains توسط تنظیم کننده راه آهن برای اجرای سرویس های جدید بین لندن و پاریس، بروکسل و آمستردام در سال 2030، در یک گام رو به جلو برای برنامه های خود برای شکستن مسیر مسافربری مونوپولی استار و The Cross-Office Road Cross-Office. (ORR) اعلام کرد که به شرکت سر ریچارد برانسون اجازه داده است تا 20 سرویس رفت و برگشت روزانه جدید را از طریق تونل مانش انجام دهد. ادامه مطلب...",
+      "summary_en": "Operator wins track access approval for up to 20 daily return trains through tunnel to Paris, Brussels and Amsterdam in 2030Virgin Trains has been granted track access by the rail regulator to run new services between London and Paris, Brussels and Amsterdam in 2030, in a step forward for its plans to break’s Eurostar’s passenger monopoly on the cross-Channel route.The Office of Rail and Road (ORR) said it had granted approval for Sir Richard Branson’s company to run up to 20 new daily return services through the Channel tunnel. Continue reading...",
+      "link": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 09:15:03 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f62f63de65e57ec2e075c4b1ebbdbb7860d43b5e/507_0_1531_1226/master/1531.jpg?width=140&quality=85&auto=format&fit=max&s=4324ce74568b64e255bdd10d3650ed84",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "93703f53a2a62aafd891c4d0e1a9c144",
+      "title": "پسر من کار نمی کند، اما 500 دلار برای بیمه درمانی ACA می پردازد. چطور عادلانه است؟",
+      "title_fa": "پسر من کار نمی کند، اما 500 دلار برای بیمه درمانی ACA می پردازد. چطور عادلانه است؟",
+      "title_en": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
+      "summary": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کمی دارند یا بدون آن هستند که هنوز واجد شرایط دریافت یارانه در بیمه درمانی خود هستند.",
+      "summary_fa": "من افرادی را می بینم که پول زیادی دارند اما درآمد مشمول مالیات کمی دارند یا بدون آن هستند که هنوز واجد شرایط دریافت یارانه در بیمه درمانی خود هستند.",
+      "summary_en": "“I see people who have a lot of money but little or no taxable income who still qualify for subsidies on their health insurance.”",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 17 Aug 2026 09:15:00 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-22076173",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb51f23f5a819c356404c2a7303a6a98",
+      "title": "ترامپ علیرغم هشدارها درباره رژیم کیم دستور کاهش رزمایش مشترک کره جنوبی را صادر کرد",
+      "title_fa": "ترامپ علیرغم هشدارها درباره رژیم کیم دستور کاهش رزمایش مشترک کره جنوبی را صادر کرد",
+      "title_en": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+      "summary": "علیرغم هشدار مقامات نظامی هر دو کشور مبنی بر اینکه رژیم کیم جونگ اون در حال فراگیری تاکتیک‌های جدید میدان نبرد تحت مانور سالیانه اول از رزمایش آزاد اوکراین است، رئیس‌جمهور می‌گوید با دیکتاتور «خوب است» اما مقامات آمریکایی می‌گویند که جنگ اوکراین توانایی‌های شمال را تقویت می‌کند. کره و ایالات متحده از روز دوشنبه شروع و تا 27 اوت ادامه خواهند داشت. ادامه مطلب...",
+      "summary_fa": "علیرغم هشدار مقامات نظامی هر دو کشور مبنی بر اینکه رژیم کیم جونگ اون در حال فراگیری تاکتیک‌های جدید میدان نبرد تحت مانور سالیانه اول از رزمایش آزاد اوکراین است، رئیس‌جمهور می‌گوید با دیکتاتور «خوب است» اما مقامات آمریکایی می‌گویند که جنگ اوکراین توانایی‌های شمال را تقویت می‌کند. کره و ایالات متحده از روز دوشنبه شروع و تا 27 اوت ادامه خواهند داشت. ادامه مطلب...",
+      "summary_en": "President says he ‘gets along great’ with dictator but US officials say Ukraine war is boosting North’s capabilitiesDonald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukraine war.The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 09:10:24 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
       }
     },
     {
@@ -160719,6 +160950,27 @@
       }
     },
     {
+      "id": "f9c327832cbc7f9a5f117453ba818976",
+      "title": "آیا جنبش \"سوسری\" هند، BJP مودی را مجبور خواهد کرد که در سیاست خود تجدید نظر کند؟",
+      "title_fa": "آیا جنبش \"سوسری\" هند، BJP مودی را مجبور خواهد کرد که در سیاست خود تجدید نظر کند؟",
+      "title_en": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+      "summary": "BJP مودی زمانی روایت‌های رسانه‌ای را در هند کنترل می‌کرد، اما ممکن است با جنبش «سوسک» این موضوع تغییر کند.",
+      "summary_fa": "BJP مودی زمانی روایت‌های رسانه‌ای را در هند کنترل می‌کرد، اما ممکن است با جنبش «سوسک» این موضوع تغییر کند.",
+      "summary_en": "Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 09:03:57 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a0e96660ab7e819ddbc214e92334a6b1",
       "title": "چگونه ژاپن از یک فاجعه بزرگ زلزله جلوگیری کرد",
       "title_fa": "چگونه ژاپن از یک فاجعه بزرگ زلزله جلوگیری کرد",
@@ -160758,6 +161010,27 @@
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "اوکراین"
+      }
+    },
+    {
+      "id": "ddf8d8f0ae205354058cefc2f8cb4271",
+      "title": "عکس: افزایش قیمت انرژی آموزش در دریاچه تونله ساپ کامبوج را مختل می کند",
+      "title_fa": "عکس: افزایش قیمت انرژی آموزش در دریاچه تونله ساپ کامبوج را مختل می کند",
+      "title_en": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "summary": "کودکانی که در Tonle Sap هستند، آموزش را قربانی می‌کنند و بسیاری از آنها برای کمک به خانواده‌های خود تلاش می‌کنند تا هزینه‌های فزاینده سوخت را پوشش دهند.",
+      "summary_fa": "کودکانی که در Tonle Sap هستند، آموزش را قربانی می‌کنند و بسیاری از آنها برای کمک به خانواده‌های خود تلاش می‌کنند تا هزینه‌های فزاینده سوخت را پوشش دهند.",
+      "summary_en": "Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.",
+      "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 09:01:52 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -160908,6 +161181,27 @@
       }
     },
     {
+      "id": "6c9c424d54ae1062325e776e8a381738",
+      "title": "فیلمی که برای انیمیشن وحشتناک در فضای مجازی منتشر شد، در گیشه چین به فروش رسید",
+      "title_fa": "فیلمی که برای انیمیشن وحشتناک در فضای مجازی منتشر شد، در گیشه چین به فروش رسید",
+      "title_en": "Movie that went viral for terrible animation becomes China box office hit",
+      "summary": "طرح گیج کننده نیو لای و کیفیت انیمیشن خنده دار طرفداران طعنه آمیزی را در اینترنت به دست آورده است.",
+      "summary_fa": "طرح گیج کننده نیو لای و کیفیت انیمیشن خنده دار طرفداران طعنه آمیزی را در اینترنت به دست آورده است.",
+      "summary_en": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 17 Aug 2026 08:35:07 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e236/live/6f76c6e0-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "ff3b3a7f4e1dd21a84e30a464e3da343",
       "title": "رهبر جمهوری اسلامی ایران قصد دارد کشور را در وضعیت جنگ نگه دارد",
       "title_fa": "رهبر جمهوری اسلامی ایران قصد دارد کشور را در وضعیت جنگ نگه دارد",
@@ -160933,6 +161227,27 @@
       "title": "کوشنر پس از دیدار با رهبر حماس با نتانیاهو گفتگو کرد",
       "title_fa": "کوشنر پس از دیدار با رهبر حماس با نتانیاهو گفتگو کرد",
       "title_en": "Kushner holds talks with Netanyahu after meeting Hamas leader",
+      "summary": "داماد و فرستاده دونالد ترامپ در حال پیشبرد طرح صلح واشنگتن برای غزه است",
+      "summary_fa": "داماد و فرستاده دونالد ترامپ در حال پیشبرد طرح صلح واشنگتن برای غزه است",
+      "summary_en": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
+      "link": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 17 Aug 2026 08:26:57 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5144619-33b7-4dc5-87d9-f313868e6baf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "8df7f919318900c01db9800a0e744c13",
+      "title": "کوشنر پس از دیدار با رهبر حماس با نتانیاهو گفتگو خواهد کرد",
+      "title_fa": "کوشنر پس از دیدار با رهبر حماس با نتانیاهو گفتگو خواهد کرد",
+      "title_en": "Kushner to hold talks with Netanyahu after meeting Hamas leader",
       "summary": "داماد و فرستاده دونالد ترامپ در حال پیشبرد طرح صلح واشنگتن برای غزه است",
       "summary_fa": "داماد و فرستاده دونالد ترامپ در حال پیشبرد طرح صلح واشنگتن برای غزه است",
       "summary_en": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
@@ -161041,6 +161356,27 @@
       "summary": "شخصی که مدعی بود سوزی وایلز رئیس دفتر دونالد ترامپ است با نخست وزیر انگلیس تماس گرفت.",
       "summary_fa": "شخصی که مدعی بود سوزی وایلز رئیس دفتر دونالد ترامپ است با نخست وزیر انگلیس تماس گرفت.",
       "summary_en": "UK prime minister was contacted by someone claiming to be Donald Trump’s chief of staff Susie Wiles",
+      "link": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 17 Aug 2026 08:11:01 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F876a6a3d-31ae-4365-8c52-5aad30313223.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "0a0578e63924d25f45b0e3f92af17339",
+      "title": "برنهام با فردی که خود را به عنوان رئیس دفتر ترامپ معرفی می کرد، پیامک رد و بدل کرد",
+      "title_fa": "برنهام با فردی که خود را به عنوان رئیس دفتر ترامپ معرفی می کرد، پیامک رد و بدل کرد",
+      "title_en": "Burnham exchanged texts with person posing as Trump’s chief of staff",
+      "summary": "شخصی که ادعا می کرد سوزی وایلز است با نخست وزیر بریتانیا تماس گرفت",
+      "summary_fa": "شخصی که ادعا می کرد سوزی وایلز است با نخست وزیر بریتانیا تماس گرفت",
+      "summary_en": "UK prime minister was contacted by someone claiming to be Susie Wiles",
       "link": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1",
       "source": "Financial Times",
       "published_at": "Mon, 17 Aug 2026 08:11:01 GMT",
@@ -217062,6 +217398,48 @@
       }
     },
     {
+      "id": "425268f2e8a848ed257f621a49d9bf9e",
+      "title": "چگونه داستان زندگی و سیاره ما آشکار شد - با هم",
+      "title_fa": "چگونه داستان زندگی و سیاره ما آشکار شد - با هم",
+      "title_en": "How the story of life and our planet unfolded — together",
+      "summary": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02530-4 گفتگوی چهار میلیارد ساله زمین با اشکال زندگی ساکن آن، جهان ما را شکل داده است و درس هایی برای آینده ما دارد.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02530-4 گفتگوی چهار میلیارد ساله زمین با اشکال زندگی ساکن آن، جهان ما را شکل داده است و درس هایی برای آینده ما دارد.",
+      "summary_en": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02530-4Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.",
+      "link": "https://www.nature.com/articles/d41586-026-02530-4",
+      "source": "Nature",
+      "published_at": "2026-08-17 09:58",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2cbbf46af52afa382013a8072a6a8962",
+      "title": "دانشگاه ها باید حمایت از قلدرها را متوقف کنند - در غیر این صورت افراد بیشتری علم را ترک خواهند کرد",
+      "title_fa": "دانشگاه ها باید حمایت از قلدرها را متوقف کنند - در غیر این صورت افراد بیشتری علم را ترک خواهند کرد",
+      "title_en": "Universities must stop protecting bullies — or more people will leave science",
+      "summary": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02526-0 رها کردن دانشگاهیان قدرتمند و تنبیه افرادی که آنها را مورد آزار و اذیت قرار داده اند این پیام را ارسال می کند که سوء استفاده در دانشگاه قابل قبول است.",
+      "summary_fa": "طبیعت، انتشار آنلاین: 17 آگوست 2026; doi:10.1038/d41586-026-02526-0 رها کردن دانشگاهیان قدرتمند و تنبیه افرادی که آنها را مورد آزار و اذیت قرار داده اند این پیام را ارسال می کند که سوء استفاده در دانشگاه قابل قبول است.",
+      "summary_en": "Nature, Published online: 17 August 2026; doi:10.1038/d41586-026-02526-0Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.",
+      "link": "https://www.nature.com/articles/d41586-026-02526-0",
+      "source": "Nature",
+      "published_at": "2026-08-17 09:58",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "9743ad8d2fbe58b5b1d9198f982f447e",
       "title": "گزارش شده است که OpenAI تیم آمادگی خود را منحل کرده است",
       "title_fa": "گزارش شده است که OpenAI تیم آمادگی خود را منحل کرده است",
@@ -217104,6 +217482,27 @@
       }
     },
     {
+      "id": "096e436c7f6038c0ca7f3c469bbce82b",
+      "title": "Open Mike Eagle و Kenny Segal شاهکار جدایی هیپ هاپ را ساختند",
+      "title_fa": "Open Mike Eagle و Kenny Segal شاهکار جدایی هیپ هاپ را ساختند",
+      "title_en": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
+      "summary": "جدایی... سخت است. این خطوط آغازین یک میان‌آهنگ به سمت پایان DOOMED است! به نام \"در هر کیهانی اتفاق می افتد\". همچنین اساساً تز کل رکورد است. این یک مکاشفه بزرگ نیست، اما موضوعی است که به خوبی زیر پا گذاشته شده است که Open Mike Eagle موفق به استخراج طلای هنری می شود. موضوع عقاب معمولا شخصی است، […]",
+      "summary_fa": "جدایی... سخت است. این خطوط آغازین یک میان‌آهنگ به سمت پایان DOOMED است! به نام \"در هر کیهانی اتفاق می افتد\". همچنین اساساً تز کل رکورد است. این یک مکاشفه بزرگ نیست، اما موضوعی است که به خوبی زیر پا گذاشته شده است که Open Mike Eagle موفق به استخراج طلای هنری می شود. موضوع عقاب معمولا شخصی است، […]",
+      "summary_en": "\"Breakups are… tough.\" It's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
+      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "source": "The Verge",
+      "published_at": "2026-08-16T16:31:37-04:00",
+      "date_iso": "2026-08-17",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a3b1415610e0d6d56e95b03433116f89",
       "title": "آمازون در تلاش است تا لباس‌های اکشن کلاسی را قبل از شروع آن‌ها از بین ببرد",
       "title_fa": "آمازون در تلاش است تا لباس‌های اکشن کلاسی را قبل از شروع آن‌ها از بین ببرد",
@@ -217115,6 +217514,27 @@
       "source": "The Verge",
       "published_at": "2026-08-16T13:35:02-04:00",
       "date_iso": "2026-08-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "abdd60193216664f69768f1474dbe7d1",
+      "title": "آمازون در تلاش است تا قبل از شروع کت و شلوارهای دسته جمعی، آنها را از بین ببرد",
+      "title_fa": "آمازون در تلاش است تا قبل از شروع کت و شلوارهای دسته جمعی، آنها را از بین ببرد",
+      "title_en": "Amazon is trying to crush class action suits before they get started",
+      "summary": "در روز جمعه، مشتریان آمازون ایمیلی دریافت کردند که در آن از به روز رسانی شرایط و ضوابط سایت مطلع شدند. مهم‌تر از همه، بیان کرد که اختلافات اکنون از طریق داوری حل خواهد شد و گفت که کاربران با چشم پوشی از اقدام دسته جمعی موافقت می‌کنند. آمازون این روش را به عنوان یک راه \"سریع و کارآمد\" برای حل مشکلات در نظر گرفت، اما به ویژه […]",
+      "summary_fa": "در روز جمعه، مشتریان آمازون ایمیلی دریافت کردند که در آن از به روز رسانی شرایط و ضوابط سایت مطلع شدند. مهم‌تر از همه، بیان کرد که اختلافات اکنون از طریق داوری حل خواهد شد و گفت که کاربران با چشم پوشی از اقدام دسته جمعی موافقت می‌کنند. آمازون این روش را به عنوان یک راه \"سریع و کارآمد\" برای حل مشکلات در نظر گرفت، اما به ویژه […]",
+      "summary_en": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would […]",
+      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "source": "The Verge",
+      "published_at": "2026-08-16T13:35:02-04:00",
+      "date_iso": "2026-08-17",
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
