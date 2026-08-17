@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-08-17 07:39:30",
-  "total_count": 11054,
+  "last_update": "2026-08-17 08:24:54",
+  "total_count": 11067,
   "articles": [
     {
       "id": "b86f094883c78d3f0f305ee4dd77ce14",
@@ -117146,6 +117146,27 @@
       }
     },
     {
+      "id": "9c665a9d3fa16e031273f55369ddd738",
+      "title": "چین و چروک های ریز گرافن اثرات الکتریکی شگفت آور قدرتمندی ایجاد می کنند",
+      "title_fa": "چین و چروک های ریز گرافن اثرات الکتریکی شگفت آور قدرتمندی ایجاد می کنند",
+      "title_en": "Tiny graphene wrinkles create surprisingly powerful electrical effects",
+      "summary": "دانشمندان کشف کرده‌اند که چین و چروک‌های ریز و منحنی شدید در گرافن می‌تواند رفتار الکتریکی آن را به طرز چشمگیری تغییر دهد و جداسازی بار به‌طور شگفت‌آوری قوی ایجاد کند. این یافته نشان می‌دهد که الکترونیک آینده را می‌توان با تغییر شکل مواد در مقیاس اتمی به جای تغییر آنچه که از آن ساخته شده است تنظیم کرد.",
+      "summary_fa": "دانشمندان کشف کرده‌اند که چین و چروک‌های ریز و منحنی شدید در گرافن می‌تواند رفتار الکتریکی آن را به طرز چشمگیری تغییر دهد و جداسازی بار به‌طور شگفت‌آوری قوی ایجاد کند. این یافته نشان می‌دهد که الکترونیک آینده را می‌توان با تغییر شکل مواد در مقیاس اتمی به جای تغییر آنچه که از آن ساخته شده است تنظیم کرد.",
+      "summary_en": "Scientists have discovered that tiny, sharply curved wrinkles in graphene can dramatically alter its electrical behavior, creating surprisingly strong charge separation. The finding suggests future electronics could be tuned by reshaping materials at the atomic scale instead of changing what they’re made of.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064801.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 16 Aug 2026 22:28:23 EDT",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "831123491b3cc2060896bc9c150359d8",
       "title": "پخش زنده سیاست استرالیا: اتباع استدلال می‌کنند که بازپرداخت اسلحه برخلاف بند قانون اساسی موجود در قلعه است",
       "title_fa": "پخش زنده سیاست استرالیا: اتباع استدلال می‌کنند که بازپرداخت اسلحه برخلاف بند قانون اساسی موجود در قلعه است",
@@ -117605,6 +117626,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "c9ffd6c7bb424a437c3bc8c37c5c7cc3",
+      "title": "یک پروتئین کمتر شناخته شده ممکن است به آلزایمر کمک کند - و دانشمندان راهی برای جلوگیری از آن پیدا کردند",
+      "title_fa": "یک پروتئین کمتر شناخته شده ممکن است به آلزایمر کمک کند - و دانشمندان راهی برای جلوگیری از آن پیدا کردند",
+      "title_en": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
+      "summary": "یک ترکیب آزمایشی آلزایمر از تشکیل توده های پروتئینی مضر در مغز موش ها جلوگیری می کند و به سلول های عصبی کمک می کند بیشتر زنده بمانند و تجمع آمیلوئید را کاهش می دهد. همچنین به نظر می‌رسد که این درمان سلامت قلب را بهبود می‌بخشد و برخی از علائم پیری را کاهش می‌دهد و امیدها را برای روشی کاملاً جدید برای مبارزه با زوال عقل افزایش می‌دهد.",
+      "summary_fa": "یک ترکیب آزمایشی آلزایمر از تشکیل توده های پروتئینی مضر در مغز موش ها جلوگیری می کند و به سلول های عصبی کمک می کند بیشتر زنده بمانند و تجمع آمیلوئید را کاهش می دهد. همچنین به نظر می‌رسد که این درمان سلامت قلب را بهبود می‌بخشد و برخی از علائم پیری را کاهش می‌دهد و امیدها را برای روشی کاملاً جدید برای مبارزه با زوال عقل افزایش می‌دهد.",
+      "summary_en": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart health and slow some signs of aging, raising hopes for an entirely new way to combat dementia.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 16 Aug 2026 21:01:15 EDT",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -160383,6 +160425,27 @@
       }
     },
     {
+      "id": "9b0591033e7dcdef2a97b02b9f550c43",
+      "title": "آتش سوزی در اروپا: شهر مرزی آلمان تا حدودی تخلیه شد اما آتش فرانسه تثبیت شد",
+      "title_fa": "آتش سوزی در اروپا: شهر مرزی آلمان تا حدودی تخلیه شد اما آتش فرانسه تثبیت شد",
+      "title_en": "Europe wildfires: German border town partially evacuated but France blaze stabilised",
+      "summary": "تابستان گرم تاریخی در قاره‌ای که سریع‌ترین گرمایش زمین را دارد، به مرگ هزاران نفر کمک کرده و خطر آتش‌سوزی‌های جنگلی را افزایش داده است، با آتش‌سوزی‌هایی که به‌طور دوره‌ای در مناظر خشک می‌آیند.",
+      "summary_fa": "تابستان گرم تاریخی در قاره‌ای که سریع‌ترین گرمایش زمین را دارد، به مرگ هزاران نفر کمک کرده و خطر آتش‌سوزی‌های جنگلی را افزایش داده است، با آتش‌سوزی‌هایی که به‌طور دوره‌ای در مناظر خشک می‌آیند.",
+      "summary_en": "A historically hot summer on the planet's fastest-warming continent has contributed to the deaths of thousands of people and increased the risk of wildfires, with blazes periodically sweeping through parched landscapes.",
+      "link": "http://www.euronews.com/my-europe/2026/08/17/europe-wildfires-german-border-town-partially-evacuated-but-france-blaze-stabilised",
+      "source": "EuroNews",
+      "published_at": "Mon, 17 Aug 2026 09:44:22 +0200",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "3c8d3e14418c2965296e7184a6f89b3f",
       "title": "بلژیک برای مهار آتش سوزی عظیمی که به سمت آلمان در حال گسترش است رقابت می کند.",
       "title_fa": "بلژیک برای مهار آتش سوزی عظیمی که به سمت آلمان در حال گسترش است رقابت می کند.",
@@ -160422,6 +160485,90 @@
         "lat": 31.5017,
         "lng": 34.4668,
         "name": "غزه"
+      }
+    },
+    {
+      "id": "92880a2e3b3ab7941aea434940c40f33",
+      "title": "اوپن سینسیناتی: سابالنکا برای شکست دادن گیبسون 6 امتیاز مسابقه گرفت",
+      "title_fa": "اوپن سینسیناتی: سابالنکا برای شکست دادن گیبسون 6 امتیاز مسابقه گرفت",
+      "title_en": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
+      "summary": "آرینا سابالنکا رتبه اول با یک برد میخکوب کننده فرار می کند در حالی که فلیکس اوگر-آلیاسیم قهرمان سابق استفانوس سیتسیپاس را شکست می دهد.",
+      "summary_fa": "آرینا سابالنکا رتبه اول با یک برد میخکوب کننده فرار می کند در حالی که فلیکس اوگر-آلیاسیم قهرمان سابق استفانوس سیتسیپاس را شکست می دهد.",
+      "summary_en": "Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.",
+      "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 08:18:25 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fbb6dd620c0fca98815c1a8ece5a7d2c",
+      "title": "خشم رئیس جمهور کلمبیا در حالی که ساکنان در انتظار کمک هستند، توپ های فوتبال را پخش می کند",
+      "title_fa": "خشم رئیس جمهور کلمبیا در حالی که ساکنان در انتظار کمک هستند، توپ های فوتبال را پخش می کند",
+      "title_en": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "summary": "خشم رئیس‌جمهور کلمبیا در شهر زلزله‌زده که ساکنان آن می‌گویند منتظر کمک‌های فوری هستند، توپ فوتبال پخش می‌کند.",
+      "summary_fa": "خشم رئیس‌جمهور کلمبیا در شهر زلزله‌زده که ساکنان آن می‌گویند منتظر کمک‌های فوری هستند، توپ فوتبال پخش می‌کند.",
+      "summary_en": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 08:18:05 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d42fa30ca788e79cba5c30f0edbd606",
+      "title": "کوشنر برای پیشبرد طرح ترامپ برای غزه با نتانیاهو دیدار می کند",
+      "title_fa": "کوشنر برای پیشبرد طرح ترامپ برای غزه با نتانیاهو دیدار می کند",
+      "title_en": "Kushner to meet Netanyahu to push Trump Gaza plan",
+      "summary": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
+      "summary_fa": "این گفتگوها یک روز پس از آن صورت می گیرد که داماد رئیس جمهور آمریکا دیداری نادر با رهبران حماس در مصر داشت.",
+      "summary_en": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 08:13:04 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "4a2a3d458313e82cebac00e7a6f268f6",
+      "title": "توقف کشتیرانی تنگه هرمز در آستانه انقضای آتش بس ایران و آمریکا",
+      "title_fa": "توقف کشتیرانی تنگه هرمز در آستانه انقضای آتش بس ایران و آمریکا",
+      "title_en": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+      "summary": "ترافیک کشتیرانی در تنگه هرمز به پایین ترین حد خود رسید زیرا آتش بس بین ایالات متحده و ایران در روز دوشنبه به پایان می رسد و هیچ توافقی در دست نیست.",
+      "summary_fa": "ترافیک کشتیرانی در تنگه هرمز به پایین ترین حد خود رسید زیرا آتش بس بین ایالات متحده و ایران در روز دوشنبه به پایان می رسد و هیچ توافقی در دست نیست.",
+      "summary_en": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "published_at": "Mon, 17 Aug 2026 08:06:38 GMT",
+      "date_iso": "2026-08-17",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
@@ -160530,6 +160677,69 @@
       }
     },
     {
+      "id": "038d7afaacb4a7510f5012f240f36e38",
+      "title": "حداقل شش نفر در حمله موشکی اوکراین به بلگورود روسیه کشته شدند",
+      "title_fa": "حداقل شش نفر در حمله موشکی اوکراین به بلگورود روسیه کشته شدند",
+      "title_en": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+      "summary": "حملات موشکی و پهپادی روسیه در شبانه روز در سراسر اوکراین دو کشته و 19 زخمی بر جای گذاشت.",
+      "summary_fa": "حملات موشکی و پهپادی روسیه در شبانه روز در سراسر اوکراین دو کشته و 19 زخمی بر جای گذاشت.",
+      "summary_en": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 17 Aug 2026 08:00:05 +0000",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "dfe1f68eadb08d4fe1652cdf71f5e9a1",
+      "title": "آتش‌سوزی‌های جنگلی در فرانسه و یونان با مهار آتش‌سوزی عظیم در بلژیک - Europe live",
+      "title_fa": "آتش‌سوزی‌های جنگلی در فرانسه و یونان با مهار آتش‌سوزی عظیم در بلژیک - Europe live",
+      "title_en": "Wildfires rage in France and Greece as Belgium tackles enormous blaze – Europe live",
+      "summary": "آتش‌سوزی جنگلی که تصور می‌شود بزرگ‌ترین در تاریخ بلژیک است، به مرز آلمان نزدیک‌تر شد و باعث تخلیه شد یک زوج سالمند در آتش‌سوزی‌های روز یکشنبه در جزیره یونانی سالامیس جان باختند و بلژیک در آخرین موج آتش‌سوزی‌های جنگلی اروپا در خارج از ساحل یونان در سالامیس گفت که این زوج در منطقه سالامیس یونان جان باختند. به بیش از 500 نفر دستور تخلیه داده شد. ادامه مطلب...",
+      "summary_fa": "آتش‌سوزی جنگلی که تصور می‌شود بزرگ‌ترین در تاریخ بلژیک است، به مرز آلمان نزدیک‌تر شد و باعث تخلیه شد یک زوج سالمند در آتش‌سوزی‌های روز یکشنبه در جزیره یونانی سالامیس جان باختند و بلژیک در آخرین موج آتش‌سوزی‌های جنگلی اروپا در خارج از ساحل یونان در سالامیس گفت که این زوج در منطقه سالامیس یونان جان باختند. به بیش از 500 نفر دستور تخلیه داده شد. ادامه مطلب...",
+      "summary_en": "Wildfire thought to be largest in Belgium’s history creeps closer to German border prompting evacuationsAn elderly couple died in fires on the Greek island of Salamis on Sunday and Belgium is battling its largest modern-day wildfire at an inaccessible area near Germany, in the latest wave of European wildfires.The couple died outside their home in the Peristeria beach area of Salamis, Greece’s coastguard said. More than 500 people were ordered to evacuate. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 07:50:54 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2e1efe120fa67a2a415ead1b7266df606eb9d680/637_0_6368_5095/master/6368.jpg?width=140&quality=85&auto=format&fit=max&s=f5e097ffa45f3f180b63da665974612e",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "cb518bd67c70abaefe732ca3942094e9",
+      "title": "کاناوان و جویس در راهپیمایی ضد سقط جنین شرکت کردند و از لایحه بحث برانگیز حمایت کردند - همانطور که اتفاق افتاد",
+      "title_fa": "کاناوان و جویس در راهپیمایی ضد سقط جنین شرکت کردند و از لایحه بحث برانگیز حمایت کردند - همانطور که اتفاق افتاد",
+      "title_en": "Canavan and Joyce attend anti-abortion rally and back controversial bill – as it happened",
+      "summary": "این وبلاگ اکنون بسته شده است. کارگر متعهد می شود از ثبت نام برای تبلیغات قمار آنلاین مشابه با تماس نگیرید ثبت نام برای تماس های هرزنامه دریافت کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. یکشنبه برای اینکه قوانین فوق العاده \"کمی سبک تر شوند\" و به کارگران اجازه داده شود در مواقع بحران پول خود را دریافت کنند. این چیزی است که ما بدیهی است که به عنوان بخشی از فرآیندهای عادی خود در نظر خواهیم گرفت، این سیاستی است که هنوز در کابینه سایه ما آمده است، اما البته، این چیزی است که ما در نظر خواهیم گرفت. life.اگر گزارش کمیسیون بهره‌وری را در هر میخانه‌ای در سراسر استرالیا قرار دهید، مردم آن را از روی جلد به بالا می‌خوانند، [همگی] می‌گویند که سیستم در حال حاضر ناعادلانه است. ما بیشتر از آن چیزی که به ما گفته شد هزینه آن را پرداخت می کنیم. ما از دلارهای مالیات بر درآمد کمیاب برای حمایت از کشوری استفاده می‌کنیم که به آن نیاز ندارد. این معامله‌ای است که وضعیت هیچ کشور دیگری را بدتر نمی‌کند، و اطمینان می‌دهد که انگیزه‌های مناسب برای ارائه بهره‌وری و رشد اقتصادی وجود دارد. و همچنین با اطمینان از اینکه می‌توانیم به ارائه حق‌الامتیاز و مالیات شرکت به‌ویژه ادامه دهیم، به بودجه فدرال کمک می‌کند. WA دارای بخش منابع قابل‌توجهی است و ما به توانایی توسعه این منابع نیاز داریم، زیرا این منابع منجر به رشد اقتصادی ملی می‌شوند، اما در عین حال به درآمد نهایی ملی نیز می‌رسند. ما اینجا نیز در نیو ساوت ولز، مانند کوئینزلند، و استرالیای جنوبی، منبع بسیار مهمی داریم. و اگر منطقی که WA برای آن استدلال می‌کند این باشد که همه‌جانبه اعمال شود، آن‌گاه هر دولت دیگری که یا در حال توسعه آن منابع است یا به دنبال آن است، از همان مزیت برخوردار است. ادامه مطلب...",
+      "summary_fa": "این وبلاگ اکنون بسته شده است. کارگر متعهد می شود از ثبت نام برای تبلیغات قمار آنلاین مشابه با تماس نگیرید ثبت نام برای تماس های هرزنامه دریافت کنید ایمیل اخبار فوری، برنامه رایگان یا پادکست اخبار روزانه ما را دریافت کنید. یکشنبه برای اینکه قوانین فوق العاده \"کمی سبک تر شوند\" و به کارگران اجازه داده شود در مواقع بحران پول خود را دریافت کنند. این چیزی است که ما بدیهی است که به عنوان بخشی از فرآیندهای عادی خود در نظر خواهیم گرفت، این سیاستی است که هنوز در کابینه سایه ما آمده است، اما البته، این چیزی است که ما در نظر خواهیم گرفت. life.اگر گزارش کمیسیون بهره‌وری را در هر میخانه‌ای در سراسر استرالیا قرار دهید، مردم آن را از روی جلد به بالا می‌خوانند، [همگی] می‌گویند که سیستم در حال حاضر ناعادلانه است. ما بیشتر از آن چیزی که به ما گفته شد هزینه آن را پرداخت می کنیم. ما از دلارهای مالیات بر درآمد کمیاب برای حمایت از کشوری استفاده می‌کنیم که به آن نیاز ندارد. این معامله‌ای است که وضعیت هیچ کشور دیگری را بدتر نمی‌کند، و اطمینان می‌دهد که انگیزه‌های مناسب برای ارائه بهره‌وری و رشد اقتصادی وجود دارد. و همچنین با اطمینان از اینکه می‌توانیم به ارائه حق‌الامتیاز و مالیات شرکت به‌ویژه ادامه دهیم، به بودجه فدرال کمک می‌کند. WA دارای بخش منابع قابل‌توجهی است و ما به توانایی توسعه این منابع نیاز داریم، زیرا این منابع منجر به رشد اقتصادی ملی می‌شوند، اما در عین حال به درآمد نهایی ملی نیز می‌رسند. ما اینجا نیز در نیو ساوت ولز، مانند کوئینزلند، و استرالیای جنوبی، منبع بسیار مهمی داریم. و اگر منطقی که WA برای آن استدلال می‌کند این باشد که همه‌جانبه اعمال شود، آن‌گاه هر دولت دیگری که یا در حال توسعه آن منابع است یا به دنبال آن است، از همان مزیت برخوردار است. ادامه مطلب...",
+      "summary_en": "This blog is now closedLabor pledges opt-out register for online gambling ads akin to Do Not Call register for spam callsGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super rules to be “lightened up a bit” and allow workers to their money in times of crisis.It’s something that we will obviously consider as part of our normal processes, that’s not a policy that’s come to our shadow cabinet yet, but of course, it’s something that we would consider.I do think that superannuation is highly valued by Australians, it’s not something that you need in your working life, it’s something you need in your retired life.If you put the Productivity Commission report into any pub across Australia, people read it from cover to cover, [they] all say the system currently is unfair. We’re paying more for it than we were told it would cost. We’re using scarce income tax dollars to prop up a state that doesn’t need it.This is a deal that doesn’t make any other state worse off, makes sure that there’s the right incentives to deliver productivity and economic growth. And also helps the federal budget bottom line by making sure that we can continue to deliver the royalties and the company tax in particular.WA has a significant resources sector and we need the ability to be able to develop those resources because they lead to national economic growth but also are the national bottom line.We have a pretty significant resource state here in New South Wales too, as does Queensland, as does South Australia. And if the logic that WA is arguing for is to apply across the board, then every other state that’s either developing those resources or looking to are entitled to the same benefit. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 07:48:33 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/7d4b8acde1f51ae50a0bb33e855d32df21725556/340_0_3384_2708/master/3384.jpg?width=140&quality=85&auto=format&fit=max&s=72c43357af7978041ab998b3ae43d2f0",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "32d62209d8e5d350ae984104f6de53a8",
       "title": "«موذیانه»، ویزر و عکاسی باورنکردنی: بهترین چیزهایی که این هفته در اروپا می‌توان انجام داد، شنید، دید یا تماشا کرد",
       "title_fa": "«موذیانه»، ویزر و عکاسی باورنکردنی: بهترین چیزهایی که این هفته در اروپا می‌توان انجام داد، شنید، دید یا تماشا کرد",
@@ -160548,6 +160758,27 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "0c18ff4a5ebdc8c2266c294986134c7d",
+      "title": "حسن پیکر کیست - و چرا برخی از محافظه کاران استرالیایی از بازگشت او به ABC خشمگین هستند؟",
+      "title_fa": "حسن پیکر کیست - و چرا برخی از محافظه کاران استرالیایی از بازگشت او به ABC خشمگین هستند؟",
+      "title_en": "Who is Hasan Piker – and why are some Australian conservatives outraged about his return to the ABC?",
+      "summary": "مفسر چپ برای حضور در برنامه سیاره آمریکا در دوشنبه شب دعوت شده است. ABC قرار است دوشنبه شب برنامه بازگشت برنامه سیاره آمریکا خود را پخش کند، زیرا انتخابات میان دوره ای ایالات متحده در حال افزایش است، با یک قسمت جدید با حضور مفسر چپ، حسن پیکر. جان بارون مجری برنامه گفت که این قسمت بر روی \"ظهور سوسیالیست های دموکرات و چپ های پوپولیست\" تمرکز خواهد کرد. طوفان». اما این ظاهر به سرعت خشم محافظه کاران استرالیا را برانگیخت. ادامه مطلب...",
+      "summary_fa": "مفسر چپ برای حضور در برنامه سیاره آمریکا در دوشنبه شب دعوت شده است. ABC قرار است دوشنبه شب برنامه بازگشت برنامه سیاره آمریکا خود را پخش کند، زیرا انتخابات میان دوره ای ایالات متحده در حال افزایش است، با یک قسمت جدید با حضور مفسر چپ، حسن پیکر. جان بارون مجری برنامه گفت که این قسمت بر روی \"ظهور سوسیالیست های دموکرات و چپ های پوپولیست\" تمرکز خواهد کرد. طوفان». اما این ظاهر به سرعت خشم محافظه کاران استرالیا را برانگیخت. ادامه مطلب...",
+      "summary_en": "The leftwing commentator has been invited to appear on the Planet America program on Monday nightThe ABC is set to air the return of its Planet America program on Monday night as the US midterm elections gain steam, with a new episode featuring the leftwing commentator Hasan Piker.Host John Barron said the episode will focus on the “rise of Democratic socialists and the populist left”, with Piker speaking about “what it’s like in the eye of a political storm”. But the appearance quickly sparked the ire of conservatives in Australia. Continue reading...",
+      "link": "https://www.theguardian.com/media/2026/aug/17/who-is-hasan-piker-and-why-are-some-conservatives-outraged-about-his-return-to-the-abc",
+      "source": "The Guardian",
+      "published_at": "Mon, 17 Aug 2026 07:46:28 GMT",
+      "date_iso": "2026-08-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d0eac96a1d36736f783eaae99bd6aef1f6b12fbe/251_0_4543_3635/master/4543.jpg?width=140&quality=85&auto=format&fit=max&s=dc5b9f58062abdbe89a12dd5eecbbe06",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -161706,6 +161937,27 @@
       }
     },
     {
+      "id": "2390b1066f150990d752afca6cb05952",
+      "title": "دانشمندان به مدت 8 سال بچه ها را ردیابی کردند - نتیجه نمایش زمان غیرمنتظره بود",
+      "title_fa": "دانشمندان به مدت 8 سال بچه ها را ردیابی کردند - نتیجه نمایش زمان غیرمنتظره بود",
+      "title_en": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+      "summary": "یک مطالعه هشت ساله در فنلاند نشان داد که کودکانی که زمان بیشتری را روی صفحه نمایش می‌گذرانند، در دوران نوجوانی پردازش شناختی بهتری از خود نشان می‌دهند و فرضیات رایج در مورد استفاده از صفحه نمایش را به چالش می‌کشند. محققان می گویند کلید ممکن است متعادل کردن فعالیت بدنی با فعالیت های صفحه نمایش باشد که یادگیری، خلاقیت و تفکر فعال را تشویق می کند.",
+      "summary_fa": "یک مطالعه هشت ساله در فنلاند نشان داد که کودکانی که زمان بیشتری را روی صفحه نمایش می‌گذرانند، در دوران نوجوانی پردازش شناختی بهتری از خود نشان می‌دهند و فرضیات رایج در مورد استفاده از صفحه نمایش را به چالش می‌کشند. محققان می گویند کلید ممکن است متعادل کردن فعالیت بدنی با فعالیت های صفحه نمایش باشد که یادگیری، خلاقیت و تفکر فعال را تشویق می کند.",
+      "summary_en": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "source": "Science Daily",
+      "published_at": "Mon, 17 Aug 2026 02:41:08 EDT",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7404935e86480816839b5c8d40542e0b",
       "title": "سیاست استرالیا زنده: سناتور سبزها حزب کارگر را به حمایت از صنعت گاز و میلیاردرها در مورد \"افراد ناتوان و خانواده های ما\" متهم کرد.",
       "title_fa": "سیاست استرالیا زنده: سناتور سبزها حزب کارگر را به حمایت از صنعت گاز و میلیاردرها در مورد \"افراد ناتوان و خانواده های ما\" متهم کرد.",
@@ -161803,6 +162055,27 @@
       "date_iso": "2026-08-17",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7984e6bd31094f8c3ab263ef230fb380",
+      "title": "حیوانات میلیون‌ها سال است که از بیوپلاستیک اصلی طبیعت می‌خورند",
+      "title_fa": "حیوانات میلیون‌ها سال است که از بیوپلاستیک اصلی طبیعت می‌خورند",
+      "title_en": "Animals have been eating nature’s original bioplastic for millions of years",
+      "summary": "طبیعت، پلاستیک زیست تخریب پذیر را خیلی قبل از انسان اختراع کرد و حیوانات ممکن است صدها میلیون سال از آن تغذیه می کردند. محققان کشف کردند که ده‌ها گونه حیوانی دارای آنزیم‌هایی هستند که قادر به تجزیه پلاستیک‌های زیستی میکروبی به نام PHA هستند، استعدادی که زمانی تصور می‌شد فقط متعلق به میکروارگانیسم‌ها باشد.",
+      "summary_fa": "طبیعت، پلاستیک زیست تخریب پذیر را خیلی قبل از انسان اختراع کرد و حیوانات ممکن است صدها میلیون سال از آن تغذیه می کردند. محققان کشف کردند که ده‌ها گونه حیوانی دارای آنزیم‌هایی هستند که قادر به تجزیه پلاستیک‌های زیستی میکروبی به نام PHA هستند، استعدادی که زمانی تصور می‌شد فقط متعلق به میکروارگانیسم‌ها باشد.",
+      "summary_en": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enzymes capable of breaking down microbial bioplastics called PHAs, a talent once thought to belong only to microorganisms.",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
+      "source": "Science Daily",
+      "published_at": "Mon, 17 Aug 2026 01:34:10 EDT",
+      "date_iso": "2026-08-17",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
