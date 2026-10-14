@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-13 23:54:14",
-  "total_count": 33540,
+  "last_update": "2026-10-14 03:44:45",
+  "total_count": 33580,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -69486,6 +69486,699 @@
       "source": "Al Jazeera",
       "published_at": "Wed, 16 Sep 2026 00:00:00 +0000",
       "date_iso": "2026-09-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1049a06b2dce84f08849939323dd20e7",
+      "title": "Russian missile hits Kyiv power plant with no early warning from allies, Zelensky says",
+      "title_fa": "Russian missile hits Kyiv power plant with no early warning from allies, Zelensky says",
+      "title_en": "Russian missile hits Kyiv power plant with no early warning from allies, Zelensky says",
+      "summary": "A Russian ballistic missile struck Kyiv’s CHP-4 power plant, Zelensky said, criticising Western allies for failing to provide advance warning. The attack came despite Trump’s claim that an energy ceasefire was in effect.",
+      "summary_fa": "A Russian ballistic missile struck Kyiv’s CHP-4 power plant, Zelensky said, criticising Western allies for failing to provide advance warning. The attack came despite Trump’s claim that an energy ceasefire was in effect.",
+      "summary_en": "A Russian ballistic missile struck Kyiv’s CHP-4 power plant, Zelensky said, criticising Western allies for failing to provide advance warning. The attack came despite Trump’s claim that an energy ceasefire was in effect.",
+      "link": "https://www.euronews.com/2026/10/14/russian-missile-hits-kyiv-power-plant-with-no-early-warning-from-allies-zelensky-says",
+      "source": "EuroNews",
+      "published_at": "Wed, 14 Oct 2026 04:47:37 +0200",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "a4483e410b4d4bee3b01ea85b2842c2f",
+      "title": "China's exports and imports surge past expectations in September",
+      "title_fa": "China's exports and imports surge past expectations in September",
+      "title_en": "China's exports and imports surge past expectations in September",
+      "summary": "The country's customs agency released September trade data on Wednesday.",
+      "summary_fa": "The country's customs agency released September trade data on Wednesday.",
+      "summary_en": "The country's customs agency released September trade data on Wednesday.",
+      "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 03:41:36 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a48b8a277de7a347d0ad5c015e92ec4b",
+      "title": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
+      "title_fa": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
+      "title_en": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
+      "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "summary_fa": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "summary_en": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 03:40:25 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4d3a946d34fcb51ffa67b820a9aa2df8",
+      "title": "Australian politics live: King says gas reservation plan may ‘push down’ prices at some stage; Liberal ‘reached out’ to Aly over ‘stoned’ comment",
+      "title_fa": "Australian politics live: King says gas reservation plan may ‘push down’ prices at some stage; Liberal ‘reached out’ to Aly over ‘stoned’ comment",
+      "title_en": "Australian politics live: King says gas reservation plan may ‘push down’ prices at some stage; Liberal ‘reached out’ to Aly over ‘stoned’ comment",
+      "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastAustralia missing out on $45bn of revenue from resources: GreensAs Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource.We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard.The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
+      "summary_fa": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastAustralia missing out on $45bn of revenue from resources: GreensAs Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource.We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard.The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
+      "summary_en": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastAustralia missing out on $45bn of revenue from resources: GreensAs Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource.We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare.Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard.The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 03:32:06 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/dc7d2a3df8a7b755abd748a356c2a7b627765b13/553_0_5510_4411/master/5510.jpg?width=140&quality=85&auto=format&fit=max&s=a00b0f6ae6c363b8c05eec654b9531ee",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d557a7ed0452fae944e0b4e593aac17",
+      "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+      "title_fa": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+      "title_en": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+      "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "summary_fa": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "summary_en": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 03:14:48 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "b1a257110259a292f336988fe534b514",
+      "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "title_fa": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "title_en": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "summary": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+      "summary_fa": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+      "summary_en": "Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:09:46 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa3afbb09b0782021f11fe5fee3b79e8",
+      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "title_fa": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "title_en": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "summary": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "summary_fa": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "summary_en": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 03:06:42 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "1efc2da3d72091580260433b6aebe030",
+      "title": "UN Human Rights Council elects 15 members in uncontested vote",
+      "title_fa": "UN Human Rights Council elects 15 members in uncontested vote",
+      "title_en": "UN Human Rights Council elects 15 members in uncontested vote",
+      "summary": "Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.",
+      "summary_fa": "Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.",
+      "summary_en": "Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 02:55:15 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1494e1536943aabdbec4a9cfde857dd4",
+      "title": "China’s exports surge 36% as AI-related shipments boom",
+      "title_fa": "China’s exports surge 36% as AI-related shipments boom",
+      "title_en": "China’s exports surge 36% as AI-related shipments boom",
+      "summary": "Imports also soar as high oil prices push up bill",
+      "summary_fa": "Imports also soar as high oil prices push up bill",
+      "summary_en": "Imports also soar as high oil prices push up bill",
+      "link": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 14 Oct 2026 02:51:40 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffacb4811-3647-4ae1-8df0-ba0769b24da1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "f286170be8b06e8c4bf2725efca3b624",
+      "title": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
+      "title_fa": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
+      "title_en": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
+      "summary": "The pontiff’s illness also prompted calls for people to seek medical treatment and early cancer screenings.",
+      "summary_fa": "The pontiff’s illness also prompted calls for people to seek medical treatment and early cancer screenings.",
+      "summary_en": "The pontiff’s illness also prompted calls for people to seek medical treatment and early cancer screenings.",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
+      "source": "NY Times",
+      "published_at": "Wed, 14 Oct 2026 02:46:25 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-Pope-Reax-pjlk/13int-Pope-Reax-pjlk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e70007bf4809e952ecef5a0854211968",
+      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "title_fa": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "title_en": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "summary": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+      "summary_fa": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+      "summary_en": "Russian ballistic missiles struck Kyiv for a second consecutive day without advance warning.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 02:45:40 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b0ab9d94c027af016dbf5db6841ed65c",
+      "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+      "title_fa": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+      "title_en": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+      "summary": "For a pope who appeared to have time on his side, cancer has raised questions about his longevity and brought a new urgency to his plans for the Church.",
+      "summary_fa": "For a pope who appeared to have time on his side, cancer has raised questions about his longevity and brought a new urgency to his plans for the Church.",
+      "summary_en": "For a pope who appeared to have time on his side, cancer has raised questions about his longevity and brought a new urgency to his plans for the Church.",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+      "source": "NY Times",
+      "published_at": "Wed, 14 Oct 2026 02:42:27 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-pope-assess-01-qzbl/13int-pope-assess-01-qzbl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "435c18b479bce848881deac931c3bfdf",
+      "title": "Beau Lamarre-Condon trial shown crime scene reconstruction as ballistics expert traces bullet trajectories",
+      "title_fa": "Beau Lamarre-Condon trial shown crime scene reconstruction as ballistics expert traces bullet trajectories",
+      "title_en": "Beau Lamarre-Condon trial shown crime scene reconstruction as ballistics expert traces bullet trajectories",
+      "summary": "3D computer video of Paddington terrace shown to jurors outlines prosecution version of alleged murders of Jesse Baird and Luke Davies A computer-generated reconstruction of the alleged double murder of Jesse Baird and Luke Davies has been played to a Sydney jury, as pictures showing gun marks on a bedroom door were examined by the supreme court.Beau Lamarre-Condon, 31, has been accused of shooting dead the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_fa": "3D computer video of Paddington terrace shown to jurors outlines prosecution version of alleged murders of Jesse Baird and Luke Davies A computer-generated reconstruction of the alleged double murder of Jesse Baird and Luke Davies has been played to a Sydney jury, as pictures showing gun marks on a bedroom door were examined by the supreme court.Beau Lamarre-Condon, 31, has been accused of shooting dead the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_en": "3D computer video of Paddington terrace shown to jurors outlines prosecution version of alleged murders of Jesse Baird and Luke Davies A computer-generated reconstruction of the alleged double murder of Jesse Baird and Luke Davies has been played to a Sydney jury, as pictures showing gun marks on a bedroom door were examined by the supreme court.Beau Lamarre-Condon, 31, has been accused of shooting dead the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 02:15:09 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c31aa85a27f27c9c2b550dffbe5651a1b4b93fe1/230_0_1205_964/master/1205.jpg?width=140&quality=85&auto=format&fit=max&s=694b2b3f8dcee4c22b3d96f11d4682aa",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "9ac8b7fc29ab46749614a8ec0837b3fc",
+      "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "title_fa": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "title_en": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "summary": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "summary_fa": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "summary_en": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 02:09:00 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "187f4586bb6d7c7d4c7ef10e1cd27d01",
+      "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+      "title_fa": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+      "title_en": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+      "summary": "Korean car company Hyundai says India is a strategic core market",
+      "summary_fa": "Korean car company Hyundai says India is a strategic core market",
+      "summary_en": "Korean car company Hyundai says India is a strategic core market",
+      "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 02:04:47 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "30c40548a74df6765c2c2683db6f717f",
+      "title": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
+      "title_fa": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
+      "title_en": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
+      "summary": "Federal court overrules decision by former environment minister for the McPhillamys goldmine development at BlayneyThe federal court has overturned a rare protection order issued by former environment minister Tanya Plibersek under Indigenous heritage legislation, which the company said effectively blocked a controversial goldmine in the central west of New South Wales.Regis Resources challenged the decision by the former minister to issue the order in 2024 under section 10 of the Aboriginal and Torres Strait Islander Heritage Protection Act. Continue reading...",
+      "summary_fa": "Federal court overrules decision by former environment minister for the McPhillamys goldmine development at BlayneyThe federal court has overturned a rare protection order issued by former environment minister Tanya Plibersek under Indigenous heritage legislation, which the company said effectively blocked a controversial goldmine in the central west of New South Wales.Regis Resources challenged the decision by the former minister to issue the order in 2024 under section 10 of the Aboriginal and Torres Strait Islander Heritage Protection Act. Continue reading...",
+      "summary_en": "Federal court overrules decision by former environment minister for the McPhillamys goldmine development at BlayneyThe federal court has overturned a rare protection order issued by former environment minister Tanya Plibersek under Indigenous heritage legislation, which the company said effectively blocked a controversial goldmine in the central west of New South Wales.Regis Resources challenged the decision by the former minister to issue the order in 2024 under section 10 of the Aboriginal and Torres Strait Islander Heritage Protection Act. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 01:58:38 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/bb75bc756f72fded7e1c23d0d4d437bba79cf254/422_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1a0406b293b522e386e436b9996925c5",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "185645cecbfdb12c83b2d9956f30653d",
+      "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+      "title_fa": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+      "title_en": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+      "summary": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
+      "summary_fa": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
+      "summary_en": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:56:23 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3dd441357f34ec223813752714fa98d7",
+      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "title_fa": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "title_en": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "summary_fa": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "summary_en": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 01:55:26 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0c64c0b6053c5f739f0e52cba6d02ae8",
+      "title": "Rachel Smith will turn 39 in prison. The high court says she could freeze her eggs from behind bars",
+      "title_fa": "Rachel Smith will turn 39 in prison. The high court says she could freeze her eggs from behind bars",
+      "title_en": "Rachel Smith will turn 39 in prison. The high court says she could freeze her eggs from behind bars",
+      "summary": "Australia’s highest court says Queensland drug trafficker extracting and storing eggs is not ‘assisted reproductive technology’Get our breaking news email, free app or daily news podcastA 36-year-old woman has won an appeal in Australia’s highest court about her right to freeze her eggs while behind bars.Rachel Smith is serving a 10-year prison term in Queensland for trafficking in a dangerous drug. Continue reading...",
+      "summary_fa": "Australia’s highest court says Queensland drug trafficker extracting and storing eggs is not ‘assisted reproductive technology’Get our breaking news email, free app or daily news podcastA 36-year-old woman has won an appeal in Australia’s highest court about her right to freeze her eggs while behind bars.Rachel Smith is serving a 10-year prison term in Queensland for trafficking in a dangerous drug. Continue reading...",
+      "summary_en": "Australia’s highest court says Queensland drug trafficker extracting and storing eggs is not ‘assisted reproductive technology’Get our breaking news email, free app or daily news podcastA 36-year-old woman has won an appeal in Australia’s highest court about her right to freeze her eggs while behind bars.Rachel Smith is serving a 10-year prison term in Queensland for trafficking in a dangerous drug. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/14/rachel-smith-will-turn-39-in-prison-the-high-court-says-she-could-freeze-her-eggs-from-behind-bars",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 01:45:13 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c6bf870e66d847e3cdac3fe352001551a3b2c24c/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=d971bd3f0b313516b723beef7d4832e4",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "54436d9c0f620b627ddfae8ec486da8e",
+      "title": "Jamaica accepts first flight of third-country deportations from US",
+      "title_fa": "Jamaica accepts first flight of third-country deportations from US",
+      "title_en": "Jamaica accepts first flight of third-country deportations from US",
+      "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "summary_fa": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "summary_en": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:44:09 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3179a8c18aa8bba986172efdddb66987",
+      "title": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+      "title_fa": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+      "title_en": "Colombia peace tribunal charges ex-FARC members with anti-Indigenous crimes",
+      "summary": "The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.",
+      "summary_fa": "The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.",
+      "summary_en": "The former rebels are accused of abuses such as torture, murder and the displacement of Indigenous communities.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-peace-tribunal-charges-ex-farc-members-with-anti-indigenous-crimes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:43:56 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfdbc0050e106d1c99d1b9fe33f3f105",
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "title_fa": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "title_en": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "summary": "The second-largest US bank faces record penalties for failing to comply with money laundering and sanctions laws.",
+      "summary_fa": "The second-largest US bank faces record penalties for failing to comply with money laundering and sanctions laws.",
+      "summary_en": "The second-largest US bank faces record penalties for failing to comply with money laundering and sanctions laws.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:15:30 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c43c6d3955a7c971ad0b0598490a00b",
+      "title": "Chalmers denies Albanese overruled him on ATO credit card ban after PM says ‘I will get it done’",
+      "title_fa": "Chalmers denies Albanese overruled him on ATO credit card ban after PM says ‘I will get it done’",
+      "title_en": "Chalmers denies Albanese overruled him on ATO credit card ban after PM says ‘I will get it done’",
+      "summary": "Treasurer’s comments come after prime minister revealed he intervened to delay a controversial ban on such payments to the tax officeFollow our Australian politics live blog for latest updatesGet our new political email, free app or daily news podcastJim Chalmers has denied being rolled by Anthony Albanese after the prime minister personally intervened to stop a tax office ban on credit card payments a day before stopgap funding was announced.After sustained criticism of the government’s handling of the ban on tax bills being paid by credit card, Chalmers last week announced new funding for the ATO to ensure card payments could continue until the end of the financial year.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_fa": "Treasurer’s comments come after prime minister revealed he intervened to delay a controversial ban on such payments to the tax officeFollow our Australian politics live blog for latest updatesGet our new political email, free app or daily news podcastJim Chalmers has denied being rolled by Anthony Albanese after the prime minister personally intervened to stop a tax office ban on credit card payments a day before stopgap funding was announced.After sustained criticism of the government’s handling of the ban on tax bills being paid by credit card, Chalmers last week announced new funding for the ATO to ensure card payments could continue until the end of the financial year.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_en": "Treasurer’s comments come after prime minister revealed he intervened to delay a controversial ban on such payments to the tax officeFollow our Australian politics live blog for latest updatesGet our new political email, free app or daily news podcastJim Chalmers has denied being rolled by Anthony Albanese after the prime minister personally intervened to stop a tax office ban on credit card payments a day before stopgap funding was announced.After sustained criticism of the government’s handling of the ban on tax bills being paid by credit card, Chalmers last week announced new funding for the ATO to ensure card payments could continue until the end of the financial year.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/14/jim-chalmers-denies-anthony-albanese-rolled-him-over-credit-card-payments-for-tax-bills",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 01:14:23 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a62dbaf9a1d991850d4d543b0d64137641d6236f/527_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=af87f23ddd142e623d8adf12421716bf",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "54edd5672ab6f319eb6e7827fb584525",
+      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "title_fa": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "title_en": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+      "summary": "Foot-and-mouth disease threatens livestock farmers’ livelihoods and disrupts meat supplies as authorities impose curbs.",
+      "summary_fa": "Foot-and-mouth disease threatens livestock farmers’ livelihoods and disrupts meat supplies as authorities impose curbs.",
+      "summary_en": "Foot-and-mouth disease threatens livestock farmers’ livelihoods and disrupts meat supplies as authorities impose curbs.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 01:07:46 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "51a2c665d510458c6475ed05b8b3a637",
+      "title": "Russia arrests Japanese journalist on allegations of spying",
+      "title_fa": "Russia arrests Japanese journalist on allegations of spying",
+      "title_en": "Russia arrests Japanese journalist on allegations of spying",
+      "summary": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defencesRussia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo.Russian foreign ministry spokesperson Maria Zakharova identified the reporter as Yuki Imai, from the Hokkaido Shimbun newspaper, adding that he had been accused of “conducting espionage activities on Russian territory”. Continue reading...",
+      "summary_fa": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defencesRussia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo.Russian foreign ministry spokesperson Maria Zakharova identified the reporter as Yuki Imai, from the Hokkaido Shimbun newspaper, adding that he had been accused of “conducting espionage activities on Russian territory”. Continue reading...",
+      "summary_en": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defencesRussia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo.Russian foreign ministry spokesperson Maria Zakharova identified the reporter as Yuki Imai, from the Hokkaido Shimbun newspaper, adding that he had been accused of “conducting espionage activities on Russian territory”. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 01:05:25 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2935b7e812af783543a25a219521041a3c97878b/915_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=33ba3dd5a31180179d8e0418488eded6",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "1d9bdc319ff2b0879d9f6770bb9704c4",
+      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "title_fa": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "title_en": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "summary_fa": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "summary_en": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "link": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 14 Oct 2026 00:59:16 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc2/live/919d9da0-c746-11f1-a64c-550be9e3c66b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a527a13583e2cdbb23e1a5a8f66444e1",
+      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "title_fa": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "title_en": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "summary": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+      "summary_fa": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+      "summary_en": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "source": "NY Times",
+      "published_at": "Wed, 14 Oct 2026 00:56:54 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-saudi-yemensub-photo-plbk/13int-saudi-yemensub-photo-plbk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0a2800b12676b6e31fd04aa4ad52b261",
+      "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "title_fa": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "title_en": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "summary": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allegeA Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
+      "summary_fa": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allegeA Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
+      "summary_en": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allegeA Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+      "source": "The Guardian",
+      "published_at": "Wed, 14 Oct 2026 00:53:36 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b791f25feb95483ef91ffa0fee5564fad3437b2c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e663ffb596d7cbb2d5b956370a2070a6",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "4d0ef9701e7cd869826a333866efe336",
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "title_fa": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "title_en": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "summary": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "summary_fa": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "summary_en": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:45:16 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "6b15c52ba0385127aac835f29fa32291",
+      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "title_fa": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "title_en": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "summary": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+      "summary_fa": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+      "summary_en": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+      "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+      "source": "CNBC",
+      "published_at": "Wed, 14 Oct 2026 00:28:34 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ec3540446fc0fe38ff98bcac0ddea6dd",
+      "title": "How podcasts became political powerhouses",
+      "title_fa": "How podcasts became political powerhouses",
+      "title_en": "How podcasts became political powerhouses",
+      "summary": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "summary_fa": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "summary_en": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:27:52 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e95cd594589b2e18b56919fae9b29bae",
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "title_fa": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "title_en": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "summary_fa": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "summary_en": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "source": "NY Times",
+      "published_at": "Wed, 14 Oct 2026 00:12:23 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-sanctions-gfkc/13dc-sanctions-gfkc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "0cfe6a947f8b9c3f3ad48066110f1a42",
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "title_fa": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "title_en": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "summary_fa": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "summary_en": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 14 Oct 2026 00:00:00 +0000",
+      "date_iso": "2026-10-14",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -177815,6 +178508,27 @@
       }
     },
     {
+      "id": "1b571f16fa1852babe14af2b20bc3a24",
+      "title": "OpenAI engineer charged after listening device found in meeting room",
+      "title_fa": "OpenAI engineer charged after listening device found in meeting room",
+      "title_en": "OpenAI engineer charged after listening device found in meeting room",
+      "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+      "summary_fa": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+      "summary_en": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 23:55:33 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "18b8a26054af16476ece7f27c762797a",
       "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
       "title_fa": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
@@ -177829,6 +178543,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-fall-wlzv/13dc-guilfoyle-fall-wlzv-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "23321d919c0dcd5efb8df6bcd00aef9a",
+      "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+      "title_fa": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+      "title_en": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+      "summary": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+      "summary_fa": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+      "summary_en": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 13 Oct 2026 23:42:57 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -177878,6 +178613,27 @@
       }
     },
     {
+      "id": "cf15a88f856c099ee336a7bf64007e2b",
+      "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "title_fa": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "title_en": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "summary": "One person has died and others were injured after an incident at a US amusement park.",
+      "summary_fa": "One person has died and others were injured after an incident at a US amusement park.",
+      "summary_en": "One person has died and others were injured after an incident at a US amusement park.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 13 Oct 2026 23:42:15 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f34b/live/ee29dc10-c75e-11f1-a64c-550be9e3c66b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "10ce97c590b0466840d8fd10750fd879",
       "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
       "title_fa": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
@@ -177917,6 +178673,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "164ffbdf3cc4edd3b8921a735ff3471f",
+      "title": "What to know about pulmonary adenocarcinoma",
+      "title_fa": "What to know about pulmonary adenocarcinoma",
+      "title_en": "What to know about pulmonary adenocarcinoma",
+      "summary": "Pope Leo XIV’s doctors discovered lung cancer, prompting the removal of a portion of his right lung.",
+      "summary_fa": "Pope Leo XIV’s doctors discovered lung cancer, prompting the removal of a portion of his right lung.",
+      "summary_en": "Pope Leo XIV’s doctors discovered lung cancer, prompting the removal of a portion of his right lung.",
+      "link": "https://www.washingtonpost.com/health/2026/10/13/what-know-about-pulmonary-adenocarcinoma/",
+      "source": "Washington Post",
+      "published_at": "Tue, 13 Oct 2026 23:26:23 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -178382,6 +179159,27 @@
       }
     },
     {
+      "id": "fab7cb2d099f3c0813f7deb4e0f20df7",
+      "title": "Pope Leo’s surgery removed cancerous lung nodule, Vatican says",
+      "title_fa": "Pope Leo’s surgery removed cancerous lung nodule, Vatican says",
+      "title_en": "Pope Leo’s surgery removed cancerous lung nodule, Vatican says",
+      "summary": "The 71-year-old underwent an operation to remove a pulmonary adenocarcinoma, among the most common types of lung cancer. Officials said it was “successfully completed.”",
+      "summary_fa": "The 71-year-old underwent an operation to remove a pulmonary adenocarcinoma, among the most common types of lung cancer. Officials said it was “successfully completed.”",
+      "summary_en": "The 71-year-old underwent an operation to remove a pulmonary adenocarcinoma, among the most common types of lung cancer. Officials said it was “successfully completed.”",
+      "link": "https://www.washingtonpost.com/world/2026/10/13/pope-leo-enters-hospital-surgery-lung-nodule/",
+      "source": "Washington Post",
+      "published_at": "Tue, 13 Oct 2026 21:52:47 +0000",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d7a3551f89a9bf86215f37c21261a777",
       "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
       "title_fa": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
@@ -178484,6 +179282,27 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "be4d798821fd5b75e33adaf693de092d",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "title_fa": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "title_en": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affectedSouthern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.The remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction. Continue reading...",
+      "summary_fa": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affectedSouthern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.The remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction. Continue reading...",
+      "summary_en": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affectedSouthern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.The remnants of Tropical Storm Rachel hit Mexico’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction. Continue reading...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "source": "The Guardian",
+      "published_at": "Tue, 13 Oct 2026 21:29:08 GMT",
+      "date_iso": "2026-10-14",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0c1255d69f930de984c5e7bdf16b2169f0b84082/524_0_5236_4189/master/5236.jpg?width=140&quality=85&auto=format&fit=max&s=1179ae39cc7dbb6ca39681ada76370da",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -180647,6 +181466,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd62fae1c9dd9cb7aa52fe3bf61c4442",
+      "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "title_fa": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "title_en": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
+      "summary": "President Donald Trump's diesel deal with Russia comes as he is under pressure to reduce fuel prices with the U.S. midterm elections less than a month way.",
+      "summary_fa": "President Donald Trump's diesel deal with Russia comes as he is under pressure to reduce fuel prices with the U.S. midterm elections less than a month way.",
+      "summary_en": "President Donald Trump's diesel deal with Russia comes as he is under pressure to reduce fuel prices with the U.S. midterm elections less than a month way.",
+      "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
+      "source": "CNBC",
+      "published_at": "Tue, 13 Oct 2026 16:53:43 GMT",
+      "date_iso": "2026-10-14",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
