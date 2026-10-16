@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-16 20:20:26",
-  "total_count": 34880,
+  "last_update": "2026-10-16 22:55:42",
+  "total_count": 34909,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -621354,6 +621354,90 @@
       }
     },
     {
+      "id": "9d54fb8e212747861781cbb0c17f44e9",
+      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "title_fa": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "title_en": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
+      "summary_fa": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
+      "summary_en": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 22:48:54 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "302a476c0b2d531d2928784204fc1307",
+      "title": "Families demand justice after Pakistan school collapse",
+      "title_fa": "Families demand justice after Pakistan school collapse",
+      "title_en": "Families demand justice after Pakistan school collapse",
+      "summary": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+      "summary_fa": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+      "summary_en": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 22:38:04 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "19b755fc7515cbaa30d9f583d2611503",
+      "title": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
+      "title_fa": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
+      "title_en": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
+      "summary": "Spain's prime minister defended the country's record on tackling irregular migration amid criticism of its mass regularisation plan, while Ursula von der Leyen called for full implementation of the EU migration and asylum pact.",
+      "summary_fa": "Spain's prime minister defended the country's record on tackling irregular migration amid criticism of its mass regularisation plan, while Ursula von der Leyen called for full implementation of the EU migration and asylum pact.",
+      "summary_en": "Spain's prime minister defended the country's record on tackling irregular migration amid criticism of its mass regularisation plan, while Ursula von der Leyen called for full implementation of the EU migration and asylum pact.",
+      "link": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 22:30:13 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1d65c7760ff8d4d5e42656a9fb1f1ff6",
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "title_fa": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "title_en": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "summary_fa": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "summary_en": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 21:59:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-02898598",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "91c66f1acc3bfd0061b2f9e88168a0e8",
       "title": "Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky",
       "title_fa": "Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky",
@@ -621372,6 +621456,111 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "ed9e6082516186e5bbec3d6a961d566d",
+      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "title_fa": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "title_en": "Yemen’s government says Houthis fired two missiles at Aden airport",
+      "summary": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
+      "summary_fa": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
+      "summary_en": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:56:07 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "72eabfdda03796f9a1d2c3a328753fc6",
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "title_fa": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "title_en": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "summary_fa": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "summary_en": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 21:43:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-26159114",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5c9b103dd4e04c05b34be1882dca0a1a",
+      "title": "The Leap Second Is No More",
+      "title_fa": "The Leap Second Is No More",
+      "title_en": "The Leap Second Is No More",
+      "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "summary_fa": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "summary_en": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 21:31:35 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "719a482ecaf14701c7e65ebac4ff87e8",
+      "title": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
+      "title_fa": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
+      "title_en": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
+      "summary": "Future of £33bn project has been put in doubt since new prime minister took office",
+      "summary_fa": "Future of £33bn project has been put in doubt since new prime minister took office",
+      "summary_en": "Future of £33bn project has been put in doubt since new prime minister took office",
+      "link": "https://www.ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 21:30:07 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a2f9947-132f-43ef-b65f-a8fdb8e7b038.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b029e7d33b59f43ad784ec211188dc27",
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "title_fa": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "title_en": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "summary_fa": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "summary_en": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 21:30:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-54657824",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -621396,6 +621585,258 @@
       }
     },
     {
+      "id": "2cba07f0a35e38995d9b191d0956b8bd",
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "title_fa": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "title_en": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "summary_fa": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "summary_en": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 21:21:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-94711045",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dfd7d80226ecf1847e878a84ef761549",
+      "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
+      "title_fa": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
+      "title_en": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
+      "summary": "Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.",
+      "summary_fa": "Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.",
+      "summary_en": "Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 21:15:11 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "43aeddaae6a58cb36c352d3893230888",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "title_fa": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "title_en": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+      "summary_fa": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+      "summary_en": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:08:50 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fc29e96b7e803225d204dd28f0e01b8f",
+      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "title_fa": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "title_en": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "summary": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+      "summary_fa": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+      "summary_en": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 21:08:44 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "7eeb2c6becbcb2b49ac61d3ce72c1ddd",
+      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+      "title_fa": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+      "title_en": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+      "summary": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "summary_fa": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "summary_en": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
+      "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 21:03:42 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "afab4f5dfd64535a4ce5b4c148e4916e",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "title_fa": "OpenAI models hacked a crypto wallet and breached more websites",
+      "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "summary_fa": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "summary_en": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7ec5cae23b51e7d08aaa4353cf7f0ce4",
+      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "title_fa": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "title_en": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "summary_fa": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "summary_en": "Thinking of buying the dip in technology stocks? The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 20:58:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-38050807",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6d01abf88ba295361b2b061a3d662718",
+      "title": "Brent hits 5-month high above $110 on continued tension in Middle East",
+      "title_fa": "Brent hits 5-month high above $110 on continued tension in Middle East",
+      "title_en": "Brent hits 5-month high above $110 on continued tension in Middle East",
+      "summary": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
+      "summary_fa": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
+      "summary_en": "Oil prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at important energy hubs",
+      "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 20:55:28 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f695146-288a-4bb7-af45-fd6fc009a0ef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 29.2985,
+        "lng": 42.551,
+        "name": "خاورمیانه"
+      }
+    },
+    {
+      "id": "3a7a47922b2021a26a1740c8da5b6164",
+      "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+      "title_fa": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+      "title_en": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+      "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+      "summary_fa": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+      "summary_en": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+      "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 20:42:16 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F517e5394-1c4a-4e7f-887a-98b076f28af7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d371ae4969aca1a3a5c836b05d05bbb",
+      "title": "Students in Europe are rising up to call for better education",
+      "title_fa": "Students in Europe are rising up to call for better education",
+      "title_en": "Students in Europe are rising up to call for better education",
+      "summary": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+      "summary_fa": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+      "summary_en": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:38:00 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "fc73fc416cc5908fca4cdfdd1fe59182",
+      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "title_fa": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "title_en": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "summary_fa": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "summary_en": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:37:22 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "9918db106c147991fa5ea927eae5bec4",
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "title_fa": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "title_en": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "summary": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "summary_fa": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "summary_en": "CoreWeave’s bond yields and credit default swaps have surged as its stock sells off. Here’s what those credit signals mean for stock investors.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 20:33:55 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "049638046b7b335970babc3022d277a9",
       "title": "Romanian president calls for greater NATO oversight in the Black Sea in Euronews interview",
       "title_fa": "Romanian president calls for greater NATO oversight in the Black Sea in Euronews interview",
@@ -621409,6 +621850,69 @@
       "date_iso": "2026-10-16",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c5dc98a037d15bdff240b32bb2a3d2c",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "title_fa": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "title_en": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "summary_fa": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "summary_en": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 20:20:07 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "186312cd18da96b0885c8524ef25c0e2",
+      "title": "Oregon community mourns victims of school shooting",
+      "title_fa": "Oregon community mourns victims of school shooting",
+      "title_en": "Oregon community mourns victims of school shooting",
+      "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+      "summary_fa": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+      "summary_en": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:08:52 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7da346d753f6c2b696fd7838becedc71",
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "title_fa": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "title_en": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+      "summary_fa": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+      "summary_en": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 20:07:25 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -621519,6 +622023,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "81ddb581f81a198a1799557d5cedf0a8",
+      "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "title_fa": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "title_en": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "summary": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "summary_fa": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "summary_en": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 19:42:41 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b6bbb08-14d2-481f-94b7-e6a19ca6142c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -622492,6 +623017,27 @@
       "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
       "title_fa": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
       "title_en": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "summary_fa": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "summary_en": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 17:05:31 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "9ffb0823fc1a7c6e08e58f8a18d1ca26",
+      "title": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
+      "title_fa": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
+      "title_en": "Real Madrid demand resignation of La Liga chief after Nazi comparison",
       "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
       "summary_fa": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
       "summary_en": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
@@ -678516,6 +679062,27 @@
       }
     },
     {
+      "id": "775fa688035def1e1af7d719821c8bd7",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "title_fa": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "title_en": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "summary_fa": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "summary_en": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "published_at": "2026-10-16T18:51:22-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c292c5d7cdc9629cb10c6f23b8decd9c",
       "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
       "title_fa": "Munich dumps proprietary for open source (again) – but no Linux desktop",
@@ -678551,6 +679118,48 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c15d5969d85322bc826524ae9c0b2208",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "title_fa": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "title_en": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
+      "summary_fa": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
+      "summary_en": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "published_at": "2026-10-16T16:50:27-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "52a8cdd9412d2584d4c02ed712695268",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "title_fa": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "title_en": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+      "summary_fa": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+      "summary_en": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "published_at": "2026-10-16T16:49:04-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
