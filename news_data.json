@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-16 13:55:34",
-  "total_count": 34737,
+  "last_update": "2026-10-16 17:51:43",
+  "total_count": 34838,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -621354,6 +621354,1224 @@
       }
     },
     {
+      "id": "c18c681e52062c5ab1a7060a2842206d",
+      "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+      "title_fa": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+      "title_en": "Budget, Ukraine, migration: Five takeaways from the EU leaders’ summit",
+      "summary": "EU leaders ended their Brussels summit with no deal on the budget, a new €70bn Ukraine funding gap, open clashes over energy and migration, but fresh resolve to create new trade defence tools to battle China.",
+      "summary_fa": "EU leaders ended their Brussels summit with no deal on the budget, a new €70bn Ukraine funding gap, open clashes over energy and migration, but fresh resolve to create new trade defence tools to battle China.",
+      "summary_en": "EU leaders ended their Brussels summit with no deal on the budget, a new €70bn Ukraine funding gap, open clashes over energy and migration, but fresh resolve to create new trade defence tools to battle China.",
+      "link": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 19:38:35 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "0e4c8f22c8847754b7a08263fbf6def2",
+      "title": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
+      "title_fa": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
+      "title_en": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
+      "summary": "Police said 160 people were detained following violent incidents on Thursday evening.",
+      "summary_fa": "Police said 160 people were detained following violent incidents on Thursday evening.",
+      "summary_en": "Police said 160 people were detained following violent incidents on Thursday evening.",
+      "link": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 19:25:11 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "525caec65e00601a510058ea7e6d61fe",
+      "title": "Global timekeeping rules change: leap second scrapped from 2027",
+      "title_fa": "Global timekeeping rules change: leap second scrapped from 2027",
+      "title_en": "Global timekeeping rules change: leap second scrapped from 2027",
+      "summary": "Global timekeepers have voted to end the practice of adding extra seconds to UTC, citing risks to computer systems and the prospect of the first-ever negative leap second.",
+      "summary_fa": "Global timekeepers have voted to end the practice of adding extra seconds to UTC, citing risks to computer systems and the prospect of the first-ever negative leap second.",
+      "summary_en": "Global timekeepers have voted to end the practice of adding extra seconds to UTC, citing risks to computer systems and the prospect of the first-ever negative leap second.",
+      "link": "https://www.euronews.com/2026/10/16/global-timekeeping-rules-change-leap-second-scrapped-from-2027",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 18:49:56 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8a898fe1e49bda3ee81bd412c26d1ded",
+      "title": "Commission and Ukraine launch joint task force over EU accession",
+      "title_fa": "Commission and Ukraine launch joint task force over EU accession",
+      "title_en": "Commission and Ukraine launch joint task force over EU accession",
+      "summary": "The Commission and Ukraine launched a joint task force meeting twice a week to speed up accession reforms on the rule of law and anti-corruption, after Hungary lifted its veto and two more negotiating clusters were opened.",
+      "summary_fa": "The Commission and Ukraine launched a joint task force meeting twice a week to speed up accession reforms on the rule of law and anti-corruption, after Hungary lifted its veto and two more negotiating clusters were opened.",
+      "summary_en": "The Commission and Ukraine launched a joint task force meeting twice a week to speed up accession reforms on the rule of law and anti-corruption, after Hungary lifted its veto and two more negotiating clusters were opened.",
+      "link": "https://www.euronews.com/2026/10/16/commission-and-ukraine-launch-joint-task-force-over-eu-accession",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 18:30:51 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "ce50494cdd28b4924d18ad5c264b50f6",
+      "title": "EU–Turkey summit in October aims to restart Cyprus talks",
+      "title_fa": "EU–Turkey summit in October aims to restart Cyprus talks",
+      "title_en": "EU–Turkey summit in October aims to restart Cyprus talks",
+      "summary": "President Christodoulides said the high-level meeting would focus on resuming negotiations over Cyprus and advancing EU-Turkey relations.",
+      "summary_fa": "President Christodoulides said the high-level meeting would focus on resuming negotiations over Cyprus and advancing EU-Turkey relations.",
+      "summary_en": "President Christodoulides said the high-level meeting would focus on resuming negotiations over Cyprus and advancing EU-Turkey relations.",
+      "link": "https://www.euronews.com/2026/10/16/euturkey-summit-in-october-aims-to-restart-cyprus-talks",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 18:21:32 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "281bae67ecd43fb1c3d73d3df982f486",
+      "title": "Latest news bulletin | October 16th, 2026 – Evening",
+      "title_fa": "Latest news bulletin | October 16th, 2026 – Evening",
+      "title_en": "Latest news bulletin | October 16th, 2026 – Evening",
+      "summary": "Catch up with the most important stories from around Europe and beyond this October 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_fa": "Catch up with the most important stories from around Europe and beyond this October 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this October 16th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-evening",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 18:00:26 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "dbbcb1ca53fdc7a94deae8b4be4a79d7",
+      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "title_fa": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "title_en": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+      "summary_fa": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+      "summary_en": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+      "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 17:50:52 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "41c092db66dc2e3dd0d85c73806b7346",
+      "title": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
+      "title_fa": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
+      "title_en": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
+      "summary": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections.",
+      "summary_fa": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections.",
+      "summary_en": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections.",
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 17:41:52 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a9ff224697e6f5f8632bd7216fb1231f",
+      "title": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – Europe live",
+      "title_fa": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – Europe live",
+      "title_en": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – Europe live",
+      "summary": "European commission president says ‘no one wants more peace than the people of Ukraine, and it is our duty to support them’Analysis: Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveableSeveral leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way.Speaking to Newsmax last night, Donald Trump repeated his views of the two leaders involved in the conflict. Continue reading...",
+      "summary_fa": "European commission president says ‘no one wants more peace than the people of Ukraine, and it is our duty to support them’Analysis: Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveableSeveral leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way.Speaking to Newsmax last night, Donald Trump repeated his views of the two leaders involved in the conflict. Continue reading...",
+      "summary_en": "European commission president says ‘no one wants more peace than the people of Ukraine, and it is our duty to support them’Analysis: Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveableSeveral leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way.Speaking to Newsmax last night, Donald Trump repeated his views of the two leaders involved in the conflict. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Fri, 16 Oct 2026 17:37:17 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4ac20a083bb9d02c2781c7f126fd2e6cb5088055/678_476_4406_3524/master/4406.jpg?width=140&quality=85&auto=format&fit=max&s=c5c713c51cacb413110ab77a37336d80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "37c0a7689b75c65eac140558ed0cd043",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "title_fa": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "title_en": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "summary_fa": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "summary_en": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 17:35:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-90466023",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "973da1e7c13d12fc6f9934afbeef7ffa",
+      "title": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe",
+      "title_fa": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe",
+      "title_en": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe",
+      "summary": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
+      "summary_fa": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
+      "summary_en": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
+      "link": "https://www.ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 17:33:56 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82bbec76-f176-403e-811a-5619dbff6486.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "e48e004ebb61a93168b112343cce2f55",
+      "title": "Japan's first female PM says makeup and housework add hours to her working day",
+      "title_fa": "Japan's first female PM says makeup and housework add hours to her working day",
+      "title_en": "Japan's first female PM says makeup and housework add hours to her working day",
+      "summary": "Japanese Prime Minister Sanae Takaichi says household chores and getting ready for TV appearances add three to four hours to her working day compared with male predecessors.",
+      "summary_fa": "Japanese Prime Minister Sanae Takaichi says household chores and getting ready for TV appearances add three to four hours to her working day compared with male predecessors.",
+      "summary_en": "Japanese Prime Minister Sanae Takaichi says household chores and getting ready for TV appearances add three to four hours to her working day compared with male predecessors.",
+      "link": "https://www.euronews.com/video/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 17:30:28 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "c04650db42828012af1295d56cbb785e",
+      "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+      "title_fa": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+      "title_en": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+      "summary": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
+      "summary_fa": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
+      "summary_en": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
+      "link": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 17:21:20 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6cc810b5a9c1864b2fdb817b42cc3613",
+      "title": "Here’s how the Fed should reveal its outlook for the economy",
+      "title_fa": "Here’s how the Fed should reveal its outlook for the economy",
+      "title_en": "Here’s how the Fed should reveal its outlook for the economy",
+      "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+      "summary_fa": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+      "summary_en": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
+      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 17:07:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-90488501",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c1f63a8eabc8daaf6c7e0a57976107f9",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "title_fa": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "title_en": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "summary_fa": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "summary_en": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 17:05:59 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "71bcf84e8348b669ee8388209e267c83",
+      "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "title_fa": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "title_en": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+      "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "summary_fa": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "summary_en": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 17:05:31 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "13b41aae9216aa63075fb3060213c5a3",
+      "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+      "title_fa": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+      "title_en": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+      "summary": "After undergoing surgery this week, pope can now 'carry out normal activities ​with full independence', say doctors.",
+      "summary_fa": "After undergoing surgery this week, pope can now 'carry out normal activities ​with full independence', say doctors.",
+      "summary_en": "After undergoing surgery this week, pope can now 'carry out normal activities ​with full independence', say doctors.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 17:03:52 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "320469771e386e41743ec43ffbd5611a",
+      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "title_fa": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "title_en": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "summary_fa": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "summary_en": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 17:02:50 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "29bad765083b7206914bf788f78e2414",
+      "title": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
+      "title_fa": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
+      "title_en": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
+      "summary": "Kalshi odds for a Tesla-SpaceX merger rose above 50% for early 2027 as Barclays outlined how a deal could work.",
+      "summary_fa": "Kalshi odds for a Tesla-SpaceX merger rose above 50% for early 2027 as Barclays outlined how a deal could work.",
+      "summary_en": "Kalshi odds for a Tesla-SpaceX merger rose above 50% for early 2027 as Barclays outlined how a deal could work.",
+      "link": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 17:02:40 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2615d694ad501f8df408cb3f13eead0c",
+      "title": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+      "title_fa": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+      "title_en": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+      "summary": "We asked students what they think.",
+      "summary_fa": "We asked students what they think.",
+      "summary_en": "We asked students what they think.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:54:49 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "0706c469797a4ad61d288e449b329425",
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "title_fa": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "title_en": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambitBrazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
+      "summary_fa": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambitBrazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
+      "summary_en": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambitBrazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "source": "The Guardian",
+      "published_at": "Fri, 16 Oct 2026 16:47:35 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d849b27b6454c97e931470b1c5fe256748d76ce4/377_0_4335_3467/master/4335.jpg?width=140&quality=85&auto=format&fit=max&s=b17977c8e67d5b6e448974d4d7709ddd",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cff03c3e3d97929a482f24b0570f4377",
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "title_fa": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "title_en": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "summary_fa": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "summary_en": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 16:46:18 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "e4058a95e50b3c76fe47df8a8e96b705",
+      "title": "Iran’s president condemns environmental impact of war in Middle East",
+      "title_fa": "Iran’s president condemns environmental impact of war in Middle East",
+      "title_en": "Iran’s president condemns environmental impact of war in Middle East",
+      "summary": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
+      "summary_fa": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
+      "summary_en": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:45:03 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6de3aa4a7dc490c9beaba95d16945372",
+      "title": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+      "title_fa": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+      "title_en": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
+      "summary": "Foreign firms including ACWA Power, EDF and Toyota Tsusho are involved in projects covering 3,000 MW of generating capacity and 400 MW of storage. Tashkent is also preparing 128 oil and gas exploration blocks for investors and pursuing a future electricity connection to Europe.",
+      "summary_fa": "Foreign firms including ACWA Power, EDF and Toyota Tsusho are involved in projects covering 3,000 MW of generating capacity and 400 MW of storage. Tashkent is also preparing 128 oil and gas exploration blocks for investors and pursuing a future electricity connection to Europe.",
+      "summary_en": "Foreign firms including ACWA Power, EDF and Toyota Tsusho are involved in projects covering 3,000 MW of generating capacity and 400 MW of storage. Tashkent is also preparing 128 oil and gas exploration blocks for investors and pursuing a future electricity connection to Europe.",
+      "link": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:43:49 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "bcd5ae68cca05940eab1f11bfc5234b0",
+      "title": "Pope Leo XIV celebrates Mass as recovery from cancer surgery progresses",
+      "title_fa": "Pope Leo XIV celebrates Mass as recovery from cancer surgery progresses",
+      "title_en": "Pope Leo XIV celebrates Mass as recovery from cancer surgery progresses",
+      "summary": "Vatican Media has released the first images of Pope Leo XIV since his hospitalisation, showing him celebrating Mass at Rome’s Gemelli Hospital as he recovers from lung cancer surgery.",
+      "summary_fa": "Vatican Media has released the first images of Pope Leo XIV since his hospitalisation, showing him celebrating Mass at Rome’s Gemelli Hospital as he recovers from lung cancer surgery.",
+      "summary_en": "Vatican Media has released the first images of Pope Leo XIV since his hospitalisation, showing him celebrating Mass at Rome’s Gemelli Hospital as he recovers from lung cancer surgery.",
+      "link": "https://www.euronews.com/2026/10/16/pope-leo-xiv-celebrates-mass-as-recovery-from-cancer-surgery-progresses",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:41:47 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0037c54d4b7707ffc21ad551ca6aaf94",
+      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "title_fa": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "title_en": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "summary": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
+      "summary_fa": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
+      "summary_en": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
+      "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 16:39:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-24921595",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2392f197f279a51ba520bc1c783415d",
+      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "title_fa": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "title_en": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly.",
+      "summary_fa": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly.",
+      "summary_en": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans' behaviour during Egypt friendly.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:35:32 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc11d8cac2f95d1e8f6b199fc84863c1",
+      "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "title_fa": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "title_en": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "summary": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
+      "summary_fa": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
+      "summary_en": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:34:26 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d432638b901e913eb9857515d9b87475",
+      "title": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+      "title_fa": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+      "title_en": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
+      "summary": "More than 44,000 people still live in buildings marked for demolition across the territory, unable to leave because no alternative shelter exists. Euronews spoke to families in Al-Mughraqa as tarpaulin prices double and Israel blocks timber and shelter kits from entering Gaza.",
+      "summary_fa": "More than 44,000 people still live in buildings marked for demolition across the territory, unable to leave because no alternative shelter exists. Euronews spoke to families in Al-Mughraqa as tarpaulin prices double and Israel blocks timber and shelter kits from entering Gaza.",
+      "summary_en": "More than 44,000 people still live in buildings marked for demolition across the territory, unable to leave because no alternative shelter exists. Euronews spoke to families in Al-Mughraqa as tarpaulin prices double and Israel blocks timber and shelter kits from entering Gaza.",
+      "link": "https://www.euronews.com/2026/10/16/palestinians-in-gaza-dread-another-winter-with-nowhere-safe-to-shelter",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:34:18 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "bb595d091cc093b75bfc7a944129a68e",
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "title_fa": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "title_en": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "summary": "It turns out the Roadster 2 both sucks and blows.",
+      "summary_fa": "It turns out the Roadster 2 both sucks and blows.",
+      "summary_en": "It turns out the Roadster 2 both sucks and blows.",
+      "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 16:30:12 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "987b18eca6a0cab4464240f7339b160a",
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "title_fa": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "title_en": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "summary": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "summary_fa": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "summary_en": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ec227916c77541020fb91b5f2af4d84",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "title_fa": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "title_en": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+      "summary_fa": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+      "summary_en": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+      "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 16:27:44 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7999d2e6afac81d3375de3d3d1d24acf",
+      "title": "The artisanal miners behind Nigeria’s lithium boom",
+      "title_fa": "The artisanal miners behind Nigeria’s lithium boom",
+      "title_en": "The artisanal miners behind Nigeria’s lithium boom",
+      "summary": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race.",
+      "summary_fa": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race.",
+      "summary_en": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:23:09 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cf565fd741f7daf5b82178044356fd96",
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "title_fa": "Thank Gen Z for the ‘Girls’ Revival",
+      "title_en": "Thank Gen Z for the ‘Girls’ Revival",
+      "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "summary_fa": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "summary_en": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 16:21:38 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "615dae6b48417d3d378f72756f792dcc",
+      "title": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "title_fa": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "title_en": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "summary": "Wealthy investors are flocking to tax-aware long short strategies, adding billions into these super-powered versions of tax-loss harvesting accounts.",
+      "summary_fa": "Wealthy investors are flocking to tax-aware long short strategies, adding billions into these super-powered versions of tax-loss harvesting accounts.",
+      "summary_en": "Wealthy investors are flocking to tax-aware long short strategies, adding billions into these super-powered versions of tax-loss harvesting accounts.",
+      "link": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 16:21:14 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c16f6036b29f39f3ee7ff68f3a35af7",
+      "title": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+      "title_fa": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+      "title_en": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+      "summary": "Foxes, owls and deer made from pumpkins have taken over Groot-Bijgaarden Castle near Brussels. The Pumpkimania festival features a 772kg giant, pumpkin boat rides and Halloween activities until 1 November.",
+      "summary_fa": "Foxes, owls and deer made from pumpkins have taken over Groot-Bijgaarden Castle near Brussels. The Pumpkimania festival features a 772kg giant, pumpkin boat rides and Halloween activities until 1 November.",
+      "summary_en": "Foxes, owls and deer made from pumpkins have taken over Groot-Bijgaarden Castle near Brussels. The Pumpkimania festival features a 772kg giant, pumpkin boat rides and Halloween activities until 1 November.",
+      "link": "https://www.euronews.com/video/2026/10/16/belgium-pumpkimania-festival-takes-over-groot-bijgaarden-castle",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:16:46 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4e5864ee0a2a5f04552b8836612fba8f",
+      "title": "Indian protest leaders detained ahead of flag march in New Delhi",
+      "title_fa": "Indian protest leaders detained ahead of flag march in New Delhi",
+      "title_en": "Indian protest leaders detained ahead of flag march in New Delhi",
+      "summary": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
+      "summary_fa": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
+      "summary_en": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:16:13 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "330dfca5249a5e6d015eb6bdde5588bd",
+      "title": "Paris Motor Show: Renault and Citroën unveil electric concepts inspired by classic cars",
+      "title_fa": "Paris Motor Show: Renault and Citroën unveil electric concepts inspired by classic cars",
+      "title_en": "Paris Motor Show: Renault and Citroën unveil electric concepts inspired by classic cars",
+      "summary": "Some of Europe's best-known cars are making a comeback at the Paris Motor Show, reinvented for the electric age.",
+      "summary_fa": "Some of Europe's best-known cars are making a comeback at the Paris Motor Show, reinvented for the electric age.",
+      "summary_en": "Some of Europe's best-known cars are making a comeback at the Paris Motor Show, reinvented for the electric age.",
+      "link": "https://www.euronews.com/video/2026/10/16/paris-motor-show-renault-and-citroen-unveil-electric-concepts-inspired-by-classic-cars",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:15:18 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a10c43944a59c1eec2c473067a72237a",
+      "title": "Looming UK tax rise puts bankers on edge",
+      "title_fa": "Looming UK tax rise puts bankers on edge",
+      "title_en": "Looming UK tax rise puts bankers on edge",
+      "summary": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
+      "summary_fa": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
+      "summary_en": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
+      "link": "https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 16:14:30 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F015a79ae-13ed-479d-a272-b01d182b1b9e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "e25a86bcb94c69f1c6645d93f044cb3e",
+      "title": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
+      "title_fa": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
+      "title_en": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
+      "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
+      "summary_fa": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
+      "summary_en": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
+      "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 16:12:41 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62acd67cb75693dbc239b404c58f0517",
+      "title": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
+      "title_fa": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
+      "title_en": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
+      "summary": "After a week of tensions between Washington and Kyiv, Zelenskyy said Trump was still easier to deal with than Putin, despite the US president’s calls for new leadership in Ukraine and criticism of the Ukrainian leader.",
+      "summary_fa": "After a week of tensions between Washington and Kyiv, Zelenskyy said Trump was still easier to deal with than Putin, despite the US president’s calls for new leadership in Ukraine and criticism of the Ukrainian leader.",
+      "summary_en": "After a week of tensions between Washington and Kyiv, Zelenskyy said Trump was still easier to deal with than Putin, despite the US president’s calls for new leadership in Ukraine and criticism of the Ukrainian leader.",
+      "link": "https://www.euronews.com/2026/10/16/its-easier-dealing-with-trump-than-putin-zelenskyy-tells-euronews-amid-us-tensions",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:12:17 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "81b10878efd1f183151a1c23e69300ec",
+      "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
+      "title_fa": "Division in Lebanon over Hezbollah’s confiscated explosives",
+      "title_en": "Division in Lebanon over Hezbollah’s confiscated explosives",
+      "summary": "Hezbollah said explosives were to be used against Israel but political figures and some analysts fear assassinations.",
+      "summary_fa": "Hezbollah said explosives were to be used against Israel but political figures and some analysts fear assassinations.",
+      "summary_en": "Hezbollah said explosives were to be used against Israel but political figures and some analysts fear assassinations.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:09:43 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "898825d23bf4342bf59306d59bfbf853",
+      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "title_fa": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "title_en": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "summary": "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
+      "summary_fa": "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
+      "summary_en": "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
+      "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 16:09:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-81755167",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa873bb8ada15806200d90f0f374a89a",
+      "title": "What we want to see when Capital One and Meta report earnings next week",
+      "title_fa": "What we want to see when Capital One and Meta report earnings next week",
+      "title_en": "What we want to see when Capital One and Meta report earnings next week",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "summary_fa": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 16:06:29 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "884d58800a72eb7b6344b3cac1bb084f",
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "title_fa": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "title_en": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
+      "summary_fa": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
+      "summary_en": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes",
+      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 16:05:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-72452545",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c15cb840e9371cb42e93ef2972df304",
+      "title": "Could Tesla’s flying car send sales and shares soaring?",
+      "title_fa": "Could Tesla’s flying car send sales and shares soaring?",
+      "title_en": "Could Tesla’s flying car send sales and shares soaring?",
+      "summary": "Tesla revealed its next-generation Roadster on Thursday in Texas, with one of the three new versions performing a jaw-dropping kickflip and demonstrating flying capabilities. However, analysts contacted by Euronews Business do not expect the model to generate significant revenue.",
+      "summary_fa": "Tesla revealed its next-generation Roadster on Thursday in Texas, with one of the three new versions performing a jaw-dropping kickflip and demonstrating flying capabilities. However, analysts contacted by Euronews Business do not expect the model to generate significant revenue.",
+      "summary_en": "Tesla revealed its next-generation Roadster on Thursday in Texas, with one of the three new versions performing a jaw-dropping kickflip and demonstrating flying capabilities. However, analysts contacted by Euronews Business do not expect the model to generate significant revenue.",
+      "link": "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 16:04:48 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ce3100c7634e997f7879294a5edc67b7",
+      "title": "EU rallies in support of Ukraine amid Trump standoff",
+      "title_fa": "EU rallies in support of Ukraine amid Trump standoff",
+      "title_en": "EU rallies in support of Ukraine amid Trump standoff",
+      "summary": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
+      "summary_fa": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
+      "summary_en": "Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 16:02:13 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "66ed4808dd42ddb2732e4eeba0917ce3",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "title_fa": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "title_en": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "summary_fa": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "summary_en": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "6ffd31f249ae4daab9df2123a65bcae6",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "title_fa": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "title_en": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "summary_fa": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "summary_en": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 15:59:30 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "f261375288135115f23e9a8a4d328508",
+      "title": "Vatican releases first photos of Pope Leo XIV after lung tumour surgery",
+      "title_fa": "Vatican releases first photos of Pope Leo XIV after lung tumour surgery",
+      "title_en": "Vatican releases first photos of Pope Leo XIV after lung tumour surgery",
+      "summary": "The Vatican has released the first images of Pope Leo XIV since he underwent surgery to remove a cancerous tumour from his right lung.",
+      "summary_fa": "The Vatican has released the first images of Pope Leo XIV since he underwent surgery to remove a cancerous tumour from his right lung.",
+      "summary_en": "The Vatican has released the first images of Pope Leo XIV since he underwent surgery to remove a cancerous tumour from his right lung.",
+      "link": "https://www.euronews.com/video/2026/10/16/vatican-releases-first-photos-of-pope-leo-xiv-after-lung-tumour-surgery",
+      "source": "EuroNews",
+      "published_at": "Fri, 16 Oct 2026 15:54:24 +0200",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2622352d578bbd813894b597a8c08efe",
+      "title": "Welfare reform is possible: we did it before, we can do it again",
+      "title_fa": "Welfare reform is possible: we did it before, we can do it again",
+      "title_en": "Welfare reform is possible: we did it before, we can do it again",
+      "summary": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
+      "summary_fa": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
+      "summary_en": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
+      "link": "https://www.ft.com/content/86038629-9b53-4859-bc59-a67fb0059c37?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 15:53:23 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67c71c36-be56-4439-af0f-5d61251cd0fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3b9b95238c9797cc5e92a7f99d3aa3da",
+      "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "title_fa": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "title_en": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "summary": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
+      "summary_fa": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
+      "summary_en": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 15:52:50 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-saudi-events-01-kgfc/16int-saudi-events-01-kgfc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "40ade749324cb788fc383c904fc0b6c7",
+      "title": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "title_fa": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "title_en": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "summary": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
+      "summary_fa": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
+      "summary_en": "Manchester United manager Michael Carrick says club have 'moved on' from Lisandro Martinez blast before Leeds trip.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 15:52:18 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2271f0670d242764c89eae513da0071e",
+      "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+      "title_fa": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+      "title_en": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+      "summary": "FDA-approved gene therapies for sickle cell disease offer a chance to help patients, but factors including cost and access have slowed their use.",
+      "summary_fa": "FDA-approved gene therapies for sickle cell disease offer a chance to help patients, but factors including cost and access have slowed their use.",
+      "summary_en": "FDA-approved gene therapies for sickle cell disease offer a chance to help patients, but factors including cost and access have slowed their use.",
+      "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 15:50:15 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aba4638d6d282c8fb509ac5649db01c9",
+      "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+      "title_fa": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+      "title_en": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+      "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "summary_fa": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "summary_en": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 15:45:35 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "a86b86cc615e6307b33258e41b065e8e",
+      "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+      "title_fa": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+      "title_en": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+      "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
+      "summary_fa": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
+      "summary_en": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid faced critical questions from the New York City Council on Friday.",
+      "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 15:44:51 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55d38f5021ba8bb337e8a05e026dc514",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "title_fa": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "title_en": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "summary_fa": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "summary_en": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 15:41:00 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c930bc9f98210ebb0fd3a626e0a27621",
+      "title": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "title_fa": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "title_en": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "summary": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White HouseEurope live – latest updatesVolodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satellite internet service has not yet been fully restored, as media reports suggested the order to throttle the service had come from within the White House.Zelenskyy met European leaders on Friday in Brussels, where he asked the EU for another €70bn next year to fund Ukraine’s defence against Russia. Continue reading...",
+      "summary_fa": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White HouseEurope live – latest updatesVolodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satellite internet service has not yet been fully restored, as media reports suggested the order to throttle the service had come from within the White House.Zelenskyy met European leaders on Friday in Brussels, where he asked the EU for another €70bn next year to fund Ukraine’s defence against Russia. Continue reading...",
+      "summary_en": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White HouseEurope live – latest updatesVolodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satellite internet service has not yet been fully restored, as media reports suggested the order to throttle the service had come from within the White House.Zelenskyy met European leaders on Friday in Brussels, where he asked the EU for another €70bn next year to fund Ukraine’s defence against Russia. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+      "source": "The Guardian",
+      "published_at": "Fri, 16 Oct 2026 15:39:41 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/cea2d4f3ac6c030bc2ea72b966dae48c6fb7b7d7/250_0_3310_2648/master/3310.jpg?width=140&quality=85&auto=format&fit=max&s=7e5c7314dbc5e77221c563ee0dc4d857",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
       "id": "baa4e78e26c939b9fcf54d11bd46013b",
       "title": "Norwegian teenager sentenced to 20 years in prison over UK murder plot",
       "title_fa": "Norwegian teenager sentenced to 20 years in prison over UK murder plot",
@@ -621368,6 +622586,111 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "34ca6974632bf05fe39672f6f6122a4e",
+      "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "title_fa": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "title_en": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "summary": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
+      "summary_fa": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
+      "summary_en": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 15:37:25 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "66b6d074f5c80f23e29c7f710906985a",
+      "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+      "title_fa": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+      "title_en": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+      "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozenEurope live – latest updatesAs Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian.Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in Kyiv, in a strategy meant to punish Ukraine’s population and drive the country to capitulation. Continue reading...",
+      "summary_fa": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozenEurope live – latest updatesAs Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian.Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in Kyiv, in a strategy meant to punish Ukraine’s population and drive the country to capitulation. Continue reading...",
+      "summary_en": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozenEurope live – latest updatesAs Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian.Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in Kyiv, in a strategy meant to punish Ukraine’s population and drive the country to capitulation. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
+      "source": "The Guardian",
+      "published_at": "Fri, 16 Oct 2026 15:28:10 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/31cf026c415926e42b92bfec42453b9b849d4c23/0_451_2147_1717/master/2147.jpg?width=140&quality=85&auto=format&fit=max&s=2971865cd5bb3b1e0438b3afd12a20ad",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "5d8ba5d1e5c9e85539676d40af9f76e2",
+      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "title_fa": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "title_en": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
+      "summary": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
+      "summary_fa": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
+      "summary_en": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
+      "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 15:25:18 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06c2b88a011a700e77f171b679b591e2",
+      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "title_fa": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "title_en": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+      "summary_fa": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+      "summary_en": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 15:22:54 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "955178e97ab0bfb5c8ba86bab316f681",
+      "title": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+      "title_fa": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+      "title_en": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+      "summary": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+      "summary_fa": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+      "summary_en": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+      "link": "https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 15:21:03 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb35207fd-5b69-4ce1-80cf-aa067379f6e6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 51.5074,
         "lng": -0.1278,
@@ -621393,6 +622716,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5a090d1dbaf16dc25859809331f967a1",
+      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "title_fa": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "title_en": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+      "summary": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "summary_fa": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "summary_en": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 15:02:53 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "9e0ec2941aa20871b5c235b887fb1c2a",
+      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
+      "title_fa": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
+      "title_en": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
+      "summary": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
+      "summary_fa": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
+      "summary_en": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html",
+      "source": "NY Times",
+      "published_at": "Fri, 16 Oct 2026 15:01:28 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
       }
     },
     {
@@ -621438,6 +622803,69 @@
       }
     },
     {
+      "id": "febf78065dbf55480afa6eda40cb8fee",
+      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "title_fa": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "title_en": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+      "summary_fa": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+      "summary_en": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+      "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 15:00:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-25509545",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "93be95bb095cbd98383e0868221067a6",
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "title_fa": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "title_en": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "summary_fa": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "summary_en": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "source": "Wired",
+      "published_at": "Fri, 16 Oct 2026 15:00:00 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c298f6b4ae4b6824efe51ddb9947d20d",
+      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "title_fa": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "title_en": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "summary": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+      "summary_fa": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+      "summary_en": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+      "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 14:58:54 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfaa9e47-07ac-4c36-90f1-72e12d49a6fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7ca3b67edfe7c65d61663da544aaf813",
       "title": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
       "title_fa": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
@@ -621456,6 +622884,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "314292edc2302c56d3c546b29e1e57bd",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "title_fa": "Pope pictured for first time since surgery and cancer diagnosis",
+      "title_en": "Pope pictured for first time since surgery and cancer diagnosis",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "summary_fa": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "summary_en": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 14:36:39 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -621480,6 +622929,111 @@
       }
     },
     {
+      "id": "ebf5bd50d96c8c94afe95eeb164d85cd",
+      "title": "Albanian protests turn violent: What we know",
+      "title_fa": "Albanian protests turn violent: What we know",
+      "title_en": "Albanian protests turn violent: What we know",
+      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "summary_fa": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "summary_en": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 14:33:32 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ad/live/a3f113b0-c953-11f1-8879-9d9deeb686e1.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "28d6a84af31c6d2c75e31e549beadebe",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "title_fa": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "title_en": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "summary_fa": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "summary_en": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 14:31:04 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "6cfbaac44ae86fd5610a0c00ecd76ffc",
+      "title": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
+      "title_fa": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
+      "title_en": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
+      "summary": "Mandy Fields, E.l.f. Beauty CFO, says E.l.f. is staying true to its mission of making beauty accessible and is using social media to create brand awareness.",
+      "summary_fa": "Mandy Fields, E.l.f. Beauty CFO, says E.l.f. is staying true to its mission of making beauty accessible and is using social media to create brand awareness.",
+      "summary_en": "Mandy Fields, E.l.f. Beauty CFO, says E.l.f. is staying true to its mission of making beauty accessible and is using social media to create brand awareness.",
+      "link": "https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 14:30:01 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62fc51744310eb835e1ede94b774010e",
+      "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+      "title_fa": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+      "title_en": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+      "summary": "Larry McDonald says the S&P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
+      "summary_fa": "Larry McDonald says the S&P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
+      "summary_en": "Larry McDonald says the S&P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-has-already-crashed-why-a-wall-street-veteran-says-nike-is-the-ultimate-turnaround-trade-f4429eb3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 16 Oct 2026 14:28:00 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-06707856",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c7ac49f00e6d28747edf791979ce0be6",
+      "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+      "title_fa": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+      "title_en": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+      "summary": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
+      "summary_fa": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
+      "summary_en": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
+      "link": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 14:26:05 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1b5f9c0551c68fa2c9447c122367b2fb",
       "title": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
       "title_fa": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
@@ -621498,6 +623052,48 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "مسکو"
+      }
+    },
+    {
+      "id": "2f655f5e219de9ef3ec0052c53e9a89e",
+      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "title_fa": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "title_en": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "summary": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
+      "summary_fa": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
+      "summary_en": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 14:19:36 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "f74956484eb36eaf4164bbe3ebba8829",
+      "title": "Polymarket saw $600 million in election trades after the elections were over",
+      "title_fa": "Polymarket saw $600 million in election trades after the elections were over",
+      "title_en": "Polymarket saw $600 million in election trades after the elections were over",
+      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "summary_fa": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "summary_en": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 14:19:22 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -621522,6 +623118,27 @@
       }
     },
     {
+      "id": "631ebc4dad780cb14f195052c2156d8e",
+      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "title_fa": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "title_en": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "summary": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+      "summary_fa": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+      "summary_en": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 14:12:13 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "118e1713fb2a391459bd33539d2c3844",
       "title": "Portuguese journalist and writer Joaquim Letria dies",
       "title_fa": "Portuguese journalist and writer Joaquim Letria dies",
@@ -621536,6 +623153,69 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1723811fafa58c7051abb517bd723fba",
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "title_fa": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "title_en": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "summary_fa": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "summary_en": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 14:03:25 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "06bfcfca2319aa04a831c540b9c81545",
+      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "title_fa": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "title_en": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "summary": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
+      "summary_fa": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
+      "summary_en": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 14:01:08 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "52b5c024c93776e207d258be7dc901bc",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "title_fa": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "title_en": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "summary_fa": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "summary_en": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "source": "Ars Technica",
+      "published_at": "Fri, 16 Oct 2026 14:00:59 +0000",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -621561,6 +623241,90 @@
         "lat": 50.8503,
         "lng": 4.3517,
         "name": "اروپا"
+      }
+    },
+    {
+      "id": "b0b473d5c0ad934f58e82d2e3f3fd265",
+      "title": "How to value anything with one simple question",
+      "title_fa": "How to value anything with one simple question",
+      "title_en": "How to value anything with one simple question",
+      "summary": "Find two numbers and ask yourself: ‘Which is probably right and which is probably wrong?’",
+      "summary_fa": "Find two numbers and ask yourself: ‘Which is probably right and which is probably wrong?’",
+      "summary_en": "Find two numbers and ask yourself: ‘Which is probably right and which is probably wrong?’",
+      "link": "https://www.ft.com/content/0c7188db-2ab2-4b41-a7ea-a4e8b795e173?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 13:57:01 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F861d6c43-48a5-45e5-9e2e-67586886e721.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e35ceb2081daa0a6eb3a533a924964cf",
+      "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+      "title_fa": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+      "title_en": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+      "summary": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
+      "summary_fa": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
+      "summary_en": "Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 13:56:43 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "c507ed20661a583bc1440f3f7d32a25c",
+      "title": "Ethiopia announces instalment of interim government in Tigray",
+      "title_fa": "Ethiopia announces instalment of interim government in Tigray",
+      "title_en": "Ethiopia announces instalment of interim government in Tigray",
+      "summary": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.",
+      "summary_fa": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.",
+      "summary_en": "After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 13:54:06 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fb2785e8f168dd41272a0fdd53a329b2",
+      "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "title_fa": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "title_en": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "summary": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
+      "summary_fa": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
+      "summary_en": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 16 Oct 2026 13:52:48 +0000",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -621708,6 +623472,27 @@
         "lat": 35.6762,
         "lng": 139.6503,
         "name": "ژاپن"
+      }
+    },
+    {
+      "id": "674a21836ea7724708b4b91767c9ec15",
+      "title": "Carmakers face smaller cut in UK EV sales targets",
+      "title_fa": "Carmakers face smaller cut in UK EV sales targets",
+      "title_en": "Carmakers face smaller cut in UK EV sales targets",
+      "summary": "Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut",
+      "summary_fa": "Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut",
+      "summary_en": "Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut",
+      "link": "https://www.ft.com/content/6fc92bd5-e79f-42a9-833c-74b8fffcf1a7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 16 Oct 2026 13:27:34 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff82d442e-cc04-44a3-ab27-6472d098e9af.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -621981,6 +623766,27 @@
         "lat": 50.4501,
         "lng": 30.5234,
         "name": "اوکراین"
+      }
+    },
+    {
+      "id": "e56d2778bad41862f1e05770315501c5",
+      "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it'",
+      "title_fa": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it'",
+      "title_en": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it'",
+      "summary": "Michelle Singletary rejects 'good debt,' supports living with parents to save and says folks knowing your numbers is key to beating the affordability crunch.",
+      "summary_fa": "Michelle Singletary rejects 'good debt,' supports living with parents to save and says folks knowing your numbers is key to beating the affordability crunch.",
+      "summary_en": "Michelle Singletary rejects 'good debt,' supports living with parents to save and says folks knowing your numbers is key to beating the affordability crunch.",
+      "link": "https://www.cnbc.com/make-it/2026/10/16/michelle-singletary-debt-money-advice.html",
+      "source": "CNBC",
+      "published_at": "Fri, 16 Oct 2026 13:00:02 GMT",
+      "date_iso": "2026-10-16",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -622523,6 +624329,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7180238a-b65a-425f-9a5e-cf35bf47475e.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3268c20dc091a19109d217078a597e45",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "title_fa": "India's 'cockroach' party founder detained ahead of protest",
+      "title_en": "India's 'cockroach' party founder detained ahead of protest",
+      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "summary_fa": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "summary_en": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 16 Oct 2026 11:44:31 GMT",
+      "date_iso": "2026-10-16",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -675828,6 +677655,90 @@
       }
     },
     {
+      "id": "c292c5d7cdc9629cb10c6f23b8decd9c",
+      "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+      "title_fa": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+      "title_en": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+      "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+      "summary_fa": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+      "summary_en": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+      "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+      "source": "ZDNet",
+      "published_at": "2026-10-16T17:11:35Z",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Laura-Dornheim.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc1c96f7fec38fe63d3c986ed763d14c",
+      "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "title_fa": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "title_en": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "summary_fa": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "summary_en": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "source": "ZDNet",
+      "published_at": "2026-10-16T17:10:27Z",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "64d16c7b8aecc3a91730b48839ce4e03",
+      "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+      "title_fa": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+      "title_en": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "summary_fa": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "summary_en": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+      "source": "ZDNet",
+      "published_at": "2026-10-16T16:44:50Z",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00521.jpeg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0e21f21b54c88ba58e66378063cf114b",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "title_fa": "The new Apple TV 4K just got its first (very small) discount",
+      "title_en": "The new Apple TV 4K just got its first (very small) discount",
+      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you […]",
+      "summary_fa": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you […]",
+      "summary_en": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you […]",
+      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-16T12:02:22-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "390ab45a151bdd845d251d75118195ec",
       "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
       "title_fa": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
@@ -675842,6 +677753,132 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "73e56e6dc18d7d69ac0e330ef3939fa2",
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "title_fa": "Apple&#8217;s HomeView has an app problem",
+      "title_en": "Apple&#8217;s HomeView has an app problem",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]",
+      "summary_fa": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]",
+      "summary_en": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]",
+      "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-10-16T11:38:17-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c3bbbe3a341a3d6278a157fe6d887d74",
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "title_fa": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "title_en": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly […]",
+      "summary_fa": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly […]",
+      "summary_en": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly […]",
+      "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "source": "The Verge",
+      "published_at": "2026-10-16T11:08:38-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "700efee53abad4e93989ac175fd7f726",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "title_fa": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "title_en": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]",
+      "summary_fa": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]",
+      "summary_en": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]",
+      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "source": "The Verge",
+      "published_at": "2026-10-16T11:02:23-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "692d62f515877b2e788a676e63a5d72f",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "title_fa": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "title_en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+      "summary_fa": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+      "summary_en": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "published_at": "2026-10-16T11:00:00-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3495bae1189ec8b3644bfc3e9b68f9cb",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "title_fa": "The incredible flying Tesla Roadster is just for show",
+      "title_en": "The incredible flying Tesla Roadster is just for show",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]",
+      "summary_fa": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]",
+      "summary_en": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]",
+      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "source": "The Verge",
+      "published_at": "2026-10-16T10:15:29-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6935960169e2b0c811f8d4c6eff6e6a6",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "title_fa": "Meta’s new terms may allow it to train AI on news sites for free",
+      "title_en": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+      "summary_fa": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+      "summary_en": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge",
+      "published_at": "2026-10-16T10:02:40-04:00",
+      "date_iso": "2026-10-16",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -675987,6 +678024,90 @@
       "published_at": "2026-10-16T06:00:25-04:00",
       "date_iso": "2026-10-16",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3b1934485635d588b4037e34c31b770f",
+      "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+      "title_fa": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+      "title_en": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+      "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
+      "summary_fa": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
+      "summary_en": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
+      "link": "https://www.nature.com/articles/d41586-026-03341-3",
+      "source": "Nature",
+      "published_at": "2026-10-16 17:51",
+      "date_iso": "2026-10-16",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f9959eeaf652e01ab55e82750fb2aa79",
+      "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "title_fa": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "title_en": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+      "summary_fa": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+      "summary_en": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+      "link": "https://www.nature.com/articles/d41586-026-03308-4",
+      "source": "Nature",
+      "published_at": "2026-10-16 17:51",
+      "date_iso": "2026-10-16",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9dc1d692b94b2f393b96cb0003cbceb3",
+      "title": "Memory stays strong in old age when this brain enzyme is active",
+      "title_fa": "Memory stays strong in old age when this brain enzyme is active",
+      "title_en": "Memory stays strong in old age when this brain enzyme is active",
+      "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.",
+      "summary_fa": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.",
+      "summary_en": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.",
+      "link": "https://www.nature.com/articles/d41586-026-03303-9",
+      "source": "Nature",
+      "published_at": "2026-10-16 17:51",
+      "date_iso": "2026-10-16",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2fdb2d9f7d3e63578f5c6ffd6cbee638",
+      "title": "History’s long-secret codes are being cracked by amateurs using AI",
+      "title_fa": "History’s long-secret codes are being cracked by amateurs using AI",
+      "title_en": "History’s long-secret codes are being cracked by amateurs using AI",
+      "summary": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-yCryptographers’ inboxes are being flooded with requests to validate cipher solutions.",
+      "summary_fa": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-yCryptographers’ inboxes are being flooded with requests to validate cipher solutions.",
+      "summary_en": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-yCryptographers’ inboxes are being flooded with requests to validate cipher solutions.",
+      "link": "https://www.nature.com/articles/d41586-026-03338-y",
+      "source": "Nature",
+      "published_at": "2026-10-16 17:51",
+      "date_iso": "2026-10-16",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
