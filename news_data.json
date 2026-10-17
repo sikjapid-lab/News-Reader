@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-17 21:04:04",
-  "total_count": 35152,
+  "last_update": "2026-10-17 23:05:22",
+  "total_count": 35163,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -441701,6 +441701,48 @@
       }
     },
     {
+      "id": "f8cd1733c0fe665c4379344111bd6618",
+      "title": "Protests across France spiral into riots and looting",
+      "title_fa": "Protests across France spiral into riots and looting",
+      "title_en": "Protests across France spiral into riots and looting",
+      "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+      "summary_fa": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+      "summary_en": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 17 Oct 2026 22:49:57 GMT",
+      "date_iso": "2026-10-17",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5dd2d60-a895-4e0e-9adb-44a4bbe101cf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "ba7b54679e13edced0c457d935e47662",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "title_fa": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "title_en": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "summary_fa": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "summary_en": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 22:09:50 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "4b61fc0f087d085341512ece944e7775",
       "title": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
       "title_fa": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
@@ -441715,6 +441757,132 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "7643de0b4e8a86a5d8056c31e38ecb67",
+      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "title_fa": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "title_en": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
+      "summary_fa": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
+      "summary_en": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+      "source": "NY Times",
+      "published_at": "Sat, 17 Oct 2026 21:39:47 +0000",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "477d3194328cbfa2aed6bf091b4d7609",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "title_fa": "How day of protests unfolded as disorder breaks out across France",
+      "title_en": "How day of protests unfolded as disorder breaks out across France",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "summary_fa": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "summary_en": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 21:33:17 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "9bce95019d1d0575e9f29bbecce165b3",
+      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+      "title_fa": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+      "title_en": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+      "summary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+      "summary_fa": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+      "summary_en": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+      "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 17 Oct 2026 21:08:10 +0000",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "aefe28ebf9396268516a24dee3d8ac0e",
+      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "title_fa": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "title_en": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+      "summary_fa": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+      "summary_en": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 17 Oct 2026 21:02:26 +0000",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "11da21601a593ad955a5441813bd5d49",
+      "title": "Anti-government protesters battle with police in Albania",
+      "title_fa": "Anti-government protesters battle with police in Albania",
+      "title_en": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "summary_fa": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "summary_en": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 20:53:00 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "7816e59a770d2659793aabdb6b615e22",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "title_fa": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "title_en": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "summary_fa": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "summary_en": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 20:52:17 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8264/live/a6715ba0-ca74-11f1-9ef8-9dedd6ab697d.jpg",
       "geo": {
         "lat": 48.8566,
         "lng": 2.3522,
@@ -442037,6 +442205,27 @@
       }
     },
     {
+      "id": "fcc814373bbf67dce4afe40f6b720720",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "title_fa": "At least 17 dead in crush at Hindu festival event in India",
+      "title_en": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "summary_fa": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "summary_en": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 19:19:16 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "dd2bf6c9b0ac6970f097e368cb5c01ce",
       "title": "More than 400 arrested as police clash with protesters across France",
       "title_fa": "More than 400 arrested as police clash with protesters across France",
@@ -442142,6 +442331,27 @@
       }
     },
     {
+      "id": "a21e69128c922e5620441e5dddf05269",
+      "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
+      "title_fa": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
+      "title_en": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
+      "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good inningsAt Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it.Warming a nest of eggs, the bird has been affectionately dubbed “Faf Swoop Plessis” by locals – a play on former South African cricket captain Faf du Plessis. Continue reading...",
+      "summary_fa": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good inningsAt Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it.Warming a nest of eggs, the bird has been affectionately dubbed “Faf Swoop Plessis” by locals – a play on former South African cricket captain Faf du Plessis. Continue reading...",
+      "summary_en": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good inningsAt Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it.Warming a nest of eggs, the bird has been affectionately dubbed “Faf Swoop Plessis” by locals – a play on former South African cricket captain Faf du Plessis. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
+      "source": "The Guardian",
+      "published_at": "Sat, 17 Oct 2026 19:00:40 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b8a8dcdafe9f90bfe19a2550a0320b7daf4f29c0/130_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=15fcdac68cb5f150670b1c3a8c07f652",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d6a0610a6557698d474191f5ca175981",
       "title": "Euronews' crew assaulted by masked individuals while covering protests in Paris",
       "title_fa": "Euronews' crew assaulted by masked individuals while covering protests in Paris",
@@ -442177,6 +442387,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "9fee67cf64525d26f3037b3ccf49e8d9",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "title_fa": "European diplomats attacked by Israeli settlers in West Bank",
+      "title_en": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "summary_fa": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "summary_en": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 17 Oct 2026 18:38:57 GMT",
+      "date_iso": "2026-10-17",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
       "geo": {
         "lat": 31.0461,
         "lng": 34.8516,
