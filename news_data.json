@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-18 23:43:16",
-  "total_count": 35412,
+  "last_update": "2026-10-19 01:48:59",
+  "total_count": 35422,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -384581,6 +384581,48 @@
       }
     },
     {
+      "id": "3ec55e0c91ffa9d35751ebf8a58f2ff2",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "title_fa": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "title_en": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "summary_fa": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "summary_en": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 23:59:34 +0000",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b645d26a220282e167e09c10c6b09da3",
+      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+      "title_fa": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+      "title_en": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+      "summary": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+      "summary_fa": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+      "summary_en": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 18 Oct 2026 23:58:05 +0000",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "c87291de86f0be585fcda3d0d4439372",
       "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
       "title_fa": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
@@ -384599,6 +384641,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "176d6bedeb6f3959631c3cf0d68b81b7",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "title_fa": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "title_en": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "summary_fa": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "summary_en": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 18 Oct 2026 23:28:45 GMT",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
@@ -385145,6 +385208,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "619f4b8703c514297a010230782f848b",
+      "title": "France reels after ‘unprecedented’ violence from protesters",
+      "title_fa": "France reels after ‘unprecedented’ violence from protesters",
+      "title_en": "France reels after ‘unprecedented’ violence from protesters",
+      "summary": "Government under pressure after struggle to contain attacks on stores and official buildings",
+      "summary_fa": "Government under pressure after struggle to contain attacks on stores and official buildings",
+      "summary_en": "Government under pressure after struggle to contain attacks on stores and official buildings",
+      "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 18 Oct 2026 19:52:26 GMT",
+      "date_iso": "2026-10-19",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5adfef1-136e-4060-931f-4e245b44ee64.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
       }
     },
     {
@@ -526536,6 +526620,132 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7a1eb28bb85930e368b0ac87c169f199",
+      "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+      "title_fa": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+      "title_en": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+      "summary": "Amid police brutality allegations, Law Enforcement Conduct Commission inquiry hears protesters ‘largely peaceful’Get our new political email, free app or daily news podcastAn inquiry into a Sydney rally against the Israeli president has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”.The Law Enforcement Conduct Commission (Lecc) kicked off its probe into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “police boasting about gratuitous force”. Continue reading...",
+      "summary_fa": "Amid police brutality allegations, Law Enforcement Conduct Commission inquiry hears protesters ‘largely peaceful’Get our new political email, free app or daily news podcastAn inquiry into a Sydney rally against the Israeli president has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”.The Law Enforcement Conduct Commission (Lecc) kicked off its probe into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “police boasting about gratuitous force”. Continue reading...",
+      "summary_en": "Amid police brutality allegations, Law Enforcement Conduct Commission inquiry hears protesters ‘largely peaceful’Get our new political email, free app or daily news podcastAn inquiry into a Sydney rally against the Israeli president has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”.The Law Enforcement Conduct Commission (Lecc) kicked off its probe into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “police boasting about gratuitous force”. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 19 Oct 2026 01:39:12 GMT",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/2baf9e7ba91340e25cd2b4cd4e507ba3594138ca/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9078eb7b11728211c9cc522d521eb753",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "ba791ebf2a33da906dbf8e169fb7586e",
+      "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "title_fa": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "title_en": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
+      "summary_fa": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
+      "summary_en": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 19 Oct 2026 01:07:52 +0000",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f18e5bd2d17851fdeb26be075e0b56aa",
+      "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+      "title_fa": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+      "title_en": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+      "summary": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyright law.The International Confederation of Music Publishers (ICMP) – which represents Sony, Warner and Universal as well as thousands of independent publishers on six continents – has warned that of the dozens of countries approached to water down copyright laws, Australia appears to be the only to consider doing so. Continue reading...",
+      "summary_fa": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyright law.The International Confederation of Music Publishers (ICMP) – which represents Sony, Warner and Universal as well as thousands of independent publishers on six continents – has warned that of the dozens of countries approached to water down copyright laws, Australia appears to be the only to consider doing so. Continue reading...",
+      "summary_en": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyright law.The International Confederation of Music Publishers (ICMP) – which represents Sony, Warner and Universal as well as thousands of independent publishers on six continents – has warned that of the dozens of countries approached to water down copyright laws, Australia appears to be the only to consider doing so. Continue reading...",
+      "link": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+      "source": "The Guardian",
+      "published_at": "Mon, 19 Oct 2026 00:57:46 GMT",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/240b7746d1549bd30b616b6fd2e698b1838fb964/0_44_6452_5158/master/6452.jpg?width=140&quality=85&auto=format&fit=max&s=594744b407942f98c05df8d2b4600af7",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "a2eaeaf23a37a43d0377e1c7abb6c3d2",
+      "title": "Kinship and surveillance: The return of Somali piracy",
+      "title_fa": "Kinship and surveillance: The return of Somali piracy",
+      "title_en": "Kinship and surveillance: The return of Somali piracy",
+      "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
+      "summary_fa": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
+      "summary_en": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 19 Oct 2026 00:56:17 +0000",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "872ce8ffb0c84f6ebbb49e57ce4ef5da",
+      "title": "Flight from Israel diverted after ‘threat’",
+      "title_fa": "Flight from Israel diverted after ‘threat’",
+      "title_en": "Flight from Israel diverted after ‘threat’",
+      "summary": "Austrian Airlines says Vienna-bound flight from Tel Aviv made an emergency stop in Sofia",
+      "summary_fa": "Austrian Airlines says Vienna-bound flight from Tel Aviv made an emergency stop in Sofia",
+      "summary_en": "Austrian Airlines says Vienna-bound flight from Tel Aviv made an emergency stop in Sofia",
+      "link": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+      "source": "Financial Times",
+      "published_at": "Mon, 19 Oct 2026 00:55:37 GMT",
+      "date_iso": "2026-10-19",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e60f6a8-5e1a-4dd9-bac5-9904c7a0ea52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "41bd290da78a9ce6efd31db39c3721dd",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "title_fa": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "title_en": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "summary_fa": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "summary_en": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 19 Oct 2026 00:06:25 GMT",
+      "date_iso": "2026-10-19",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
