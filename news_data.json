@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-21 22:15:30",
-  "total_count": 36738,
+  "last_update": "2026-10-22 00:44:44",
+  "total_count": 36761,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -48664,6 +48664,48 @@
       }
     },
     {
+      "id": "77e052bd3a0cb801053382be0d550e51",
+      "title": "US accuses Canada of election interference ahead of midterms",
+      "title_fa": "US accuses Canada of election interference ahead of midterms",
+      "title_en": "US accuses Canada of election interference ahead of midterms",
+      "summary": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+      "summary_fa": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+      "summary_en": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 23:52:21 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "87c0a8d0a7c668168c0c2c1911da0c59",
+      "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "title_fa": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "title_en": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+      "summary": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
+      "summary_fa": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
+      "summary_en": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 23:52:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
       "id": "8fdbaf79cbd39cdbc463931ad3dcb71d",
       "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
       "title_fa": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
@@ -48678,6 +48720,48 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ee5d246a73973f5bf8f9d60f16d51837",
+      "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+      "title_fa": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+      "title_en": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+      "summary": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
+      "summary_fa": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
+      "summary_en": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
+      "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 21 Oct 2026 23:30:29 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F66d99a4b-b6d7-4ceb-a499-7830ac51f21d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26dc1a6bf7b768a941d7beea669a9ce2",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "title_fa": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "title_en": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "summary_fa": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "summary_en": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 21 Oct 2026 23:29:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-21342281",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -48706,6 +48790,153 @@
       }
     },
     {
+      "id": "20aaa77513cfc8a2058983b6d23b75b2",
+      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "title_fa": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "title_en": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+      "summary_fa": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+      "summary_en": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 23:20:58 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e49fbc672dcf145de7a55268ffad9de7",
+      "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+      "title_fa": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+      "title_en": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+      "summary": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+      "summary_fa": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+      "summary_en": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 21 Oct 2026 23:20:30 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F15980ef2-aa9f-46a4-81ed-8c6b37fbe0e4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c37dc621287af557efe2bdfcc740d68",
+      "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "title_fa": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "title_en": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+      "summary": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.",
+      "summary_fa": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.",
+      "summary_en": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 23:20:12 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0b5e178ce3c16506ff0ef171a62ac6ca",
+      "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "title_fa": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "title_en": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+      "summary": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+      "summary_fa": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+      "summary_en": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+      "link": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
+      "source": "NY Times",
+      "published_at": "Wed, 21 Oct 2026 23:13:39 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eadf357dac5d04773cba342c7434a8a5",
+      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "title_fa": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "title_en": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+      "summary_fa": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+      "summary_en": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 23:13:35 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "9d1b25ec50950842754a9b19c74f1136",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "title_fa": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "title_en": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "summary_fa": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "summary_en": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 21 Oct 2026 23:07:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-14136247",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "278a3009b0b7fcd955a7af68ed452d45",
+      "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+      "title_fa": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+      "title_en": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen HainesGet our new political email, free app or daily news podcastSecurity agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines.The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident. Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_fa": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen HainesGet our new political email, free app or daily news podcastSecurity agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines.The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident. Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_en": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen HainesGet our new political email, free app or daily news podcastSecurity agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines.The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident. Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Wed, 21 Oct 2026 23:04:49 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/38a1cb8826750230c1b0427be62a4322ad2af700/672_0_6718_5375/master/6718.jpg?width=140&quality=85&auto=format&fit=max&s=5880e8b2a9319799383d98421cc1babd",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "fb07b0b06323d1b01e36e08827f69575",
       "title": "Greece: Thousands flood Athens streets in education protest",
       "title_fa": "Greece: Thousands flood Athens streets in education protest",
@@ -48724,6 +48955,27 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "02d7980ab046268a9f4353dd52ff5c76",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "title_fa": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "title_en": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "summary_fa": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "summary_en": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 21 Oct 2026 22:59:18 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc8/live/64f8e290-cda0-11f1-96a8-11b361e3c25f.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -48748,6 +49000,27 @@
       }
     },
     {
+      "id": "afe89b35580e1ac9007a3398610c2613",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "title_fa": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "title_en": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "summary_fa": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "summary_en": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired",
+      "published_at": "Wed, 21 Oct 2026 22:39:50 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "15b5a356fcb2863532ccc95deb7f1c8f",
       "title": "Aberfan: King Charles marks Welsh mining disaster that killed a generation of children",
       "title_fa": "Aberfan: King Charles marks Welsh mining disaster that killed a generation of children",
@@ -48761,6 +49034,48 @@
       "date_iso": "2026-10-21",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "997085b78231df7fe634f775a41c26df",
+      "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "title_fa": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "title_en": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "summary_fa": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "summary_en": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+      "source": "Ars Technica",
+      "published_at": "Wed, 21 Oct 2026 22:17:50 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a5a1e712df84f33ce5aa2be17899f037",
+      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "title_fa": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "title_en": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "summary_fa": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "summary_en": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 22:16:50 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -48829,6 +49144,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "661a193af9fabb20116a392eda3d5d47",
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "title_fa": "Video shows Israeli settler assaulting Palestinian child",
+      "title_en": "Video shows Israeli settler assaulting Palestinian child",
+      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "summary_fa": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "summary_en": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 21 Oct 2026 22:03:54 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -296140,6 +296476,90 @@
       "source": "Al Jazeera",
       "published_at": "Thu, 23 Jul 2026 00:00:00 +0000",
       "date_iso": "2026-07-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "bafb2a5f4636c13dddb89ce2088791ac",
+      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "title_fa": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "title_en": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "summary_fa": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "summary_en": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 00:25:41 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b56c6b99481b908299196df38f9aaa9f",
+      "title": "World leaders warn of security flaws found in PHP programming language",
+      "title_fa": "World leaders warn of security flaws found in PHP programming language",
+      "title_en": "World leaders warn of security flaws found in PHP programming language",
+      "summary": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+      "summary_fa": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+      "summary_en": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 00:10:27 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "83ba5d1540835f986217ba3f07a279f4",
+      "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "title_fa": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "title_en": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+      "summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+      "summary_fa": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+      "summary_en": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+      "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+      "source": "CNBC",
+      "published_at": "Thu, 22 Oct 2026 00:07:48 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bfe0b6a5e4bf1400cf677f0f0156e906",
+      "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "title_fa": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "title_en": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+      "summary": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine.",
+      "summary_fa": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine.",
+      "summary_en": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "date_iso": "2026-10-22",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -713985,6 +714405,48 @@
       }
     },
     {
+      "id": "b2708c93fd32b0e0cf6bfc6938c57593",
+      "title": "YouTube says it isn’t testing hiding the dislike button",
+      "title_fa": "YouTube says it isn’t testing hiding the dislike button",
+      "title_en": "YouTube says it isn’t testing hiding the dislike button",
+      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+      "summary_fa": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+      "summary_en": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "source": "The Verge",
+      "published_at": "2026-10-21T19:46:45-04:00",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "555d3f725b6ba6e5c0d82d65e3619427",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "title_fa": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "title_en": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+      "summary_fa": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+      "summary_en": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "source": "The Verge",
+      "published_at": "2026-10-21T19:36:31-04:00",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b9223a59ab25604c80b7d1f24e1dc556",
       "title": "Hold onto your old HomePod – an upgrade is on the way",
       "title_fa": "Hold onto your old HomePod – an upgrade is on the way",
@@ -713999,6 +714461,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/F269D9F0-A35B-45D4-A3A1-082DA9E58CF0_1_105_c.jpeg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "744c89ad4d90c6642e07c4abc8b2bc77",
+      "title": "Data centers could erase decades of air quality gains",
+      "title_fa": "Data centers could erase decades of air quality gains",
+      "title_en": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+      "summary_fa": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+      "summary_en": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge",
+      "published_at": "2026-10-21T18:33:44-04:00",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
