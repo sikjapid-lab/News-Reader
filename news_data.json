@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-22 05:28:16",
-  "total_count": 36816,
+  "last_update": "2026-10-22 10:32:51",
+  "total_count": 36899,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -49417,6 +49417,48 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "b6be176827110f7843d5cb901843c2cc",
+      "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+      "title_fa": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+      "title_en": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+      "summary": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
+      "summary_fa": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
+      "summary_en": "Claude Duet follows the launch of competing products from Meta and OpenAI, which have shown traction with users.",
+      "link": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "source": "CNBC",
+      "published_at": "Wed, 21 Oct 2026 21:42:54 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6d96d88fc0a5d8acba4b11d1fda33a66",
+      "title": "AIPAC retreats from candidate endorsements and direct giving as political backlash grows",
+      "title_fa": "AIPAC retreats from candidate endorsements and direct giving as political backlash grows",
+      "title_en": "AIPAC retreats from candidate endorsements and direct giving as political backlash grows",
+      "summary": "Pro-Israel group AIPAC will keep operating its United Democracy Project super PAC while mobilizing individual donors to give directly.",
+      "summary_fa": "Pro-Israel group AIPAC will keep operating its United Democracy Project super PAC while mobilizing individual donors to give directly.",
+      "summary_en": "Pro-Israel group AIPAC will keep operating its United Democracy Project super PAC while mobilizing individual donors to give directly.",
+      "link": "https://www.cnbc.com/2026/10/21/aipac-candidate-endorsements-pac-contributions-israel-election.html",
+      "source": "CNBC",
+      "published_at": "Wed, 21 Oct 2026 21:42:04 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -296549,6 +296591,1350 @@
       }
     },
     {
+      "id": "46aeb21c9331efaf44d061f78fa0a815",
+      "title": "Palantir says NATO AI system has no ‘kill switch’ after Starlink disruptions in Ukraine",
+      "title_fa": "Palantir says NATO AI system has no ‘kill switch’ after Starlink disruptions in Ukraine",
+      "title_en": "Palantir says NATO AI system has no ‘kill switch’ after Starlink disruptions in Ukraine",
+      "summary": "The American software firm says it cannot shut off NATO AI systems amid European fears of dependence on US tech following disruptions to Ukraine’s Starshield access.",
+      "summary_fa": "The American software firm says it cannot shut off NATO AI systems amid European fears of dependence on US tech following disruptions to Ukraine’s Starshield access.",
+      "summary_en": "The American software firm says it cannot shut off NATO AI systems amid European fears of dependence on US tech following disruptions to Ukraine’s Starshield access.",
+      "link": "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:28:31 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "19930087d14bc6079f832fd227a3ef56",
+      "title": "Barclays to cut 5,000 jobs as it turns to AI to improve efficiency",
+      "title_fa": "Barclays to cut 5,000 jobs as it turns to AI to improve efficiency",
+      "title_en": "Barclays to cut 5,000 jobs as it turns to AI to improve efficiency",
+      "summary": "British bank Barclays said on Thursday it would cut around 5,000 jobs, or roughly 5% of its global workforce, by the end of 2026 as it turns to AI and other technology to streamline operations and improve efficiency.",
+      "summary_fa": "British bank Barclays said on Thursday it would cut around 5,000 jobs, or roughly 5% of its global workforce, by the end of 2026 as it turns to AI and other technology to streamline operations and improve efficiency.",
+      "summary_en": "British bank Barclays said on Thursday it would cut around 5,000 jobs, or roughly 5% of its global workforce, by the end of 2026 as it turns to AI and other technology to streamline operations and improve efficiency.",
+      "link": "https://www.euronews.com/2026/10/22/barclays-to-cut-5000-jobs-as-it-turns-to-ai-to-improve-efficiency",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:14:25 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a427b66b5663f47d63102c2557aa122e",
+      "title": "Australia: Bystanders dive into floodwaters to save trapped driver",
+      "title_fa": "Australia: Bystanders dive into floodwaters to save trapped driver",
+      "title_en": "Australia: Bystanders dive into floodwaters to save trapped driver",
+      "summary": "Two men plunged into raging floodwaters in Queensland, Australia, to save a driver from a sinking four-wheel-drive on Thursday. The dramatic rescue ended in an emotional embrace.",
+      "summary_fa": "Two men plunged into raging floodwaters in Queensland, Australia, to save a driver from a sinking four-wheel-drive on Thursday. The dramatic rescue ended in an emotional embrace.",
+      "summary_en": "Two men plunged into raging floodwaters in Queensland, Australia, to save a driver from a sinking four-wheel-drive on Thursday. The dramatic rescue ended in an emotional embrace.",
+      "link": "https://www.euronews.com/video/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:12:32 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2b4e9f5732e3adaf19fc20a3f1fdacc4",
+      "title": "EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions",
+      "title_fa": "EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions",
+      "title_en": "EU Parliament awards Sakharov Prize to ICC in rebuke of US sanctions",
+      "summary": "The European Parliament awards the Sakharov Prize to the International Criminal Court in a show of support after the US imposed sanctions on the institution.",
+      "summary_fa": "The European Parliament awards the Sakharov Prize to the International Criminal Court in a show of support after the US imposed sanctions on the institution.",
+      "summary_en": "The European Parliament awards the Sakharov Prize to the International Criminal Court in a show of support after the US imposed sanctions on the institution.",
+      "link": "https://www.euronews.com/2026/10/22/eu-parliament-awards-sakharov-prize-to-icc-in-rebuke-of-us-sanctions",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:11:07 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "f3f60a3bac2374cd3b0faa3e263b8170",
+      "title": "Six European destinations included in ‘Best of the World’ selection for 2027",
+      "title_fa": "Six European destinations included in ‘Best of the World’ selection for 2027",
+      "title_en": "Six European destinations included in ‘Best of the World’ selection for 2027",
+      "summary": "National Geographic has curated its list of 25 must-visit places for 2027, with six destinations in Europe making the cut, including the Tricity area in Poland and Vestland in Norway.",
+      "summary_fa": "National Geographic has curated its list of 25 must-visit places for 2027, with six destinations in Europe making the cut, including the Tricity area in Poland and Vestland in Norway.",
+      "summary_en": "National Geographic has curated its list of 25 must-visit places for 2027, with six destinations in Europe making the cut, including the Tricity area in Poland and Vestland in Norway.",
+      "link": "https://www.euronews.com/2026/10/22/six-european-destinations-included-in-best-of-the-world-selection-for-2027",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:10:38 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "5ff37f2ab3bb149f05f2892df40dd63b",
+      "title": "Latest news bulletin | October 22nd, 2026 – Midday",
+      "title_fa": "Latest news bulletin | October 22nd, 2026 – Midday",
+      "title_en": "Latest news bulletin | October 22nd, 2026 – Midday",
+      "summary": "Catch up with the most important stories from around Europe and beyond this October 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_fa": "Catch up with the most important stories from around Europe and beyond this October 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this October 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-midday",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 12:00:15 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "ecce81032f6619d0d736f31afa1340e5",
+      "title": "Prix Pascal: New French literature prize launched for books co-written with AI",
+      "title_fa": "Prix Pascal: New French literature prize launched for books co-written with AI",
+      "title_en": "Prix Pascal: New French literature prize launched for books co-written with AI",
+      "summary": "A new literary award has just been launched and aims to recognise work written in collaboration with AI. Its timing is problematic, to say the least.",
+      "summary_fa": "A new literary award has just been launched and aims to recognise work written in collaboration with AI. Its timing is problematic, to say the least.",
+      "summary_en": "A new literary award has just been launched and aims to recognise work written in collaboration with AI. Its timing is problematic, to say the least.",
+      "link": "https://www.euronews.com/2026/10/22/prix-pascal-new-french-literature-prize-launched-for-books-co-written-with-ai",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:52:55 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "be72015bd288a006c8d79af9935e9215",
+      "title": "Refusing to cross, unable to escape: Seafarers recount Hormuz dangers to Euronews",
+      "title_fa": "Refusing to cross, unable to escape: Seafarers recount Hormuz dangers to Euronews",
+      "title_en": "Refusing to cross, unable to escape: Seafarers recount Hormuz dangers to Euronews",
+      "summary": "Euronews spoke to a crew member of a cargo vessel anchored off Pakistan for weeks and an Iranian maritime manager about dangers in the vital waterway — where traffic has fallen 90% since the war began and at least 95 seafarers in commercial roles have died.",
+      "summary_fa": "Euronews spoke to a crew member of a cargo vessel anchored off Pakistan for weeks and an Iranian maritime manager about dangers in the vital waterway — where traffic has fallen 90% since the war began and at least 95 seafarers in commercial roles have died.",
+      "summary_en": "Euronews spoke to a crew member of a cargo vessel anchored off Pakistan for weeks and an Iranian maritime manager about dangers in the vital waterway — where traffic has fallen 90% since the war began and at least 95 seafarers in commercial roles have died.",
+      "link": "https://www.euronews.com/2026/10/22/refusing-to-cross-unable-to-escape-seafarers-recount-hormuz-dangers-to-euronews",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:44:28 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "310f75e5813f14a820c3c3090f154482",
+      "title": "France confirms first human case of Shamonda virus, previously found only in animals",
+      "title_fa": "France confirms first human case of Shamonda virus, previously found only in animals",
+      "title_en": "France confirms first human case of Shamonda virus, previously found only in animals",
+      "summary": "French authorities have confirmed the first known human case of Shamonda virus, which mainly affects cattle, in a patient in Lyon who died in early October, adding that there is no health risk to the general population.",
+      "summary_fa": "French authorities have confirmed the first known human case of Shamonda virus, which mainly affects cattle, in a patient in Lyon who died in early October, adding that there is no health risk to the general population.",
+      "summary_en": "French authorities have confirmed the first known human case of Shamonda virus, which mainly affects cattle, in a patient in Lyon who died in early October, adding that there is no health risk to the general population.",
+      "link": "https://www.euronews.com/2026/10/22/france-confirms-first-human-case-of-shamonda-virus-previously-found-only-in-animals",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:30:19 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "fcb78a02370f61c2b39832ea106b8f60",
+      "title": "Peru scraps advance reservations for tickets to visit Machu Picchu",
+      "title_fa": "Peru scraps advance reservations for tickets to visit Machu Picchu",
+      "title_en": "Peru scraps advance reservations for tickets to visit Machu Picchu",
+      "summary": "The new system also means that only named tickets are available for purchase, so you’ll need to make sure your ID matches to explore the 15th-century Inca site.",
+      "summary_fa": "The new system also means that only named tickets are available for purchase, so you’ll need to make sure your ID matches to explore the 15th-century Inca site.",
+      "summary_en": "The new system also means that only named tickets are available for purchase, so you’ll need to make sure your ID matches to explore the 15th-century Inca site.",
+      "link": "https://www.euronews.com/2026/10/22/peru-scraps-advance-reservations-for-tickets-to-visit-machu-picchu",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:25:34 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "251c7fa91feb3464fba85f10cdc26fa8",
+      "title": "Italy and Spain to end border checks, easing tensions after Ceuta migrant row",
+      "title_fa": "Italy and Spain to end border checks, easing tensions after Ceuta migrant row",
+      "title_en": "Italy and Spain to end border checks, easing tensions after Ceuta migrant row",
+      "summary": "Italy and Spain agree to end temporary border checks, easing tensions following the Ceuta crisis.",
+      "summary_fa": "Italy and Spain agree to end temporary border checks, easing tensions following the Ceuta crisis.",
+      "summary_en": "Italy and Spain agree to end temporary border checks, easing tensions following the Ceuta crisis.",
+      "link": "https://www.euronews.com/2026/10/22/italy-and-spain-to-end-border-checks-easing-tensions-after-ceuta-migrant-row",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:24:56 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ceb39a2cbbc9e188581131c77958318e",
+      "title": "World’s largest wealth fund posts $30bn loss as rising rates hit bonds",
+      "title_fa": "World’s largest wealth fund posts $30bn loss as rising rates hit bonds",
+      "title_en": "World’s largest wealth fund posts $30bn loss as rising rates hit bonds",
+      "summary": "Norway's sovereign wealth fund ended the third quarter with a $30 billion (€26.4 billion) loss, as falling bond prices weighed on its overall performance.",
+      "summary_fa": "Norway's sovereign wealth fund ended the third quarter with a $30 billion (€26.4 billion) loss, as falling bond prices weighed on its overall performance.",
+      "summary_en": "Norway's sovereign wealth fund ended the third quarter with a $30 billion (€26.4 billion) loss, as falling bond prices weighed on its overall performance.",
+      "link": "https://www.euronews.com/2026/10/22/worlds-largest-wealth-fund-posts-30bn-loss-as-rising-rates-hit-bonds",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:23:33 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a5561f0e64b8c7d34d63e661f2d472a7",
+      "title": "Italy's truckers' protests leave supermarket shelves empty and airports without fuel",
+      "title_fa": "Italy's truckers' protests leave supermarket shelves empty and airports without fuel",
+      "title_en": "Italy's truckers' protests leave supermarket shelves empty and airports without fuel",
+      "summary": "Italy's government has warned of criminal penalties for truck drivers blocking roads in protest over soaring fuel prices, as authorities move to clear demonstrations disrupting transport and deliveries in the country's south.",
+      "summary_fa": "Italy's government has warned of criminal penalties for truck drivers blocking roads in protest over soaring fuel prices, as authorities move to clear demonstrations disrupting transport and deliveries in the country's south.",
+      "summary_en": "Italy's government has warned of criminal penalties for truck drivers blocking roads in protest over soaring fuel prices, as authorities move to clear demonstrations disrupting transport and deliveries in the country's south.",
+      "link": "https://www.euronews.com/2026/10/22/italys-truckers-protests-leave-supermarket-shelves-empty-and-airports-without-fuel",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:19:41 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df6107211f7cd33f815643d17fc9f3a2",
+      "title": "Macron holds emergency security meeting as France braces for fresh wave of protests",
+      "title_fa": "Macron holds emergency security meeting as France braces for fresh wave of protests",
+      "title_en": "Macron holds emergency security meeting as France braces for fresh wave of protests",
+      "summary": "Two days before a new day of protests, Emmanuel Macron is bringing intelligence services together at the Élysée after the 17 October security failure. In the afternoon, political parties and the mayors of major cities will be received at Matignon.",
+      "summary_fa": "Two days before a new day of protests, Emmanuel Macron is bringing intelligence services together at the Élysée after the 17 October security failure. In the afternoon, political parties and the mayors of major cities will be received at Matignon.",
+      "summary_en": "Two days before a new day of protests, Emmanuel Macron is bringing intelligence services together at the Élysée after the 17 October security failure. In the afternoon, political parties and the mayors of major cities will be received at Matignon.",
+      "link": "https://www.euronews.com/2026/10/22/macron-holds-emergency-security-meeting-as-france-braces-for-fresh-wave-of-protests",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:08:12 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "fca62ea975083b7df61ebab8e45155da",
+      "title": "EU planned to scrap clock changes. Why are they still happening?",
+      "title_fa": "EU planned to scrap clock changes. Why are they still happening?",
+      "title_en": "EU planned to scrap clock changes. Why are they still happening?",
+      "summary": "This Sunday the clocks will be turned back again, even though the EU Parliament set abolition in motion at the end of 2019. Why?",
+      "summary_fa": "This Sunday the clocks will be turned back again, even though the EU Parliament set abolition in motion at the end of 2019. Why?",
+      "summary_en": "This Sunday the clocks will be turned back again, even though the EU Parliament set abolition in motion at the end of 2019. Why?",
+      "link": "https://www.euronews.com/2026/10/22/eu-planned-to-scrap-clock-changes-why-are-they-still-happening",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 11:00:37 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa8a5255d150cb6593ad343eec914101",
+      "title": "Websites go dark after AI exposes major programming language security flaw",
+      "title_fa": "Websites go dark after AI exposes major programming language security flaw",
+      "title_en": "Websites go dark after AI exposes major programming language security flaw",
+      "summary": "Government agencies and companies around the world shut down websites Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet.",
+      "summary_fa": "Government agencies and companies around the world shut down websites Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet.",
+      "summary_en": "Government agencies and companies around the world shut down websites Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet.",
+      "link": "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 10:47:45 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "85dc725097365722cb6c0cbb68745269",
+      "title": "Did Slow Horses' season finale cliffhanger give us a major James Bond casting clue?",
+      "title_fa": "Did Slow Horses' season finale cliffhanger give us a major James Bond casting clue?",
+      "title_en": "Did Slow Horses' season finale cliffhanger give us a major James Bond casting clue?",
+      "summary": "The sixth season of the hit TV show Slow Horses has come to an end, and with it a cliffhanger that could have major casting implications when it comes to the identity of the next James Bond...",
+      "summary_fa": "The sixth season of the hit TV show Slow Horses has come to an end, and with it a cliffhanger that could have major casting implications when it comes to the identity of the next James Bond...",
+      "summary_en": "The sixth season of the hit TV show Slow Horses has come to an end, and with it a cliffhanger that could have major casting implications when it comes to the identity of the next James Bond...",
+      "link": "https://www.euronews.com/2026/10/22/did-slow-horses-season-finale-cliffhanger-give-us-a-major-james-bond-casting-clue",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 10:39:54 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3fa38d3fdcc8fe655e13692fcc3a409f",
+      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "title_fa": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "title_en": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+      "summary_fa": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+      "summary_en": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+      "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "source": "CNBC",
+      "published_at": "Thu, 22 Oct 2026 10:31:24 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d611d13dfc22692fd76129c473718b0",
+      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "title_fa": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "title_en": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+      "summary_fa": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+      "summary_en": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+      "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+      "source": "Wired",
+      "published_at": "Thu, 22 Oct 2026 10:30:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b77087d3070edb624f1e9f4964aadf5b",
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "title_fa": "Two European women held captive for more than a year in Niger freed in Libya",
+      "title_en": "Two European women held captive for more than a year in Niger freed in Libya",
+      "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+      "summary_fa": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+      "summary_en": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 10:26:06 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/1aa67a70-1416-11f1-9120-a910fc22c6ac.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "51c9bcbc1ce881c3c1ec16d71101fce1",
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "title_fa": "El Salvador's president threatens Haitian gangs over military hostages",
+      "title_en": "El Salvador's president threatens Haitian gangs over military hostages",
+      "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "summary_fa": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "summary_en": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 10:17:48 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/575f1410-cdf0-11f1-97f7-a7674fb562de.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "644d191f0752180916174d84b07ba779",
+      "title": "Meta shares jump 5% as AI investments fuel revenue growth",
+      "title_fa": "Meta shares jump 5% as AI investments fuel revenue growth",
+      "title_en": "Meta shares jump 5% as AI investments fuel revenue growth",
+      "summary": "Meta Platforms said Wednesday that its third-quarter profit jumped more than threefold, as the social media giant's revenue climbed sharply, adding to confidence that the firm's AI spending is improving the business.",
+      "summary_fa": "Meta Platforms said Wednesday that its third-quarter profit jumped more than threefold, as the social media giant's revenue climbed sharply, adding to confidence that the firm's AI spending is improving the business.",
+      "summary_en": "Meta Platforms said Wednesday that its third-quarter profit jumped more than threefold, as the social media giant's revenue climbed sharply, adding to confidence that the firm's AI spending is improving the business.",
+      "link": "https://www.euronews.com/2026/10/22/meta-shares-jump-5-as-ai-investments-fuel-revenue-growth",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 10:17:35 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fc29a9ef0df9675b08bdf64cdd3fded7",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "title_fa": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "title_en": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "summary_fa": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "summary_en": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 10:16:35 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8eb/live/0ca70d20-cdc2-11f1-ae0b-3f5d64e6a869.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d2276e7a37df75d859c01ead8649f947",
+      "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "title_fa": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "title_en": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
+      "summary_fa": "A host of election-denying candidates are running for attorney general in states across the country.",
+      "summary_en": "A host of election-denying candidates are running for attorney general in states across the country.",
+      "link": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+      "source": "Wired",
+      "published_at": "Thu, 22 Oct 2026 10:15:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3ffebe496b24ca2adfdde995dc0e0382",
+      "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+      "title_fa": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+      "title_en": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+      "summary": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’As we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.Junior interior minister, Jean-Didier Berger, said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite police forces and gendarmerie. Continue reading...",
+      "summary_fa": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’As we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.Junior interior minister, Jean-Didier Berger, said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite police forces and gendarmerie. Continue reading...",
+      "summary_en": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’As we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.Junior interior minister, Jean-Didier Berger, said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite police forces and gendarmerie. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "source": "The Guardian",
+      "published_at": "Thu, 22 Oct 2026 10:11:59 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/91f7d5b3970a761615f38d6e43606882f4d81ea7/309_0_4970_3977/master/4970.jpg?width=140&quality=85&auto=format&fit=max&s=3428a5479c0a54e5df16e0c4e32324f1",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "7b8d039b26ccddd8b80dd17b5aa1f1bd",
+      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "title_fa": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "title_en": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "summary_fa": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "summary_en": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "source": "NY Times",
+      "published_at": "Thu, 22 Oct 2026 10:10:07 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-russia-putin-ftcl/22int-russia-putin-ftcl-mediumSquareAt3X-v3.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "68a25385788c24bffa96cd7c4b4351d9",
+      "title": "Europe’s bracing reality on US bond yields",
+      "title_fa": "Europe’s bracing reality on US bond yields",
+      "title_en": "Europe’s bracing reality on US bond yields",
+      "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "summary_fa": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "summary_en": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 22 Oct 2026 10:07:31 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0831e798-adc3-4cfb-b648-79473f508395.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "e004b8b1c1d5edebadefa6110d92ab1a",
+      "title": "Moment Colombian authorities seize 7.6 tonnes of cocaine bound for Europe",
+      "title_fa": "Moment Colombian authorities seize 7.6 tonnes of cocaine bound for Europe",
+      "title_en": "Moment Colombian authorities seize 7.6 tonnes of cocaine bound for Europe",
+      "summary": "Colombia has seized 7.6 tonnes of cocaine at the port of Cartagena in what President Abelardo de la Espriella described as the country's largest drug seizure in a decade.",
+      "summary_fa": "Colombia has seized 7.6 tonnes of cocaine at the port of Cartagena in what President Abelardo de la Espriella described as the country's largest drug seizure in a decade.",
+      "summary_en": "Colombia has seized 7.6 tonnes of cocaine at the port of Cartagena in what President Abelardo de la Espriella described as the country's largest drug seizure in a decade.",
+      "link": "https://www.euronews.com/video/2026/10/22/moment-colombian-authorities-seize-76-tonnes-of-cocaine-bound-for-europe",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 10:03:17 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "056abc751da459d8b5140a16a0a9d7a6",
+      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "title_fa": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "title_en": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+      "summary_fa": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+      "summary_en": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+      "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+      "source": "Wired",
+      "published_at": "Thu, 22 Oct 2026 10:01:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7143a7c76689239af1667191f189c098",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "title_fa": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "title_en": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "summary_fa": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "summary_en": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "source": "Wired",
+      "published_at": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "53099bbb5a4f6ff3ed935109dc467dc9",
+      "title": "Can European leaders fix the cost-of-living crisis?",
+      "title_fa": "Can European leaders fix the cost-of-living crisis?",
+      "title_en": "Can European leaders fix the cost-of-living crisis?",
+      "summary": "Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.",
+      "summary_fa": "Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.",
+      "summary_en": "Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 09:58:21 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "2029d8ccb249caff8410a1790843949b",
+      "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+      "title_fa": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+      "title_en": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+      "summary": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+      "summary_fa": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+      "summary_en": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 09:57:47 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b3bb2aef6393e1d25fb83a0b412c1e94",
+      "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "title_fa": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "title_en": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "summary_fa": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "summary_en": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 22 Oct 2026 09:55:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-14136247",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e3a341e0d16ded480b13e4a70f75871d",
+      "title": "'Everything' in Ukraine is now a target for Putin, says EPP MEP",
+      "title_fa": "'Everything' in Ukraine is now a target for Putin, says EPP MEP",
+      "title_en": "'Everything' in Ukraine is now a target for Putin, says EPP MEP",
+      "summary": "EPP MEP Pekka Toveri believes Russia has “taken all the rules off\" the table and is increasingly targeting residential areas, as well as cultural and government buildings. He warns that the attacks could leave large parts of Kyiv \"uninhabitable\" during the winter.",
+      "summary_fa": "EPP MEP Pekka Toveri believes Russia has “taken all the rules off\" the table and is increasingly targeting residential areas, as well as cultural and government buildings. He warns that the attacks could leave large parts of Kyiv \"uninhabitable\" during the winter.",
+      "summary_en": "EPP MEP Pekka Toveri believes Russia has “taken all the rules off\" the table and is increasingly targeting residential areas, as well as cultural and government buildings. He warns that the attacks could leave large parts of Kyiv \"uninhabitable\" during the winter.",
+      "link": "https://www.euronews.com/video/2026/10/22/everything-in-ukraine-is-now-a-target-for-putin-says-epp-mep",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 09:50:51 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "3d85c163ce08453bed03b629e55a98d2",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "title_fa": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "title_en": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+      "summary_fa": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+      "summary_en": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 09:47:54 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2961/live/b6042340-68e5-11f1-8e1d-bbbb1017d210.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4643eba051fa5994520892ea8e3de7d9",
+      "title": "Brazil’s president appeals to undecided voters ahead of run-off",
+      "title_fa": "Brazil’s president appeals to undecided voters ahead of run-off",
+      "title_en": "Brazil’s president appeals to undecided voters ahead of run-off",
+      "summary": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
+      "summary_fa": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
+      "summary_en": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 09:42:42 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0143ee93fe7a345b0d0a2940a950e8ec",
+      "title": "This Preamp Costs More Than a Fancy Sports Car",
+      "title_fa": "This Preamp Costs More Than a Fancy Sports Car",
+      "title_en": "This Preamp Costs More Than a Fancy Sports Car",
+      "summary": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
+      "summary_fa": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
+      "summary_en": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
+      "link": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
+      "source": "Wired",
+      "published_at": "Thu, 22 Oct 2026 09:30:00 +0000",
+      "date_iso": "2026-10-22",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "34e710cb6fe4ad62e3e69e8984ce83a1",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "title_fa": "How do Israel's elections work and who are the main contenders?",
+      "title_en": "How do Israel's elections work and who are the main contenders?",
+      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "summary_fa": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "summary_en": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 09:27:10 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d4/live/4dd4b040-ccb4-11f1-9a39-31b474234113.png",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "ca2041db9fba337c561fca06d9d4f24a",
+      "title": "Public order a 'big failure of the government', says French MEP Jean-Marc Germain",
+      "title_fa": "Public order a 'big failure of the government', says French MEP Jean-Marc Germain",
+      "title_en": "Public order a 'big failure of the government', says French MEP Jean-Marc Germain",
+      "summary": "Public order in France \"allows rioters to destroy shops and public buildings,\" says MEP Jean-Marc Germain. He comments on the recent protests and violence beleaguering France last weekend, calling the scenes witnessed a \"big failure of government.\"",
+      "summary_fa": "Public order in France \"allows rioters to destroy shops and public buildings,\" says MEP Jean-Marc Germain. He comments on the recent protests and violence beleaguering France last weekend, calling the scenes witnessed a \"big failure of government.\"",
+      "summary_en": "Public order in France \"allows rioters to destroy shops and public buildings,\" says MEP Jean-Marc Germain. He comments on the recent protests and violence beleaguering France last weekend, calling the scenes witnessed a \"big failure of government.\"",
+      "link": "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 09:26:12 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "c13b398b843bdcb5a7191c6ea1e01bcd",
+      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "title_fa": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "title_en": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "summary": "The fund has a current value of around $2.3 trillion.",
+      "summary_fa": "The fund has a current value of around $2.3 trillion.",
+      "summary_en": "The fund has a current value of around $2.3 trillion.",
+      "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+      "source": "CNBC",
+      "published_at": "Thu, 22 Oct 2026 09:25:09 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b7a4e529924295ec3d5c069edf13901e",
+      "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+      "title_fa": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+      "title_en": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+      "summary": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.",
+      "summary_fa": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.",
+      "summary_en": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 09:23:53 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "077a1e689ec51e0408814421b8775137",
+      "title": "Serbia: Student protesters flood Belgrade ahead of snap elections",
+      "title_fa": "Serbia: Student protesters flood Belgrade ahead of snap elections",
+      "title_en": "Serbia: Student protesters flood Belgrade ahead of snap elections",
+      "summary": "Cheers, music and waving flags greeted students arriving in Belgrade from across Serbia on Wednesday, as thousands gathered ahead of a final rally before this weekend's snap parliamentary elections.",
+      "summary_fa": "Cheers, music and waving flags greeted students arriving in Belgrade from across Serbia on Wednesday, as thousands gathered ahead of a final rally before this weekend's snap parliamentary elections.",
+      "summary_en": "Cheers, music and waving flags greeted students arriving in Belgrade from across Serbia on Wednesday, as thousands gathered ahead of a final rally before this weekend's snap parliamentary elections.",
+      "link": "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 09:19:39 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "905271de3232869a4a08d4b2107a83d6",
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "title_fa": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "title_en": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+      "summary_fa": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+      "summary_en": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 09:14:48 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e3c/live/e7d9d390-cdf5-11f1-a64c-550be9e3c66b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7706e48f7f906f371efc163cc7c1e0b9",
+      "title": "A top strategist has a warning for retail investors chasing the AI rally",
+      "title_fa": "A top strategist has a warning for retail investors chasing the AI rally",
+      "title_en": "A top strategist has a warning for retail investors chasing the AI rally",
+      "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "summary_fa": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "summary_en": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 22 Oct 2026 09:07:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-08914573",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b6cf3fd5671ff328799f9a729de3eba8",
+      "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+      "title_fa": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+      "title_en": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "summary_fa": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "summary_en": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 22 Oct 2026 09:04:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-51837852",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bd8b1e932fc7c35a847dc5659b79731f",
+      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "title_fa": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "title_en": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "summary": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
+      "summary_fa": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
+      "summary_en": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+      "source": "NY Times",
+      "published_at": "Thu, 22 Oct 2026 09:03:31 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-spacejunk-indonesia-fchj/22int-spacejunk-indonesia-fchj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "41fed30869e33901a96986f6057f4eca",
+      "title": "French police union to sue government over mishandling of riots",
+      "title_fa": "French police union to sue government over mishandling of riots",
+      "title_en": "French police union to sue government over mishandling of riots",
+      "summary": "Stanislas Goudon, a representative from the French national police union Alliance, comments on the recent wave of protests and violence in France from a police perspective, criticising significant government ill-preparedness for the demonstrations.",
+      "summary_fa": "Stanislas Goudon, a representative from the French national police union Alliance, comments on the recent wave of protests and violence in France from a police perspective, criticising significant government ill-preparedness for the demonstrations.",
+      "summary_en": "Stanislas Goudon, a representative from the French national police union Alliance, comments on the recent wave of protests and violence in France from a police perspective, criticising significant government ill-preparedness for the demonstrations.",
+      "link": "https://www.euronews.com/video/2026/10/22/french-police-union-to-sue-government-over-mishandling-of-riots",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 09:03:16 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "dbaa94a81ae3afc17098b5ee04d70f64",
+      "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "title_fa": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "title_en": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "summary": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
+      "summary_fa": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
+      "summary_en": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
+      "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 22 Oct 2026 09:03:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-69256223",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ea692c2172247278f0a70952ac21900",
+      "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "title_fa": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "title_en": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "summary_fa": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "summary_en": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "source": "NY Times",
+      "published_at": "Thu, 22 Oct 2026 09:01:53 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/00int-serbia-nationalism-01-cbtq/00int-serbia-nationalism-01-cbtq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aa0c0cda3d81ad7fe9b2bbaea5654bea",
+      "title": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
+      "title_fa": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
+      "title_en": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
+      "summary": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near emptyBig pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profits back into conservation was left virtually empty.The Cali Fund set out to raise $1bn (£750m) annually, by asking companies that profit from nature’s genetics to contribute towards conservation in low-income countries. But more than 18 months after the fund was launched, it remains far below this target. Continue reading...",
+      "summary_fa": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near emptyBig pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profits back into conservation was left virtually empty.The Cali Fund set out to raise $1bn (£750m) annually, by asking companies that profit from nature’s genetics to contribute towards conservation in low-income countries. But more than 18 months after the fund was launched, it remains far below this target. Continue reading...",
+      "summary_en": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near emptyBig pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profits back into conservation was left virtually empty.The Cali Fund set out to raise $1bn (£750m) annually, by asking companies that profit from nature’s genetics to contribute towards conservation in low-income countries. But more than 18 months after the fund was launched, it remains far below this target. Continue reading...",
+      "link": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
+      "source": "The Guardian",
+      "published_at": "Thu, 22 Oct 2026 09:00:59 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/65926a783f6bf4b2a530f2794baa540bafd6aeff/355_0_4096_3277/master/4096.jpg?width=140&quality=85&auto=format&fit=max&s=cb57fd4db764c6e3937e305b8787721a",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7067708e3a05c1affb28c0b07f36c834",
+      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "title_fa": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "title_en": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "summary": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+      "summary_fa": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+      "summary_en": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 09:00:05 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ee620dd93b2b2fd28bdaffd46f4725d9",
+      "title": "Israeli elections: Is it just right wing versus right?",
+      "title_fa": "Israeli elections: Is it just right wing versus right?",
+      "title_en": "Israeli elections: Is it just right wing versus right?",
+      "summary": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
+      "summary_fa": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
+      "summary_en": "Benjamin Netanyahu’s opponents are promising a change to Israeli politics, but are their policies really that different?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 08:55:18 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "15bf61b343cdacd553ec80f83833eba7",
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "title_fa": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "title_en": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "summary_fa": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "summary_en": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 22 Oct 2026 08:47:00 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-15140400",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "1905d60f993a2771c49dd0108fb87970",
+      "title": "Global stocks tumble as oil prices rise",
+      "title_fa": "Global stocks tumble as oil prices rise",
+      "title_en": "Global stocks tumble as oil prices rise",
+      "summary": "China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens",
+      "summary_fa": "China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens",
+      "summary_en": "China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 22 Oct 2026 08:46:32 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F939e9450-d32a-4197-abda-dea11dc99921.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a60bec1cfd511eaf7517f4b5ca57db5d",
+      "title": "French borrowing costs overtake US amid budget turmoil",
+      "title_fa": "French borrowing costs overtake US amid budget turmoil",
+      "title_en": "French borrowing costs overtake US amid budget turmoil",
+      "summary": "France’s bond market hit by another bout of selling as country recovers from weekend protestsBusiness live – latest updatesFrench borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years. Continue reading...",
+      "summary_fa": "France’s bond market hit by another bout of selling as country recovers from weekend protestsBusiness live – latest updatesFrench borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years. Continue reading...",
+      "summary_en": "France’s bond market hit by another bout of selling as country recovers from weekend protestsBusiness live – latest updatesFrench borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "source": "The Guardian",
+      "published_at": "Thu, 22 Oct 2026 08:40:36 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/75bedd6d2c81e2f2be23f61588ee0e589a2a9d70/1090_0_4382_3508/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=6fab366b2a3932a3831176f8c87818a2",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "368355300348b927b2aedbb9bf8290b1",
+      "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+      "title_fa": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+      "title_en": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+      "summary": "Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.",
+      "summary_fa": "Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.",
+      "summary_en": "Former US President Bill Clinton quoted the Quran during a speech in Florida condemning discrimination against Muslims.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 08:33:01 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "747e3bc157bace85c3e49a21e309541f",
+      "title": "Russian strikes kill 7 in Ukraine after US envoy meets Putin",
+      "title_fa": "Russian strikes kill 7 in Ukraine after US envoy meets Putin",
+      "title_en": "Russian strikes kill 7 in Ukraine after US envoy meets Putin",
+      "summary": "Ukraine's air force posted a warning in the early hours of \"more ballistic missiles towards Kyiv\" and instructed residents to stay in shelters.",
+      "summary_fa": "Ukraine's air force posted a warning in the early hours of \"more ballistic missiles towards Kyiv\" and instructed residents to stay in shelters.",
+      "summary_en": "Ukraine's air force posted a warning in the early hours of \"more ballistic missiles towards Kyiv\" and instructed residents to stay in shelters.",
+      "link": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 08:28:31 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b9f9dd22bf48964dc924f5c82ad2e726",
+      "title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "title_fa": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "title_en": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "summary_fa": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "summary_en": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "source": "CNBC",
+      "published_at": "Thu, 22 Oct 2026 08:24:42 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d147201d9d0b25d993915348faf03eab",
+      "title": "One interest rate, three inflation realities. Why Europe’s price shock is so uneven",
+      "title_fa": "One interest rate, three inflation realities. Why Europe’s price shock is so uneven",
+      "title_en": "One interest rate, three inflation realities. Why Europe’s price shock is so uneven",
+      "summary": "Finland, Germany and Lithuania share the euro and the ECB’s 2.50% deposit rate, but with September inflation at 2.7%, 3.3% and 6.1% respectively, they show how one policy meets different price realities.",
+      "summary_fa": "Finland, Germany and Lithuania share the euro and the ECB’s 2.50% deposit rate, but with September inflation at 2.7%, 3.3% and 6.1% respectively, they show how one policy meets different price realities.",
+      "summary_en": "Finland, Germany and Lithuania share the euro and the ECB’s 2.50% deposit rate, but with September inflation at 2.7%, 3.3% and 6.1% respectively, they show how one policy meets different price realities.",
+      "link": "https://www.euronews.com/2026/10/22/one-interest-rate-three-inflation-realities-why-europes-price-shock-is-so-uneven",
+      "source": "EuroNews",
+      "published_at": "Thu, 22 Oct 2026 08:23:55 +0200",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "7cec620ad49990ce3d02a046b9c37df8",
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "title_fa": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "title_en": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "summary": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
+      "summary_fa": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
+      "summary_en": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 08:18:39 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b81cde066b75c23072d2a9bbd848f367",
+      "title": "Can Russia broker a new US-Iran deal?",
+      "title_fa": "Can Russia broker a new US-Iran deal?",
+      "title_en": "Can Russia broker a new US-Iran deal?",
+      "summary": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
+      "summary_fa": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
+      "summary_en": "Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 08:00:48 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "257107f32fae7f20451df1b891259b0c",
+      "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+      "title_fa": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+      "title_en": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+      "summary": "Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.",
+      "summary_fa": "Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.",
+      "summary_en": "Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 07:53:55 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "faddcd5753bb661b42bf6e4869ef41cd",
+      "title": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
+      "title_fa": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
+      "title_en": "Barclays to cut 5,000 jobs as bank steps up AI adoption",
+      "summary": "Reductions announced as third-quarter profits fall short of City expectations",
+      "summary_fa": "Reductions announced as third-quarter profits fall short of City expectations",
+      "summary_en": "Reductions announced as third-quarter profits fall short of City expectations",
+      "link": "https://www.ft.com/content/e83591cd-13d4-4358-aee9-c500930bfd36?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 22 Oct 2026 07:40:31 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14865c0f-4db8-4b3b-b1d7-7e44c1ea438d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e7df62a42b9d69de7e7a40379d8cf53",
+      "title": "Meta faces Australian lawsuit over alleged social media harm to children",
+      "title_fa": "Meta faces Australian lawsuit over alleged social media harm to children",
+      "title_en": "Meta faces Australian lawsuit over alleged social media harm to children",
+      "summary": "Class action could be first in Australia to blame social media for harming its users.",
+      "summary_fa": "Class action could be first in Australia to blame social media for harming its users.",
+      "summary_en": "Class action could be first in Australia to blame social media for harming its users.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 07:23:12 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "6e3b7bad43ac1237d840442956e99904",
       "title": "Drinking tea could lower your risk of stroke, but only if it’s not too hot",
       "title_fa": "Drinking tea could lower your risk of stroke, but only if it’s not too hot",
@@ -296567,6 +297953,69 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2fbc85514840a9da47daa31ac09ea9cc",
+      "title": "Wrong national anthems played three times at Asian Para Games in Japan",
+      "title_fa": "Wrong national anthems played three times at Asian Para Games in Japan",
+      "title_en": "Wrong national anthems played three times at Asian Para Games in Japan",
+      "summary": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.",
+      "summary_fa": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.",
+      "summary_en": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 07:10:55 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "06050c10614aa9c53a164c90432d493f",
+      "title": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury",
+      "title_fa": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury",
+      "title_en": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury",
+      "summary": "CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murderGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon ordered food from a McDonald’s drive-thru in a van allegedly used to dispose of two bodies, footage released by the court has shown.Lamarre-Condon, 31, is accused of fatally shooting Sydney couple, Jesse Baird and Luke Davies, with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_fa": "CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murderGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon ordered food from a McDonald’s drive-thru in a van allegedly used to dispose of two bodies, footage released by the court has shown.Lamarre-Condon, 31, is accused of fatally shooting Sydney couple, Jesse Baird and Luke Davies, with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_en": "CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murderGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon ordered food from a McDonald’s drive-thru in a van allegedly used to dispose of two bodies, footage released by the court has shown.Lamarre-Condon, 31, is accused of fatally shooting Sydney couple, Jesse Baird and Luke Davies, with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 22 Oct 2026 07:07:54 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/261db9d07147944395beffef6b47d32f5a1aa65c/425_66_1132_906/master/1132.jpg?width=140&quality=85&auto=format&fit=max&s=19c41b0d051f31689c6f3913f4f0aeee",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "336acffd3d5d8c354577be3f14060ba6",
+      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "title_fa": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "title_en": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "summary": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
+      "summary_fa": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
+      "summary_en": "With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 07:02:10 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -296633,6 +298082,27 @@
       }
     },
     {
+      "id": "bd9a7663882603f4748814d28fff6b56",
+      "title": "US universities are failing to protect victims of sexual assault",
+      "title_fa": "US universities are failing to protect victims of sexual assault",
+      "title_en": "US universities are failing to protect victims of sexual assault",
+      "summary": "The Cornell case shows how university bureaucracy discourages complaints and shields institutions.",
+      "summary_fa": "The Cornell case shows how university bureaucracy discourages complaints and shields institutions.",
+      "summary_en": "The Cornell case shows how university bureaucracy discourages complaints and shields institutions.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 06:47:24 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "d79b11ec7258e9497501f6311867f861",
       "title": "Canada unveils $6.2bn plan to shield manufacturers as Trump trade tariffs bite",
       "title_fa": "Canada unveils $6.2bn plan to shield manufacturers as Trump trade tariffs bite",
@@ -296651,6 +298121,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e433bd3cce440f8c65bd5c97814567b9",
+      "title": "China edge USA to women’s team gold at Gymnastics World Championships",
+      "title_fa": "China edge USA to women’s team gold at Gymnastics World Championships",
+      "title_en": "China edge USA to women’s team gold at Gymnastics World Championships",
+      "summary": "China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.",
+      "summary_fa": "China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.",
+      "summary_en": "China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 06:23:30 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -296675,6 +298166,153 @@
       }
     },
     {
+      "id": "7dd421b14f93b14ef086e75792b94b72",
+      "title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+      "title_fa": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+      "title_en": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+      "summary": "Amid growing threats, a grassroots aid effort has transformed into an initiative to get more ammunition to the front.",
+      "summary_fa": "Amid growing threats, a grassroots aid effort has transformed into an initiative to get more ammunition to the front.",
+      "summary_en": "Amid growing threats, a grassroots aid effort has transformed into an initiative to get more ammunition to the front.",
+      "link": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 06:06:28 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e19fe1f8b8b50f56e62fc22252403112",
+      "title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+      "title_fa": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+      "title_en": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+      "summary": "'I have not given my own position any thought', Carrick said after United's 4-1 loss to Como in the Champions League.",
+      "summary_fa": "'I have not given my own position any thought', Carrick said after United's 4-1 loss to Como in the Champions League.",
+      "summary_en": "'I have not given my own position any thought', Carrick said after United's 4-1 loss to Como in the Champions League.",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 06:01:48 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "60249aaa829763603c1ad1f88172c861",
+      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+      "title_fa": "The world is $365 trillion in debt, and the interest bill is climbing",
+      "title_en": "The world is $365 trillion in debt, and the interest bill is climbing",
+      "summary": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+      "summary_fa": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+      "summary_en": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 05:59:52 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "4c026b8de6950e164cd93a8f5b92d954",
+      "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "title_fa": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "title_en": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "summary": "The US president has turned his attention to France, but his comments were dismissed by French leader Macron.",
+      "summary_fa": "The US president has turned his attention to France, but his comments were dismissed by French leader Macron.",
+      "summary_en": "The US president has turned his attention to France, but his comments were dismissed by French leader Macron.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 05:58:52 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "70fe1a045ab9305464bad6453272fe1f",
+      "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+      "title_fa": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+      "title_en": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+      "summary": "US secretary of state says White House not to blame for reported speed limits on internet services in Ukraine.",
+      "summary_fa": "US secretary of state says White House not to blame for reported speed limits on internet services in Ukraine.",
+      "summary_en": "US secretary of state says White House not to blame for reported speed limits on internet services in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 05:54:12 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.4501,
+        "lng": 30.5234,
+        "name": "اوکراین"
+      }
+    },
+    {
+      "id": "6ba0577540724663aadf5c2652967b86",
+      "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "title_fa": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "title_en": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "summary": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "summary_fa": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "summary_en": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 05:36:33 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "045524446cb5db0022b54f707ec8a808",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "title_fa": "How Arab parties could hold critical balance of power in Israeli election",
+      "title_en": "How Arab parties could hold critical balance of power in Israeli election",
+      "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "summary_fa": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "summary_en": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 22 Oct 2026 05:30:22 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
       "id": "02a3839ede0bbc0648f0101f94a98bdd",
       "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
       "title_fa": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
@@ -296693,6 +298331,48 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "2188a860e0386082aa8572f68edf1506",
+      "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+      "title_fa": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+      "title_en": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+      "summary": "Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping bedsAirbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.The changes, which apply to Airbnb reservations covered by the platform’s global policy, including bookings in Australia, will come into effect on 20 November and limit chores imposed on guests. Continue reading...",
+      "summary_fa": "Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping bedsAirbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.The changes, which apply to Airbnb reservations covered by the platform’s global policy, including bookings in Australia, will come into effect on 20 November and limit chores imposed on guests. Continue reading...",
+      "summary_en": "Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping bedsAirbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.The changes, which apply to Airbnb reservations covered by the platform’s global policy, including bookings in Australia, will come into effect on 20 November and limit chores imposed on guests. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+      "source": "The Guardian",
+      "published_at": "Thu, 22 Oct 2026 05:17:11 GMT",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5885c2f121a007a0351fd0b0ec78ab29184cd31b/381_304_3371_2697/master/3371.jpg?width=140&quality=85&auto=format&fit=max&s=d4adcc3f5573a11c7216b765d75bbff1",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "55d4c43cbfcf10b547d86ef2ddfe95d2",
+      "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "title_fa": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "title_en": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "summary": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "summary_fa": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "summary_en": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 22 Oct 2026 05:00:56 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -296906,6 +298586,27 @@
       }
     },
     {
+      "id": "25cb2cb9068b5da2a2910b0576b7e05c",
+      "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "title_fa": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "title_en": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "summary": "Horseback archery is making a comeback at a time when modern warfare has become high-tech and impersonal. The sport was featured at the World Nomad Games.",
+      "summary_fa": "Horseback archery is making a comeback at a time when modern warfare has become high-tech and impersonal. The sport was featured at the World Nomad Games.",
+      "summary_en": "Horseback archery is making a comeback at a time when modern warfare has become high-tech and impersonal. The sport was featured at the World Nomad Games.",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+      "source": "NY Times",
+      "published_at": "Thu, 22 Oct 2026 04:01:19 +0000",
+      "date_iso": "2026-10-22",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "e7469088a6ad8ccdc390125157575bf3",
       "title": "Which G7 economy is the profligacy poster child?",
       "title_fa": "Which G7 economy is the profligacy poster child?",
@@ -296987,6 +298688,48 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3b84d49bc89168662c0c62168abaa77e",
+      "title": "AI’s true effect on inflation",
+      "title_fa": "AI’s true effect on inflation",
+      "title_en": "AI’s true effect on inflation",
+      "summary": "Relative price shifts can affect the overall price level",
+      "summary_fa": "Relative price shifts can affect the overall price level",
+      "summary_en": "Relative price shifts can affect the overall price level",
+      "link": "https://www.ft.com/content/68b04a9b-714e-4a5a-8dde-d9d7b8a65197?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 22 Oct 2026 04:00:11 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97e626ea-0765-4d79-a1f9-d2faa0322dcf.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ceb2242ad7bb820ea146e334ee1ef8f3",
+      "title": "The battle for Israel’s future",
+      "title_fa": "The battle for Israel’s future",
+      "title_en": "The battle for Israel’s future",
+      "summary": "The election result could shape the country’s destiny for a generation",
+      "summary_fa": "The election result could shape the country’s destiny for a generation",
+      "summary_en": "The election result could shape the country’s destiny for a generation",
+      "link": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 22 Oct 2026 04:00:11 GMT",
+      "date_iso": "2026-10-22",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffef0e28c-641b-4f7a-b163-f4533cda4acc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
