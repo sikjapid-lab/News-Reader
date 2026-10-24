@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-24 17:24:19",
-  "total_count": 37867,
+  "last_update": "2026-10-24 19:40:16",
+  "total_count": 37886,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -463352,6 +463352,48 @@
       }
     },
     {
+      "id": "c369243281d572bfd70e16676accdd98",
+      "title": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+      "title_fa": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+      "title_en": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+      "summary": "The government has blamed the hard-left France Unbowed (LFI) party and Jean-Luc Mélenchon for what it says is stoking violence, an accusation the party denies.",
+      "summary_fa": "The government has blamed the hard-left France Unbowed (LFI) party and Jean-Luc Mélenchon for what it says is stoking violence, an accusation the party denies.",
+      "summary_en": "The government has blamed the hard-left France Unbowed (LFI) party and Jean-Luc Mélenchon for what it says is stoking violence, an accusation the party denies.",
+      "link": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
+      "source": "EuroNews",
+      "published_at": "Sat, 24 Oct 2026 20:51:22 +0200",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "e95ed611859003746d7c95cee6f068c8",
+      "title": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+      "title_fa": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+      "title_en": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+      "summary": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and opinion polls show them neck and neck.",
+      "summary_fa": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and opinion polls show them neck and neck.",
+      "summary_en": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and opinion polls show them neck and neck.",
+      "link": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
+      "source": "EuroNews",
+      "published_at": "Sat, 24 Oct 2026 19:54:38 +0200",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f98037e1d67b41f48f5b4f4a43838352",
       "title": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
       "title_fa": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
@@ -463370,6 +463412,153 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe9175ebde210cd08b99dc1a8384b840",
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "title_fa": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "title_en": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "summary": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "summary_fa": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "summary_en": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 19:11:48 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "46807057b31e440b19a6d001c6a7a223",
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "title_fa": "Thousands join Paris protests as authorities clamp down on disorder",
+      "title_en": "Thousands join Paris protests as authorities clamp down on disorder",
+      "summary": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "summary_fa": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "summary_en": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 19:01:52 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "171d3950ee4ab882a00b43d9e82d5f5b",
+      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "title_fa": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "title_en": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+      "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+      "summary_fa": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+      "summary_en": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+      "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+      "source": "CNBC",
+      "published_at": "Sat, 24 Oct 2026 18:56:29 GMT",
+      "date_iso": "2026-10-24",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bc6f0fb650998402c1c8eeee57f6d02b",
+      "title": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+      "title_fa": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+      "title_en": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+      "summary": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the street march.She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.” Continue reading...",
+      "summary_fa": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the street march.She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.” Continue reading...",
+      "summary_en": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the street march.She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.” Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "source": "The Guardian",
+      "published_at": "Sat, 24 Oct 2026 18:52:46 GMT",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/14507464f3b26131fdacfffa0a76a694f48024cf/765_0_4356_3484/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=6bb25089b42d3a0c0750fe2bbbcf261a",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "fcffa3fae683e8c15aec18b62fa92c94",
+      "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+      "title_fa": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+      "title_en": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+      "summary": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.",
+      "summary_fa": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.",
+      "summary_en": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.",
+      "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+      "source": "NY Times",
+      "published_at": "Sat, 24 Oct 2026 18:35:49 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-carousel-1130am-qzwl/24france-protests-carousel-1130am-qzwl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "399ce389992d70140dfae3d36ccbfcee",
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "title_fa": "Thousands gather at new Albanian antigovernment rally",
+      "title_en": "Thousands gather at new Albanian antigovernment rally",
+      "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+      "summary_fa": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+      "summary_en": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 18:30:56 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b5147a35bb3e99dc188ca775d4c7222b",
+      "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "title_fa": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "title_en": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio BolsonaroTens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro.Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%. Continue reading...",
+      "summary_fa": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio BolsonaroTens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro.Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%. Continue reading...",
+      "summary_en": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio BolsonaroTens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro.Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "source": "The Guardian",
+      "published_at": "Sat, 24 Oct 2026 18:11:44 GMT",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0ba994ba5bb361aee178bf93d77a0ef20ea9f1ee/407_0_4928_3943/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=b65f8c76279731e0b2936b45aab0d208",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -463394,6 +463583,90 @@
       }
     },
     {
+      "id": "919870de00165d698221eb454ae8f423",
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "title_fa": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "title_en": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "summary_fa": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "summary_en": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 18:00:20 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "24a9f3c113f1bd0c104c80cbb8cd6523",
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
+      "title_fa": "Hundreds of thousands march across France in protests over schools and policing",
+      "title_en": "Hundreds of thousands march across France in protests over schools and policing",
+      "summary": "Government estimates at least 400,000 people took part, but trade unions say the number is double thatHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.In Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions. Continue reading...",
+      "summary_fa": "Government estimates at least 400,000 people took part, but trade unions say the number is double thatHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.In Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions. Continue reading...",
+      "summary_en": "Government estimates at least 400,000 people took part, but trade unions say the number is double thatHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.In Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "source": "The Guardian",
+      "published_at": "Sat, 24 Oct 2026 17:54:41 GMT",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/204bed7e5a4d72056efba4b6150a4c1274179b73/864_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=e9da4a686d8edacd2ce24179e188f573",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "d7e59831e9eb6653655eb84f34e76d15",
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "title_fa": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "title_en": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "summary_fa": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "summary_en": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "source": "NY Times",
+      "published_at": "Sat, 24 Oct 2026 17:45:16 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "11bb36dcd176b29d1ba4c7c13082a0f2",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "title_fa": "Two rescued after Nairobi building collapse with five still missing",
+      "title_en": "Two rescued after Nairobi building collapse with five still missing",
+      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "summary_fa": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "summary_en": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 24 Oct 2026 17:25:46 GMT",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b138a7a0c3f7825bb1035bc05c80cfa5",
       "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
       "title_fa": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
@@ -463412,6 +463685,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "b1c8cdd97fd018f71ca93261aaa768a7",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "title_fa": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "summary_fa": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "summary_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 24 Oct 2026 17:21:42 GMT",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
       }
     },
     {
@@ -463793,6 +464087,27 @@
       }
     },
     {
+      "id": "6ffc32d42622d253a984bc6386330e76",
+      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+      "title_fa": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+      "title_en": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+      "summary": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "summary_fa": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "summary_en": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 24 Oct 2026 15:05:58 +0000",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "cd2593893300635cc8342c98f3251179",
       "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
       "title_fa": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
@@ -463860,6 +464175,27 @@
       "title": "Thousands rally in Tirana as anti-government protests persist",
       "title_fa": "Thousands rally in Tirana as anti-government protests persist",
       "title_en": "Thousands rally in Tirana as anti-government protests persist",
+      "summary": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
+      "summary_fa": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
+      "summary_en": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
+      "link": "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic",
+      "source": "EuroNews",
+      "published_at": "Sat, 24 Oct 2026 14:56:38 +0200",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "5779b49329e453a852a49235f58526ab",
+      "title": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
+      "title_fa": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
+      "title_en": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
       "summary": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
       "summary_fa": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
       "summary_en": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
@@ -463958,6 +464294,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "485af12829c327258438f54ce7ec30c6",
+      "title": "Italy: Thousands take to the streets as protests turn violent in several cities",
+      "title_fa": "Italy: Thousands take to the streets as protests turn violent in several cities",
+      "title_en": "Italy: Thousands take to the streets as protests turn violent in several cities",
+      "summary": "Clashes erupted between protesters and police across several Italian cities on Saturday, with officers deploying water cannons and tear gas as demonstrations turned violent. Thousands took to the streets of Rome, Milan, Turin, Bologna and Florence, with protesters throwing bottles, stones and firecr",
+      "summary_fa": "Clashes erupted between protesters and police across several Italian cities on Saturday, with officers deploying water cannons and tear gas as demonstrations turned violent. Thousands took to the streets of Rome, Milan, Turin, Bologna and Florence, with protesters throwing bottles, stones and firecr",
+      "summary_en": "Clashes erupted between protesters and police across several Italian cities on Saturday, with officers deploying water cannons and tear gas as demonstrations turned violent. Thousands took to the streets of Rome, Milan, Turin, Bologna and Florence, with protesters throwing bottles, stones and firecr",
+      "link": "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence",
+      "source": "EuroNews",
+      "published_at": "Sat, 24 Oct 2026 14:39:44 +0200",
+      "date_iso": "2026-10-24",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -735888,6 +736245,27 @@
       }
     },
     {
+      "id": "7e47a5cc224af106cc58e4749dfb8106",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "title_fa": "Pennsylvania will require labels on AI-generated ads",
+      "title_en": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "summary_fa": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "summary_en": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "published_at": "2026-10-24T14:32:21-04:00",
+      "date_iso": "2026-10-24",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c5a8867623a6eae6ae8e7becbfc0dedb",
       "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
       "title_fa": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
@@ -751799,6 +752177,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Impersonation-Risk-Detection.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e944684effcd0c18e95131b52d36678d",
+      "title": "Your iPhone can spot scams for you with iOS 27 – but you have to opt in",
+      "title_fa": "Your iPhone can spot scams for you with iOS 27 – but you have to opt in",
+      "title_en": "Your iPhone can spot scams for you with iOS 27 – but you have to opt in",
+      "summary": "Impersonation Risk Detection tries to spot scams traditional security methods might miss.",
+      "summary_fa": "Impersonation Risk Detection tries to spot scams traditional security methods might miss.",
+      "summary_en": "Impersonation Risk Detection tries to spot scams traditional security methods might miss.",
+      "link": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
+      "source": "ZDNet",
+      "published_at": "2026-09-30T15:45:00Z",
+      "date_iso": "2026-10-24",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4117.jpeg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
