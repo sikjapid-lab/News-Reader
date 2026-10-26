@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-26 00:24:38",
-  "total_count": 38185,
+  "last_update": "2026-10-26 05:09:27",
+  "total_count": 38224,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -401381,6 +401381,27 @@
       }
     },
     {
+      "id": "912d8b92407bcdd06140db0b81f92953",
+      "title": "Serbia follows Hungary in showing the power of the people",
+      "title_fa": "Serbia follows Hungary in showing the power of the people",
+      "title_en": "Serbia follows Hungary in showing the power of the people",
+      "summary": "Anger at corruption and an unaccountable government turned the country decisively against autocratic leader Aleksandar Vučić",
+      "summary_fa": "Anger at corruption and an unaccountable government turned the country decisively against autocratic leader Aleksandar Vučić",
+      "summary_en": "Anger at corruption and an unaccountable government turned the country decisively against autocratic leader Aleksandar Vučić",
+      "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 25 Oct 2026 23:54:05 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F438a7131-ebfa-4b2b-869d-59400c7bfe46.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "a62dc80b0d7355adf1ab51ea8572be57",
       "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
       "title_fa": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
@@ -401609,6 +401630,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ce6f751a6d9d0fe3c4f4d473a1e1a9b",
+      "title": "A simple liquid can stop cavities without drilling, major study confirms",
+      "title_fa": "A simple liquid can stop cavities without drilling, major study confirms",
+      "title_en": "A simple liquid can stop cavities without drilling, major study confirms",
+      "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+      "summary_fa": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+      "summary_en": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 25 Oct 2026 22:41:13 EDT",
+      "date_iso": "2026-10-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -401857,6 +401899,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://i.guim.co.uk/img/media/adf3a653f073fb1e0c8108e2bb5c263090e280b6/716_0_6512_5209/master/6512.jpg?width=140&quality=85&auto=format&fit=max&s=1e0d6dc9fa9dc3c56ace6dd278b808fd",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2177b7b414937312f7981e39d85a7361",
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "title_fa": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "title_en": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "summary_fa": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "summary_en": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 25 Oct 2026 21:42:48 EDT",
+      "date_iso": "2026-10-26",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -546680,6 +546743,699 @@
       }
     },
     {
+      "id": "e47a9eb41aab2a26779268cd7ac306e5",
+      "title": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
+      "title_fa": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
+      "title_en": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
+      "summary": "Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.",
+      "summary_fa": "Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.",
+      "summary_en": "Lula's triumph bucks a regional trend of victories for right-of-center presidential candidates allied with Trump. It also means Latin America’s largest economy will likely continue defying Trump’s demands, despite the pressure of increased tariffs.",
+      "link": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
+      "source": "EuroNews",
+      "published_at": "Mon, 26 Oct 2026 05:10:03 +0100",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e5c462f469ffd9f3ab2ec700c17e679",
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "title_fa": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "title_en": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "summary": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+      "summary_fa": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+      "summary_en": "SoftBank Group reportedly plans to invest $50 billion in Malaysia's technology sector, including artificial intelligence and data centers.",
+      "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 04:56:16 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ff68edb4333cea0ab843b200cf28caf5",
+      "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
+      "title_fa": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
+      "title_en": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
+      "summary": "Follow live updatesGet our daily political email, free app or daily news podcastSteggall calls for civility and respectIndependent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter.We absolutely need to make sure there is more civility and respect.Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuffIt’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "summary_fa": "Follow live updatesGet our daily political email, free app or daily news podcastSteggall calls for civility and respectIndependent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter.We absolutely need to make sure there is more civility and respect.Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuffIt’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "summary_en": "Follow live updatesGet our daily political email, free app or daily news podcastSteggall calls for civility and respectIndependent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter.We absolutely need to make sure there is more civility and respect.Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuffIt’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 04:56:09 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/6d8e56e4201d9d93e6c072987ba67ea6cd7c5c7c/569_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=7686457c389c4d398d1f59a24dbaddbe",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59f6fe374dfc293988bad05e9e7883ee",
+      "title": "Lula is re-elected Brazil’s president in knife-edge vote",
+      "title_fa": "Lula is re-elected Brazil’s president in knife-edge vote",
+      "title_en": "Lula is re-elected Brazil’s president in knife-edge vote",
+      "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+      "summary_fa": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+      "summary_en": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+      "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 04:44:49 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52e43cba-f166-4638-8b8e-fcc780d5b4e0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ea426c5d00a869a7829b27bf59ef3c5e",
+      "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+      "title_fa": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+      "title_en": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+      "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday.Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
+      "summary_fa": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday.Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
+      "summary_en": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday.Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 04:38:16 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=140&quality=85&auto=format&fit=max&s=7337aafc4dbcda473a7689df2cacc5f2",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "پاریس"
+      }
+    },
+    {
+      "id": "1f70076e5e242359776ae41cc2548585",
+      "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+      "title_fa": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+      "title_en": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+      "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+      "summary_fa": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+      "summary_en": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 04:38:03 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazil-election-promo-9pm/25brazil-election-promo-9pm-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "97e0a96fe203e0efc89e7293cd226640",
+      "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+      "title_fa": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+      "title_en": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+      "summary": "Judge questions Trump-led effort to exert greater influence over elections process ahead of upcoming midterm vote.",
+      "summary_fa": "Judge questions Trump-led effort to exert greater influence over elections process ahead of upcoming midterm vote.",
+      "summary_en": "Judge questions Trump-led effort to exert greater influence over elections process ahead of upcoming midterm vote.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 04:32:48 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "dd2102988a48e34a5622a12b3e5f8de7",
+      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "title_fa": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "title_en": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birthFollow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard.Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
+      "summary_fa": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birthFollow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard.Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
+      "summary_en": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birthFollow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard.Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 04:29:01 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ddd2564656c97cca26ec0d14a77028d835e3616f/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=0e497d009c642208d87d3b0f73bb87d5",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9a02ff642eba809da73119bb6673c65e",
+      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "title_fa": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "title_en": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+      "summary_fa": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+      "summary_en": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 04:21:26 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76f9f77120da9e27643c2f0a3e7b88be",
+      "title": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+      "title_fa": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+      "title_en": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+      "summary": "Gadi Eisenkot has emerged as Benjamin Netanyahu’s main opponent in the upcoming elections. The New York Times Jerusalem bureau chief, David Halbfinger, describes why Mr. Eisenkot is resonating with Israeli voters.",
+      "summary_fa": "Gadi Eisenkot has emerged as Benjamin Netanyahu’s main opponent in the upcoming elections. The New York Times Jerusalem bureau chief, David Halbfinger, describes why Mr. Eisenkot is resonating with Israeli voters.",
+      "summary_en": "Gadi Eisenkot has emerged as Benjamin Netanyahu’s main opponent in the upcoming elections. The New York Times Jerusalem bureau chief, David Halbfinger, describes why Mr. Eisenkot is resonating with Israeli voters.",
+      "link": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 04:14:41 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "c9a109a2baf661ef8bbf560c7e0c51ea",
+      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "title_fa": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "title_en": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+      "summary_fa": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+      "summary_en": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 04:09:41 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a55e5193227899b5ca691c785d97d5d4",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "title_fa": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "title_en": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "summary_fa": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "summary_en": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 04:05:44 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "190152ce75f847914f116832057631fc",
+      "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "title_fa": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "title_en": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "summary": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+      "summary_fa": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+      "summary_en": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 04:03:28 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "348bbec4b6bb4f6d69d91e8fdfa020bf",
+      "title": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+      "title_fa": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+      "title_en": "Is the Venice Soccer Team Ever Going to Be as Good as It Looks?",
+      "summary": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype.",
+      "summary_fa": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype.",
+      "summary_en": "Venezia FC, a historically modest club, has become a fashion sensation. But its performance has struggled to match the off-field hype.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/venice-soceer.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 04:01:08 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00int-Venice-soccer-01-bhwl/00int-Venice-soccer-01-bhwl-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b58ebd7b9b721841082dc2346d3b979c",
+      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "title_fa": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "title_en": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+      "summary_fa": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+      "summary_en": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 04:01:08 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-collapse-01-wgbz/26int-israel-collapse-01-wgbz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "79f799d378b95c2961bb86042688c200",
+      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "title_fa": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "title_en": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "summary": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
+      "summary_fa": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
+      "summary_en": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
+      "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 04:00:06 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-china-xi-purges-01-jlbc/26int-china-xi-purges-01-jlbc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "50c117919f57fa81d10fa62bd8f37a06",
+      "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "title_fa": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "title_en": "World reacts to Lula’s victory in Brazil’s presidential election",
+      "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+      "summary_fa": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+      "summary_en": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 03:50:12 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "35d4d509928a8daece899130b08b044d",
+      "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+      "title_fa": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+      "title_en": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+      "summary": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain.",
+      "summary_fa": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain.",
+      "summary_en": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain.",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 03:34:59 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "1062949b7e4cd092e15ac2074ee96714",
+      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "title_fa": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "title_en": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard.Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_fa": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard.Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_en": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard.Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 03:26:57 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ebcf532529b026a57e05151adc59cdf88e17a700/380_487_1756_1405/master/1756.jpg?width=140&quality=85&auto=format&fit=max&s=3874e9a185c469c2c39d7566b1c50e24",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "ece94a2e6b270f721e7f122a9a259f68",
+      "title": "Lula thanks Brazil’s youth for historic election win",
+      "title_fa": "Lula thanks Brazil’s youth for historic election win",
+      "title_en": "Lula thanks Brazil’s youth for historic election win",
+      "summary": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+      "summary_fa": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+      "summary_en": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 03:14:26 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e421849700696af427c42089ca996e9f",
+      "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "title_fa": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "title_en": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "summary": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+      "summary_fa": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+      "summary_en": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 02:59:50 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fa7dc478fa69da4b09a0e328641faf2c",
+      "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "title_fa": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "title_en": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+      "summary": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a 'sinister obstructive move'.",
+      "summary_fa": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a 'sinister obstructive move'.",
+      "summary_en": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a 'sinister obstructive move'.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 02:55:15 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8f325d74d11229fe9e4db42acbf454d1",
+      "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+      "title_fa": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+      "title_en": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+      "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen HainesGet our breaking news email, free app or daily news podcastVictoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, was left on his car.The Herald Sun first reported on Monday that Paul Edbrooke had returned to his car after a community event in his Frankston electorate on Saturday and found the bullet on the bonnet. He later told reporters he had only been away from the car for about an hour and made the “chilling” discovery on his return. Continue reading...",
+      "summary_fa": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen HainesGet our breaking news email, free app or daily news podcastVictoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, was left on his car.The Herald Sun first reported on Monday that Paul Edbrooke had returned to his car after a community event in his Frankston electorate on Saturday and found the bullet on the bonnet. He later told reporters he had only been away from the car for about an hour and made the “chilling” discovery on his return. Continue reading...",
+      "summary_en": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen HainesGet our breaking news email, free app or daily news podcastVictoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, was left on his car.The Herald Sun first reported on Monday that Paul Edbrooke had returned to his car after a community event in his Frankston electorate on Saturday and found the bullet on the bonnet. He later told reporters he had only been away from the car for about an hour and made the “chilling” discovery on his return. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 02:38:37 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0f21d0257a7b0bde1c520ec5481a81e0e17af877/150_931_2848_2279/master/2848.jpg?width=140&quality=85&auto=format&fit=max&s=5fc75f31040571764ba785136b292aed",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cd7d4073b0156fc7fcd8fd6ec0a6acff",
+      "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "title_fa": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "title_en": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread.Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
+      "summary_fa": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread.Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
+      "summary_en": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overturn the ban on the polarising spread.Andre McKechnie sued Victoria’s corrections department after he was refused the salty, yeast-based condiment in prison. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 02:34:11 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/c2009c1bb47678a4ab5f0c29bc852cb6c2b0608e/125_2_6130_4904/master/6130.jpg?width=140&quality=85&auto=format&fit=max&s=3423813bbbfc9b9f0a90bf1f8626e21f",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "a87621070955a34379c1b09187d9219a",
+      "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "title_fa": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "title_en": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+      "summary_fa": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+      "summary_en": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 02:04:31 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "f1b780bebc48835dee4700e352118a31",
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "title_fa": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "title_en": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "summary_fa": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "summary_en": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 26 Oct 2026 01:50:00 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-46961561",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "adba4c3e73222141fadc4be28e0be0e7",
+      "title": "After stunning victory, Lula will face a deep hangover",
+      "title_fa": "After stunning victory, Lula will face a deep hangover",
+      "title_en": "After stunning victory, Lula will face a deep hangover",
+      "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
+      "summary_fa": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
+      "summary_en": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
+      "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 01:15:16 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6336d5a-36ff-4e94-a42d-b15e2bfba045.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a2ba873afbcdd89a3904a5cc8c6dbeee",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title_fa": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title_en": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "summary_fa": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "summary_en": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 26 Oct 2026 01:07:05 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1288a23d1076c1e59bfc62cd8d968fe6",
+      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "title_fa": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "title_en": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "summary_fa": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "summary_en": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 01:02:57 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "3e75060b4c429b2fb9b099394361eef3",
+      "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "title_fa": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "title_en": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "summary": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyaltyWhen Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of investigations has not slowed. Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level.As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda. For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions. Continue reading...",
+      "summary_fa": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyaltyWhen Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of investigations has not slowed. Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level.As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda. For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions. Continue reading...",
+      "summary_en": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyaltyWhen Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of investigations has not slowed. Last year, China’s disciplinary authorities opened investigations into more than 1 million people, including more than 100 officials at or above ministerial or provincial level.As Chinese Communist party (CCP) officials kick off an important meeting this week, discipline – and party loyalty – is high on the agenda. For those who try to read the tea leaves of elite Chinese politics, concern about the apparent lack of discipline is dominating CCP discussions. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 00:58:25 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/548f928b2adc4b01830bad12755fd7be59f1fb3d/524_0_6498_5199/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=f96642c351a6eff6d112a243e38acd05",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "56f3657da81c3ffbdc2717e1c50eb93c",
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "title_fa": "Serbia celebrates historic election win for student-backed movement",
+      "title_en": "Serbia celebrates historic election win for student-backed movement",
+      "summary": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+      "summary_fa": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+      "summary_en": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:58:21 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9fb58b093fe302ffb76dcfc47cb227ca",
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "title_fa": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "title_en": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "summary_fa": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "summary_en": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 00:37:51 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb4d40293bb05c40f1d11732a213b039",
+      "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+      "title_fa": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+      "title_en": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+      "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+      "summary_fa": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+      "summary_en": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 00:28:36 GMT",
+      "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "2251b565b352ce5f7fca3a23ccd55870",
       "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
       "title_fa": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
@@ -546701,6 +547457,27 @@
       }
     },
     {
+      "id": "f7ace7cd820ae06120f67ec136c7ffcc",
+      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "title_fa": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "title_en": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election resultLula wins election in stunning comeback – live updatesLuiz Inácio Lula da Silva, the Brazilian president, has staged a dramatic election fightback, defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.With 100% of votes counted the 80-year-old leftist received 4.4m votes more than Bolsonaro, with a 51.79% share to his 45-year-old rival’s 48.21%. However, soon after Brazil’s electoral authority confirmed Lula’s victory, Bolsonaro refused to concede defeat and asked for the results to be annulled. Continue reading...",
+      "summary_fa": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election resultLula wins election in stunning comeback – live updatesLuiz Inácio Lula da Silva, the Brazilian president, has staged a dramatic election fightback, defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.With 100% of votes counted the 80-year-old leftist received 4.4m votes more than Bolsonaro, with a 51.79% share to his 45-year-old rival’s 48.21%. However, soon after Brazil’s electoral authority confirmed Lula’s victory, Bolsonaro refused to concede defeat and asked for the results to be annulled. Continue reading...",
+      "summary_en": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election resultLula wins election in stunning comeback – live updatesLuiz Inácio Lula da Silva, the Brazilian president, has staged a dramatic election fightback, defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.With 100% of votes counted the 80-year-old leftist received 4.4m votes more than Bolsonaro, with a 51.79% share to his 45-year-old rival’s 48.21%. However, soon after Brazil’s electoral authority confirmed Lula’s victory, Bolsonaro refused to concede defeat and asked for the results to be annulled. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 00:19:05 GMT",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1ea33b8c8e9c3cb14fb6e86ce190326d4d4868d4/19_0_4778_3823/master/4778.jpg?width=140&quality=85&auto=format&fit=max&s=4993d439fe22dd89dd6e627d887aa400",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7e56ea99bb198e254b2818bf6a2173d7",
       "title": "Lula is re-elected Brazil’s president in knife-edge election",
       "title_fa": "Lula is re-elected Brazil’s president in knife-edge election",
@@ -546715,6 +547492,27 @@
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7231c9a-03d0-4311-b712-0b73eec50e01.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7d13b7c20822df72c7b9cd0580e8b7f4",
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "title_fa": "Lula holds off far right with victory in Brazil presidential election",
+      "title_en": "Lula holds off far right with victory in Brazil presidential election",
+      "summary": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "summary_fa": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "summary_en": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:16:29 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -546855,6 +547653,27 @@
       "summary": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
       "summary_fa": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
       "summary_en": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 00:00:00 +0000",
+      "date_iso": "2026-10-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "19390c323addfe702ca703ba38f5cf80",
+      "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "title_fa": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "title_en": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+      "summary": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
+      "summary_fa": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
+      "summary_en": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
       "source": "Al Jazeera",
       "published_at": "Mon, 26 Oct 2026 00:00:00 +0000",
