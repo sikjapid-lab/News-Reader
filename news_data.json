@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-26 21:46:02",
-  "total_count": 38560,
+  "last_update": "2026-10-27 00:54:25",
+  "total_count": 38599,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -155670,6 +155670,153 @@
       "source": "Al Jazeera",
       "published_at": "Tue, 28 Jul 2026 00:00:00 +0000",
       "date_iso": "2026-07-28",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "ddde81eb1172945408b94ef65e5dcb09",
+      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "title_fa": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "title_en": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "summary": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "summary_fa": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "summary_en": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "source": "NY Times",
+      "published_at": "Tue, 27 Oct 2026 00:45:26 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e2f047f3f9a65cc6d68aff65d9c23bd9",
+      "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "title_fa": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "title_en": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+      "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastPolitical debate should be ‘robust but respectful’, Anne Ruston saysA day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines, who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate.What we do here sets the tone for what the rest of the nation thinks is acceptable.There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate.It’s simply out of control in an online world and we’ve got to make the platforms accountable.Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
+      "summary_fa": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastPolitical debate should be ‘robust but respectful’, Anne Ruston saysA day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines, who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate.What we do here sets the tone for what the rest of the nation thinks is acceptable.There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate.It’s simply out of control in an online world and we’ve got to make the platforms accountable.Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
+      "summary_en": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastPolitical debate should be ‘robust but respectful’, Anne Ruston saysA day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines, who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate.What we do here sets the tone for what the rest of the nation thinks is acceptable.There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate.It’s simply out of control in an online world and we’ve got to make the platforms accountable.Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Tue, 27 Oct 2026 00:44:33 GMT",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/808fc6ef5b275b5f1953ad049b5b5eaad5f8fe9a/1310_578_4277_3422/master/4277.jpg?width=140&quality=85&auto=format&fit=max&s=c0c55498a0d08080e1f481ff0792e944",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "1787e185a3fa47b96dec03e12f4de45d",
+      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "title_fa": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "title_en": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "summary_fa": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "summary_en": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "source": "CNBC",
+      "published_at": "Tue, 27 Oct 2026 00:41:29 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "92007e37e0d671014b5b87868015db6d",
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "title_fa": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "title_en": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "summary": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "summary_fa": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "summary_en": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 27 Oct 2026 00:33:06 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "83f4e5dedf5343b64ffd638cfe835538",
+      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+      "title_fa": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+      "title_en": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+      "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+      "summary_fa": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+      "summary_en": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+      "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+      "source": "CNBC",
+      "published_at": "Tue, 27 Oct 2026 00:17:44 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "fde1d6049830f8aa237b4ceaf8181240",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "title_fa": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "title_en": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today.Ask a question: log in or sign up here to comment, or email conversations@theguardian.comAfter losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term. It will see him become the country’s longest-serving leader.The result – 51.79% to Lula, 48.21% to Bolsonaro – was delivered after a supreme court judge had extended polling time by two hours, and after Lula’s camp accused their opponents of sabotaging public transport in an attempt to keep their voters from the polls. It was the first time in Brazilian electoral history that a first-round verdict had been overturned. Continue reading...",
+      "summary_fa": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today.Ask a question: log in or sign up here to comment, or email conversations@theguardian.comAfter losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term. It will see him become the country’s longest-serving leader.The result – 51.79% to Lula, 48.21% to Bolsonaro – was delivered after a supreme court judge had extended polling time by two hours, and after Lula’s camp accused their opponents of sabotaging public transport in an attempt to keep their voters from the polls. It was the first time in Brazilian electoral history that a first-round verdict had been overturned. Continue reading...",
+      "summary_en": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today.Ask a question: log in or sign up here to comment, or email conversations@theguardian.comAfter losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term. It will see him become the country’s longest-serving leader.The result – 51.79% to Lula, 48.21% to Bolsonaro – was delivered after a supreme court judge had extended polling time by two hours, and after Lula’s camp accused their opponents of sabotaging public transport in an attempt to keep their voters from the polls. It was the first time in Brazilian electoral history that a first-round verdict had been overturned. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "source": "The Guardian",
+      "published_at": "Tue, 27 Oct 2026 00:00:03 GMT",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=b010691acf8ee8e0264df18bb89e5d99",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c0490afea12dd4e125b824daecceeb58",
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "title_fa": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "title_en": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "summary": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
+      "summary_fa": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
+      "summary_en": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "date_iso": "2026-10-27",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -546848,6 +546995,363 @@
       }
     },
     {
+      "id": "fecc4c2e3f55a0fac966c159495de537",
+      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "title_fa": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "title_en": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "summary": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+      "summary_fa": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+      "summary_en": "Brazil’s Supreme Court told the police to seize passport of Mr. Bolsonaro, who lost the presidential election, over his links to an investigation.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 23:55:15 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-brazil-elections-bolsonaro-phwz/26int-brazil-elections-bolsonaro-phwz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "00e853bc2af2b646e619407b69b3dc63",
+      "title": "Bolsonaro says police demand passports after Brazil election defeat",
+      "title_fa": "Bolsonaro says police demand passports after Brazil election defeat",
+      "title_en": "Bolsonaro says police demand passports after Brazil election defeat",
+      "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
+      "summary_fa": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
+      "summary_en": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 23:53:45 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0aec903ee3b54a8aba303986df2dd74b",
+      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "title_fa": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "title_en": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "summary": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "summary_fa": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "summary_en": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 23:50:11 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0a9d75bdca230c158f6be0813a7d90c0",
+      "title": "Jordan attacks Syria in response to Karak church attack",
+      "title_fa": "Jordan attacks Syria in response to Karak church attack",
+      "title_en": "Jordan attacks Syria in response to Karak church attack",
+      "summary": "Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.",
+      "summary_fa": "Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.",
+      "summary_en": "Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 23:48:51 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "847f717a78a37a9d1d6666fff41a19ae",
+      "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+      "title_fa": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+      "title_en": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+      "summary": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
+      "summary_fa": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
+      "summary_en": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 23:25:29 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "05180ac4bff956b5e41f5a0581f6571d",
+      "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+      "title_fa": "France: crowds fill Marseille's Old Port in anti-racism protest",
+      "title_en": "France: crowds fill Marseille's Old Port in anti-racism protest",
+      "summary": "Hundreds of people gathered at Marseille's Vieux-Port on Monday evening to protest against racism following a deadly shooting near Paris. Police estimated the crowd at 800, while organisers put attendance at more than 1,000.",
+      "summary_fa": "Hundreds of people gathered at Marseille's Vieux-Port on Monday evening to protest against racism following a deadly shooting near Paris. Police estimated the crowd at 800, while organisers put attendance at more than 1,000.",
+      "summary_en": "Hundreds of people gathered at Marseille's Vieux-Port on Monday evening to protest against racism following a deadly shooting near Paris. Police estimated the crowd at 800, while organisers put attendance at more than 1,000.",
+      "link": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
+      "source": "EuroNews",
+      "published_at": "Mon, 26 Oct 2026 23:20:11 +0100",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "67aa16fea7398d23cda1a27e4c130e64",
+      "title": "Healey poised to increase adult minimum wage in UK Budget",
+      "title_fa": "Healey poised to increase adult minimum wage in UK Budget",
+      "title_en": "Healey poised to increase adult minimum wage in UK Budget",
+      "summary": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
+      "summary_fa": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
+      "summary_en": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
+      "link": "https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 23:19:17 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb39a552-dcae-42be-be59-8275987b0862.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "38ee34c6bbfb4d95cd2ff311b94196c4",
+      "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "title_fa": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "title_en": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+      "summary": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+      "summary_fa": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+      "summary_en": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 23:18:31 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0935a1318cfca2a55792bc1699278490",
+      "title": "Turkey-Libya maritime boundaries deal 'remains null and void,' Greek foreign minister says",
+      "title_fa": "Turkey-Libya maritime boundaries deal 'remains null and void,' Greek foreign minister says",
+      "title_en": "Turkey-Libya maritime boundaries deal 'remains null and void,' Greek foreign minister says",
+      "summary": "The joint statement responded to the recent decision by Libya's House of Representatives to ratify the 2019 memorandum.",
+      "summary_fa": "The joint statement responded to the recent decision by Libya's House of Representatives to ratify the 2019 memorandum.",
+      "summary_en": "The joint statement responded to the recent decision by Libya's House of Representatives to ratify the 2019 memorandum.",
+      "link": "https://www.euronews.com/2026/10/26/turkey-libya-maritime-boundaries-deal-remains-null-and-void-greek-foreign-minister-says",
+      "source": "EuroNews",
+      "published_at": "Mon, 26 Oct 2026 23:10:23 +0100",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "21895743bc2523a68ef3d0096c97bb06",
+      "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "title_fa": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "title_en": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "summary": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+      "summary_fa": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+      "summary_en": "Beijing has room to borrow, but heavily indebted local governments are cutting back, raising the stakes for growth and for how China manages its local debt.",
+      "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 23:10:16 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "67c0a22b818ccac68ba48e153281d408",
+      "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "title_fa": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "title_en": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "summary": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
+      "summary_fa": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
+      "summary_en": "Seeking new elections, María Corina Machado will need to tread carefully to avoid offending the Trump administration, while also asserting her own leadership.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 23:09:14 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-venezuela-machado-fzkh/26int-venezuela-machado-fzkh-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f0b2af02eadaffc766b3017aada784ca",
+      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "title_fa": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "title_en": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering caseThe far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva.The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolsonaro, for attempting a coup. Continue reading...",
+      "summary_fa": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering caseThe far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva.The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolsonaro, for attempting a coup. Continue reading...",
+      "summary_en": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering caseThe far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva.The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolsonaro, for attempting a coup. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "source": "The Guardian",
+      "published_at": "Mon, 26 Oct 2026 23:02:17 GMT",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0de4d058b50f7c1ef96360807b8a7d704ff3313e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=5969f0d60c15699a3e9e3616e76012f9",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9b76a8030e982ca0adf95bc7ec78ea1f",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "title_fa": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "title_en": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "summary_fa": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "summary_en": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 22:50:07 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "074e136414e64001c5322c64acacd789",
+      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "title_fa": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "title_en": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "summary": "Tens of thousands of Israelis are returning home to vote in a tight election.",
+      "summary_fa": "Tens of thousands of Israelis are returning home to vote in a tight election.",
+      "summary_en": "Tens of thousands of Israelis are returning home to vote in a tight election.",
+      "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 22:46:35 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "84cf79f0331b7d4319316b039bfd7506",
+      "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "title_fa": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "title_en": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+      "summary": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
+      "summary_fa": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
+      "summary_en": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
+      "link": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 22:44:47 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F17543751-7c05-4fbd-9f74-d82eb11a175a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "314ee4c9e26e0febd4ef86c344ddd25d",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "title_fa": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "title_en": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "summary": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "summary_fa": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "summary_en": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 22:44:39 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "3b818f3813953b99f34d3dfcf70fefea",
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "title_fa": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "title_en": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "summary_fa": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "summary_en": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "Wired",
+      "published_at": "Mon, 26 Oct 2026 22:40:37 +0000",
+      "date_iso": "2026-10-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "73a5c1dbd059c605ec9bd159b17b4520",
       "title": "Trump says Brazil election looked 'rigged' without giving evidence",
       "title_fa": "Trump says Brazil election looked 'rigged' without giving evidence",
@@ -546862,6 +547366,195 @@
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "30f02a901b97bcde975b24a903626dbe",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "title_fa": "Microsoft offers to buy out a quarter of its workforce",
+      "title_en": "Microsoft offers to buy out a quarter of its workforce",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "summary_fa": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "summary_en": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "source": "Ars Technica",
+      "published_at": "Mon, 26 Oct 2026 22:36:06 +0000",
+      "date_iso": "2026-10-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "69ce3fcb36150deb6a0567ae0fe4042d",
+      "title": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
+      "title_fa": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
+      "title_en": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
+      "summary": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
+      "summary_fa": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
+      "summary_en": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
+      "link": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 22:30:06 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4935a04-46b0-4903-8259-0337a120d716.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "572a17ffe26b68eda82d37ab67fd1333",
+      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "title_fa": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "title_en": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+      "summary": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "summary_fa": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "summary_en": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+      "source": "NY Times",
+      "published_at": "Mon, 26 Oct 2026 22:22:41 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-france-students-1-bvfj/26int-france-students-1-bvfj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "d2446eeb8494537a0cd169570299dbb4",
+      "title": "Dividend stocks are having an excellent October as tech sector struggles",
+      "title_fa": "Dividend stocks are having an excellent October as tech sector struggles",
+      "title_en": "Dividend stocks are having an excellent October as tech sector struggles",
+      "summary": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+      "summary_fa": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+      "summary_en": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 26 Oct 2026 22:10:00 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-05706147",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4d8902f98b8bbb42218df218dcec8f8e",
+      "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "title_fa": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "title_en": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "summary": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+      "summary_fa": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+      "summary_en": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+      "link": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 22:09:35 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "686a6b885f3567f593fe9e9c6ef5d7a0",
+      "title": "Former FBI director James Comey hit with third set of charges under Trump",
+      "title_fa": "Former FBI director James Comey hit with third set of charges under Trump",
+      "title_en": "Former FBI director James Comey hit with third set of charges under Trump",
+      "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
+      "summary_fa": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
+      "summary_en": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 22:03:26 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ba063ba446e3648a1fda7c2d76938927",
+      "title": "Options traders are seizing control of the S&P 500",
+      "title_fa": "Options traders are seizing control of the S&P 500",
+      "title_en": "Options traders are seizing control of the S&P 500",
+      "summary": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+      "summary_fa": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+      "summary_en": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+      "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 26 Oct 2026 22:03:00 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-64453953",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9ed857b50e7ddcebc4c3314b70952095",
+      "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "title_fa": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "title_en": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+      "summary_fa": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+      "summary_en": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 26 Oct 2026 22:00:00 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-08834496",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "109e84ba9999ef621369c12847963226",
+      "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+      "title_fa": "Trump offers $1mn reward for tips leading to election fraud conviction",
+      "title_en": "Trump offers $1mn reward for tips leading to election fraud conviction",
+      "summary": "US president offers payout days before midterm vote that will shape balance of power in Congress",
+      "summary_fa": "US president offers payout days before midterm vote that will shape balance of power in Congress",
+      "summary_en": "US president offers payout days before midterm vote that will shape balance of power in Congress",
+      "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 21:50:06 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F09a9c0af-2144-4198-b6c2-cb75a071baf3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -546890,6 +547583,27 @@
       }
     },
     {
+      "id": "f073c437e085de1e20ea57a58c459e2e",
+      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "title_fa": "Africa food security under threat due to Iran war, trade officials warn",
+      "title_en": "Africa food security under threat due to Iran war, trade officials warn",
+      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+      "summary_fa": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+      "summary_en": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 26 Oct 2026 21:42:18 +0000",
+      "date_iso": "2026-10-27",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
       "id": "16920ab6a85a88c71b9f40cb14218049",
       "title": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
       "title_fa": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
@@ -546901,6 +547615,27 @@
       "source": "CNBC",
       "published_at": "Mon, 26 Oct 2026 21:41:26 GMT",
       "date_iso": "2026-10-26",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "608859030f558e8a9717acda0927f588",
+      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "title_fa": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "title_en": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "summary_fa": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "summary_en": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "source": "CNBC",
+      "published_at": "Mon, 26 Oct 2026 21:38:17 GMT",
+      "date_iso": "2026-10-27",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -547076,6 +547811,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4530efa5729520113815d5f0addd3d87",
+      "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+      "title_fa": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+      "title_en": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+      "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+      "summary_fa": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+      "summary_en": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+      "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 26 Oct 2026 21:13:00 GMT",
+      "date_iso": "2026-10-27",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ef419db-25d4-4f4b-b52a-15387c333ebd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
       }
     },
     {
@@ -749510,6 +750266,69 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1fa6a066bb7fbdabaeed40eb722dbbc0",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "title_fa": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+      "summary_fa": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+      "summary_en": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "published_at": "2026-10-26T19:34:58-04:00",
+      "date_iso": "2026-10-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "659b8c72154faadf5a46f07074e5246c",
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "title_fa": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "title_en": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]",
+      "summary_fa": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]",
+      "summary_en": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]",
+      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-26T17:56:36-04:00",
+      "date_iso": "2026-10-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7ab3ea506975ae47d1a4dc543c5e4c87",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "title_fa": "Anthropic is burning gas to feed the AI boom",
+      "title_en": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+      "summary_fa": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+      "summary_en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge",
+      "published_at": "2026-10-26T17:45:31-04:00",
+      "date_iso": "2026-10-27",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
