@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-28 23:14:14",
-  "total_count": 39537,
+  "last_update": "2026-10-29 02:30:14",
+  "total_count": 39562,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -18987,6 +18987,90 @@
       }
     },
     {
+      "id": "8729e7ee566bbc45dcaf8f91d89482d3",
+      "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "title_fa": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "title_en": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "summary_fa": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "summary_en": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 28 Oct 2026 23:43:06 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6fa4b9180d095533b431c6ee97ac4a4",
+      "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+      "title_fa": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+      "title_en": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+      "summary": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
+      "summary_fa": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
+      "summary_en": "For some wealthy Chinese, securing a foreign passport is becoming worth the ultimate trade-off: giving up their citizenship.",
+      "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+      "source": "CNBC",
+      "published_at": "Wed, 28 Oct 2026 23:38:00 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f875d84569a7ee9b5eb5c849dc4904fd",
+      "title": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+      "title_fa": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+      "title_en": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+      "summary": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on ending the war with Ukraine.",
+      "summary_fa": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on ending the war with Ukraine.",
+      "summary_en": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on ending the war with Ukraine.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
+      "source": "NY Times",
+      "published_at": "Wed, 28 Oct 2026 23:37:41 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/dc-russia-sanctions-jpht/dc-russia-sanctions-jpht-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "0401e2c67095ce58c5423beecfb7e86a",
+      "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "title_fa": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "title_en": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+      "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "summary_fa": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "summary_en": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 28 Oct 2026 23:18:00 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-54642161",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "f3bb447b853029cc403b63a51b6d416c",
       "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
       "title_fa": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
@@ -19824,6 +19908,27 @@
         "lat": 31.0461,
         "lng": 34.8516,
         "name": "فلسطین"
+      }
+    },
+    {
+      "id": "0b3b85285976c8952f5789f44deee744",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "title_fa": "Watch: King dances in the streets of the Bahamas capital",
+      "title_en": "Watch: King dances in the streets of the Bahamas capital",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "summary_fa": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "summary_en": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 28 Oct 2026 20:44:10 GMT",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f2/live/2647c7b0-d30d-11f1-a701-fddedf244c16.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -287719,6 +287824,384 @@
       "source": "Al Jazeera",
       "published_at": "Thu, 30 Jul 2026 00:00:00 +0000",
       "date_iso": "2026-07-30",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "c4e5a152643403eb26453ff3b1628aa7",
+      "title": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "title_fa": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "title_en": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "summary": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+      "summary_fa": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+      "summary_en": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "source": "NY Times",
+      "published_at": "Thu, 29 Oct 2026 02:15:19 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-vance-iran-hfbj/28dc-vance-iran-hfbj-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "1031f989f9ab225c583125cce29117d4",
+      "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "title_fa": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "title_en": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+      "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "summary_fa": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "summary_en": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+      "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "source": "CNBC",
+      "published_at": "Thu, 29 Oct 2026 02:14:14 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "3df1dc7c2722d0157efa6efa1d0b9237",
+      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "title_fa": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "title_en": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "summary": "Get our breaking news email, free app or daily news podcastGas reservation policy set for lower house vote todayAustralia’s domestic gas reservation is set to be debated and voted on in the lower house today.Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control.This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
+      "summary_fa": "Get our breaking news email, free app or daily news podcastGas reservation policy set for lower house vote todayAustralia’s domestic gas reservation is set to be debated and voted on in the lower house today.Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control.This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
+      "summary_en": "Get our breaking news email, free app or daily news podcastGas reservation policy set for lower house vote todayAustralia’s domestic gas reservation is set to be debated and voted on in the lower house today.Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control.This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Thu, 29 Oct 2026 02:13:06 GMT",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ad71578b038b0ab42d803f08e9b8040b19dbe096/1638_422_5023_4019/master/5023.jpg?width=140&quality=85&auto=format&fit=max&s=be450b8f8dce067a09a5299b32f8bb8c",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e8d789efe3630def7c854f3b85d72a4b",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "title_fa": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "title_en": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "summary_fa": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "summary_en": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "source": "CNBC",
+      "published_at": "Thu, 29 Oct 2026 02:06:04 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ff58eba46ac193ee790c2e11c948a0f8",
+      "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+      "title_fa": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+      "title_en": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+      "summary": "Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
+      "summary_fa": "Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
+      "summary_en": "Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 02:02:02 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f5fac9f008cf7a223addb841a6f631e5",
+      "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+      "title_fa": "Bolsonaro in Miami: I am the ‘true president-elect’",
+      "title_en": "Bolsonaro in Miami: I am the ‘true president-elect’",
+      "summary": "Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
+      "summary_fa": "Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
+      "summary_en": "Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 02:01:09 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62ac6aaa5cf58ac032d56b5bc64d515a",
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "title_fa": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "title_en": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "summary_fa": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "summary_en": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 29 Oct 2026 01:58:00 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-69922963",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a276e3bb3507b17409a4ef0795f314cd",
+      "title": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "title_fa": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "title_en": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+      "summary": "The fine – six times the average monthly salary – will apply to people present at violent protests, even if they don’t personally commit violent actsAlbania has introduced fines of more than $6,000 for demonstrators who participate in a protest that turns violent, even if they don’t personally commit violent acts, as the government tries to clamp down on the gatherings calling for the prime minister’s resignation.The capital, Tirana, has been racked by months of anti-government protests that in recent days have deteriorated into pitched battles between the security forces and protesters. Continue reading...",
+      "summary_fa": "The fine – six times the average monthly salary – will apply to people present at violent protests, even if they don’t personally commit violent actsAlbania has introduced fines of more than $6,000 for demonstrators who participate in a protest that turns violent, even if they don’t personally commit violent acts, as the government tries to clamp down on the gatherings calling for the prime minister’s resignation.The capital, Tirana, has been racked by months of anti-government protests that in recent days have deteriorated into pitched battles between the security forces and protesters. Continue reading...",
+      "summary_en": "The fine – six times the average monthly salary – will apply to people present at violent protests, even if they don’t personally commit violent actsAlbania has introduced fines of more than $6,000 for demonstrators who participate in a protest that turns violent, even if they don’t personally commit violent acts, as the government tries to clamp down on the gatherings calling for the prime minister’s resignation.The capital, Tirana, has been racked by months of anti-government protests that in recent days have deteriorated into pitched battles between the security forces and protesters. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+      "source": "The Guardian",
+      "published_at": "Thu, 29 Oct 2026 00:53:26 GMT",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/5622c452e5d436221fe0a979e343baef2df1e5c0/207_0_6187_4952/master/6187.jpg?width=140&quality=85&auto=format&fit=max&s=9748a7f05ed28c19199b6b9a06b45227",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "fe5a639dd495bf1b92ad6cd2a748fb98",
+      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "title_fa": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "title_en": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+      "summary_fa": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+      "summary_en": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 00:36:33 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "acbf6b5aca0ce46f1acbbe893411471f",
+      "title": "Israelis rally for Jewish-Arab government after election gains",
+      "title_fa": "Israelis rally for Jewish-Arab government after election gains",
+      "title_en": "Israelis rally for Jewish-Arab government after election gains",
+      "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+      "summary_fa": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+      "summary_en": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 00:34:24 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "06633e1ca363c01384bc534596d78c50",
+      "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "title_fa": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "title_en": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+      "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "summary_fa": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "summary_en": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "CNBC",
+      "published_at": "Thu, 29 Oct 2026 00:32:02 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "29d3208adb7cd218e2a86dcad8fc1d62",
+      "title": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+      "title_fa": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+      "title_en": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+      "summary": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+      "summary_fa": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+      "summary_en": "The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+      "source": "NY Times",
+      "published_at": "Thu, 29 Oct 2026 00:25:15 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-parties2-bmlf/28israel-arab-parties2-bmlf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "c84652323eecc773904b5af961256d77",
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "title_fa": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "title_en": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "summary_fa": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "summary_en": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "source": "CNBC",
+      "published_at": "Thu, 29 Oct 2026 00:16:39 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "da20403da31ecc4b93674593b5f520a7",
+      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "title_fa": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "title_en": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+      "summary_fa": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+      "summary_en": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+      "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "source": "CNBC",
+      "published_at": "Thu, 29 Oct 2026 00:11:14 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "a9cd9436e60656aaa2bf87c164509b90",
+      "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+      "title_fa": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+      "title_en": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+      "summary": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations.",
+      "summary_fa": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations.",
+      "summary_en": "Spain reels from the deadly Toledo high-speed train collision that killed 68 and injured more than 100, sparking grief, protests and calls for resignations.",
+      "link": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
+      "source": "EuroNews",
+      "published_at": "Thu, 29 Oct 2026 00:10:38 +0100",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "33459f98c5cafb6403d98b59f52ba179",
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "title_fa": "The major reason Microsoft’s stock is heading higher after earnings",
+      "title_en": "The major reason Microsoft’s stock is heading higher after earnings",
+      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "summary_fa": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "summary_en": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 29 Oct 2026 00:10:00 GMT",
+      "date_iso": "2026-10-29",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-99465391",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "029d5857fe5c6c576eb2a003c183f3c1",
+      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "title_fa": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "title_en": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "summary_fa": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "summary_en": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 00:01:07 +0000",
+      "date_iso": "2026-10-29",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "a870189216711cd2f7f70fdb144985ab",
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "title_fa": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "title_en": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "summary_fa": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "summary_en": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "date_iso": "2026-10-29",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -767682,6 +768165,27 @@
       }
     },
     {
+      "id": "9070fb087efb68b349317347b5ae6995",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "title_fa": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "title_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+      "summary_fa": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+      "summary_en": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "source": "The Verge",
+      "published_at": "2026-10-28T22:22:46-04:00",
+      "date_iso": "2026-10-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "696a7ab4b1a3c508357cf36c6f479957",
       "title": "The 4 biggest Amazon smart home announcements from today",
       "title_fa": "The 4 biggest Amazon smart home announcements from today",
@@ -767696,6 +768200,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f083714cb9f64d75ca710b62706c1c69",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "title_fa": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+      "summary_fa": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+      "summary_en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "source": "The Verge",
+      "published_at": "2026-10-28T19:05:39-04:00",
+      "date_iso": "2026-10-29",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
