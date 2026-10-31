@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-10-31 18:33:53",
-  "total_count": 40601,
+  "last_update": "2026-10-31 21:51:01",
+  "total_count": 40637,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -480950,6 +480950,594 @@
       }
     },
     {
+      "id": "83a878cff0f6b880b23cd1f4709d47be",
+      "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
+      "title_fa": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
+      "title_en": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories",
+      "summary": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
+      "summary_fa": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
+      "summary_en": "Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.",
+      "link": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+      "source": "NY Times",
+      "published_at": "Sat, 31 Oct 2026 21:43:34 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-ukraine-oleshky-zcvf/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "e1608381631f3409b30acf2c7c49fc32",
+      "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
+      "title_fa": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
+      "title_en": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
+      "summary": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
+      "summary_fa": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
+      "summary_en": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+      "source": "NY Times",
+      "published_at": "Sat, 31 Oct 2026 21:40:07 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7f0156c9f46d28dd34e5aa07b1e55bb1",
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "title_fa": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "title_en": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+      "summary_fa": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+      "summary_en": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:38:54 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "870f57e88a8bb749aec9a76789540777",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "title_fa": "Thousands demonstrate in Paris as protests spread across Europe",
+      "title_en": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "summary_fa": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "summary_en": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 31 Oct 2026 21:29:01 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3a/live/6230e120-d570-11f1-93e1-3b657b665bcf.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "e8069d2268e08b9f1d86dac1a51b4e45",
+      "title": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
+      "title_fa": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
+      "title_en": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
+      "summary": "Tusk addressed the nation as tensions over Poland’s Constitutional Tribunal escalated, accusing PiS and President Nawrocki of undermining the rule of law and pledging support for the newly elected judges and the court’s work.",
+      "summary_fa": "Tusk addressed the nation as tensions over Poland’s Constitutional Tribunal escalated, accusing PiS and President Nawrocki of undermining the rule of law and pledging support for the newly elected judges and the court’s work.",
+      "summary_en": "Tusk addressed the nation as tensions over Poland’s Constitutional Tribunal escalated, accusing PiS and President Nawrocki of undermining the rule of law and pledging support for the newly elected judges and the court’s work.",
+      "link": "https://www.euronews.com/2026/10/31/poland-crisis-donald-tusk-strikes-defiant-tone-vowing-no-compromise-on-rule-of-law-after-t",
+      "source": "EuroNews",
+      "published_at": "Sat, 31 Oct 2026 21:14:46 +0100",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b2f8c0bb5d0a241ac450c26e41b2f1c6",
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "title_fa": "Fiery confrontations between protestors and police in Albania",
+      "title_en": "Fiery confrontations between protestors and police in Albania",
+      "summary": "Fiery confrontations between protestors and police in Albania",
+      "summary_fa": "Fiery confrontations between protestors and police in Albania",
+      "summary_en": "Fiery confrontations between protestors and police in Albania",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:12:46 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "84d44c51bba6f505b7282bd8e93310c3",
+      "title": "Abu Dhabi Grand Slam 2026: Heavyweights deliver a spectacular finale",
+      "title_fa": "Abu Dhabi Grand Slam 2026: Heavyweights deliver a spectacular finale",
+      "title_en": "Abu Dhabi Grand Slam 2026: Heavyweights deliver a spectacular finale",
+      "summary": "The Abu Dhabi Grand Slam concluded with thrilling heavyweight action! Ivaylo Ivanov, Yelyzaveta Lytvynenko, Idar Bifov, Helena Vukovic and Irakli Demetrashvili claimed gold, while judo legend Teddy Riner joined the celebrations.",
+      "summary_fa": "The Abu Dhabi Grand Slam concluded with thrilling heavyweight action! Ivaylo Ivanov, Yelyzaveta Lytvynenko, Idar Bifov, Helena Vukovic and Irakli Demetrashvili claimed gold, while judo legend Teddy Riner joined the celebrations.",
+      "summary_en": "The Abu Dhabi Grand Slam concluded with thrilling heavyweight action! Ivaylo Ivanov, Yelyzaveta Lytvynenko, Idar Bifov, Helena Vukovic and Irakli Demetrashvili claimed gold, while judo legend Teddy Riner joined the celebrations.",
+      "link": "https://www.euronews.com/2026/10/31/abu-dhabi-grand-slam-2026-heavyweights-deliver-a-spectacular-finale",
+      "source": "EuroNews",
+      "published_at": "Sat, 31 Oct 2026 21:08:28 +0100",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "58b0b600dd49b6dc78e6c863b4143a16",
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "title_fa": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "title_en": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+      "summary_fa": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+      "summary_en": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+      "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "source": "CNBC",
+      "published_at": "Sat, 31 Oct 2026 21:05:53 GMT",
+      "date_iso": "2026-10-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "25d9203b60082576c8984038bff6ffc2",
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "title_fa": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "title_en": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+      "summary_fa": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+      "summary_en": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 21:01:19 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "92b020340f0c034a35456a2ccae3c1ad",
+      "title": "Hundreds of Thousands Join Another Round of Protests in France",
+      "title_fa": "Hundreds of Thousands Join Another Round of Protests in France",
+      "title_en": "Hundreds of Thousands Join Another Round of Protests in France",
+      "summary": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+      "summary_fa": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+      "summary_en": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+      "source": "NY Times",
+      "published_at": "Sat, 31 Oct 2026 21:00:38 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "f696067eac3afc0b3627104f38aded22",
+      "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "title_fa": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "title_en": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "summary": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+      "summary_fa": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+      "summary_en": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:30:35 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9378d18c39850eb97c25e574fab9961d",
+      "title": "Israel’s allegations of Qatari election interference rejected",
+      "title_fa": "Israel’s allegations of Qatari election interference rejected",
+      "title_en": "Israel’s allegations of Qatari election interference rejected",
+      "summary": "Israel’s allegations of Qatari election interference rejected",
+      "summary_fa": "Israel’s allegations of Qatari election interference rejected",
+      "summary_en": "Israel’s allegations of Qatari election interference rejected",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:24:58 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "b142267f6490ce873e4cef818c7b36f8",
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "title_fa": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "title_en": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "summary_fa": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "summary_en": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "CNBC",
+      "published_at": "Sat, 31 Oct 2026 20:12:37 GMT",
+      "date_iso": "2026-10-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d74e388dee2cb36d863ba398f5b93aaa",
+      "title": "What is ranked-choice voting and how does it work in US elections?",
+      "title_fa": "What is ranked-choice voting and how does it work in US elections?",
+      "title_en": "What is ranked-choice voting and how does it work in US elections?",
+      "summary": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
+      "summary_fa": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
+      "summary_en": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:11:37 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "245bfa027d55013a1fbeeb7a092d3094",
+      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "title_fa": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "title_en": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "summary": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "summary_fa": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "summary_en": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 20:09:18 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "fe58880c1e205e08fe3004413724e833",
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "title_fa": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "title_en": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "summary_fa": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "summary_en": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "source": "CNBC",
+      "published_at": "Sat, 31 Oct 2026 19:56:23 GMT",
+      "date_iso": "2026-10-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d09cdf201b790cf02923effeef6c2e6c",
+      "title": "Berlin student protests: youth demands meet extremist mobilisation",
+      "title_fa": "Berlin student protests: youth demands meet extremist mobilisation",
+      "title_en": "Berlin student protests: youth demands meet extremist mobilisation",
+      "summary": "According to police, around 5,000 people joined a demonstration by the initiative \"Gen Z regelt\" at Berlin’s Brandenburg Gate. In the afternoon, organisers claimed some 11,000 participants had taken part.",
+      "summary_fa": "According to police, around 5,000 people joined a demonstration by the initiative \"Gen Z regelt\" at Berlin’s Brandenburg Gate. In the afternoon, organisers claimed some 11,000 participants had taken part.",
+      "summary_en": "According to police, around 5,000 people joined a demonstration by the initiative \"Gen Z regelt\" at Berlin’s Brandenburg Gate. In the afternoon, organisers claimed some 11,000 participants had taken part.",
+      "link": "https://www.euronews.com/2026/10/31/berlin-student-protests-youth-demands-meet-extremist-mobilisation",
+      "source": "EuroNews",
+      "published_at": "Sat, 31 Oct 2026 19:53:30 +0100",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b751657cfa8faa4799eb52bfabefce9e",
+      "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "title_fa": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "title_en": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "summary_fa": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "summary_en": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 31 Oct 2026 19:30:00 GMT",
+      "date_iso": "2026-10-31",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-21005604",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fbc5cc07562c50452941aa2abfa5c710",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "title_fa": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "title_en": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "summary_fa": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "summary_en": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 31 Oct 2026 19:22:26 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "bd46b20858a4b7d61872df336b41108e",
+      "title": "How vulnerable are cryptocurrency platforms?",
+      "title_fa": "How vulnerable are cryptocurrency platforms?",
+      "title_en": "How vulnerable are cryptocurrency platforms?",
+      "summary": "Hackers have targeted Binance, the world’s largest exchange.",
+      "summary_fa": "Hackers have targeted Binance, the world’s largest exchange.",
+      "summary_en": "Hackers have targeted Binance, the world’s largest exchange.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 19:19:29 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "edb94fe7ffbeea7109ce92f3a8e2c7b0",
+      "title": "Palestinians ‘Stealing their own olives’",
+      "title_fa": "Palestinians ‘Stealing their own olives’",
+      "title_en": "Palestinians ‘Stealing their own olives’",
+      "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+      "summary_fa": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+      "summary_en": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 19:18:32 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "4948b89c8b7ab62ba5229e0c14ff1800",
+      "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "title_fa": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "title_en": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce since Russia’s full-scale invasion of Ukraine four and a half years ago. Continue reading...",
+      "summary_fa": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce since Russia’s full-scale invasion of Ukraine four and a half years ago. Continue reading...",
+      "summary_en": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce since Russia’s full-scale invasion of Ukraine four and a half years ago. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "source": "The Guardian",
+      "published_at": "Sat, 31 Oct 2026 19:17:22 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/d01eca2e3bd5425fbe339ec6bf3d96bf17aa6ec0/622_0_6959_5567/master/6959.jpg?width=140&quality=85&auto=format&fit=max&s=34c3a159dd53d931dd197179281141dd",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "07b1beb377b1547fb89b8e00f168da7f",
+      "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "title_fa": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "title_en": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...",
+      "summary_fa": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...",
+      "summary_en": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "source": "The Guardian",
+      "published_at": "Sat, 31 Oct 2026 19:00:52 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=f774176952b35a2f6f87a9e3e6fa6a60",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0c494789a58f02d7f07de9b11ac9978f",
+      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "title_fa": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "title_en": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+      "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+      "summary_fa": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+      "summary_en": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 18:50:25 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5d7150878316f20dd5d295fe484ee43c",
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "title_fa": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "title_en": "London police arrest 139 as hundreds protest Palestine Action ban",
+      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+      "summary_fa": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+      "summary_en": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 18:48:29 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "لندن"
+      }
+    },
+    {
+      "id": "9be70e6abde16ea1a3dadd767669838d",
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "title_fa": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "title_en": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+      "summary_fa": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+      "summary_en": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 18:32:20 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "37153eb4831dc25c6fa254d36974d9e9",
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "title_fa": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "title_en": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in finesFull report: Police clash with masked rioters after largely peaceful protests across FranceProtesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon.Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday. Continue reading...",
+      "summary_fa": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in finesFull report: Police clash with masked rioters after largely peaceful protests across FranceProtesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon.Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday. Continue reading...",
+      "summary_en": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in finesFull report: Police clash with masked rioters after largely peaceful protests across FranceProtesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon.Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday. Continue reading...",
+      "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published_at": "Sat, 31 Oct 2026 18:31:38 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/44bb99bd91da42dacd8498932568e88c7f5b702a/838_171_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=665eae78c3f02e83de454c28893308c3",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "8601c791d99c31d7a66580295e4eecb4",
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "title_fa": "Tension and clashes as hundreds of thousands protest again in France",
+      "title_en": "Tension and clashes as hundreds of thousands protest again in France",
+      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+      "summary_fa": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+      "summary_en": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 18:28:14 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
       "id": "b6b2963a201b88394fc93eacbedb7a66",
       "title": "Police clash with masked rioters after largely peaceful protests across France",
       "title_fa": "Police clash with masked rioters after largely peaceful protests across France",
@@ -481391,6 +481979,27 @@
       }
     },
     {
+      "id": "cb40abc29c1eaee1e269e02624d667d5",
+      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "title_fa": "Emotional reunions with loved ones for Oleshky evacuees",
+      "title_en": "Emotional reunions with loved ones for Oleshky evacuees",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+      "summary_fa": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+      "summary_en": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 31 Oct 2026 16:55:47 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f47/live/8e8b6090-d568-11f1-910b-9bd7c745c627.jpg",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
       "id": "80780dd33b3552d9107c3c167618ccee",
       "title": "80% of workers make this 401(k)  mistake when they retire",
       "title_fa": "80% of workers make this 401(k)  mistake when they retire",
@@ -481458,6 +482067,27 @@
       "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
       "title_fa": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
       "title_en": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+      "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
+      "summary_fa": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
+      "summary_en": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 31 Oct 2026 16:28:04 +0000",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "9b834a441389c989ab133246aac85597",
+      "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
+      "title_fa": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
+      "title_en": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
       "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
       "summary_fa": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
       "summary_en": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
@@ -484748,6 +485378,48 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "name": "آمریکا"
+      }
+    },
+    {
+      "id": "25f152052591643da1f5eda826388eb1",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "title_fa": "The Indian chef who brought curry to America - then vanished",
+      "title_en": "The Indian chef who brought curry to America - then vanished",
+      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "summary_fa": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "summary_en": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 31 Oct 2026 02:02:16 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/8bcbfe20-acc6-11f1-997d-cbb0a29e3293.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4c8d3ed4981ef6ead822b9228fdd843f",
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "title_fa": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "title_en": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "summary_fa": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "summary_en": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 31 Oct 2026 01:32:33 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce2/live/961bb030-d482-11f1-b441-2b33b063138f.png",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
       }
     },
     {
@@ -671838,6 +672510,27 @@
       }
     },
     {
+      "id": "16b72a77eab949aa6e1d5a67816582a1",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "title_fa": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "title_en": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "summary_fa": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "summary_en": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 30 Oct 2026 23:26:16 GMT",
+      "date_iso": "2026-10-31",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c703a4b59332ed03ea7b42bfaacc4169",
       "title": "Polish police deployed to top court after head judge suspended",
       "title_fa": "Polish police deployed to top court after head judge suspended",
@@ -788511,6 +789204,69 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "5686536e4cbe336421dc95f5dfb2b5eb",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "title_fa": "Get in the spirit with these horrors from YouTube",
+      "title_en": "Get in the spirit with these horrors from YouTube",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "summary_fa": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "summary_en": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "source": "The Verge",
+      "published_at": "2026-10-31T17:06:58-04:00",
+      "date_iso": "2026-10-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e1cfc22a15139e2a74f2b9caf926ff1c",
+      "title": "Keyboards of The Verge",
+      "title_fa": "Keyboards of The Verge",
+      "title_en": "Keyboards of The Verge",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "summary_fa": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "summary_en": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]",
+      "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "source": "The Verge",
+      "published_at": "2026-10-31T15:30:00-04:00",
+      "date_iso": "2026-10-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d8c3e56c2c9695b2431a64f5e3c50b35",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "title_fa": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "title_en": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+      "summary_fa": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+      "summary_en": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "source": "The Verge",
+      "published_at": "2026-10-31T14:40:32-04:00",
+      "date_iso": "2026-10-31",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
