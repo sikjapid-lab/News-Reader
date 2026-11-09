@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-08 23:57:39",
-  "total_count": 43348,
+  "last_update": "2026-11-09 05:59:25",
+  "total_count": 43395,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -490295,6 +490295,48 @@
       }
     },
     {
+      "id": "8c626fb3c999ed1378caf4388314b091",
+      "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "title_fa": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "title_en": "Nvidia CEO’s affair sparks Chinese espionage probe",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+      "summary_fa": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+      "summary_en": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 23:58:53 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "5dee5a7603c066ee89c4a84bcbf949ec",
+      "title": "Mexican mayor found alive after hours-long abduction",
+      "title_fa": "Mexican mayor found alive after hours-long abduction",
+      "title_en": "Mexican mayor found alive after hours-long abduction",
+      "summary": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+      "summary_fa": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+      "summary_en": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 23:55:37 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "c0f0c829cfeed42531bf19eae4db0fc4",
       "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
       "title_fa": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
@@ -490589,6 +490631,27 @@
       }
     },
     {
+      "id": "8c739cd9aee885040a41b35b272f2c33",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "title_fa": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "title_en": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "summary_fa": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "summary_en": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 08 Nov 2026 22:05:12 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ed3a5ea152e57308894002054ed33998",
       "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
       "title_fa": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
@@ -490621,6 +490684,27 @@
       "source": "Al Jazeera",
       "published_at": "Sun, 08 Nov 2026 22:03:54 +0000",
       "date_iso": "2026-11-08",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b3c1667291280b5a3e34cd2ad435ef63",
+      "title": "Why Trump joked about having Dana White as his White House press secretary",
+      "title_fa": "Why Trump joked about having Dana White as his White House press secretary",
+      "title_en": "Why Trump joked about having Dana White as his White House press secretary",
+      "summary": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "summary_fa": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "summary_en": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 08 Nov 2026 22:03:54 +0000",
+      "date_iso": "2026-11-09",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -490757,6 +490841,27 @@
       }
     },
     {
+      "id": "ef9ebc975385fe0420c026cdbf79ffaa",
+      "title": "A little-known protein could be a major culprit in type 2 diabetes",
+      "title_fa": "A little-known protein could be a major culprit in type 2 diabetes",
+      "title_en": "A little-known protein could be a major culprit in type 2 diabetes",
+      "summary": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise was also found to lower Miro1 levels in people with diabetes, revealing a potential new pathway for treating the disease.",
+      "summary_fa": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise was also found to lower Miro1 levels in people with diabetes, revealing a potential new pathway for treating the disease.",
+      "summary_en": "Scientists have discovered that a buildup of a protein called Miro1 may be a hidden driver of insulin resistance in Type 2 diabetes, with preclinical experiments showing that removing it restores the muscles’ response to insulin. Exercise was also found to lower Miro1 levels in people with diabetes, revealing a potential new pathway for treating the disease.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174543.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 20:44:53 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "6399a7bfcbe263467b91b172dc0f80ac",
       "title": "Why Winning Big Matters",
       "title_fa": "Why Winning Big Matters",
@@ -490812,6 +490917,27 @@
       "date_iso": "2026-11-08",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "16e72babfb71d9cbdb85e72107f5eeae",
+      "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "title_fa": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "title_en": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+      "summary": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as much carbon to the depths, revealing an unexpected connection between ocean slime and Earth's climate.",
+      "summary_fa": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as much carbon to the depths, revealing an unexpected connection between ocean slime and Earth's climate.",
+      "summary_en": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as much carbon to the depths, revealing an unexpected connection between ocean slime and Earth's climate.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 20:14:33 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -490967,6 +491093,27 @@
       }
     },
     {
+      "id": "b834d1bb9bc730508e6cc220e0bd103a",
+      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "title_fa": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "title_en": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "summary": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centimeters long and was found in just three small forest pools. Its extremely limited habitat is threatened by mining, deforestation, pollution, and expanding development.",
+      "summary_fa": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centimeters long and was found in just three small forest pools. Its extremely limited habitat is threatened by mining, deforestation, pollution, and expanding development.",
+      "summary_en": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centimeters long and was found in just three small forest pools. Its extremely limited habitat is threatened by mining, deforestation, pollution, and expanding development.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 18:56:14 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "ca945717a89da00b104f49b69f36d48e",
       "title": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
       "title_fa": "Overcrowded car plunges into lake in Brazil, killing ten, including five children",
@@ -491002,6 +491149,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-spiders-04-wvlf/08xp-spiders-04-wvlf-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "476b96b349d17c2a5a1ff9296a73d8b4",
+      "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "title_fa": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "title_en": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+      "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely eliminated diffuse midline glioma (DMG), an aggressive childhood brain cancer that is almost always fatal within a year, in two mouse models.",
+      "summary_fa": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely eliminated diffuse midline glioma (DMG), an aggressive childhood brain cancer that is almost always fatal within a year, in two mouse models.",
+      "summary_en": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC CAR-T cells, completely eliminated diffuse midline glioma (DMG), an aggressive childhood brain cancer that is almost always fatal within a year, in two mouse models.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 18:24:50 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -491219,6 +491387,27 @@
       }
     },
     {
+      "id": "1a034e46ab5c825b48b3a8067a955a83",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "title_fa": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "title_en": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
+      "summary_fa": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
+      "summary_en": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 17:45:01 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "b5e9060a6186cae5abb2e603d864b565",
       "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
       "title_fa": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
@@ -491274,6 +491463,27 @@
       "date_iso": "2026-11-08",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb4a94ea0a8f2ac72029dcdd9d221e7b",
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "title_fa": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "title_en": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection,\" in which structures within gravitational fields can break apart and reconnect, transferring energy into matter.",
+      "summary_fa": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection,\" in which structures within gravitational fields can break apart and reconnect, transferring energy into matter.",
+      "summary_en": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection,\" in which structures within gravitational fields can break apart and reconnect, transferring energy into matter.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "source": "Science Daily",
+      "published_at": "Sun, 08 Nov 2026 17:14:42 EST",
+      "date_iso": "2026-11-09",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -679815,6 +680025,783 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "b7836c8ef5f708d0c08cfb543cf2948e",
+      "title": "Netflix boss says creativity and regulation 'are not happy bedfellows' in Europe",
+      "title_fa": "Netflix boss says creativity and regulation 'are not happy bedfellows' in Europe",
+      "title_en": "Netflix boss says creativity and regulation 'are not happy bedfellows' in Europe",
+      "summary": "Netflix’s EMEA revenue grew 11% year on year in Q3 2026, but sustaining that growth will depend on preserving creative freedom across Europe.",
+      "summary_fa": "Netflix’s EMEA revenue grew 11% year on year in Q3 2026, but sustaining that growth will depend on preserving creative freedom across Europe.",
+      "summary_en": "Netflix’s EMEA revenue grew 11% year on year in Q3 2026, but sustaining that growth will depend on preserving creative freedom across Europe.",
+      "link": "https://www.euronews.com/2026/11/09/netflix-boss-says-creativity-and-regulation-are-not-happy-bedfellows-when-in-europe",
+      "source": "EuroNews",
+      "published_at": "Mon, 09 Nov 2026 06:35:16 +0100",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "13961af26be01be8e07ad4b678aec6ee",
+      "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+      "title_fa": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+      "title_en": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+      "summary": "Jensen Huang, CEO of US tech giant Nvidia, is being investigated by the company's board after reports that Huang was the “target of a foreign intelligence effort.” The probe follows Huang admitting to having been intimate with a business executive who, according to the US, is a Beijing informant.",
+      "summary_fa": "Jensen Huang, CEO of US tech giant Nvidia, is being investigated by the company's board after reports that Huang was the “target of a foreign intelligence effort.” The probe follows Huang admitting to having been intimate with a business executive who, according to the US, is a Beijing informant.",
+      "summary_en": "Jensen Huang, CEO of US tech giant Nvidia, is being investigated by the company's board after reports that Huang was the “target of a foreign intelligence effort.” The probe follows Huang admitting to having been intimate with a business executive who, according to the US, is a Beijing informant.",
+      "link": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged",
+      "source": "EuroNews",
+      "published_at": "Mon, 09 Nov 2026 05:39:48 +0100",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "پکن"
+      }
+    },
+    {
+      "id": "998d941ba30636739400efd6375f4c7e",
+      "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+      "title_fa": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+      "title_en": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+      "summary": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+      "summary_fa": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+      "summary_en": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 05:20:08 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "246dd238cbb4a45e17372504f545cfdb",
+      "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "title_fa": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "title_en": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "summary": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+      "summary_fa": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+      "summary_en": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+      "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 05:18:39 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "a802006b448f5bb60d24480e4f187e95",
+      "title": "China’s producer prices hit four-year high",
+      "title_fa": "China’s producer prices hit four-year high",
+      "title_en": "China’s producer prices hit four-year high",
+      "summary": "Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs",
+      "summary_fa": "Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs",
+      "summary_en": "Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs",
+      "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:09:46 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0957b3ee-4653-482e-b1c1-3c59f110fc7d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "f3cab651bc21d04aaa6512b3f191daaa",
+      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "title_fa": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "title_en": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "summary": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+      "summary_fa": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+      "summary_en": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 05:02:19 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1a848473041f82e4635620214f0179ae",
+      "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+      "title_fa": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+      "title_en": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+      "summary": "White is a close friend of Trump and has endorsed him for president, but has never held a government position.",
+      "summary_fa": "White is a close friend of Trump and has endorsed him for president, but has never held a government position.",
+      "summary_en": "White is a close friend of Trump and has endorsed him for president, but has never held a government position.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 05:02:16 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1c32e9ae71cf4998bd48838b6ce68387",
+      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "title_fa": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "title_en": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "summary": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "summary_fa": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "summary_en": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+      "source": "NY Times",
+      "published_at": "Mon, 09 Nov 2026 05:01:06 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-Germany-Merkel-qthv/00int-Germany-Merkel-qthv-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "60ee71d7af858f380b878e1f48a20594",
+      "title": "Democrat triumph offers China ‘window to catch up’ on AI",
+      "title_fa": "Democrat triumph offers China ‘window to catch up’ on AI",
+      "title_en": "Democrat triumph offers China ‘window to catch up’ on AI",
+      "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
+      "summary_fa": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
+      "summary_en": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
+      "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:00:48 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd98c41b8-4387-498a-ad4b-d877fd846266.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "0eac294fe6da75c4434d0c33b8b60ca5",
+      "title": "UK faces China expertise crunch after exodus of senior diplomats",
+      "title_fa": "UK faces China expertise crunch after exodus of senior diplomats",
+      "title_en": "UK faces China expertise crunch after exodus of senior diplomats",
+      "summary": "Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval",
+      "summary_fa": "Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval",
+      "summary_en": "Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval",
+      "link": "https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:00:34 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F499f3652-8920-4c3b-9106-beac45cf172c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "8896ef441c9d6271f080248bfe507d9d",
+      "title": "What markets want from the Democrats",
+      "title_fa": "What markets want from the Democrats",
+      "title_en": "What markets want from the Democrats",
+      "summary": "Four policy priorities for the party to safeguard growth and sustain investor confidence",
+      "summary_fa": "Four policy priorities for the party to safeguard growth and sustain investor confidence",
+      "summary_en": "Four policy priorities for the party to safeguard growth and sustain investor confidence",
+      "link": "https://www.ft.com/content/6a69328b-3acb-4a74-a909-92249ad959e4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:00:26 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a639980-ecfd-465a-a3dc-8224dbd784ed.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3bcfa2cf6855afcd565f73477f1f3614",
+      "title": "Tech’s teetering towers",
+      "title_fa": "Tech’s teetering towers",
+      "title_en": "Tech’s teetering towers",
+      "summary": "The AI race is defined by vertical integration. Will it withstand a storm?",
+      "summary_fa": "The AI race is defined by vertical integration. Will it withstand a storm?",
+      "summary_en": "The AI race is defined by vertical integration. Will it withstand a storm?",
+      "link": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:00:25 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0288b74-a606-4224-abf9-d4238c4909f5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17e329e7a8177c7b9f57a1ac72bfac2f",
+      "title": "The great British corporate sell-off",
+      "title_fa": "The great British corporate sell-off",
+      "title_en": "The great British corporate sell-off",
+      "summary": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
+      "summary_fa": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
+      "summary_en": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
+      "link": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 05:00:08 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F01922e93-37f9-473d-9993-e555d0df7036.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d4b7a728e1434ed62eeab5e2088a4171",
+      "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "title_fa": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "title_en": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+      "summary": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%Get our daily political email, free app or daily news podcastVictorian Labor MPs are both sceptical and seriously concerned about a new poll ahead of the state election showing the party trailing third behind One Nation, with its primary vote at an all-time low of just 18%.The DemosAU/PremierNational, first published by the Herald Sun on Monday, showed Labor’s primary vote share has crashed seven points to 18%, putting it in third place behind the Coalition’s 33% and One Nation’s 21%. At the same time, the Greens improved their primary vote to 17%, an increase of three points since September. Continue reading...",
+      "summary_fa": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%Get our daily political email, free app or daily news podcastVictorian Labor MPs are both sceptical and seriously concerned about a new poll ahead of the state election showing the party trailing third behind One Nation, with its primary vote at an all-time low of just 18%.The DemosAU/PremierNational, first published by the Herald Sun on Monday, showed Labor’s primary vote share has crashed seven points to 18%, putting it in third place behind the Coalition’s 33% and One Nation’s 21%. At the same time, the Greens improved their primary vote to 17%, an increase of three points since September. Continue reading...",
+      "summary_en": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33%Get our daily political email, free app or daily news podcastVictorian Labor MPs are both sceptical and seriously concerned about a new poll ahead of the state election showing the party trailing third behind One Nation, with its primary vote at an all-time low of just 18%.The DemosAU/PremierNational, first published by the Herald Sun on Monday, showed Labor’s primary vote share has crashed seven points to 18%, putting it in third place behind the Coalition’s 33% and One Nation’s 21%. At the same time, the Greens improved their primary vote to 17%, an increase of three points since September. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 04:55:15 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=140&quality=85&auto=format&fit=max&s=be6e9c00cd74f32ee0ea1ed5b842f2d1",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49b88529b1e2a207b4904d370f05ba9d",
+      "title": "Asian stocks rebound after AI rout",
+      "title_fa": "Asian stocks rebound after AI rout",
+      "title_en": "Asian stocks rebound after AI rout",
+      "summary": "Declines last week had pushed many indices into bear market territory",
+      "summary_fa": "Declines last week had pushed many indices into bear market territory",
+      "summary_en": "Declines last week had pushed many indices into bear market territory",
+      "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 04:54:20 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbf18af7-8a0f-409c-baa7-1e43314001ee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c5fa72ab62101fb4fd027044444b079b",
+      "title": "Pope tells Argentina’s Milei leaders should know limits of power",
+      "title_fa": "Pope tells Argentina’s Milei leaders should know limits of power",
+      "title_en": "Pope tells Argentina’s Milei leaders should know limits of power",
+      "summary": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
+      "summary_fa": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
+      "summary_en": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 04:52:34 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9d5a7063b4a45f54b2fa74cef1e7b307",
+      "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+      "title_fa": "New Delhi blanketed in toxic smog after Diwali fireworks",
+      "title_en": "New Delhi blanketed in toxic smog after Diwali fireworks",
+      "summary": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+      "summary_fa": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+      "summary_en": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 04:35:34 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9ae164d6381768cc6a289d4a6bce2c09",
+      "title": "Asian stock markets climb after earlier tech rout",
+      "title_fa": "Asian stock markets climb after earlier tech rout",
+      "title_en": "Asian stock markets climb after earlier tech rout",
+      "summary": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
+      "summary_fa": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
+      "summary_en": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
+      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 04:03:02 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5343e7d1c49fdd99865de9cef2ba41cc",
+      "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "title_fa": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "title_en": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "summary": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+      "summary_fa": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+      "summary_en": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 04:02:18 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "b6760deab173e705be3cbf296b8259d2",
+      "title": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
+      "title_fa": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
+      "title_en": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
+      "summary": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA food delivery rider’s alleged murderer has pulled down his pants and exposed himself as he appeared in court.Roberto Urbano, 51, appeared in Melbourne magistrates court via video link on Monday after being charged with murder and intentionally causing serious injury. Continue reading...",
+      "summary_fa": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA food delivery rider’s alleged murderer has pulled down his pants and exposed himself as he appeared in court.Roberto Urbano, 51, appeared in Melbourne magistrates court via video link on Monday after being charged with murder and intentionally causing serious injury. Continue reading...",
+      "summary_en": "Roberto Urbano, 51, appears in court via video link after death of 47-year-old Feng Jianming in the CBD on Friday nightGet our breaking news email, free app or daily news podcastA food delivery rider’s alleged murderer has pulled down his pants and exposed himself as he appeared in court.Roberto Urbano, 51, appeared in Melbourne magistrates court via video link on Monday after being charged with murder and intentionally causing serious injury. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 03:47:21 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4954ad8d5503c8161345548e255e4fdf2719dd1d/585_40_1083_867/master/1083.jpg?width=140&quality=85&auto=format&fit=max&s=5ec33b002d331556a841dce611707272",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e64ddf7c38c17b27f62dcaf99cd9c67e",
+      "title": "Mexico arrests alleged major leader of Jalisco cartel",
+      "title_fa": "Mexico arrests alleged major leader of Jalisco cartel",
+      "title_en": "Mexico arrests alleged major leader of Jalisco cartel",
+      "summary": "Rafael Alvarez, alias 'R2', was captured with intelligence shared by the ⁠US Drug Enforcement Administration.",
+      "summary_fa": "Rafael Alvarez, alias 'R2', was captured with intelligence shared by the ⁠US Drug Enforcement Administration.",
+      "summary_en": "Rafael Alvarez, alias 'R2', was captured with intelligence shared by the ⁠US Drug Enforcement Administration.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 03:42:57 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "49235ac9c5d807958a721eb7da01c7d9",
+      "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+      "title_fa": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+      "title_en": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+      "summary": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticketGet our breaking news email, free app or daily news podcastThe New South Wales premier and the Australian Human Rights Commission have criticised comments by the man who heads One Nation’s upper house ticket in NSW after he said Australians faced demographic replacement unless “mass migration” was curtailed.Chris Minns described Stuart Bonds’ comments as “frankly outrageous and racist”. Continue reading...",
+      "summary_fa": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticketGet our breaking news email, free app or daily news podcastThe New South Wales premier and the Australian Human Rights Commission have criticised comments by the man who heads One Nation’s upper house ticket in NSW after he said Australians faced demographic replacement unless “mass migration” was curtailed.Chris Minns described Stuart Bonds’ comments as “frankly outrageous and racist”. Continue reading...",
+      "summary_en": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticketGet our breaking news email, free app or daily news podcastThe New South Wales premier and the Australian Human Rights Commission have criticised comments by the man who heads One Nation’s upper house ticket in NSW after he said Australians faced demographic replacement unless “mass migration” was curtailed.Chris Minns described Stuart Bonds’ comments as “frankly outrageous and racist”. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 03:33:14 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/39f09dedf1330fa12ee7faa964b23d239dcb80af/375_0_6309_5051/master/6309.jpg?width=140&quality=85&auto=format&fit=max&s=c60578f8c92047cb0bee9b7f85ead937",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8c81c307a900bed0ee019da6eb622666",
+      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "title_fa": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "title_en": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "summary": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
+      "summary_fa": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
+      "summary_en": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 03:26:21 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "78be9f4ac731d96a43286dac08374232",
+      "title": "South Africa’s ANC suffers worst-ever local elections result",
+      "title_fa": "South Africa’s ANC suffers worst-ever local elections result",
+      "title_en": "South Africa’s ANC suffers worst-ever local elections result",
+      "summary": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
+      "summary_fa": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
+      "summary_en": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 03:09:51 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ce91ba85a8663a2cbb1405edcfc448a1",
+      "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
+      "title_fa": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
+      "title_en": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
+      "summary": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+      "summary_fa": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+      "summary_en": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+      "link": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 09 Nov 2026 02:54:00 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b038d19-3efa-4f21-a22e-c399bf73479d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "6af9e446a41d8e9063a067d6354a51b4",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "title_fa": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "title_en": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "summary_fa": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "summary_en": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "895cffce36de680acd52bb4f671ed4db",
+      "title": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "title_fa": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "title_en": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "summary": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+      "summary_fa": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+      "summary_en": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 02:35:15 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "85ef8e27d6e1fe5d28ad0157cce0ff69",
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "title_fa": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "title_en": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "summary": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+      "summary_fa": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+      "summary_en": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 02:23:11 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cde40911792687f93b1700d41c1508e1",
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "title_fa": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "title_en": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+      "summary_fa": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+      "summary_en": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 02:11:25 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=cf86259dc8237fa6a6872433d1541e66",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "49dd9b76a80dde70048c842b56c6d7d9",
+      "title": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+      "title_fa": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+      "title_en": "‘I never executed Jesse Baird’: Beau Lamarre-Condon re-enacts shooting when giving evidence in NSW trial",
+      "summary": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird as he acted out the way he allegedly shot the 26-year-old.The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "summary_fa": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird as he acted out the way he allegedly shot the 26-year-old.The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "summary_en": "Former police officer has pleaded not guilty to murdering Baird and Luke Davies in Paddington in early 2024Warning: This article contains graphic contentGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon has told a Sydney court he did not “execute” Jesse Baird as he acted out the way he allegedly shot the 26-year-old.The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 01:44:14 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/b6bb10a5926a77556033638b05990ec0f53a7b8a/524_54_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=0b81e8643e1c53b1dcdfaac6449868b0",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "38b26ba2f6d387ff069d3d9844580796",
+      "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "title_fa": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "title_en": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+      "summary": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper bodyGet our breaking news email, free app or daily news podcastFamily members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime.Emergency services were called to a Wagga Wagga home on the morning of 19 September where they found Danielle Madgwick suffering multiple stab wounds to her upper body. She died at the scene. Continue reading...",
+      "summary_fa": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper bodyGet our breaking news email, free app or daily news podcastFamily members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime.Emergency services were called to a Wagga Wagga home on the morning of 19 September where they found Danielle Madgwick suffering multiple stab wounds to her upper body. She died at the scene. Continue reading...",
+      "summary_en": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper bodyGet our breaking news email, free app or daily news podcastFamily members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been charged with being accessories to the alleged crime.Emergency services were called to a Wagga Wagga home on the morning of 19 September where they found Danielle Madgwick suffering multiple stab wounds to her upper body. She died at the scene. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 09 Nov 2026 01:30:36 GMT",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/6cdcfeabc345f0a7e521638862e85ad5c5125b6e/0_174_1516_1212/master/1516.jpg?width=140&quality=85&auto=format&fit=max&s=da413ca53e68c59303cae117c71ea52d",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "03ef84f7742916290594039db47ee0ec",
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "title_fa": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "title_en": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "summary": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+      "summary_fa": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+      "summary_en": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 01:19:09 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "359a1e89ffd8c633c2eb6e0caec1f3c6",
+      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "title_fa": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "title_en": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "summary_fa": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "summary_en": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Mon, 09 Nov 2026 00:30:00 GMT",
+      "date_iso": "2026-11-09",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-97735735",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2a782e51172efed8ec89a4ccd82d2b4",
+      "title": "Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu",
+      "title_fa": "Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu",
+      "title_en": "Israel’s Eisenkot, tasked with forming government, moves to oust Netanyahu",
+      "summary": "He said building a governing coalition would require “creative and ​unconventional political steps” and added that change was needed to restore “sanity.”",
+      "summary_fa": "He said building a governing coalition would require “creative and ​unconventional political steps” and added that change was needed to restore “sanity.”",
+      "summary_en": "He said building a governing coalition would require “creative and ​unconventional political steps” and added that change was needed to restore “sanity.”",
+      "link": "https://www.washingtonpost.com/world/2026/11/08/israel-gadi-eisenkot-accepts-mandate-form-government-urges-netanyahu-ouster/",
+      "source": "Washington Post",
+      "published_at": "Mon, 09 Nov 2026 00:27:28 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "6c4359f981f752a5a2b8f562f5d070c1",
+      "title": "India’s night lights up for Diwali",
+      "title_fa": "India’s night lights up for Diwali",
+      "title_en": "India’s night lights up for Diwali",
+      "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+      "summary_fa": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+      "summary_en": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+      "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:24:04 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2b663c710b7ea7de68a3e63724faaab8",
+      "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "title_fa": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "title_en": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+      "summary": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+      "summary_fa": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+      "summary_en": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:07:02 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "90659158ee117ab986b418aef6a29299",
+      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "title_fa": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "title_en": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+      "summary": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
+      "summary_fa": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
+      "summary_en": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 09 Nov 2026 00:00:34 +0000",
+      "date_iso": "2026-11-09",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
       }
     },
     {
