@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-15 03:06:03",
-  "total_count": 45549,
+  "last_update": "2026-11-15 10:45:34",
+  "total_count": 45619,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -499010,10 +499010,1291 @@
       }
     },
     {
+      "id": "776a2cf6530e9e49069882a3e0ab6a1a",
+      "title": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says",
+      "title_fa": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says",
+      "title_en": "EU forces board suspected Russian shadow fleet tanker in Mediterranean, Kallas says",
+      "summary": "The shadow fleet helps Russia get around Western sanctions on its oil industry by utilising complex ownership structures, flags of convenience and other tactics designed to mask the origin of its cargo.",
+      "summary_fa": "The shadow fleet helps Russia get around Western sanctions on its oil industry by utilising complex ownership structures, flags of convenience and other tactics designed to mask the origin of its cargo.",
+      "summary_en": "The shadow fleet helps Russia get around Western sanctions on its oil industry by utilising complex ownership structures, flags of convenience and other tactics designed to mask the origin of its cargo.",
+      "link": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 11:41:08 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "aa8b2c6ed6f68a92185b3d0e881cdae4",
+      "title": "Watch: SpaceX catches Starship in midair on return to launch tower",
+      "title_fa": "Watch: SpaceX catches Starship in midair on return to launch tower",
+      "title_en": "Watch: SpaceX catches Starship in midair on return to launch tower",
+      "summary": "SpaceX's Starship spacecraft was successfully caught by giant mechanical arms at its Texas launch tower after a 22-hour journey, marking the first successful midair capture of a Starship returning from space.",
+      "summary_fa": "SpaceX's Starship spacecraft was successfully caught by giant mechanical arms at its Texas launch tower after a 22-hour journey, marking the first successful midair capture of a Starship returning from space.",
+      "summary_en": "SpaceX's Starship spacecraft was successfully caught by giant mechanical arms at its Texas launch tower after a 22-hour journey, marking the first successful midair capture of a Starship returning from space.",
+      "link": "https://www.euronews.com/video/2026/11/15/watch-spacex-catches-starship-in-midair-on-return-to-launch-tower",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 11:05:49 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "340b1c017d8248edc7e36437c6f5e1da",
+      "title": "Cape Verde heads to the polls in presidential election",
+      "title_fa": "Cape Verde heads to the polls in presidential election",
+      "title_en": "Cape Verde heads to the polls in presidential election",
+      "summary": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+      "summary_fa": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+      "summary_en": "Incumbent President José Maria Neves, who won the 2021 presidential election, is favoured to win a second term in office.",
+      "link": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 10:45:23 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "aac00d501b4fabf71ee9df948de0fc87",
+      "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "title_fa": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "title_en": "It’s Getting Too Dry for Even Cactuses to Survive",
+      "summary": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "summary_fa": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "summary_en": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+      "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+      "source": "Wired",
+      "published_at": "Sun, 15 Nov 2026 10:30:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e6de2d0256c68e778a67cbe98756ce0",
+      "title": "Spain football coach denies racism ahead of England match",
+      "title_fa": "Spain football coach denies racism ahead of England match",
+      "title_en": "Spain football coach denies racism ahead of England match",
+      "summary": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
+      "summary_fa": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
+      "summary_en": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 10:28:28 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "575634fa4ce8612b30cd3026e5cd84a7",
+      "title": "Polls open in Cape Verde in race with first female presidential candidate",
+      "title_fa": "Polls open in Cape Verde in race with first female presidential candidate",
+      "title_en": "Polls open in Cape Verde in race with first female presidential candidate",
+      "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+      "summary_fa": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+      "summary_en": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 10:03:02 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "138bc82204c52af5bb114ebb60e219b6",
+      "title": "Indigenous communities in Brazil targeted after backing Lula for president",
+      "title_fa": "Indigenous communities in Brazil targeted after backing Lula for president",
+      "title_en": "Indigenous communities in Brazil targeted after backing Lula for president",
+      "summary": "Violence against Indigenous people has risen since Luiz Inácio Lula da Silva defeated Flávio Bolsonaro last month.",
+      "summary_fa": "Violence against Indigenous people has risen since Luiz Inácio Lula da Silva defeated Flávio Bolsonaro last month.",
+      "summary_en": "Violence against Indigenous people has risen since Luiz Inácio Lula da Silva defeated Flávio Bolsonaro last month.",
+      "link": "https://www.washingtonpost.com/world/2026/11/15/indigenous-communities-brazil-targeted-after-backing-lula-president/",
+      "source": "Washington Post",
+      "published_at": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68dd89e93bdf7e1dd4b5cdf62cbfd7aa",
+      "title": "Wartime Kyiv turns to New York-style bagels for comfort",
+      "title_fa": "Wartime Kyiv turns to New York-style bagels for comfort",
+      "title_en": "Wartime Kyiv turns to New York-style bagels for comfort",
+      "summary": "Models and diplomats flock to this cafe, where the owner, a veteran, says baking has given him a new mission after he was injured in the conflict with Russia.",
+      "summary_fa": "Models and diplomats flock to this cafe, where the owner, a veteran, says baking has given him a new mission after he was injured in the conflict with Russia.",
+      "summary_en": "Models and diplomats flock to this cafe, where the owner, a veteran, says baking has given him a new mission after he was injured in the conflict with Russia.",
+      "link": "https://www.washingtonpost.com/world/2026/11/15/wartime-kyiv-turns-new-york-style-bagels-comfort/",
+      "source": "Washington Post",
+      "published_at": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b08006cfe5bbaa06102fddc9454fd3a4",
+      "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "title_fa": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "title_en": "M6 Mac Mini Early Black Friday Sale (2026)",
+      "summary": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "summary_fa": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "summary_en": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+      "link": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+      "source": "Wired",
+      "published_at": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6321e970ce6fc1e52e985c9c169dc394",
+      "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "title_fa": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "title_en": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+      "summary": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "summary_fa": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "summary_en": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+      "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+      "source": "Wired",
+      "published_at": "Sun, 15 Nov 2026 10:00:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "af07c48039ea49f8ca77b80b03619e2e",
+      "title": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "title_fa": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "title_en": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+      "summary": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+      "summary_fa": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+      "summary_en": "Sudan's power stations are being targeted in waves of drone attacks, resulting in power outages.",
+      "link": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 09:59:37 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c682831bacec4b4c64af94f7023eec78",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "title_fa": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "title_en": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "summary_fa": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "summary_en": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 15 Nov 2026 09:57:25 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "62c8b6f1f96f02cae03a663c3db4277b",
+      "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
+      "title_fa": "Protesters condemn US policies as ASEAN summit begins in Manila",
+      "title_en": "Protesters condemn US policies as ASEAN summit begins in Manila",
+      "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
+      "summary_fa": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
+      "summary_en": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 09:49:43 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f28260a05a3284061fb01cac37599a9f",
+      "title": "Iran says it targets US radar in Bahrain. What do we know?",
+      "title_fa": "Iran says it targets US radar in Bahrain. What do we know?",
+      "title_en": "Iran says it targets US radar in Bahrain. What do we know?",
+      "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+      "summary_fa": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+      "summary_en": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 09:41:27 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4d3295e0934b7dc5321f665549fc9317",
+      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "title_fa": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "title_en": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+      "summary_fa": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+      "summary_en": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "source": "NY Times",
+      "published_at": "Sun, 15 Nov 2026 09:36:59 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "587d8e4bc97a99872346415b8febc0ab",
+      "title": "SpaceX catches part of its Starship rocket in historic first",
+      "title_fa": "SpaceX catches part of its Starship rocket in historic first",
+      "title_en": "SpaceX catches part of its Starship rocket in historic first",
+      "summary": "Crowds outside the Texas Starbase erupted into cheers as the mechanical arms closed around the spaceship for the first time, a moment SpaceX said \"changed everything.\"",
+      "summary_fa": "Crowds outside the Texas Starbase erupted into cheers as the mechanical arms closed around the spaceship for the first time, a moment SpaceX said \"changed everything.\"",
+      "summary_en": "Crowds outside the Texas Starbase erupted into cheers as the mechanical arms closed around the spaceship for the first time, a moment SpaceX said \"changed everything.\"",
+      "link": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 09:32:33 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7ac12b099b64c8ed9aa9608c1f45a6dc",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "title_fa": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "title_en": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "summary_fa": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "summary_en": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 15 Nov 2026 09:26:37 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a2/live/a4d3cf40-e0d0-11f1-9e51-e12509ba597c.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a72b1242334af6f99e4ba20186ee06ee",
+      "title": "What forced the US to ground all planes? A router switch, we now know",
+      "title_fa": "What forced the US to ground all planes? A router switch, we now know",
+      "title_en": "What forced the US to ground all planes? A router switch, we now know",
+      "summary": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+      "summary_fa": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+      "summary_en": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 09:17:49 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26c2b5a83bfe63e64a6a917ff67664d7",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "title_fa": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "title_en": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
+      "summary_fa": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
+      "summary_en": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
+      "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "source": "The Guardian",
+      "published_at": "Sun, 15 Nov 2026 08:56:11 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "59d071642bce04d19d11f222f3f4649a",
+      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "title_fa": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "title_en": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "summary_fa": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "summary_en": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 08:49:47 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "28f2a2fa0827056104d5cbeea6a36ae7",
+      "title": "Thousands in Portugal protest against surging rental prices",
+      "title_fa": "Thousands in Portugal protest against surging rental prices",
+      "title_en": "Thousands in Portugal protest against surging rental prices",
+      "summary": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+      "summary_fa": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+      "summary_en": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 08:40:37 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "ed77039de09b680e6f43af686d4b4260",
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "title_fa": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "title_en": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+      "summary_fa": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+      "summary_en": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+      "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+      "source": "CNBC",
+      "published_at": "Sun, 15 Nov 2026 08:34:46 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "e236215748d3088776610f41152990a5",
+      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+      "title_fa": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+      "title_en": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+      "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+      "summary_fa": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+      "summary_en": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 08:29:18 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "261457aedde333f960963fe498dfdac4",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "title_fa": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "summary_fa": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "summary_en": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 15 Nov 2026 08:17:41 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "175d2637b3eedc4d7ebe3b439352c219",
+      "title": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+      "title_fa": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+      "title_en": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+      "summary": "The restrictions have been directly affecting Ukraine's ability to intercept Russian jet-powered attack drones, Zelenskyy said in an address at the European Political Community summit in Dublin earlier this week.",
+      "summary_fa": "The restrictions have been directly affecting Ukraine's ability to intercept Russian jet-powered attack drones, Zelenskyy said in an address at the European Political Community summit in Dublin earlier this week.",
+      "summary_en": "The restrictions have been directly affecting Ukraine's ability to intercept Russian jet-powered attack drones, Zelenskyy said in an address at the European Political Community summit in Dublin earlier this week.",
+      "link": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 08:15:50 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "813d800a75fb6efad6d79bd41387e46e",
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "title_fa": "Jordan sentences three men to death by hanging after deadly church attack",
+      "title_en": "Jordan sentences three men to death by hanging after deadly church attack",
+      "summary": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+      "summary_fa": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+      "summary_en": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 08:15:04 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ebbd330504821954b2c3ed902575dcc4",
+      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "title_fa": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "title_en": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+      "summary_fa": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+      "summary_en": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+      "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 08:07:08 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a66d63786310676df9f5b8c4a220be1c",
+      "title": "Judo: double gold for Canada on day 2 at Zagreb Grand Prix",
+      "title_fa": "Judo: double gold for Canada on day 2 at Zagreb Grand Prix",
+      "title_en": "Judo: double gold for Canada on day 2 at Zagreb Grand Prix",
+      "summary": "Canada celebrated double gold at the Zagreb Grand Prix as Jessica Klimkait and François Gauthier-Drapeau topped the podium. Georgia's Giorgi Loladze and Brazil's Nauana Silva claimed their first Grand Prix titles, while Croatia's Iva Oberan delighted the home crowd with bronze.",
+      "summary_fa": "Canada celebrated double gold at the Zagreb Grand Prix as Jessica Klimkait and François Gauthier-Drapeau topped the podium. Georgia's Giorgi Loladze and Brazil's Nauana Silva claimed their first Grand Prix titles, while Croatia's Iva Oberan delighted the home crowd with bronze.",
+      "summary_en": "Canada celebrated double gold at the Zagreb Grand Prix as Jessica Klimkait and François Gauthier-Drapeau topped the podium. Georgia's Giorgi Loladze and Brazil's Nauana Silva claimed their first Grand Prix titles, while Croatia's Iva Oberan delighted the home crowd with bronze.",
+      "link": "https://www.euronews.com/2026/11/15/judo-double-gold-for-canada-on-day-2-at-zagreb-grand-prix",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 08:06:26 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a4e7aa5e2a6259b9df849025913b1cfc",
+      "title": "Hope springs eternal in award-winning photos showcasing nature’s resilience",
+      "title_fa": "Hope springs eternal in award-winning photos showcasing nature’s resilience",
+      "title_en": "Hope springs eternal in award-winning photos showcasing nature’s resilience",
+      "summary": "A fragile Turkish delta and a melting Icelandic 'snow tree' are captured in the award-winning images.",
+      "summary_fa": "A fragile Turkish delta and a melting Icelandic 'snow tree' are captured in the award-winning images.",
+      "summary_en": "A fragile Turkish delta and a melting Icelandic 'snow tree' are captured in the award-winning images.",
+      "link": "https://www.euronews.com/2026/11/15/hope-springs-eternal-in-award-winning-photos-showcasing-natures-resilience",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 08:02:25 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6b87ac533901c5cced9017cadb8dd2e8",
+      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+      "title_fa": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+      "title_en": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+      "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+      "summary_fa": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+      "summary_en": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 07:30:21 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "d0ae6250c079ff9a3165ee967354e702",
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "title_fa": "ASEAN summit: Who’s attending and what’s at stake?",
+      "title_en": "ASEAN summit: Who’s attending and what’s at stake?",
+      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "summary_fa": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "summary_en": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 07:11:24 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "38d79c8697fd3fb85f35463076e1a4d2",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "title_fa": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "title_en": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "summary_fa": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "summary_en": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 15 Nov 2026 07:10:31 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "700d0fcb3fffe9e13bc3fa0b958e0335",
+      "title": "Feeling the winter chill? Thermal baths and scenic outdoor saunas worth visiting in Europe",
+      "title_fa": "Feeling the winter chill? Thermal baths and scenic outdoor saunas worth visiting in Europe",
+      "title_en": "Feeling the winter chill? Thermal baths and scenic outdoor saunas worth visiting in Europe",
+      "summary": "Whether it’s floating saunas in Norway or steaming thermal baths in Budapest, Europe offers travellers some spectacular spots to take on the winter chill.",
+      "summary_fa": "Whether it’s floating saunas in Norway or steaming thermal baths in Budapest, Europe offers travellers some spectacular spots to take on the winter chill.",
+      "summary_en": "Whether it’s floating saunas in Norway or steaming thermal baths in Budapest, Europe offers travellers some spectacular spots to take on the winter chill.",
+      "link": "https://www.euronews.com/2026/11/15/feeling-the-winter-chill-thermal-baths-and-scenic-outdoor-saunas-worth-visiting-in-europe",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 07:00:33 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a860ac2760d82564b387e70314c28d47",
+      "title": "Latest news bulletin | November 15th, 2026 – Morning",
+      "title_fa": "Latest news bulletin | November 15th, 2026 – Morning",
+      "title_en": "Latest news bulletin | November 15th, 2026 – Morning",
+      "summary": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_fa": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "summary_en": "Catch up with the most important stories from around Europe and beyond this November 15th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "link": "https://www.euronews.com/video/2026/11/15/latest-news-bulletin-november-15th-2026-morning",
+      "source": "EuroNews",
+      "published_at": "Sun, 15 Nov 2026 07:00:32 +0100",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "833073bb516c74aab19c3a6eb6fda0f5",
+      "title": "Israel: Making the Holy Land burn",
+      "title_fa": "Israel: Making the Holy Land burn",
+      "title_en": "Israel: Making the Holy Land burn",
+      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "summary_fa": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "summary_en": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 06:49:14 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "9756546eada976d2a0a8cac35d8fc310",
+      "title": "The French Republic’s forgotten promise of equality",
+      "title_fa": "The French Republic’s forgotten promise of equality",
+      "title_en": "The French Republic’s forgotten promise of equality",
+      "summary": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+      "summary_fa": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+      "summary_en": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 06:44:27 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ee98352f1b332ddd4a389ee2a5a64491",
+      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "title_fa": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "title_en": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in UkraineAustralia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine.The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion. Continue reading...",
+      "summary_fa": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in UkraineAustralia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine.The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion. Continue reading...",
+      "summary_en": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in UkraineAustralia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine.The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "source": "The Guardian",
+      "published_at": "Sun, 15 Nov 2026 06:22:32 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "feb5c70d6bd058a35b80f0994a3097cb",
+      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "title_fa": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "title_en": "Secret votes and vetoes: How will the next UN chief be picked?",
+      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+      "summary_fa": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+      "summary_en": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 06:11:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "79a5af643059f1bd0dcd16ded8ee6f98",
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "title_fa": "Could Budapest be the next digital nomad hotspot?",
+      "title_en": "Could Budapest be the next digital nomad hotspot?",
+      "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "summary_fa": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "summary_en": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "source": "CNBC",
+      "published_at": "Sun, 15 Nov 2026 06:00:01 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "406bed10c39eff111d1e91414590d67e",
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "title_fa": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "title_en": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "summary_fa": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "summary_en": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 05:05:02 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a82125d90602709d40695030e8692159",
+      "title": "Is Italy the Model for Europe’s Future?",
+      "title_fa": "Is Italy the Model for Europe’s Future?",
+      "title_en": "Is Italy the Model for Europe’s Future?",
+      "summary": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
+      "summary_fa": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
+      "summary_en": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+      "source": "NY Times",
+      "published_at": "Sun, 15 Nov 2026 05:01:24 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-horowitz-italianization-khbp/00int-horowitz-italianization-khbp-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "c0ad986850bf23587d9105efb8be3d99",
+      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "title_fa": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "title_en": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+      "summary_fa": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+      "summary_en": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
+      "source": "NY Times",
+      "published_at": "Sun, 15 Nov 2026 05:01:19 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-uk-europe-security-new-jlpc/14int-uk-europe-security-new-jlpc-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "02857c9b7730b0094c065df0a7516296",
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "title_fa": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "title_en": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "summary": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "summary_fa": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "summary_en": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "source": "NY Times",
+      "published_at": "Sun, 15 Nov 2026 05:01:10 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "faac4fb14a7f1a2159a42a5d3a9d1e15",
+      "title": "What will Nvidia’s post-Huang era look like?",
+      "title_fa": "What will Nvidia’s post-Huang era look like?",
+      "title_en": "What will Nvidia’s post-Huang era look like?",
+      "summary": "The chip company has only itself to blame for a long list of adversaries",
+      "summary_fa": "The chip company has only itself to blame for a long list of adversaries",
+      "summary_en": "The chip company has only itself to blame for a long list of adversaries",
+      "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:14 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99c5ac46-ba12-46b0-87b6-6986d64f3209.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5dd4665896aaa7a0bbde1cac44830f79",
+      "title": "How Infantino flew his way out of a Fifa rebellion",
+      "title_fa": "How Infantino flew his way out of a Fifa rebellion",
+      "title_en": "How Infantino flew his way out of a Fifa rebellion",
+      "summary": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
+      "summary_fa": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
+      "summary_en": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
+      "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:13 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ad884e3-040e-41c8-9670-145aeaaaee68.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "284e159041f1fa9846c49f8b8813cbc2",
+      "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
+      "title_fa": "‘Low fire, low hire’ job market hurts US and UK productivity",
+      "title_en": "‘Low fire, low hire’ job market hurts US and UK productivity",
+      "summary": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
+      "summary_fa": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
+      "summary_en": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
+      "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:13 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbaae429c-a177-430a-8d9e-09004b401cc7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "732fcdd8c725d23bfb8b7756b0dacb02",
+      "title": "Martin Wolf on the US midterms: Trump loses. European populism lives on",
+      "title_fa": "Martin Wolf on the US midterms: Trump loses. European populism lives on",
+      "title_en": "Martin Wolf on the US midterms: Trump loses. European populism lives on",
+      "summary": "The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford",
+      "summary_fa": "The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford",
+      "summary_en": "The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford",
+      "link": "https://www.ft.com/content/7b3ba864-75ca-4862-b54d-abd088444bd3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:13 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9411b715-aff8-4662-a687-010caabf721b.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "a6a8f61ee3bc658825e0359509eb52b0",
+      "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "title_fa": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "title_en": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+      "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
+      "summary_fa": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
+      "summary_en": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
+      "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:04 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F044b8747-69c4-4c6d-8d75-7b7d71dfa730.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8b89ba3a5ad02c6d7fd5156a1ffbeb34",
+      "title": "When human judgment is not all it’s cracked up to be",
+      "title_fa": "When human judgment is not all it’s cracked up to be",
+      "title_en": "When human judgment is not all it’s cracked up to be",
+      "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
+      "summary_fa": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
+      "summary_en": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
+      "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:04 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F171261cb-4b66-4a8d-b1f2-58a523bd7b85.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "43e986c0387fdbc054ee76df2ef501bf",
+      "title": "France’s once best hope of stopping Marine Le Pen is losing ground",
+      "title_fa": "France’s once best hope of stopping Marine Le Pen is losing ground",
+      "title_en": "France’s once best hope of stopping Marine Le Pen is losing ground",
+      "summary": "Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée",
+      "summary_fa": "Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée",
+      "summary_en": "Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée",
+      "link": "https://www.ft.com/content/3d951137-cba3-47d5-a78c-0d82b9fd84e7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 05:00:04 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1e307cb-c4e7-4614-b514-f667662130e0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "96f4142c62a2fd65b37de913597a8329",
+      "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+      "title_fa": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+      "title_en": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+      "summary": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+      "summary_fa": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+      "summary_en": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 04:44:57 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9adfb0537ae4664c84de8f802df7d595",
+      "title": "Video shows moment of Brooklyn building collapse from inside",
+      "title_fa": "Video shows moment of Brooklyn building collapse from inside",
+      "title_en": "Video shows moment of Brooklyn building collapse from inside",
+      "summary": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
+      "summary_fa": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
+      "summary_en": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 04:31:55 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2f80cc0c626f479a93750e08fdd52db7",
+      "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
+      "title_fa": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
+      "title_en": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
+      "summary": "A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.",
+      "summary_fa": "A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.",
+      "summary_en": "A concert by the singer Gabito Ballesteros was suspended after he sang songs that supposedly glorify cartel culture. The action has renewed a debate over culture and free speech.",
+      "link": "https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html",
+      "source": "NY Times",
+      "published_at": "Sun, 15 Nov 2026 04:18:05 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/12/14/multimedia/14int-mexico-singer-tlfb/14int-mexico-singer-tlfb-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d7f59c6ac2fa566e63e87fea67280da0",
+      "title": "Zimbabwe’s HIV gains face a test among young people",
+      "title_fa": "Zimbabwe’s HIV gains face a test among young people",
+      "title_en": "Zimbabwe’s HIV gains face a test among young people",
+      "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "summary_fa": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "summary_en": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 04:13:00 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8880f0ceb59d5112cd177f4d1d3fb562",
+      "title": "World leaders head to Asia for back-to-back diplomatic summits",
+      "title_fa": "World leaders head to Asia for back-to-back diplomatic summits",
+      "title_en": "World leaders head to Asia for back-to-back diplomatic summits",
+      "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetingsThe global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US.Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections. Continue reading...",
+      "summary_fa": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetingsThe global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US.Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections. Continue reading...",
+      "summary_en": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetingsThe global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US.Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "source": "The Guardian",
+      "published_at": "Sun, 15 Nov 2026 04:00:02 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "9e993216634fc85ae7150be76c744d9f",
+      "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+      "title_fa": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+      "title_en": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+      "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phonesGet our daily political email, free app or daily news podcastAnthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation.“I of course regret that. I apologise,” Albanese said during a visit to the Australian warship HMAS Stalwart in the Philippines on Sunday.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_fa": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phonesGet our daily political email, free app or daily news podcastAnthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation.“I of course regret that. I apologise,” Albanese said during a visit to the Australian warship HMAS Stalwart in the Philippines on Sunday.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary_en": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phonesGet our daily political email, free app or daily news podcastAnthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard discussing mobile phone radiation and “dicks” in a candid conversation.“I of course regret that. I apologise,” Albanese said during a visit to the Australian warship HMAS Stalwart in the Philippines on Sunday.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+      "source": "The Guardian",
+      "published_at": "Sun, 15 Nov 2026 03:49:21 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "11b391c97b522317327988890c0ec93d",
+      "title": "Monkey attacks woman inside residential complex in India",
+      "title_fa": "Monkey attacks woman inside residential complex in India",
+      "title_en": "Monkey attacks woman inside residential complex in India",
+      "summary": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
+      "summary_fa": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
+      "summary_en": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 03:39:39 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a59cb5c876e8d29758635bb32ae0258d",
+      "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "title_fa": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "title_en": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+      "summary": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+      "summary_fa": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+      "summary_en": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 03:30:29 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "2f4ceba8dd880f0c38c7dc98cfcfcde2",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "title_fa": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "title_en": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "summary_fa": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "summary_en": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 15 Nov 2026 03:21:04 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "2785c18c9d9a2855efdd57a2a02528f1",
+      "title": "The world according to China",
+      "title_fa": "The world according to China",
+      "title_en": "The world according to China",
+      "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+      "summary_fa": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+      "summary_en": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
+      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sun, 15 Nov 2026 03:00:02 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3abdaa7-33ba-403c-87a4-6fdfcd39a801.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
       "id": "13d4dbcda1030dab0fc6040db01ba3a7",
       "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
       "title_fa": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
       "title_en": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+      "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "summary_fa": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "summary_en": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 15 Nov 2026 02:59:06 +0000",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a91c8f8996a2b52016e70a08642bf621",
+      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+      "title_fa": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+      "title_en": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
       "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
       "summary_fa": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
       "summary_en": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
@@ -581309,6 +582590,27 @@
       }
     },
     {
+      "id": "f548b3e8365109c66b195eccb961146e",
+      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "title_fa": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "title_en": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+      "summary_fa": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+      "summary_en": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 23:31:56 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "5c45ca9ee603a9c099adb394cfdff88c",
       "title": "How telecoms upgrade work sparked US flight chaos",
       "title_fa": "How telecoms upgrade work sparked US flight chaos",
@@ -581414,6 +582716,27 @@
       }
     },
     {
+      "id": "66ac65eada1bf9b9ee390fbfc170bf56",
+      "title": "One router overload brought US air travel to a standstill",
+      "title_fa": "One router overload brought US air travel to a standstill",
+      "title_en": "One router overload brought US air travel to a standstill",
+      "summary": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+      "summary_fa": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+      "summary_en": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+      "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Sat, 14 Nov 2026 22:57:26 GMT",
+      "date_iso": "2026-11-15",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd3b9d1f2-a755-4064-afc1-d6c24a01a561.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "459a79e37478081d65c4a796ddc319d4",
       "title": "Explosion near Syria’s capital kills father and child",
       "title_fa": "Explosion near Syria’s capital kills father and child",
@@ -581427,6 +582750,27 @@
       "date_iso": "2026-11-14",
       "category": "سیاست",
       "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7dc1d6aa3211dc329e66bc1b2fe50845",
+      "title": "Scientists discover a bizarre paradox among endangered penguins",
+      "title_fa": "Scientists discover a bizarre paradox among endangered penguins",
+      "title_en": "Scientists discover a bizarre paradox among endangered penguins",
+      "summary": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+      "summary_fa": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+      "summary_en": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 22:42:52 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -581470,6 +582814,27 @@
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d289f10e84cce7d390686d427af74a1",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "title_fa": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "title_en": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "summary_fa": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "summary_en": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 14 Nov 2026 22:27:06 GMT",
+      "date_iso": "2026-11-15",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -581537,6 +582902,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "مسکو"
+      }
+    },
+    {
+      "id": "f731f7688f84639f4d4e644036624fe2",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "title_fa": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "title_en": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+      "summary_fa": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+      "summary_en": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 22:00:54 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -581624,6 +583010,27 @@
       }
     },
     {
+      "id": "28ca3d2f792b3beb151168a3171f7b9c",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "title_fa": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "title_en": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+      "summary_fa": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+      "summary_en": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 21:18:16 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "fdf55fcbc306ccb689ba854aa9d0acec",
       "title": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
       "title_fa": "Portugal sees fresh protests over government policies seen as worsening housing crisis",
@@ -581666,6 +583073,27 @@
       }
     },
     {
+      "id": "dc2f3ade5f0393927af39b4d47acd52f",
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "title_fa": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "title_en": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "summary": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+      "summary_fa": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+      "summary_en": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 20:52:47 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "540e57e722f231de45ba6c3c9a085477",
       "title": "India’s Assam state demolishes homes of 132 Muslim families",
       "title_fa": "India’s Assam state demolishes homes of 132 Muslim families",
@@ -581684,6 +583112,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8594b60b0ec560c7c530caa67ae452b4",
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "title_fa": "AI discovers a hidden heart signal that could predict sudden death",
+      "title_en": "AI discovers a hidden heart signal that could predict sudden death",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "summary_fa": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "summary_en": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "source": "Science Daily",
+      "published_at": "Sat, 14 Nov 2026 20:05:10 EST",
+      "date_iso": "2026-11-15",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
       }
     },
     {
@@ -584134,6 +585583,27 @@
       "source": "EuroNews",
       "published_at": "Sat, 14 Nov 2026 07:56:20 +0100",
       "date_iso": "2026-11-14",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7e2804a1826f2e64192e47deceeb1f35",
+      "title": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
+      "title_fa": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
+      "title_en": "Airlines expect to return to full schedules by Sunday night after US nationwide ground stop, FAA says",
+      "summary": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
+      "summary_fa": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
+      "summary_en": "Passengers travelling to and from the US continued to face delays and cancellations to flights on Saturday despite the FAA having lifted the ground stop.",
+      "link": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop",
+      "source": "EuroNews",
+      "published_at": "Sat, 14 Nov 2026 07:56:20 +0100",
+      "date_iso": "2026-11-15",
       "category": "سیاست",
       "region": "اروپا",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
