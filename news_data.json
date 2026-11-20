@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-19 23:39:52",
-  "total_count": 47254,
+  "last_update": "2026-11-20 04:20:15",
+  "total_count": 47284,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -387878,6 +387878,48 @@
       }
     },
     {
+      "id": "6980a1e0d4e610db61b4b2e7330ae384",
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "title_fa": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "title_en": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "summary_fa": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "summary_en": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 19 Nov 2026 23:58:40 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "4bad1f64f0c2e7c0bf0811987b4e61c0",
+      "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "title_fa": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "title_en": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+      "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "summary_fa": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "summary_en": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+      "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Thu, 19 Nov 2026 23:56:00 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-64149739",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "029d1fbf4dc1b6f2ceb8c62e7e282e38",
       "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
       "title_fa": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -388025,6 +388067,27 @@
       }
     },
     {
+      "id": "6b0a3899cb8865ff7a1096d327451bac",
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "title_fa": "Six killed in suspected gas explosion at Georgia apartment building",
+      "title_en": "Six killed in suspected gas explosion at Georgia apartment building",
+      "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "summary_fa": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "summary_en": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Thu, 19 Nov 2026 23:09:48 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "25d43531f4f91cbff4b605942fa5a3b7",
       "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
       "title_fa": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
@@ -388057,6 +388120,27 @@
       "source": "BBC World",
       "published_at": "Thu, 19 Nov 2026 23:04:30 GMT",
       "date_iso": "2026-11-19",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "d68acc7318b4fe4ee851970d8945427a",
+      "title": "California targets Nvidia in China AI chip probe",
+      "title_fa": "California targets Nvidia in China AI chip probe",
+      "title_en": "California targets Nvidia in China AI chip probe",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "summary_fa": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "summary_en": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Thu, 19 Nov 2026 23:04:30 GMT",
+      "date_iso": "2026-11-20",
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
@@ -388141,6 +388225,27 @@
       "source": "Financial Times",
       "published_at": "Thu, 19 Nov 2026 22:44:56 GMT",
       "date_iso": "2026-11-19",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f829e8f-eadc-4885-b947-64965ab49309.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "name": "فرانسه"
+      }
+    },
+    {
+      "id": "9dbf9ecd93a5bcf0be8977d3ca7fde6b",
+      "title": "UK and EU poised to finalise deal to ‘reset’ relations",
+      "title_fa": "UK and EU poised to finalise deal to ‘reset’ relations",
+      "title_en": "UK and EU poised to finalise deal to ‘reset’ relations",
+      "summary": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
+      "summary_fa": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
+      "summary_en": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
+      "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Thu, 19 Nov 2026 22:44:56 GMT",
+      "date_iso": "2026-11-20",
       "category": "اقتصاد و بازار",
       "region": "اروپا",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f829e8f-eadc-4885-b947-64965ab49309.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
@@ -389345,6 +389450,27 @@
         "lat": 31.5017,
         "lng": 34.4668,
         "name": "غزه"
+      }
+    },
+    {
+      "id": "0dbc2909228ad798924cf7996bfa2bea",
+      "title": "Experimental compound burns fat without sacrificing muscle",
+      "title_fa": "Experimental compound burns fat without sacrificing muscle",
+      "title_en": "Experimental compound burns fat without sacrificing muscle",
+      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+      "summary_fa": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+      "summary_en": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+      "source": "Science Daily",
+      "published_at": "Thu, 19 Nov 2026 19:19:49 EST",
+      "date_iso": "2026-11-20",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -832968,6 +833094,510 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "ac732b02aa3bf4a2842dd1a6ce928758",
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "title_fa": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "title_en": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "summary_fa": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "summary_en": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "source": "CNBC",
+      "published_at": "Fri, 20 Nov 2026 03:56:17 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2ec79438e00ffc397dd3985f2caad6ad",
+      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "title_fa": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "title_en": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "summary_fa": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "summary_en": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "source": "CNBC",
+      "published_at": "Fri, 20 Nov 2026 03:38:07 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "95c2e2bd8d9de591c37c0800dc019739",
+      "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "title_fa": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "title_en": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "summary_fa": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "summary_en": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+      "source": "CNBC",
+      "published_at": "Fri, 20 Nov 2026 03:30:34 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "26a522a71c32906587146ee946222241",
+      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "title_fa": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "title_en": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "summary_fa": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "summary_en": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 03:26:23 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "5e4fde9579f8bd1baa9520439aee9f36",
+      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "title_fa": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "title_en": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "summary_fa": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "summary_en": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 03:24:49 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d1c3ce7e65a15881d3148b17fff5b4eb",
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "title_fa": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "title_en": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "summary_fa": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "summary_en": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 02:54:22 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "ac649c0247dc564b44fccbeaaaf24aa5",
+      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+      "title_fa": "Hippo Fiona dies days after swallowing visitor’s hat",
+      "title_en": "Hippo Fiona dies days after swallowing visitor’s hat",
+      "summary": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+      "summary_fa": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+      "summary_en": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 02:51:44 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0ab5b547e675bb4891423e6eb3dc9b0f",
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "title_fa": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "title_en": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+      "summary_fa": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+      "summary_en": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+      "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "source": "Wired",
+      "published_at": "Fri, 20 Nov 2026 02:39:47 +0000",
+      "date_iso": "2026-11-20",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2762fc129c2e1b28ef5e7f34bc9be6f0",
+      "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "title_fa": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "title_en": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+      "summary": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "summary_fa": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "summary_en": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 02:25:33 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ee0b9b9d02824be9c24d0fdd324e05f",
+      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "title_fa": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "title_en": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "summary_fa": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "summary_en": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+      "source": "NY Times",
+      "published_at": "Fri, 20 Nov 2026 02:02:53 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8f9f5177043af5b3380f6a2d0ad43e70",
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "title_fa": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "title_en": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "summary_fa": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "summary_en": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "source": "CNBC",
+      "published_at": "Fri, 20 Nov 2026 01:49:03 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "413892cc6e216d3eecd46cab569d6188",
+      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "title_fa": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "title_en": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "summary_fa": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "summary_en": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 20 Nov 2026 01:30:00 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-36389545",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ddd7cddee7ba8c745ff472d034d8bb32",
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "title_fa": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "title_en": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "summary_fa": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "summary_en": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 01:29:28 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "593e177d7e6cc29ba62778f57b8159c8",
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "title_fa": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "title_en": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "summary_fa": "“Hotel rooms can cost as much as $400 per night.”",
+      "summary_en": "“Hotel rooms can cost as much as $400 per night.”",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Fri, 20 Nov 2026 01:22:00 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-05393650",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "5ecfd35c325ecebf4b65455ccbb06b80",
+      "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "title_fa": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "title_en": "Democrats say law firm gave $11.8m in free services to Trump administration",
+      "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+      "summary_fa": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+      "summary_en": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 01:10:06 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6f9c1856aff80c4a66523488433857fb",
+      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "title_fa": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "title_en": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "summary_fa": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "summary_en": "Motorists and businesses struggle as shortages disrupt daily life.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 01:06:15 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a18ef0f1f1786852c380fd54358527fb",
+      "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+      "title_fa": "US approved sale of Nvidia and AMD chips to Chinese companies",
+      "title_en": "US approved sale of Nvidia and AMD chips to Chinese companies",
+      "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+      "summary_fa": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+      "summary_en": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+      "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Fri, 20 Nov 2026 00:42:44 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9a262392-02be-4801-9a23-0e8edba92248.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "45e3bddc5b08ee9c39fc876cf9804be4",
+      "title": "Haiti police say 34 gang members killed in capital raid",
+      "title_fa": "Haiti police say 34 gang members killed in capital raid",
+      "title_en": "Haiti police say 34 gang members killed in capital raid",
+      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+      "summary_fa": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+      "summary_en": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 00:31:02 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d0dec2c577e6b7df86ac48cf011783f9",
+      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "title_fa": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "title_en": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+      "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "summary_fa": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "summary_en": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 00:22:02 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "4daf1f14d090c550bd1cad7705ed58e7",
+      "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+      "title_fa": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+      "title_en": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+      "summary": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’Get our breaking news email, free app or daily news podcastReligion should be removed from Australia’s terrorism definition and making bomb threats should not result in life imprisonment, the country’s national security laws watchdog has said.The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States. Continue reading...",
+      "summary_fa": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’Get our breaking news email, free app or daily news podcastReligion should be removed from Australia’s terrorism definition and making bomb threats should not result in life imprisonment, the country’s national security laws watchdog has said.The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States. Continue reading...",
+      "summary_en": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’Get our breaking news email, free app or daily news podcastReligion should be removed from Australia’s terrorism definition and making bomb threats should not result in life imprisonment, the country’s national security laws watchdog has said.The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States. Continue reading...",
+      "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Fri, 20 Nov 2026 00:19:57 GMT",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/0e521678d13ec104d5165d17b3b36354293bb89d/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=092af5190291bf6042a438104a374dad",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3e42af221654fcb4185235ff63123dbe",
+      "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+      "title_fa": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+      "title_en": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
+      "summary": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus dealGet our breaking news email, free app or daily news podcastProviding nuclear-powered submarines to Australia would diminish the US navy’s own fleet for “many years”, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.The US navy’s latest shipbuilding plan does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia “has not been factored into the plan”, the report says. Continue reading...",
+      "summary_fa": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus dealGet our breaking news email, free app or daily news podcastProviding nuclear-powered submarines to Australia would diminish the US navy’s own fleet for “many years”, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.The US navy’s latest shipbuilding plan does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia “has not been factored into the plan”, the report says. Continue reading...",
+      "summary_en": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus dealGet our breaking news email, free app or daily news podcastProviding nuclear-powered submarines to Australia would diminish the US navy’s own fleet for “many years”, a new report for the US Congress has cautioned, questioning whether Australian-flagged vessels could be compelled into service in a conflict with China.The US navy’s latest shipbuilding plan does not countenance the Aukus agreement in its forecasts at all, noting only in a footnote that the transfer of any Virginia-class submarine to Australia “has not been factored into the plan”, the report says. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
+      "source": "The Guardian",
+      "published_at": "Fri, 20 Nov 2026 00:16:29 GMT",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3548f07471c2877947f7690940747826",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "edfd25394a9c6bc295c4be9188fa7786",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title_fa": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title_en": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "summary_fa": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "summary_en": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Fri, 20 Nov 2026 00:13:21 GMT",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f534b84ebd0d1b99a5e01332b315a5af",
+      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "title_fa": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "title_en": "Four bodies recovered after Senegal boat capsizes amid migration surge",
+      "summary": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+      "summary_fa": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+      "summary_en": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Fri, 20 Nov 2026 00:10:04 +0000",
+      "date_iso": "2026-11-20",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ed88f1becc51af3dc8ffafcf83c71038",
+      "title": "AMD dives on short seller report of alleged China exposure",
+      "title_fa": "AMD dives on short seller report of alleged China exposure",
+      "title_en": "AMD dives on short seller report of alleged China exposure",
+      "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+      "summary_fa": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+      "summary_en": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "CNBC",
+      "published_at": "Fri, 20 Nov 2026 00:08:34 GMT",
+      "date_iso": "2026-11-20",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
       }
     },
     {
