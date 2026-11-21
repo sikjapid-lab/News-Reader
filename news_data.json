@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-21 17:38:29",
-  "total_count": 47749,
+  "last_update": "2026-11-21 22:24:54",
+  "total_count": 47786,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -592187,6 +592187,657 @@
       }
     },
     {
+      "id": "c247b8a3d8e3c8fd166bf4b46f43a901",
+      "title": "Review: Godzilla Minus Zero is everything we could want in a sequel",
+      "title_fa": "Review: Godzilla Minus Zero is everything we could want in a sequel",
+      "title_en": "Review: Godzilla Minus Zero is everything we could want in a sequel",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "summary_fa": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "summary_en": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "source": "Ars Technica",
+      "published_at": "Sat, 21 Nov 2026 22:12:41 +0000",
+      "date_iso": "2026-11-21",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9c45fde3a781cd9ea0aba6bdbae0def3",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "title_fa": "Bahrain says Iranian attack hits industrial facility",
+      "title_en": "Bahrain says Iranian attack hits industrial facility",
+      "summary": "Bahrain says Iranian attack hits industrial facility",
+      "summary_fa": "Bahrain says Iranian attack hits industrial facility",
+      "summary_en": "Bahrain says Iranian attack hits industrial facility",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 22:02:03 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d257072f70db1a0314fe273ff19765d2",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "title_fa": "Lock of former US President George Washington's hair sells for $4,000",
+      "title_en": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "summary_fa": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "summary_en": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 21 Nov 2026 22:01:19 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
+      }
+    },
+    {
+      "id": "863f3439cf650e0b020ccf0b3107797b",
+      "title": "Researchers tracked a long-legged bird’s migration. He flew 6,800 miles.",
+      "title_fa": "Researchers tracked a long-legged bird’s migration. He flew 6,800 miles.",
+      "title_en": "Researchers tracked a long-legged bird’s migration. He flew 6,800 miles.",
+      "summary": "Conservationists say the journey made by the bird, a bar-tailed godwit called Phil, was an \"incredible feat.\"",
+      "summary_fa": "Conservationists say the journey made by the bird, a bar-tailed godwit called Phil, was an \"incredible feat.\"",
+      "summary_en": "Conservationists say the journey made by the bird, a bar-tailed godwit called Phil, was an \"incredible feat.\"",
+      "link": "https://www.washingtonpost.com/the-seven/2026/11/21/researchers-tracked-bar-tailed-godwit-called-phil-migrating-6800-miles/",
+      "source": "Washington Post",
+      "published_at": "Sat, 21 Nov 2026 22:00:00 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "48d07f5bb550c2ef447509cf03253d35",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "title_fa": "Bahrain says Iranian attack causes fire at industrial facility",
+      "title_en": "Bahrain says Iranian attack causes fire at industrial facility",
+      "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "summary_fa": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "summary_en": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:31:03 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "07a61ebe53e50f46a313deb63dbd8da3",
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "title_fa": "Impunity fuels surge in settler violence across occupied West Bank",
+      "title_en": "Impunity fuels surge in settler violence across occupied West Bank",
+      "summary": "Impunity fuels surge in settler violence across occupied West Bank",
+      "summary_fa": "Impunity fuels surge in settler violence across occupied West Bank",
+      "summary_en": "Impunity fuels surge in settler violence across occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:11:54 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4f40e946f075f8adfaf786693b85be73",
+      "title": "Indian man jailed over plot to kill Sikh separatist in US",
+      "title_fa": "Indian man jailed over plot to kill Sikh separatist in US",
+      "title_en": "Indian man jailed over plot to kill Sikh separatist in US",
+      "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+      "summary_fa": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+      "summary_en": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:09:18 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "048da6a65a03b5bc09e89cd8a04307c1",
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "title_fa": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "title_en": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+      "summary_fa": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+      "summary_en": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 21:02:18 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "747fa1146f0dd28f41c82ec906f94fd2",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "title_fa": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "title_en": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "summary_fa": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "summary_en": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:56:35 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "86d5e0b9d589436fc269ad95485c3bf5",
+      "title": "Thousands protest across Europe over living costs and housing",
+      "title_fa": "Thousands protest across Europe over living costs and housing",
+      "title_en": "Thousands protest across Europe over living costs and housing",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "summary_fa": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "summary_en": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:47:50 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "99b40d5bf746a4a3cc0c5f2d9e9fb90b",
+      "title": "Zelensky suggests new round of peace talks could happen during G-20 summit",
+      "title_fa": "Zelensky suggests new round of peace talks could happen during G-20 summit",
+      "title_en": "Zelensky suggests new round of peace talks could happen during G-20 summit",
+      "summary": "The Ukrainian president wants to join President Donald Trump and Russian President Vladimir Putin for trilateral peace talks next month in Miami.",
+      "summary_fa": "The Ukrainian president wants to join President Donald Trump and Russian President Vladimir Putin for trilateral peace talks next month in Miami.",
+      "summary_en": "The Ukrainian president wants to join President Donald Trump and Russian President Vladimir Putin for trilateral peace talks next month in Miami.",
+      "link": "https://www.washingtonpost.com/world/2026/11/21/zelensky-suggests-new-round-peace-talks-could-happen-during-g-20-summit/",
+      "source": "Washington Post",
+      "published_at": "Sat, 21 Nov 2026 20:45:00 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "6b0164fb1a749bde81a77e9ba2acbc7b",
+      "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "title_fa": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "title_en": "AOC challenged over AIPAC’s influence on Democratic leadership",
+      "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+      "summary_fa": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+      "summary_en": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:38:20 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "32ec92f17cc4e0338857de0aa882abe7",
+      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "title_fa": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "title_en": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "summary_fa": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "summary_en": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "link": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "source": "NY Times",
+      "published_at": "Sat, 21 Nov 2026 20:35:07 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-canada-us-defense-photo1-bhjg/21int-canada-us-defense-photo1-bhjg-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c50b0f50c7d69f3cd8b5c0bfb172ca61",
+      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "title_fa": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "title_en": "Why is the US Army detonating lead-rich explosives in Iowa?",
+      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "summary_fa": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "summary_en": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 20:15:13 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "375e912a29806b50be9624ad0fe4cd8b",
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "title_fa": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "title_en": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "summary_fa": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "summary_en": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 21 Nov 2026 20:15:00 GMT",
+      "date_iso": "2026-11-21",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-72281427",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1499de8a7d2a2ab4b8729ad1433b8855",
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "title_fa": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "title_en": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "summary_fa": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "summary_en": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 19:53:00 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d673b0942dbb0cb4aa6da4275fdef2ba",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "title_fa": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "title_en": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "summary_fa": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "summary_en": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 21 Nov 2026 19:45:00 GMT",
+      "date_iso": "2026-11-21",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-39779425",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "76d1df669a494c2fe6d16359c0cbd4a0",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "title_fa": "Russia-bound ship attacked in Gulf of Finland",
+      "title_en": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "summary_fa": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "summary_en": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "11f7e95e13696a8019af06d90842cb65",
+      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "title_fa": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "title_en": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessorsGet our daily political email, free app or daily news podcastAt the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles.It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
+      "summary_fa": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessorsGet our daily political email, free app or daily news podcastAt the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles.It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
+      "summary_en": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessorsGet our daily political email, free app or daily news podcastAt the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles.It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Sat, 21 Nov 2026 19:00:08 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=4f36239acbfcd8f7333ae1e3de2f8bf2",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9ed4b5575743c4e96630e404f54093ad",
+      "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+      "title_fa": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+      "title_en": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+      "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’Get our breaking news email, free app or daily news podcastAn Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at a beachside lip gloss launch.Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses. Continue reading...",
+      "summary_fa": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’Get our breaking news email, free app or daily news podcastAn Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at a beachside lip gloss launch.Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses. Continue reading...",
+      "summary_en": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’Get our breaking news email, free app or daily news podcastAn Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at a beachside lip gloss launch.Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "source": "The Guardian",
+      "published_at": "Sat, 21 Nov 2026 19:00:07 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=140&quality=85&auto=format&fit=max&s=1a964940fcd99abace8e52b45c33992e",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cbabc29508990db285d2bb01a3bd10cc",
+      "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "title_fa": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "title_en": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+      "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’Get our breaking news email, free app or daily news podcastAustralian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which has been accused of facilitating the financing of hate and extremism.Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group. Continue reading...",
+      "summary_fa": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’Get our breaking news email, free app or daily news podcastAustralian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which has been accused of facilitating the financing of hate and extremism.Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group. Continue reading...",
+      "summary_en": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’Get our breaking news email, free app or daily news podcastAustralian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which has been accused of facilitating the financing of hate and extremism.Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Sat, 21 Nov 2026 19:00:06 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b957a7fcf2ffb37f8d972e65ce799d6e",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "آمریکا"
+      }
+    },
+    {
+      "id": "0336a33195f69dbfbd534eeb7a1d0858",
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "title_fa": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "title_en": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "summary_fa": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "summary_en": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:42:38 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "ac690632808743ed3883b6ca3a7a7373",
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "title_fa": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "title_en": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "summary": "This one, simple, low-pain tax solves all the problems.",
+      "summary_fa": "This one, simple, low-pain tax solves all the problems.",
+      "summary_en": "This one, simple, low-pain tax solves all the problems.",
+      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Sat, 21 Nov 2026 18:20:00 GMT",
+      "date_iso": "2026-11-21",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-64310568",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2d292ed8b6d45cd29bc3a499b9fd1173",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "title_fa": "FBI national crime database suffers suspected breach: Reports",
+      "title_en": "FBI national crime database suffers suspected breach: Reports",
+      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "summary_fa": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "summary_en": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:19:10 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "30c3e9799d39469271c45cb154b11196",
+      "title": "Could Brexit be reversed?",
+      "title_fa": "Could Brexit be reversed?",
+      "title_en": "Could Brexit be reversed?",
+      "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "summary_fa": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "summary_en": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:18:11 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "1f1e776510599976ebfbe6b7be378de0",
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "title_fa": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "title_en": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "summary_fa": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "summary_en": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 18:05:51 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "a855cc1c7f66070ad226fc0d9dbf7180",
+      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "title_fa": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "title_en": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "summary": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "summary_fa": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "summary_en": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:57:27 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "cb7bea1713986e752b8f8052b7534365",
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "title_fa": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "title_en": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "summary_fa": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "summary_en": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:54:19 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.5017,
+        "lng": 34.4668,
+        "name": "غزه"
+      }
+    },
+    {
+      "id": "04fa453bf12dae14bf7d67aed0744ed3",
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "title_fa": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "title_en": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave. Continue reading...",
+      "summary_fa": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave. Continue reading...",
+      "summary_en": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian",
+      "published_at": "Sat, 21 Nov 2026 17:46:55 GMT",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "bb5920aaecd9d1ee638ffa3bff652da6",
+      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "title_fa": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "title_en": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "summary_fa": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "summary_en": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:28:51 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "001ff263b8fd121175180fe84a74db2b",
+      "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+      "title_fa": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+      "title_en": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+      "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+      "summary_fa": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+      "summary_en": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:21:37 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "1f4f8fbf492e733629fea2417e0a3db9",
       "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "title_fa": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
@@ -592205,6 +592856,27 @@
         "lat": 20.0,
         "lng": 0.0,
         "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1eb0e05fde70ff5de4fec3b32534d938",
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "title_fa": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "title_en": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+      "summary_fa": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+      "summary_en": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sat, 21 Nov 2026 17:20:03 +0000",
+      "date_iso": "2026-11-21",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -923985,6 +924657,69 @@
       }
     },
     {
+      "id": "695127056d82f74af20e63bed45e009c",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "title_fa": "Amazon is complaining about NYC Council on shipping labels, too",
+      "title_en": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+      "summary_fa": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+      "summary_en": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "source": "The Verge",
+      "published_at": "2026-11-21T16:59:31-05:00",
+      "date_iso": "2026-11-21",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d8b727e63664c7639992636e118f9bf2",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_fa": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "summary_fa": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "summary_en": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "published_at": "2026-11-21T15:03:37-05:00",
+      "date_iso": "2026-11-21",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "9008b9ae081ca0bcd0661d72e7139997",
+      "title": "The FBI and USDA were reportedly hacked",
+      "title_fa": "The FBI and USDA were reportedly hacked",
+      "title_en": "The FBI and USDA were reportedly hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
+      "summary_fa": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
+      "summary_en": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
+      "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "source": "The Verge",
+      "published_at": "2026-11-21T12:42:27-05:00",
+      "date_iso": "2026-11-21",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "83124a8bd9fcd089ac8d004627e45d22",
       "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
       "title_fa": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -924144,6 +924879,48 @@
       "published_at": "2026-11-21T07:00:00-05:00",
       "date_iso": "2026-11-21",
       "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "11c7ad4fb6e51e41add6ea86a92633bc",
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "title_fa": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "title_en": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "summary": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "summary_fa": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "summary_en": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+      "link": "https://www.nature.com/articles/d41586-026-03803-8",
+      "source": "Nature",
+      "published_at": "2026-11-21 22:24",
+      "date_iso": "2026-11-21",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "676fe1c7292e3768bd0b6bdd82b12808",
+      "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "title_fa": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "title_en": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "summary": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7Scholars say that the rival claims to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+      "summary_fa": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7Scholars say that the rival claims to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+      "summary_en": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7Scholars say that the rival claims to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+      "link": "https://www.nature.com/articles/d41586-026-03812-7",
+      "source": "Nature",
+      "published_at": "2026-11-21 22:24",
+      "date_iso": "2026-11-21",
+      "category": "علم و سلامت",
       "region": "بین‌المللی",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
