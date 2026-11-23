@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-22 23:14:09",
-  "total_count": 48001,
+  "last_update": "2026-11-23 03:46:28",
+  "total_count": 48033,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -505625,6 +505625,90 @@
       }
     },
     {
+      "id": "f258e41ee36db1eabaa50d4e28016d0d",
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "title_fa": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "title_en": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "summary_fa": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "summary_en": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:59:22 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "007638532a5a1fbb283dc4b165b7d14f",
+      "title": "Mystery of the red stream in Turkiye",
+      "title_fa": "Mystery of the red stream in Turkiye",
+      "title_en": "Mystery of the red stream in Turkiye",
+      "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "summary_fa": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "summary_en": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:57:58 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "885e3aff99a3b94dc12c8d660ccb868b",
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "title_fa": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "title_en": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "summary_fa": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "summary_en": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "CNBC",
+      "published_at": "Sun, 22 Nov 2026 23:49:44 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "b2ebae4d440b6609d4ec014cca3b2a4d",
+      "title": "Lion on the loose in Turkiye sparks fear among residents",
+      "title_fa": "Lion on the loose in Turkiye sparks fear among residents",
+      "title_en": "Lion on the loose in Turkiye sparks fear among residents",
+      "summary": "Lion on the loose in Turkiye sparks fear among residents",
+      "summary_fa": "Lion on the loose in Turkiye sparks fear among residents",
+      "summary_en": "Lion on the loose in Turkiye sparks fear among residents",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:40:48 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "88940f3d6ad5068a76600576e7cbb161",
       "title": "Morocco: A surreal sculpture park turns the world upside down",
       "title_fa": "Morocco: A surreal sculpture park turns the world upside down",
@@ -505638,6 +505722,27 @@
       "date_iso": "2026-11-22",
       "category": "سیاست",
       "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "a9a19fed5a7d1e2d7fa836da98dc08e3",
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "title_fa": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "title_en": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "summary_fa": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "summary_en": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 23:22:59 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -505667,6 +505772,27 @@
       }
     },
     {
+      "id": "7f74139d5976b766f272cdca9a46f636",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "title_fa": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "title_en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "summary_fa": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "summary_en": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Sun, 22 Nov 2026 22:49:10 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "7fd6bd8b01e931f4017f246538c6fa45",
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "title_fa": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
@@ -505685,6 +505811,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "84b36737d2cb18e720f7f2ef587edec3",
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "title_fa": "Trump to host private dinner for largest owners of his meme coin",
+      "title_en": "Trump to host private dinner for largest owners of his meme coin",
+      "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "summary_fa": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "summary_en": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Sun, 22 Nov 2026 22:37:38 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -694622,6 +694769,510 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "ab9a3690e1b757d38db06c6af4abfa96",
+      "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "title_fa": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "title_en": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+      "summary_fa": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+      "summary_en": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+      "source": "CNBC",
+      "published_at": "Mon, 23 Nov 2026 03:40:39 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "f756cdb6184738bad58fc84623d955c3",
+      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of question time for ‘taking the mickey’",
+      "title_fa": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of question time for ‘taking the mickey’",
+      "title_en": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of question time for ‘taking the mickey’",
+      "summary": "Get our breaking news email, free app or daily news podcast‘Very difficult to bridge that divide’: Murray WattCabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement.It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations.I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change.We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan.Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "summary_fa": "Get our breaking news email, free app or daily news podcast‘Very difficult to bridge that divide’: Murray WattCabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement.It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations.I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change.We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan.Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "summary_en": "Get our breaking news email, free app or daily news podcast‘Very difficult to bridge that divide’: Murray WattCabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement.It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations.I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change.We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan.Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 23 Nov 2026 03:39:17 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "a1b77d8ec3f361337b93514b8ab76b29",
+      "title": "Tech stock sell-off deepens in Asia",
+      "title_fa": "Tech stock sell-off deepens in Asia",
+      "title_en": "Tech stock sell-off deepens in Asia",
+      "summary": "South Korea’s Kospi slides more than 5% after Friday’s heavy losses on Wall Street",
+      "summary_fa": "South Korea’s Kospi slides more than 5% after Friday’s heavy losses on Wall Street",
+      "summary_en": "South Korea’s Kospi slides more than 5% after Friday’s heavy losses on Wall Street",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 23 Nov 2026 03:27:18 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3a4cccba-42a8-4b9f-8427-6f9b292ad50b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "827ae7775fb89d749e47750667479b44",
+      "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "title_fa": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "title_en": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "summary": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "summary_fa": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "summary_en": "Don Toliver concert chaos after ‘substance’ let off in crowd",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 03:25:25 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d487700465c87edcb294253eaacf86d3",
+      "title": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "title_fa": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "title_en": "Belgium’s airports set to shut down due to anti-austerity strike",
+      "summary": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+      "summary_fa": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+      "summary_en": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 03:15:55 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2a47924db447fb324c4d3b00836cd605",
+      "title": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+      "title_fa": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+      "title_en": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+      "summary": "Crown says accused developed ‘jealous obsession’ but defence says ‘love makes fools of us’ Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon acted like a “poorly behaved boyfriend” before allegedly murdering Jesse Baird and Luke Davies, a court has heard.Lamarre-Condon is accused of fatally shooting the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_fa": "Crown says accused developed ‘jealous obsession’ but defence says ‘love makes fools of us’ Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon acted like a “poorly behaved boyfriend” before allegedly murdering Jesse Baird and Luke Davies, a court has heard.Lamarre-Condon is accused of fatally shooting the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary_en": "Crown says accused developed ‘jealous obsession’ but defence says ‘love makes fools of us’ Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon acted like a “poorly behaved boyfriend” before allegedly murdering Jesse Baird and Luke Davies, a court has heard.Lamarre-Condon is accused of fatally shooting the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 23 Nov 2026 03:07:31 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=2cd65c7c634a6466972155b4ad17b92e",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "4b5a16d0b8db4496b051b4cca376e944",
+      "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
+      "title_fa": "BYD hit after court bars SUV from EU over Land Rover design copy",
+      "title_en": "BYD hit after court bars SUV from EU over Land Rover design copy",
+      "summary": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "summary_fa": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "summary_en": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "link": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 23 Nov 2026 02:48:12 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F240903e9-e7fc-4010-83ac-6a5c0a31f427.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "name": "اروپا"
+      }
+    },
+    {
+      "id": "7669f32bc236d09e926c8db865a3fb2a",
+      "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+      "title_fa": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+      "title_en": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+      "summary": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consentsGet our breaking news email, free app or daily news podcastFormer reality TV star Sam Wood is seeking mediation amid his serious domestic violence charges for allegedly strangling his wife.The Melbourne-based fitness influencer has made the request days after his distressed prison call, asking to speak to his wife, was heard in court. Continue reading...",
+      "summary_fa": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consentsGet our breaking news email, free app or daily news podcastFormer reality TV star Sam Wood is seeking mediation amid his serious domestic violence charges for allegedly strangling his wife.The Melbourne-based fitness influencer has made the request days after his distressed prison call, asking to speak to his wife, was heard in court. Continue reading...",
+      "summary_en": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consentsGet our breaking news email, free app or daily news podcastFormer reality TV star Sam Wood is seeking mediation amid his serious domestic violence charges for allegedly strangling his wife.The Melbourne-based fitness influencer has made the request days after his distressed prison call, asking to speak to his wife, was heard in court. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+      "source": "The Guardian",
+      "published_at": "Mon, 23 Nov 2026 02:40:33 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=8a763c9c758960a86a5c958e048f1254",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6a6deecf1f7aa7dfde0459ae05ded944",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "title_fa": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "title_en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "summary_fa": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "summary_en": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 23 Nov 2026 02:37:02 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "b318176f84a481eda165abba341f9a88",
+      "title": "Indonesian police remove 24 body bags from factory fire site",
+      "title_fa": "Indonesian police remove 24 body bags from factory fire site",
+      "title_en": "Indonesian police remove 24 body bags from factory fire site",
+      "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "summary_fa": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "summary_en": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 02:35:42 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "4fdf3eb7113abaa9cd555ce13ab4204b",
+      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "title_fa": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "title_en": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+      "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+      "summary_fa": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+      "summary_en": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 02:23:13 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "27538221e70500380e7b8eeaf07f2fa9",
+      "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "title_fa": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "title_en": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+      "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+      "summary_fa": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+      "summary_en": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 02:09:15 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "944e6b4fd71c0a3abc88eea764762da6",
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "title_fa": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "title_en": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "summary_fa": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "summary_en": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 01:53:23 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "d6d9a4f4837dc99d47183a4ac1c01d01",
+      "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "title_fa": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "title_en": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+      "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "summary_fa": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "summary_en": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 01:51:32 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "05ad1e5657d86bb255b1e50c1b57d7e0",
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "title_fa": "Israeli forces continue house demolitions in southern Lebanon",
+      "title_en": "Israeli forces continue house demolitions in southern Lebanon",
+      "summary": "Israeli forces continue house demolitions in southern Lebanon",
+      "summary_fa": "Israeli forces continue house demolitions in southern Lebanon",
+      "summary_en": "Israeli forces continue house demolitions in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 01:43:29 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "22434a22ba7aab2b5bc463bd73a0a48b",
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "title_fa": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "title_en": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "summary_fa": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "summary_en": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+      "source": "NY Times",
+      "published_at": "Mon, 23 Nov 2026 01:32:02 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "1002ea20c64a87833d027543a9f08ed6",
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "title_fa": "Is Mexico Stepping Up in the War on Drugs?",
+      "title_en": "Is Mexico Stepping Up in the War on Drugs?",
+      "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "summary_fa": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "summary_en": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+      "source": "NY Times",
+      "published_at": "Mon, 23 Nov 2026 01:26:59 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "08dcd3dd8eb4ec15168425204c805584",
+      "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "title_fa": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "title_en": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83Molly Meldrum – a life in picturesIan ‘Molly’ Meldrum – obituaryFriends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83.Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
+      "summary_fa": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83Molly Meldrum – a life in picturesIan ‘Molly’ Meldrum – obituaryFriends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83.Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
+      "summary_en": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83Molly Meldrum – a life in picturesIan ‘Molly’ Meldrum – obituaryFriends and fans of Molly Meldrum have remembered the music industry great, who died on Monday at the age of 83.Meldrum spent more than a decade hosting the ABC music show Countdown, leaving a lasting legacy on the Australian music landscape. Continue reading...",
+      "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+      "source": "The Guardian",
+      "published_at": "Mon, 23 Nov 2026 01:23:07 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://i.guim.co.uk/img/media/daeeb582629c5090f6a9039346c76a755ec16bb2/414_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=2770d0dabf1c002e491fde550f4a4b48",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "df3ec82da91493b39ae6a1b6e4bb2ba7",
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "title_fa": "3 big things we're watching in the market this Thanksgiving week",
+      "title_en": "3 big things we're watching in the market this Thanksgiving week",
+      "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "summary_fa": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "summary_en": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+      "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "source": "CNBC",
+      "published_at": "Mon, 23 Nov 2026 00:42:54 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "852476a915504ddea28bd2542e5f63aa",
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "title_fa": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "title_en": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "summary_fa": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "summary_en": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 00:39:51 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fcbbe262d0938815d15418816af596a0",
+      "title": "Asian stock markets tumble as AI bubble fears mount",
+      "title_fa": "Asian stock markets tumble as AI bubble fears mount",
+      "title_en": "Asian stock markets tumble as AI bubble fears mount",
+      "summary": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
+      "summary_fa": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
+      "summary_en": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 00:18:03 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "a294862e1270f1cadbf076f99598830f",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "title_fa": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "title_en": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "summary_fa": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "summary_en": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Mon, 23 Nov 2026 00:08:00 GMT",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "fe6447b358bed3678112dcb155db9124",
+      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "title_fa": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "title_en": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "summary_fa": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "summary_en": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 23 Nov 2026 00:03:30 +0000",
+      "date_iso": "2026-11-23",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "249306d25f00a922e87709fb5b4979ad",
+      "title": "Jim O’Neill calls for Burnham to overhaul property taxes",
+      "title_fa": "Jim O’Neill calls for Burnham to overhaul property taxes",
+      "title_en": "Jim O’Neill calls for Burnham to overhaul property taxes",
+      "summary": "Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax",
+      "summary_fa": "Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax",
+      "summary_en": "Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax",
+      "link": "https://www.ft.com/content/7151f7cb-58eb-43ce-844d-05cd62a985ba?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Mon, 23 Nov 2026 00:01:00 GMT",
+      "date_iso": "2026-11-23",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Facd5ba8e-af16-4b00-86e5-cbda9b7dfee3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -928938,6 +929589,27 @@
         "lat": 35.6892,
         "lng": 51.389,
         "name": "ایران"
+      }
+    },
+    {
+      "id": "a4a9661e6e77e42518c5de02e8e810e1",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "title_fa": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "title_en": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+      "summary_fa": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+      "summary_en": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "source": "The Verge",
+      "published_at": "2026-11-22T22:00:00-05:00",
+      "date_iso": "2026-11-23",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
