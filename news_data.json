@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-24 21:09:59",
-  "total_count": 48580,
+  "last_update": "2026-11-25 04:13:07",
+  "total_count": 48641,
   "articles": [
     {
       "id": "ad6bf3666611ff110c52932e0c322f8a",
@@ -37919,6 +37919,531 @@
       "source": "Al Jazeera",
       "published_at": "Wed, 26 Aug 2026 00:00:00 +0000",
       "date_iso": "2026-08-26",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "27cef7058fc92fffb45f0d397910562d",
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "title_fa": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "title_en": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "summary_fa": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "summary_en": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 04:06:01 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "70b1174147cf8e760052a5c6d4a7bf9c",
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "title_fa": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "title_en": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+      "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "summary_fa": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "summary_en": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
+      "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 03:58:32 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "cec59d02733cf4bf9e6f381baf2f70ac",
+      "title": "Asian markets lose ground as AI fears return",
+      "title_fa": "Asian markets lose ground as AI fears return",
+      "title_en": "Asian markets lose ground as AI fears return",
+      "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "summary_fa": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "summary_en": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 25 Nov 2026 03:52:20 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F92d02471-8679-4e7e-9f27-d3c946bb78a3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "توکیو"
+      }
+    },
+    {
+      "id": "c88c7553461716a095942d597abc6129",
+      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "title_fa": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "title_en": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "summary_fa": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "summary_en": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+      "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 03:52:03 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "0bdd4bc9368f94edb992a363a8a5e5f1",
+      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "title_fa": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "title_en": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+      "summary_fa": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+      "summary_en": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 03:31:59 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "name": "ژاپن"
+      }
+    },
+    {
+      "id": "6921b97563b737d365aaeee897f3ccdb",
+      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "title_fa": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "title_en": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+      "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "summary_fa": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "summary_en": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+      "source": "NY Times",
+      "published_at": "Wed, 25 Nov 2026 02:55:17 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "2733fcf99598ee46733962b2ef8e922c",
+      "title": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "title_fa": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "title_en": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "summary_fa": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "summary_en": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 02:44:45 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eaf17e2013b46717613118199bdc45f1",
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "title_fa": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "title_en": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "summary_fa": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "summary_en": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 02:43:33 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "637dc5cabcb9ecb65090678b5e55445e",
+      "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "title_fa": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "title_en": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+      "summary_fa": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+      "summary_en": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 02:40:59 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "1074fbf1b6e5ad91e9a59113d8e4dc57",
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "title_fa": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "title_en": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "summary_fa": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "summary_en": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+      "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 02:36:43 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "8dca35599fdd27f77df7be72d272d647",
+      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "title_fa": "WHO chief urges end to US fuel blockade on Cuba",
+      "title_en": "WHO chief urges end to US fuel blockade on Cuba",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "summary_fa": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "summary_en": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 02:23:19 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f53d011f970f7f6f5c90d7bc7fa2eb92",
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "title_fa": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "title_en": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "summary_fa": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "summary_en": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 02:09:45 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "219897c63b9510d82f4c4644efe09368",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "title_fa": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "title_en": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "summary_fa": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "summary_en": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 25 Nov 2026 01:40:42 GMT",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "53c8a33b1cf3d5af40a04f68555ce3f4",
+      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "title_fa": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "title_en": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "summary_fa": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "summary_en": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 01:39:53 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d6252debdb2e956e8bbabfad7c5d0f6e",
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "title_fa": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "title_en": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "summary_fa": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "summary_en": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 01:30:44 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 31.0461,
+        "lng": 34.8516,
+        "name": "فلسطین"
+      }
+    },
+    {
+      "id": "8caf87319ccb7dfd2479b8a25f94e744",
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "title_fa": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "title_en": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "summary_fa": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "summary_en": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 01:21:02 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "0d41aade7256071ef99a20aa520c1f51",
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "title_fa": "Poll finds US voters want government to end Iran war regardless of terms",
+      "title_en": "Poll finds US voters want government to end Iran war regardless of terms",
+      "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "summary_fa": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "summary_en": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 01:14:22 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 35.6892,
+        "lng": 51.389,
+        "name": "ایران"
+      }
+    },
+    {
+      "id": "d4a4621d7b296097b364aba35161abb3",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "title_fa": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "title_en": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "summary_fa": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "summary_en": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "source": "CNBC",
+      "published_at": "Wed, 25 Nov 2026 01:13:56 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "724998d6230e44cde93a0fa367037cf2",
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "title_fa": "Dell’s stock rises as the AI boom helps sales more than double",
+      "title_en": "Dell’s stock rises as the AI boom helps sales more than double",
+      "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "summary_fa": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "summary_en": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Wed, 25 Nov 2026 01:11:00 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-86616784",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "cc387a3abaa18d472af61046633d6f7e",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title_fa": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title_en": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "summary_fa": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "summary_en": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Wed, 25 Nov 2026 00:56:51 GMT",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "9cbe66b80c1e9919bc880944f0444f8a",
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "title_fa": "Gunmen hold dozens hostage in Colombia supermarket",
+      "title_en": "Gunmen hold dozens hostage in Colombia supermarket",
+      "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "summary_fa": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "summary_en": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 00:49:35 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "f50cf9e5486a6c7282e04ce40827aeab",
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "title_fa": "Trump Administration Pauses Joint Operations With Ecuador",
+      "title_en": "Trump Administration Pauses Joint Operations With Ecuador",
+      "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "summary_fa": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "summary_en": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "source": "NY Times",
+      "published_at": "Wed, 25 Nov 2026 00:42:52 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "7c482a7eff4feb6bf38394e3c768cbd7",
+      "title": "Alaska ends deal to give voter records to US Justice Department",
+      "title_fa": "Alaska ends deal to give voter records to US Justice Department",
+      "title_en": "Alaska ends deal to give voter records to US Justice Department",
+      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "summary_fa": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "summary_en": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 00:28:28 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "ca3afa2b04a6cc0678e6461def9d1484",
+      "title": "AI powers double-digit jump in ‘authorised’ fraud",
+      "title_fa": "AI powers double-digit jump in ‘authorised’ fraud",
+      "title_en": "AI powers double-digit jump in ‘authorised’ fraud",
+      "summary": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "summary_fa": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "summary_en": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026",
+      "link": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Wed, 25 Nov 2026 00:01:10 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4105dcf7-a637-408c-a99b-c6f80f6edcd1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "c66e25fd24398fd86f7eac98003ebbfa",
+      "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+      "title_fa": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+      "title_en": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+      "summary": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+      "summary_fa": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+      "summary_en": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Wed, 25 Nov 2026 00:00:00 +0000",
+      "date_iso": "2026-11-25",
       "category": "سیاست",
       "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
@@ -206311,6 +206836,405 @@
       }
     },
     {
+      "id": "141c6ce842656ffd4643937a2bb3d00f",
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "title_fa": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "title_en": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "summary_fa": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "summary_en": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 23:39:13 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "3c64e5c6f39a0ff918944bab31c4cac7",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "title_fa": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "title_en": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "summary_fa": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "summary_en": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "source": "Wired",
+      "published_at": "Tue, 24 Nov 2026 23:39:04 +0000",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eaf7b81e3b6657ec491ee1747c0d1b77",
+      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "title_fa": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "title_en": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "summary_fa": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "summary_en": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 23:29:40 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "d7351a791467cf4983d2c57fa73c30f3",
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "title_fa": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "title_en": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "summary_fa": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "summary_en": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 24 Nov 2026 23:11:00 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-752810",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "eb5b9b518ccdc656a98215261dc821cb",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "title_fa": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "title_en": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "summary_fa": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "summary_en": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 24 Nov 2026 23:03:59 GMT",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "70a2fd07a621d9cd4f86e2e54a21c0e7",
+      "title": "Tech giant Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title_fa": "Tech giant Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title_en": "Tech giant Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "In a statement, Huawei said the acquittal on the racketeering charge \"confirms that these allegations lack factual basis and vindicates our consistent position over the past eight years.\"",
+      "summary_fa": "In a statement, Huawei said the acquittal on the racketeering charge \"confirms that these allegations lack factual basis and vindicates our consistent position over the past eight years.\"",
+      "summary_en": "In a statement, Huawei said the acquittal on the racketeering charge \"confirms that these allegations lack factual basis and vindicates our consistent position over the past eight years.\"",
+      "link": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering",
+      "source": "EuroNews",
+      "published_at": "Tue, 24 Nov 2026 22:51:47 +0100",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "0d9ee5eee85495f59f55a694e17f358c",
+      "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+      "title_fa": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+      "title_en": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+      "summary": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
+      "summary_fa": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
+      "summary_en": "Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring",
+      "link": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 24 Nov 2026 22:50:57 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8329a221-4638-4186-a8de-5fc774a1a5fd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "name": "بریتانیا"
+      }
+    },
+    {
+      "id": "70b355aca630c0f3861492e2826c0e2c",
+      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "title_fa": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "title_en": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "summary_fa": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "summary_en": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 22:50:16 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
+      }
+    },
+    {
+      "id": "4ad68a0c70d35fc8e0046be137742a66",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "title_fa": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "title_en": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "summary_fa": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "summary_en": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 24 Nov 2026 22:50:11 +0000",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d2c9f721b4127c772572660a917c0ae2",
+      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "title_fa": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "title_en": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "summary_fa": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "summary_en": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+      "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 22:37:20 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8e7b742514f71acef5fcab16a36fa058",
+      "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+      "title_fa": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+      "title_en": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+      "summary": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+      "summary_fa": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+      "summary_en": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+      "link": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "published_at": "Tue, 24 Nov 2026 22:36:29 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "اروپا",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1c2fda8-c4cc-4958-9db9-398951535ab9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "69418114bb9244a3032766f42c3c9ba7",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "title_fa": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "title_en": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "summary_fa": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "summary_en": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "source": "Ars Technica",
+      "published_at": "Tue, 24 Nov 2026 22:36:28 +0000",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "24b400067645a4cdf3283452b825ca45",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "title_fa": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "title_en": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "summary_fa": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "summary_en": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "source": "Wired",
+      "published_at": "Tue, 24 Nov 2026 22:22:20 +0000",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "17958e0740efbca51397edbe9ff9144c",
+      "title": "Europe Tonight debriefs: can the EU budget compete with China and the US?",
+      "title_fa": "Europe Tonight debriefs: can the EU budget compete with China and the US?",
+      "title_en": "Europe Tonight debriefs: can the EU budget compete with China and the US?",
+      "summary": "Euronews' daily evening show Europe Tonight welcomed Lukas Gutenberg, director of Bertelsmann Stiftung, to discuss issues such as how the EU plans to do more with less, as well as the latest proposal put forward by Antonio Costa, which foresees another round of big cuts.",
+      "summary_fa": "Euronews' daily evening show Europe Tonight welcomed Lukas Gutenberg, director of Bertelsmann Stiftung, to discuss issues such as how the EU plans to do more with less, as well as the latest proposal put forward by Antonio Costa, which foresees another round of big cuts.",
+      "summary_en": "Euronews' daily evening show Europe Tonight welcomed Lukas Gutenberg, director of Bertelsmann Stiftung, to discuss issues such as how the EU plans to do more with less, as well as the latest proposal put forward by Antonio Costa, which foresees another round of big cuts.",
+      "link": "https://www.euronews.com/2026/11/24/europe-tonight-debriefs-can-the-eu-budget-compete-with-china-and-the-us",
+      "source": "EuroNews",
+      "published_at": "Tue, 24 Nov 2026 22:10:52 +0100",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "اروپا",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "2ed7df607f9816e1ac218bde5f85256f",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "title_fa": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "title_en": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "summary_fa": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "summary_en": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "source": "CNBC",
+      "published_at": "Tue, 24 Nov 2026 22:07:45 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "d19a3b698494ec22dd1b06c7d4a7e361",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "title_fa": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "title_en": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "summary_fa": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "summary_en": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "Tue, 24 Nov 2026 22:07:30 GMT",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "بین‌المللی",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/1983e580-e853-11f1-99a1-253766e7ad8b.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "588a406c8572b064b677571ad8dcb70a",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "title_fa": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "title_en": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "summary_fa": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "summary_en": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "source": "CNBC",
+      "published_at": "Tue, 24 Nov 2026 22:03:01 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "c6b1512d078101a4df20aaaadc7220b0",
+      "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "title_fa": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "title_en": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+      "summary_fa": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+      "summary_en": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 22:01:26 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "22653969cd0670e80fa4c00da722ca4e",
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "title_fa": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "title_en": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "summary_fa": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "summary_en": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 24 Nov 2026 21:53:00 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-44503864",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "11dc4a5bd18b909951477ea92c286424",
       "title": "'It's simply cheaper to fund Ukraine': Ukrainian economist warns Europe against cutting aid to Kyiv",
       "title_fa": "'It's simply cheaper to fund Ukraine': Ukrainian economist warns Europe against cutting aid to Kyiv",
@@ -206329,6 +207253,69 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "c34e9225f378102acdb46240ac884fcb",
+      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "title_fa": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "title_en": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "summary_fa": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "summary_en": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 21:45:42 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8040a27b890dad401827d9986ac3fdad",
+      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "title_fa": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "title_en": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "summary_fa": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "summary_en": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 21:43:34 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "name": "چین"
+      }
+    },
+    {
+      "id": "2ce0af635bf0ab60687cbf78bbd52248",
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "title_fa": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "title_en": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "summary_fa": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "summary_en": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 24 Nov 2026 21:31:00 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-06497984",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
       }
     },
     {
@@ -206353,6 +207340,27 @@
       }
     },
     {
+      "id": "3b086a2daa07085545c0230877986da2",
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "title_fa": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "title_en": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "summary_fa": "“Retirement is a financial status, not an age.”",
+      "summary_en": "“Retirement is a financial status, not an age.”",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_at": "Tue, 24 Nov 2026 21:30:00 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.mktw.net/im-83830528",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "aaec3c868deb73551900da683fab8acf",
       "title": "Miro G cargo vessel refloated after running aground off southwest France",
       "title_fa": "Miro G cargo vessel refloated after running aground off southwest France",
@@ -206371,6 +207379,27 @@
         "lat": 48.8566,
         "lng": 2.3522,
         "name": "فرانسه"
+      }
+    },
+    {
+      "id": "e4186ac20c539a1d5717c01e958b1abf",
+      "title": "Russian jets spark air raid alert in South Korea",
+      "title_fa": "Russian jets spark air raid alert in South Korea",
+      "title_en": "Russian jets spark air raid alert in South Korea",
+      "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "summary_fa": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "summary_en": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 21:14:57 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 55.7558,
+        "lng": 37.6173,
+        "name": "روسیه"
       }
     },
     {
@@ -206408,6 +207437,27 @@
       "date_iso": "2026-11-24",
       "category": "اقتصاد و بازار",
       "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "356b5428d2e4b444d1f94a02bbf6288e",
+      "title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+      "title_fa": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+      "title_en": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+      "summary": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
+      "summary_fa": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
+      "summary_en": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 21:04:46 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
@@ -206472,6 +207522,27 @@
       "category": "سیاست",
       "region": "بین‌المللی",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "8eb5b1eabf5fb411b15aed1614f703d1",
+      "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "title_fa": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "title_en": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+      "summary_fa": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+      "summary_en": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "Tue, 24 Nov 2026 20:58:41 +0000",
+      "date_iso": "2026-11-25",
+      "category": "سیاست",
+      "region": "خاورمیانه",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -207529,6 +208600,27 @@
       }
     },
     {
+      "id": "7e7c6967306f26c43a03911d5627a0a5",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "title_fa": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "title_en": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "summary_fa": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "summary_en": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "source": "Science Daily",
+      "published_at": "Tue, 24 Nov 2026 18:31:52 EST",
+      "date_iso": "2026-11-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "51781e53605bab5912bb1f68dd069ab1",
       "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
       "title_fa": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
@@ -207820,6 +208912,27 @@
         "lat": 55.7558,
         "lng": 37.6173,
         "name": "روسیه"
+      }
+    },
+    {
+      "id": "d08eda12a8cde840b76ef0fce7d60638",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "title_fa": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "title_en": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "summary_fa": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "summary_en": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "source": "CNBC",
+      "published_at": "Tue, 24 Nov 2026 17:51:45 GMT",
+      "date_iso": "2026-11-25",
+      "category": "اقتصاد و بازار",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "name": "واشنگتن"
       }
     },
     {
@@ -208530,6 +209643,27 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": null,
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "68f09a81c025cebcd68ad3d5146ce6e8",
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "title_fa": "A black hole the size of an atom could destroy an entire star",
+      "title_en": "A black hole the size of an atom could destroy an entire star",
+      "summary": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+      "summary_fa": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+      "summary_en": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter.",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+      "source": "Science Daily",
+      "published_at": "Tue, 24 Nov 2026 15:58:15 EST",
+      "date_iso": "2026-11-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
@@ -939756,6 +940890,48 @@
       }
     },
     {
+      "id": "77dfde29c65a544f642e6cb4121e45c6",
+      "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "title_fa": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "title_en": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "summary": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03836-zAnthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.",
+      "summary_fa": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03836-zAnthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.",
+      "summary_en": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03836-zAnthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.",
+      "link": "https://www.nature.com/articles/d41586-026-03836-z",
+      "source": "Nature",
+      "published_at": "2026-11-25 04:12",
+      "date_iso": "2026-11-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "995dd5ad0a3f69af8d91a41285244103",
+      "title": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "title_fa": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "title_en": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "summary": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03802-9Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "summary_fa": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03802-9Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "summary_en": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03802-9Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "link": "https://www.nature.com/articles/d41586-026-03802-9",
+      "source": "Nature",
+      "published_at": "2026-11-25 04:12",
+      "date_iso": "2026-11-25",
+      "category": "علم و سلامت",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "03cc1b62113fbd7c1aee0ab1c2f32ced",
       "title": "I gave Gemini access to my Wallet, and it immediately started saving me money",
       "title_fa": "I gave Gemini access to my Wallet, and it immediately started saving me money",
@@ -939777,6 +940953,27 @@
       }
     },
     {
+      "id": "a3159a3cc9462fbf20ca310e98a5a9af",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "title_fa": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "title_en": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the […]",
+      "summary_fa": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the […]",
+      "summary_en": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the […]",
+      "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "source": "The Verge",
+      "published_at": "2026-11-24T20:00:00-05:00",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
       "id": "736eb65809c611eec1e3cdb9d4a34ee0",
       "title": "This hidden iOS 27 feature ensures you’ll never sleep through an alarm again",
       "title_fa": "This hidden iOS 27 feature ensures you’ll never sleep through an alarm again",
@@ -939791,6 +940988,90 @@
       "category": "فناوری و AI",
       "region": "بین‌المللی",
       "image": "https://www.zdnet.com/wp-content/uploads/sites/3/4b53d313-b3d5-48a2-b812-ffe468e67652.jpg",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6164158112c856bb9d5258c4718bd2ca",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "title_fa": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "title_en": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]",
+      "summary_fa": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]",
+      "summary_en": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are […]",
+      "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "source": "The Verge",
+      "published_at": "2026-11-24T18:25:46-05:00",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "20fccf2b1cd82cd40afddf031d3f204e",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "title_fa": "Huawei found guilty of stealing trade secrets",
+      "title_en": "Huawei found guilty of stealing trade secrets",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]",
+      "summary_fa": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]",
+      "summary_en": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and […]",
+      "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "source": "The Verge",
+      "published_at": "2026-11-24T17:23:27-05:00",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "419b6c4bdb2c2b929a9005110c39b808",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "title_fa": "GTA VI PC recompilation project shut down by Take-Two",
+      "title_en": "GTA VI PC recompilation project shut down by Take-Two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]",
+      "summary_fa": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]",
+      "summary_en": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]",
+      "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "source": "The Verge",
+      "published_at": "2026-11-24T16:39:14-05:00",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
+      "geo": {
+        "lat": 20.0,
+        "lng": 0.0,
+        "name": "بین‌المللی"
+      }
+    },
+    {
+      "id": "6c4780549d6ad54d02e2b41082cb292e",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "title_fa": "The Verge’s 2026 holiday gift guide for moms",
+      "title_en": "The Verge’s 2026 holiday gift guide for moms",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+      "summary_fa": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+      "summary_en": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+      "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "source": "The Verge",
+      "published_at": "2026-11-24T16:09:59-05:00",
+      "date_iso": "2026-11-25",
+      "category": "فناوری و AI",
+      "region": "بین‌المللی",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80",
       "geo": {
         "lat": 20.0,
         "lng": 0.0,
